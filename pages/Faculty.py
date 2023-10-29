@@ -4,8 +4,10 @@ import pandas as pd
 import altair as alt
 # import matplotlib.pyplot as plt
 
-overall_df = pd.read_csv('streamlit_dashboard/data/overall_info_df.csv', index_col=0)
-general_df = pd.read_csv('streamlit_dashboard/data/general.csv', index_col=0, dtype={"Citations": 'Int64'})
+home_folder = './'
+
+overall_df = pd.read_csv(home_folder+'data/overall_info_df.csv', index_col=0)
+general_df = pd.read_csv(home_folder+'data/general.csv', index_col=0, dtype={"Citations": 'Int64'})
 order_list = ['A*', 'A',  'B', 'C', '--']
 general_df["Overall Rank"] = pd.Categorical(general_df["Overall Rank"], categories=order_list, ordered=True)
 
@@ -62,16 +64,16 @@ c2 = st.container()
 # overall wordcloud
 c3 = st.container()
 c3.header("Wordcloud of keywords in research")
-c3.image("streamlit_dashboard/data/overall_wordcloud.png", width=900)
+c3.image(home_folder+"data/overall_wordcloud.png", width=900)
 
 # graph network of coatuhors (label SCSE vs non-SCSE profs)
 # with katz centrality, and louvain community detection
 # wordcloud for each community?
-katz_series = pd.read_csv("streamlit_dashboard/data/katz_series.csv", index_col=0, header=0)
+katz_series = pd.read_csv(home_folder+"data/katz_series.csv", index_col=0, header=0)
 c4 = st.container()
 c4.header("Graph analysis of SCSE Professors")
 col41, col42 = c4.columns([0.7,0.3])
-HtmlFile = open("streamlit_dashboard/data/overall_graph.html", 'r', encoding='utf-8')
+HtmlFile = open(home_folder+"data/overall_graph.html", 'r', encoding='utf-8')
 source_code = HtmlFile.read() 
 with col41:
     components.html(source_code, height=800,width=800)

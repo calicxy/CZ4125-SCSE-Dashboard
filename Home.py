@@ -9,9 +9,10 @@ import pandas as pd
 import ast
 from functions import *
 
-df = pd.read_csv('streamlit_dashboard/data/general.csv', index_col=0)
-df = df.sort_values("Name")
+home_folder = './'
 
+df = pd.read_csv(home_folder+'data/general.csv', index_col=0)
+df = df.sort_values("Name")
 
 # App title and logo
 st.set_page_config(page_title="Dashboard of SCSE Faculty",layout="wide")
@@ -61,7 +62,7 @@ else:
     # read the professor's csv or json file
     # table includes: paper name, year, journal / conference
     csv_name = selected_prof.strip().replace(" ", "_")+".csv"
-    prof_df = pd.read_csv("streamlit_dashboard/data/papers/"+csv_name,  index_col=0)
+    prof_df = pd.read_csv(home_folder+"data/papers/"+csv_name,  index_col=0)
     # prof_df["Year"] = prof_df["Year"].map(str)
     # st.dataframe(prof_df,use_container_width=True)
     gb = GridOptionsBuilder.from_dataframe(prof_df)
@@ -131,10 +132,10 @@ else:
     c2 = st.container()
     c2.header("Analysis of keyword topics in the research")
     png_name = selected_prof.strip().replace(" ", "_")+".png"
-    c2.image("streamlit_dashboard/data/wordclouds/"+png_name, width=600)
+    c2.image(home_folder+"data/wordclouds/"+png_name, width=600)
 
     # temporal analysis of changing interests
-    topwords_table = pd.read_csv("streamlit_dashboard/data/keywords/"+csv_name,  index_col=0)
+    topwords_table = pd.read_csv(home_folder+"data/keywords/"+csv_name,  index_col=0)
     c2.subheader("Top 3 Most Frequent Keywords each year")
     c2.dataframe(topwords_table)
 
@@ -144,7 +145,7 @@ else:
     col31, col32 = c3.columns([0.9, 0.1])
     with col31:
         html_name = selected_prof.strip().replace(" ", "_")+".html"
-        HtmlFile = open("streamlit_dashboard/data/graphs/"+html_name, 'r', encoding='utf-8')
+        HtmlFile = open(home_folder+"data/graphs/"+html_name, 'r', encoding='utf-8')
         source_code = HtmlFile.read() 
         components.html(source_code, height = 900,width=900)
     ## legend for the button
