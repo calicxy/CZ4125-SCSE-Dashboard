@@ -1,0 +1,4 @@
+,Overall,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002,2001,2000,1999,1998,1995,1994,1992
+0,surfaces,,object-compositional neural implicit surfaces,half-body portrait relighting,caricature expressions,design,alive caricature,,,,cosegmentation,,,,,,,,,,linear perturbation methods,,,,,,,,,
+1,multi-view images,,extrudenet,overcomplete lighting representation,3d blendshape,region deformer networks,2d,,,,,,,,,,,,,,topologically consistent representations,,,,,,,,,
+2,t-splines,,unsupervised,csg-stump,dynamic texture,unsupervised depth estimation,,,,,,,,,,,,,,,free-form surface intersections,,,,,,,,,

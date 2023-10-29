@@ -1,0 +1,201 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,3D Class A Bézier curves with monotone curvature.,2023,"Aizeng Wang, Chuan He, Jianmin Zheng, Gang Zhao",Comput. Aided Des. 159: 103501 ,CAD,Unranked
+1,Self-Parameterization Based Multi-Resolution Mesh Convolution Networks.,2023,"Hezi Shi, Luo Jiang, Jianmin Zheng, Jun Zeng",Comput. Aided Des. 162: 103550 ,CAD,Unranked
+2,Guest Editorial: Proceedings of SPM 2023 Symposium.,2023,"Lucia Romani, Jianmin Zheng, Morad Behandish",Comput. Aided Des. 164: 103596 ,CAD,Unranked
+3,Generative Multiform Bayesian Optimization.,2023,"Zhendong Guo, Haitao Liu, Yew-Soon Ong, Xinghua Qu, Yuzhe Zhang, Jianmin Zheng",IEEE Trans. Cybern. 53: 4347-4360 ,TCYB,Unranked
+4,ESO-Based Model-Free Adaptive Iterative Learning Energy-Efficient Control for Subway Train With Disturbances and Over-Speed Protection.,2023,"Jianmin Zheng, Zhongsheng Hou",IEEE Trans. Intell. Transp. Syst. 24: 8136-8148 ,TITS,Unranked
+5,Multi-objective Anti-swing Trajectory Planning of Double-pendulum Tower Crane Operations using Opposition-based Evolutionary Algorithm.,2023,"Souravik Dutta, Yiyu Cai, Jianmin Zheng",CoRR abs/2305.18745 ,CORR,Unranked
+6,ObjectSDF++: Improved Object-Compositional Neural Implicit Surfaces.,2023,"Qianyi Wu, Kaisiyuan Wang, Kejie Li, Jianmin Zheng, Jianfei Cai",CoRR abs/2308.07868 ,CORR,Unranked
+7,Seamless simplification of multi-chart textured meshes with adaptively updated correspondence.,2022,"Wenjing Zhang, Jianmin Zheng, Yiyu Cai, Anders Ynnerman",Comput. Graph. 106: 77-87 ,CG,Unranked
+8,Constructing self-supporting surfaces with planar quadrilateral elements.,2022,"Long Ma, Sidan Yao, Jianmin Zheng, Yang Liu, Yuanfeng Zhou, Shi-Qing Xin, Ying He",Comput. Vis. Media 8: 571-583 ,CVM,Unranked
+9,Engagement estimation of the elderly from wild multiparty human-robot interaction.,2022,"Zhijie Zhang, Jianmin Zheng, Nadia Magnenat-Thalmann",Comput. Animat. Virtual Worlds 33 ,JVCA,Unranked
+10,GeoConv: Geodesic guided convolution for facial action unit recognition.,2022,"Yuedong Chen, Guoxian Song, Zhiwen Shao, Jianfei Cai, Tat-Jen Cham, Jianmin Zheng",Pattern Recognit. 122: 108355 ,PR,Unranked
+11,Facial Expression Retargeting From Human to Avatar Made Easy.,2022,"Juyong Zhang, Keyu Chen, Jianmin Zheng",IEEE Trans. Vis. Comput. Graph. 28: 1274-1287 ,TVCG,Unranked
+12,Truncated octree and its applications.,2022,"Naimin Koh, Pradeep Kumar Jayaraman, Jianmin Zheng",Vis. Comput. 38: 1167-1179 ,VC,Unranked
+13,Generative design of decorative architectural parts.,2022,"Yuzhe Zhang, Wayne Ong Chan Chi, Jianmin Zheng, Seng Tjhen Lie, Zhendong Guo",Vis. Comput. 38: 1209-1225 ,VC,Unranked
+14,BEACon: a boundary embedded attentional convolution network for point cloud instance segmentation.,2022,"Tianrui Liu, Yiyu Cai, Jianmin Zheng, Nadia Magnenat-Thalmann",Vis. Comput. 38: 2303-2313 ,VC,Unranked
+15,Data-Driven Model Free Adaptive Iterative Learning Compensation Control for MIMO Nonlinear System with Sensor Faults.,2022,"Jianmin Zheng, Zhongsheng Hou",ASCC 2022: 2169-2174,ASCC,Unranked
+16,Real and Apparent Personality Prediction in Human-Human Interaction.,2022,"Zhijie Zhang, Jianmin Zheng, Nadia Magnenat-Thalmann",CW 2022: 187-194,CW,C
+17,Object-Compositional Neural Implicit Surfaces.,2022,"Qianyi Wu, Xian Liu, Yuedong Chen, Kejie Li, Chuanxia Zheng, Jianfei Cai, Jianmin Zheng",ECCV  2022: 197-213,ECCV,A*
+18,ExtrudeNet: Unsupervised Inverse Sketch-and-Extrude for Shape Parsing.,2022,"Daxuan Ren, Jianmin Zheng, Jianfei Cai, Jiatong Li, Junzhe Zhang",ECCV  2022: 482-498,ECCV,A*
+19,Real-time Shadow-aware Portrait Relighting in Virtual Backgrounds for Realistic Telepresence.,2022,"Guoxian Song, Tat-Jen Cham, Jianfei Cai, Jianmin Zheng",ISMAR 2022: 729-738,ISMAR,A*
+20,"IEEE International Symposium on Mixed and Augmented Reality, ISMAR 2022, Singapore, October 17-21, 2022.",2022,"Henry B. L. Duh, Ian Williams, Jens Grubert, J. Adam Jones, Jianmin Zheng","IEEE 2022, ISBN 978-1-6654-5325-7 ",ISMAR,A*
+21,Object-Compositional Neural Implicit Surfaces.,2022,"Qianyi Wu, Xian Liu, Yuedong Chen, Kejie Li, Chuanxia Zheng, Jianfei Cai, Jianmin Zheng",CoRR abs/2207.09686 ,CORR,Unranked
+22,ExtrudeNet: Unsupervised Inverse Sketch-and-Extrude for Shape Parsing.,2022,"Daxuan Ren, Jianmin Zheng, Jianfei Cai, Jiatong Li, Junzhe Zhang",CoRR abs/2209.15632 ,CORR,Unranked
+23,Half-body Portrait Relighting with Overcomplete Lighting Representation.,2021,"Guoxian Song, Tat-Jen Cham, Jianfei Cai, Jianmin Zheng",Comput. Graph. Forum 40: 371-381 ,CGF,Unranked
+24,Towards Complex and Continuous Manipulation: A Gesture Based Anthropomorphic Robotic Hand Design.,2021,"Li Tian, Hanhui Li, Qifa Wang, Xuezeng Du, Jialin Tao, Jordan Sia Chong, Nadia Magnenat-Thalmann, Jianmin Zheng",IEEE Robotics Autom. Lett. 6: 5461-5468 ,RAL,Unranked
+25,Server Allocation for Massively Multiplayer Online Cloud Games Using Evolutionary Optimization.,2021,"Meiqi Zhao, Jianmin Zheng, Elvis S. Liu",ACM Trans. Multim. Comput. Commun. Appl. 17: 51:1-51:23 ,TOMCCAP,Unranked
+26,Neighborhood-based Neural Implicit Reconstruction from Point Clouds.,2021,"Haiyong Jiang, Jianfei Cai, Jianmin Zheng, Jun Xiao",3DV 2021: 1259-1268,3DIM,Unranked
+27,CSG-Stump: A Learning Friendly CSG-Like Representation for Interpretable Shape Parsing.,2021,"Daxuan Ren, Jianmin Zheng, Jianfei Cai, Jiatong Li, Haiyong Jiang, Zhongang Cai, Junzhe Zhang, Liang Pan, Mingyuan Zhang, Haiyu Zhao, Shuai Yi",ICCV 2021: 12458-12467,ICCV,A*
+28,Engagement Intention Estimation in Multiparty Human-Robot Interaction.,2021,"Zhijie Zhang, Jianmin Zheng, Nadia Magnenat-Thalmann",RO-MAN 2021: 117-122,RO-MAN,Unranked
+29,Half-body Portrait Relighting with Overcomplete Lighting Representation.,2021,"Guoxian Song, Tat-Jen Cham, Jianfei Cai, Jianmin Zheng",CoRR abs/2106.13425 ,CORR,Unranked
+30,CSG-Stump: A Learning Friendly CSG-Like Representation for Interpretable Shape Parsing.,2021,"Daxuan Ren, Jianmin Zheng, Jianfei Cai, Jiatong Li, Haiyong Jiang, Zhongang Cai, Junzhe Zhang, Liang Pan, Mingyuan Zhang, Haiyu Zhao, Shuai Yi",CoRR abs/2108.11305 ,CORR,Unranked
+31,Algebraic and geometric characterizations of a class of planar quartic curves with rational offsets.,2020,"Kai Hormann, Jianmin Zheng",Comput. Aided Geom. Des. 79: 101873 ,CAGD,Unranked
+32,Tetrahedral mesh deformation with positional constraints.,2020,"Wenjing Zhang, Yuewen Ma, Jianmin Zheng, William J. Allen",Comput. Aided Geom. Des. 81: 101909 ,CAGD,Unranked
+33,Proxy-driven free-form deformation by topology-adjustable control lattice.,2020,"Yuzhe Zhang, Jianmin Zheng, Yiyu Cai",Comput. Graph. 89: 167-177 ,CG,Unranked
+34,Recovering facial reflectance and geometry from multi-view images.,2020,"Guoxian Song, Jianmin Zheng, Jianfei Cai, Tat-Jen Cham",Image Vis. Comput. 96: 103897 ,IVC,Unranked
+35,Disentangled Human Body Embedding Based on Deep Hierarchical Neural Network.,2020,"Boyi Jiang, Juyong Zhang, Jianfei Cai, Jianmin Zheng",IEEE Trans. Vis. Comput. Graph. 26: 2560-2575 ,TVCG,Unranked
+36,End-to-End 3D Point Cloud Instance Segmentation Without Detection.,2020,"Haiyong Jiang, Feilong Yan, Jianfei Cai, Jianmin Zheng, Jun Xiao",CVPR 2020: 12793-12802,CVPR,A*
+37,Parallel Point Cloud Compression Using Truncated Octree.,2020,"Naimin Koh, Pradeep Kumar Jayaraman, Jianmin Zheng",CW 2020: 1-8,CW,C
+38,Creative Corbel Modeling Using Evolution Principle.,2020,"Yuzhe Zhang, Wayne Ong Chan Chi, Jianmin Zheng, Seng Tjhen Lie",CW 2020: 9-16,CW,C
+39,Adaptive Informative Sampling with Environment Partitioning for Heterogeneous Multi-Robot Systems.,2020,"Yunfei Shi, Ning Wang, Jianmin Zheng, Yang Zhang, Sha Yi, Wenhao Luo, Katia P. Sycara",IROS 2020: 11718-11723,IROS,A
+40,Visual Analysis of the Impact of Neural Network Hyper-Parameters.,2020,"Daniel Jönsson, Gabriel Eilertsen, Hezi Shi, Jianmin Zheng, Anders Ynnerman, Jonas Unger",MLVis@Eurographics/EuroVis 2020: 13-17,MLVIS-WS,Unranked
+41,Modeling Caricature Expressions by 3D Blendshape and Dynamic Texture.,2020,"Keyu Chen, Jianmin Zheng, Jianfei Cai, Juyong Zhang",ACM Multimedia 2020: 3228-3236,MM,Unranked
+42,Facial Expression Retargeting from Human to Avatar Made Easy.,2020,"Juyong Zhang, Keyu Chen, Jianmin Zheng",CoRR abs/2008.05110 ,CORR,Unranked
+43,Modeling Caricature Expressions by 3D Blendshape and Dynamic Texture.,2020,"Keyu Chen, Jianmin Zheng, Jianfei Cai, Juyong Zhang",CoRR abs/2008.05714 ,CORR,Unranked
+44,Fast 3D Modeling of Anthropomorphic Robotic Hands Based on A Multi-layer Deformable Design.,2020,"Li Tian, Hanhui Li, Muhammad Faaiz Khan Bin Abdul Halil, Nadia Magnenat-Thalmann, Daniel Thalmann, Jianmin Zheng",CoRR abs/2011.03742 ,CORR,Unranked
+45,Towards Complex and Continuous Manipulation: A Gesture Based Anthropomorphic Robotic Hand Design.,2020,"Li Tian, Hanhui Li, Qifa Wang, Xuezeng Du, Jialin Tao, Jordan Sia Chong, Nadia Magnenat-Thalmann, Jianmin Zheng",CoRR abs/2012.10981 ,CORR,Unranked
+46,Breaking Permutation-Based Mesh Steganography and Security Improvement.,2019,"Yimin Wang, Lingsheng Kong, Zhenxing Qian, Guorui Feng, Xinpeng Zhang, Jianmin Zheng",IEEE Access 7: 183300-183310 ,ACCESS,Unranked
+47,DE-Path: A Differential-Evolution-Based Method for Computing Energy-Minimizing Paths on Surfaces.,2019,"Zipeng Ye, Yong-Jin Liu, Jianmin Zheng, Kai Hormann, Ying He",Comput. Aided Des. 114: 73-81 ,CAD,Unranked
+48,Progressive sketching with instant previewing.,2019,"Kai Wang, Jianmin Zheng, Hock Soon Seah",Comput. Graph. 81: 9-19 ,CG,Unranked
+49,Shading-Based Surface Recovery Using Subdivision-Based Representation.,2019,"Teng Deng, Jianmin Zheng, Jianfei Cai, Tat-Jen Cham",Comput. Graph. Forum 38: 417-428 ,CGF,Unranked
+50,Unsupervised Dense Light Field Reconstruction with Occlusion Awareness.,2019,"Lixia Ni, Haiyong Jiang, Jianfei Cai, Jianmin Zheng, Haifeng Li, Xu Liu",Comput. Graph. Forum 38: 425-436 ,CGF,Unranked
+51,CNN-Based Real-Time Dense Face Reconstruction with Inverse-Rendered Photo-Realistic Face Images.,2019,"Yudong Guo, Juyong Zhang, Jianfei Cai, Boyi Jiang, Jianmin Zheng",IEEE Trans. Pattern Anal. Mach. Intell. 41: 1294-1307 ,PAMI,Unranked
+52,Object Grasping of Humanoid Robot Based on YOLO.,2019,"Li Tian, Nadia Magnenat-Thalmann, Daniel Thalmann, Zhiwen Fang, Jianmin Zheng",CGI 2019: 476-482,CGI,C
+53,Design of a Flexible Articulated Robotic Hand for a Humanoid Robot.,2019,"Li Tian, Jing Liu, Nadia Magnenat-Thalmann, Daniel Thalmann, Jianmin Zheng",Humanoids 2019: 572-577,HUMANOIDS,Unranked
+54,Skeleton-Aware 3D Human Shape Reconstruction From Point Clouds.,2019,"Haiyong Jiang, Jianfei Cai, Jianmin Zheng",ICCV 2019: 5430-5440,ICCV,A*
+55,Region Deformer Networks for Unsupervised Depth Estimation from Unconstrained Monocular Videos.,2019,"Haofei Xu, Jianmin Zheng, Jianfei Cai, Juyong Zhang",IJCAI 2019: 5685-5691,IJCAI,A*
+56,Design of a Highly Biomimetic and Fully-Actuated Robotic Finger.,2019,"Li Tian, Nadia Magnenat-Thalmann, Jianmin Zheng, Daniel Thalmann",SSCI 2019: 2382-2387,SSCI,Unranked
+57,Real-time 3D Face-Eye Performance Capture of a Person Wearing VR Headset.,2019,"Guoxian Song, Jianfei Cai, Tat-Jen Cham, Jianmin Zheng, Juyong Zhang, Henry Fuchs",CoRR abs/1901.06765 ,CORR,Unranked
+58,Region Deformer Networks for Unsupervised Depth Estimation from Unconstrained Monocular Videos.,2019,"Haofei Xu, Jianmin Zheng, Jianfei Cai, Juyong Zhang",CoRR abs/1902.09907 ,CORR,Unranked
+59,Learning 3D Human Body Embedding.,2019,"Boyi Jiang, Juyong Zhang, Jianfei Cai, Jianmin Zheng",CoRR abs/1905.05622 ,CORR,Unranked
+60,Recovering Facial Reflectance and Geometry from Multi-view Images.,2019,"Guoxian Song, Jianmin Zheng, Jianfei Cai, Tat-Jen Cham",CoRR abs/1911.11999 ,CORR,Unranked
+61,An image processing approach to feature-preserving B-spline surface fairing.,2018,"Taro Kawasaki, Pradeep Kumar Jayaraman, Kentaro Shida, Jianmin Zheng, Takashi Maekawa",Comput. Aided Des. 99: 1-10 ,CAD,Unranked
+62,Embedding QR codes onto B-spline surfaces for 3D printing.,2018,"Ryosuke Kikuchi, Sora Yoshikawa, Pradeep Kumar Jayaraman, Jianmin Zheng, Takashi Maekawa",Comput. Aided Des. 102: 215-223 ,CAD,Unranked
+63,An algorithm for finding intersection between ball B-spline curves.,2018,"Qian Fu, Zhongke Wu, Xingce Wang, Mingquan Zhou, Jianmin Zheng",J. Comput. Appl. Math. 327: 260-273 ,JCAM,Unranked
+64,Modeling deviations of rgb-d cameras for accurate depth map and color image registration.,2018,"Xibin Song, Jianmin Zheng, Fan Zhong, Xueying Qin",Multim. Tools Appl. 77: 14951-14977 ,MTA,Unranked
+65,Shading-Based Surface Detail Recovery Under General Unknown Illumination.,2018,"Di Xu, Qi Duan, Jianmin Zheng, Juyong Zhang, Jianfei Cai, Tat-Jen Cham",IEEE Trans. Pattern Anal. Mach. Intell. 40: 423-436 ,PAMI,Unranked
+66,Madam Snake White: A Case Study on Virtual Reality Continuum Applications for Singaporean Culture and Heritage at Haw Par Villa.,2018,"Yiyu Cai, Jianmin Zheng, Yuzhe Zhang, Xiaoqun Wu, Yong Chen, Bingquan Tan, Bianyue Yang, Tianrui Liu, Nadia Magnenat-Thalmann",Presence Teleoperators Virtual Environ. 26 ,PRESENCE,Unranked
+67,Automatic Path Planning for Dual-Crane Lifting in Complex Environments Using a Prioritized Multiobjective PGA.,2018,"Panpan Cai, Chandrasekaran Indhumathi, Jianmin Zheng, Yiyu Cai",IEEE Trans. Ind. Informatics 14: 829-845 ,TII,Unranked
+68,Globally Consistent Wrinkle-Aware Shading of Line Drawings.,2018,"Pradeep Kumar Jayaraman, Chi-Wing Fu, Jianmin Zheng, Xueting Liu, Tien-Tsin Wong",IEEE Trans. Vis. Comput. Graph. 24: 2103-2117 ,TVCG,Unranked
+69,MCAEM: mixed-correlation analysis-based episodic memory for companion-user interactions.,2018,"Juzheng Zhang, Jianmin Zheng, Nadia Magnenat-Thalmann",Vis. Comput. 34: 1129-1141 ,VC,Unranked
+70,Pipeline Leak Detection Swimming Robot Design and Deployment.,2018,"Jianmin Zheng, Sijia Wang, Azzam Hazim, Stevan Dubljevic",ACC 2018: 1166-1171,AMCC,Unranked
+71,A Methodology to Model and Simulate Customized Realistic Anthropomorphic Robotic Hands.,2018,"Li Tian, Nadia Magnenat-Thalmann, Daniel Thalmann, Jianmin Zheng",CGI 2018: 153-162,CGI,C
+72,GPU-based Multiple-Choice Scheme for Mesh Simplification.,2018,"Naimin Koh, Wenjing Zhang, Jianmin Zheng, Yiyu Cai",CGI 2018: 195-200,CGI,C
+73,Point Cloud Based Path Planning for Tower Crane Lifting.,2018,"Lihui Huang, Yuzhe Zhang, Jianmin Zheng, Panpan Cai, Souravik Dutta, Yufeng Yue, Nadia Magnenat-Thalmann, Yiyu Cai",CGI 2018: 211-215,CGI,C
+74,Alive Caricature From 2D to 3D.,2018,"Qianyi Wu, Juyong Zhang, Yu-Kun Lai, Jianmin Zheng, Jianfei Cai",CVPR 2018: 7336-7345,CVPR,A*
+75,Enhancing Sketching and Sculpting for Shape Modeling.,2018,"Kai Wang, Jianmin Zheng, Hock Soon Seah",CW 2018: 66-73,CW,C
+76,Quadtree Convolutional Neural Networks.,2018,"Pradeep Kumar Jayaraman, Jianhan Mei, Jianfei Cai, Jianmin Zheng",ECCV  2018: 554-569,ECCV,A*
+77,Prediction of Negative Symptoms of Schizophrenia from Emotion Related Low-Level Speech Signals.,2018,"Debsubhra Chakraborty, Zixu Yang, Yasir Tahir, Tomasz Maszczyk, Justin Dauwels, Nadia Magnenat-Thalmann, Jianmin Zheng, Yogeswary Maniam, Nur Amirah, Bhing-Leet Tan, Jimmy Lee",ICASSP 2018: 6024-6028,ICASSP,Unranked
+78,Real-time 3D Face-Eye Performance Capture of a Person Wearing VR Headset.,2018,"Guoxian Song, Jianfei Cai, Tat-Jen Cham, Jianmin Zheng, Juyong Zhang, Henry Fuchs",ACM Multimedia 2018: 923-931,MM,Unranked
+79,SubdSH: Subdivision-based Spherical Harmonics Field for Real-time Shading-based Refinement under Challenging Unknown Illumination.,2018,"Teng Deng, Jianmin Zheng, Jianfei Cai, Tat-Jen Cham",VCIP 2018: 1-4,VCIP,C
+80,Alive Caricature from 2D to 3D.,2018,"Qianyi Wu, Juyong Zhang, Yu-Kun Lai, Jianmin Zheng, Jianfei Cai",CoRR abs/1803.06802 ,CORR,Unranked
+81,Self-supervised CNN for Unconstrained 3D Facial Performance Capture from an RGB-D Camera.,2018,"Yudong Guo, Juyong Zhang, Lin Cai, Jianfei Cai, Jianmin Zheng",CoRR abs/1808.05323 ,CORR,Unranked
+82,Variational reconstruction using subdivision surfaces with continuous sharpness control.,2017,"Xiaoqun Wu, Jianmin Zheng, Yiyu Cai, Haisheng Li",Comput. Vis. Media 3: 217-228 ,CVM,Unranked
+83,"The Making of a 3D-Printed, Cable-Driven, Single-Model, Lightweight Humanoid Robotic Hand.",2017,"Li Tian, Nadia Magnenat-Thalmann, Daniel Thalmann, Jianmin Zheng",Frontiers Robotics AI 4: 65 ,FIRAI,Unranked
+84,Multiple consumer-grade depth camera registration using everyday objects.,2017,"Teng Deng, Jianfei Cai, Tat-Jen Cham, Jianmin Zheng",Image Vis. Comput. 62: 1-7 ,IVC,Unranked
+85,Accurate and Efficient Approximation of Clothoids Using Bézier Curves for Path Planning.,2017,"Yong Chen, Yiyu Cai, Jianmin Zheng, Daniel Thalmann",IEEE Trans. Robotics 33: 1242-1247 ,TROB,Unranked
+86,Photo-realistic Face Images Synthesis for Learning-based Fine-scale 3D Face Reconstruction.,2017,"Yudong Guo, Juyong Zhang, Jianfei Cai, Boyi Jiang, Jianmin Zheng",CoRR abs/1708.00980 ,CORR,Unranked
+87,Geometric characteristics of a class of cubic curves with rational offsets.,2016,"Xing-Jiang Lu, Jianmin Zheng, Yiyu Cai, Gang Zhao",Comput. Aided Des. 70: 36-45 ,CAD,Unranked
+88,Reconsideration of T-spline data models and their exchanges using STEP.,2016,"Wenlei Xiao, Yazui Liu, Rui Li, Wei Wang, Jianmin Zheng, Gang Zhao",Comput. Aided Des. 79: 36-47 ,CAD,Unranked
+89,Multiple Human Identification and Cosegmentation: A Human-Oriented CRF Approach With Poselets.,2016,"Hongyuan Zhu, Jiangbo Lu, Jianfei Cai, Jianmin Zheng, Shijian Lu, Nadia Magnenat-Thalmann",IEEE Trans. Multim. 18: 1516-1530 ,TMM,Unranked
+90,Combining Memory and Emotion With Dialog on Social Companion: A Review.,2016,"Juzheng Zhang, Nadia Magnenat-Thalmann, Jianmin Zheng",CASA 2016: 1-9,CA,Unranked
+91,Photometric stereo using mesh face based optimization.,2016,"Di Xu, Jianfei Cai, Jianmin Zheng, Juyong Zhang",VCIP 2016: 1-4,VCIP,C
+92,"Modeling Personality, Mood, and Emotions.",2016,"Juzheng Zhang, Jianmin Zheng, Nadia Magnenat-Thalmann",Context Aware Human-Robot and Human-Agent Interaction 2016: 211-236,HCI,National
+93,Birational quadrilateral maps.,2015,"Thomas W. Sederberg, Jianmin Zheng",Comput. Aided Geom. Des. 32: 1-4 ,CAGD,Unranked
+94,Real-Time Subspace Integration for Example-Based Elastic Material.,2015,"Wenjing Zhang, Jianmin Zheng, Nadia Magnenat-Thalmann",Comput. Graph. Forum 34: 395-404 ,CGF,Unranked
+95,Mesh Denoising using Extended ROF Model with L1 Fidelity.,2015,"Xiaoqun Wu, Jianmin Zheng, Yiyu Cai, Chi-Wing Fu",Comput. Graph. Forum 34: 35-45 ,CGF,Unranked
+96,Surface skinning using periodic T-spline in semi-NURBS form.,2015,"Yusha Li, Wenyu Chen, Yiyu Cai, Ahmad H. Nasri, Jianmin Zheng",J. Comput. Appl. Math. 273: 116-131 ,JCAM,Unranked
+97,PCMD: personality-characterized mood dynamics model toward personalized virtual characters.,2015,"Juzheng Zhang, Jianmin Zheng, Nadia Magnenat-Thalmann",Comput. Animat. Virtual Worlds 26: 237-245 ,JVCA,Unranked
+98,"Kinect Depth Recovery Using a Color-Guided, Region-Adaptive, and Depth-Selective Framework.",2015,"Chongyu Chen, Jianfei Cai, Jianmin Zheng, Tat-Jen Cham, Guangming Shi",ACM Trans. Intell. Syst. Technol. 6: 12:1-12:19 ,TIST,Unranked
+99,Foldover-Free Mesh Warping for Constrained Texture Mapping.,2015,"Yuewen Ma, Jianmin Zheng, Jian Xie",IEEE Trans. Vis. Comput. Graph. 21: 375-388 ,TVCG,Unranked
+100,Compressive environment matting.,2015,"Qi Duan, Jianfei Cai, Jianmin Zheng",Vis. Comput. 31: 1587-1600 ,VC,Unranked
+101,Example-guided anthropometric human body modeling.,2015,"Yuzhe Zhang, Jianmin Zheng, Nadia Magnenat-Thalmann",Vis. Comput. 31: 1615-1631 ,VC,Unranked
+102,Kinect-based non-intrusive human gait analysis and visualization.,2015,"Nguyen-Luc Dao, Yuzhe Zhang, Jianmin Zheng, Jianfei Cai",MMSP 2015: 1-6,MMSP,C
+103,A computational approach to joint line detection on triangular meshes.,2014,"Xunnian Yang, Jianmin Zheng, Desheng Wang",Eng. Comput. 30: 583-597 ,EWC,Unranked
+104,Representing Images Using Curvilinear Feature Driven Subdivision Surfaces.,2014,"Hailing Zhou, Jianmin Zheng, Lei Wei",IEEE Trans. Image Process. 23: 3268-3280 ,TIP,Unranked
+105,Robust surface reconstruction via dictionary learning.,2014,"Shiyao Xiong, Juyong Zhang, Jianmin Zheng, Jianfei Cai, Ligang Liu",ACM Trans. Graph. 33: 201:1-201:12 ,TOG,Unranked
+106,Poselet-based multiple human identification and cosegmentation.,2014,"Hongyuan Zhu, Jiangbo Lu, Jianfei Cai, Jianmin Zheng, Nadia Magnenat-Thalmann",ICIP 2014: 1076-1080,ICIP,B
+107,Multiple foreground recognition and cosegmentation: An object-oriented CRF model with robust higher-order potentials.,2014,"Hongyuan Zhu, Jiangbo Lu, Jianfei Cai, Jianmin Zheng, Nadia Magnenat-Thalmann",WACV 2014: 485-492,WACV,A
+108,Blind watermarking of NURBS curves and surfaces.,2013,"Jianjiang Pan, Jianmin Zheng, Gang Zhao",Comput. Aided Des. 45: 144-153 ,CAD,Unranked
+109,Curvature-guided adaptive TT-spline surface fitting.,2013,"Yimin Wang, Jianmin Zheng",Comput. Aided Des. 45: 1095-1107 ,CAD,Unranked
+110,Curvature tensor computation by piecewise surface interpolation.,2013,"Xunnian Yang, Jianmin Zheng",Comput. Aided Des. 45: 1639-1650 ,CAD,Unranked
+111,A VR Simulator for Intracardiac Intervention.,2013,"Patricia Chiang, Jianmin Zheng, You Yu, Koon Hou Mak, Chee-Kong Chui, Yiyu Cai",IEEE Computer Graphics and Applications 33: 44-57 ,CGA,Unranked
+112,Interproximate curve subdivision.,2013,"Xin Li, Jianmin Zheng",J. Comput. Appl. Math. 244: 36-48 ,JCAM,Unranked
+113,Interactive object segmentation from multi-view images.,2013,"Thi Nhat Anh Nguyen, Jianfei Cai, Jianmin Zheng, Jianguo Li",J. Vis. Commun. Image Represent. 24: 477-485 ,JVCIR,Unranked
+114,Texture aware image segmentation using graph cuts and active contours.,2013,"Hailing Zhou, Jianmin Zheng, Lei Wei",Pattern Recognit. 46: 1719-1733 ,PR,Unranked
+115,Variational structure-texture image decomposition on manifolds.,2013,"Xiaoqun Wu, Jianmin Zheng, Chunlin Wu, Yiyu Cai",Signal Process. 93: 1773-1784 ,SIGPRO,Unranked
+116,Object-Level Image Segmentation Using Low Level Cues.,2013,"Hongyuan Zhu, Jianmin Zheng, Jianfei Cai, Nadia Magnenat-Thalmann",IEEE Trans. Image Process. 22: 4019-4027 ,TIP,Unranked
+117,Reciprocal frame structures made easy.,2013,"Peng Song, Chi-Wing Fu, Prashant Goswami, Jianmin Zheng, Niloy J. Mitra, Daniel Cohen-Or",ACM Trans. Graph. 32: 94:1-94:13 ,TOG,Unranked
+118,Shape aware normal interpolation for curved surface shading from polyhedral approximation.,2013,"Xunnian Yang, Jianmin Zheng",Vis. Comput. 29: 189-201 ,VC,Unranked
+119,TV-L1 Optimization for B-Spline Surface Reconstruction with Sharp Features.,2013,"Xiaoqun Wu, Yiyu Cai, Jianmin Zheng",CAD/Graphics 2013: 44-51,CADGRAPHICS,Unranked
+120,Inversion Free and Topology Compatible Tetrahedral Mesh Warping Driven by Boundary Surface Deformation.,2013,"Wenjing Zhang, Yuewen Ma, Jianmin Zheng",CAD/Graphics 2013: 228-235,CADGRAPHICS,Unranked
+121,A benchmark for semantic image segmentation.,2013,"Hui Li, Jianfei Cai, Thi Nhat Anh Nguyen, Jianmin Zheng",ICME 2013: 1-6,ICMCS,Unranked
+122,Salient object cutout using Google images.,2013,"Hongyuan Zhu, Jianfei Cai, Jianmin Zheng, Jianxin Wu, Nadia Magnenat-Thalmann",ISCAS 2013: 905-908,ISCAS,Unranked
+123,"A color-guided, region-adaptive and depth-selective unified framework for Kinect depth recovery.",2013,"Chongyu Chen, Jianfei Cai, Jianmin Zheng, Tat-Jen Cham, Guangming Shi",MMSP 2013: 7-12,MMSP,C
+124,Progressive surface reconstruction for heart mapping procedure.,2012,"Patricia Chiang, Jianmin Zheng, Koon Hou Mak, Nadia Magnenat-Thalmann, Yiyu Cai",Comput. Aided Des. 44: 289-299 ,CAD,Unranked
+125,Approximate R3-spline surface skinning.,2012,"Xunnian Yang, Jianmin Zheng",Comput. Aided Des. 44: 1269-1276 ,CAD,Unranked
+126,On linear independence of T-spline blending functions.,2012,"Xin Li, Jianmin Zheng, Thomas W. Sederberg, Thomas J. R. Hughes, Michael A. Scott",Comput. Aided Geom. Des. 29: 63-76 ,CAGD,Unranked
+127,An alternative method for constructing interpolatory subdivision from approximating subdivision.,2012,"Xin Li, Jianmin Zheng",Comput. Aided Geom. Des. 29: 474-484 ,CAGD,Unranked
+128,Euler arc splines for curve completion.,2012,"Hailing Zhou, Jianmin Zheng, Xunnian Yang",Comput. Graph. 36: 642-650 ,CG,Unranked
+129,Effective T-spline representation for VRML.,2012,"Wenyu Chen, Yusha Li, Jianjiang Pan, Jianmin Zheng, Yiyu Cai",Int. J. Virtual Real. 11: 15-24 ,IJVR,Unranked
+130,Robust Interactive Image Segmentation Using Convex Active Contours.,2012,"Thi Nhat Anh Nguyen, Jianfei Cai, Juyong Zhang, Jianmin Zheng",IEEE Trans. Image Process. 21: 3734-3743 ,TIP,Unranked
+131,Variational mesh decomposition.,2012,"Juyong Zhang, Jianmin Zheng, Chunlin Wu, Jianfei Cai",ACM Trans. Graph. 31: 21:1-21:14 ,TOG,Unranked
+132,Local T-spline surface skinning.,2012,"Ahmad H. Nasri, Khaled Sinno, Jianmin Zheng",Vis. Comput. 28: 787-797 ,VC,Unranked
+133,OVIE: Object Oriented and Vector based Image Editing.,2012,"Hailing Zhou, Jianmin Zheng, Lei Wei",ICME Workshops 2012: 199-204,ICMCS,Unranked
+134,Constrained active contours for boundary refinement in interactive image segmentation.,2012,"Thi Nhat Anh Nguyen, Jianfei Cai, Juyong Zhang, Jianmin Zheng",ISCAS 2012: 870-873,ISCAS,Unranked
+135,A geometric approach to the modeling of the catheter-heart interaction for VR simulation of intra-cardiac intervention.,2011,"Patricia Chiang, Yiyu Cai, Koon Hou Mak, Ei Mon Soe, Chee-Kong Chui, Jianmin Zheng",Comput. Graph. 35: 1013-1022 ,CG,Unranked
+136,Flexible and Accurate Transparent-Object Matting and Compositing Using Refractive Vector Field.,2011,"Qi Duan, Jianmin Zheng, Jianfei Cai",Comput. Graph. Forum 30: 1812-1824 ,CGF,Unranked
+137,Triangular Bézier sub-surfaces on a triangular Bézier surface.,2011,"Wenyu Chen, Rongdong Yu, Jianmin Zheng, Yiyu Cai, Chikit Au",J. Comput. Appl. Math. 235: 5001-5016 ,JCAM,Unranked
+138,Interactive Mesh Cutting Using Constrained Random Walks.,2011,"Juyong Zhang, Jianmin Zheng, Jianfei Cai",IEEE Trans. Vis. Comput. Graph. 17: 357-367 ,TVCG,Unranked
+139,Fast environment matting extraction using compressive sensing.,2011,"Qi Duan, Jianfei Cai, Jianmin Zheng, Weisi Lin",ICME 2011: 1-6,ICMCS,Unranked
+140,T-splines in VRML.,2011,"Wenyu Chen, Yusha Li, Jianmin Zheng, Jianjiang Pan, Yiyu Cai",VRCAI 2011: 257-264,VRCAI,Unranked
+141,Kernel modeling for molecular surfaces using a uniform solution.,2010,"Wenyu Chen, Jianmin Zheng, Yiyu Cai",Comput. Aided Des. 42: 267-278 ,CAD,Unranked
+142,Mesh Snapping: Robust Interactive Mesh Cutting Using Fast Geodesic Curvature Flow.,2010,"Juyong Zhang, Chunlin Wu, Jianfei Cai, Jianmin Zheng, Xue-Cheng Tai",Comput. Graph. Forum 29: 517-526 ,CGF,Unranked
+143,GPU Accelerated Simulation of Cardiac Activities.,2010,"Rongdong Yu, Yin Zhang, Sanyuan Zhang, Patricia Chiang, Yiyu Cai, Jianmin Zheng, Koon Hou Mak",J. Comput. 5: 1700-1705 ,JCP,Unranked
+144,Tubular triangular mesh parameterization and applications.,2010,"Yimin Wang, Jianmin Zheng",Comput. Animat. Virtual Worlds 21: 91-102 ,JVCA,Unranked
+145,Progressive Coding and Illumination and View Dependent Transmission of 3-D Meshes Using R-D Optimization.,2010,"Wei Guan, Jianfei Cai, Juyong Zhang, Jianmin Zheng",IEEE Trans. Circuits Syst. Video Technol. 20: 575-586 ,TCSV,Unranked
+146,User-Friendly Interactive Image Segmentation Through Unified Combinatorial User Inputs.,2010,"Wenxian Yang, Jianfei Cai, Jianmin Zheng, Jiebo Luo",IEEE Trans. Image Process. 19: 2470-2479 ,TIP,Unranked
+147,Monge mapping using hierarchical NURBS.,2010,"Wenyu Chen, Jianmin Zheng, Yiyu Cai",Vis. Comput. 26: 779-789 ,VC,Unranked
+148,An additional branch free algebraic B-spline curve fitting method.,2010,"Mingxiao Hu, Jieqing Feng, Jianmin Zheng",Vis. Comput. 26: 801-811 ,VC,Unranked
+149,Periodic T-Splines and Tubular Surface Fitting.,2010,"Jianmin Zheng, Yimin Wang",Curves and Surfaces 2010: 731-746,CAS,Unranked
+150,A diffusion approach to seeded image segmentation.,2010,"Juyong Zhang, Jianmin Zheng, Jianfei Cai",CVPR 2010: 2125-2132,CVPR,A*
+151,Reference Plane Assisted Sketching Interface for 3D Freeform Shape Design.,2010,"Kai Wang, Jianmin Zheng, Hock Soon Seah",CW 2010: 105-112,CW,C
+152,Adaptive patch size determination for patch-based image completion.,2010,"Hailing Zhou, Jianmin Zheng",ICIP 2010: 421-424,ICIP,B
+153,Solving the out-of-gamut problem in image composition.,2010,"Wenxian Yang, Jianfei Cai, Jianmin Zheng",ICIP 2010: 3977-3980,ICIP,B
+154,Rate-Distortion Optimized Progressive 3D Reconstruction from Multi-view Images.,2010,"Viet Nam Nghiem, Jianfei Cai, Jianmin Zheng",PG  2010: 70-77,PG,Journal Published
+155,Freeform-based form feature modeling using a hierarchical & multi-resolution NURBS method.,2010,"Wenyu Chen, Yiyu Cai, Jianmin Zheng",VRCAI 2010: 179-184,VRCAI,Unranked
+156,2D motion detection bounded hand 3D trajectory tracking and gesture recognition under complex background.,2010,"Shuangqing Wu, Yin Zhang, Sanyuan Zhang, Xiuzi Ye, Yiyu Cai, Jianmin Zheng, Soumita Ghosh, Wenyu Chen, Xiaozheng Jane Zhang",VRCAI 2010: 311-318,VRCAI,Unranked
+157,Real-time 3D markerless multiple hand detection and tracking for human computer interaction applications.,2010,"Soumita Ghosh, Jianmin Zheng, Wenyu Chen, Xiaozheng Jane Zhang, Yiyu Cai",VRCAI 2010: 323-330,VRCAI,Unranked
+158,C1 NURBS representations of G1 composite rational Bézier curves.,2009,Jianmin Zheng,Computing 86: 257-268 ,COMPUTING,Unranked
+159,A Framework for GPU-accelerated Virtual Cardiac Intervention.,2009,"Rongdong Yu, Patricia Chiang, Wenyu Chen, Jianmin Zheng, Yiyu Cai, Xiuzi Ye, Sanyuan Zhang, Yin Zhang, Koon Hou Mak",Int. J. Virtual Real. 8: 37-41 ,IJVR,Unranked
+160,Natural and Seamless Image Composition With Color Control.,2009,"Wenxian Yang, Jianmin Zheng, Jianfei Cai, Susanto Rahardja, Chang Wen Chen",IEEE Trans. Image Process. 18: 2584-2592 ,TIP,Unranked
+161,Fast visualization of complex 3D models using displacement mapping.,2009,"The-Kiet Lu, Kok-Lim Low, Jianmin Zheng",Graphics Interface 2009: 7-14,GRAPHICSINTERFACE,Unranked
+162,Gamut fitting for image composition applications.,2009,"Wenxian Yang, Jianmin Zheng, Jianfei Cai",ICIP 2009: 3125-3128,ICIP,B
+163,Vector field fitting for real-time environment matting of transparent objects.,2009,"Qi Duan, Jianfei Cai, Jianmin Zheng",ICIP 2009: 3229-3232,ICIP,B
+164,Efficient Terrain Triangulation and Modification Algorithms for Game Applications.,2008,"Sundar Raman, Jianmin Zheng",Int. J. Comput. Games Technol. 2008: 316790:1-316790:5 ,IJCGT,Unranked
+165,VR Bio X Games.,2008,"Yiyu Cai, Chandrasekaran Indhumathi, Wenyu Chen, Jianmin Zheng",Trans. Edutainment 1: 278-287 ,TEDU,Unranked
+166,Segmentation-Based View-Dependent 3-D Graphics Model Transmission.,2008,"Wei Guan, Jianfei Cai, Jianmin Zheng, Chang Wen Chen",IEEE Trans. Multim. 10: 724-734 ,TMM,Unranked
+167,Re-examination of applying wavelet based progressive image coder for 3D semi-regular mesh compression.,2008,"Juyong Zhang, Jianfei Cai, Wei Guan, Jianmin Zheng, Susanto Rahardja",ICME 2008: 617-620,ICMCS,Unranked
+168,A substation monitoring and warning system based on infrared technology and image separating.,2008,"Jian Liu, Lihua Lin, Gongquan Liu, Jianmin Zheng, Bing Chen",ISKE 2008: 66-70,ISKE,National
+169,Generalized hierarchical NURBS for interactive shape modification.,2008,"Wenyu Chen, Yiyu Cai, Jianmin Zheng",VRCAI 2008,VRCAI,Unranked
+170,Edge based parameterization for tubular meshes.,2008,"Yimin Wang, Jianmin Zheng",VRCAI 2008,VRCAI,Unranked
+171,An architecture of a VR simulation system for cardiac intervention.,2008,"Rongdong Yu, Xiuzi Ye, Sanyuan Zhang, Yin Zhang, Yiyu Cai, Jianmin Zheng, Wenyu Chen, Patricia Chiang, Mon Hnin Tun",VRCAI 2008,VRCAI,Unranked
+172,Illumination and view dependent progressive transmission of semi-regular meshes with subdivision connectivity.,2007,"Wei Guan, Juyong Zhang, Jianfei Cai, Jianmin Zheng",GRAPHITE 2007: 219-226,GRAPHITE,Unranked
+173,View-Based 3D Model Transmission via Mesh Segmentation.,2007,"Wei Guan, Jianfei Cai, Jianmin Zheng, Chang Wen Chen",ICME 2007: 1311-1314,ICMCS,Unranked
+174,Including and optimizing shape parameters in Doo-Sabin subdivision surfaces for interpolation.,2007,"Wei Guan, Jianmin Zheng, Jianfei Cai",Symposium on Solid and Physical Modeling 2007: 439-444,SMA,Unranked
+175,Bio-native Shape Modeling and Virtual Reality for Bio Education.,2006,"Baifang Lu, Zhaowei Fan, Jianmin Zheng, Lin Li",Int. J. Image Graph. 6: 251-266 ,IJIG,Unranked
+176,Interpolation over Arbitrary Topology Meshes Using a Two-Phase Subdivision Scheme.,2006,"Jianmin Zheng, Yiyu Cai",IEEE Trans. Vis. Comput. Graph. 12: 301-310 ,TVCG,Unranked
+177,Control Point Removal Algorithm for T-Spline Surfaces.,2006,"Yimin Wang, Jianmin Zheng",GMP 2006: 385-396,GMP,C
+178,Minimizing the maximal ratio of weights of a rational Bézier curve.,2005,Jianmin Zheng,Comput. Aided Geom. Des. 22: 275-280 ,CAGD,Unranked
+179,Making Doo-Sabin surface interpolation always work over irregular meshes.,2005,"Jianmin Zheng, Yiyu Cai",Vis. Comput. 21: 242-251 ,VC,Unranked
+180,Conversion between T-Splines and Hierarchical B-Splines.,2005,"Yimin Wang, Jianmin Zheng, Hock Soon Seah",Computer Graphics and Imaging 2005: 8-13,CGIM,Unranked
+181,Adaptive T-spline surface fitting to z-map models.,2005,"Jianmin Zheng, Yimin Wang, Hock Soon Seah",GRAPHITE 2005: 405-411,GRAPHITE,Unranked
+182,A conjecture on tangent intersections of surface patches.,2004,"Thomas W. Sederberg, Jianmin Zheng, Xiaowen Song",Comput. Aided Geom. Des. 21: 1-2 ,CAGD,Unranked
+183,Linear perturbation methods for topologically consistent representations of free-form surface intersections.,2004,"Xiaowen Song, Thomas W. Sederberg, Jianmin Zheng, Rida T. Farouki, Joel Hass",Comput. Aided Geom. Des. 21: 303-319 ,CAGD,Unranked
+184,Corrigendum to: 'Linear perturbation methods for topologically consistent representations of free-form surface intersections': Computer Aided Geometric Design 21 (2004) 303-319.,2004,"Xiaowen Song, Thomas W. Sederberg, Jianmin Zheng, Rida T. Farouki, Joel Hass",Comput. Aided Geom. Des. 21: 321 ,CAGD,Unranked
+185,Target curvature driven fairing algorithm for planar cubic B-spline curves.,2004,"Weishi Li, Shuhong Xu, Jianmin Zheng, Gang Zhao",Comput. Aided Geom. Des. 21: 499-513 ,CAGD,Unranked
+186,T-spline simplification and local refinement.,2004,"Thomas W. Sederberg, David L. Cardon, G. Thomas Finnigan, Nicholas S. North, Jianmin Zheng, Tom Lyche",ACM Trans. Graph. 23: 276-283 ,TOG,Unranked
+187,Gaussian and mean curvatures of rational Bézier patches.,2003,"Jianmin Zheng, Thomas W. Sederberg",Comput. Aided Geom. Des. 20: 297-301 ,CAGD,Unranked
+188,Knot intervals and multi-degree splines.,2003,"Thomas W. Sederberg, Jianmin Zheng, Xiaowen Song",Comput. Aided Geom. Des. 20: 455-468 ,CAGD,Unranked
+189,Perturbing Bézier coefficients for best constrained degree reduction in the L2-norm.,2003,"Jianmin Zheng, Guozhao Wang",Graph. Model. 65: 351-368 ,CVGIP,Unranked
+190,T-splines and T-NURCCs.,2003,"Thomas W. Sederberg, Jianmin Zheng, Almaz Bakenov, Ahmad H. Nasri",ACM Trans. Graph. 22: 477-484 ,TOG,Unranked
+191,Algebraic Methods for Computer Aided Geometric Design.,2002,"Thomas W. Sederberg, Jianmin Zheng",Handbook of Computer Aided Geometric Design 2002: 363-387,COLLECTIONS,Unranked
+192,The mu-basis of a rational ruled surface.,2001,"Falai Chen, Jianmin Zheng, Thomas W. Sederberg",Comput. Aided Geom. Des. 18: 61-72 ,CAGD,Unranked
+193,A Direct Approach to Computing the µ-basis of Planar Rational Curves.,2001,"Jianmin Zheng, Thomas W. Sederberg",J. Symb. Comput. 31: 619-629 ,JSC,Unranked
+194,Estimating tessellation parameter intervals for rational curves and surfaces.,2000,"Jianmin Zheng, Thomas W. Sederberg",ACM Trans. Graph. 19: 56-77 ,TOG,Unranked
+195,Approximate Implicitization Using Monoid Curves and Surfaces.,1999,"Thomas W. Sederberg, Jianmin Zheng, Kris Klimaszewski, Tor Dokken",Graph. Model. Image Process. 61: 177-198 ,CVGIP,Unranked
+196,Non-uniform Recursive Subdivision Surfaces.,1998,"Thomas W. Sederberg, Jianmin Zheng, David Sewell, Malcolm A. Sabin",SIGGRAPH 1998: 387-394,SIGGRAPH,A*
+197,GCn continuity conditions for adjacent rational parametric surfaces.,1995,"Jianmin Zheng, Guozhao Wang, Youdong Liang",Comput. Aided Geom. Des. 12: 111-129 ,CAGD,Unranked
+198,A unified algorithm for finding the intersection curve of surfaces.,1994,"Jianrong Tan, Jianmin Zheng, Qunsheng Peng",J. Comput. Sci. Technol. 9: 107-116 ,JCST,Unranked
+199,Curvature continuity between adjacent rational Bézier patches.,1992,"Jianmin Zheng, Guozhao Wang, Youdong Liang",Comput. Aided Geom. Des. 9: 321-335 ,CAGD,Unranked

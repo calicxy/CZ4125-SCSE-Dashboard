@@ -1,0 +1,166 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Fast and Correct Gradient-Based Optimisation for Probabilistic Programming via Smoothing.,2023,"Basim Khajwal, C.-H. Luke Ong, Dominik Wagner",ESOP 2023: 479-506,ESOP,A
+1,Fast and Correct Gradient-Based Optimisation for Probabilistic Programming via Smoothing.,2023,"Basim Khajwal, C.-H. Luke Ong, Dominik Wagner",CoRR abs/2301.03415 ,CORR,Unranked
+2,Exact Bayesian Inference on Discrete Models via Probability Generating Functions: A Probabilistic Programming Approach.,2023,"Fabian Zaiser, Andrzej S. Murawski, Luke Ong",CoRR abs/2305.17058 ,CORR,Unranked
+3,Template-Based Static Posterior Inference for Bayesian Probabilistic Programming.,2023,"Peixin Wang, Hongfei Fu, Tengshun Yang, Guanyan Li, Luke Ong",CoRR abs/2307.13160 ,CORR,Unranked
+4,Nonparametric Involutive Markov Chain Monte Carlo.,2022,"Carol Mak, Fabian Zaiser, Luke Ong",ICML 2022: 14802-14859,ICML,A*
+5,Probabilistic Verification Beyond Context-Freeness.,2022,"Guanyan Li, Andrzej S. Murawski, Luke Ong",LICS 2022: 33:1-33:13,LICS,A*
+6,Rethinking Variational Inference for Probabilistic Programs with Stochastic Support.,2022,"Tim Reichelt, Luke Ong, Thomas Rainforth",NeurIPS 2022,NIPS,Unranked
+7,CycleQ: an efficient basis for cyclic equational reasoning.,2022,"Eddie Jones, C.-H. Luke Ong, Steven J. Ramsay",PLDI 2022: 395-409,PLDI,A*
+8,Guaranteed bounds for posterior inference in universal probabilistic programming.,2022,"Raven Beutner, C.-H. Luke Ong, Fabian Zaiser",PLDI 2022: 536-551,PLDI,A*
+9,Expectation programming: Adapting probabilistic programming systems to estimate expectations efficiently.,2022,"Tim Reichelt, Adam Golinski, Luke Ong, Tom Rainforth",UAI 2022: 1676-1685,UAI,A
+10,Guaranteed Bounds for Posterior Inference in Universal Probabilistic Programming.,2022,"Raven Beutner, Luke Ong, Fabian Zaiser",CoRR abs/2204.02948 ,CORR,Unranked
+11,Nonparametric Involutive Markov Chain Monte Carlo.,2022,"Carol Mak, Fabian Zaiser, Luke Ong",CoRR abs/2211.01100 ,CORR,Unranked
+12,Higher-order Recursion Schemes and Collapsible Pushdown Automata: Logical Properties.,2021,"Christopher H. Broadbent, Arnaud Carayol, C.-H. Luke Ong, Olivier Serre",ACM Trans. Comput. Log. 22: 12:1-12:37 ,TOCL,Unranked
+13,Collapsible Pushdown Parity Games.,2021,"Christopher H. Broadbent, Arnaud Carayol, Matthew Hague, Andrzej S. Murawski, C.-H. Luke Ong, Olivier Serre",ACM Trans. Comput. Log. 22: 16:1-16:51 ,TOCL,Unranked
+14,Densities of Almost Surely Terminating Probabilistic Programs are Differentiable Almost Everywhere.,2021,"Carol Mak, C.-H. Luke Ong, Hugo Paquet, Dominik Wagner",ESOP 2021: 432-461,ESOP,A
+15,Nonparametric Hamiltonian Monte Carlo.,2021,"Carol Mak, Fabian Zaiser, Luke Ong",ICML 2021: 7336-7347,ICML,A*
+16,Initial Limit Datalog: a New Extensible Class of Decidable Constrained Horn Clauses.,2021,"Toby Cathcart Burn, Luke Ong, Steven J. Ramsay, Dominik Wagner",LICS 2021: 1-13,LICS,A*
+17,"Supermartingales, Ranking Functions and Probabilistic Lambda Calculus.",2021,"Andrew Kenyon-Roberts, C.-H. Luke Ong",LICS 2021: 1-13,LICS,A*
+18,On probabilistic termination of functional programs with continuous distributions.,2021,"Raven Beutner, Luke Ong",PLDI 2021: 1312-1326,PLDI,A*
+19,Abstract: The Extended Theory of Trees and Algebraic (Co)datatypes.,2021,"Fabian Zaiser, Luke Ong",SMT 2021: 65,SMT,Unranked
+20,"Supermartingales, Ranking Functions and Probabilistic Lambda Calculus.",2021,"Andrew Kenyon-Roberts, Luke Ong",CoRR abs/2102.11164 ,CORR,Unranked
+21,On Probabilistic Termination of Functional Programs with Continuous Distributions.,2021,"Raven Beutner, Luke Ong",CoRR abs/2104.04990 ,CORR,Unranked
+22,Initial Limit Datalog: a New Extensible Class of Decidable Constrained Horn Clauses.,2021,"Toby Cathcart Burn, Luke Ong, Steven J. Ramsay, Dominik Wagner",CoRR abs/2104.14175 ,CORR,Unranked
+23,Expectation Programming.,2021,"Tim Reichelt, Adam Golinski, Luke Ong, Tom Rainforth",CoRR abs/2106.04953 ,CORR,Unranked
+24,Nonparametric Hamiltonian Monte Carlo.,2021,"Carol Mak, Fabian Zaiser, Luke Ong",CoRR abs/2106.10238 ,CORR,Unranked
+25,CycleQ: An Efficient Basis for Cyclic Equational Reasoning.,2021,"Eddie Jones, C.-H. Luke Ong, Steven J. Ramsay",CoRR abs/2111.12553 ,CORR,Unranked
+26,The Difference λ-Calculus: A Language for Difference Categories.,2020,"Mario Alvarez-Picallo, C.-H. Luke Ong",FSCD 2020: 32:1-32:21,FSCD,B
+27,The Extended Theory of Trees and Algebraic (Co)datatypes.,2020,"Fabian Zaiser, C.-H. Luke Ong",VPT/HCVS@ETAPS 2020: 167-196,EPTCS,Unranked
+28,A Differential-form Pullback Programming Language for Higher-order Reverse-mode Automatic Differentiation.,2020,"Carol Mak, Luke Ong",CoRR abs/2002.08241 ,CORR,Unranked
+29,Densities of almost-surely terminating probabilistic programs are differentiable almost everywhere.,2020,"Carol Mak, C.-H. Luke Ong, Hugo Paquet, Dominik Wagner",CoRR abs/2004.03924 ,CORR,Unranked
+30,Collapsible Pushdown Parity Games.,2020,"Christopher H. Broadbent, Arnaud Carayol, Matthew Hague, Andrzej S. Murawski, C.-H. Luke Ong, Olivier Serre",CoRR abs/2010.06361 ,CORR,Unranked
+31,Higher-Order Recursion Schemes and Collapsible Pushdown Automata: Logical Properties.,2020,"Christopher H. Broadbent, Arnaud Carayol, C.-H. Luke Ong, Olivier Serre",CoRR abs/2010.06366 ,CORR,Unranked
+32,The Difference Lambda-Calculus: A Language for Difference Categories.,2020,"Mario Alvarez-Picallo, C.-H. Luke Ong",CoRR abs/2011.14476 ,CORR,Unranked
+33,Verifying Liveness Properties of ML Programs.,2020,"Martin Lester, Robin P. Neatherway, C.-H. Luke Ong, Steven J. Ramsay",CoRR abs/2012.13333 ,CORR,Unranked
+34,"ML, Visibly Pushdown Class Memory Automata, and Extended Branching Vector Addition Systems with States.",2019,"Conrad Cotton-Barratt, Andrzej S. Murawski, C.-H. Luke Ong",ACM Trans. Program. Lang. Syst. 41: 11:1-11:38 ,TOPLAS,Unranked
+35,"Fixing Incremental Computation - Derivatives of Fixpoints, and the Recursive Semantics of Datalog.",2019,"Mario Alvarez-Picallo, Alex Eyers-Taylor, Michael Peyton Jones, C.-H. Luke Ong",ESOP 2019: 525-552,ESOP,A
+36,Change Actions: Models of Generalised Differentiation.,2019,"Mario Alvarez-Picallo, C.-H. Luke Ong",FoSSaCS 2019: 45-61,FOSSACS,A
+37,Typed Meta-interpretive Learning of Logic Programs.,2019,"Rolf Morel, Andrew Cropper, C.-H. Luke Ong",JELIA 2019: 198-213,JELIA,A
+38,HoCHC: A Refutationally Complete and Semantically Invariant System of Higher-order Logic Modulo Theories.,2019,"C.-H. Luke Ong, Dominik Wagner",LICS 2019: 1-14,LICS,A*
+39,Change Actions: Models of Generalised Differentiation.,2019,"Mario Alvarez-Picallo, C.-H. Luke Ong",CoRR abs/1902.05465 ,CORR,Unranked
+40,HoCHC: a Refutationally-complete and Semantically-invariant System of Higher-order Logic Modulo Theories.,2019,"C.-H. Luke Ong, Dominik Wagner",CoRR abs/1902.10396 ,CORR,Unranked
+41,Polynomial Probabilistic Invariants and the Optional Stopping Theorem.,2019,"Anne Schreuder, C.-H. Luke Ong",CoRR abs/1910.12634 ,CORR,Unranked
+42,The complexity of decision problems about equilibria in two-player Boolean games.,2018,"Egor Ianovski, Luke Ong",Artif. Intell. 261: 1-15 ,AI,Australasian B
+43,Simulating cardinal preferences in Boolean games: A proof technique.,2018,"Egor Ianovski, Luke Ong",Inf. Comput. 261: 488-518 ,IANDC,Unranked
+44,Higher-order constrained horn clauses for verification.,2018,"Toby Cathcart Burn, C.-H. Luke Ong, Steven J. Ramsay",Proc. ACM Program. Lang. 2: 11:1-11:28 ,PACMPL,Unranked
+45,"Species, Profunctors and Taylor Expansion Weighted by SMCC: A Unified Framework for Modelling Nondeterministic, Probabilistic and Quantum Programs.",2018,"Takeshi Tsukada, Kazuyuki Asada, C.-H. Luke Ong",LICS 2018: 889-898,LICS,A*
+46,InterpChecker: Reducing State Space via Interpolations - (Competition Contribution).,2018,"Zhao Duan, Cong Tian, Zhenhua Duan, C.-H. Luke Ong",TACAS  2018: 432-436,TACAS,A
+47,Defunctionalization of Higher-Order Constrained Horn Clauses.,2018,"Long Pham, Steven J. Ramsay, C.-H. Luke Ong",CoRR abs/1810.03598 ,CORR,Unranked
+48,"Fixing Incremental Computation: Derivatives of Fixpoints, and the Recursive Semantics of Datalog.",2018,"Mario Alvarez-Picallo, Alex Eyers-Taylor, Michael Peyton Jones, C.-H. Luke Ong",CoRR abs/1811.06069 ,CORR,Unranked
+49,Collapsible Pushdown Automata and Recursion Schemes.,2017,"Matthew Hague, Andrzej S. Murawski, C.-H. Luke Ong, Olivier Serre",ACM Trans. Comput. Log. 18: 25:1-25:42 ,TOCL,Unranked
+50,Deciding Secrecy of Security Protocols for an Unbounded Number of Sessions: The Case of Depth-Bounded Processes.,2017,"Emanuele D'Osualdo, Luke Ong, Alwen Tiu",CSF 2017: 464-480,CSFW,Unranked
+51,ML and Extended Branching VASS.,2017,"Conrad Cotton-Barratt, Andrzej S. Murawski, C.-H. Luke Ong",ESOP 2017: 314-340,ESOP,A
+52,"Automata, Logic and Games for the λ-Calculus.",2017,C.-H. Luke Ong,ICLA 2017: 23-26,ICLA,Unranked
+53,More effective interpolations in software model checking.,2017,"Cong Tian, Zhao Duan, Zhenhua Duan, C.-H. Luke Ong",ASE 2017: 183-193,KBSE,Unranked
+54,Quantitative semantics of the lambda calculus: Some generalisations of the relational model.,2017,C.-H. Luke Ong,LICS 2017: 1-12,LICS,A*
+55,Generalised species of rigid resource terms.,2017,"Takeshi Tsukada, Kazuyuki Asada, C.-H. Luke Ong",LICS 2017: 1-12,LICS,A*
+56,"Formal Methods and Software Engineering - 19th International Conference on Formal Engineering Methods, ICFEM 2017, Xi'an, China, November 13-17, 2017, Proceedings.",2017,"Zhenhua Duan, Luke Ong","Lecture Notes in Computer Science 10610, Springer 2017, ISBN 978-3-319-68689-9 ",ICFEM,C
+57,Higher-Order Constrained Horn Clauses and Refinement Types.,2017,"Toby Cathcart Burn, C.-H. Luke Ong, Steven J. Ramsay",CoRR abs/1705.06216 ,CORR,Unranked
+58,Information flow analysis for a dynamically typed language with staged metaprogramming.,2016,"Martin Mariusz Lester, Luke Ong, Max Schäfer",J. Comput. Secur. 24: 541-582 ,JCS,Unranked
+59,On Hierarchical Communication Topologies in the \pi -calculus.,2016,"Emanuele D'Osualdo, C.-H. Luke Ong",ESOP 2016: 149-175,ESOP,A
+60,Plays as Resource Terms via Non-idempotent Intersection Types.,2016,"Takeshi Tsukada, C.-H. Luke Ong",LICS 2016: 237-246,LICS,A*
+61,Unboundedness and downward closures of higher-order pushdown automata.,2016,"Matthew Hague, Jonathan Kochems, C.-H. Luke Ong",POPL 2016: 151-163,POPL,A*
+62,On Hierarchical Communication Topologies in the pi-calculus.,2016,"Emanuele D'Osualdo, C.-H. Luke Ong",CoRR abs/1601.01725 ,CORR,Unranked
+63,Higher-Order Model Checking (NII Shonan Meeting 2016-4).,2016,"Naoki Kobayashi, Luke Ong, Igor Walukiewicz",NII Shonan Meet. Rep. 2016 ,SHONAN-REPORTS,Unranked
+64,"Logic, Language, Information and Computation (WoLLIC 2012).",2015,"C.-H. Luke Ong, Ruy J. G. B. de Queiroz",Theor. Comput. Sci. 603: 1-2 ,TCS,Unranked
+65,Fragments of ML Decidable by Nested Data Class Memory Automata.,2015,"Conrad Cotton-Barratt, David Hopkins, Andrzej S. Murawski, C.-H. Luke Ong",FoSSaCS 2015: 249-263,FOSSACS,A
+66,Weak and Nested Class Memory Automata.,2015,"Conrad Cotton-Barratt, Andrzej S. Murawski, C.-H. Luke Ong",LATA 2015: 188-199,LATA,C
+67,Higher-Order Model Checking: An Overview.,2015,Luke Ong,LICS 2015: 1-15,LICS,A*
+68,Nondeterminism in Game Semantics via Sheaves.,2015,"Takeshi Tsukada, C.-H. Luke Ong",LICS 2015: 220-231,LICS,A*
+69,Detecting redundant CSS rules in HTML5 applications: a tree rewriting approach.,2015,"Matthew Hague, Anthony Widjaja Lin, C.-H. Luke Ong",OOPSLA 2015: 1-19,OOPSLA,A
+70,Fragments of ML Decidable by Nested Data Class Memory Automata.,2015,"Conrad Cotton-Barratt, David Hopkins, Andrzej S. Murawski, C.-H. Luke Ong",CoRR abs/1501.04511 ,CORR,Unranked
+71,A Type System for proving Depth Boundedness in the pi-calculus.,2015,"Emanuele D'Osualdo, Luke Ong",CoRR abs/1502.00944 ,CORR,Unranked
+72,Unboundedness and Downwards Closures of Higher-Order Pushdown Automata.,2015,"Matthew Hague, Jonathan Kochems, C.-H. Luke Ong",CoRR abs/1507.03304 ,CORR,Unranked
+73,Normalisation by Traversals.,2015,C.-H. Luke Ong,CoRR abs/1511.02629 ,CORR,Unranked
+74,Compositional higher-order model checking via ω-regular games over Böhm trees.,2014,"Takeshi Tsukada, C.-H. Luke Ong",CSL-LICS 2014: 78:1-78:10,CSL,B
+75,EGuaranteeNash for Boolean Games Is NEXP-Hard.,2014,"Egor Ianovski, Luke Ong",KR 2014,KR,A*
+76,A type-directed abstraction refinement approach to higher-order model checking.,2014,"Steven J. Ramsay, Robin P. Neatherway, C.-H. Luke Ong",POPL 2014: 61-72,POPL,A*
+77,TravMC2: higher-order model checking for alternating parity tree automata.,2014,"Robin P. Neatherway, C.-H. Luke Ong",SPIN 2014: 129-132,SPIN,Unranked
+78,Safety verification of asynchronous pushdown systems with shaped stacks.,2014,"Jonathan Kochems, C.-H. Luke Ong",CoRR abs/1401.6325 ,CORR,Unranked
+79,Weak and Nested Class Memory Automata.,2014,"Conrad Cotton-Barratt, Andrzej S. Murawski, C.-H. Luke Ong",CoRR abs/1409.1136 ,CORR,Unranked
+80,"Innocent Strategies are Sheaves over Plays - Deterministic, Non-deterministic and Probabilistic Innocence.",2014,"Takeshi Tsukada, C.-H. Luke Ong",CoRR abs/1409.2764 ,CORR,Unranked
+81,Decidable Models of Recursive Asynchronous Concurrency.,2014,"Jonathan Kochems, C.-H. Luke Ong",CoRR abs/1410.8852 ,CORR,Unranked
+82,Detecting Redundant CSS Rules in HTML5 Applications: A Tree-Rewriting Approach.,2014,"Matthew Hague, Anthony Widjaja Lin, Luke Ong",CoRR abs/1412.5143 ,CORR,Unranked
+83,Safety Verification of Asynchronous Pushdown Systems with Shaped Stacks.,2013,"Jonathan Kochems, C.-H. Luke Ong",CONCUR 2013: 288-302,CONCUR,A
+84,Information Flow Analysis for a Dynamically Typed Language with Staged Metaprogramming.,2013,"Martin Lester, Luke Ong, Max Schäfer",CSF 2013: 209-223,CSFW,Unranked
+85,"Recursion Schemes, Collapsible Pushdown Automata and Higher-Order Model Checking.",2013,Luke Ong,LATA 2013: 13-41,LATA,C
+86,Automatic Verification of Erlang-Style Concurrency.,2013,"Emanuele D'Osualdo, Jonathan Kochems, C.-H. Luke Ong",SAS 2013: 454-476,SAS,B
+87,"Computation, Logic, Games, and Quantum Foundations. The Many Facets of Samson Abramsky - Essays Dedicated to Samson Abramsky on the Occasion of His 60th Birthday.",2013,"Bob Coecke, Luke Ong, Prakash Panangaden","Lecture Notes in Computer Science 7860, Springer 2013, ISBN 978-3-642-38163-8 ",BIRTHDAY,Unranked
+88,Information Flow Analysis for a Dynamically Typed Functional Language with Staged Metaprogramming.,2013,"Martin Lester, C.-H. Luke Ong, Max Schäfer",CoRR abs/1302.3178 ,CORR,Unranked
+89,Automatic Verification of Erlang-Style Concurrency.,2013,"Emanuele D'Osualdo, Jonathan Kochems, C.-H. Luke Ong",CoRR abs/1303.2201 ,CORR,Unranked
+90,EGuaranteeNash for Boolean Games is NEXP-Hard.,2013,"Egor Ianovski, Luke Ong",CoRR abs/1312.4114 ,CORR,Unranked
+91,Soter: an automatic safety verifier for erlang.,2012,"Emanuele D'Osualdo, Jonathan Kochems, Luke Ong",AGERE!@SPLASH 2012: 137-140,AGERE,Unranked
+92,Hector: An Equivalence Checker for a Higher-Order Fragment of ML.,2012,"David Hopkins, Andrzej S. Murawski, C.-H. Luke Ong",CAV 2012: 774-780,CAV,A*
+93,"Two-Level Game Semantics, Intersection Types, and Recursion Schemes.",2012,"C.-H. Luke Ong, Takeshi Tsukada",ICALP  2012: 325-336,ICALP,A
+94,A traversal-based algorithm for higher-order model checking.,2012,"Robin P. Neatherway, Steven J. Ramsay, C.-H. Luke Ong",ICFP 2012: 353-364,ICFP,A
+95,"Logic, Language, Information and Computation - 19th International Workshop, WoLLIC 2012, Buenos Aires, Argentina, September 3-6, 2012. Proceedings.",2012,"C.-H. Luke Ong, Ruy J. G. B. de Queiroz","Lecture Notes in Computer Science 7456, Springer 2012, ISBN 978-3-642-32620-2 ",WOLLIC,Unranked
+96,Complexity of Model Checking Recursion Schemes for Fragments of the Modal Mu-Calculus.,2011,"Naoki Kobayashi, C.-H. Luke Ong",Log. Methods Comput. Sci. 7 ,LMCS,Unranked
+97,A saturation method for the modal μ-calculus over pushdown systems.,2011,"Matthew Hague, C.-H. Luke Ong",Inf. Comput. 209: 799-821 ,IANDC,Unranked
+98,A Fragment of ML Decidable by Visibly Pushdown Automata.,2011,"David Hopkins, Andrzej S. Murawski, C.-H. Luke Ong",ICALP  2011: 149-161,ICALP,A
+99,Verifying higher-order functional programs with pattern-matching algebraic data types.,2011,"C.-H. Luke Ong, Steven J. Ramsay",POPL 2011: 587-598,POPL,A*
+100,Improved Functional Flow and Reachability Analyses Using Indexed Linear Tree Grammars.,2011,"Jonathan Kochems, C.-H. Luke Ong",RTA 2011: 187-202,RTA,Unranked
+101,"5th IEEE International Symposium on Theoretical Aspects of Software Engineering, TASE 2011, Xi'an, China, 29-31 August 2011.",2011,"Zhenhua Duan, C.-H. Luke Ong","IEEE Computer Society 2011, ISBN 978-1-4577-1487-0 ",TASE,National
+102,"Typed Lambda Calculi and Applications - 10th International Conference, TLCA 2011, Novi Sad, Serbia, June 1-3, 2011. Proceedings.",2011,C.-H. Luke Ong,"Lecture Notes in Computer Science 6690, Springer 2011, ISBN 978-3-642-21690-9 ",TLCA,Unranked
+103,Automated Techniques for Higher-Order Program Verification (NII Shonan Meeting 2011-5).,2011,"Naoki Kobayashi, Luke Ong, David Van Horn",NII Shonan Meet. Rep. 2011 ,SHONAN-REPORTS,Unranked
+104,Recursion Schemes and Logical Reflection.,2010,"Christopher H. Broadbent, Arnaud Carayol, C.-H. Luke Ong, Olivier Serre",LICS 2010: 120-129,LICS,A*
+105,Analysing Mu-Calculus Properties of Pushdown Systems.,2010,"Matthew Hague, C.-H. Luke Ong",SPIN 2010: 187-192,SPIN,Unranked
+106,Boom: Taking Boolean Program Model Checking One Step Further.,2010,"Gérard Basler, Matthew Hague, Daniel Kroening, C.-H. Luke Ong, Thomas Wahl, Haoxian Zhao",TACAS 2010: 145-149,TACAS,A
+107,Models of Higher-Order Computation: Recursion Schemes and Collapsible Pushdown Automata.,2010,C.-H. Luke Ong,Logics and Languages for Reliability and Security 2010: 263-299,NATOSEC,Unranked
+108,"Foundations of Software Science and Computational Structures, 13th International Conference, FOSSACS 2010, Held as Part of the Joint European Conferences on Theory and Practice of Software, ETAPS 2010, Paphos, Cyprus, March 20-28, 2010. Proceedings.",2010,C.-H. Luke Ong,"Lecture Notes in Computer Science 6014, Springer 2010, ISBN 978-3-642-12031-2 ",FOSSACS,A
+109,A Saturation Method for the Modal Mu-Calculus with Backwards Modalities over Pushdown Systems.,2010,"Matthew Hague, C.-H. Luke Ong",CoRR abs/1006.5906 ,CORR,Unranked
+110,The Safe Lambda Calculus.,2009,"William Blum, C.-H. Luke Ong",Log. Methods Comput. Sci. 5 ,LMCS,Unranked
+111,Homer: A Higher-Order Observational Equivalence Model checkER.,2009,"David Hopkins, C.-H. Luke Ong",CAV 2009: 654-660,CAV,A*
+112,Winning Regions of Pushdown Parity Games: A Saturation Method.,2009,"Matthew Hague, C.-H. Luke Ong",CONCUR 2009: 384-398,CONCUR,A
+113,On Global Model Checking Trees Generated by Higher-Order Recursion Schemes.,2009,"Christopher H. Broadbent, C.-H. Luke Ong",FoSSaCS 2009: 107-121,FOSSACS,A
+114,Complexity of Model Checking Recursion Schemes for Fragments of the Modal Mu-Calculus.,2009,"Naoki Kobayashi, C.-H. Luke Ong",ICALP  2009: 223-234,ICALP,A
+115,A Type System Equivalent to the Modal Mu-Calculus Model Checking of Higher-Order Recursion Schemes.,2009,"Naoki Kobayashi, C.-H. Luke Ong",LICS 2009: 179-188,LICS,A*
+116,Functional Reachability.,2009,"C.-H. Luke Ong, Nikos Tzevelekos",LICS 2009: 286-295,LICS,A*
+117,Symbolic Backwards-Reachability Analysis for Higher-Order Pushdown Systems.,2008,"Matthew Hague, C.-H. Luke Ong",Log. Methods Comput. Sci. 4 ,LMCS,Unranked
+118,Verification of Higher-Order Computation: A Game-Semantic Approach.,2008,C.-H. Luke Ong,ESOP 2008: 299-306,ESOP,A
+119,Winning Regions of Higher-Order Pushdown Games.,2008,"Arnaud Carayol, Matthew Hague, Antoine Meyer, C.-H. Luke Ong, Olivier Serre",LICS 2008: 193-204,LICS,A*
+120,Collapsible Pushdown Automata and Recursion Schemes.,2008,"Matthew Hague, Andrzej S. Murawski, C.-H. Luke Ong, Olivier Serre",LICS 2008: 452-461,LICS,A*
+121,"Fifth IFIP International Conference On Theoretical Computer Science - TCS 2008, IFIP 20th World Computer Congress, TC 1, Foundations of Computer Science, September 7-10, 2008, Milano, Italy.",2008,"Giorgio Ausiello, Juhani Karhumäki, Giancarlo Mauri, C.-H. Luke Ong","IFIP 273, Springer 2008, ISBN 978-0-387-09679-7 ",IFIPTCS,Unranked
+122,Symbolic Backwards-Reachability Analysis for Higher-Order Pushdown Systems.,2008,"Matthew Hague, C.-H. Luke Ong",CoRR abs/0811.1103 ,CORR,Unranked
+123,Fully abstract semantics of additive aspects by translation.,2007,"Sam Bakhtiar Sanjabi, C.-H. Luke Ong",AOSD 2007: 135-148,AOSD,Unranked
+124,Symbolic Backwards-Reachability Analysis for Higher-Order Pushdown Systems.,2007,"Matthew Hague, C.-H. Luke Ong",FoSSaCS 2007: 213-227,FOSSACS,A
+125,Hierarchies of Infinite Structures Generated by Pushdown Automata and Recursion Schemes.,2007,C.-H. Luke Ong,MFCS 2007: 15-21,MFCS,A
+126,The Safe Lambda Calculus.,2007,"William Blum, C.-H. Luke Ong",TLCA 2007: 39-53,TLCA,Unranked
+127,Syntactic control of concurrency.,2006,"Dan R. Ghica, Andrzej S. Murawski, C.-H. Luke Ong",Theor. Comput. Sci. 350: 234-251 ,TCS,Unranked
+128,Fast verification of MLL proof nets via IMLL.,2006,"Andrzej S. Murawski, C.-H. Luke Ong",ACM Trans. Comput. Log. 7: 473-498 ,TOCL,Unranked
+129,Some Results on a Game-Semantic Approach to Verifying Finitely-Presentable Infinite Structures (Extended Abstract).,2006,C.-H. Luke Ong,CSL 2006: 31-40,CSL,B
+130,On Model-Checking Trees Generated by Higher-Order Recursion Schemes.,2006,C.-H. Luke Ong,LICS 2006: 81-90,LICS,A*
+131,Safety Is not a Restriction at Level 2 for String Languages.,2005,"Klaus Aehlig, Jolie G. de Miranda, C.-H. Luke Ong",FoSSaCS 2005: 490-504,FOSSACS,A
+132,"Idealized Algol with Ground Recursion, and DPDA Equivalence.",2005,"Andrzej S. Murawski, C.-H. Luke Ong, Igor Walukiewicz",ICALP 2005: 917-929,ICALP,A
+133,The Monadic Second Order Theory of Trees Given by Arbitrary Level-Two Recursion Schemes Is Decidable.,2005,"Klaus Aehlig, Jolie G. de Miranda, C.-H. Luke Ong",TLCA 2005: 39-54,TLCA,Unranked
+134,"Computer Science Logic, 19th International Workshop, CSL 2005, 14th Annual Conference of the EACSL, Oxford, UK, August 22-25, 2005, Proceedings.",2005,C.-H. Luke Ong,"Lecture Notes in Computer Science 3634, Springer 2005, ISBN 3-540-28231-9 ",CSL,B
+135,An approach to deciding the observational equivalence of Algol-like languages.,2004,C.-H. Luke Ong,Ann. Pure Appl. Log. 130: 125-171 ,APAL,Unranked
+136,Games characterizing Levy-Longo trees.,2004,"C.-H. Luke Ong, Pietro Di Gianantonio",Theor. Comput. Sci. 312: 121-142 ,TCS,Unranked
+137,On an interpretation of safe recursion in light affine logic.,2004,"Andrzej S. Murawski, C.-H. Luke Ong",Theor. Comput. Sci. 318: 197-223 ,TCS,Unranked
+138,Syntactic Control of Concurrency.,2004,"Dan R. Ghica, Andrzej S. Murawski, C.-H. Luke Ong",ICALP 2004: 683-694,ICALP,A
+139,Nominal Games and Full Abstraction for the Nu-Calculus.,2004,"Samson Abramsky, Dan R. Ghica, Andrzej S. Murawski, C.-H. Luke Ong, Ian David Bede Stark",LICS 2004: 150-159,LICS,A*
+140,Applying Game Semantics to Compositional Software Modeling and Verification.,2004,"Samson Abramsky, Dan R. Ghica, Andrzej S. Murawski, C.-H. Luke Ong",TACAS 2004: 421-435,TACAS,A
+141,"Exhausting strategies, joker games and full completeness for IMLL with Unit.",2003,"Andrzej S. Murawski, C.-H. Luke Ong",Theor. Comput. Sci. 294: 269-305 ,TCS,Unranked
+142,Adapting innocent game models for the Böhm treelambda -theory.,2003,"Andrew D. Ker, Hanno Nickau, C.-H. Luke Ong",Theor. Comput. Sci. 308: 333-366 ,TCS,Unranked
+143,Innocent game models of untyped lambda-calculus.,2002,"Andrew D. Ker, Hanno Nickau, C.-H. Luke Ong",Theor. Comput. Sci. 272: 247-292 ,TCS,Unranked
+144,Model Checking Algol-Like Languages Using Game Semantics.,2002,C.-H. Luke Ong,FSTTCS 2002: 33-36,FSTTCS,Unranked
+145,Games Characterizing Levy-Longo Trees.,2002,"C.-H. Luke Ong, Pietro Di Gianantonio",ICALP 2002: 476-487,ICALP,A
+146,Observational Equivalence of 3rd-Order Idealized Algol is Decidable.,2002,C.-H. Luke Ong,LICS 2002: 245-256,LICS,A*
+147,Route oscillations in I-BGP with route reflection.,2002,"Anindya Basu, Chih-Hao Luke Ong, April Rasala, F. Bruce Shepherd, Gordon T. Wilfong",SIGCOMM 2002: 235-247,SIGCOMM,A*
+148,Evolving Games and Essential Nets for Affine Polymorphism.,2001,"Andrzej S. Murawski, C.-H. Luke Ong",TLCA 2001: 360-375,TLCA,Unranked
+149,"On Full Abstraction for PCF: I, II, and III.",2000,"J. M. E. Hyland, C.-H. Luke Ong",Inf. Comput. 163: 285-408 ,IANDC,Unranked
+150,Light Logic and Resource Bounded Computation.,2000,C.-H. Luke Ong,APLAS 2000: 181,APLAS,B
+151,"Discreet Games, Light Affine Logic and PTIME Computation.",2000,"Andrzej S. Murawski, C.-H. Luke Ong",CSL 2000: 427-441,CSL,B
+152,Dominator Trees and Fast Verification of Proof Nets.,2000,"Andrzej S. Murawski, C.-H. Luke Ong",LICS 2000: 181-191,LICS,A*
+153,A Universal Innocent Game Model for the Böhm Tree Lambda Theory.,1999,"Andrew D. Ker, Hanno Nickau, C.-H. Luke Ong",CSL 1999: 405-419,CSL,B
+154,Internal Languages for Autonomous and *-Autonomous Categories.,1999,"Thong wei Koh, C.-H. Luke Ong",CTCS 1999: 151,TCS,Unranked
+155,"Exhausting Strategies, Joker Games and IMLL with Units.",1999,"Andrzej S. Murawski, C.-H. Luke Ong",CTCS 1999: 209-239,TCS,Unranked
+156,A Curry-Howard Foundation for Functional Computation with Control.,1997,"C.-H. Luke Ong, Charles A. Stewart",POPL 1997: 215-227,POPL,A*
+157,"A Semantic View of Classical Proofs: Type-Theoretic, Categorical, and Denotational Characterizations (Preliminary Extended Abstract).",1996,C.-H. Luke Ong,LICS 1996: 230-241,LICS,A*
+158,"Pi-Calculus, Dialogue Games and PCF.",1995,"J. M. E. Hyland, C.-H. Luke Ong",FPCA 1995: 96-107,FPCA,Unranked
+159,Full Abstraction in the Lazy Lambda Calculus.,1993,"Samson Abramsky, C.-H. Luke Ong",Inf. Comput. 105: 159-267 ,IANDC,Unranked
+160,A Generic Strong Normalization Argument: Application to the Calculus of Constructions.,1993,"C.-H. Luke Ong, Eike Ritter",CSL 1993: 261-279,CSL,B
+161,Non-Determinism in a Functional Setting.,1993,C.-H. Luke Ong,LICS 1993: 275-286,LICS,A*
+162,Modified Realizability Toposes and Strong Normalization Proofs.,1993,"J. M. E. Hyland, C.-H. Luke Ong",TLCA 1993: 179-194,TLCA,Unranked
+163,"Lazy Lambda Calculus: Theories, Models and Local Structure Characterization (Extended Abstract).",1992,C.-H. Luke Ong,ICALP 1992: 487-498,ICALP,A
+164,Fully Abstract Models of the Lazy Lambda Calculus.,1988,C.-H. Luke Ong,FOCS 1988: 368-376,FOCS,A*

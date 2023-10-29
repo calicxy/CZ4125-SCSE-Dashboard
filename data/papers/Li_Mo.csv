@@ -1,0 +1,192 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,ST4ML: Machine Learning Oriented Spatio-Temporal Data Processing at Scale.,2023,"Kaiqi Liu, Panrong Tong, Mo Li, Yue Wu, Jianqiang Huang",Proc. ACM Manag. Data 1: 87:1-87:28 ,PACMMOD,Unranked
+1,CrowdAtlas: Estimating Crowd Distribution within the Urban Rail Transit System.,2023,"Jinlong E, Mo Li, Jianqiang Huang",ACM Trans. Knowl. Discov. Data 17: 48:1-48:24 ,TKDD,Unranked
+2,Channel Adapted Antenna Augmentation for Improved Wi-Fi Throughput.,2023,"Yanbo Zhang, Weiping Sun, Yidong Ren, Sung-Ju Lee, Mo Li",IEEE Trans. Mob. Comput. 22: 6297-6310 ,TMC,Unranked
+3,Predicting the Impact of Disruptions to Urban Rail Transit Systems.,2023,"Xiaoyun Mo, Chu Cao, Mo Li, David Z. W. Wang",ACM Trans. Sens. Networks 19: 2:1-2:17 ,TOSN,Unranked
+4,LMAC: Efficient Carrier-Sense Multiple Access for LoRa.,2023,"Amalinda Gamage, Jansen Christian Liando, Chaojie Gu, Rui Tan, Mo Li, Olivier Seller",ACM Trans. Sens. Networks 19: 44:1-44:27 ,TOSN,Unranked
+5,XCopy: Boosting Weak Links for Reliable LoRa Communication.,2023,"Xianjin Xia, Qianwu Chen, Ningning Hou, Yuanqing Zheng, Mo Li",MobiCom 2023: 14:1-14:15,MOBICOM,A*
+6,Practically Adopting Human Activity Recognition.,2023,"Huatao Xu, Pengfei Zhou, Rui Tan, Mo Li",MobiCom 2023: 85:1-85:15,MOBICOM,A*
+7,SiFall: Practical Online Fall Detection with RF Sensing.,2023,"Sijie Ji, Yaxiong Xie, Mo Li",CoRR abs/2301.03773 ,CORR,Unranked
+8,LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications.,2022,"Huatao Xu, Pengfei Zhou, Rui Tan, Mo Li, Guobin Shen",GetMobile Mob. Comput. Commun. 26: 39-42 ,SIGMOBILE,Unranked
+9,Attack-aware Synchronization-free Data Timestamping in LoRaWAN.,2022,"Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang",ACM Trans. Sens. Networks 18: 10:1-10:31 ,TOSN,Unranked
+10,Introduction to the Special Issue on Low Power Wide Area Networks.,2022,"Mo Li, Jiliang Wang, Swarun Kumar, Yuanqing Zheng",ACM Trans. Sens. Networks 18: 58e:1-58e:2 ,TOSN,Unranked
+11,Experience: adopting indoor outdoor detection in on-demand food delivery business.,2022,"Pengfei Zhou, Yi Ding, Yang Li, Mo Li, Guobin Shen, Tian He",MobiCom 2022: 94-105,MOBICOM,A*
+12,Passive DSSS: Empowering the Downlink Communication for Backscatter Systems.,2022,"Songfan Li, Hui Zheng, Chong Zhang, Yihang Song, Shen Yang, Minghua Chen, Li Lu, Mo Li",NSDI 2022: 913-928,NSDI,National
+13,Predicting Abnormal Events in Urban Rail Transit Systems with Multivariate Point Process.,2022,"Xiaoyun Mo, Mingqian Li, Mo Li",PAKDD  2022: 41-53,PAKDD,B
+14,PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference.,2022,"Linshan Jiang, Qun Song, Rui Tan, Mo Li",SenSys 2022: 164-178,SENSYS,A*
+15,SiFall: Practical Online Fall Detection with RF Sensing.,2022,"Sijie Ji, Yaxiong Xie, Mo Li",SenSys 2022: 563-577,SENSYS,A*
+16,Enhancing Deep Learning Performance of Massive MIMO CSI Feedback.,2022,"Sijie Ji, Mo Li",CoRR abs/2208.11333 ,CORR,Unranked
+17,PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference.,2022,"Linshan Jiang, Qun Song, Rui Tan, Mo Li",CoRR abs/2211.06716 ,CORR,Unranked
+18,Last-Mile School Shuttle Planning With Crowdsensed Student Trajectories.,2021,"Panrong Tong, Wan Du, Mo Li, Jianqiang Huang, Wenqiang Wang, Zheng Qin",IEEE Trans. Intell. Transp. Syst. 22: 293-306 ,TITS,Unranked
+19,EchoWrite: An Acoustic-Based Finger Input System Without Training.,2021,"Kaishun Wu, Qiang Yang, Baojie Yuan, Yongpan Zou, Rukhsana Ruby, Mo Li",IEEE Trans. Mob. Comput. 20: 1789-1803 ,TMC,Unranked
+20,UniLoc: A Unified Mobile Localization Framework Exploiting Scheme Diversity.,2021,"Wan Du, Panrong Tong, Mo Li",IEEE Trans. Mob. Comput. 20: 2505-2517 ,TMC,Unranked
+21,CLNet: Complex Input Lightweight Neural Network Designed for Massive MIMO CSI Feedback.,2021,"Sijie Ji, Mo Li",IEEE Wirel. Commun. Lett. 10: 2318-2322 ,WCL,Unranked
+22,Traffic Flow Prediction with Vehicle Trajectories.,2021,"Mingqian Li, Panrong Tong, Mo Li, Zhongming Jin, Jianqiang Huang, Xian-Sheng Hua",AAAI 2021: 294-302,AAAI,A*
+23,CrowdAtlas: Estimating Crowd Distribution within the Urban Rail Transit System.,2021,"Jinlong E, Mo Li, Jianqiang Huang",ICDE 2021: 2219-2224,ICDE,A*
+24,Predicting the Impact of Disruptions to Urban Rail Transit Systems.,2021,"Xiaoyun Mo, Chu Cao, Mo Li, David Z. W. Wang",ICDE 2021: 2249-2254,ICDE,A*
+25,Generating Mobility Trajectories with Retained Data Utility.,2021,"Chu Cao, Mo Li",KDD 2021: 2610-2620,KDD,A*
+26,Large-scale vehicle trajectory reconstruction with camera sensing network.,2021,"Panrong Tong, Mingqian Li, Mo Li, Jianqiang Huang, Xiansheng Hua",MobiCom 2021: 188-200,MOBICOM,A*
+27,LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications.,2021,"Huatao Xu, Pengfei Zhou, Rui Tan, Mo Li, Guobin Shen",SenSys 2021: 220-233,SENSYS,A*
+28,CQNet: Complex Input Quantized Neural Network designed for Massive MIMO CSI Feedback.,2021,"Sijie Ji, Weiping Sun, Mo Li",CoRR abs/2102.07507 ,CORR,Unranked
+29,Attack-Aware Synchronization-Free Data Timestamping in LoRaWAN.,2021,"Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang",CoRR abs/2107.04833 ,CORR,Unranked
+30,Attack-Aware Data Timestamping in Low-Power Synchronization-Free LoRaWAN.,2020,"Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang",ICDCS 2020: 100-110,ICDCS,A
+31,Internet-of-microchips: direct radio-to-bus communication with SPI backscatter.,2020,"Songfan Li, Chong Zhang, Yihang Song, Hui Zheng, Lu Liu, Li Lu, Mo Li",MobiCom 2020: 25:1-25:14,MOBICOM,A*
+32,LMAC: efficient carrier-sense multiple access for LoRa.,2020,"Amalinda Gamage, Jansen Christian Liando, Chaojie Gu, Rui Tan, Mo Li",MobiCom 2020: 43:1-43:13,MOBICOM,A*
+33,Pricing Data Tampering in Automated Fare Collection with NFC-Equipped Smartphones.,2019,"Fan Dang, Ennan Zhai, Zhenhua Li, Pengfei Zhou, Aziz Mohaisen, Kaigui Bian, Qingfu Wen, Mo Li",IEEE Trans. Mob. Comput. 18: 1159-1173 ,TMC,Unranked
+34,Precise Power Delay Profiling with Commodity Wi-Fi.,2019,"Yaxiong Xie, Zhenjiang Li, Mo Li",IEEE Trans. Mob. Comput. 18: 1342-1355 ,TMC,Unranked
+35,StrLight: An Imperceptible Visible Light Communication System with String Lights.,2019,"Huanle Zhang, Wan Du, Mo Li, Kaishun Wu, Prasant Mohapatra",IEEE Trans. Mob. Comput. 18: 1674-1687 ,TMC,Unranked
+36,Think Like A Graph: Real-Time Traffic Estimation at City-Scale.,2019,"Zhidan Liu, Pengfei Zhou, Zhenjiang Li, Mo Li",IEEE Trans. Mob. Comput. 18: 2446-2459 ,TMC,Unranked
+37,Memento: An Emotion-driven Lifelogging System with Wearables.,2019,"Shiqi Jiang, Zhenjiang Li, Pengfei Zhou, Mo Li",ACM Trans. Sens. Networks 15: 8:1-8:23 ,TOSN,Unranked
+38,Known and Unknown Facts of LoRa: Experiences from a Large-scale Measurement Study.,2019,"Jansen Christian Liando, Amalinda Gamage, Agustinus W. Tengourtius, Mo Li",ACM Trans. Sens. Networks 15: 16:1-16:35 ,TOSN,Unranked
+39,Vision and Challenges for Knowledge Centric Networking.,2019,"Dapeng Wu, Zhenjiang Li, Jianping Wang, Yuanqing Zheng, Mo Li, Qiuyuan Huang",IEEE Wirel. Commun. 26: 117-123 ,WC,Unranked
+40,EchoWrite: An Acoustic-based Finger Input System Without Training.,2019,"Yongpan Zou, Qiang Yang, Rukhsana Ruby, Yetong Han, Sicheng Wu, Mo Li, Kaishun Wu",ICDCS 2019: 778-787,ICDCS,A
+41,Synthesizing Wider WiFi Bandwidth for Respiration Rate Monitoring in Dynamic Environments.,2019,"Shuyu Shi, Yaxiong Xie, Mo Li, Alex X. Liu, Jun Zhao",INFOCOM 2019: 181-189,INFOCOM,A*
+42,mD-Track: Leveraging Multi-Dimensionality for Passive Indoor Wi-Fi Tracking.,2019,"Yaxiong Xie, Jie Xiong, Mo Li, Kyle Jamieson",MobiCom 2019: 8:1-8:16,MOBICOM,A*
+43,BiLock: User Authentication via Dental Occlusion Biometrics.,2018,"Yongpan Zou, Meng Zhao, Zimu Zhou, Jiawei Lin, Mo Li, Kaishun Wu",Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2: 152:1-152:20 ,IMWUT,Unranked
+44,Amateur: Augmented Reality Based Vehicle Navigation System.,2018,"Chu Cao, Zhenjiang Li, Pengfei Zhou, Mo Li",Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2: 155:1-155:24 ,IMWUT,Unranked
+45,Exploring Deep Learning for Efficient and Reliable Mobile Sensing.,2018,"Hongzi Zhu, Yanyong Zhang, Mo Li, Ashwin Ashok, Kaoru Ota",IEEE Netw. 32: 6-7 ,NETWORK,Unranked
+46,Urban Traffic Prediction from Mobility Data Using Deep Learning.,2018,"Zhidan Liu, Zhenjiang Li, Kaishun Wu, Mo Li",IEEE Netw. 32: 40-46 ,NETWORK,Unranked
+47,R3: Reliable Over-the-Air Reprogramming on Computational RFIDs.,2018,"Die Wu, Li Lu, Muhammad Jawad Hussain, Songfan Li, Mo Li, Fengli Zhang",ACM Trans. Embed. Comput. Syst. 17: 9:1-9:25 ,TECS,Unranked
+48,An Acoustic-Based Encounter Profiling System.,2018,"Huanle Zhang, Wan Du, Pengfei Zhou, Mo Li, Prasant Mohapatra",IEEE Trans. Mob. Comput. 17: 1750-1763 ,TMC,Unranked
+49,UniLoc: A Unified Mobile Localization Framework Exploiting Scheme Diversity.,2018,"Wan Du, Panrong Tong, Mo Li",ICDCS 2018: 818-829,ICDCS,A
+50,Walkway discovery from large scale crowdsensing.,2018,"Chu Cao, Zhidan Liu, Mo Li, Wenqiang Wang, Zheng Qin",IPSN 2018: 13-24,IPSN,A*
+51,Walkway discovery from large scale crowdsensing: demo abstract.,2018,"Chu Cao, Zhidan Liu, Mo Li, Wenqiang Wang, Zheng Qin",IPSN 2018: 148-149,IPSN,A*
+52,SWAN: Stitched Wi-Fi ANtennas.,2018,"Yaxiong Xie, Yanbo Zhang, Jansen Christian Liando, Mo Li",MobiCom 2018: 51-66,MOBICOM,A*
+53,mD-Track: Leveraging Multi-Dimensionality in Passive Indoor Wi-Fi Tracking.,2018,"Yaxiong Xie, Jie Xiong, Mo Li, Kyle Jamieson",CoRR abs/1812.03103 ,CORR,Unranked
+54,Guest Editorial Special Section on Internet-of-Things for Smart Cities and Urban Informatics.,2017,"Edith C. H. Ngai, Falko Dressler, Victor C. M. Leung, Mo Li",IEEE Trans. Ind. Informatics 13: 748-750 ,TII,Unranked
+55,A Participatory Urban Traffic Monitoring System: The Power of Bus Riders.,2017,"Zhidan Liu, Shiqi Jiang, Pengfei Zhou, Mo Li",IEEE Trans. Intell. Transp. Syst. 18: 2851-2864 ,TITS,Unranked
+56,Soft Hint Enabled Adaptive Visible Light Communication over Screen-Camera Links.,2017,"Wan Du, Jansen Christian Liando, Mo Li",IEEE Trans. Mob. Comput. 16: 527-537 ,TMC,Unranked
+57,From Rateless to Hopless.,2017,"Zhenjiang Li, Wan Du, Yuanqing Zheng, Mo Li, Dapeng Wu",IEEE/ACM Trans. Netw. 25: 69-82 ,TON,Unranked
+58,Pando: Fountain-Enabled Fast Data Dissemination With Constructive Interference.,2017,"Wan Du, Jansen Christian Liando, Huanle Zhang, Mo Li",IEEE/ACM Trans. Netw. 25: 820-833 ,TON,Unranked
+59,Come and Be Served: Parallel Decoding for COTS RFID Tags.,2017,"Jiajue Ou, Mo Li, Yuanqing Zheng",IEEE/ACM Trans. Netw. 25: 1569-1581 ,TON,Unranked
+60,Travi-Navi: Self-Deployable Indoor Navigation System.,2017,"Yuanqing Zheng, Guobin Shen, Liqun Li, Chunshui Zhao, Mo Li, Feng Zhao",IEEE/ACM Trans. Netw. 25: 2655-2669 ,TON,Unranked
+61,Fair QoS multi-resource allocation for uplink traffic in WLAN.,2017,"Yuxiao Hou, Yuanqing Zheng, Mo Li",Wirel. Networks 23: 467-486 ,WINET,Unranked
+62,Localization for industrial warehouse storage rack using passive UHF RFID system.,2017,"Sheng Huang, Oon Peen Gan, Sethu Jose, Mo Li",ETFA 2017: 1-8,ETFA,Unranked
+63,Memento: An Emotion Driven Lifelogging System with Wearables.,2017,"Shiqi Jiang, Pengfei Zhou, Zhenjiang Li, Mo Li",ICCCN 2017: 1-9,ICCCN,B
+64,Large-scale invisible attack on AFC systems with NFC-equipped smartphones.,2017,"Fan Dang, Pengfei Zhou, Zhenhua Li, Ennan Zhai, Aziz Mohaisen, Qingfu Wen, Mo Li",INFOCOM 2017: 1-9,INFOCOM,A*
+65,iType: Using eye gaze to enhance typing privacy.,2017,"Zhenjiang Li, Mo Li, Prasant Mohapatra, Jinsong Han, Shuaiyu Chen",INFOCOM 2017: 1-9,INFOCOM,A*
+66,Vision and Challenges for Knowledge Centric Networking (KCN).,2017,"Dapeng Oliver Wu, Zhenjiang Li, Yuanqing Zheng, Mo Li, Qiuyuan Huang",CoRR abs/1707.00805 ,CORR,Unranked
+67,Secure and Private RFID-Enabled Third-Party Supply Chain Systems.,2016,"Saiyu Qi, Yuanqing Zheng, Mo Li, Li Lu, Yunhao Liu",IEEE Trans. Computers 65: 3413-3426 ,TC,Unranked
+68,Mining Road Network Correlation for Traffic Estimation via Compressive Sensing.,2016,"Zhidan Liu, Zhenjiang Li, Mo Li, Wei Xing, Dongming Lu",IEEE Trans. Intell. Transp. Syst. 17: 1880-1893 ,TITS,Unranked
+69,Path Reconstruction in Dynamic Wireless Sensor Networks Using Compressive Sensing.,2016,"Zhidan Liu, Zhenjiang Li, Mo Li, Wei Xing, Dongming Lu",IEEE/ACM Trans. Netw. 24: 1948-1960 ,TON,Unranked
+70,From Rateless to Distanceless: Enabling Sparse Sensor Network Deployment in Large Areas.,2016,"Wan Du, Zhenjiang Li, Jansen Christian Liando, Mo Li",IEEE/ACM Trans. Netw. 24: 2498-2511 ,TON,Unranked
+71,PLACE: Physical Layer Cardinality Estimation for Large-Scale RFID Systems.,2016,"Yuxiao Hou, Jiajue Ou, Yuanqing Zheng, Mo Li",IEEE/ACM Trans. Netw. 24: 2702-2714 ,TON,Unranked
+72,Read Bulk Data From Computational RFIDs.,2016,"Yuanqing Zheng, Mo Li",IEEE/ACM Trans. Netw. 24: 3098-3108 ,TON,Unranked
+73,Scalable Industry Data Access Control in RFID-Enabled Supply Chain.,2016,"Saiyu Qi, Yuanqing Zheng, Mo Li, Yunhao Liu, Jinli Qiu",IEEE/ACM Trans. Netw. 24: 3551-3564 ,TON,Unranked
+74,SoftLight: Adaptive visible light communication over screen-camera links.,2016,"Wan Du, Jansen Christian Liando, Mo Li",INFOCOM 2016: 1-9,INFOCOM,A*
+75,Augmenting wide-band 802.11 transmissions via unequal packet bit protection.,2016,"Yaxiong Xie, Zhenjiang Li, Mo Li, Kyle Jamieson",INFOCOM 2016: 1-9,INFOCOM,A*
+76,Poster abstract: Emotion-driven lifelogging with wearables.,2016,"Shiqi Jiang, Pengfei Zhou, Zhenjiang Li, Mo Li",INFOCOM Workshops 2016: 1091-1092,INFOCOM,A*
+77,xD-track: leveraging multi-dimensional information for passive wi-fi tracking.,2016,"Yaxiong Xie, Jie Xiong, Mo Li, Kyle Jamieson",HotWireless@MobiCom 2016: 39-43,MOBICOM,A*
+78,DopEnc: acoustic-based encounter profiling using smartphones.,2016,"Huanle Zhang, Wan Du, Pengfei Zhou, Mo Li, Prasant Mohapatra",MobiCom 2016: 294-307,MOBICOM,A*
+79,Understanding the Flooding in Low-Duty-Cycle Wireless Sensor Networks.,2015,"Zhenjiang Li, Mo Li, Junliang Liu, Wei Gong, Shaojie Tang",Ad Hoc Sens. Wirel. Networks 24: 49-77 ,AHSWN,Unranked
+80,BEST: a bidirectional efficiency-privacy transferable authentication protocol for RFID-enabled supply chain.,2015,"Saiyu Qi, Li Lu, Zhenjiang Li, Mo Li",Int. J. Ad Hoc Ubiquitous Comput. 18: 234-244 ,IJAHUC,Unranked
+81,Detecting Phantom Data Usage on Smartphones with Analysis of Contextual Information.,2015,"Shiqi Jiang, Pengfei Zhou, Mo Li",Int. J. Distributed Sens. Networks 11: 135150:1-135150:10 ,IJDSN,Unranked
+82,P-MTI: Physical-Layer Missing Tag Identification via Compressive Sensing.,2015,"Yuanqing Zheng, Mo Li",IEEE/ACM Trans. Netw. 23: 1356-1366 ,TON,Unranked
+83,IODetector: A Generic Service for Indoor/Outdoor Detection.,2015,"Mo Li, Pengfei Zhou, Yuanqing Zheng, Zhenjiang Li, Guobin Shen",ACM Trans. Sens. Networks 11: 28:1-28:29 ,TOSN,Unranked
+84,Sensor Placement and Measurement of Wind for Water Quality Studies in Urban Reservoirs.,2015,"Wan Du, Zikun Xing, Mo Li, Bingsheng He, Lloyd Hock Chye Chua, Haiyan Miao",ACM Trans. Sens. Networks 11: 41:1-41:27 ,TOSN,Unranked
+85,Incorporating Energy Heterogeneity into Sensor Network Time Synchronization.,2015,"Zhenjiang Li, Wenwei Chen, Mo Li, Jingsheng Lei",IEEE Trans. Parallel Distributed Syst. 26: 163-173 ,TPDS,Unranked
+86,Urban Traffic Monitoring with the Help of Bus Riders.,2015,"Pengfei Zhou, Shiqi Jiang, Mo Li",ICDCS 2015: 21-30,ICDCS,A
+87,PLACE: Physical layer cardinality estimation for large-scale RFID systems.,2015,"Yuxiao Hou, Jiajue Ou, Yuanqing Zheng, Mo Li",INFOCOM 2015: 1957-1965,INFOCOM,A*
+88,Precise Power Delay Profiling with Commodity WiFi.,2015,"Yaxiong Xie, Zhenjiang Li, Mo Li",MobiCom 2015: 53-64,MOBICOM,A*
+89,Recitation: Rehearsing Wireless Packet Reception in Software.,2015,"Zhenjiang Li, Yaxiong Xie, Mo Li, Kyle Jamieson",MobiCom 2015: 291-303,MOBICOM,A*
+90,Come and Be Served: Parallel Decoding for COTS RFID Tags.,2015,"Jiajue Ou, Mo Li, Yuanqing Zheng",MobiCom 2015: 500-511,MOBICOM,A*
+91,From Rateless to Hopless.,2015,"Zhenjiang Li, Wan Du, Yuanqing Zheng, Mo Li, Dapeng Wu",MobiHoc 2015: 107-116,MOBIHOC,A
+92,When Pipelines Meet Fountain: Fast Data Dissemination in Wireless Sensor Networks.,2015,"Wan Du, Jansen Christian Liando, Huanle Zhang, Mo Li",SenSys 2015: 365-378,SENSYS,A*
+93,How Long to Wait? Predicting Bus Arrival Time With Mobile Phone Based Participatory Sensing.,2014,"Pengfei Zhou, Yuanqing Zheng, Mo Li",IEEE Trans. Mob. Comput. 13: 1228-1241 ,TMC,Unranked
+94,FLIGHT: Clock Calibration and Context Recognition Using Fluorescent Lighting.,2014,"Zhenjiang Li, Wenwei Chen, Cheng Li, Mo Li, Xiang-Yang Li, Yunhao Liu",IEEE Trans. Mob. Comput. 13: 1495-1508 ,TMC,Unranked
+95,Towards More Efficient Cardinality Estimation for Large-Scale RFID Systems.,2014,"Yuanqing Zheng, Mo Li",IEEE/ACM Trans. Netw. 22: 1886-1896 ,TON,Unranked
+96,Towards Energy-Fairness in Asynchronous Duty-Cycling Sensor Networks.,2014,"Zhenjiang Li, Mo Li, Yunhao Liu",ACM Trans. Sens. Networks 10: 38:1-38:26 ,TOSN,Unranked
+97,IMGPU: GPU-Accelerated Influence Maximization in Large-Scale Social Networks.,2014,"Xiaodong Liu, Mo Li, Shanshan Li, Shaoliang Peng, Xiangke Liao, Xiaopei Lu",IEEE Trans. Parallel Distributed Syst. 25: 136-145 ,TPDS,Unranked
+98,QoF: Towards Comprehensive Path Quality Measurement in Wireless Sensor Networks.,2014,"Jiliang Wang, Yunhao Liu, Yuan He, Wei Dong, Mo Li",IEEE Trans. Parallel Distributed Syst. 25: 1003-1013 ,TPDS,Unranked
+99,OTrack: Towards Order Tracking for Tags in Mobile RFID Systems.,2014,"Longfei Shangguan, Zhenjiang Li, Zheng Yang, Mo Li, Yunhao Liu, Jinsong Han",IEEE Trans. Parallel Distributed Syst. 25: 2114-2125 ,TPDS,Unranked
+100,Understanding Multi-Task Schedulabilityin Duty-Cycling Sensor Networks.,2014,"Mo Li, Zhenjiang Li, Longfei Shangguan, Shaojie Tang, Xiang-Yang Li",IEEE Trans. Parallel Distributed Syst. 25: 2464-2475 ,TPDS,Unranked
+101,CO-MAP: Improving Mobile Multiple Access Efficiency With Location Input.,2014,"Wan Du, Mo Li, Jingsheng Lei",IEEE Trans. Wirel. Commun. 13: 6643-6654 ,TWC,Unranked
+102,"Achieving convergence in operational transformation: conditions, mechanisms and systems.",2014,"Yi Xu, Chengzheng Sun, Mo Li",CSCW 2014: 505-518,CSCW,A
+103,Energy Efficient HVAC System with Distributed Sensing and Control.,2014,"Cheng Li, Zhenjiang Li, Mo Li, Forrest Meggers, Arno Schlueter, Hock Beng Lim",ICDCS 2014: 429-438,ICDCS,A
+104,Scalable Data Access Control in RFID-Enabled Supply Chain.,2014,"Saiyu Qi, Yuanqing Zheng, Mo Li, Yunhao Liu, Jinli Qiu",ICNP 2014: 71-82,ICNP,B
+105,Read bulk data from computational RFIDs.,2014,"Yuanqing Zheng, Mo Li",INFOCOM 2014: 495-503,INFOCOM,A*
+106,COLLECTOR: A secure RFID-enabled batch recall protocol.,2014,"Saiyu Qi, Yuanqing Zheng, Mo Li, Li Lu, Yunhao Liu",INFOCOM 2014: 1510-1518,INFOCOM,A*
+107,MISC: Merging incorrect symbols using constellation diversity for 802.11 retransmission.,2014,"Jiajue Ou, Yuanqing Zheng, Mo Li",INFOCOM 2014: 2472-2480,INFOCOM,A*
+108,Frogeye: Perception of the slightest tag motion.,2014,"Lei Yang, Yong Qi, Jianbing Fang, Xuan Ding, Tianci Liu, Mo Li",INFOCOM 2014: 2670-2678,INFOCOM,A*
+109,Fair QoS multi-resource allocation for wireless LAN.,2014,"Yuxiao Hou, Mo Li, Yuanqing Zheng",IWQoS 2014: 290-295,IWQOS,Unranked
+110,Tagoram: real-time tracking of mobile RFID tags to high precision using COTS devices.,2014,"Lei Yang, Yekui Chen, Xiang-Yang Li, Chaowei Xiao, Mo Li, Yunhao Liu",MobiCom 2014: 237-248,MOBICOM,A*
+111,Demo: instant phone attitude estimation and its applications.,2014,"Pengfei Zhou, Weiming Chan, Shiqi Jiang, Jiajue Ou, Mo Li, Guobin Shen",MobiCom 2014: 333-336,MOBICOM,A*
+112,Travi-Navi: self-deployable indoor navigation system.,2014,"Yuanqing Zheng, Guobin Shen, Liqun Li, Chunshui Zhao, Mo Li, Feng Zhao",MobiCom 2014: 471-482,MOBICOM,A*
+113,Use it free: instantly knowing your phone attitude.,2014,"Pengfei Zhou, Mo Li, Guobin Shen",MobiCom 2014: 605-616,MOBICOM,A*
+114,Path reconstruction in dynamic wireless sensor networks using compressive sensing.,2014,"Zhidan Liu, Zhenjiang Li, Mo Li, Wei Xing, Dongming Lu",MobiHoc 2014: 297-306,MOBIHOC,A
+115,Demo Abstract: Wind measurements for water quality studies in urban reservoirs.,2014,"Wan Du, Mo Li, Zikun Xing, Bingsheng He, Lloyd Hock Chye Chua, Zhenjiang Li, Yuanqiang Zheng, Pengfei Zhou",SECON 2014: 161-163,SECON,B
+116,From rateless to distanceless: enabling sparse sensor network deployment in large areas.,2014,"Wan Du, Zhenjiang Li, Jansen Christian Liando, Mo Li",SenSys 2014: 134-147,SENSYS,A*
+117,From rateless to distanceless: enabling sparse sensor network deployment in large areas.,2014,"Wan Du, Zhenjiang Li, Jansen Christian Liando, Mo Li",SenSys 2014: 312-313,SENSYS,A*
+118,"A Survey on Topology Control in Wireless Sensor Networks: Taxonomy, Comparative Study, and Open Issues.",2013,"Mo Li, Zhenjiang Li, Athanasios V. Vasilakos",Proc. IEEE 101: 2538-2557 ,PIEEE,Unranked
+119,SenSmart: Adaptive Stack Management for Multitasking Sensor Networks.,2013,"Rui Chu, Lin Gu, Yunhao Liu, Mo Li, Xicheng Lu",IEEE Trans. Computers 62: 137-150 ,TC,Unranked
+120,Expandable and Cost-Effective Network Structures for Data Centers Using Dual-Port Servers.,2013,"Deke Guo, Tao Chen, Dan Li, Mo Li, Yunhao Liu, Guihai Chen",IEEE Trans. Computers 62: 1303-1317 ,TC,Unranked
+121,Sea depth measurement with restricted floating sensors.,2013,"Mo Li, Zheng Yang, Yunhao Liu",ACM Trans. Embed. Comput. Syst. 13: 1:1-1:21 ,TECS,Unranked
+122,Set Reconciliation via Counting Bloom Filters.,2013,"Deke Guo, Mo Li",IEEE Trans. Knowl. Data Eng. 25: 2367-2380 ,TKDE,Unranked
+123,Fast Tag Searching Protocol for Large-Scale RFID Systems.,2013,"Yuanqing Zheng, Mo Li",IEEE/ACM Trans. Netw. 21: 924-934 ,TON,Unranked
+124,Property management in wireless sensor networks with overcomplete radon bases.,2013,"Xiaoye Jiang, Mo Li, Yuan Yao, Leonidas J. Guibas",ACM Trans. Sens. Networks 9: 36:1-36:26 ,TOSN,Unranked
+125,Exploiting Ubiquitous Data Collection for Mobile Users in Wireless Sensor Networks.,2013,"Zhenjiang Li, Yunhao Liu, Mo Li, Jiliang Wang, Zhichao Cao",IEEE Trans. Parallel Distributed Syst. 24: 312-326 ,TPDS,Unranked
+126,Sensor Network Navigation without Locations.,2013,"Jiliang Wang, Zhenjiang Li, Mo Li, Yunhao Liu, Zheng Yang",IEEE Trans. Parallel Distributed Syst. 24: 1436-1446 ,TPDS,Unranked
+127,Does Wireless Sensor Network Scale? A Measurement Study on GreenOrbs.,2013,"Yunhao Liu, Yuan He, Mo Li, Jiliang Wang, Kebin Liu, Xiang-Yang Li",IEEE Trans. Parallel Distributed Syst. 24: 1983-1993 ,TPDS,Unranked
+128,Harnessing Mobile Multiple Access Efficiency with Location Input.,2013,"Wan Du, Mo Li",ICDCS 2013: 246-255,ICDCS,A
+129,ZOE: Fast cardinality estimation for large-scale RFID systems.,2013,"Yuanqing Zheng, Mo Li",INFOCOM 2013: 908-916,INFOCOM,A*
+130,P-MTI: Physical-layer Missing Tag Identification via compressive sensing.,2013,"Yuanqing Zheng, Mo Li",INFOCOM 2013: 917-925,INFOCOM,A*
+131,OTrack: Order tracking for luggage in mobile RFID systems.,2013,"Longfei Shangguan, Zhenjiang Li, Zheng Yang, Mo Li, Yunhao Liu",INFOCOM 2013: 3066-3074,INFOCOM,A*
+132,STAGGER: Improving Channel Utilization for Convergecast in Wireless Sensor Networks.,2013,"Jiliang Wang, Wei Dong, Mo Li, Yunhao Liu",MASS 2013: 452-460,MASS,B
+133,Smart traffic monitoring with participatory sensing.,2013,"Pengfei Zhou, Zhiyuan Chen, Mo Li",SenSys 2013: 26:1-26:2,SENSYS,A*
+134,Mobile Sensing and Actuating with Ubiquitous Computing.,2012,"Mo Li, Yunhao Liu, Xiang-Yang Li",Int. J. Distributed Sens. Networks 8 ,IJDSN,Unranked
+135,PET: Probabilistic Estimating Tree for Large-Scale RFID Estimation.,2012,"Yuanqing Zheng, Mo Li",IEEE Trans. Mob. Comput. 11: 1763-1774 ,TMC,Unranked
+136,Fingerprinting Mobile User Positions in Sensor Networks: Attacks and Countermeasures.,2012,"Mo Li, Xiaoye Jiang, Leonidas J. Guibas",IEEE Trans. Parallel Distributed Syst. 23: 676-683 ,TPDS,Unranked
+137,COSE: A Query-Centric Framework of Collaborative Heterogeneous Sensor Networks.,2012,"Yuan He, Mo Li",IEEE Trans. Parallel Distributed Syst. 23: 1681-1693 ,TPDS,Unranked
+138,BEST: A Bidirectional Efficiency-Privacy Transferable Authentication Protocol for RFID-Enabled Supply Chain.,2012,"Saiyu Qi, Li Lu, Zhenjiang Li, Mo Li",ICPADS 2012: 424-431,ICPADS,B
+139,Towards energy-fairness in asynchronous duty-cycling sensor networks.,2012,"Zhenjiang Li, Mo Li, Yunhao Liu",INFOCOM 2012: 801-809,INFOCOM,A*
+140,FLIGHT: clock calibration using fluorescent lighting.,2012,"Zhenjiang Li, Wenwei Chen, Cheng Li, Mo Li, Xiang-Yang Li, Yunhao Liu",MobiCom 2012: 329-340,MOBICOM,A*
+141,Clock calibration using fluorescent lighting.,2012,"Zhenjiang Li, Cheng Li, Wenwei Chen, Jingyao Dai, Mo Li, Xiang-Yang Li, Yunhao Liu",MobiCom 2012: 463-466,MOBICOM,A*
+142,How long to wait?: predicting bus arrival time with mobile phone based participatory sensing.,2012,"Pengfei Zhou, Yuanqing Zheng, Mo Li",MobiSys 2012: 379-392,MOBISYS,Unranked
+143,Demo: how long to wait?: predicting bus arrival time with mobile phone based participatory sensing.,2012,"Pengfei Zhou, Yuanqing Zheng, Mo Li",MobiSys 2012: 459-460,MOBISYS,Unranked
+144,IODetector: a generic service for indoor outdoor detection.,2012,"Pengfei Zhou, Yuanqing Zheng, Zhenjiang Li, Mo Li, Guobin Shen",SenSys 2012: 113-126,SENSYS,A*
+145,IODetector: a generic service for indoor outdoor detection.,2012,"Pengfei Zhou, Yuanqing Zheng, Zhenjiang Li, Mo Li, Guobin Shen",SenSys 2012: 361-362,SENSYS,A*
+146,Using Potential to Guide Mobile Nodes in Wireless Sensor Networks.,2011,"Min Xi, Yong Qi, Kui Wu, Jizhong Zhao, Mo Li",Ad Hoc Sens. Wirel. Networks 12: 229-251 ,AHSWN,Unranked
+147,Integrated scheduling for mobility-assisted Wireless Sensor Networks.,2011,"Kebin Liu, Mo Li, Jiliang Wang, Qiang Ma, Minglu Li",Int. J. Ad Hoc Ubiquitous Comput. 8: 96-105 ,IJAHUC,Unranked
+148,Connectivity-Based Wormhole Detection in Ubiquitous Sensor Networks.,2011,"Dezun Dong, Mo Li, Yunhao Liu, Xiangke Liao",J. Inf. Sci. Eng. 27: 65-78 ,JISE,Unranked
+149,Sweep Coverage with Mobile Sensors.,2011,"Mo Li, Wei-Fang Cheng, Kebin Liu, Yunhao Liu, Xiang-Yang Li, Xiangke Liao",IEEE Trans. Mob. Comput. 10: 1534-1545 ,TMC,Unranked
+150,Topological Detection on Wormholes in Wireless Ad Hoc and Sensor Networks.,2011,"Dezun Dong, Mo Li, Yunhao Liu, Xiang-Yang Li, Xiangke Liao",IEEE/ACM Trans. Netw. 19: 1787-1796 ,TON,Unranked
+151,PET: Probabilistic Estimating Tree for Large-Scale RFID Estimation.,2011,"Yuanqing Zheng, Mo Li, Chen Qian",ICDCS 2011: 37-46,ICDCS,A
+152,Fast tag searching protocol for large-scale RFID systems.,2011,"Yuanqing Zheng, Mo Li",ICNP 2011: 363-372,ICNP,B
+153,Understanding the Flooding in Low-Duty-Cycle Wireless Sensor Networks.,2011,"Zhenjiang Li, Mo Li, Junliang Liu, Shaojie Tang",ICPP 2011: 673-682,ICPP,B
+154,QoF: Towards comprehensive path quality measurement in wireless sensor networks.,2011,"Jiliang Wang, Yunhao Liu, Mo Li, Wei Dong, Yuan He",INFOCOM 2011: 775-783,INFOCOM,A*
+155,Does wireless sensor network scale? A measurement study on GreenOrbs.,2011,"Yunhao Liu, Yuan He, Mo Li, Jiliang Wang, Kebin Liu, Lufeng Mo, Wei Dong, Zheng Yang, Min Xi, Jizhong Zhao, Xiang-Yang Li",INFOCOM 2011: 873-881,INFOCOM,A*
+156,Multiple task scheduling for low-duty-cycled wireless sensor networks.,2011,"Shuguang Xiong, Jianzhong Li, Mo Li, Jiliang Wang, Yunhao Liu",INFOCOM 2011: 1323-1331,INFOCOM,A*
+157,Ubiquitous data collection for mobile users in wireless sensor networks.,2011,"Zhenjiang Li, Mo Li, Jiliang Wang, Zhichao Cao",INFOCOM 2011: 2246-2254,INFOCOM,A*
+158,Overcomplete Radon bases for target property management in sensor networks.,2011,"Xiaoye Jiang, Mo Li, Yuan Yao, Leonidas J. Guibas",IPSN 2011: 25-36,IPSN,A*
+159,Load Balanced Rendezvous Data Collection in Wireless Sensor Networks.,2011,"Luo Mai, Longfei Shangguan, Chao Lang, Junzhao Du, Hui Liu, Zhenjiang Li, Mo Li",MASS 2011: 282-291,MASS,B
+160,Approaching Efficient Flooding Protocol Design in Low-Duty-Cycle Wireless Sensor Networks.,2011,"Zhenjiang Li, Mo Li",WASA 2011: 292-301,WASA,Unranked
+161,Oceansense: monitoring the sea with wireless sensor networks.,2010,"Kebin Liu, Zheng Yang, Mo Li, Zhongwen Guo, Ying Guo, Feng Hong, Xiaohui Yang, Yuan He, Yuan Feng, Yunhao Liu",ACM SIGMOBILE Mob. Comput. Commun. Rev. 14: 7-9 ,SIGMOBILE,Unranked
+162,Iso-Map: Energy-Efficient Contour Mapping in Wireless Sensor Networks.,2010,"Mo Li, Yunhao Liu",IEEE Trans. Knowl. Data Eng. 22: 699-710 ,TKDE,Unranked
+163,Rendered path: range-free localization in anisotropic sensor networks with holes.,2010,"Mo Li, Yunhao Liu",IEEE/ACM Trans. Netw. 18: 320-332 ,TON,Unranked
+164,Passive Diagnosis for Wireless Sensor Networks.,2010,"Yunhao Liu, Kebin Liu, Mo Li",IEEE/ACM Trans. Netw. 18: 1132-1144 ,TON,Unranked
+165,Versatile Stack Management for Multitasking Sensor Networks.,2010,"Rui Chu, Lin Gu, Yunhao Liu, Mo Li, Xicheng Lu",ICDCS 2010: 388-397,ICDCS,A
+166,Fingerprinting Mobile User Positions in Sensor Networks.,2010,"Mo Li, Xiaoye Jiang, Leonidas J. Guibas",ICDCS 2010: 478-487,ICDCS,A
+167,Exploring the hidden connectivity in urban vehicular networks.,2010,"Kebin Liu, Mo Li, Yunhao Liu, Xiang-Yang Li, Minglu Li, Huadong Ma",ICNP 2010: 243-252,ICNP,B
+168,Fractured voronoi segments: Topology discovery for wireless sensor networks.,2010,"Jiliang Wang, Mo Li, Yunhao Liu",MASS 2010: 137-145,MASS,B
+169,Underground coal mine monitoring with wireless sensor networks.,2009,"Mo Li, Yunhao Liu",ACM Trans. Sens. Networks 5: 10:1-10:29 ,TOSN,Unranked
+170,Topological Detection on Wormholes in Wireless Ad Hoc and Sensor Networks.,2009,"Dezun Dong, Mo Li, Yunhao Liu, Xiang-Yang Li, Xiangke Liao",ICNP 2009: 314-323,ICNP,B
+171,WormCircle: Connectivity-Based Wormhole Detection in Wireless Ad Hoc and Sensor Networks.,2009,"Dezun Dong, Mo Li, Yunhao Liu, Xiangke Liao",ICPADS 2009: 72-79,ICPADS,B
+172,Run to Potential: Sweep Coverage in Wireless Sensor Networks.,2009,"Min Xi, Kui Wu, Yong Qi, Jizhong Zhao, Yunhao Liu, Mo Li",ICPP 2009: 50-57,ICPP,B
+173,Sensor Network Navigation without Locations.,2009,"Mo Li, Yunhao Liu, Jiliang Wang, Zheng Yang",INFOCOM 2009: 2419-2427,INFOCOM,A*
+174,Nonthreshold-Based Event Detection for 3D Environment Monitoring in Sensor Networks.,2008,"Mo Li, Yunhao Liu, Lei Chen",IEEE Trans. Knowl. Data Eng. 20: 1699-1711 ,TKDE,Unranked
+175,Signature-File-Based Approach for Query Answering Over Wireless Sensor Networks.,2008,"Mo Li, Lei Chen, Jizhong Zhao, Qian Zhang, Yunhao Liu",IEEE Trans. Veh. Technol. 57: 3146-3154 ,TVT,Unranked
+176,Using Cable-Based Mobile Sensors to Assist Environment Surveillance.,2008,"Shanshan Li, Xiaoping Wang, Mo Li, Xiangke Liao",ICPADS 2008: 623-630,ICPADS,B
+177,Sweep coverage with mobile sensors.,2008,"Wei-Fang Cheng, Mo Li, Kebin Liu, Yunhao Liu, Xiang-Yang Li, Xiangke Liao",IPDPS 2008: 1-9,IPPS,Unranked
+178,Using cable-based mobile sensors to assist environment surveillance.,2008,"Shanshan Li, Shaoliang Peng, Mo Li, Xiangke Liao",MASS 2008: 521-522,MASS,B
+179,Collaborative query processing among heterogeneous sensor networks.,2008,"Yuan He, Mo Li, Yunhao Liu",HeterSanet 2008: 25-30,MOBIHOC,A
+180,Hidden information and actions in multi-hop wireless ad hoc networks.,2008,"Xiang-Yang Li, Yanwei Wu, Ping Xu, Guihai Chen, Mo Li",MobiHoc 2008: 283-292,MOBIHOC,A
+181,MDS: Efficient Multi-dimensional Query Processing in Data-Centric WSNs.,2008,"Hanhua Chen, Mo Li, Hai Jin, Yunhao Liu, Lionel M. Ni",RTSS 2008: 355-364,RTSS,A*
+182,Passive diagnosis for wireless sensor networks.,2008,"Kebin Liu, Mo Li, Yunhao Liu, Minglu Li, Zhongwen Guo, Feng Hong",SenSys 2008: 113-126,SENSYS,A*
+183,Passive diagnosis for wireless sensor networks.,2008,"Kebin Liu, Mo Li, Xiaohui Yang, Mingxing Jiang",SenSys 2008: 371-372,SENSYS,A*
+184,Sensor network navigation without locations.,2008,"Mo Li, Jiliang Wang, Zheng Yang, Jingyao Dai",SenSys 2008: 391-392,SENSYS,A*
+185,Non-Threshold based Event Detection for 3D Environment Monitoring in Sensor Networks.,2007,"Mo Li, Yunhao Liu, Lei Chen",ICDCS 2007: 9,ICDCS,A
+186,Iso-Map: Energy-Efficient Contour Mapping in Wireless Sensor Networks.,2007,"Yunhao Liu, Mo Li",ICDCS 2007: 36,ICDCS,A
+187,Underground structure monitoring with wireless sensor networks.,2007,"Mo Li, Yunhao Liu",IPSN 2007: 69-78,IPSN,A*
+188,Rendered path: range-free localization in anisotropic sensor networks with holes.,2007,"Mo Li, Yunhao Liu",MobiCom 2007: 51-62,MOBICOM,A*
+189,Sea Depth Measurement with Restricted Floating Sensors.,2007,"Zheng Yang, Mo Li, Yunhao Liu",RTSS 2007: 469-478,RTSS,A*
+190,Truthful Topology Control inWireless Ad Hoc Networks with Selfish Nodes.,2006,"Jianfeng Cai, Yunhuai Liu, Jie Lian, Mo Li, Udo W. Pooch, Lionel M. Ni",ICPP 2006: 203-210,ICPP,B

@@ -1,0 +1,72 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Adaptive Transfer Kernel Learning for Transfer Gaussian Process Regression.,2023,"Pengfei Wei, Yiping Ke, Yew-Soon Ong, Zejun Ma",IEEE Trans. Pattern Anal. Mach. Intell. 45: 7142-7156 ,PAMI,Unranked
+1,CPMR: Context-Aware Incremental Sequential Recommendation with Pseudo-Multi-Task Learning.,2023,"Qingtian Bian, Jiaxing Xu, Hui Fang, Yiping Ke",CIKM 2023: 120-130,CIKM,A
+2,Union Subgraph Neural Networks.,2023,"Jiaxing Xu, Aihu Zhang, Qingtian Bian, Vijay Prakash Dwivedi, Yiping Ke",CoRR abs/2305.15747 ,CORR,Unranked
+3,Contrastive Graph Pooling for Explainable Classification of Brain Networks.,2023,"Jiaxing Xu, Qingtian Bian, Xinhang Li, Aihu Zhang, Yiping Ke, Miao Qiao, Wei Zhang, Wei Khang Jeremy Sim, Balázs Gulyás",CoRR abs/2307.11133 ,CORR,Unranked
+4,CPMR: Context-Aware Incremental Sequential Recommendation with Pseudo-Multi-Task Learning.,2023,"Qingtian Bian, Jiaxing Xu, Hui Fang, Yiping Ke",CoRR abs/2309.04802 ,CORR,Unranked
+5,Subdomain Adaptation With Manifolds Discrepancy Alignment.,2022,"Pengfei Wei, Yiping Ke, Xinghua Qu, Tze-Yun Leong",IEEE Trans. Cybern. 52: 11698-11708 ,TCYB,Unranked
+6,Easy-But-Effective Domain Sub-Similarity Learning for Transfer Regression.,2022,"Pengfei Wei, Ramón Sagarna, Yiping Ke, Yew-Soon Ong",IEEE Trans. Knowl. Data Eng. 34: 4161-4171 ,TKDE,Unranked
+7,A Class-Aware Representation Refinement Framework for Graph Classification.,2022,"Jiaxing Xu, Jinjie Ni, Sophi Shilpa Gururajapathy, Yiping Ke",CoRR abs/2209.00936 ,CORR,Unranked
+8,Data-Driven Network Neuroscience: On Data Collection and Benchmark.,2022,"David Tse Jung Huang, Sophi Shilpa Gururajapathy, Yiping Ke, Miao Qiao, Alan Wang, Haribalan Kumar, Yunhan Yang",CoRR abs/2211.12421 ,CORR,Unranked
+9,Practical Multisource Transfer Regression With Source-Target Similarity Captures.,2021,"Pengfei Wei, Ramón Sagarna, Yiping Ke, Yew-Soon Ong",IEEE Trans. Neural Networks Learn. Syst. 32: 3498-3509 ,TNN,Unranked
+10,Mitigating Performance Saturation in Neural Marked Point Processes: Architectures and Loss Functions.,2021,"Tianbo Li, Tianze Luo, Yiping Ke, Sinno Jialin Pan",KDD 2021: 986-994,KDD,A*
+11,Mitigating Performance Saturation in Neural Marked Point Processes: Architectures and Loss Functions.,2021,"Tianbo Li, Tianze Luo, Yiping Ke, Sinno Jialin Pan",CoRR abs/2107.03354 ,CORR,Unranked
+12,A unified linear convergence analysis of k-SVD.,2020,"Zhiqiang Xu, Yiping Ke, Xin Cao, Chunlai Zhou, Pengfei Wei, Xin Gao",Memetic Comput. 12: 343-353 ,MEMETIC,Unranked
+13,Tweedie-Hawkes Processes: Interpreting the Phenomena of Outbreaks.,2020,"Tianbo Li, Yiping Ke",AAAI 2020: 4699-4706,AAAI,A*
+14,Adaptive Knowledge Transfer based on Transfer Neural Kernel Network.,2020,"Pengfei Wei, Xinghua Qu, Yiping Ke, Tze-Yun Leong, Yew-Soon Ong",AAMAS 2020: 1485-1493,ATAL,Unranked
+15,Succinct Adaptive Manifold Transfer.,2020,"Pengfei Wei, Yiping Ke, Zhiqiang Xu, Tze-Yun Leong",CIKM 2020: 1615-1624,CIKM,A
+16,Subdomain Adaptation with Manifolds Discrepancy Alignment.,2020,"Pengfei Wei, Yiping Ke, Xinghua Qu, Tze-Yun Leong",CoRR abs/2005.03229 ,CORR,Unranked
+17,A General Domain Specific Feature Transfer Framework for Hybrid Domain Adaptation.,2019,"Pengfei Wei, Yiping Ke, Chi Keong Goh",IEEE Trans. Knowl. Data Eng. 31: 1440-1451 ,TKDE,Unranked
+18,Feature Analysis of Marginalized Stacked Denoising Autoenconder for Unsupervised Domain Adaptation.,2019,"Pengfei Wei, Yiping Ke, Chi Keong Goh",IEEE Trans. Neural Networks Learn. Syst. 30: 1321-1334 ,TNN,Unranked
+19,Knowledge Transfer based on Multiple Manifolds Assumption.,2019,"Pengfei Wei, Yiping Ke",CIKM 2019: 279-287,CIKM,A
+20,Thinning for Accelerating the Learning of Point Processes.,2019,"Tianbo Li, Yiping Ke",NeurIPS 2019: 4093-4103,NIPS,Unranked
+21,Transfer Hawkes Processes with Content Information.,2018,"Tianbo Li, Pengfei Wei, Yiping Ke",ICDM 2018: 1116-1121,ICDM,A*
+22,Uncluttered Domain Sub-Similarity Modeling for Transfer Regression.,2018,"Pengfei Wei, Ramón Sagarna, Yiping Ke, Yew-Soon Ong",ICDM 2018: 1314-1319,ICDM,A*
+23,Domain Specific Feature Transfer for Hybrid Domain Adaptation.,2017,"Pengfei Wei, Yiping Ke, Chi-Keong Goh",ICDM 2017: 1027-1032,ICDM,A*
+24,Source-Target Similarity Modelings for Multi-Source Transfer Gaussian Process Regression.,2017,"Pengfei Wei, Ramón Sagarna, Yiping Ke, Yew-Soon Ong, Chi-Keong Goh",ICML 2017: 3722-3731,ICML,A*
+25,A Fast Algorithm for Matrix Eigen-decompositionn.,2017,"Zhiqiang Xu, Yiping Ke, Xin Gao",UAI 2017,UAI,A
+26,Efficient Algorithms for Temporal Path Computation.,2016,"Huanhuan Wu, James Cheng, Yiping Ke, Silu Huang, Yuzhen Huang, Hejun Wu",IEEE Trans. Knowl. Data Eng. 28: 2927-2942 ,TKDE,Unranked
+27,Effective and Efficient Spectral Clustering on Text and Link Data.,2016,"Zhiqiang Xu, Yiping Ke",CIKM 2016: 357-366,CIKM,A
+28,Reachability and time-based path queries in temporal graphs.,2016,"Huanhuan Wu, Yuzhen Huang, James Cheng, Jinfeng Li, Yiping Ke",ICDE 2016: 145-156,ICDE,A*
+29,Deep Nonlinear Feature Coding for Unsupervised Domain Adaptation.,2016,"Pengfei Wei, Yiping Ke, Chi Keong Goh",IJCAI 2016: 2189-2195,IJCAI,A*
+30,Efficient Processing of Reachability and Time-Based Path Queries in a Temporal Graph.,2016,"Huanhuan Wu, Yuzhen Huang, James Cheng, Jinfeng Li, Yiping Ke",CoRR abs/1601.05909 ,CORR,Unranked
+31,Stochastic Variance Reduced Riemannian Eigensolver.,2016,"Zhiqiang Xu, Yiping Ke",CoRR abs/1605.08233 ,CORR,Unranked
+32,Core decomposition in large temporal graphs.,2015,"Huanhuan Wu, James Cheng, Yi Lu, Yiping Ke, Yuzhen Huang, Da Yan, Hejun Wu",IEEE BigData 2015: 649-658,BIGDATACONF,Unranked
+33,Path Problems in Temporal Graphs.,2014,"Huanhuan Wu, James Cheng, Silu Huang, Yiping Ke, Yi Lu, Yanyan Xu",Proc. VLDB Endow. 7: 721-732 ,PVLDB,Unranked
+34,GBAGC: A General Bayesian Framework for Attributed Graph Clustering.,2014,"Zhiqiang Xu, Yiping Ke, Yi Wang, Hong Cheng, James Cheng",ACM Trans. Knowl. Discov. Data 9: 5:1-5:43 ,TKDD,Unranked
+35,A Fast Inference Algorithm for Stochastic Blockmodel.,2014,"Zhiqiang Xu, Yiping Ke, Yi Wang",ICDM 2014: 620-629,ICDM,A*
+36,High efficiency and quality: large graphs matching.,2013,"Yuanyuan Zhu, Lu Qin, Jeffrey Xu Yu, Yiping Ke, Xuemin Lin",VLDB J. 22: 345-368 ,VLDB,A*
+37,Fast algorithms for maximal clique enumeration with limited memory.,2012,"James Cheng, Linhong Zhu, Yiping Ke, Shumo Chu",KDD 2012: 1240-1248,KDD,A*
+38,Efficient processing of distance queries in large graphs: a vertex cover approach.,2012,"James Cheng, Yiping Ke, Shumo Chu, Carter Cheng",SIGMOD Conference 2012: 457-468,SIGMOD,A*
+39,A model-based approach to attributed graph clustering.,2012,"Zhiqiang Xu, Yiping Ke, Yi Wang, Hong Cheng, James Cheng",SIGMOD Conference 2012: 505-516,SIGMOD,A*
+40,Detecting Priming News Events.,2012,"Di Wu, Yiping Ke, Jeffrey Xu Yu, Zheng Liu",CoRR abs/1201.3458 ,CORR,Unranked
+41,Finding maximal cliques in massive networks.,2011,"James Cheng, Yiping Ke, Ada Wai-Chee Fu, Jeffrey Xu Yu, Linhong Zhu",ACM Trans. Database Syst. 36: 21:1-21:34 ,TODS,Unranked
+42,Fast graph query processing with a low-cost index.,2011,"James Cheng, Yiping Ke, Ada Wai-Chee Fu, Jeffrey Xu Yu",VLDB J. 20: 521-539 ,VLDB,A*
+43,Leadership discovery when data correlatively evolve.,2011,"Di Wu, Yiping Ke, Jeffrey Xu Yu, Philip S. Yu, Lei Chen",World Wide Web 14: 1-25 ,WWW,A*
+44,High efficiency and quality: large graphs matching.,2011,"Yuanyuan Zhu, Lu Qin, Jeffrey Xu Yu, Yiping Ke, Xuemin Lin",CIKM 2011: 1755-1764,CIKM,A
+45,Efficient core decomposition in massive networks.,2011,"James Cheng, Yiping Ke, Shumo Chu, M. Tamer Özsu",ICDE 2011: 51-62,ICDE,A*
+46,Stock risk mining by news.,2010,"Qi Pan, Hong Cheng, Di Wu, Jeffrey Xu Yu, Yiping Ke",ADC 2010: 179-188,ADC,Australasian B
+47,Detecting Leaders from Correlated Time Series.,2010,"Di Wu, Yiping Ke, Jeffrey Xu Yu, Philip S. Yu, Lei Chen",DASFAA  2010: 352-367,DASFAA,B
+48,Querying Large Graph Databases.,2010,"Yiping Ke, James Cheng, Jeffrey Xu Yu",DASFAA  2010: 487-488,DASFAA,B
+49,Finding maximal cliques in massive networks by H*-graph.,2010,"James Cheng, Yiping Ke, Ada Wai-Chee Fu, Jeffrey Xu Yu, Linhong Zhu",SIGMOD Conference 2010: 447-458,SIGMOD,A*
+50,Efficient query processing on graph databases.,2009,"James Cheng, Yiping Ke, Wilfred Ng",ACM Trans. Database Syst. 34: 2:1-2:48 ,TODS,Unranked
+51,Efficient processing of group-oriented connection queries in a large graph.,2009,"James Cheng, Yiping Ke, Wilfred Ng",CIKM 2009: 1481-1484,CIKM,A
+52,Context-Aware Object Connection Discovery in Large Graphs.,2009,"James Cheng, Yiping Ke, Wilfred Ng, Jeffrey Xu Yu",ICDE 2009: 856-867,ICDE,A*
+53,Efficient Discovery of Frequent Correlated Subgraph Pairs.,2009,"Yiping Ke, James Cheng, Jeffrey Xu Yu",ICDM 2009: 239-248,ICDM,A*
+54,Top-k Correlative Graph Mining.,2009,"Yiping Ke, James Cheng, Jeffrey Xu Yu",SDM 2009: 1038-1049,SDM,A
+55,Effective elimination of redundant association rules.,2008,"James Cheng, Yiping Ke, Wilfred Ng",Data Min. Knowl. Discov. 16: 221-249 ,DATAMINE,Unranked
+56,Maintaining frequent closed itemsets over a sliding window.,2008,"James Cheng, Yiping Ke, Wilfred Ng",J. Intell. Inf. Syst. 31: 191-215 ,JIIS,Unranked
+57,A survey on algorithms for mining frequent itemsets over data streams.,2008,"James Cheng, Yiping Ke, Wilfred Ng",Knowl. Inf. Syst. 16: 1-27 ,KAIS,Unranked
+58,An information-theoretic approach to quantitative association rule mining.,2008,"Yiping Ke, James Cheng, Wilfred Ng",Knowl. Inf. Syst. 16: 213-244 ,KAIS,Unranked
+59,Efficient Correlation Search from Graph Databases.,2008,"Yiping Ke, James Cheng, Wilfred Ng",IEEE Trans. Knowl. Data Eng. 20: 1601-1615 ,TKDE,Unranked
+60,Correlated pattern mining in quantitative databases.,2008,"Yiping Ke, James Cheng, Wilfred Ng",ACM Trans. Database Syst. 33: 14:1-14:45 ,TODS,Unranked
+61,Spotting Significant Changing Subgraphs in Evolving Graphs.,2008,"Zheng Liu, Jeffrey Xu Yu, Yiping Ke, Xuemin Lin, Lei Chen",ICDM 2008: 917-922,ICDM,A*
+62,Mining Vague Association Rules.,2007,"An Lu, Yiping Ke, James Cheng, Wilfred Ng",DASFAA 2007: 891-897,DASFAA,B
+63,Correlation search in graph databases.,2007,"Yiping Ke, James Cheng, Wilfred Ng",KDD 2007: 390-399,KDD,A*
+64,Fg-index: towards verification-free query processing on graph databases.,2007,"James Cheng, Yiping Ke, Wilfred Ng, An Lu",SIGMOD Conference 2007: 857-872,SIGMOD,A*
+65,Web dynamics and their ramifications for the development of Web search engines.,2006,"Yiping Ke, Lin Deng, Wilfred Ng, Dik Lun Lee",Comput. Networks 50: 1430-1447 ,CN,National
+66,MIC Framework: An Information-Theoretic Approach to Quantitative Association Rule Mining.,2006,"Yiping Ke, James Cheng, Wilfred Ng",ICDE 2006: 112,ICDE,A*
+67,delta-Tolerance Closed Frequent Itemsets.,2006,"James Cheng, Yiping Ke, Wilfred Ng",ICDM 2006: 139-148,ICDM,A*
+68,Mining quantitative correlated patterns using an information-theoretic approach.,2006,"Yiping Ke, James Cheng, Wilfred Ng",KDD 2006: 227-236,KDD,A*
+69,Maintaining Frequent Itemsets over High-Speed Data Streams.,2006,"James Cheng, Yiping Ke, Wilfred Ng",PAKDD 2006: 462-467,PAKDD,B
+70,WUML: A Web Usage Manipulation Language for Querying Web Log Data.,2004,"Qingzhao Tan, Yiping Ke, Wilfred Ng",ER 2004: 567-581,ER,A

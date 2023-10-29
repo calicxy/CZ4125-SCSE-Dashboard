@@ -1,0 +1,60 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Client-Specific Upgrade Compatibility Checking via Knowledge-Guided Discovery.,2023,"Chenguang Zhu, Mengshi Zhang, Xiuheng Wu, Xiufeng Xu, Yi Li",ACM Trans. Softw. Eng. Methodol. 32: 98:1-98:31 ,TOSEM,Unranked
+1,Demystifying Performance Regressions in String Solvers.,2023,"Yao Zhang, Xiaofei Xie, Yi Li, Yun Lin, Sen Chen, Yang Liu, Xiaohong Li",IEEE Trans. Software Eng. 49: 947-961 ,TSE,Unranked
+2,Responsibility in Context: On Applicability of Slicing in Semantic Regression Analysis.,2023,"Sahar Badihi, Khaled Ahmed, Yi Li, Julia Rubin",ICSE 2023: 563-575,ICSE,A*
+3,Semantic History Slicing.,2023,"Yi Li, Julia Rubin, Marsha Chechik",Handbook of Re-Engineering Software Intensive Systems into Software Product Lines 2023: 53-77,COLLECTIONS,Unranked
+4,A Survey of Smart Contract Formal Specification and Verification.,2022,"Palina Tolmach, Yi Li, Shangwei Lin, Yang Liu, Zengxiang Li",ACM Comput. Surv. 54: 148:1-148:38 ,CSUR,Unranked
+5,Oracle-Supported Dynamic Exploit Generation for Smart Contracts.,2022,"Haijun Wang, Ye Liu, Yi Li, Shangwei Lin, Cyrille Artho, Lei Ma, Yang Liu",IEEE Trans. Dependable Secur. Comput. 19: 1795-1809 ,TDSC,Unranked
+6,Cross-lingual transfer learning for statistical type inference.,2022,"Zhiming Li, Xiaofei Xie, Haoliang Li, Zhengzi Xu, Yi Li, Yang Liu",ISSTA 2022: 239-250,ISSTA,A
+7,Finding permission bugs in smart contracts with role mining.,2022,"Ye Liu, Yi Li, Shang-Wei Lin, Cyrille Artho",ISSTA 2022: 716-727,ISSTA,A
+8,Identifying Solidity Smart Contract API Documentation Errors.,2022,"Chenguang Zhu, Ye Liu, Xiuheng Wu, Yi Li",ASE 2022: 56:1-56:13,KBSE,Unranked
+9,Towards Understanding Third-party Library Dependency in C/C++ Ecosystem.,2022,"Wei Tang, Zhengzi Xu, Chengwei Liu, Jiahui Wu, Shouguo Yang, Yi Li, Ping Luo, Yang Liu",ASE 2022: 106:1-106:12,KBSE,Unranked
+10,InvCon: A Dynamic Invariant Detector for Ethereum Smart Contracts.,2022,"Ye Liu, Yi Li",ASE 2022: 160:1-160:4,KBSE,Unranked
+11,Property-Based Automated Repair of DeFi Protocols.,2022,"Palina Tolmach, Yi Li, Shang-Wei Lin",ASE 2022: 184:1-184:5,KBSE,Unranked
+12,GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis.,2022,"Yushi Cao, Zhiming Li, Tianpei Yang, Hao Zhang, Yan Zheng, Yi Li, Jianye Hao, Yang Liu",NeurIPS 2022,NIPS,Unranked
+13,Large-scale analysis of non-termination bugs in real-world OSS projects.,2022,"Xiuhan Shi, Xiaofei Xie, Yi Li, Yao Zhang, Sen Chen, Xiaohong Li",ESEC/SIGSOFT FSE 2022: 256-268,SIGSOFT,Unranked
+14,SolSEE: a source-level symbolic execution engine for solidity.,2022,"Shang-Wei Lin, Palina Tolmach, Ye Liu, Yi Li",ESEC/SIGSOFT FSE 2022: 1687-1691,SIGSOFT,Unranked
+15,Unveiling Project-Specific Bias in Neural Code Models.,2022,"Zhiming Li, Yanzhou Li, Tianlin Li, Mengnan Du, Bozhi Wu, Yushi Cao, Xiaofei Xie, Yi Li, Yang Liu",CoRR abs/2201.07381 ,CORR,Unranked
+16,Formal Analysis of Composable DeFi Protocols.,2021,"Palina Tolmach, Yi Li, Shang-Wei Lin, Yang Liu",Financial Cryptography Workshops 2021: 149-161,FC,A
+17,EvoMe: A Software Evolution Management Engine Based on Differential Factbase.,2021,"Xiuheng Wu, Mengyang Li, Yi Li",ASE 2021: 1252-1256,KBSE,Unranked
+18,EqBench: A Dataset of Equivalent and Non-equivalent Program Pairs.,2021,"Sahar Badihi, Yi Li, Julia Rubin",MSR 2021: 610-614,MSR,A
+19,DIFFBASE: a differential factbase for effective software evolution management.,2021,"Xiuheng Wu, Chenguang Zhu, Yi Li",ESEC/SIGSOFT FSE 2021: 503-515,SIGSOFT,Unranked
+20,Formal Analysis of Composable DeFi Protocols.,2021,"Palina Tolmach, Yi Li, Shang-Wei Lin, Yang Liu",CoRR abs/2103.00540 ,CORR,Unranked
+21,Cross-Lingual Adaptation for Type Inference.,2021,"Zhiming Li, Xiaofei Xie, Haoliang Li, Zhengzi Xu, Yi Li, Yang Liu",CoRR abs/2107.00157 ,CORR,Unranked
+22,Precfix: large-scale patch recommendation by mining defect-patch pairs.,2020,"Xindong Zhang, Chenguang Zhu, Yi Li, Jianmei Guo, Lihua Liu, Haobo Gu",ICSE  2020: 41-50,ICSE,A*
+23,Large-scale patch recommendation at Alibaba.,2020,"Xindong Zhang, Chenguang Zhu, Yi Li, Jianmei Guo, Lihua Liu, Haobo Gu",ICSE  2020: 252-253,ICSE,A*
+24,Typestate-guided fuzzer for discovering use-after-free vulnerabilities.,2020,"Haijun Wang, Xiaofei Xie, Yi Li, Cheng Wen, Yuekang Li, Yang Liu, Shengchao Qin, Hongxu Chen, Yulei Sui",ICSE 2020: 999-1010,ICSE,A*
+25,GenSlice: Generalized Semantic History Slicing.,2020,"Chenguang Zhu, Yi Li, Julia Rubin, Marsha Chechik",ICSME 2020: 81-91,ICSM,Unranked
+26,Marble: Model-based Robustness Analysis of Stateful Deep Learning Systems.,2020,"Xiaoning Du, Yi Li, Xiaofei Xie, Lei Ma, Yang Liu, Jianjun Zhao",ASE 2020: 423-435,KBSE,Unranked
+27,Audee: Automated Testing for Deep Learning Frameworks.,2020,"Qianyu Guo, Xiaofei Xie, Yi Li, Xiaoyu Zhang, Yang Liu, Xiaohong Li, Chao Shen",ASE 2020: 486-498,KBSE,Unranked
+28,ARDiff: scaling program equivalence checking via iterative abstraction and refinement of common code.,2020,"Sahar Badihi, Faridah Akinotcho, Yi Li, Julia Rubin",ESEC/SIGSOFT FSE 2020: 13-24,SIGSOFT,Unranked
+29,Towards automated verification of smart contract fairness.,2020,"Ye Liu, Yi Li, Shang-Wei Lin, Rong Zhao",ESEC/SIGSOFT FSE 2020: 666-677,SIGSOFT,Unranked
+30,ModCon: a model-based testing platform for smart contracts.,2020,"Ye Liu, Yi Li, Shang-Wei Lin, Qiang Yan",ESEC/SIGSOFT FSE 2020: 1601-1605,SIGSOFT,Unranked
+31,"25th International Conference on Engineering of Complex Computer Systems, ICECCS 2020, Singapore, October 28-31, 2020.",2020,"Yi Li, Alan Wee-Chung Liew","IEEE 2020, ISBN 978-1-7281-8558-3 ",ICECCS,B
+32,A Survey of Smart Contract Formal Specification and Verification.,2020,"Palina Tolmach, Yi Li, Shang-Wei Lin, Yang Liu, Zengxiang Li",CoRR abs/2008.02712 ,CORR,Unranked
+33,Precise semantic history slicing through dynamic delta refinement.,2019,"Yi Li, Chenguang Zhu, Milos Gligoric, Julia Rubin, Marsha Chechik",Autom. Softw. Eng. 26: 757-793 ,ASE,A*
+34,Vultron: catching vulnerable smart contracts once and for all.,2019,"Haijun Wang, Yi Li, Shang-Wei Lin, Lei Ma, Yang Liu",ICSE  2019: 1-4,ICSE,A*
+35,A Quantitative Analysis Framework for Recurrent Neural Network.,2019,"Xiaoning Du, Xiaofei Xie, Yi Li, Lei Ma, Yang Liu, Jianjun Zhao",ASE 2019: 1062-1065,KBSE,Unranked
+36,Coverage-Guided Fuzzing for Feedforward Neural Networks.,2019,"Xiaofei Xie, Hongxu Chen, Yi Li, Lei Ma, Yang Liu, Jianjun Zhao",ASE 2019: 1162-1165,KBSE,Unranked
+37,DeepStellar: model-based quantitative analysis of stateful deep learning systems.,2019,"Xiaoning Du, Xiaofei Xie, Yi Li, Lei Ma, Yang Liu, Jianjun Zhao",ESEC/SIGSOFT FSE 2019: 477-487,SIGSOFT,Unranked
+38,Oracle-Supported Dynamic Exploit Generation for Smart Contracts.,2019,"Haijun Wang, Yi Li, Shang-Wei Lin, Cyrille Artho, Lei Ma, Yang Liu",CoRR abs/1909.06605 ,CORR,Unranked
+39,Doublade: Unknown Vulnerability Detection in Smart Contracts Via Abstract Signature Matching and Refined Detection Rules.,2019,"Yinxing Xue, Jiaming Ye, Mingliang Ma, Lei Ma, Yi Li, Haijun Wang, Yun Lin, Tianyong Peng, Yang Liu",CoRR abs/1912.04466 ,CORR,Unranked
+40,Managing Software Evolution Through Semantic History Slicing.,2018,Yi Li,"University of Toronto, Canada, 2018",NAN,Unranked
+41,Semantic Slicing of Software Version Histories.,2018,"Yi Li, Chenguang Zhu, Julia Rubin, Marsha Chechik",IEEE Trans. Software Eng. 44: 182-201 ,TSE,Unranked
+42,CSlicerCloud: a web-based semantic history slicing framework.,2018,"Yi Li, Chenguang Zhu, Julia Rubin, Marsha Chechik",ICSE  2018: 57-60,ICSE,A*
+43,Client-specific equivalence checking.,2018,"Federico Mora, Yi Li, Julia Rubin, Marsha Chechik",ASE 2018: 441-451,KBSE,Unranked
+44,DeepCruiser: Automated Guided Testing for Stateful Deep Learning Systems.,2018,"Xiaoning Du, Xiaofei Xie, Yi Li, Lei Ma, Jianjun Zhao, Yang Liu",CoRR abs/1812.05339 ,CORR,Unranked
+45,Managing software evolution through semantic history slicing.,2017,Yi Li,ASE 2017: 1014-1017,KBSE,Unranked
+46,A dataset for dynamic discovery of semantic changes in version controlled software histories.,2017,"Chenguang Zhu, Yi Li, Julia Rubin, Marsha Chechik",MSR 2017: 523-526,MSR,A
+47,FHistorian: Locating Features in Version Histories.,2017,"Yi Li, Chenguang Zhu, Julia Rubin, Marsha Chechik",SPLC  2017: 49-58,SPLC,B
+48,Precise semantic history slicing through dynamic delta refinement.,2016,"Yi Li, Chenguang Zhu, Julia Rubin, Marsha Chechik",ASE 2016: 495-506,KBSE,Unranked
+49,Using Metric Temporal Logic to Specify Scheduling Problems.,2016,"Roy Luo, Richard Anthony Valenzano, Yi Li, J. Christopher Beck, Sheila A. McIlraith",KR 2016: 581-584,KR,A*
+50,Angelic Verification: Precise Verification Modulo Unknowns.,2015,"Ankush Das, Shuvendu K. Lahiri, Akash Lal, Yi Li",CAV  2015: 324-342,CAV,A*
+51,Semantic Slicing of Software Version Histories (T).,2015,"Yi Li, Julia Rubin, Marsha Chechik",ASE 2015: 686-696,KBSE,Unranked
+52,Model checking approach to automated planning.,2014,"Yi Li, Jin Song Dong, Jing Sun, Yang Liu, Jun Sun",Formal Methods Syst. Des. 44: 176-202 ,FMSD,Unranked
+53,Management of Time Requirements in Component-Based Systems.,2014,"Yi Li, Tian Huat Tan, Marsha Chechik",FM 2014: 399-415,FM,A
+54,Symbolic optimization with SMT solvers.,2014,"Yi Li, Aws Albarghouthi, Zachary Kincaid, Arie Gurfinkel, Marsha Chechik",POPL 2014: 607-618,POPL,A*
+55,UFO: Verification with Interpolants and Abstract Interpretation - (Competition Contribution).,2013,"Aws Albarghouthi, Arie Gurfinkel, Yi Li, Sagar Chaki, Marsha Chechik",TACAS 2013: 637-640,TACAS,A
+56,Ufo: A Framework for Abstraction- and Interpolation-Based Software Verification.,2012,"Aws Albarghouthi, Yi Li, Arie Gurfinkel, Marsha Chechik",CAV 2012: 672-678,CAV,A*
+57,Translating PDDL into CSP# - The PAT Approach.,2012,"Yi Li, Jing Sun, Jin Song Dong, Yang Liu, Jun Sun",ICECCS 2012: 240-249,ICECCS,B
+58,Planning as Model Checking Tasks.,2012,"Yi Li, Jing Sun, Jin Song Dong, Yang Liu, Jun Sun",SEW 2012: 177-186,SEW,C

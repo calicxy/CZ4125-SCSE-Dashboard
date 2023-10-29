@@ -1,0 +1,149 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Multi-modal graph neural network for early diagnosis of Alzheimer's disease from sMRI and PET scans.,2023,"Yanteng Zhang, Xiaohai He, Yi Hao Chan, Qizhi Teng, Jagath C. Rajapakse",Comput. Biol. Medicine 164: 107328 ,CBM,Unranked
+1,Graph Neural Networks With Multiple Prior Knowledge for Multi-Omics Data Analysis.,2023,"Shunxin Xiao, Huibin Lin, Conghao Wang, Shiping Wang, Jagath C. Rajapakse",IEEE J. Biomed. Health Informatics 27: 4591-4600 ,TITB,Unranked
+2,Multi-modal Graph Neural Network for Early Diagnosis of Alzheimer's Disease from sMRI and PET Scans.,2023,"Yanteng Zhang, Xiaohai He, Yi Hao Chan, Qizhi Teng, Jagath C. Rajapakse",CoRR abs/2307.16366 ,CORR,Unranked
+3,Self-supervised learning for hotspot detection and isolation from thermal images.,2023,"Shreyas Goyal, Jagath C. Rajapakse",CoRR abs/2308.13204 ,CORR,Unranked
+4,Integrating Contrastive Learning into a Multitask Transformer Model for Effective Domain Adaptation.,2023,"Chung Soo Ahn, Jagath C. Rajapakse, Rajib Rana",CoRR abs/2310.04703 ,CORR,Unranked
+5,Cascaded Adversarial Learning for Speaker Independent Emotion Recognition.,2022,"Chamara Kasun Liyanaarachchi Lekamalage, Zhiping Lin, Guang-Bin Huang, Jagath Chandana Rajapakse",IJCNN 2022: 1-8,IJCNN,B
+6,Recurrent multi-head attention fusion network for combining audio and text for speech emotion recognition.,2022,"Chung Soo Ahn, L. L. Chamara Kasun, Sunil Sivadas, Jagath C. Rajapakse",INTERSPEECH 2022: 744-748,INTERSPEECH,Unranked
+7,Discriminative Adversarial Learning for Speaker Independent Emotion Recognition.,2022,"L. L. Chamara Kasun, Chung Soo Ahn, Jagath C. Rajapakse, Zhiping Lin, Guang-Bin Huang",INTERSPEECH 2022: 4975-4979,INTERSPEECH,Unranked
+8,Semi-supervised Learning with Data Harmonisation for Biomarker Discovery from Resting State fMRI.,2022,"Yi Hao Chan, Wei Chee Yew, Jagath C. Rajapakse",MICCAI  2022: 441-451,MICCAI,A
+9,Deep learning and multi-omics approach to predict drug responses in cancer.,2021,"Conghao Wang, Xintong Lye, Rama Kaalia, Parvin Kumar, Jagath C. Rajapakse",BMC Bioinform. 22-S: 632 ,BMCBI,Unranked
+10,Obtaining leaner deep neural networks for decoding brain functional connectome in a single shot.,2021,"Sukrit Gupta, Yi Hao Chan, Jagath C. Rajapakse, Alzheimer's Disease Neuroimaging Initiative",Neurocomputing 453: 326-336 ,IJON,Unranked
+11,Graph embeddings on gene ontology annotations for protein-protein interaction prediction.,2020,"Xiaoshi Zhong, Jagath C. Rajapakse",BMC Bioinform. 21-S: 560 ,BMCBI,Unranked
+12,Decoding Task States by Spotting Salient Patterns at Time Points and Brain Regions.,2020,"Yi Hao Chan, Sukrit Gupta, L. L. Chamara Kasun, Jagath C. Rajapakse",MLCN/RNO-AI@MICCAI 2020: 88-97,MICCAI,A
+13,Functional homogeneity and specificity of topological modules in human proteome.,2019,"Rama Kaalia, Jagath C. Rajapakse",BMC Bioinform. 19-S: 125-138 ,BMCBI,Unranked
+14,Fusing gene expressions and transitive protein-protein interactions for inference of gene regulatory networks.,2019,"Wenting Liu, Jagath C. Rajapakse",BMC Syst. Biol. 13-S: 37:1-37:13 ,BMCSB,Unranked
+15,Predicting Missing and Spurious Protein-Protein Interactions Using Graph Embeddings on GO Annotation Graph.,2019,"Xiaoshi Zhong, Jagath C. Rajapakse",BIBM 2019: 1828-1835,BIBM,Unranked
+16,Decoding Brain Functional Connectivity Implicated in AD and MCI.,2019,"Sukrit Gupta, Yi Hao Chan, Jagath C. Rajapakse",MICCAI  2019: 781-789,MICCAI,A
+17,Predicting Affective States of Programming Using Keyboard Data and Mouse Behaviors.,2018,"Hualin Liu, Owen Noel Newton Fernando, Jagath C. Rajapakse",ICARCV 2018: 1408-1413,ICARCV,C
+18,Nodal degree distributions of resting-state functional brain modules.,2018,"Sukrit Gupta, Jagath C. Rajapakse",ISBI 2018: 1256-1259,ISBI,Unranked
+19,Automatic segmentation of skin lesions using deep learning.,2018,"Joshua Peter Ebenezer, Jagath C. Rajapakse",CoRR abs/1807.04893 ,CORR,Unranked
+20,Deep neural network ensemble by data augmentation and bagging for skin lesion classification.,2018,"Manik Goyal, Jagath C. Rajapakse",CoRR abs/1807.05496 ,CORR,Unranked
+21,Named Entity Analysis and Extraction with Uncommon Words.,2018,"Xiaoshi Zhong, Erik Cambria, Jagath C. Rajapakse",CoRR abs/1810.06818 ,CORR,Unranked
+22,Discovering Power Laws in Entity Length.,2018,"Xiaoshi Zhong, Erik Cambria, Jagath C. Rajapakse",CoRR abs/1811.03325 ,CORR,Unranked
+23,MultiDCoX: Multi-factor analysis of differential co-expression.,2017,"Herty Liany, Jagath C. Rajapakse, R. Krishna Murthy Karuturi",BMC Bioinform. 18: 111-124 ,BMCBI,Unranked
+24,Detecting functional modules of the brain using eigen value decomposition of the signless Laplacian.,2017,"Xiuchao Sui, Shaohua Li, Jagath C. Rajapakse",ISBI 2017: 511-514,ISBI,Unranked
+25,Fitting networks models for functional brain connectivity.,2017,"Jagath C. Rajapakse, Sukrit Gupta, Xiuchao Sui",ISBI 2017: 515-519,ISBI,Unranked
+26,Gene and sample selection using T-score with sample selection.,2016,"Piyushkumar A. Mundra, Jagath C. Rajapakse",J. Biomed. Informatics 59: 31-41 ,JBI,Unranked
+27,Mixed Spectrum Analysis on fMRI Time-Series.,2016,"Arun Kumar, Feng Lin, Jagath C. Rajapakse",IEEE Trans. Medical Imaging 35: 1555-1564 ,TMI,Unranked
+28,Mixed spectrum analysis in spatial context: Application to fMRI.,2016,"Arun Kumar, Lin Feng, Jagath C. Rajapakse",ISBI 2016: 302-305,ISBI,Unranked
+29,Locality regularized sparse subspace clustering with application to cortex parcellation on resting fMRI.,2016,"Xiuchao Sui, Shaohua Li, Jagath C. Rajapakse",ISBI 2016: 1286-1290,ISBI,Unranked
+30,Extracting rate changes in transcriptional regulation from MEDLINE abstracts.,2014,"Wenting Liu, Kui Miao, Guangxia Li, Kuiyu Chang, Jie Zheng, Jagath C. Rajapakse",BMC Bioinform. 15: S4 ,BMCBI,Unranked
+31,CUDAGRN: Parallel Speedup of Inferring Large Gene Regulatory Networks from Expression Data Using Random Forest.,2014,"Seyed Ziaeddin Alborzi, D. A. K. Maduranga, Rui Fan, Jagath C. Rajapakse, Jie Zheng",PRIB 2014: 85-97,PRIB,Unranked
+32,"Pattern Recognition in Bioinformatics - 9th IAPR International Conference, PRIB 2014, Stockholm, Sweden, August 21-23, 2014. Proceedings.",2014,"Matteo Comin, Lukas Käll, Elena Marchiori, Alioune Ngom, Jagath C. Rajapakse","Lecture Notes in Computer Science 8626, Springer 2014, ISBN 978-3-319-09191-4 ",PRIB,Unranked
+33,Multiclass Gene Selection Using Pareto-Fronts.,2013,"Jagath C. Rajapakse, Piyushkumar A. Mundra",IEEE ACM Trans. Comput. Biol. Bioinform. 10: 87-97 ,TCBB,Unranked
+34,Inferring Time-Delayed Gene Regulatory Networks Using Cross-Correlation and Sparse Regression.,2013,"Piyushkumar A. Mundra, Jie Zheng, Mahesan Niranjan, Roy E. Welsch, Jagath C. Rajapakse",ISBRA 2013: 64-75,ISBRA,Unranked
+35,Gene Regulatory Networks from Gene Ontology.,2013,"Wenting Liu, Kuiyu Chang, Jie Zheng, Jain Divya, Jung-Jae Kim, Jagath C. Rajapakse",ISBRA 2013: 87-98,ISBRA,Unranked
+36,Inferring Gene Regulatory Networks from Time-Series Expressions Using Random Forests Ensemble.,2013,"D. A. K. Maduranga, Jie Zheng, Piyushkumar A. Mundra, Jagath C. Rajapakse",PRIB 2013: 13-22,PRIB,Unranked
+37,Simultaneous Sample and Gene Selection Using T-score and Approximate Support Vectors.,2013,"Piyushkumar A. Mundra, Jagath C. Rajapakse, D. A. K. Maduranga",PRIB 2013: 79-90,PRIB,Unranked
+38,Tree-structured algorithm for long weak motif discovery.,2011,"He Quan Sun, Malcolm Yoke Hean Low, Wen-Jing Hsu, Ching-Wai Tan, Jagath C. Rajapakse",Bioinform. 27: 2641-2647 ,BIOINFORMATICS,Unranked
+39,Stability of building gene regulatory networks with sparse autoregressive models.,2011,"Jagath C. Rajapakse, Piyushkumar A. Mundra",BMC Bioinform. 12: S17 ,BMCBI,Unranked
+40,Correlation of cell membrane dynamics and cell motility.,2011,"Merlin Veronika, Roy E. Welsch, Alvin Ng, Paul Matsudaira, Jagath C. Rajapakse",BMC Bioinform. 12: S19 ,BMCBI,Unranked
+41,Toward Better Understanding of Protein Secondary Structure: Extracting Prediction Rules.,2011,"Minh Ngoc Nguyen, Jacek M. Zurada, Jagath C. Rajapakse",IEEE ACM Trans. Comput. Biol. Bioinform. 8: 858-864 ,TCBB,Unranked
+42,Automated scoring of liver fibrosis through combined features from different collagen groups.,2011,"Shuoyu Xu, Dean Tai, Aileen Wee, Roy E. Welsch, Peter So, Hanry Yu, Jagath C. Rajapakse",EMBC 2011: 4503-4506,EMBC,Unranked
+43,Staging tissues with conditional random fields.,2011,"Jagath C. Rajapakse, Song Liu",EMBC 2011: 5128-5131,EMBC,Unranked
+44,Estimation of the population of neutrophils induced to differentiate from the MPRO mouse promyelocytic cell line.,2011,"Fransiskus Xaverius Ivan, Roy E. Welsch, Vincent T. K. Chow, Jagath C. Rajapakse",EMBC 2011: 6001-6004,EMBC,Unranked
+45,Features for cells and nuclei classification.,2011,"Song Liu, Piyushkumar A. Mundra, Jagath C. Rajapakse",EMBC 2011: 6601-6604,EMBC,Unranked
+46,Integration of Epigenetic Data in Bayesian Network Modeling of Gene Regulatory Network.,2011,"Jie Zheng, Iti Chaturvedi, Jagath C. Rajapakse",PRIB 2011: 87-96,PRIB,Unranked
+47,Stability of Inferring Gene Regulatory Structure with Dynamic Bayesian Networks.,2011,"Jagath C. Rajapakse, Iti Chaturvedi",PRIB 2011: 237-246,PRIB,Unranked
+48,Automated Scoring System for Liver Fibrosis Diagnosis with Second Harmonic Generation Microscopy.,2010,"Shuoyu Xu, Dean Tai, Peter So, Hanry Yu, Jagath C. Rajapakse",Aust. J. Intell. Inf. Process. Syst. 12 ,AJIIPS,Unranked
+49,RecMotif: a novel fast algorithm for weak motif discovery.,2010,"He Quan Sun, Malcolm Yoke Hean Low, Wen-Jing Hsu, Jagath C. Rajapakse",BMC Bioinform. 11: S8 ,BMCBI,Unranked
+50,Gene and sample selection for cancer classification with support vectors based t-statistic.,2010,"Piyushkumar A. Mundra, Jagath C. Rajapakse",Neurocomputing 73: 2353-2362 ,IJON,Unranked
+51,Building gene networks with time-delayed regulations.,2010,"Iti Chaturvedi, Jagath C. Rajapakse",Pattern Recognit. Lett. 31: 2133-2137 ,PRL,Unranked
+52,Support vectors based correlation coefficient for gene and sample selection in cancer classification.,2010,"Piyushkumar A. Mundra, Jagath C. Rajapakse",CIBCB 2010: 1-7,CIBCB,C
+53,Identifying Cells in Histopathological Images.,2010,"Jierong Cheng, Merlin Veronika, Jagath C. Rajapakse",ICPR Contests 2010: 244-252,ICPR,B
+54,Evolutionary approach to ICA-R.,2010,"Swathi Kavuri Sri, Jacek M. Zurada, Jagath C. Rajapakse",IJCNN 2010: 1-6,IJCNN,B
+55,Complex ICA-R.,2010,"Jagath C. Rajapakse, Wenda Chen",IJCNN 2010: 1-8,IJCNN,B
+56,Gene regulatory networks with variable-order dynamic Bayesian networks.,2010,"Jagath C. Rajapakse, Iti Chaturvedi",IJCNN 2010: 1-5,IJCNN,B
+57,ListMotif: A time and memory efficient algorithm for weak motif discovery.,2010,"He Quan Sun, Malcolm Yoke Hean Low, Wen-Jing Hsu, Jagath C. Rajapakse",ISKE 2010: 254-260,ISKE,National
+58,Quantification of Cytoskeletal Protein Localization from High-Content Images.,2010,"Shiwen Zhu, Paul Matsudaira, Roy E. Welsch, Jagath C. Rajapakse",PRIB 2010: 289-300,PRIB,Unranked
+59,Di-codon usage for classification of genes.,2009,"Minh Ngoc Nguyen, Jianmin Ma, Gary B. Fogel, Jagath C. Rajapakse",Biosyst. 98: 1-6 ,BIOSYSTEMS,Unranked
+60,Sub-population analysis based on temporal features of high content images.,2009,"Merlin Veronika, James Evans, Paul Matsudaira, Roy E. Welsch, Jagath C. Rajapakse",BMC Bioinform. 10: 4 ,BMCBI,Unranked
+61,Segmentation of Clustered Nuclei With Shape Markers and Marking Function.,2009,"Jierong Cheng, Jagath C. Rajapakse",IEEE Trans. Biomed. Eng. 56: 741-748 ,TBE,Unranked
+62,Gene Classification Using Codon Usage and Support Vector Machines.,2009,"Jianmin Ma, Minh Ngoc Nguyen, Jagath C. Rajapakse",IEEE ACM Trans. Comput. Biol. Bioinform. 6: 134-143 ,TCBB,Unranked
+63,Time Efficient DT-MRI Acquisition Parameters for Robust Estimation of Fiber Tracts.,2009,"Bo Zheng, Jagath C. Rajapakse",J. Signal Process. Syst. 54: 25-31 ,VLSISP,Unranked
+64,F-score with Pareto Front Analysis for Multiclass Gene Selection.,2009,"Piyushkumar A. Mundra, Jagath C. Rajapakse",EvoBIO 2009: 56-67,EVOW,Unranked
+65,Joint Tracking of Cell Morphology and Motion.,2009,"Jierong Cheng, Esther G. L. Koh, Sohail Ahmed, Jagath C. Rajapakse",PRIB 2009: 36-45,PRIB,Unranked
+66,Di-codon Usage for Gene Classification.,2009,"Minh Ngoc Nguyen, Jianmin Ma, Gary B. Fogel, Jagath C. Rajapakse",PRIB 2009: 211-221,PRIB,Unranked
+67,Fuzzy approach to incorporate hemodynamic variability and contextual information for detection of brain activation.,2008,"Juan Helen Zhou, Jagath C. Rajapakse",Neurocomputing 71: 3184-3192 ,IJON,Unranked
+68,Probabilistic Framework for Brain Connectivity From Functional MR Images.,2008,"Jagath C. Rajapakse, Yang Wang, Xuebin Zheng, Juan Helen Zhou",IEEE Trans. Medical Imaging 27: 825-833 ,TMI,Unranked
+69,Extracting decision rules in prediction of protein secondary structure.,2008,"Minh Ngoc Nguyen, Jacek M. Zurada, Jagath C. Rajapakse",BIBE 2008: 1-6,BIBE,C
+70,Protein localization on cellular images with Markov random fields.,2008,"Song Liu, Jagath C. Rajapakse",IJCNN 2008: 2127-2132,IJCNN,B
+71,Extracting EEG rhythms using ICA-R.,2008,"Swathi Kavuri Sri, Jagath C. Rajapakse",IJCNN 2008: 2133-2138,IJCNN,B
+72,Support Vector Based T-Score for Gene Ranking.,2008,"Piyushkumar A. Mundra, Jagath C. Rajapakse",PRIB 2008: 144-153,PRIB,Unranked
+73,Fusion of Gene Regulatory and Protein Interaction Networks Using Skip-Chain Models.,2008,"Iti Chaturvedi, Jagath C. Rajapakse",PRIB 2008: 214-224,PRIB,Unranked
+74,Prediction of Protein Secondary Structure with two-stage multi-class SVMs.,2007,"Minh Ngoc Nguyen, Jagath C. Rajapakse",Int. J. Data Min. Bioinform. 1: 248-269 ,IJDMB,Unranked
+75,Modeling hemodynamic variability with fuzzy features for detecting brain activation from fMR time-series.,2007,"Juan Helen Zhou, Jagath C. Rajapakse",Neural Comput. Appl. 16: 541-549 ,NCA,B
+76,Power spectral based detection of brain activation from fMR images.,2007,"Arun Kumar, Jagath C. Rajapakse",Neural Comput. Appl. 16: 551-557 ,NCA,B
+77,Learning effective brain connectivity with dynamic Bayesian networks.,2007,"Jagath C. Rajapakse, Juan Helen Zhou",NeuroImage 37: 749-760 ,NEUROIMAGE,Unranked
+78,Guest Editors' Introduction to the Special Section: Computational Intelligence Approaches in Computational Biology and Bioinformatics.,2007,"Jagath C. Rajapakse, Yan-Qing Zhang, Gary B. Fogel",IEEE ACM Trans. Comput. Biol. Bioinform. 4: 161-162 ,TCBB,Unranked
+79,Grid-Enabled BLASTZ: Application to Comparative Genomics.,2007,"Chunxi Chen, Jagath C. Rajapakse",J. VLSI Signal Process. 48: 301-309 ,VLSISP,Unranked
+80,Comparison of Human and Mouse Pseudogenes.,2007,"Pooja, Jagath C. Rajapakse",CIBCB 2007: 219-224,CIBCB,C
+81,One-Versus-One and One-Versus-All Multiclass SVM-RFE for Gene Selection in Cancer Classification.,2007,"Kaibo Duan, Jagath C. Rajapakse, Minh Ngoc Nguyen",EvoBIO 2007: 47-56,EVOW,Unranked
+82,Amino Acid Features for Prediction of Protein-Protein Interface Residues with Support Vector Machines.,2007,"Minh Ngoc Nguyen, Jagath C. Rajapakse, Kaibo Duan",EvoBIO 2007: 187-196,EVOW,Unranked
+83,SVM-RFE with Relevancy and Redundancy Criteria for Gene Selection.,2007,"Piyushkumar A. Mundra, Jagath C. Rajapakse",PRIB 2007: 242-252,PRIB,Unranked
+84,Validation of Gene Regulatory Networks from Protein-Protein Interaction Data: Application to Cell-Cycle Regulation.,2007,"Iti Chaturvedi, Meena K. Sakharkar, Jagath C. Rajapakse",PRIB 2007: 300-310,PRIB,Unranked
+85,Time-Frequency Method Based Activation Detection in Functional MRI Time-Series.,2007,"Arun Kumar, Jagath C. Rajapakse",PRIB 2007: 368-377,PRIB,Unranked
+86,Human Brain Anatomical Connectivity Analysis Using Sequential Sampling and Resampling.,2007,"Bo Zheng, Jagath C. Rajapakse",PRIB 2007: 391-400,PRIB,Unranked
+87,"Evolutionary Computation,Machine Learning and Data Mining in Bioinformatics, 5th European Conference, EvoBIO 2007, Valencia, Spain, April 11-13, 2007, Proceedings.",2007,"Elena Marchiori, Jason H. Moore, Jagath C. Rajapakse","Lecture Notes in Computer Science 4447, Springer 2007, ISBN 978-3-540-71782-9 ",EVOW,Unranked
+88,"Pattern Recognition in Bioinformatics, Second IAPR International Workshop, PRIB 2007, Singapore, October 1-2, 2007, Proceedings.",2007,"Jagath C. Rajapakse, Bertil Schmidt, L. Gwenn Volkert","Lecture Notes in Computer Science 4774, Springer 2007, ISBN 978-3-540-75285-1 ",PRIB,Unranked
+89,ICA with Reference.,2006,"Wei Lu, Jagath C. Rajapakse",Neurocomputing 69: 2244-2257 ,IJON,Unranked
+90,NURBS-based visualization of age-related diversity in cortical morphology.,2006,"Ravinda G. N. Meegama, Jagath C. Rajapakse",J. Vis. 9: 9-11 ,JVIS,Unranked
+91,Learning functional structure from fMR images.,2006,"Xuebin Zheng, Jagath C. Rajapakse",NeuroImage 31: 1601-1613 ,NEUROIMAGE,Unranked
+92,"Editorial for special issue on ""Soft Computing for Bioinformatics and Medical Informatics"".",2006,"David Corne, Gary B. Fogel, Jagath C. Rajapakse, Lipo Wang",Soft Comput. 10: 285-286 ,SOCO,Unranked
+93,Input encoding method for identifying transcription start sites in RNA polymerase II promoters by neural networks.,2006,"Loi Sy Ho, Jagath C. Rajapakse",Soft Comput. 10: 331-337 ,SOCO,Unranked
+94,Contextual modeling of functional MR images with conditional random fields.,2006,"Yang Wang, Jagath C. Rajapakse",IEEE Trans. Medical Imaging 25: 804-812 ,TMI,Unranked
+95,Protein-Protein Interface Residue Prediction with SVM Using Evolutionary Profiles and Accessible Surface Areas.,2006,"Minh Ngoc Nguyen, Jagath C. Rajapakse",CIBCB 2006: 1-5,CIBCB,C
+96,Determination of the Relative Importance of Gene Function or Taxonomic Grouping to Codon Usage Bias Using Cluster Analysis and SVMs.,2006,"Jianmin Ma, Minh Ngoc Nguyen, Gary B. Fogel, Jagath C. Rajapakse",CIBCB 2006: 1-8,CIBCB,C
+97,Effect of Diffusion Weighting and Number of Sensitizing Directions on Fiber Tracking in DTI.,2006,"Bo Zheng, Jagath C. Rajapakse",ICONIP  2006: 102-109,ICONIP,B
+98,Ultra-Fast fMRI Imaging with High-Fidelity Activation Map.,2006,"Neelam Sinha, Manojkumar Saranathan, A. G. Ramakrishnan, Juan Zhou, Jagath C. Rajapakse",ICONIP  2006: 361-368,ICONIP,B
+99,Extraction of Fuzzy Features for Detecting Brain Activation from Functional MR Time-Series.,2006,"Juan Zhou, Jagath C. Rajapakse",ICONIP  2006: 983-992,ICONIP,B
+100,Pattern Recognition in Bioinformatics: An Introduction.,2006,"Jagath C. Rajapakse, Limsoon Wong, Raj Acharya",PRIB 2006: 1-3,PRIB,Unranked
+101,Graphical Approach to Weak Motif Recognition in Noisy Data Sets.,2006,"Loi Sy Ho, Jagath C. Rajapakse",PRIB 2006: 23-31,PRIB,Unranked
+102,"Pattern Recognition in Bioinformatics, International Workshop, PRIB 2006, Hong Kong, China, August 20, 2006, Proceedings.",2006,"Jagath C. Rajapakse, Limsoon Wong, Raj Acharya","Lecture Notes in Computer Science 4146, Springer 2006, ISBN 3-540-37446-9 ",PRIB,Unranked
+103,Phonological processing in Chinese-English bilingual biscriptals: An fMRI study.,2005,"Wendy W. P. Tham, Susan J. Rickard Liow, Jagath C. Rajapakse, Tan Choong Leong, Samuel E. S. Ng, Winston E. H. Lim, Lynn G. Ho",NeuroImage 28: 579-587 ,NEUROIMAGE,Unranked
+104,Segmentation of subcortical brain structures using fuzzy templates.,2005,"Juan Helen Zhou, Jagath C. Rajapakse",NeuroImage 28: 915-924 ,NEUROIMAGE,Unranked
+105,Markov Encoding for Detecting Signals in Genomic Sequences.,2005,"Jagath C. Rajapakse, Loi Sy Ho",IEEE ACM Trans. Comput. Biol. Bioinform. 2: 131-142 ,TCBB,Unranked
+106,Approach and applications of constrained ICA.,2005,"Wei Lu, Jagath C. Rajapakse",IEEE Trans. Neural Networks 16: 203-212 ,TNN,Unranked
+107,SVM-RFE peak selection for cancer classification with mass spectrometry data.,2005,"Kaibo Duan, Jagath C. Rajapakse",APBC 2005: 191-200,APBC,B
+108,LVQ Approach Using AA Indices for Protein Subcellular Localisation Prediction.,2005,"Kok-Sin Toh, Minh Ngoc Nguyen, Jagath C. Rajapakse",CIBCB 2005: 296-302,CIBCB,C
+109,Robust Algorithm for Finding Weak Motifs.,2005,"Xiao Yang, Jagath C. Rajapakse",CIBCB 2005: 414-419,CIBCB,C
+110,Gene Classification Using Codon Usage Patterns and SVMs.,2005,"Jianmin Ma, Minh Ngoc Nguyen, Gavyn Pang, Jagath C. Rajapakse",CIBCB 2005: 435-442,CIBCB,C
+111,Multi-class Protein Subcellular Localization Classification Using Support Vector Machines.,2005,"Peng Wai Meng, Jagath C. Rajapakse",CIBCB 2005: 526-,CIBCB,C
+112,Syntactic Approach to Predict Membrane Spanning Regions of Transmembrane Proteins.,2005,"Koliya Pulasinghe, Jagath C. Rajapakse",EvoWorkshops 2005: 95-104,EVOW,Unranked
+113,Two-Stage Multi-Class Support Vector Machines to Protein Secondary Structure Prediction.,2005,"Minh Ngoc Nguyen, Jagath C. Rajapakse",Pacific Symposium on Biocomputing 2005,PSB,National
+114,"Fully Automated Peeling Technique For T1-Weighted, High-Quality Mr Head Scans.",2004,"Ravinda G. N. Meegama, Jagath C. Rajapakse",Int. J. Image Graph. 4: 141-156 ,IJIG,Unranked
+115,A variant of SVM-RFE for gene selection in cancer classification with expression data.,2004,"Kaibo Duan, Jagath C. Rajapakse",CIBCB 2004: 49-55,CIBCB,C
+116,Two-stage support vector machines to protein relative solvent accessibility prediction.,2004,"Minh Ngoc Nguyen, Jagath C. Rajapakse",CIBCB 2004: 67-72,CIBCB,C
+117,Inferring neutral evolution from Parkinson's disease genes.,2004,"Gavyn Pang, Jagath C. Rajapakse",CIBCB 2004: 102-107,CIBCB,C
+118,Graphical approach for motif recognition in DNA sequences.,2004,"Xiao Yang, Jagath C. Rajapakse",CIBCB 2004: 147-152,CIBCB,C
+119,High sensitivity technique for translation initiation site detection.,2004,"Loi Sy Ho, Jagath C. Rajapakse",CIBCB 2004: 153-159,CIBCB,C
+120,Color channel encoding with NMF for face recognition.,2004,"Menaka Rajapakse, Jeffrey Tan, Jagath C. Rajapakse",ICIP 2004: 2007-2010,ICIP,B
+121,An Exploratory Approach to Modelling Effective Connectivity.,2004,"Jagath C. Rajapakse, Kanyan Yang",ISBI 2004: 844-847,ISBI,Unranked
+122,Eliminating indeterminacy in ICA.,2003,"Wei Lu, Jagath C. Rajapakse",Neurocomputing 50: 271-290 ,IJON,Unranked
+123,NURBS-Based Segmentation of the Brain in Medical Images.,2003,"Ravinda G. N. Meegama, Jagath C. Rajapakse",Int. J. Pattern Recognit. Artif. Intell. 17: 995-1009 ,IJPRAI,Unranked
+124,NURBS snakes.,2003,"Ravinda G. N. Meegama, Jagath C. Rajapakse",Image Vis. Comput. 21: 551-562 ,IVC,Unranked
+125,Two-Stage support vector machines for protein secondary structure prediction.,2003,"Minh Ngoc Nguyen, Jagath C. Rajapakse",Neural Parallel Sci. Comput. 11: 1-18 ,NPSC,Unranked
+126,Adaptive blind signal and image processing: learning algorithms and applications [Book Review].,2003,Jagath C. Rajapakse,IEEE Trans. Neural Networks 14: 1580 ,TNN,Unranked
+127,"Adaptive blind signal and image processing: learning algorithms and applications: A. Cichocki, S. Amari, Wiley, New York, 2002, 586pp., ISBN 0471 60791 6.",2002,Jagath C. Rajapakse,Neurocomputing 49: 439-443 ,IJON,Unranked
+128,NURBS-based analysis of gender-related variability of the human brain surface.,2002,"Jagath C. Rajapakse, Ravinda G. N. Meegama, Loi Sy Ho",ICARCV 2002: 520-524,ICARCV,C
+129,Blind processing in neuroimaging: application to FMRI.,2002,Jagath C. Rajapakse,ICARCV 2002: 1180-1185,ICARCV,C
+130,Parameter estimation of fMRI time-series using frequency analysis.,2002,"Keng Wah Choo, Jagath C. Rajapakse",ICARCV 2002: 1293-1298,ICARCV,C
+131,Augmenting HMM with neural network for finding gene structure.,2002,"Loi Sy Ho, Jagath C. Rajapakse, Minh Ngoc Nguyen",ICARCV 2002: 1522-1527,ICARCV,C
+132,Combining GOR techniques with support vector machines for protein secondary structure prediction.,2002,"Minh Ngoc Nguyen, Jagath C. Rajapakse, Loi Sy Ho",ICARCV 2002: 1528-1533,ICARCV,C
+133,Fuzzy neural approach for segmentation of subcortical structures from MR head scans.,2002,"Shi Jian, Li Shan, Jagath C. Rajapakse",ICARCV 2002: 1534-1538,ICARCV,C
+134,Emerging region segmentation.,2002,Jagath C. Rajapakse,ICARCV 2002: 1706-1709,ICARCV,C
+135,A NURBS-Based Technique for the Segmentation of Medical Images.,2002,"Ravinda G. N. Meegama, Jagath C. Rajapakse",ICVGIP 2002,ICVGIP,Unranked
+136,Bayesian approach to segmentation of statistical parametric maps.,2001,"Jagath C. Rajapakse, Jayasanka Piyaratna",IEEE Trans. Biomed. Eng. 48: 1186-1194 ,TBE,Unranked
+137,Spatiotemporal Analysis of Functional Images Using the Fixed Effect Model.,2001,"Jayasanka Piyaratna, Jagath C. Rajapakse",IPMI 2001: 190-196,IPMI,Unranked
+138,A neural network for undercomplete independent component analysis.,2000,"Lu Wei, Jagath C. Rajapakse",ESANN 2000: 123-128,ESANN,B
+139,Boundary based movement correction of functional MR data using a genetic algorithm.,2000,"Guojun Bao, Jagath C. Rajapakse",ESANN 2000: 183-188,ESANN,B
+140,Constrained Independent Component Analysis.,2000,"Wei Lu, Jagath C. Rajapakse",NIPS 2000: 570-576,NIPS,Unranked
+141,Segmentation of MR images with intensity inhomogeneities.,1998,"Jagath C. Rajapakse, Frithjof Kruggel",Image Vis. Comput. 16: 165-180 ,IVC,Unranked
+142,Neuronal and Hemodynamic Events from fMRI Time-Series.,1998,"Jagath C. Rajapakse, Frithjof Kruggel, Stefan Zysset, D. Yves von Cramon",J. Adv. Comput. Intell. Intell. Informatics 2: 185-194 ,JACIII,Unranked
+143,Statistical Approach to Segmentation of Single-Channel Cerebral MR Images.,1997,"Jagath C. Rajapakse, Jay N. Giedd, Judith L. Rapoport",IEEE Trans. Medical Imaging 16: 176-186 ,TMI,Unranked
+144,Neuronal and Hemodynamic Responses from Functional MRI Time-Series: A Computational Model.,1997,"Jagath C. Rajapakse, Frithjof Kruggel",ICONIP  1997: 30-33,ICONIP,B
+145,Neuromorphic model for information fusion.,1991,"Jagath C. Rajapakse, Raj Acharya",ICASSP 1991: 2397-2400,ICASSP,Unranked
+146,Multi sensor data fusion within hierarchical neural networks.,1990,"Jagath C. Rajapakse, Raj Acharya",IJCNN 1990: 17-22,IJCNN,B
+147,Medical image segmentation with MARA.,1990,"Jagath C. Rajapakse, Raj Acharya",IJCNN 1990: 965-972,IJCNN,B

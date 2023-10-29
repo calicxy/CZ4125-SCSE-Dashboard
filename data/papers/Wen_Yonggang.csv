@@ -1,0 +1,362 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Region-adaptive Concept Aggregation for Few-shot Visual Recognition.,2023,"Mengya Han, Yibing Zhan, Baosheng Yu, Yong Luo, Han Hu, Bo Du, Yonggang Wen, Dacheng Tao",Mach. Intell. Res. 20: 554-568 ,IJAUTCOMP,Unranked
+1,Automatic Transformation Search Against Deep Leakage From Gradients.,2023,"Wei Gao, Xu Zhang, Shangwei Guo, Tianwei Zhang, Tao Xiang, Han Qiu, Yonggang Wen, Yang Liu",IEEE Trans. Pattern Anal. Mach. Intell. 45: 10650-10668 ,PAMI,Unranked
+2,Learning Relation Prototype From Unlabeled Texts for Long-Tail Relation Extraction.,2023,"Yixin Cao, Jun Kuang, Ming Gao, Aoying Zhou, Yonggang Wen, Tat-Seng Chua",IEEE Trans. Knowl. Data Eng. 35: 1761-1774 ,TKDE,Unranked
+3,"A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications.",2023,"Jie Gui, Zhenan Sun, Yonggang Wen, Dacheng Tao, Jieping Ye",IEEE Trans. Knowl. Data Eng. 35: 3313-3332 ,TKDE,Unranked
+4,Editorial.,2023,Yonggang Wen,IEEE Trans. Multim. 25: 1060 ,TMM,Unranked
+5,Two-Stream Prototype Learning Network for Few-Shot Face Recognition Under Occlusions.,2023,"Xingyu Yang, Mengya Han, Yong Luo, Han Hu, Yonggang Wen",IEEE Trans. Multim. 25: 1555-1563 ,TMM,Unranked
+6,Optimizing Performance of Federated Person Re-identification: Benchmarking and Analysis.,2023,"Weiming Zhuang, Xin Gan, Yonggang Wen, Shuai Zhang",ACM Trans. Multim. Comput. Commun. Appl. 19: 38:1-38:18 ,TOMCCAP,Unranked
+7,Optimizing Data Center Energy Efficiency via Event-Driven Deep Reinforcement Learning.,2023,"Yongyi Ran, Xin Zhou, Han Hu, Yonggang Wen",IEEE Trans. Serv. Comput. 16: 1296-1309 ,TSC,Unranked
+8,Optimizing Energy Efficiency for Data Center via Parameterized Deep Reinforcement Learning.,2023,"Yongyi Ran, Han Hu, Yonggang Wen, Xin Zhou",IEEE Trans. Serv. Comput. 16: 1310-1323 ,TSC,Unranked
+9,FedABC: Targeting Fair Competition in Personalized Federated Learning.,2023,"Dui Wang, Li Shen, Yong Luo, Han Hu, Kehua Su, Yonggang Wen, Dacheng Tao",AAAI 2023: 10095-10103,AAAI,A*
+10,Discriminative Reasoning with Sparse Event Representation for Document-level Event-Event Relation Extraction.,2023,"Changsen Yuan, Heyan Huang, Yixin Cao, Yonggang Wen",ACL  2023: 16222-16234,ACL,A*
+11,"Lucid: A Non-intrusive, Scalable and Interpretable Scheduler for Deep Learning Training Jobs.",2023,"Qinghao Hu, Meng Zhang, Peng Sun, Yonggang Wen, Tianwei Zhang",ASPLOS  2023: 457-472,ASPLOS,A*
+12,Phyllis: Physics-Informed Lifelong Reinforcement Learning for Data Center Cooling Control.,2023,"Ruihang Wang, Zhiwei Cao, Xin Zhou, Yonggang Wen, Rui Tan",e-Energy 2023: 114-126,EENERGY,Unranked
+13,Toward Model-Assisted Safe Reinforcement Learning for Data Center Cooling Control: A Lyapunov-based Approach.,2023,"Zhiwei Cao, Ruihang Wang, Xin Zhou, Yonggang Wen",e-Energy 2023: 333-346,EENERGY,Unranked
+14,Hydro: Surrogate-Based Hyperparameter Tuning Service in Datacenters.,2023,"Qinghao Hu, Zhisheng Ye, Meng Zhang, Qiaoling Chen, Peng Sun, Yonggang Wen, Tianwei Zhang",OSDI 2023: 757-777,OSDI,A*
+15,FedABC: Targeting Fair Competition in Personalized Federated Learning.,2023,"Dui Wang, Li Shen, Yong Luo, Han Hu, Kehua Su, Yonggang Wen, Dacheng Tao",CoRR abs/2302.07450 ,CORR,Unranked
+16,Boosting Distributed Full-graph GNN Training with Asynchronous One-bit Communication.,2023,"Meng Zhang, Qinghao Hu, Peng Sun, Yonggang Wen, Tianwei Zhang",CoRR abs/2303.01277 ,CORR,Unranked
+17,FHA-Kitchens: A Novel Dataset for Fine-Grained Hand Action Recognition in Kitchen Scenes.,2023,"Ting Zhe, Yongqian Li, Jing Zhang, Yong Luo, Han Hu, Bo Du, Yonggang Wen, Dacheng Tao",CoRR abs/2306.10858 ,CORR,Unranked
+18,MAS: Towards Resource-Efficient Federated Multiple-Task Learning.,2023,"Weiming Zhuang, Yonggang Wen, Lingjuan Lyu, Shuai Zhang",CoRR abs/2307.11285 ,CORR,Unranked
+19,Rethinking the Localization in Weakly Supervised Object Localization.,2023,"Rui Xu, Yong Luo, Han Hu, Bo Du, Jialie Shen, Yonggang Wen",CoRR abs/2308.06161 ,CORR,Unranked
+20,PartSeg: Few-shot Part Segmentation via Part-aware Prompt Learning.,2023,"Mengya Han, Heliang Zheng, Chaoyue Wang, Yong Luo, Han Hu, Jing Zhang, Yonggang Wen",CoRR abs/2308.12757 ,CORR,Unranked
+21,Toward a Systematic Survey for Carbon Neutral Data Centers.,2022,"Zhiwei Cao, Xin Zhou, Han Hu, Zhi Wang, Yonggang Wen",IEEE Commun. Surv. Tutorials 24: 895-936 ,COMSUR,Unranked
+22,FogChain: A Blockchain-Based Peer-to-Peer Solar Power Trading System Powered by Fog AI.,2022,"Guanyu Gao, Chengru Song, T. G. Thusitha Asela Bandara, Meng Shen, Fan Yang, Wolf Posdorfer, Dacheng Tao, Yonggang Wen",IEEE Internet Things J. 9: 5200-5215 ,IOTJ,Unranked
+23,EasyFL: A Low-Code Federated Learning Platform for Dummies.,2022,"Weiming Zhuang, Xin Gan, Yonggang Wen, Shuai Zhang",IEEE Internet Things J. 9: 13740-13754 ,IOTJ,Unranked
+24,GradientFlow: Optimizing Network Performance for Large-Scale Distributed DNN Training.,2022,"Peng Sun, Yonggang Wen, Ruobing Han, Wansen Feng, Shengen Yan",IEEE Trans. Big Data 8: 495-507 ,TBD,Unranked
+25,CycleResume: A Cycle Learning Framework with Hybrid Attention for Fine-Grained Talent-Job Fit.,2022,"Zichen Zhang, Yong Luo, Yonggang Wen, Xinwen Zhang",CICAI  2022: 260-271,CICAI,Unranked
+26,Titan: a scheduler for foundation model fine-tuning workloads.,2022,"Wei Gao, Peng Sun, Yonggang Wen, Tianwei Zhang",SoCC 2022: 348-354,CLOUD,B
+27,Toward Physics-Guided Safe Deep Reinforcement Learning for Green Data Center Cooling Control.,2022,"Ruihang Wang, Xinyi Zhang, Xin Zhou, Yonggang Wen, Rui Tan",ICCPS 2022: 159-169,ICCPS,Unranked
+28,Divergence-aware Federated Self-Supervised Learning.,2022,"Weiming Zhuang, Yonggang Wen, Shuai Zhang",ICLR 2022,ICLR,A*
+29,Federated Unsupervised Domain Adaptation for Face Recognition.,2022,"Weiming Zhuang, Xin Gan, Xuesen Zhang, Yonggang Wen, Shuai Zhang, Shuai Yi",ICME 2022: 1-6,ICMCS,Unranked
+30,Optimizing Federated Unsupervised Person Re-identification via Camera-aware Clustering.,2022,"Jiabei Liu, Weiming Zhuang, Yonggang Wen, Jun Huang, Wei Lin",MMSP 2022: 1-6,MMSP,C
+31,Nonlinear Multi-Model Reuse.,2022,"Yong Luo, Ling-Yu Duan, Yan Bai, Tongliang Liu, Yihang Lou, Yonggang Wen",MMSP 2022: 1-6,MMSP,C
+32,Reducio: model reduction for data center predictive digital twins via physics-guided machine learning.,2022,"Zhiwei Cao, Ruihang Wang, Xin Zhou, Yonggang Wen",BuildSys@SenSys 2022: 1-10,SENSYS,A*
+33,Optimizing Data Centre Energy Efficiency via Event Driven Deep Reinforcement Learning.,2022,"Yongyi Ran, Xin Zhou, Han Hu, Yonggang Wen",SERVICES 2022: 20,SERVICES,B
+34,Primo: Practical Learning-Augmented Systems with Interpretable Models.,2022,"Qinghao Hu, Harsha Nori, Peng Sun, Yonggang Wen, Tianwei Zhang",USENIX Annual Technical Conference 2022: 519-538,USENIX,A
+35,Federated Unsupervised Domain Adaptation for Face Recognition.,2022,"Weiming Zhuang, Xin Gan, Yonggang Wen, Xuesen Zhang, Shuai Zhang, Shuai Yi",CoRR abs/2204.04382 ,CORR,Unranked
+36,Divergence-aware Federated Self-Supervised Learning.,2022,"Weiming Zhuang, Yonggang Wen, Shuai Zhang",CoRR abs/2204.04385 ,CORR,Unranked
+37,"Deep Learning Workload Scheduling in GPU Datacenters: Taxonomy, Challenges and Vision.",2022,"Wei Gao, Qinghao Hu, Zhisheng Ye, Peng Sun, Xiaolin Wang, Yingwei Luo, Tianwei Zhang, Yonggang Wen",CoRR abs/2205.11913 ,CORR,Unranked
+38,Optimizing Performance of Federated Person Re-identification: Benchmarking and Analysis.,2022,"Weiming Zhuang, Xin Gan, Yonggang Wen, Shuai Zhang",CoRR abs/2205.12144 ,CORR,Unranked
+39,Smart Multi-tenant Federated Learning.,2022,"Weiming Zhuang, Yonggang Wen, Shuai Zhang",CoRR abs/2207.04202 ,CORR,Unranked
+40,Not All Instances Contribute Equally: Instance-adaptive Class Representation Learning for Few-Shot Visual Recognition.,2022,"Mengya Han, Yibing Zhan, Yong Luo, Bo Du, Han Hu, Yonggang Wen, Dacheng Tao",CoRR abs/2209.03034 ,CORR,Unranked
+41,Machine Learning for a Sustainable Energy Future.,2022,"Zhenpeng Yao, Yanwei Lum, Andrew Johnston, Luis Martin Mejia-Mendoza, Xin Zhou, Yonggang Wen, Alán Aspuru-Guzik, Edward H. Sargent, Zhi Wei Seh",CoRR abs/2210.10391 ,CORR,Unranked
+42,Toward Efficient Language Model Pretraining and Downstream Adaptation via Self-Evolution: A Case Study on SuperGLUE.,2022,"Qihuang Zhong, Liang Ding, Yibing Zhan, Yu Qiao, Yonggang Wen, Li Shen, Juhua Liu, Baosheng Yu, Bo Du, Yixin Chen, Xinbo Gao, Chunyan Miao, Xiaoou Tang, Dacheng Tao",CoRR abs/2212.01853 ,CORR,Unranked
+43,Video transcoding for adaptive bitrate streaming over edge-cloud continuum.,2021,"Guanyu Gao, Yonggang Wen",Digit. Commun. Networks 7: 598-604 ,DCAN,Unranked
+44,Demystifying Thermal Comfort in Smart Buildings: An Interpretable Machine Learning Approach.,2021,"Wei Zhang, Yonggang Wen, King-Jet Tseng, Guangyu Jin",IEEE Internet Things J. 8: 8021-8031 ,IOTJ,Unranked
+45,Toward Intelligent Multizone Thermal Control With Multiagent Deep Reinforcement Learning.,2021,"Jie Li, Wei Zhang, Guanyu Gao, Yonggang Wen, Guangyu Jin, George I. Christopoulos",IEEE Internet Things J. 8: 11150-11162 ,IOTJ,Unranked
+46,Toward a Wearable Crowdsource System to Monitor Respiratory Symptoms for Pandemic Early Warning.,2021,"Wei Zhang, Jie Li, Yonggang Wen, Yong Luo",IEEE Netw. 35: 56-63 ,NETWORK,Unranked
+47,Joint IT-Facility Optimization for Green Data Centers via Deep Reinforcement Learning.,2021,"Xin Zhou, Ruihang Wang, Yonggang Wen, Rui Tan",IEEE Netw. 35: 255-262 ,NETWORK,Unranked
+48,Cost Optimal Data Center Servers: A Voltage Scaling Approach.,2021,"Wei Zhang, Yonggang Wen, Loi Lei Lai, Fang Liu, Rui Fan",IEEE Trans. Cloud Comput. 9: 118-130 ,TCC,A
+49,Joint Deep Multi-View Learning for Image Clustering.,2021,"Yuan Xie, Bingqian Lin, Yanyun Qu, Cuihua Li, Wensheng Zhang, Lizhuang Ma, Yonggang Wen, Dacheng Tao",IEEE Trans. Knowl. Data Eng. 33: 3594-3606 ,TKDE,Unranked
+50,Intelligent Trainer for Dyna-Style Model-Based Deep Reinforcement Learning.,2021,"Linsen Dong, Yuanlong Li, Xin Zhou, Yonggang Wen, Kyle Guan",IEEE Trans. Neural Networks Learn. Syst. 32: 2758-2771 ,TNN,Unranked
+51,Deep Reinforcement Learning for Tropical Air Free-cooled Data Center Control.,2021,"Duc Van Le, Rongrong Wang, Yingbo Liu, Rui Tan, Yew-Wah Wong, Yonggang Wen",ACM Trans. Sens. Networks 17: 24:1-24:28 ,TOSN,Unranked
+52,Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion.,2021,"Yixin Cao, Xiang Ji, Xin Lv, Juanzi Li, Yonggang Wen, Hanwang Zhang",ACL/IJCNLP  2021: 6855-6865,ACL,A*
+53,Chronus: A Novel Deadline-aware Scheduler for Deep Learning Training Jobs.,2021,"Wei Gao, Zhisheng Ye, Peng Sun, Yonggang Wen, Tianwei Zhang",SoCC 2021: 609-623,CLOUD,B
+54,Privacy-Preserving Collaborative Learning With Automatic Transformation Search.,2021,"Wei Gao, Shangwei Guo, Tianwei Zhang, Han Qiu, Yonggang Wen, Yang Liu",CVPR 2021: 114-123,CVPR,A*
+55,Towards Cost-Optimal Energy Procurement for Cooling as a Service: A Data-Driven Approach.,2021,"Wei Zhang, Yonggang Wen, Fang Liu",GLOBECOM 2021: 1-6,GLOBECOM,B
+56,Collaborative Unsupervised Visual Representation Learning from Decentralized Data.,2021,"Weiming Zhuang, Xin Gan, Yonggang Wen, Shuai Zhang, Shuai Yi",ICCV 2021: 4892-4901,ICCV,A*
+57,Joint Optimization in Edge-Cloud Continuum for Federated Unsupervised Person Re-identification.,2021,"Weiming Zhuang, Yonggang Wen, Shuai Zhang",ACM Multimedia 2021: 433-441,MM,Unranked
+58,Exploring Sequence Feature Alignment for Domain Adaptive Detection Transformers.,2021,"Wen Wang, Yang Cao, Jing Zhang, Fengxiang He, Zheng-Jun Zha, Yonggang Wen, Dacheng Tao",ACM Multimedia 2021: 1730-1738,MM,Unranked
+59,Data-Free Ensemble Knowledge Distillation for Privacy-conscious Multimedia Model Compression.,2021,"Zhiwei Hao, Yong Luo, Han Hu, Jianping An, Yonggang Wen",ACM Multimedia 2021: 1803-1811,MM,Unranked
+60,Missing Data Imputation for Solar Yield Prediction using Temporal Multi-Modal Variational Auto-Encoder.,2021,"Meng Shen, Huaizheng Zhang, Yixin Cao, Fan Yang, Yonggang Wen",ACM Multimedia 2021: 2558-2566,MM,Unranked
+61,Characterization and prediction of deep learning workloads in large-scale GPU datacenters.,2021,"Qinghao Hu, Peng Sun, Shengen Yan, Yonggang Wen, Tianwei Zhang",SC 2021: 104,SC,A
+62,Toward explainable and interpretable building energy modelling: an explainable artificial intelligence approach.,2021,"Wei Zhang, Fang Liu, Yonggang Wen, Bernard Nee",BuildSys@SenSys 2021: 255-258,SENSYS,A*
+63,On the Practicality of Differential Privacy in Federated Learning by Tuning Iteration Times.,2021,"Yao Fu, Yipeng Zhou, Di Wu, Shui Yu, Yonggang Wen, Chao Li",CoRR abs/2101.04163 ,CORR,Unranked
+64,A Serverless Cloud-Fog Platform for DNN-Based Video Analytics with Incremental Learning.,2021,"Huaizheng Zhang, Meng Shen, Yizheng Huang, Yonggang Wen, Yong Luo, Guanyu Gao, Kyle Guan",CoRR abs/2102.03012 ,CORR,Unranked
+65,EasyFL: A Low-code Federated Learning Platform For Dummies.,2021,"Weiming Zhuang, Xin Gan, Yonggang Wen, Shuai Zhang",CoRR abs/2105.07603 ,CORR,Unranked
+66,Towards Unsupervised Domain Adaptation for Deep Face Recognition under Privacy Constraints via Federated Learning.,2021,"Weiming Zhuang, Xin Gan, Yonggang Wen, Xuesen Zhang, Shuai Zhang, Shuai Yi",CoRR abs/2105.07606 ,CORR,Unranked
+67,ModelPS: An Interactive and Collaborative Platform for Editing Pre-trained Models at Scale.,2021,"Yuanming Li, Huaizheng Zhang, Shanshan Jiang, Fan Yang, Yonggang Wen, Yong Luo",CoRR abs/2105.08275 ,CORR,Unranked
+68,ModelCI-e: Enabling Continual Learning in Deep Learning Serving Systems.,2021,"Yizheng Huang, Huaizheng Zhang, Yonggang Wen, Peng Sun, Nguyen Binh Duong Ta",CoRR abs/2106.03122 ,CORR,Unranked
+69,Exploring Sequence Feature Alignment for Domain Adaptive Detection Transformers.,2021,"Wen Wang, Yang Cao, Jing Zhang, Fengxiang He, Zheng-Jun Zha, Yonggang Wen, Dacheng Tao",CoRR abs/2107.12636 ,CORR,Unranked
+70,Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion.,2021,"Yixin Cao, Xiang Ji, Xin Lv, Juanzi Li, Yonggang Wen, Hanwang Zhang",CoRR abs/2108.01387 ,CORR,Unranked
+71,Collaborative Unsupervised Visual Representation Learning from Decentralized Data.,2021,"Weiming Zhuang, Xin Gan, Yonggang Wen, Shuai Zhang, Shuai Yi",CoRR abs/2108.06492 ,CORR,Unranked
+72,Joint Optimization in Edge-Cloud Continuum for Federated Unsupervised Person Re-identification.,2021,"Weiming Zhuang, Yonggang Wen, Shuai Zhang",CoRR abs/2108.06493 ,CORR,Unranked
+73,Characterization and Prediction of Deep Learning Workloads in Large-Scale GPU Datacenters.,2021,"Qinghao Hu, Peng Sun, Shengen Yan, Yonggang Wen, Tianwei Zhang",CoRR abs/2109.01313 ,CORR,Unranked
+74,Carbon Neutrality in Data Center.,2021,"Zhiwei Cao, Xin Zhou, Han Hu, Zhi Wang, Yonggang Wen",CoRR abs/2110.09284 ,CORR,Unranked
+75,xTML: A Unified Heterogeneous Transfer Metric Learning Framework for Multimedia Applications [Application Notes].,2020,"Lu Liu, Yong Luo, Han Hu, Yonggang Wen, Dacheng Tao, Xin Yao",IEEE Comput. Intell. Mag. 15: 78-88 ,CIM,Unranked
+76,Deep neural networks for emerging multimedia computing and applications.,2020,"Shuqiang Jiang, Weiqing Min, Yonggang Wen, Qingming Huang, Shuicheng Yan",Neurocomputing 395: 117-118 ,IJON,Unranked
+77,Transforming Device Fingerprinting for Wireless Security via Online Multitask Metric Learning.,2020,"Yong Luo, Han Hu, Yonggang Wen, Dacheng Tao",IEEE Internet Things J. 7: 208-219 ,IOTJ,Unranked
+78,DeepComfort: Energy-Efficient Thermal Comfort Control in Buildings Via Reinforcement Learning.,2020,"Guanyu Gao, Jie Li, Yonggang Wen",IEEE Internet Things J. 7: 8472-8484 ,IOTJ,Unranked
+79,Guest Editorial Special Issue on Advances in Artificial Intelligence and Machine Learning for Networking.,2020,"Prosper Chemouil, Pan Hui, Wolfgang Kellerer, Noura Limam, Rolf Stadler, Yonggang Wen",IEEE J. Sel. Areas Commun. 38: 2229-2233 ,JSAC,Unranked
+80,GraphMP: I/O-Efficient Big Graph Analytics on a Single Commodity Machine.,2020,"Peng Sun, Yonggang Wen, Ta Nguyen Binh Duong, Xiaokui Xiao",IEEE Trans. Big Data 6: 816-829 ,TBD,Unranked
+81,Transforming Cooling Optimization for Green Data Center via Deep Reinforcement Learning.,2020,"Yuanlong Li, Yonggang Wen, Dacheng Tao, Kyle Guan",IEEE Trans. Cybern. 50: 2002-2013 ,TCYB,Unranked
+82,DeepQoE: A Multimodal Learning Framework for Video Quality of Experience (QoE) Prediction.,2020,"Huaizheng Zhang, Linsen Dong, Guanyu Gao, Han Hu, Yonggang Wen, Kyle Guan",IEEE Trans. Multim. 22: 3210-3223 ,TMM,Unranked
+83,Efficient Compute-Intensive Job Allocation in Data Centers via Deep Reinforcement Learning.,2020,"Deliang Yi, Xin Zhou, Yonggang Wen, Rui Tan",IEEE Trans. Parallel Distributed Syst. 31: 1474-1485 ,TPDS,Unranked
+84,Coordinating Workload Scheduling of Geo-Distributed Data Centers and Electricity Generation of Smart Grid.,2020,"Han Hu, Yonggang Wen, Lei Yin, Ling Qiu, Dusit Niyato",IEEE Trans. Serv. Comput. 13: 1007-1020 ,TSC,Unranked
+85,Electricity Cost Minimization for Interruptible Workload in Datacenter Servers.,2020,"Wei Zhang, Yonggang Wen, Loi Lei Lai, Fang Liu, Rui Fan",IEEE Trans. Serv. Comput. 13: 1059-1071 ,TSC,Unranked
+86,When Wireless Video Streaming Meets AI: A Deep Learning Approach.,2020,"Lu Liu, Han Hu, Yong Luo, Yonggang Wen",IEEE Wirel. Commun. 27: 127-133 ,WC,Unranked
+87,"Look, Read and Feel: Benchmarking Ads Understanding with Multimodal Multitask Learning.",2020,"Huaizheng Zhang, Yong Luo, Qiming Ai, Yonggang Wen, Han Hu",ACM Multimedia 2020: 430-438,MM,Unranked
+88,Performance Optimization of Federated Person Re-identification via Benchmark Analysis.,2020,"Weiming Zhuang, Yonggang Wen, Xuesen Zhang, Xin Gan, Daiying Yin, Dongzhan Zhou, Shuai Zhang, Shuai Yi",ACM Multimedia 2020: 955-963,MM,Unranked
+89,Deep Heterogeneous Multi-Task Metric Learning for Visual Recognition and Retrieval.,2020,"Shikang Gan, Yong Luo, Yonggang Wen, Tongliang Liu, Han Hu",ACM Multimedia 2020: 1837-1845,MM,Unranked
+90,Semi-supervised Online Multi-Task Metric Learning for Visual Recognition and Retrieval.,2020,"Yangxi Li, Han Hu, Jin Li, Yong Luo, Yonggang Wen",ACM Multimedia 2020: 3377-3385,MM,Unranked
+91,MLModelCI: An Automatic Cloud Platform for Efficient MLaaS.,2020,"Huaizheng Zhang, Yuanming Li, Yizheng Huang, Yonggang Wen, Jianxiong Yin, Kyle Guan",ACM Multimedia 2020: 4453-4456,MM,Unranked
+92,Hysia: Serving DNN-Based Video-to-Retail Applications in Cloud.,2020,"Huaizheng Zhang, Yuanming Li, Qiming Ai, Yong Luo, Yonggang Wen, Yichao Jin, Ta Nguyen Binh Duong",ACM Multimedia 2020: 4457-4460,MM,Unranked
+93,Real-Time Cooling Power Attribution for Co-Located Data Center Rooms with Distinct Temperatures.,2020,"Rongrong Wang, Duc Van Le, Rui Tan, Yew-Wah Wong, Yonggang Wen",BuildSys@SenSys 2020: 190-199,SENSYS,A*
+94,Kalibre: Knowledge-based Neural Surrogate Model Calibration for Data Center Digital Twins.,2020,"Ruihang Wang, Xin Zhou, Linsen Dong, Yonggang Wen, Rui Tan, Li Chen, Guan Wang, Feng Zeng",BuildSys@SenSys 2020: 200-209,SENSYS,A*
+95,An Urban Tropical Thermal Comfort Dataset for Smart Buildings.,2020,"Jie Li, Yonggang Wen, Wei Zhang",BuildSys@SenSys 2020: 318-319,SENSYS,A*
+96,"A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications.",2020,"Jie Gui, Zhenan Sun, Yonggang Wen, Dacheng Tao, Jieping Ye",CoRR abs/2001.06937 ,CORR,Unranked
+97,Toward Automated Calibration of Data Center Digital Twins: A Neural Surrogate Approach.,2020,"Ruihang Wang, Yuanlong Li, Linsen Dong, Xin Zhou, Yonggang Wen, Rui Tan, Li Chen, Guan Wang, Feng Zeng",CoRR abs/2001.10681 ,CORR,Unranked
+98,MLModelCI: An Automatic Cloud Platform for Efficient MLaaS.,2020,"Huaizheng Zhang, Yuanming Li, Yizheng Huang, Yonggang Wen, Jianxiong Yin, Kyle Guan",CoRR abs/2006.05096 ,CORR,Unranked
+99,Hysia: Serving DNN-Based Video-to-Retail Applications in Cloud.,2020,"Huaizheng Zhang, Yuanming Li, Qiming Ai, Yong Luo, Yonggang Wen, Yichao Jin, Duong Nguyen Binh Ta",CoRR abs/2006.05117 ,CORR,Unranked
+100,Distributed Energy Trading and Scheduling among Microgrids via Multiagent Reinforcement Learning.,2020,"Guanyu Gao, Yonggang Wen, Xiaohu Wu, Ran Wang",CoRR abs/2007.04517 ,CORR,Unranked
+101,Performance Optimization for Federated Person Re-identification via Benchmark Analysis.,2020,"Weiming Zhuang, Yonggang Wen, Xuesen Zhang, Xin Gan, Daiying Yin, Dongzhan Zhou, Shuai Zhang, Shuai Yi",CoRR abs/2008.11560 ,CORR,Unranked
+102,No more 996: Understanding Deep Learning Inference Serving with an Automatic Benchmarking System.,2020,"Huaizheng Zhang, Yizheng Huang, Yonggang Wen, Jianxiong Yin, Kyle Guan",CoRR abs/2011.02327 ,CORR,Unranked
+103,Privacy-preserving Collaborative Learning with Automatic Transformation Search.,2020,"Wei Gao, Shangwei Guo, Tianwei Zhang, Han Qiu, Yonggang Wen, Yang Liu",CoRR abs/2011.12505 ,CORR,Unranked
+104,Learning Relation Prototype from Unlabeled Texts for Long-tail Relation Extraction.,2020,"Yixin Cao, Jun Kuang, Ming Gao, Aoying Zhou, Yonggang Wen, Tat-Seng Chua",CoRR abs/2011.13574 ,CORR,Unranked
+105,Deep Reinforcement Learning for Tropical Air Free-Cooled Data Center Control.,2020,"Duc Van Le, Rongrong Wang, Yingbo Liu, Rui Tan, Yew-Wah Wong, Yonggang Wen",CoRR abs/2012.06834 ,CORR,Unranked
+106,A Survey on Consensus Mechanisms and Mining Strategy Management in Blockchain Networks.,2019,"Wenbo Wang, Dinh Thai Hoang, Peizhao Hu, Zehui Xiong, Dusit Niyato, Ping Wang, Yonggang Wen, Dong In Kim",IEEE Access 7: 22328-22370 ,ACCESS,Unranked
+107,Virtual Storage-Based DSM With Error-Driven Prediction Modulation for Microgrids.,2019,"Xuecong Lee, Mengxuan Yan, Fangyuan Xu, Yue Wang, Yiliang Fan, Zekai Lee, Yonggang Wen, Mohammad Shahidehpour, Loi Lei Lai",IEEE Access 7: 71109-71118 ,ACCESS,Unranked
+108,Thermal Comfort Modeling for Smart Buildings: A Fine-Grained Deep Learning Approach.,2019,"Wei Zhang, Weizheng Hu, Yonggang Wen",IEEE Internet Things J. 6: 2540-2549 ,IOTJ,Unranked
+109,Special Issue on Artificial Intelligence and Machine Learning for Networking and Communications.,2019,"Prosper Chemouil, Pan Hui, Wolfgang Kellerer, Yong Li, Rolf Stadler, Dacheng Tao, Yonggang Wen, Ying Zhang",IEEE J. Sel. Areas Commun. 37: 1185-1191 ,JSAC,Unranked
+110,Transferring Knowledge Fragments for Learning Distance Metric from a Heterogeneous Domain.,2019,"Yong Luo, Yonggang Wen, Tongliang Liu, Dacheng Tao",IEEE Trans. Pattern Anal. Mach. Intell. 41: 1013-1026 ,PAMI,Unranked
+111,Dynamic Priority-Based Resource Provisioning for Video Transcoding With Heterogeneous QoS.,2019,"Guanyu Gao, Yonggang Wen, Cédric Westphal",IEEE Trans. Circuits Syst. Video Technol. 29: 1515-1529 ,TCSV,Unranked
+112,"Orchestrating Caching, Transcoding and Request Routing for Adaptive Video Streaming Over ICN.",2019,"Han Hu, Yichao Jin, Yonggang Wen, Cédric Westphal",ACM Trans. Multim. Comput. Commun. Appl. 15: 24:1-24:23 ,TOMCCAP,Unranked
+113,ResumeGAN: An Optimized Deep Representation Learning Framework for Talent-Job Fit via Adversarial Learning.,2019,"Yong Luo, Huaizheng Zhang, Yonggang Wen, Xinwen Zhang",CIKM 2019: 1101-1110,CIKM,A
+114,Content-Aware Personalised Rate Adaptation for Adaptive Streaming via Deep Video Analysis.,2019,"Guanyu Gao, Linsen Dong, Huaizheng Zhang, Yonggang Wen, Wenjun Zeng",ICC 2019: 1-8,ICC,Unranked
+115,Optimization for HTTP Adaptive Video Streaming in UAV-Enabled Relaying System.,2019,"Han Hu, Cheng Zhan, Jianping An, Yonggang Wen",ICC 2019: 1-6,ICC,Unranked
+116,Toward Efficient Compute-Intensive Job Allocation for Green Data Centers: A Deep Reinforcement Learning Approach.,2019,"Deliang Yi, Xin Zhou, Yonggang Wen, Rui Tan",ICDCS 2019: 634-644,ICDCS,A
+117,DeepEE: Joint Optimization of Job Scheduling and Cooling Control for Data Center Energy Efficiency Using Deep Reinforcement Learning.,2019,"Yongyi Ran, Han Hu, Xin Zhou, Yonggang Wen",ICDCS 2019: 645-655,ICDCS,A
+118,Incorporating Category Taxonomy in Deep Reinforcement Learning Based Image Hashing.,2019,"Qiang Fu, Linsen Dong, Ziyuan Liu, Yong Luo, Yonggang Wen, Ying Li, Ling-Yu Duan",ICME 2019: 127-132,ICMCS,Unranked
+119,QoE-Driven Mobile Streaming: A Location-Aware Approach.,2019,"Fang Liu, Wei Zhang, Yonggang Wen",ICME 2019: 1708-1713,ICMCS,Unranked
+120,Heterogeneous Transfer Learning for Thermal Comfort Modeling.,2019,"Weizheng Hu, Yong Luo, Zongqing Lu, Yonggang Wen",BuildSys@SenSys 2019: 61-70,SENSYS,A*
+121,Control of Air Free-Cooled Data Centers in Tropics via Deep Reinforcement Learning.,2019,"Duc Van Le, Yingbo Liu, Rongrong Wang, Rui Tan, Yew-Wah Wong, Yonggang Wen",BuildSys@SenSys 2019: 306-315,SENSYS,A*
+122,Toward Intelligent Visual Sensing and Low-cost Analysis: A Collaborative Computing Approach.,2019,"Yan Bai, Ling-Yu Duan, Yong Luo, Shiqi Wang, Yonggang Wen, Wen Gao",VCIP 2019: 1-4,VCIP,C
+123,Scalable Architectures for Big Data Analysis.,2019,"Peng Sun, Yonggang Wen",Encyclopedia of Big Data Technologies 2019,BDT,Unranked
+124,Energy-Efficient Thermal Comfort Control in Smart Buildings via Deep Reinforcement Learning.,2019,"Guanyu Gao, Jie Li, Yonggang Wen",CoRR abs/1901.04693 ,CORR,Unranked
+125,Optimizing Network Performance for Distributed DNN Training on GPU Clusters: ImageNet/AlexNet Training in 1.5 Minutes.,2019,"Peng Sun, Wansen Feng, Ruobing Han, Shengen Yan, Yonggang Wen",CoRR abs/1902.06855 ,CORR,Unranked
+126,Cost-Sensitive Feature Selection by Optimizing F-Measures.,2019,"Meng Liu, Chang Xu, Yong Luo, Chao Xu, Yonggang Wen, Dacheng Tao",CoRR abs/1904.02301 ,CORR,Unranked
+127,Multi-view Vector-valued Manifold Regularization for Multi-label Image Classification.,2019,"Yong Luo, Dacheng Tao, Chang Xu, Chao Xu, Hong Liu, Yonggang Wen",CoRR abs/1904.03921 ,CORR,Unranked
+128,Transferring Knowledge Fragments for Learning Distance Metric from A Heterogeneous Domain.,2019,"Yong Luo, Yonggang Wen, Tongliang Liu, Dacheng Tao",CoRR abs/1904.04061 ,CORR,Unranked
+129,Heterogeneous Multi-task Metric Learning across Multiple Domains.,2019,"Yong Luo, Yonggang Wen, Dacheng Tao",CoRR abs/1904.04081 ,CORR,Unranked
+130,Large Margin Multi-modal Multi-task Feature Extraction for Image Classification.,2019,"Yong Luo, Yonggang Wen, Dacheng Tao, Jie Gui, Chao Xu",CoRR abs/1904.04088 ,CORR,Unranked
+131,Baconian: A Unified Opensource Framework for Model-Based Reinforcement Learning.,2019,"Linsen Dong, Guanyu Gao, Yuanlong Li, Yonggang Wen",CoRR abs/1904.10762 ,CORR,Unranked
+132,Soft-ranking Label Encoding for Robust Facial Age Estimation.,2019,"Xusheng Zeng, Changxing Ding, Yonggang Wen, Dacheng Tao",CoRR abs/1906.03625 ,CORR,Unranked
+133,"A Survey of Predictive Maintenance: Systems, Purposes and Approaches.",2019,"Yongyi Ran, Xin Zhou, Pengfeng Lin, Yonggang Wen, Ruilong Deng",CoRR abs/1912.07383 ,CORR,Unranked
+134,"Look, Read and Feel: Benchmarking Ads Understanding with Multimodal Multitask Learning.",2019,"Huaizheng Zhang, Yong Luo, Qiming Ai, Nana Hou, Yonggang Wen",CoRR abs/1912.10248 ,CORR,Unranked
+135,How to Find a Perfect Data Scientist: A Distance-Metric Learning Approach.,2018,"Han Hu, Yong Luo, Yonggang Wen, Yew-Soon Ong, Xinwen Zhang",IEEE Access 6: 60380-60395 ,ACCESS,Unranked
+136,Fast media caching for geo-distributed data centers.,2018,"Wei Zhang, Yonggang Wen, Fang Liu, Yiqiang Chen, Rui Fan",Comput. Commun. 120: 46-57 ,COMCOM,Unranked
+137,iTCM: Toward Learning-Based Thermal Comfort Modeling via Pervasive Sensing for Smart Buildings.,2018,"Weizheng Hu, Yonggang Wen, Kyle Guan, Guangyu Jin, King-Jet Tseng",IEEE Internet Things J. 5: 4164-4177 ,IOTJ,Unranked
+138,MetaFlow: A Scalable Metadata Lookup Service for Distributed File Systems in Data Centers.,2018,"Peng Sun, Yonggang Wen, Duong Nguyen Binh Ta, Haiyong Xie",IEEE Trans. Big Data 4: 203-216 ,TBD,Unranked
+139,Energy-Efficient Task Execution for Application as a General Topology in Mobile Cloud Computing.,2018,"Weiwen Zhang, Yonggang Wen",IEEE Trans. Cloud Comput. 6: 708-719 ,TCC,A
+140,Budget-Efficient Viral Video Distribution Over Online Social Networks: Mining Topic-Aware Influential Users.,2018,"Han Hu, Yonggang Wen, Shanshan Feng",IEEE Trans. Circuits Syst. Video Technol. 28: 759-771 ,TCSV,Unranked
+141,Toward Wi-Fi AP-Assisted Content Prefetching for an On-Demand TV Series: A Learning-Based Approach.,2018,"Wen Hu, Yichao Jin, Yonggang Wen, Zhi Wang, Lifeng Sun",IEEE Trans. Circuits Syst. Video Technol. 28: 1665-1676 ,TCSV,Unranked
+142,Can We Speculate Running Application With Server Power Consumption Trace?,2018,"Yuanlong Li, Han Hu, Yonggang Wen, Jun Zhang",IEEE Trans. Cybern. 48: 1500-1512 ,TCYB,Unranked
+143,Towards Virus Scanning as a Service in Mobile Cloud Computing: Energy-Efficient Dispatching Policy Under N-Version Protection.,2018,"Weiwen Zhang, Yonggang Wen, Xinwen Zhang",IEEE Trans. Emerg. Top. Comput. 6: 122-134 ,TETC,Unranked
+144,Cost-Sensitive Feature Selection by Optimizing F-Measures.,2018,"Meng Liu, Chang Xu, Yong Luo, Chao Xu, Yonggang Wen, Dacheng Tao",IEEE Trans. Image Process. 27: 1323-1335 ,TIP,Unranked
+145,Toward Rendering-Latency Reduction for Composable Web Services via Priority-Based Object Caching.,2018,"Han Hu, Yuanlong Li, Yonggang Wen",IEEE Trans. Multim. 20: 1864-1875 ,TMM,Unranked
+146,Toward Intelligent Product Retrieval for TV-to-Online (T2O) Application: A Transfer Metric Learning Approach.,2018,"Qiang Fu, Yong Luo, Yonggang Wen, Dacheng Tao, Ying Li, Ling-Yu Duan",IEEE Trans. Multim. 20: 2114-2125 ,TMM,Unranked
+147,Optimizing Quality of Experience for Adaptive Bitrate Streaming via Viewer Interest Inference.,2018,"Guanyu Gao, Huaizheng Zhang, Han Hu, Yonggang Wen, Jianfei Cai, Chong Luo, Wenjun Zeng",IEEE Trans. Multim. 20: 3399-3413 ,TMM,Unranked
+148,Heterogeneous Multitask Metric Learning Across Multiple Domains.,2018,"Yong Luo, Yonggang Wen, Dacheng Tao",IEEE Trans. Neural Networks Learn. Syst. 29: 4051-4064 ,TNN,Unranked
+149,Energy Optimal Wireless Data Transmission for Wearable Devices: A Compression Approach.,2018,"Wei Zhang, Rui Fan, Yonggang Wen, Fang Liu",IEEE Trans. Veh. Technol. 67: 9605-9618 ,TVT,Unranked
+150,Personalized Emotion-Aware Video Streaming for the Elderly.,2018,"Yi Dong, Han Hu, Yonggang Wen, Han Yu, Chunyan Miao",HCI  2018: 372-382,HCI,National
+151,Speeding-Up Age Estimation in Intelligent Demographics System via Network Optimization.,2018,"Zhenzhen Hu, Peng Sun, Yonggang Wen",ICC 2018: 1-7,ICC,Unranked
+152,ResumeNet: A Learning-Based Framework for Automatic Resume Quality Assessment.,2018,"Yong Luo, Huaizheng Zhang, Yongjie Wang, Yonggang Wen, Xinwen Zhang",ICDM 2018: 307-316,ICDM,A*
+153,Deepqoe: A Unified Framework for Learning to Predict Video QoE.,2018,"Huaizheng Zhang, Han Hu, Guanyu Gao, Yonggang Wen, Kyle Guan",ICME 2018: 1-6,ICMCS,Unranked
+154,JALAD: Joint Accuracy-And Latency-Aware Deep Structure Decoupling for Edge-Cloud Execution.,2018,"Hongshan Li, Chenghao Hu, Jingyan Jiang, Zhi Wang, Yonggang Wen, Wenwu Zhu",ICPADS 2018: 671-678,ICPADS,B
+155,Online Heterogeneous Transfer Metric Learning.,2018,"Yong Luo, Tongliang Liu, Yonggang Wen, Dacheng Tao",IJCAI 2018: 2525-2531,IJCAI,A*
+156,On Distributed Algorithms for Cost-Efficient Data Center Placement in Cloud Computing.,2018,"Wuqiong Luo, Wee Peng Tay, Peng Sun, Yonggang Wen",CoRR abs/1802.01289 ,CORR,Unranked
+157,DeepQoE: A unified Framework for Learning to Predict Video QoE.,2018,"Huaizheng Zhang, Han Hu, Guanyu Gao, Yonggang Wen, Kyle Guan",CoRR abs/1804.03481 ,CORR,Unranked
+158,A Survey on Consensus Mechanisms and Mining Management in Blockchain Networks.,2018,"Wenbo Wang, Dinh Thai Hoang, Zehui Xiong, Dusit Niyato, Ping Wang, Peizhao Hu, Yonggang Wen",CoRR abs/1805.02707 ,CORR,Unranked
+159,Speeding-up Age Estimation in Intelligent Demographics System via Network Optimization.,2018,"Zhenzhen Hu, Peng Sun, Yonggang Wen",CoRR abs/1805.08373 ,CORR,Unranked
+160,Intelligent Trainer for Model-Based Reinforcement Learning.,2018,"Yuanlong Li, Linsen Dong, Yonggang Wen, Kyle Guan",CoRR abs/1805.09496 ,CORR,Unranked
+161,ResumeNet: A Learning-based Framework for Automatic Resume Quality Assessment.,2018,"Yong Luo, Huaizheng Zhang, Yongjie Wang, Yonggang Wen, Xinwen Zhang",CoRR abs/1810.02832 ,CORR,Unranked
+162,"Transfer Metric Learning: Algorithms, Applications and Outlooks.",2018,"Yong Luo, Yonggang Wen, Ling-Yu Duan, Dacheng Tao",CoRR abs/1810.03944 ,CORR,Unranked
+163,GraphMP: I/O-Efficient Big Graph Analytics on a Single Commodity Machine.,2018,"Peng Sun, Yonggang Wen, Ta Nguyen Binh Duong, Xiaokui Xiao",CoRR abs/1810.04334 ,CORR,Unranked
+164,Content-Aware Personalised Rate Adaptation for Adaptive Streaming via Deep Video Analysis.,2018,"Guanyu Gao, Linsen Dong, Huaizheng Zhang, Yonggang Wen, Wenjun Zeng",CoRR abs/1811.06663 ,CORR,Unranked
+165,JALAD: Joint Accuracy- and Latency-Aware Deep Structure Decoupling for Edge-Cloud Execution.,2018,"Hongshan Li, Chenghao Hu, Jingyan Jiang, Zhi Wang, Yonggang Wen, Wenwu Zhu",CoRR abs/1812.10027 ,CORR,Unranked
+166,A Survey on Data Center Networking (DCN): Infrastructure and Operations.,2017,"Wenfeng Xia, Peng Zhao, Yonggang Wen, Haiyong Xie",IEEE Commun. Surv. Tutorials 19: 640-656 ,COMSUR,Unranked
+167,Resource Management in Cloud Networking Using Economic Analysis and Pricing Models: A Survey.,2017,"Nguyen Cong Luong, Ping Wang, Dusit Niyato, Yonggang Wen, Zhu Han",IEEE Commun. Surv. Tutorials 19: 954-1001 ,COMSUR,Unranked
+168,vCache: Supporting Cost-Efficient Adaptive Bitrate Streaming.,2017,"Guanyu Gao, Yonggang Wen, Jianfei Cai",IEEE Multim. 24: 19-27 ,IEEEMM,Unranked
+169,When Cloud Media Meet Network Function Virtualization: Challenges and Applications.,2017,"Yichao Jin, Yonggang Wen",IEEE Multim. 24: 72-82 ,IEEEMM,Unranked
+170,Guest Editorial Multimedia Communication in the Internet of Things.,2017,"Qing Yang, Honggang Wang, Mischa Dohler, Yonggang Wen, Guoliang Xue",IEEE Internet Things J. 4: 484-486 ,IOTJ,Unranked
+171,Toward Joint Compression-Transmission Optimization for Green Wearable Devices: An Energy-Delay Tradeoff.,2017,"Weizheng Hu, Wei Zhang, Han Hu, Yonggang Wen, King-Jet Tseng",IEEE Internet Things J. 4: 1006-1018 ,IOTJ,Unranked
+172,Embracing social big data in wireless system design.,2017,"Yonggang Wen, Han Hu, Fang Liu",J. Commun. Inf. Networks 2: 81-96 ,JCIN,Unranked
+173,Flexible Interconnection of Scalable Systems Integrated Using Optical Networks (FISSION) Data-Center - Concepts and Demonstration.,2017,"Aniruddha Kushwaha, Ashwin Gumaste, Tamal Das, Saurabh Hote, Yonggang Wen",JOCN 9: 585-600 ,JOCNET,Unranked
+174,Public Cloud Storage-Assisted Mobile Social Video Sharing: A Supermodular Game Approach.,2017,"Han Hu, Yonggang Wen, Dusit Niyato",IEEE J. Sel. Areas Commun. 35: 545-556 ,JSAC,Unranked
+175,Spectrum Allocation and Bitrate Adjustment for Mobile Social Video Sharing: Potential Game With Online QoS Learning Approach.,2017,"Han Hu, Yonggang Wen, Dusit Niyato",IEEE J. Sel. Areas Commun. 35: 935-948 ,JSAC,Unranked
+176,Editorial: Mobile Multimedia Communications.,2017,"Zheng Yan, Wei Wang, Yonggang Wen, Chonggang Wang, Honggang Wang",Mob. Networks Appl. 22: 435-437 ,MONET,Unranked
+177,Energy consumption analysis of data stream processing: a benchmarking approach.,2017,"Miyuru Dayarathna, Yuanlong Li, Yonggang Wen, Rui Fan",Softw. Pract. Exp. 47: 1443-1462 ,SPE,Unranked
+178,Delay-Optimized File Retrieval under LT-Based Cloud Storage.,2017,"Haifeng Lu, Chuan Heng Foh, Yonggang Wen, Jianfei Cai",IEEE Trans. Cloud Comput. 5: 656-666 ,TCC,A
+179,Guest Editorial Special Issue on Visual Computing in the Cloud: Mobile Computing.,2017,"Yonggang Wen, Jacob Chakareski, Pascal Frossard, Di Wu, Wenjun Zeng",IEEE Trans. Circuits Syst. Video Technol. 27: 1-5 ,TCSV,Unranked
+180,Facial Age Estimation With Age Difference.,2017,"Zhenzhen Hu, Yonggang Wen, Jianfeng Wang, Meng Wang, Richang Hong, Shuicheng Yan",IEEE Trans. Image Process. 26: 3087-3097 ,TIP,Unranked
+181,Cost-Optimized Microblog Distribution over Geo-Distributed Data Centers: Insights from Cross-Media Analysis.,2017,"Han Hu, Yonggang Wen, Tat-Seng Chua, Xuelong Li",ACM Trans. Intell. Syst. Technol. 8: 40:1-40:18 ,TIST,Unranked
+182,Visual Classification of Furniture Styles.,2017,"Zhenzhen Hu, Yonggang Wen, Luoqi Liu, Jianguo Jiang, Richang Hong, Meng Wang, Shuicheng Yan",ACM Trans. Intell. Syst. Technol. 8: 67:1-67:20 ,TIST,Unranked
+183,Energy-Efficient Mobile Video Streaming: A Location-Aware Approach.,2017,"Wei Zhang, Rui Fan, Yonggang Wen, Fang Liu",ACM Trans. Intell. Syst. Technol. 9: 6:1-6:16 ,TIST,Unranked
+184,Resource Provisioning and Profit Maximization for Transcoding in Clouds: A Two-Timescale Approach.,2017,"Guanyu Gao, Han Hu, Yonggang Wen, Cédric Westphal",IEEE Trans. Multim. 19: 836-848 ,TMM,Unranked
+185,Cost-Sensitive Feature Selection via F-Measure Optimization Reduction.,2017,"Meng Liu, Chang Xu, Yong Luo, Chao Xu, Yonggang Wen, Dacheng Tao",AAAI 2017: 2252-2258,AAAI,A*
+186,GraphH: High Performance Big Graph Analytics in Small Clusters.,2017,"Peng Sun, Yonggang Wen, Ta Nguyen Binh Duong, Xiaokui Xiao",CLUSTER 2017: 256-266,CLUSTER,B
+187,Design Tradeoffs for Cloud-Based Ambient Assisted Living Systems.,2017,"Yi Dong, Yonggang Wen, Han Hu, Chunyan Miao, Cyril Leung",ICCSE 2017: 144-151,ICCSE,Unranked
+188,GraphMP: An Efficient Semi-External-Memory Big Graph Processing System on a Single Machine.,2017,"Peng Sun, Yonggang Wen, Ta Nguyen Binh Duong, Xiaokui Xiao",ICPADS 2017: 276-283,ICPADS,B
+189,Exploiting High-Order Information in Heterogeneous Multi-Task Feature Learning.,2017,"Yong Luo, Dacheng Tao, Yonggang Wen",IJCAI 2017: 2443-2449,IJCAI,A*
+190,General Heterogeneous Transfer Distance Metric Learning via Knowledge Fragments Transfer.,2017,"Yong Luo, Yonggang Wen, Tongliang Liu, Dacheng Tao",IJCAI 2017: 2450-2456,IJCAI,A*
+191,QDLCoding: QoS-differentiated low-cost video encoding scheme for online video service.,2017,"Guanyu Gao, Yonggang Wen, Han Hu",INFOCOM 2017: 1-9,INFOCOM,A*
+192,MUSA: Wi-Fi AP-assisted video prefetching via Tensor Learning.,2017,"Wen Hu, Jiahui Huang, Zhi Wang, Peng Wang, Kun Yi, Yonggang Wen, Kaiyan Chu, Lifeng Sun",IWQoS 2017: 1-6,IWQOS,Unranked
+193,Towards Distributed Machine Learning in Shared Clusters: A Dynamically-Partitioned Approach.,2017,"Peng Sun, Yonggang Wen, Ta Nguyen Binh Duong, Shengen Yan",SMARTCOMP 2017: 1-6,SMARTCOMP,Unranked
+194,Mobile cloud computing with voltage scaling and data compression.,2017,"Wei Zhang, Yonggang Wen, Ying Jun Zhang, Fang Liu, Rui Fan",SPAWC 2017: 1-5,SPAWC,Unranked
+195,Resource Management in Cloud Networking Using Economic Analysis and Pricing Models: A Survey.,2017,"Nguyen Cong Luong, Ping Wang, Dusit Niyato, Yonggang Wen, Zhu Han",CoRR abs/1701.01963 ,CORR,Unranked
+196,Towards Wi-Fi AP-Assisted Content Prefetching for On-Demand TV Series: A Reinforcement Learning Approach.,2017,"Wen Hu, Yichao Jin, Yonggang Wen, Zhi Wang, Lifeng Sun",CoRR abs/1703.03530 ,CORR,Unranked
+197,Towards Distributed Machine Learning in Shared Clusters: A Dynamically-Partitioned Approach.,2017,"Peng Sun, Yonggang Wen, Ta Nguyen Binh Duong, Shengen Yan",CoRR abs/1704.06738 ,CORR,Unranked
+198,GraphH: High Performance Big Graph Analytics in Small Clusters.,2017,"Peng Sun, Yonggang Wen, Ta Nguyen Binh Duong, Xiaokui Xiao",CoRR abs/1705.05595 ,CORR,Unranked
+199,GraphMP: An Efficient Semi-External-Memory Big Graph Processing System on a Single Machine.,2017,"Peng Sun, Yonggang Wen, Ta Nguyen Binh Duong, Xiaokui Xiao",CoRR abs/1707.02557 ,CORR,Unranked
+200,Transforming Cooling Optimization for Green Data Center via Deep Reinforcement Learning.,2017,"Yuanlong Li, Yonggang Wen, Kyle Guan, Dacheng Tao",CoRR abs/1709.05077 ,CORR,Unranked
+201,Data Center Energy Consumption Modeling: A Survey.,2016,"Miyuru Dayarathna, Yonggang Wen, Rui Fan",IEEE Commun. Surv. Tutorials 18: 732-794 ,COMSUR,Unranked
+202,Towards Joint Optimization Over ICT and Cooling Systems in Data Centre: A Survey.,2016,"Weiwen Zhang, Yonggang Wen, Yew-Wah Wong, Kok-Chuan Toh, Chiu-Hao Chen",IEEE Commun. Surv. Tutorials 18: 1596-1616 ,COMSUR,Unranked
+203,Manifold regularized multi-view feature selection for social image annotation.,2016,"Yangxi Li, Xin Shi, Cuilan Du, Yang Liu, Yonggang Wen",Neurocomputing 204: 135-141 ,IJON,Unranked
+204,Multicolumn Bidirectional Long Short-Term Memory for Mobile Devices-Based Human Activity Recognition.,2016,"Dapeng Tao, Yonggang Wen, Richang Hong",IEEE Internet Things J. 3: 1124-1134 ,IOTJ,Unranked
+205,Big data meets multimedia analytics.,2016,"Tat-Seng Chua, Xiangjian He, Weifeng Liu, Massimo Piccardi, Yonggang Wen, Dacheng Tao",Signal Process. 124: 1-4 ,SIGPRO,Unranked
+206,Introduction of New Associate Editors.,2016,"Nikolaos V. Boulgouris, David R. Bull, Marco Cagnazzo, Andrea Cavallaro, Gene Cheung, Amit K. Roy-Chowdhury, Pedro Comesaña Alfaro, Shan Du, Sarp Ertürk, Markus Flierl, Gian Luca Foresti, Gang Hua, Zhu Li, Weisi Lin, Siwei Ma, Pramod Kumar Meher, Debargha Mukherjee, Aleksandra Pizurica, Andrea Prati, Paolo Remagnino, Arun Ross, Shin'ichi Satoh, Andreas E. Savakis, Heiko Schwarz, Ling Shao, Shervin Shirmohammadi, Giuseppe Valenzise, Meng Wang, Zhou Wang, Yonggang Wen, Dong Xu, Junsong Yuan, Yuan Yuan",IEEE Trans. Circuits Syst. Video Technol. 26: 253-263 ,TCSV,Unranked
+207,Joint Content Replication and Request Routing for Social Video Distribution Over Cloud CDN: A Community Clustering Method.,2016,"Han Hu, Yonggang Wen, Tat-Seng Chua, Jian Huang, Wenwu Zhu, Xuelong Li",IEEE Trans. Circuits Syst. Video Technol. 26: 1320-1333 ,TCSV,Unranked
+208,Large Margin Multi-Modal Multi-Task Feature Extraction for Image Classification.,2016,"Yong Luo, Yonggang Wen, Dacheng Tao, Jie Gui, Chao Xu",IEEE Trans. Image Process. 25: 414-427 ,TIP,Unranked
+209,Towards Information Diffusion in Mobile Social Networks.,2016,"Zongqing Lu, Yonggang Wen, Weizhan Zhang, Qinghua Zheng, Guohong Cao",IEEE Trans. Mob. Comput. 15: 1292-1304 ,TMC,Unranked
+210,Toward Cost-Efficient Content Placement in Media Cloud: Modeling and Analysis.,2016,"Yichao Jin, Yonggang Wen, Kyle Guan",IEEE Trans. Multim. 18: 807-819 ,TMM,Unranked
+211,FUN Coding: Design and Analysis.,2016,"Huazi Zhang, Kairan Sun, Qiuyuan Huang, Yonggang Wen, Dapeng Oliver Wu",IEEE/ACM Trans. Netw. 24: 3340-3353 ,TON,Unranked
+212,File Transfer Between Charging Stations Goes Infrastructureless: A Code-Delay Tradeoff.,2016,"Huazi Zhang, Yonggang Wen, Qiuyuan Huang, Dapeng Wu",IEEE Trans. Veh. Technol. 65: 8682-8695 ,TVT,Unranked
+213,Rate-Adaptive Feedback With Bayesian Compressive Sensing in Multiuser MIMO Beamforming Systems.,2016,"Xin-Lin Huang, Jun Wu, Yonggang Wen, Fei Hu, Yi Wang, Tao Jiang",IEEE Trans. Wirel. Commun. 15: 4839-4851 ,TWC,Unranked
+214,Learning-based power prediction for data centre operations via deep neural networks.,2016,"Yuanlong Li, Han Hu, Yonggang Wen, Jun Zhang",E2DC@e-Energy 2016: 6:1-6:10,E2DC,Unranked
+215,Toward Effortless TV-to-Online (T2O) Experience: A Novel Metric Learning Approach.,2016,"Yong Luo, Yonggang Wen, Dacheng Tao, Qiang Fu",GLOBECOM 2016: 1-7,GLOBECOM,B
+216,Towards cost-efficient workload scheduling for a Tango between geo-distributed data center and power grid.,2016,"Han Hu, Yonggang Wen, Lei Yin, Ling Qiu",ICC 2016: 1-7,ICC,Unranked
+217,Interference based virtual network embedding.,2016,"Lei Yin, Zheng Chen, Ling Qiu, Yonggang Wen",ICC 2016: 1-6,ICC,Unranked
+218,Tensor canonical correlation analysis for multi-view dimension reduction.,2016,"Yong Luo, Dacheng Tao, Kotagiri Ramamohanarao, Chao Xu, Yonggang Wen",ICDE 2016: 1460-1461,ICDE,A*
+219,Timed Dataflow: Reducing Communication Overhead for Distributed Machine Learning Systems.,2016,"Peng Sun, Yonggang Wen, Ta Nguyen Binh Duong, Shengen Yan",ICPADS 2016: 1110-1117,ICPADS,B
+220,Balanced Hashing and Efficient GPU Sparse General Matrix-Matrix Multiplication.,2016,"Pham Nguyen Quang Anh, Rui Fan, Yonggang Wen",ICS 2016: 36:1-36:12,ICS,A
+221,On Combining Side Information and Unlabeled Data for Heterogeneous Multi-Task Metric Learning.,2016,"Yong Luo, Yonggang Wen, Dacheng Tao",IJCAI 2016: 1809-1815,IJCAI,A*
+222,Resource provisioning and profit maximization for transcoding in Information Centric Networking.,2016,"Guanyu Gao, Yonggang Wen, Cédric Westphal",INFOCOM Workshops 2016: 97-102,INFOCOM,A*
+223,Dynamic Resource Provisioning with QoS Guarantee for Video Transcoding in Online Video Sharing Service.,2016,"Guanyu Gao, Yonggang Wen, Cédric Westphal",ACM Multimedia 2016: 868-877,MM,Unranked
+224,Morph: A Fast and Scalable Cloud Transcoding System.,2016,"Guanyu Gao, Yonggang Wen",ACM Multimedia 2016: 1160-1163,MM,Unranked
+225,Resource Provisioning and Profit Maximization for Transcoding in Information Centric Networking.,2016,"Guanyu Gao, Yonggang Wen, Cédric Westphal",CoRR abs/1605.05758 ,CORR,Unranked
+226,Power Series Classification: A Hybrid of LSTM and a Novel Advancing Dynamic Time Warping.,2016,"Yuanlong Li, Han Hu, Yonggang Wen, Jun Zhang",CoRR abs/1608.04171 ,CORR,Unranked
+227,MetaFlow: a Scalable Metadata Lookup Service for Distributed File Systems in Data Centers.,2016,"Peng Sun, Yonggang Wen, Ta Nguyen Binh Duong, Haiyong Xie",CoRR abs/1611.01594 ,CORR,Unranked
+228,Toward green data centers as an interruptible load for grid stabilization in Singapore.,2015,"Wenfeng Xia, Yonggang Wen, Kok-Chuan Toh, Yew-Wah Wong",IEEE Commun. Mag. 53: 192-198 ,CM,Unranked
+229,A Survey on Software-Defined Networking.,2015,"Wenfeng Xia, Yonggang Wen, Chuan Heng Foh, Dusit Niyato, Haiyong Xie",IEEE Commun. Surv. Tutorials 17: 27-51 ,COMSUR,Unranked
+230,Adaptive and scalable load balancing for metadata server cluster in cloud-scale file systems.,2015,"Quanqing Xu, Rajesh Vellore Arumugam, Khai Leong Yong, Yonggang Wen, Yew-Soon Ong, Weiya Xi",Frontiers Comput. Sci. 9: 904-918 ,FCSC,Unranked
+231,Preface.,2015,"Wenwu Zhu, Yonggang Wen, Zhi Wang",J. Comput. Sci. Technol. 30: 1161-1162 ,JCST,Unranked
+232,SmartGW: Enabling Bandwidth-Efficient Group Watching in Cloud Social TV Systems.,2015,"Zheng Xue, Di Wu, Xueyan Xie, Yonggang Wen",Mob. Networks Appl. 20: 308-319 ,MONET,Unranked
+233,Improving Energy Efficiency for Mobile Media Cloud via Virtual Machine Consolidation.,2015,"Yi Dong, Liang Zhou, Yichao Jin, Yonggang Wen",Mob. Networks Appl. 20: 370-379 ,MONET,Unranked
+234,Cloud radio access network (C-RAN): a primer.,2015,"Jun Wu, Zhifeng Zhang, Yu Hong, Yonggang Wen",IEEE Netw. 29: 35-41 ,NETWORK,Unranked
+235,Toward an SDN-enabled big data platform for social TV analytics.,2015,"Han Hu, Yonggang Wen, Yue Gao, Tat-Seng Chua, Xuelong Li",IEEE Netw. 29: 43-49 ,NETWORK,Unranked
+236,Mobile cloud computing based privacy protection in location-based information survey applications.,2015,"Hao Zhang, Nenghai Yu, Yonggang Wen",Secur. Commun. Networks 8: 1006-1025 ,SCN,National
+237,Optimal Transcoding and Caching for Adaptive Streaming in Media Cloud: an Analytical Approach.,2015,"Yichao Jin, Yonggang Wen, Cédric Westphal",IEEE Trans. Circuits Syst. Video Technol. 25: 1914-1925 ,TCSV,Unranked
+238,Tensor Canonical Correlation Analysis for Multi-View Dimension Reduction.,2015,"Yong Luo, Dacheng Tao, Kotagiri Ramamohanarao, Chao Xu, Yonggang Wen",IEEE Trans. Knowl. Data Eng. 27: 3111-3124 ,TKDE,Unranked
+239,Towards Cost-Efficient Video Transcoding in Media Cloud: Insights Learned From User Viewing Patterns.,2015,"Guanyu Gao, Weiwen Zhang, Yonggang Wen, Zhi Wang, Wenwu Zhu",IEEE Trans. Multim. 17: 1286-1296 ,TMM,Unranked
+240,How Much to Coordinate? Optimizing In-Network Caching in Content-Centric Networks.,2015,"Yanhua Li, Haiyong Xie, Yonggang Wen, Chi-Yin Chow, Zhi-Li Zhang",IEEE Trans. Netw. Serv. Manag. 12: 420-434 ,TNSM,Unranked
+241,Algorithms and Applications for Community Detection in Weighted Networks.,2015,"Zongqing Lu, Xiao Sun, Yonggang Wen, Guohong Cao, Thomas La Porta",IEEE Trans. Parallel Distributed Syst. 26: 2916-2926 ,TPDS,Unranked
+242,Supporting Seamless Virtual Machine Migration via Named Data Networking in Cloud Data Center.,2015,"Ruitao Xie, Yonggang Wen, Xiaohua Jia, Haiyong Xie",IEEE Trans. Parallel Distributed Syst. 26: 3485-3497 ,TPDS,Unranked
+243,Collaborative Task Execution in Mobile Cloud Computing Under a Stochastic Wireless Channel.,2015,"Weiwen Zhang, Yonggang Wen, Dapeng Oliver Wu",IEEE Trans. Wirel. Commun. 14: 81-93 ,TWC,Unranked
+244,Low-Rank Multi-View Learning in Matrix Completion for Multi-Label Image Classification.,2015,"Meng Liu, Yong Luo, Dacheng Tao, Chao Xu, Yonggang Wen",AAAI 2015: 2778-2784,AAAI,A*
+245,Fuelling Big Data Intelligence into Future Multimedia System: Reflection and Outlook.,2015,"Yonggang Wen, Wenwu Zhu",BigMM 2015: 1-4,BIGMM,Unranked
+246,Manifold Regularized Transfer Distance Metric Learning.,2015,"Haibo Shi, Yong Luo, Chao Xu, Yonggang Wen",BMVC 2015: 158.1-158.11,BMVC,A
+247,Wearable computing going green: Energy-optimal data transmission for multi-sensor wearable devices.,2015,"Weizheng Hu, Weiwen Zhang, Han Hu, Yonggang Wen",ChinaCom 2015: 532-537,CHINACOM,Unranked
+248,Cloud-assisted collaborative execution for mobile applications with general task topology.,2015,"Weiwen Zhang, Yonggang Wen",ICC 2015: 6815-6821,ICC,Unranked
+249,Cost-efficient and QoS-aware content management in media cloud: Implementation and evaluation.,2015,"Guanyu Gao, Yonggang Wen, Weiwen Zhang, Han Hu",ICC 2015: 6880-6886,ICC,Unranked
+250,Towards a Private Fall Injury Warning Service for Smartphone-Distracted Pedestrian.,2015,"Jianxiong Yin, Yonggang Wen, Jianxin Wu",ICCCRI 2015: 1-8,ICCCRI,Unranked
+251,StealthyCRM: A Secure Cloud CRM System Application that Supports Fully Homomorphic Database Encryption.,2015,"Miguel Rodel Felipe, Khin Mi Mi Aung, Xia Ye, Yonggang Wen",ICCCRI 2015: 97-105,ICCCRI,Unranked
+252,Influence analysis for celebrities via microblog platform.,2015,"Haoting Liang, Han Hu, Yonggang Wen",DSP 2015: 770-774,ICDSP,Unranked
+253,Reducing Vector I/O for Faster GPU Sparse Matrix-Vector Multiplication.,2015,"Pham Nguyen Quang Anh, Rui Fan, Yonggang Wen",IPDPS 2015: 1043-1052,IPPS,Unranked
+254,Adaptive configuration of cloud video transcoding.,2015,"Ming Yang, Jianfei Cai, Weiwen Zhang, Yonggang Wen, Chuan Heng Foh",ISCAS 2015: 1658-1661,ISCAS,Unranked
+255,Opportunities and Challenges of Global Network Cameras.,2015,"Joanna Batstone, Touradj Ebrahimi, Tiejun Huang, Yung-Hsiang Lu, Yonggang Wen",ACM Multimedia 2015: 47-48,MM,Unranked
+256,Towards joint resource allocation and routing to optimize video distribution over future internet.,2015,"Yichao Jin, Yonggang Wen, Cédric Westphal",Networking 2015: 1-9,NETWORKING,Unranked
+257,Tensor Canonical Correlation Analysis for Multi-view Dimension Reduction.,2015,"Yong Luo, Dacheng Tao, Yonggang Wen, Kotagiri Ramamohanarao, Chao Xu",CoRR abs/1502.02330 ,CORR,Unranked
+258,Toward Scalable Systems for Big Data Analytics: A Technology Tutorial.,2014,"Han Hu, Yonggang Wen, Tat-Seng Chua, Xuelong Li",IEEE Access 2: 652-687 ,ACCESS,Unranked
+259,A QoS-aware routing algorithm based on ant-cluster in wireless multimedia sensor networks.,2014,"Haiping Huang, Xiao Cao, Ruchuan Wang, Yonggang Wen",Sci. China Inf. Sci. 57: 1-16 ,CHINAF,Unranked
+260,Towards optimal noise distribution for privacy preserving in data aggregation.,2014,"Hao Zhang, Nenghai Yu, Yonggang Wen, Weiming Zhang",Comput. Secur. 45: 210-230 ,COMPSEC,Unranked
+261,Toward Multiscreen Social TV with Geolocation-Aware Social Sense.,2014,"Han Hu, Yonggang Wen, Huan-Bo Luan, Tat-Seng Chua, Xuelong Li",IEEE Multim. 21: 10-19 ,IEEEMM,Unranked
+262,Parking Backbone: Toward Efficient Overlay Routing in VANETs.,2014,"Jinqi Zhu, Ming Liu, Yonggang Wen, Chunmei Ma, Bin Liu",Int. J. Distributed Sens. Networks 10 ,IJDSN,Unranked
+263,Toward transcoding as a service: energy-efficient offloading policy for green mobile cloud.,2014,"Weiwen Zhang, Yonggang Wen",IEEE Netw. 28: 67-73 ,NETWORK,Unranked
+264,Content Routing and Lookup Schemes Using Global Bloom Filter for Content-Delivery-as-a-Service.,2014,"Yichao Jin, Yonggang Wen, Weiwen Zhang",IEEE Syst. J. 8: 268-278 ,SJ,Unranked
+265,Distributed Algorithm for Tree-Structured Data Aggregation Service Placement in Smart Grid.,2014,"Zongqing Lu, Yonggang Wen",IEEE Syst. J. 8: 553-561 ,SJ,Unranked
+266,On the Cost-QoE Tradeoff for Cloud-Based Video Streaming Under Amazon EC2's Pricing Models.,2014,"Jian He, Yonggang Wen, Jianwei Huang, Di Wu",IEEE Trans. Circuits Syst. Video Technol. 24: 669-680 ,TCSV,Unranked
+267,Distributed Wireless Video Scheduling With Delayed Control Information.,2014,"Liang Zhou, Zhen Yang, Yonggang Wen, Joel J. P. C. Rodrigues",IEEE Trans. Circuits Syst. Video Technol. 24: 889-901 ,TCSV,Unranked
+268,μ DC2: unified data collection for data centers.,2014,"Wenfeng Xia, Yonggang Wen, Haiyong Xie, Bin Liu",J. Supercomput. 70: 1383-1404 ,TJS,Unranked
+269,CBM: Online Strategies on Cost-Aware Buffer Management for Mobile Video Streaming.,2014,"Jian He, Zheng Xue, Di Wu, Dapeng Oliver Wu, Yonggang Wen",IEEE Trans. Multim. 16: 242-252 ,TMM,Unranked
+270,Cloud Mobile Media: Reflections and Outlook.,2014,"Yonggang Wen, Xiaoqing Zhu, Joel J. P. C. Rodrigues, Chang Wen Chen",IEEE Trans. Multim. 16: 885-902 ,TMM,Unranked
+271,Dynamic Request Redirection and Elastic Service Scaling in Cloud-Centric Media Networks.,2014,"Jianhua Tang, Wee-Peng Tay, Yonggang Wen",IEEE Trans. Multim. 16: 1434-1445 ,TMM,Unranked
+272,Reducing Operational Costs in Cloud Social TV: An Opportunity for Cloud Cloning.,2014,"Yichao Jin, Yonggang Wen, Han Hu, Marie-José Montpetit",IEEE Trans. Multim. 16: 1739-1751 ,TMM,Unranked
+273,Toward Transcoding as a Service in a Multimedia Cloud: Energy-Efficient Job-Dispatching Algorithm.,2014,"Weiwen Zhang, Yonggang Wen, Jianfei Cai, Dapeng Oliver Wu",IEEE Trans. Veh. Technol. 63: 2002-2012 ,TVT,Unranked
+274,Virt Cache: Managing Virtual Disk Performance Variation in Distributed File Systems for the Cloud.,2014,"Rajesh Vellore Arumugam, Quanqing Xu, Haixiang Shi, Qingchao Cai, Yonggang Wen",CloudCom 2014: 210-217,CLOUDCOM,Unranked
+275,Enhancing user experience for multi-screen social TV streaming over wireless networks.,2014,"Huazi Zhang, Yichao Jin, Weiwen Zhang, Yonggang Wen",GLOBECOM Workshops 2014: 106-111,GLOBECOM,B
+276,Joint virtual machine and bandwidth allocation in software defined network (SDN) and cloud computing environments.,2014,"Jonathan Chase, Rakpong Kaewpuang, Yonggang Wen, Dusit Niyato",ICC 2014: 2969-2974,ICC,Unranked
+277,Cost optimal video transcoding in media cloud: Insights from user viewing pattern.,2014,"Guanyu Gao, Weiwen Zhang, Yonggang Wen, Zhi Wang, Wenwu Zhu, Yap-Peng Tan",ICME 2014: 1-6,ICMCS,Unranked
+278,Community based effective social video contents placement in cloud centric CDN network.,2014,"Han Hu, Yonggang Wen, Tat-Seng Chua, Zhi Wang, Jian Huang, Wenwu Zhu, Di Wu",ICME 2014: 1-6,ICMCS,Unranked
+279,Toward profit-seeking virtual network embedding algorithm via global resource capacity.,2014,"Long Gong, Yonggang Wen, Zuqing Zhu, Tony Lee",INFOCOM 2014: 1-9,INFOCOM,A*
+280,Information diffusion in mobile social networks: The speed perspective.,2014,"Zongqing Lu, Yonggang Wen, Guohong Cao",INFOCOM 2014: 1932-1940,INFOCOM,A*
+281,PAINT: Partial in-network transcoding for adaptive streaming in information centric network.,2014,"Yichao Jin, Yonggang Wen",IWQoS 2014: 208-217,IWQOS,Unranked
+282,Social TV analytics: a novel paradigm to transform TV watching experience.,2014,"Han Hu, Jian Huang, He Zhao, Yonggang Wen, Chang Wen Chen, Tat-Seng Chua",MMSys 2014: 172-175,MMSYS,Unranked
+283,CREATE: Correlation enhanced traffic matrix estimation in Data Center Networks.,2014,"Zhiming Hu, Yan Qiao, Jun Luo, Peng Sun, Yonggang Wen",Networking 2014: 1-9,NETWORKING,Unranked
+284,MUTAS: Multi-screen TV experience as a service through cloud centric media network.,2014,"Yichao Jin, Han Hu, Xiao Liu, Yonggang Wen",SECON 2014: 146-148,SECON,B
+285,Skeleton construction in mobile social networks: Algorithms and applications.,2014,"Zongqing Lu, Xiao Sun, Yonggang Wen, Guohong Cao",SECON 2014: 477-485,SECON,B
+286,Toward a biometric-aware cloud service engine for multi-screen video applications.,2014,"Han Hu, Yichao Jin, Yonggang Wen, Tat-Seng Chua, Xuelong Li",SIGCOMM 2014: 581-582,SIGCOMM,A*
+287,Energy-efficient dispatching policy for virus scanning as a service under N-version protection.,2014,"Weiwen Zhang, Yonggang Wen",WCSP 2014: 1-6,WCSP,Unranked
+288,Enhancing User Experience for Multi-Screen Social TV Streaming over Wireless Networks.,2014,"Huazi Zhang, Yichao Jin, Weiwen Zhang, Yonggang Wen",CoRR abs/1404.3018 ,CORR,Unranked
+289,"Distributed Hash Table - Theory, Platforms and Applications.",2013,"Hao Zhang, Yonggang Wen, Haiyong Xie, Nenghai Yu","Springer Briefs in Computer Science, Springer 2013, ISBN 978-1-4614-9007-4, pp. i-viii, 1-67",SBCS,Unranked
+290,An Empirical Investigation of the Impact of Server Virtualization on Energy Efficiency for Green Data Center.,2013,"Yichao Jin, Yonggang Wen, Qinghua Chen, Zuqing Zhu",Comput. J. 56: 977-990 ,CJ,Unranked
+291,Energy-efficient wideband cable access networks in future smart cities.,2013,"Zuqing Zhu, Ping Lu, Joel J. P. C. Rodrigues, Yonggang Wen",IEEE Commun. Mag. 51 ,CM,Unranked
+292,An Efficient Data Evacuation Strategy for Sensor Networks in Postdisaster Applications.,2013,"Ming Liu, Bang Liu, Yonggang Wen",Int. J. Distributed Sens. Networks 9 ,IJDSN,Unranked
+293,Ubiquitous Sensing: Services and Applications.,2013,"Ming Liu, Yonggang Wen, Guihai Chen, Chao Song",Int. J. Distributed Sens. Networks 9 ,IJDSN,Unranked
+294,Toward Efficient Distributed Algorithms for In-Network Binary Operator Tree Placement in Wireless Sensor Networks.,2013,"Zongqing Lu, Yonggang Wen, Rui Fan, Su-Lim Tan, Jit Biswas",IEEE J. Sel. Areas Commun. 31: 743-755 ,JSAC,Unranked
+295,Enabling technologies for future data center networking: a primer.,2013,"Min Chen, Hai Jin, Yonggang Wen, Victor C. M. Leung",IEEE Netw. 27: 1-0 ,NETWORK,Unranked
+296,Toward a unified elastic computing platform for smartphones with cloud support.,2013,"Weiwen Zhang, Yonggang Wen, Jun Wu, Hui Li",IEEE Netw. 27: 34-40 ,NETWORK,Unranked
+297,Toward Optimal Deployment of Cloud-Assisted Video Distribution Services.,2013,"Jian He, Di Wu, Yupeng Zeng, Xiaojun Hei, Yonggang Wen",IEEE Trans. Circuits Syst. Video Technol. 23: 1717-1728 ,TCSV,Unranked
+298,"Guest Editorial - Special section on cloud-based mobile media: Infrastructure, services, and applications.",2013,"Chang Wen Chen, Xiaoqing Zhu, Yonggang Wen, Joel J. P. C. Rodrigues",IEEE Trans. Multim. 15: 721-722 ,TMM,Unranked
+299,QoE-Driven Cache Management for HTTP Adaptive Bit Rate Streaming Over Wireless Networks.,2013,"Weiwen Zhang, Yonggang Wen, Zhenzhong Chen, Ashish Khisti",IEEE Trans. Multim. 15: 1431-1445 ,TMM,Unranked
+300,Multiview Vector-Valued Manifold Regularization for Multilabel Image Classification.,2013,"Yong Luo, Dacheng Tao, Chang Xu, Chao Xu, Hong Liu, Yonggang Wen",IEEE Trans. Neural Networks Learn. Syst. 24: 709-722 ,TNN,Unranked
+301,Resource Allocation with Incomplete Information for QoE-Driven Multimedia Communications.,2013,"Liang Zhou, Zhen Yang, Yonggang Wen, Haohong Wang, Mohsen Guizani",IEEE Trans. Wirel. Commun. 12: 3733-3745 ,TWC,Unranked
+302,Energy-Optimal Mobile Cloud Computing under Stochastic Wireless Channel.,2013,"Weiwen Zhang, Yonggang Wen, Kyle Guan, Daniel C. Kilper, Haiyun Luo, Dapeng Oliver Wu",IEEE Trans. Wirel. Commun. 12: 4569-4581 ,TWC,Unranked
+303,Mobile cloud computing [Guest Editorial].,2013,"Victor C. M. Leung, Yonggang Wen, Min Chen, Chunming Rong",IEEE Wirel. Commun. 20: 1-0 ,WC,Unranked
+304,Power-efficient collaborative distribution of social videos over wireless community cloud.,2013,"Jian He, Yonggang Wen, Di Wu",GLOBECOM 2013: 1741-1746,GLOBECOM,B
+305,Minimizing monetary cost via cloud clone migration in multi-screen cloud social TV system.,2013,"Yichao Jin, Yonggang Wen, Han Hu",GLOBECOM 2013: 1747-1752,GLOBECOM,B
+306,Revenue-driven virtual network embedding based on global resource information.,2013,"Long Gong, Yonggang Wen, Zuqing Zhu, Tony Lee",GLOBECOM 2013: 2294-2299,GLOBECOM,B
+307,Toward Optimal Additive Noise Distribution for Privacy Protection in Mobile Statistics Aggregation.,2013,"Hao Zhang, Yonggang Wen, Honggang Hu, Nenghai Yu",GreenCom/iThings/CPScom 2013: 1346-1351,GREENCOM,Unranked
+308,Dynamic transparent virtual network embedding over elastic optical infrastructures.,2013,"Long Gong, Wenwen Zhao, Yonggang Wen, Zuqing Zhu",ICC 2013: 3466-3470,ICC,Unranked
+309,Near-optimal packet allocation algorithm for content uploading to media cloud via collaborative wireless network.,2013,"Ge Zhang, Yonggang Wen, Yew-Soon Ong",ICNC 2013: 762-767,ICCNC,Unranked
+310,Coordinating In-Network Caching in Content-Centric Networks: Model and Analysis.,2013,"Yanhua Li, Haiyong Xie, Yonggang Wen, Zhi-Li Zhang",ICDCS 2013: 62-72,ICDCS,A
+311,Toward monetary cost effective content placement in cloud centric media network.,2013,"Yichao Jin, Yonggang Wen, Kyle Guan, Daniel C. Kilper, Haiyong Xie",ICME 2013: 1-6,ICMCS,Unranked
+312,vRGW: Towards network function virtualization enabled by software defined networking.,2013,"Haiyong Xie, Yanhua Li, Jin Wang, Diego R. López, Tina Tsou, Yonggang Wen",ICNP 2013: 1-2,ICNP,B
+313,Energy-efficient scheduling policy for collaborative execution in mobile cloud computing.,2013,"Weiwen Zhang, Yonggang Wen, Dapeng Oliver Wu",INFOCOM 2013: 190-194,INFOCOM,A*
+314,"Mobile media communication, processing, and analysis: A review of recent advances.",2013,"Wen Gao, Ling-Yu Duan, Jun Sun, Junsong Yuan, Yonggang Wen, Yap-Peng Tan, Jianfei Cai, Alex C. Kot",ISCAS 2013: 869-872,ISCAS,Unranked
+315,Inter-screen interaction for session recognition and transfer based on cloud centric media network.,2013,"Yichao Jin, Xiao Liu, Yonggang Wen, Jianfei Cai",ISCAS 2013: 877-880,ISCAS,Unranked
+316,Multi-screen cloud social TV: transforming TV experience into 21st century.,2013,"Yichao Jin, Tian Xie, Yonggang Wen, Haiyong Xie",ACM Multimedia 2013: 435-436,MM,Unranked
+317,Multi-screen social TV over cloud-centric media platform.,2013,"Xiang Li, Tian Xie, Yonggang Wen",MobiSys 2013: 481-482,MOBISYS,Unranked
+318,Community detection in weighted networks: Algorithms and applications.,2013,"Zongqing Lu, Yonggang Wen, Guohong Cao",PerCom 2013: 179-184,PERCOM,A*
+319,Cloud3DView: an interactive tool for cloud data center operations.,2013,"Jianxiong Yin, Peng Sun, Yonggang Wen, Haigang Gong, Ming Liu, Xuelong Li, Haipeng You, Jinqi Gao, Cynthia Lin",SIGCOMM 2013: 499-500,SIGCOMM,A*
+320,Depth-color based 3D image transmission over wireless networks with QoE provisions.,2012,"Zhe Song, Honggang Wang, Yonggang Wen, Dalei Wu, Ken C. K. Lee",Comput. Commun. 35: 1838-1845 ,COMCOM,Unranked
+321,"Cloud robotics: architecture, challenges and applications.",2012,"Guoqiang Hu, Wee-Peng Tay, Yonggang Wen",IEEE Netw. 26: 21-28 ,NETWORK,Unranked
+322,"On P2P mechanisms for VM image distribution in cloud data centers: Modeling, analysis and improvement.",2012,"Di Wu, Yupeng Zeng, Jian He, Yi Liang, Yonggang Wen",CloudCom 2012: 50-57,CLOUDCOM,Unranked
+323,Towards end-to-end secure content storage and delivery with public cloud.,2012,"Huijun Xiong, Xinwen Zhang, Danfeng Yao, Xiaoxin Wu, Yonggang Wen",CODASPY 2012: 257-266,CODASPY,Unranked
+324,Applied Lightweight Parallel Multi-Appliance Recognition on Smart Meter.,2012,"Chin-Feng Lai, Man Lin, Yonggang Wen, Yi-Wei Ma, Jiann-Liang Chen",CSE 2012: 361-366,CSE,Unranked
+325,Optimizing content retrieval delay for LT-based distributed cloud storage systems.,2012,"Haifeng Lu, Chuan Heng Foh, Yonggang Wen, Jianfei Cai",GLOBECOM 2012: 1920-1925,GLOBECOM,B
+326,QoE-driven cache management for HTTP adaptive bit rate (ABR) streaming over wireless networks.,2012,"Weiwen Zhang, Yonggang Wen, Zhenzhong Chen, Ashish Khisti",GLOBECOM 2012: 1951-1956,GLOBECOM,B
+327,Content routing and lookup schemes using global bloom filter for content-delivery-as-a-service.,2012,"Yichao Jin, Yonggang Wen",GLOBECOM 2012: 2131-2136,GLOBECOM,B
+328,Energy optimizations for data center network: Formulation and its solution.,2012,"Shuo Fang, Hui Li, Chuan Heng Foh, Yonggang Wen, Khin Mi Mi Aung",GLOBECOM 2012: 3256-3261,GLOBECOM,B
+329,Energy minimization via dynamic voltage scaling for real-time video encoding on mobile devices.,2012,"Ming Yang, Yonggang Wen, Jianfei Cai, Chuan Heng Foh",ICC 2012: 2026-2031,ICC,Unranked
+330,CoDaaS: An experimental cloud-centric content delivery platform for user-generated contents.,2012,"Yichao Jin, Yonggang Wen, Guangyu Shi, Guoqiang Wang, Athanasios V. Vasilakos",ICNC 2012: 934-938,ICCNC,Unranked
+331,Energy efficiency and server virtualization in data centers: An empirical investigation.,2012,"Yichao Jin, Yonggang Wen, Qinghua Chen",INFOCOM Workshops 2012: 133-138,INFOCOM,A*
+332,Energy-optimal mobile application execution: Taming resource-poor mobile devices with cloud clones.,2012,"Yonggang Wen, Weiwen Zhang, Haiyun Luo",INFOCOM 2012: 2716-2720,INFOCOM,A*
+333,Credit routing for source-location privacy protection in wireless sensor networks.,2012,"Zongqing Lu, Yonggang Wen",MASS 2012: 164-172,MASS,B
+334,Towards the traffic hole problem in VANETs.,2012,"Chao Song, Ming Liu, Yonggang Wen, Guihai Chen, Jiannong Cao",VANET@MOBICOM 2012: 139-140,MOBICOM,A*
+335,Distributed and Asynchronous Solution to Operator Placement in Large Wireless Sensor Networks.,2012,"Zongqing Lu, Yonggang Wen",MSN 2012: 100-107,MSN,Unranked
+336,IPAD: Intelligent Parking-Assisted Ads Dissemination over Urban VANETs.,2012,"Hui Zhao, Haigang Gong, Ke Liu, Ming Liu, Yonggang Wen",MSN 2012: 211-218,MSN,Unranked
+337,Private data deduplication protocols in cloud storage.,2012,"Wee Keong Ng, Yonggang Wen, Huafei Zhu",SAC 2012: 441-446,SAC,B
+338,Private data deduplication protocols in cloud storage.,2012,"Wee Keong Ng, Yonggang Wen, Huafei Zhu",SAC 2012: 441-446,SAC,Multiconference
+339,Socially-responsible load scheduling algorithms for sustainable data centers over smart grid.,2012,"Jian He, Xiang Deng, Dan Wu, Yonggang Wen, Di Wu",SmartGridComm 2012: 406-411,SMARTGRIDCOMM,Unranked
+340,"Game Theory for Networks - Third International ICST Conference, GameNets 2012, Vancouver, BC, Canada, May 24-26, 2012, Revised Selected Papers.",2012,"Vikram Krishnamurthy, Qing Zhao, Minyi Huang, Yonggang Wen","Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering 105, Springer 2012, ISBN 978-3-642-35581-3 ",GAMENETS,Unranked
+341,Designing an inter-cloud messaging protocol for content distribution as a service (CoDaaS) over future internet.,2011,"Yonggang Wen, Guangyu Shi, Guoqiang Wang",CFI 2011: 91-93,CFI,Unranked
+342,Lightweight packet scheduling algorithms for content uploading from mobile devices to media cloud.,2011,"Yonggang Wen, Ge Zhang, Xiaoqing Zhu",GLOBECOM Workshops 2011: 45-50,GLOBECOM,B
+343,Towards name-based trust and security for content-centric network.,2011,"Xinwen Zhang, Katharine Chang, Huijun Xiong, Yonggang Wen, Guangyu Shi, Guoqiang Wang",ICNP 2011: 1-6,ICNP,B
+344,Complexity-rate-distortion evaluation of video encoding for cloud media computing.,2011,"Ming Yang, Jianfei Cai, Yonggang Wen, Chuan Heng Foh",ICON 2011: 25-29,ICON,Unranked
+345,The last minute: Efficient Data Evacuation strategy for sensor networks in post-disaster applications.,2011,"Ming Liu, Haigang Gong, Yonggang Wen, Guihai Chen, Jiannong Cao",INFOCOM 2011: 291-295,INFOCOM,A*
+346,On file-based content distribution over wireless networks via multiple paths: Coding and delay trade-off.,2011,"Jun Sun, Yonggang Wen, Lizhong Zheng",INFOCOM 2011: 381-385,INFOCOM,A*
+347,Buffer and Switch: An Efficient Road-to-Road Routing Scheme for VANETs.,2011,"Chao Song, Ming Liu, Yonggang Wen, Jiannong Cao, Guihai Chen",MSN 2011: 310-317,MSN,Unranked
+348,On file delay minimization for content uploading to media cloud via collaborative wireless network.,2011,"Ge Zhang, Yonggang Wen, Jiang Zhu, Qinghua Chen",WCSP 2011: 1-6,WCSP,Unranked
+349,Scalable fault management architecture for dynamic optical networks: an information-theoretic approach.,2008,Yonggang Wen,"Massachusetts Institute of Technology, Cambridge, MA, USA, 2008",NAN,Unranked
+350,Optimizing Joint Erasure- and Error-Correction Coding for Wireless Packet Transmissions.,2008,"Christian R. Berger, Shengli Zhou, Yonggang Wen, Peter Willett, Krishna R. Pattipati",IEEE Trans. Wirel. Commun. 7: 4586-4595 ,TWC,Unranked
+351,Cost-Efficient Transmitter/Receiver Deployment for Proactive Fault Diagnosis in All-Optical Networks.,2008,"Yonggang Wen, Vincent W. S. Chan, Eric A. Swanson",ICC 2008: 5359-5366,ICC,Unranked
+352,Non-Adaptive Fault Diagnosis for All-Optical Networks via Combinatorial Group Testing on Graphs.,2007,"Nicholas J. A. Harvey, Mihai Patrascu, Yonggang Wen, Sergey Yekhanin, Vincent W. S. Chan",INFOCOM 2007: 697-705,INFOCOM,A*
+353,On Minimum-Delay Data Block Transport over Two-Connected Mesh Networks.,2007,"Yonggang Wen, Jun Sun",WCNC 2007: 4034-4039,WCNC,B
+354,Efficient Fault Detection and Localization for All-Optical Networks.,2006,"Yonggang Wen, Vincent W. S. Chan, Lizhong Zheng",GLOBECOM 2006,GLOBECOM,B
+355,Efficient fault diagnosis for all-optical networks: an information theoretic approach.,2006,"Yonggang Wen, Vincent W. S. Chan, Lizhong Zheng",ISIT 2006: 2919-2923,ISIT,B
+356,Extreme power dispersion profiles for Nakagami-m fading channels with maximal-ratio diversity.,2005,"Moe Z. Win, Yonggang Wen",IEEE Commun. Lett. 9: 385-387 ,ICL,Unranked
+357,Ultra-Reliable Communication Over Vulnerable All-Optical Networks Via Lightpath Diversity.,2005,"Yonggang Wen, Vincent W. S. Chan",IEEE J. Sel. Areas Commun. 23: 1572-1587 ,JSAC,Unranked
+358,Network monitoring in multicast networks using network coding.,2005,"Tracey Ho, Ben Leong, Yu-Han Chang, Yonggang Wen, Ralf Kötter",ISIT 2005: 1977-1981,ISIT,B
+359,Ultrareliable communication over vulnerable optical networks via lightpath diversity: receiver architectures and performance.,2004,"Yonggang Wen, Vincent W. S. Chan",ICC 2004: 1730-1739,ICC,Unranked
+360,Ultra-reliable communication over unreliable optical networks via lightpath diversity: system characterization and optimization.,2003,"Yonggang Wen, Vincent W. S. Chan",GLOBECOM 2003: 2529-2535,GLOBECOM,B

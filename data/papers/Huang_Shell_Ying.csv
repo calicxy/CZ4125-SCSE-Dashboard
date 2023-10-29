@@ -1,0 +1,50 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,MTSS - A Marine Traffic Simulation System and Scenario Studies for a Major Hub Port.,2016,"Shell-Ying Huang, Wen Jing Hsu, Hui Fang, Tiancheng Song",ACM Trans. Model. Comput. Simul. 27: 3 ,TOMACS,Unranked
+1,A marine traffic simulation system for hub ports.,2013,"Shell-Ying Huang, Wen Jing Hsu, Hui Fang, Tiancheng Song",SIGSIM-PADS 2013: 295-304,PADS,B
+2,Reducing simulation costs of embedded simulation in yard crane dispatching in container terminals.,2013,"Shell-Ying Huang, Xi Guo",SIGSIM-PADS 2013: 305-314,PADS,B
+3,Dynamic Space and Time Partitioning for Yard Crane Workload Management in Container Terminals.,2012,"Xi Guo, Shell-Ying Huang",Transp. Sci. 46: 134-148 ,TRANSCI,Unranked
+4,Embedding simulation in yard crane dispatching to minimize job tardiness in container terminals.,2012,"Shell-Ying Huang, Xi Guo, Wen Jing Hsu, Wei Lin Lim",WSC 2012: 146:1-146:11,WSC,C
+5,Dynamic yard crane dispatching in container terminals with predicted vehicle arrival information.,2011,"Xi Guo, Shell-Ying Huang, Wen-Jing Hsu, Malcolm Yoke Hean Low",Adv. Eng. Informatics 25: 472-484 ,AEI,Unranked
+6,Activity scheduling for a robotic caretaker agent for the elderly.,2011,"Shell-Ying Huang, Huiliang Zhang",Int. J. Intell. Inf. Database Syst. 5: 3-23 ,IJIIDS,Unranked
+7,Improving Safety and Stability of Large Containerships in Automated Stowage Planning.,2011,"Malcolm Yoke Hean Low, Min Zeng, Wen-Jing Hsu, Shell-Ying Huang, Fan Liu, Cho Aye Win",IEEE Syst. J. 5: 50-60 ,SJ,Unranked
+8,An improved Least Cost Heuristic for dynamic yard crane deployment in container terminals.,2011,"Shell-Ying Huang, Xi Guo",CASE 2011: 84-89,CASE,Unranked
+9,Motivation Based Goal Adoption for Autonomous Intelligent Agents.,2011,"Umair Rafique, Shell-Ying Huang, Chunyan Miao",IAT 2011: 54-57,IAT,Unranked
+10,A Three-Level Hierarchical Workload Management Scheme for Yard Cranes in Container Terminals.,2011,"Shell-Ying Huang, Xi Guo, Mei Mei Lau",ICCL 2011: 221-232,ICCL2,Unranked
+11,Randomized Algorithm with Tabu Search for Multi-Objective Optimization of Large Containership Stowage Plans.,2011,"Fan Liu, Malcolm Yoke Hean Low, Wen-Jing Hsu, Shell-Ying Huang, Min Zeng, Cho Aye Win",ICCL 2011: 256-272,ICCL2,Unranked
+12,Predicting Responsiveness of BDI Agent.,2010,"Huiliang Zhang, Zhiqi Shen, Shell-Ying Huang, Chunyan Miao",ECAI 2010: 647-652,ECAI,A
+13,How Fast Can a BDI Agent Respond?,2010,"Huiliang Zhang, Chunyan Miao, Shell-Ying Huang, Zhiqi Shen, Xudong Luo",IAT 2010: 189-196,IAT,Unranked
+14,Preference Generation for Autonomous Agents.,2010,"Umair Rafique, Shell-Ying Huang",MATES 2010: 173-184,MATES,Unranked
+15,A two stage yard crane workload partitioning and job sequencing algorithm for container terminals.,2010,"Xi Guo, Shell-Ying Huang",SAC 2010: 2383-2388,SAC,B
+16,A two stage yard crane workload partitioning and job sequencing algorithm for container terminals.,2010,"Xi Guo, Shell-Ying Huang",SAC 2010: 2383-2388,SAC,Multiconference
+17,Automated stowage planning for large containerships with improved safety and stability.,2010,"Min Zeng, Malcolm Yoke Hean Low, Wen-Jing Hsu, Shell-Ying Huang, Fan Liu, Cho Aye Win",WSC 2010: 1976-1989,WSC,C
+18,A New Action Description Scheme for Informal Reasoning.,2009,"Umair Rafique, Shell-Ying Huang",IC-AI 2009: 582-588,ICAI,Unranked
+19,Simulation-based dynamic partitioning of yard crane workload for container terminal operations.,2009,"Xi Guo, Shell-Ying Huang, Wen-Jing Hsu, Malcolm Yoke Hean Low",SpringSim 2009,SPRINGSIM,Unranked
+20,A Simulation based Hybrid Algorithm for Yard Crane Dispatching in Container Terminals.,2009,"Xi Guo, Shell-Ying Huang, Wen-Jing Hsu, Malcolm Yoke Hean Low",WSC 2009: 2320-2331,WSC,C
+21,Capacity analysis of container terminals using simulation techniques.,2008,"Shell-Ying Huang, Wen-Jing Hsu, Chuanyu Chen, Rong Ye, Stuti Nautiyal",Int. J. Comput. Appl. Technol. 32: 246-253 ,IJCAT,Unranked
+22,A general framework for parallel BDI agents in dynamic environments.,2008,"Huiliang Zhang, Shell-Ying Huang",Web Intell. Agent Syst. 6: 327-351 ,WIAS,Unranked
+23,Performing A* Search for Yard Crane Dispatching in Container Terminals.,2008,"Xi Guo, Shell-Ying Huang",ICTAI  2008: 263-267,ICTAI,B
+24,An Agent's Activities Are Controlled by His Priorities.,2008,"Huiliang Zhang, Shell-Ying Huang, Yuming Chang",KES-AMSTA 2008: 723-732,KESAMSTA,Unranked
+25,Yard crane dispatching based on real time data driven simulation for container terminals.,2008,"Xi Guo, Shell-Ying Huang, Wen-Jing Hsu, Malcolm Yoke Hean Low",WSC 2008: 2648-2655,WSC,C
+26,SMART: Structured Memory for Abstract Reasoning and Thinking.,2007,"Umair Rafique, Shell-Ying Huang",Australian Conference on Artificial Intelligence 2007: 781-785,AUSAI,Unranked
+27,Are Parallel BDI Agents Really Better?,2006,"Huiliang Zhang, Shell-Ying Huang",ECAI 2006: 305-309,ECAI,A
+28,Dynamic Control of Intention Priorities of Human-Like Agents.,2006,"Huiliang Zhang, Shell-Ying Huang",ECAI 2006: 310-,ECAI,A
+29,A General Framework for Parallel BDI Agents.,2006,"Huiliang Zhang, Shell-Ying Huang",IAT 2006: 103-112,IAT,Unranked
+30,New Cost Function for Multi-Robot Exploration.,2006,"Ardian Kristanto Poernomo, Shell-Ying Huang",ICARCV 2006: 1-6,ICARCV,C
+31,A Generic Symbiotic Simulation Framework.,2006,"Shell-Ying Huang, Wentong Cai, Stephen John Turner, Wen-Jing Hsu, Suiping Zhou, Malcolm Yoke Hean Low, Richard Fujimoto, Rassul Ayani",PADS 2006: 131,PADS,B
+32,Travel time analysis of a new automated storage and retrieval system.,2005,"Yahong Hu, Shell-Ying Huang, Chuanyu Chen, Wen-Jing Hsu, Ah Cheong Toh, Chee Kit Loh, Tiancheng Song",Comput. Oper. Res. 32: 1515-1544 ,COR,Unranked
+33,A Parallel BDI Agent Architecture.,2005,"Huiliang Zhang, Shell-Ying Huang",IAT 2005: 157-160,IAT,Unranked
+34,Performance of New Broadcast Forwarding Criteria in MANET.,2004,"Lijuan Zhu, Bu-Sung Lee, Boon-Chong Seet, Kai Juan Wong, Genping Liu, Shell-Ying Huang, Keok-Kee Lee",ICOIN 2004: 34-43,ICOIN,Unranked
+35,Travel time analysis of a new Automated Storage and Retrieval System.,2003,"Yahong Hu, Shell-Ying Huang, Chuanyu Chen, Wen-Jing Hsu, Ah Cheong Toh, Chee Kit Loh",ETFA  2003: 75-81,ETFA,Unranked
+36,Platform-Based AS/RS for Container Storage.,2003,"Chuanyu Chen, Shell-Ying Huang, Wen-Jing Hsu, Ah Cheong Toh, Chee Kit Loh",ICRA 2003: 181-187,ICRA,A*
+37,The Model of Virtual Dynamic Personal Cluster (VDPC).,2003,"Kai Hu, Shell-Ying Huang",PDPTA 2003: 185-190,PDPTA,National
+38,The Development of Conservative Superstep Protocols for Shared Memory Multiprocessor Systems.,2001,"Boon-Ping Gan, Yoke-Hean Low, Wentong Cai, Stephen John Turner, Sanjay Jain, Wen-Jing Hsu, Shell-Ying Huang",Scalable Comput. Pract. Exp. 4 ,SCPE,Unranked
+39,Load balancing for conservative simulation on shared memory multiprocessor systems.,2000,"Boon-Ping Gan, Yoke-Hean Low, Sanjay Jain, Stephen John Turner, Wentong Cai, Wen-Jing Hsu, Shell-Ying Huang",PADS 2000: 139-146,PADS,B
+40,Survey of Languages and Runtime Libraries for Parallel Discrete-Event Simulation.,1999,"Yoke-Hean Low, Chu-Cheow Lim, Wentong Cai, Shell-Ying Huang, Wen-Jing Hsu, Sanjay Jain, Stephen John Turner",Simul. 72: 170-186 ,SIMULATION,Unranked
+41,Performance Prediction Tools for Parallel Discrete-Event Simulation.,1999,"Chu-Cheow Lim, Yoke-Hean Low, Boon-Ping Gan, Sanjay Jain, Wentong Cai, Wen-Jing Hsu, Shell-Ying Huang",Workshop on Parallel and Distributed Simulation 1999: 148-155,PADS,B
+42,An Empirical Comparison of Runtime Systems for Conservative Parallel Simulation.,1998,"Chu-Cheow Lim, Yoke-Hean Low, Wentong Cai, Wen-Jing Hsu, Shell-Ying Huang, Stephen John Turner",IPPS/SPDP Workshops 1998: 123-134,IPPS,Unranked
+43,A Methodology for Automating the Parallelization of Manufacturing Simulations.,1998,"Stephen John Turner, Wentong Cai, Chu-Cheow Lim, Yoke-Hean Low, Wen-Jing Hsu, Shell-Ying Huang",Workshop on Parallel and Distributed Simulation 1998: 126-133,PADS,B
+44,Decentralized routing algorithms for automated guided vehicles.,1996,"Jeffrey T. L. Soh, Wen-Jing Hsu, Shell-Ying Huang, Adrian C. Y. Ong",SAC 1996: 473-479,SAC,B
+45,Decentralized routing algorithms for automated guided vehicles.,1996,"Jeffrey T. L. Soh, Wen-Jing Hsu, Shell-Ying Huang, Adrian C. Y. Ong",SAC 1996: 473-479,SAC,Multiconference
+46,A Data Compression Scheme for Chinese Text Files Using Huffman Coding and a Two-Level Dictionary.,1995,"Ghim Hwee Ong, Shell-Ying Huang",Inf. Sci. 84: 85-99 ,ISCI,Unranked
+47,An Implementation of Static Functional Process Networks.,1992,"Stuart Cox, Shell-Ying Huang, Paul Kelly, Junxian Liu, Frank Taylor",PARLE 1992: 497-512,PARLE,Unranked
+48,Program Transformations for Static Process Networks.,1992,"Stuart Cox, Shell-Ying Huang, Paul Kelly, Junxian Liu, Frank Taylor",SIGPLAN Workshop 1992: 60-63,SIGPLANW,Unranked

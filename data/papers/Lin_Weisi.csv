@@ -1,0 +1,581 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Collaborative structure and feature learning for multi-view clustering.,2023,"Weiqing Yan, Meiqi Gu, Jinlai Ren, Guanghui Yue, Zhaowei Liu, Jindong Xu, Weisi Lin",Inf. Fusion 98: 101832 ,INFFUS,Unranked
+1,Complementary networks for person re-identification.,2023,"Guoqing Zhang, Weisi Lin, Arun Kumar Chandran, Xuan Jing",Inf. Sci. 633: 70-84 ,ISCI,Unranked
+2,HVS-inspired adversarial image generation with high perceptual quality.,2023,"Yuan Xue, Jian Jin, Wen Sun, Weisi Lin",J. Cloud Comput. 12: 86 ,JCLOUDC,Unranked
+3,Intrinsic and Isotropic Resampling for 3D Point Clouds.,2023,"Chenlei Lv, Weisi Lin, Baoquan Zhao",IEEE Trans. Pattern Anal. Mach. Intell. 45: 3274-3291 ,PAMI,Unranked
+4,A Thorough Benchmark and a New Model for Light Field Saliency Detection.,2023,"Wei Gao, Songlin Fan, Ge Li, Weisi Lin",IEEE Trans. Pattern Anal. Mach. Intell. 45: 8003-8019 ,PAMI,Unranked
+5,Minimum Noticeable Difference-Based Adversarial Privacy Preserving Image Generation.,2023,"Wen Sun, Jian Jin, Weisi Lin",IEEE Trans. Circuits Syst. Video Technol. 33: 1069-1081 ,TCSV,Unranked
+6,AFD-Former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement.,2023,"Xu Zhang, Nian Cai, Huan Zhang, Yun Zhang, Jianglei Di, Weisi Lin",IEEE Trans. Circuits Syst. Video Technol. 33: 3786-3798 ,TCSV,Unranked
+7,Camera Contrast Learning for Unsupervised Person Re-Identification.,2023,"Guoqing Zhang, Hongwei Zhang, Weisi Lin, Arun Kumar Chandran, Xuan Jing",IEEE Trans. Circuits Syst. Video Technol. 33: 4096-4107 ,TCSV,Unranked
+8,DisCoVQA: Temporal Distortion-Content Transformers for Video Quality Assessment.,2023,"Haoning Wu, Chaofeng Chen, Liang Liao, Jingwen Hou, Wenxiu Sun, Qiong Yan, Weisi Lin",IEEE Trans. Circuits Syst. Video Technol. 33: 4840-4854 ,TCSV,Unranked
+9,Real-World Non-Homogeneous Haze Removal by Sliding Self-Attention Wavelet Network.,2023,"Yuxin Feng, Xiaozhe Meng, Fan Zhou, Weisi Lin, Zhuo Su",IEEE Trans. Circuits Syst. Video Technol. 33: 5470-5485 ,TCSV,Unranked
+10,Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images.,2023,"Gongyang Li, Zhi Liu, Dan Zeng, Weisi Lin, Haibin Ling",IEEE Trans. Cybern. 53: 526-538 ,TCYB,Unranked
+11,Lightweight Salient Object Detection in Optical Remote-Sensing Images via Semantic Matching and Edge Alignment.,2023,"Gongyang Li, Zhi Liu, Xinpeng Zhang, Weisi Lin",IEEE Trans. Geosci. Remote. Sens. 61: 1-11 ,TGRS,Unranked
+12,Uplink-Assist Downlink Remote-Sensing Image Compression via Historical Referencing.,2023,"Huiwen Wang, Liang Liao, Jing Xiao, Weisi Lin, Mi Wang",IEEE Trans. Geosci. Remote. Sens. 61: 1-15 ,TGRS,Unranked
+13,KSS-ICP: Point Cloud Registration Based on Kendall Shape Space.,2023,"Chenlei Lv, Weisi Lin, Baoquan Zhao",IEEE Trans. Image Process. 32: 1681-1693 ,TIP,Unranked
+14,Learning Detail-Structure Alternative Optimization for Blind Super-Resolution.,2023,"Feng Li, Yixuan Wu, Huihui Bai, Weisi Lin, Runmin Cong, Yao Zhao",IEEE Trans. Multim. 25: 2825-2838 ,TMM,Unranked
+15,Efficient Geometry Surface Coding in V-PCC.,2023,"Jian Xiong, Hao Gao, Miaohui Wang, Hongliang Li, King Ngi Ngan, Weisi Lin",IEEE Trans. Multim. 25: 3329-3342 ,TMM,Unranked
+16,GCFAgg: Global and Cross-View Feature Aggregation for Multi-View Clustering.,2023,"Weiqing Yan, Yuanyang Zhang, Chenlei Lv, Chang Tang, Guanghui Yue, Liang Liao, Weisi Lin",CVPR 2023: 19863-19872,CVPR,A*
+17,Evaluating the efficacy of skincare product: A realistic short-term facial pore simulation.,2023,"Ling Li, Bandara Dissanayake, Tatsuya Omotezako, Yunjie Zhong, Qing Zhang, Rizhao Cai, Qian Zheng, Dennis Sng, Weisi Lin, Yufei Wang, Alex C. Kot",Imaging and Multimedia Analytics at the Edge 2023: 1-6,EI-IMAWM,Unranked
+18,Exploring Opinion-Unaware Video Quality Assessment with Semantic Affinity Criterion.,2023,"Haoning Wu, Liang Liao, Jingwen Hou, Chaofeng Chen, Erli Zhang, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin",ICME 2023: 366-371,ICMCS,Unranked
+19,Post-Training Quantization for Vision Transformer in Transformed Domain.,2023,"Kai Feng, Zhuo Chen, Fei Gao, Zhe Wang, Long Xu, Weisi Lin",ICME 2023: 1457-1462,ICMCS,Unranked
+20,Inter-Intra Camera Identity Learning for Person Re-Identification with Training in Single Camera.,2023,"Guoqing Zhang, Zhiyuan Luo, Weisi Lin, Xuan Jing",ICME 2023: 2429-2434,ICMCS,Unranked
+21,Multi-level Part-aware Feature Disentangling for Text-based Person Search.,2023,"Yuhao Chen, Guoqing Zhang, Hongwei Zhang, Yuhui Zheng, Weisi Lin",ICME 2023: 2801-2806,ICMCS,Unranked
+22,Lightweight Salient Object Detection in Optical Remote Sensing Images via Semantic Matching and Edge Alignment.,2023,"Gongyang Li, Zhi Liu, Xinpeng Zhang, Weisi Lin",CoRR abs/2301.02778 ,CORR,Unranked
+23,Evaluating the Efficacy of Skincare Product: A Realistic Short-Term Facial Pore Simulation.,2023,"Ling Li, Bandara Dissanayake, Tatsuya Omotezako, Yunjie Zhong, Qing Zhang, Rizhao Cai, Qian Zheng, Dennis Sng, Weisi Lin, Yufei Wang, Alex C. Kot",CoRR abs/2302.11950 ,CORR,Unranked
+24,JND-Based Perceptual Optimization For Learned Image Compression.,2023,"Feng Ding, Jian Jin, Lili Meng, Weisi Lin",CoRR abs/2302.13092 ,CORR,Unranked
+25,Exploring Opinion-unaware Video Quality Assessment with Semantic Affinity Criterion.,2023,"Haoning Wu, Liang Liao, Jingwen Hou, Chaofeng Chen, Erli Zhang, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin",CoRR abs/2302.13269 ,CORR,Unranked
+26,MetaGrad: Adaptive Gradient Quantization with Hypernetworks.,2023,"Kaixin Xu, Alina Hui Xiu Lee, Ziyuan Zhao, Zhe Wang, Min Wu, Weisi Lin",CoRR abs/2303.02347 ,CORR,Unranked
+27,The First Comprehensive Dataset with Multiple Distortion Types for Visual Just-Noticeable Differences.,2023,"Yaxuan Liu, Jian Jin, Yuan Xue, Weisi Lin",CoRR abs/2303.02562 ,CORR,Unranked
+28,Blind Multimodal Quality Assessment: A Brief Survey and A Case Study of Low-light Images.,2023,"Miaohui Wang, Zhuowei Xu, Mai Xu, Weisi Lin",CoRR abs/2303.10369 ,CORR,Unranked
+29,Towards Robust Text-Prompted Semantic Criterion for In-the-Wild Video Quality Assessment.,2023,"Haoning Wu, Liang Liao, Annan Wang, Chaofeng Chen, Jingwen Hou, Wenxiu Sun, Qiong Yan, Weisi Lin",CoRR abs/2304.14672 ,CORR,Unranked
+30,GCFAgg: Global and Cross-view Feature Aggregation for Multi-view Clustering.,2023,"Weiqing Yan, Yuanyang Zhang, Chenlei Lv, Chang Tang, Guanghui Yue, Liang Liao, Weisi Lin",CoRR abs/2305.06799 ,CORR,Unranked
+31,Towards Explainable In-the-Wild Video Quality Assessment: a Database and a Language-Prompted Approach.,2023,"Haoning Wu, Erli Zhang, Liang Liao, Chaofeng Chen, Jingwen Hou, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin",CoRR abs/2305.12726 ,CORR,Unranked
+32,AGIQA-3K: An Open Database for AI-Generated Image Quality Assessment.,2023,"Chunyi Li, Zicheng Zhang, Haoning Wu, Wei Sun, Xiongkuo Min, Xiaohong Liu, Guangtao Zhai, Weisi Lin",CoRR abs/2306.04717 ,CORR,Unranked
+33,GMS-3DQA: Projection-based Grid Mini-patch Sampling for 3D Model Quality Assessment.,2023,"Zicheng Zhang, Wei Sun, Houning Wu, Yingjie Zhou, Chunyi Li, Xiongkuo Min, Guangtao Zhai, Weisi Lin",CoRR abs/2306.05658 ,CORR,Unranked
+34,You Can Mask More For Extremely Low-Bitrate Image Compression.,2023,"Anqi Li, Feng Li, Jiaxin Han, Huihui Bai, Runmin Cong, Chunjie Zhang, Meng Wang, Weisi Lin, Yao Zhao",CoRR abs/2306.15561 ,CORR,Unranked
+35,Advancing Zero-Shot Digital Human Quality Assessment through Text-Prompted Evaluation.,2023,"Zicheng Zhang, Wei Sun, Yingjie Zhou, Haoning Wu, Chunyi Li, Xiongkuo Min, Xiaohong Liu, Guangtao Zhai, Weisi Lin",CoRR abs/2307.02808 ,CORR,Unranked
+36,Regression-free Blind Image Quality Assessment.,2023,"Xiaoqi Wang, Jian Xiong, Hao Gao, Weisi Lin",CoRR abs/2307.09279 ,CORR,Unranked
+37,TOPIQ: A Top-down Approach from Semantics to Distortions for Image Quality Assessment.,2023,"Chaofeng Chen, Jiadi Mo, Jingwen Hou, Haoning Wu, Liang Liao, Wenxiu Sun, Qiong Yan, Weisi Lin",CoRR abs/2308.03060 ,CORR,Unranked
+38,Efficient Joint Optimization of Layer-Adaptive Weight Pruning in Deep Neural Networks.,2023,"Kaixin Xu, Zhe Wang, Xue Geng, Jie Lin, Min Wu, Xiaoli Li, Weisi Lin",CoRR abs/2308.10438 ,CORR,Unranked
+39,Local Distortion Aware Efficient Transformer Adaptation for Image Quality Assessment.,2023,"Kangmin Xu, Liang Liao, Jing Xiao, Chaofeng Chen, Haoning Wu, Qiong Yan, Weisi Lin",CoRR abs/2308.12001 ,CORR,Unranked
+40,IBVC: Interpolation-driven B-frame Video Compression.,2023,"Meiqin Liu, Chenming Xu, Chao Yao, Weisi Lin, Yao Zhao",CoRR abs/2309.13835 ,CORR,Unranked
+41,Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision.,2023,"Haoning Wu, Zicheng Zhang, Erli Zhang, Chaofeng Chen, Liang Liao, Annan Wang, Chunyi Li, Wenxiu Sun, Qiong Yan, Guangtao Zhai, Weisi Lin",CoRR abs/2309.14181 ,CORR,Unranked
+42,StereoARS: Quality Evaluation for Stereoscopic Image Retargeting With Binocular Inconsistency Detection.,2022,"Qiuping Jiang, Zhenyu Peng, Feng Shao, Ke Gu, Yabin Zhang, Wenjun Zhang, Weisi Lin",IEEE Trans. Broadcast. 68: 43-57 ,TBC,Unranked
+43,SRInpaintor: When Super-Resolution Meets Transformer for Image Inpainting.,2022,"Feng Li, Anqi Li, Jia Qin, Huihui Bai, Weisi Lin, Runmin Cong, Yao Zhao",IEEE Trans. Computational Imaging 8: 743-758 ,TCI,Unranked
+44,Occupancy Map Guided Fast Video-Based Dynamic Point Cloud Coding.,2022,"Jian Xiong, Hao Gao, Miaohui Wang, Hongliang Li, Weisi Lin",IEEE Trans. Circuits Syst. Video Technol. 32: 813-825 ,TCSV,Unranked
+45,Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection.,2022,"Wei Gao, Guibiao Liao, Siwei Ma, Ge Li, Yongsheng Liang, Weisi Lin",IEEE Trans. Circuits Syst. Video Technol. 32: 2091-2106 ,TCSV,Unranked
+46,Fine-Grained Image Quality Assessment: A Revisit and Further Thinking.,2022,"Xinfeng Zhang, Weisi Lin, Qingming Huang",IEEE Trans. Circuits Syst. Video Technol. 32: 2746-2759 ,TCSV,Unranked
+47,LGGD+: Image Retargeting Quality Assessment by Measuring Local and Global Geometric Distortions.,2022,"Zhenyu Peng, Qiuping Jiang, Feng Shao, Wei Gao, Weisi Lin",IEEE Trans. Circuits Syst. Video Technol. 32: 3422-3437 ,TCSV,Unranked
+48,Just Noticeable Difference for Deep Machine Vision.,2022,"Jian Jin, Xingxing Zhang, Xin Fu, Huan Zhang, Weisi Lin, Jian Lou, Yao Zhao",IEEE Trans. Circuits Syst. Video Technol. 32: 3452-3461 ,TCSV,Unranked
+49,Deep Learning-Based Perceptual Video Quality Enhancement for 3D Synthesized View.,2022,"Huan Zhang, Yun Zhang, Linwei Zhu, Weisi Lin",IEEE Trans. Circuits Syst. Video Technol. 32: 5080-5094 ,TCSV,Unranked
+50,Illumination Unification for Person Re-Identification.,2022,"Guoqing Zhang, Zhiyuan Luo, Yuhao Chen, Yuhui Zheng, Weisi Lin",IEEE Trans. Circuits Syst. Video Technol. 32: 6766-6777 ,TCSV,Unranked
+51,Distilling Knowledge From Object Classification to Aesthetics Assessment.,2022,"Jingwen Hou, Henghui Ding, Weisi Lin, Weide Liu, Yuming Fang",IEEE Trans. Circuits Syst. Video Technol. 32: 7386-7402 ,TCSV,Unranked
+52,Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation.,2022,"Gongyang Li, Zhi Liu, Zhen Bai, Weisi Lin, Haibin Ling",IEEE Trans. Geosci. Remote. Sens. 60: 1-12 ,TGRS,Unranked
+53,Multi-Content Complementation Network for Salient Object Detection in Optical Remote Sensing Images.,2022,"Gongyang Li, Zhi Liu, Weisi Lin, Haibin Ling",IEEE Trans. Geosci. Remote. Sens. 60: 1-13 ,TGRS,Unranked
+54,Perceptually Unimportant Information Reduction and Cosine Similarity-Based Quality Assessment of 3D-Synthesized Images.,2022,"Sadbhawna, Vinit Jakhetiya, Shubham Chaudhary, Badri Narayan Subudhi, Weisi Lin, Sharath Chandra Guntuku",IEEE Trans. Image Process. 31: 2027-2039 ,TIP,Unranked
+55,"Single Image Super-Resolution Quality Assessment: A Real-World Dataset, Subjective Studies, and an Objective Metric.",2022,"Qiuping Jiang, Zhentao Liu, Ke Gu, Feng Shao, Xinfeng Zhang, Hantao Liu, Weisi Lin",IEEE Trans. Image Process. 31: 2279-2294 ,TIP,Unranked
+56,A no-Reference Stereoscopic Image Quality Assessment Network Based on Binocular Interaction and Fusion Mechanisms.,2022,"Jianwei Si, Baoxiang Huang, Huan Yang, Weisi Lin, Zhenkuan Pan",IEEE Trans. Image Process. 31: 3066-3080 ,TIP,Unranked
+57,Toward Top-Down Just Noticeable Difference Estimation of Natural Images.,2022,"Qiuping Jiang, Zhentao Liu, Shiqi Wang, Feng Shao, Weisi Lin",IEEE Trans. Image Process. 31: 3697-3712 ,TIP,Unranked
+58,From Whole Video to Frames: Weakly-Supervised Domain Adaptive Continuous-Time QoE Evaluation.,2022,"Leida Li, Pengfei Chen, Weisi Lin, Mai Xu, Guangming Shi",IEEE Trans. Image Process. 31: 4937-4951 ,TIP,Unranked
+59,Voxel Structure-Based Mesh Reconstruction From a 3D Point Cloud.,2022,"Chenlei Lv, Weisi Lin, Baoquan Zhao",IEEE Trans. Multim. 24: 1815-1829 ,TMM,Unranked
+60,Progress and Opportunities in Modelling Just-Noticeable Difference (JND) for Multimedia.,2022,"Weisi Lin, Gheorghita Ghinea",IEEE Trans. Multim. 24: 3706-3721 ,TMM,Unranked
+61,Video Quality Assessment With Serial Dependence Modeling.,2022,"Yongxu Liu, Jinjian Wu, Aobo Li, Leida Li, Weisheng Dong, Guangming Shi, Weisi Lin",IEEE Trans. Multim. 24: 3754-3768 ,TMM,Unranked
+62,Pasadena: Perceptually Aware and Stealthy Adversarial Denoise Attack.,2022,"Yupeng Cheng, Qing Guo, Felix Juefei-Xu, Shang-Wei Lin, Wei Feng, Weisi Lin, Yang Liu",IEEE Trans. Multim. 24: 3807-3822 ,TMM,Unranked
+63,CMUA-Watermark: A Cross-Model Universal Adversarial Watermark for Combating Deepfakes.,2022,"Hao Huang, Yongtao Wang, Zhaoyu Chen, Yuze Zhang, Yuheng Li, Zhi Tang, Wei Chu, Jingdong Chen, Weisi Lin, Kai-Kuang Ma",AAAI 2022: 989-997,AAAI,A*
+64,IntegratedPIFu: Integrated Pixel Aligned Implicit Function for Single-View Human Reconstruction.,2022,"Kennard Yanting Chan, Guosheng Lin, Haiyu Zhao, Weisi Lin",ECCV  2022: 328-344,ECCV,A*
+65,FAST-VQA: Efficient End-to-End Video Quality Assessment with Fragment Sampling.,2022,"Haoning Wu, Chaofeng Chen, Jingwen Hou, Liang Liao, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin",ECCV  2022: 538-554,ECCV,A*
+66,Automatic facial skin feature detection for everyone.,2022,"Qian Zheng, Ankur Purwar, Heng Zhao, Guang Liang Lim, Ling Li, Debasish Behera, Qian Wang, Min Tan, Rizhao Cai, Jennifer Werner, Dennis Sng, Maurice van Steensel, Weisi Lin, Alex C. Kot",Imaging and Multimedia Analytics at the Edge 2022: 1-6,EI-IMAWM,Unranked
+67,Channel-Wise Bit Allocation for Deep Visual Feature Quantization.,2022,"Wei Wang, Zhuo Chen, Zhe Wang, Jie Lin, Long Xu, Weisi Lin",ICIP 2022: 3978-3982,ICIP,B
+68,Exploring the Effectiveness of Video Perceptual Representation in Blind Video Quality Assessment.,2022,"Liang Liao, Kangmin Xu, Haoning Wu, Chaofeng Chen, Wenxiu Sun, Qiong Yan, Weisi Lin",ACM Multimedia 2022: 837-846,MM,Unranked
+69,S-PIFu: Integrating Parametric Human Models with PIFu for Single-view Clothed Human Reconstruction.,2022,"Kennard Yanting Chan, Guosheng Lin, Haiyu Zhao, Weisi Lin",NeurIPS 2022,NIPS,Unranked
+70,Auto-Weighted Layer Representation Based View Synthesis Distortion Estimation for 3-D Video Coding.,2022,"Jian Jin, Xingxing Zhang, Lili Meng, Weisi Lin, Jie Liang, Huaxiang Zhang, Yao Zhao",CoRR abs/2201.02420 ,CORR,Unranked
+71,Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation.,2022,"Gongyang Li, Zhi Liu, Zhen Bai, Weisi Lin, Haibin Ling",CoRR abs/2201.08049 ,CORR,Unranked
+72,Full RGB Just Noticeable Difference (JND) Modelling.,2022,"Jian Jin, Dong Yu, Weisi Lin, Lili Meng, Hao Wang, Huaxiang Zhang",CoRR abs/2203.00629 ,CORR,Unranked
+73,Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images.,2022,"Gongyang Li, Zhi Liu, Dan Zeng, Weisi Lin, Haibin Ling",CoRR abs/2203.13664 ,CORR,Unranked
+74,Automatic Facial Skin Feature Detection for Everyone.,2022,"Qian Zheng, Ankur Purwar, Heng Zhao, Guang Liang Lim, Ling Li, Debasish Behera, Qian Wang, Min Tan, Rizhao Cai, Jennifer Werner, Dennis Sng, Maurice van Steensel, Weisi Lin, Alex C. Kot",CoRR abs/2203.16056 ,CORR,Unranked
+75,SelfReformer: Self-Refined Network with Transformer for Salient Object Detection.,2022,"Yi Ke Yun, Weisi Lin",CoRR abs/2205.11283 ,CORR,Unranked
+76,Distilling Knowledge from Object Classification to Aesthetics Assessment.,2022,"Jingwen Hou, Henghui Ding, Weisi Lin, Weide Liu, Yuming Fang",CoRR abs/2206.00809 ,CORR,Unranked
+77,Minimum Noticeable Difference based Adversarial Privacy Preserving Image Generation.,2022,"Wen Sun, Jian Jin, Weisi Lin",CoRR abs/2206.08638 ,CORR,Unranked
+78,DisCoVQA: Temporal Distortion-Content Transformers for Video Quality Assessment.,2022,"Haoning Wu, Chaofeng Chen, Liang Liao, Jingwen Hou, Wenxiu Sun, Qiong Yan, Weisi Lin",CoRR abs/2206.09853 ,CORR,Unranked
+79,FAST-VQA: Efficient End-to-end Video Quality Assessment with Fragment Sampling.,2022,"Haoning Wu, Chaofeng Chen, Jingwen Hou, Liang Liao, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin",CoRR abs/2207.02595 ,CORR,Unranked
+80,Exploring the Effectiveness of Video Perceptual Representation in Blind Video Quality Assessment.,2022,"Liang Liao, Kangmin Xu, Haoning Wu, Chaofeng Chen, Wenxiu Sun, Qiong Yan, Weisi Lin",CoRR abs/2207.03723 ,CORR,Unranked
+81,HVS-Inspired Signal Degradation Network for Just Noticeable Difference Estimation.,2022,"Jian Jin, Yuan Xue, Xingxing Zhang, Lili Meng, Yao Zhao, Weisi Lin",CoRR abs/2208.07583 ,CORR,Unranked
+82,Blind Quality Assessment of 3D Dense Point Clouds with Structure Guided Resampling.,2022,"Wei Zhou, Qi Yang, Qiuping Jiang, Guangtao Zhai, Weisi Lin",CoRR abs/2208.14603 ,CORR,Unranked
+83,Neighbourhood Representative Sampling for Efficient End-to-end Video Quality Assessment.,2022,"Haoning Wu, Chaofeng Chen, Liang Liao, Jingwen Hou, Wenxiu Sun, Qiong Yan, Jinwei Gu, Weisi Lin",CoRR abs/2210.05357 ,CORR,Unranked
+84,KSS-ICP: Point Cloud Registration based on Kendall Shape Space.,2022,"Chenlei Lv, Weisi Lin, Baoquan Zhao",CoRR abs/2211.02807 ,CORR,Unranked
+85,Disentangling Aesthetic and Technical Effects for Video Quality Assessment of User Generated Content.,2022,"Haoning Wu, Liang Liao, Chaofeng Chen, Jingwen Hou, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin",CoRR abs/2211.04894 ,CORR,Unranked
+86,IntegratedPIFu: Integrated Pixel Aligned Implicit Function for Single-view Human Reconstruction.,2022,"Kennard Yanting Chan, Guosheng Lin, Haiyu Zhao, Weisi Lin",CoRR abs/2211.07955 ,CORR,Unranked
+87,Learning Detail-Structure Alternative Optimization for Blind Super-Resolution.,2022,"Feng Li, Yixuan Wu, Huihui Bai, Weisi Lin, Runmin Cong, Yao Zhao",CoRR abs/2212.01624 ,CORR,Unranked
+88,Bridging Component Learning with Degradation Modelling for Blind Image Super-Resolution.,2022,"Yixuan Wu, Feng Li, Huihui Bai, Weisi Lin, Runmin Cong, Yao Zhao",CoRR abs/2212.01628 ,CORR,Unranked
+89,Blind image quality prediction with hierarchical feature aggregation.,2021,"Jinjian Wu, Wen Yang, Leida Li, Weisheng Dong, Guangming Shi, Weisi Lin",Inf. Sci. 552: 167-182 ,ISCI,Unranked
+90,Bi-disparity sparse feature learning for 3D visual discomfort prediction.,2021,"Maryam Karimi, Mansour Nejati, Weisi Lin",Signal Process. 188: 108179 ,SIGPRO,Unranked
+91,Fine-Grained Patch Segmentation and Rasterization for 3-D Point Cloud Attribute Compression.,2021,"Baoquan Zhao, Weisi Lin, Chenlei Lv",IEEE Trans. Circuits Syst. Video Technol. 31: 4590-4602 ,TCSV,Unranked
+92,End-to-End Ensemble Learning by Exploiting the Correlation Between Individuals and Weights.,2021,"Shasha Mao, Weisi Lin, Licheng Jiao, Shuiping Gou, Jiawei Chen",IEEE Trans. Cybern. 51: 2835-2846 ,TCYB,Unranked
+93,Temporal Reasoning Guided QoE Evaluation for Mobile Live Video Broadcasting.,2021,"Pengfei Chen, Leida Li, Jinjian Wu, Yabin Zhang, Weisi Lin",IEEE Trans. Image Process. 30: 3279-3292 ,TIP,Unranked
+94,Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection.,2021,"Gongyang Li, Zhi Liu, Minyu Chen, Zhen Bai, Weisi Lin, Haibin Ling",IEEE Trans. Image Process. 30: 3528-3542 ,TIP,Unranked
+95,Blind Image Quality Assessment With Active Inference.,2021,"Jupo Ma, Jinjian Wu, Leida Li, Weisheng Dong, Xuemei Xie, Guangming Shi, Weisi Lin",IEEE Trans. Image Process. 30: 3650-3663 ,TIP,Unranked
+96,Approximate Intrinsic Voxel Structure for Point Cloud Simplification.,2021,"Chenlei Lv, Weisi Lin, Baoquan Zhao",IEEE Trans. Image Process. 30: 7241-7255 ,TIP,Unranked
+97,Progressive Self-Guided Loss for Salient Object Detection.,2021,"Sheng Yang, Weisi Lin, Guosheng Lin, Qiuping Jiang, Zichuan Liu",IEEE Trans. Image Process. 30: 8426-8438 ,TIP,Unranked
+98,PM₂.₅ Monitoring: Use Information Abundance Measurement and Wide and Deep Learning.,2021,"Ke Gu, Hongyan Liu, Zhifang Xia, Junfei Qiao, Weisi Lin, Daniel Thalmann",IEEE Trans. Neural Networks Learn. Syst. 32: 4278-4290 ,TNN,Unranked
+99,Collaborative Intelligence: Challenges and Opportunities.,2021,"Ivan V. Bajic, Weisi Lin, Yonghong Tian",ICASSP 2021: 8493-8497,ICASSP,Unranked
+100,Low Resolution Information Also Matters: Learning Multi-Resolution Representations for Person Re-Identification.,2021,"Guoqing Zhang, Yuhao Chen, Weisi Lin, Arun Kumar Chandran, Xuan Jing",IJCAI 2021: 1295-1301,IJCAI,A*
+101,Progressive Self-Guided Loss for Salient Object Detection.,2021,"Sheng Yang, Weisi Lin, Guosheng Lin, Qiuping Jiang, Zichuan Liu",CoRR abs/2101.02412 ,CORR,Unranked
+102,Collaborative Intelligence: Challenges and Opportunities.,2021,"Ivan V. Bajic, Weisi Lin, Yonghong Tian",CoRR abs/2102.06841 ,CORR,Unranked
+103,Does deep machine vision have just noticeable difference (JND)?,2021,"Jian Jin, Xingxing Zhang, Xin Fu, Huan Zhang, Weisi Lin, Jian Lou, Yao Zhao",CoRR abs/2102.08168 ,CORR,Unranked
+104,Learning Image Aesthetic Assessment from Object-level Visual Components.,2021,"Jingwen Hou, Sheng Yang, Weisi Lin, Baoquan Zhao, Yuming Fang",CoRR abs/2104.01548 ,CORR,Unranked
+105,Voxel Structure-based Mesh Reconstruction from a 3D Point Cloud.,2021,"Chenlei Lv, Weisi Lin, Baoquan Zhao",CoRR abs/2104.10622 ,CORR,Unranked
+106,CMUA-Watermark: A Cross-Model Universal Adversarial Watermark for Combating Deepfakes.,2021,"Hao Huang, Yongtao Wang, Zhaoyu Chen, Yuheng Li, Zhi Tang, Wei Chu, Jingdong Chen, Weisi Lin, Kai-Kuang Ma",CoRR abs/2105.10872 ,CORR,Unranked
+107,Low Resolution Information Also Matters: Learning Multi-Resolution Representations for Person Re-Identification.,2021,"Guoqing Zhang, Yuhao Chen, Weisi Lin, Arun Kumar Chandran, Xuan Jing",CoRR abs/2105.12684 ,CORR,Unranked
+108,Towards Top-Down Just Noticeable Difference Estimation of Natural Images.,2021,"Qiuping Jiang, Zhentao Liu, Shiqi Wang, Feng Shao, Weisi Lin",CoRR abs/2108.05058 ,CORR,Unranked
+109,Multi-Content Complementation Network for Salient Object Detection in Optical Remote Sensing Images.,2021,"Gongyang Li, Zhi Liu, Weisi Lin, Haibin Ling",CoRR abs/2112.01932 ,CORR,Unranked
+110,A New Image Codec Paradigm for Human and Machine Uses.,2021,"Sien Chen, Jian Jin, Lili Meng, Weisi Lin, Zhuo Chen, Tsui-Shan Chang, Zhengguang Li, Huaxiang Zhang",CoRR abs/2112.10071 ,CORR,Unranked
+111,Multiscale Natural Scene Statistical Analysis for No-Reference Quality Evaluation of DIBR-Synthesized Views.,2020,"Ke Gu, Junfei Qiao, Sanghoon Lee, Hantao Liu, Weisi Lin, Patrick Le Callet",IEEE Trans. Broadcast. 66: 127-139 ,TBC,Unranked
+112,Learning a Unified Blind Image Quality Metric via On-Line and Off-Line Big Training Instances.,2020,"Ke Gu, Xin Xu, Junfei Qiao, Qiuping Jiang, Weisi Lin, Daniel Thalmann",IEEE Trans. Big Data 6: 780-791 ,TBD,Unranked
+113,Statistical and Structural Information Backed Full-Reference Quality Measure of Compressed Sonar Images.,2020,"Weiling Chen, Ke Gu, Weisi Lin, Fei Yuan, En Cheng",IEEE Trans. Circuits Syst. Video Technol. 30: 334-348 ,TCSV,Unranked
+114,Salient Object Detection by Spatiotemporal and Semantic Features in Real-Time Video Processing Systems.,2020,"Yuming Fang, Guanqun Ding, Wenying Wen, Feiniu Yuan, Yong Yang, Zhijun Fang, Weisi Lin",IEEE Trans. Ind. Electron. 67: 9893-9903 ,TIE,Unranked
+115,Toward Intelligent Sensing: Intermediate Deep Feature Compression.,2020,"Zhuo Chen, Kui Fan, Shiqi Wang, Lingyu Duan, Weisi Lin, Alex ChiChung Kot",IEEE Trans. Image Process. 29: 2230-2243 ,TIP,Unranked
+116,Personality-Assisted Multi-Task Learning for Generic and Personalized Image Aesthetics Assessment.,2020,"Leida Li, Hancheng Zhu, Sicheng Zhao, Guiguang Ding, Weisi Lin",IEEE Trans. Image Process. 29: 3898-3910 ,TIP,Unranked
+117,End-to-End Blind Image Quality Prediction With Cascaded Deep Neural Network.,2020,"Jinjian Wu, Jupo Ma, Fuhu Liang, Weisheng Dong, Guangming Shi, Weisi Lin",IEEE Trans. Image Process. 29: 7414-7426 ,TIP,Unranked
+118,Deep Dual-Channel Neural Network for Image-Based Smoke Detection.,2020,"Ke Gu, Zhifang Xia, Junfei Qiao, Weisi Lin",IEEE Trans. Multim. 22: 311-323 ,TMM,Unranked
+119,A Dilated Inception Network for Visual Saliency Prediction.,2020,"Sheng Yang, Guosheng Lin, Qiuping Jiang, Weisi Lin",IEEE Trans. Multim. 22: 2163-2176 ,TMM,Unranked
+120,Data Representation in Hybrid Coding Framework for Feature Maps Compression.,2020,"Zhuo Chen, Ling-Yu Duan, Shiqi Wang, Weisi Lin, Alex C. Kot",ICIP 2020: 3094-3098,ICIP,B
+121,Content-Dependency Reduction With Multi-Task Learning In Blind Stitched Panoramic Image Quality Assessment.,2020,"Jingwen Hou, Weisi Lin, Baoquan Zhao",ICIP 2020: 3463-3467,ICIP,B
+122,Statistical Convolution On Unordered Point Set.,2020,"Anh-Duc Nguyen, Seonghwa Choi, Woojae Kim, Sanghoon Lee, Weisi Lin",ICIP 2020: 3468-3472,ICIP,B
+123,GSTO: Gated Scale-Transfer Operation for Multi-Scale Feature Learning in Semantic Segmentation.,2020,"Zhuoying Wang, Yongtao Wang, Zhi Tang, Yangyan Li, Ying Chen, Haibin Ling, Weisi Lin",ICPR 2020: 7111-7118,ICPR,B
+124,Object-level Attention for Aesthetic Rating Distribution Prediction.,2020,"Jingwen Hou, Sheng Yang, Weisi Lin",ACM Multimedia 2020: 816-824,MM,Unranked
+125,ATQAM/MAST'20: Joint Workshop on Aesthetic and Technical Quality Assessment of Multimedia and Media Analytics for Societal Trends.,2020,"Tanaya Guha, Vlad Hosu, Dietmar Saupe, Bastian Goldlücke, Naveen Kumar, Weisi Lin, Victor R. Martinez, Krishna Somandepalli, Shrikanth Narayanan, Wen-Huang Cheng, Kree McLaughlin, Hartwig Adam, John See, Lai-Kuan Wong",ACM Multimedia 2020: 4758-4760,MM,Unranked
+126,Defense for adversarial videos by self-adaptive JPEG compression and optical texture.,2020,"Yupeng Cheng, Xingxing Wei, Huazhu Fu, Shang-Wei Lin, Weisi Lin",MMAsia 2020: 55:1-55:7,MMASIA,Unranked
+127,GSTO: Gated Scale-Transfer Operation for Multi-Scale Feature Learning in Pixel Labeling.,2020,"Zhuoying Wang, Yongtao Wang, Zhi Tang, Yangyan Li, Ying Chen, Haibin Ling, Weisi Lin",CoRR abs/2005.13363 ,CORR,Unranked
+128,Pasadena: Perceptually Aware and Stealthy Adversarial Denoise Attack.,2020,"Yupeng Cheng, Qing Guo, Felix Juefei-Xu, Xiaofei Xie, Shang-Wei Lin, Weisi Lin, Wei Feng, Yang Liu",CoRR abs/2007.07097 ,CORR,Unranked
+129,Adversarial Exposure Attack on Diabetic Retinopathy Imagery.,2020,"Yupeng Cheng, Felix Juefei-Xu, Qing Guo, Huazhu Fu, Xiaofei Xie, Shang-Wei Lin, Weisi Lin, Yang Liu",CoRR abs/2009.09231 ,CORR,Unranked
+130,Signal-Independent Separable KLT by Offline Training for Video Coding.,2019,"Kui Fan, Ronggang Wang, Weisi Lin, Ling-Yu Duan, Wen Gao",IEEE Access 7: 33087-33093 ,ACCESS,Unranked
+131,Video Frame Synthesis via Plug-and-Play Deep Locally Temporal Embedding.,2019,"Anh-Duc Nguyen, Woojae Kim, Jongyoo Kim, Weisi Lin, Sanghoon Lee",IEEE Access 7: 179304-179319 ,ACCESS,Unranked
+132,Survey of visual just noticeable difference estimation.,2019,"Jinjian Wu, Guangming Shi, Weisi Lin",Frontiers Comput. Sci. 13: 4-15 ,FCSC,Unranked
+133,Blind image quality assessment based on joint log-contrast statistics.,2019,"Qiaohong Li, Weisi Lin, Ke Gu, Yabin Zhang, Yuming Fang",Neurocomputing 331: 189-198 ,IJON,Unranked
+134,No-reference image quality assessment with visual pattern degradation.,2019,"Jinjian Wu, Man Zhang, Leida Li, Weisheng Dong, Guangming Shi, Weisi Lin",Inf. Sci. 504: 487-500 ,ISCI,Unranked
+135,Blind image quality assessment with hierarchy: Degradation from local structure to deep semantics.,2019,"Jinjian Wu, Jichen Zeng, Weisheng Dong, Guangming Shi, Weisi Lin",J. Vis. Commun. Image Represent. 58: 353-362 ,JVCIR,Unranked
+136,Reduced-reference quality assessment of image super-resolution by energy change and texture variation.,2019,"Yuming Fang, Jiaying Liu, Yabin Zhang, Weisi Lin, Zongming Guo",J. Vis. Commun. Image Represent. 60: 140-148 ,JVCIR,Unranked
+137,BLIQUE-TMI: Blind Quality Evaluator for Tone-Mapped Images Based on Local and Global Feature Analyses.,2019,"Qiuping Jiang, Feng Shao, Weisi Lin, Gangyi Jiang",IEEE Trans. Circuits Syst. Video Technol. 29: 323-335 ,TCSV,Unranked
+138,Review of Visual Saliency Detection With Comprehensive Information.,2019,"Runmin Cong, Jianjun Lei, Huazhu Fu, Ming-Ming Cheng, Weisi Lin, Qingming Huang",IEEE Trans. Circuits Syst. Video Technol. 29: 2941-2959 ,TCSV,Unranked
+139,Visual-Quality Guided Global Backlight Dimming for Video Display on Mobile Devices.,2019,"Chia-Hung Yeh, Kyle Shih-Huang Lo, Weisi Lin",IEEE Trans. Circuits Syst. Video Technol. 29: 3393-3403 ,TCSV,Unranked
+140,An Iterative Co-Saliency Framework for RGBD Images.,2019,"Runmin Cong, Jianjun Lei, Huazhu Fu, Weisi Lin, Qingming Huang, Xiaochun Cao, Chunping Hou",IEEE Trans. Cybern. 49: 233-246 ,TCYB,Unranked
+141,Visual-Attention-Based Pixel Dimming Technique for OLED Displays of Mobile Devices.,2019,"Chia-Hung Yeh, Kyle Shih-Huang Lo, Weisi Lin",IEEE Trans. Ind. Electron. 66: 7159-7167 ,TIE,Unranked
+142,A Highly Efficient Blind Image Quality Assessment Metric of 3-D Synthesized Images Using Outlier Detection.,2019,"Vinit Jakhetiya, Ke Gu, Trisha Singhal, Sharath Chandra Guntuku, Zhifang Xia, Weisi Lin",IEEE Trans. Ind. Informatics 15: 4120-4128 ,TII,Unranked
+143,Fine-Grained Quality Assessment for Compressed Images.,2019,"Xinfeng Zhang, Weisi Lin, Shiqi Wang, Jiaying Liu, Siwei Ma, Wen Gao",IEEE Trans. Image Process. 28: 1163-1175 ,TIP,Unranked
+144,Deep Visual Saliency on Stereoscopic Images.,2019,"Anh-Duc Nguyen, Jongyoo Kim, Heeseok Oh, Haksub Kim, Weisi Lin, Sanghoon Lee",IEEE Trans. Image Process. 28: 1939-1953 ,TIP,Unranked
+145,A Two-Stage Outlier Filtering Framework for City-Scale Localization Using 3D SfM Point Clouds.,2019,"Wentao Cheng, Kan Chen, Weisi Lin, Michael Goesele, Xinfeng Zhang, Yabin Zhang",IEEE Trans. Image Process. 28: 4857-4869 ,TIP,Unranked
+146,Reference-Free Quality Assessment of Sonar Images via Contour Degradation Measurement.,2019,"Weiling Chen, Ke Gu, Weisi Lin, Zhifang Xia, Patrick Le Callet, En Cheng",IEEE Trans. Image Process. 28: 5336-5351 ,TIP,Unranked
+147,Point Cloud Saliency Detection by Local and Global Feature Fusion.,2019,"Xiaoying Ding, Weisi Lin, Zhenzhong Chen, Xinfeng Zhang",IEEE Trans. Image Process. 28: 5379-5393 ,TIP,Unranked
+148,Which Has Better Visual Quality: The Clear Blue Sky or a Blurry Animal?,2019,"Dingquan Li, Tingting Jiang, Weisi Lin, Ming Jiang",IEEE Trans. Multim. 21: 1221-1234 ,TMM,Unranked
+149,Pairwise-Comparison-Based Rank Learning for Benchmarking Image Restoration Algorithms.,2019,"Bo Hu, Leida Li, Hantao Liu, Weisi Lin, Jiansheng Qian",IEEE Trans. Multim. 21: 2042-2056 ,TMM,Unranked
+150,Quality Assessment for Video With Degradation Along Salient Trajectories.,2019,"Jinjian Wu, Yongxu Liu, Weisheng Dong, Guangming Shi, Weisi Lin",IEEE Trans. Multim. 21: 2738-2749 ,TMM,Unranked
+151,Content-Insensitive Blind Image Blurriness Assessment Using Weibull Statistics and Sparse Extreme Learning Machine.,2019,"Chenwei Deng, Shuigen Wang, Zhen Li, Guang-Bin Huang, Weisi Lin",IEEE Trans. Syst. Man Cybern. Syst. 49: 516-527 ,TSMC,Unranked
+152,Towards Robust Curve Text Detection With Conditional Spatial Expansion.,2019,"Zichuan Liu, Guosheng Lin, Sheng Yang, Fayao Liu, Weisi Lin, Wang Ling Goh",CVPR 2019: 7269-7278,CVPR,A*
+153,Separable KLT for Intra Coding in Versatile Video Coding (VVC).,2019,"Kui Fan, Ronggang Wang, Weisi Lin, Jong-Uk Hou, Lingyu Duan, Ge Li, Wen Gao",DCC 2019: 571,DCC,B
+154,Robust Super-resolution Using Multiple Bases and 3D Filtering.,2019,"Naushad Ansari, Weisi Lin",ICASSP 2019: 1857-1861,ICASSP,Unranked
+155,Context-aware Deep Learning for Multi-modal Depression Detection.,2019,"Genevieve Lam, Dongyan Huang, Weisi Lin",ICASSP 2019: 3946-3950,ICASSP,Unranked
+156,Blind Quality Evaluator for Screen Content Images via Analysis of Structure.,2019,"Guanghui Yue, Chunping Hou, Weisi Lin",ICASSP 2019: 4050-4054,ICASSP,Unranked
+157,Cascaded Parallel Filtering for Memory-Efficient Image-Based Localization.,2019,"Wentao Cheng, Weisi Lin, Kan Chen, Xinfeng Zhang",ICCV 2019: 1032-1041,ICCV,A*
+158,Range Image Based Point Cloud Colorization Using Conditional Generative Model.,2019,"Jong-Uk Hou, Baoquan Zhao, Naushad Ansari, Weisi Lin",ICIP 2019: 524-528,ICIP,B
+159,Beyond Ranking Loss: Deep Holographic Networks for Multi-Label Video Search.,2019,"Zhuo Chen, Jie Lin, Zhe Wang, Vijay Chandrasekhar, Weisi Lin",ICIP 2019: 879-883,ICIP,B
+160,SGDNet: An End-to-End Saliency-Guided Deep Neural Network for No-Reference Image Quality Assessment.,2019,"Sheng Yang, Qiuping Jiang, Weisi Lin, Yongtao Wang",ACM Multimedia 2019: 1383-1391,MM,Unranked
+161,Lossy Intermediate Deep Learning Feature Compression and Evaluation.,2019,"Zhuo Chen, Kui Fan, Shiqi Wang, Ling-Yu Duan, Weisi Lin, Alex C. Kot",ACM Multimedia 2019: 2414-2422,MM,Unranked
+162,Towards Robust Curve Text Detection with Conditional Spatial Expansion.,2019,"Zichuan Liu, Guosheng Lin, Sheng Yang, Fayao Liu, Weisi Lin, Wang Ling Goh",CoRR abs/1903.08836 ,CORR,Unranked
+163,A Dilated Inception Network for Visual Saliency Prediction.,2019,"Sheng Yang, Guosheng Lin, Qiuping Jiang, Weisi Lin",CoRR abs/1904.03571 ,CORR,Unranked
+164,Learning a No-Reference Quality Assessment Model of Enhanced Images With Big Data.,2019,"Ke Gu, Dacheng Tao, Junfei Qiao, Weisi Lin",CoRR abs/1904.08632 ,CORR,Unranked
+165,Cascaded Parallel Filtering for Memory-Efficient Image-Based Localization.,2019,"Wentao Cheng, Weisi Lin, Kan Chen, Xinfeng Zhang",CoRR abs/1908.06141 ,CORR,Unranked
+166,Robustness Analysis of Pedestrian Detectors for Surveillance.,2018,"Yuming Fang, Guanqun Ding, Yuan Yuan, Weisi Lin, Haiwen Liu",IEEE Access 6: 28890-28902 ,ACCESS,Unranked
+167,Objective Quality Assessment and Perceptual Compression of Screen Content Images.,2018,"Shiqi Wang, Ke Gu, Kai Zeng, Zhou Wang, Weisi Lin",IEEE Computer Graphics and Applications 38: 47-58 ,CGA,Unranked
+168,Just Noticeable Difference for natural images using RMS contrast and feed-back mechanism.,2018,"Vinit Jakhetiya, Weisi Lin, Sunil Prasad Jaiswal, Ke Gu, Sharath Chandra Guntuku",Neurocomputing 275: 366-376 ,IJON,Unranked
+169,A novel distortion criterion of rate-distortion optimization for depth map coding.,2018,"Ziqi Zheng, Junyan Huo, Bingbing Li, Hui Yuan, Weisi Lin",J. Vis. Commun. Image Represent. 54: 145-154 ,JVCIR,Unranked
+170,Pyramidal modeling of geometric distortions for retargeted image quality evaluation.,2018,"Maryam Karimi, Shadrokh Samavi, Nader Karimi, S. M. Reza Soroushmehr, Weisi Lin, Kayvan Najarian",Multim. Tools Appl. 77: 13799-13820 ,MTA,Unranked
+171,Learning a referenceless stereopair quality engine with deep nonnegativity constrained sparse autoencoder.,2018,"Qiuping Jiang, Feng Shao, Weisi Lin, Gangyi Jiang",Pattern Recognit. 76: 242-255 ,PR,Unranked
+172,"'Who Likes What and, Why?' Insights into Modeling Users' Personality Based on Image 'Likes'.",2018,"Sharath Chandra Guntuku, Joey Tianyi Zhou, Sujoy Roy, Weisi Lin, Ivor W. Tsang",IEEE Trans. Affect. Comput. 9: 130-143 ,TAFFCO,Unranked
+173,Reduced-Reference Quality Assessment of Screen Content Images.,2018,"Shiqi Wang, Ke Gu, Xinfeng Zhang, Weisi Lin, Siwei Ma, Wen Gao",IEEE Trans. Circuits Syst. Video Technol. 28: 1-14 ,TCSV,Unranked
+174,Toward Domain Transfer for No-Reference Quality Prediction of Asymmetrically Distorted Stereoscopic Images.,2018,"Feng Shao, Zhuqing Zhang, Qiuping Jiang, Weisi Lin, Gangyi Jiang",IEEE Trans. Circuits Syst. Video Technol. 28: 573-585 ,TCSV,Unranked
+175,Optimal Region Selection for Stereoscopic Video Subtitle Insertion.,2018,"Guanghui Yue, Chunping Hou, Jianjun Lei, Yuming Fang, Weisi Lin",IEEE Trans. Circuits Syst. Video Technol. 28: 3141-3153 ,TCSV,Unranked
+176,Rate-Distortion Optimized Sparse Coding With Ordered Dictionary for Image Set Compression.,2018,"Xinfeng Zhang, Weisi Lin, Yabin Zhang, Shiqi Wang, Siwei Ma, Lingyu Duan, Wen Gao",IEEE Trans. Circuits Syst. Video Technol. 28: 3387-3397 ,TCSV,Unranked
+177,Learning Sparse Representation for Objective Image Retargeting Quality Assessment.,2018,"Qiuping Jiang, Feng Shao, Weisi Lin, Gangyi Jiang",IEEE Trans. Cybern. 48: 1276-1289 ,TCYB,Unranked
+178,A Prediction Backed Model for Quality Assessment of Screen Content and 3-D Synthesized Images.,2018,"Vinit Jakhetiya, Ke Gu, Weisi Lin, Qiaohong Li, Sunil Prasad Jaiswal",IEEE Trans. Ind. Informatics 14: 652-660 ,TII,Unranked
+179,Recurrent Air Quality Predictor Based on Meteorology- and Pollution-Related Factors.,2018,"Ke Gu, Junfei Qiao, Weisi Lin",IEEE Trans. Ind. Informatics 14: 3946-3955 ,TII,Unranked
+180,Model-Based Referenceless Quality Metric of 3D Synthesized Images Using Local Image Description.,2018,"Ke Gu, Vinit Jakhetiya, Junfei Qiao, Xiaoli Li, Weisi Lin, Daniel Thalmann",IEEE Trans. Image Process. 27: 394-405 ,TIP,Unranked
+181,Multiple-Level Feature-Based Measure for Retargeted Image Quality.,2018,"Yabin Zhang, Weisi Lin, Qiaohong Li, Wentao Cheng, Xinfeng Zhang",IEEE Trans. Image Process. 27: 451-463 ,TIP,Unranked
+182,No Reference Quality Assessment for Screen Content Images With Both Local and Global Feature Representation.,2018,"Yuming Fang, Jiebin Yan, Leida Li, Jinjian Wu, Weisi Lin",IEEE Trans. Image Process. 27: 1600-1610 ,TIP,Unranked
+183,No-Reference View Synthesis Quality Prediction for 3-D Videos Based on Color-Depth Interactions.,2018,"Feng Shao, Qizheng Yuan, Weisi Lin, Gangyi Jiang",IEEE Trans. Multim. 20: 659-674 ,TMM,Unranked
+184,Quality Assessment of DIBR-Synthesized Images by Measuring Local Geometric Distortions and Global Sharpness.,2018,"Leida Li, Yu Zhou, Ke Gu, Weisi Lin, Shiqi Wang",IEEE Trans. Multim. 20: 914-926 ,TMM,Unranked
+185,Optimizing Multistage Discriminative Dictionaries for Blind Image Quality Assessment.,2018,"Qiuping Jiang, Feng Shao, Weisi Lin, Ke Gu, Gangyi Jiang, Huifang Sun",IEEE Trans. Multim. 20: 2035-2048 ,TMM,Unranked
+186,Learning a No-Reference Quality Assessment Model of Enhanced Images With Big Data.,2018,"Ke Gu, Dacheng Tao, Junfei Qiao, Weisi Lin",IEEE Trans. Neural Networks Learn. Syst. 29: 1301-1313 ,TNN,Unranked
+187,"Measuring Individual Video QoE: A Survey, and Proposal for Future Directions Using Social Media.",2018,"Yi Zhu, Sharath Chandra Guntuku, Weisi Lin, Gheorghita Ghinea, Judith A. Redi",ACM Trans. Multim. Comput. Commun. Appl. 14: 30:1-30:24 ,TOMCCAP,Unranked
+188,Evaluating Quality of Screen Content Images Via Structural Variation Analysis.,2018,"Ke Gu, Junfei Qiao, Xiongkuo Min, Guanghui Yue, Weisi Lin, Daniel Thalmann",IEEE Trans. Vis. Comput. Graph. 24: 2689-2701 ,TVCG,Unranked
+189,Learning Markov Clustering Networks for Scene Text Detection.,2018,"Zichuan Liu, Guosheng Lin, Sheng Yang, Jiashi Feng, Weisi Lin, Wang Ling Goh",CVPR 2018: 6936-6944,CVPR,A*
+190,Image Quality Assessment Based Label Smoothing in Deep Neural Network Learning.,2018,"Zhuo Chen, Weisi Lin, Shiqi Wang, Long Xu, Leida Li",ICASSP 2018: 6742-6746,ICASSP,Unranked
+191,Review of Visual Saliency Detection with Comprehensive Information.,2018,"Runmin Cong, Jianjun Lei, Huazhu Fu, Ming-Ming Cheng, Weisi Lin, Qingming Huang",CoRR abs/1803.03391 ,CORR,Unranked
+192,Learning Markov Clustering Networks for Scene Text Detection.,2018,"Zichuan Liu, Guosheng Lin, Sheng Yang, Jiashi Feng, Weisi Lin, Wang Ling Goh",CoRR abs/1805.08365 ,CORR,Unranked
+193,Robustness Analysis of Pedestrian Detectors for Surveillance.,2018,"Yuming Fang, Guanqun Ding, Yuan Yuan, Weisi Lin, Haiwen Liu",CoRR abs/1807.04562 ,CORR,Unranked
+194,Intermediate Deep Feature Compression: the Next Battlefield of Intelligent Sensing.,2018,"Zhuo Chen, Weisi Lin, Shiqi Wang, Lingyu Duan, Alex C. Kot",CoRR abs/1809.06196 ,CORR,Unranked
+195,Performance Evaluation of Visual Tracking Algorithms on Video Sequences With Quality Degradation.,2017,"Yuming Fang, Yuan Yuan, Leida Li, Jinjian Wu, Weisi Lin, Zhiqiang Li",IEEE Access 5: 2430-2441 ,ACCESS,Unranked
+196,Object Tracking Based on Stable Feature Mining Using Intraframe Clustering and Interframe Association.,2017,"Hong Lu, Ke Gu, Weisi Lin, Wenjun Zhang",IEEE Access 5: 4690-4703 ,ACCESS,Unranked
+197,B-SHOT: a binary 3D feature descriptor for fast Keypoint matching on 3D point clouds.,2017,"Sai Manoj Prakhya, Bingbing Liu, Weisi Lin, Vinit Jakhetiya, Sharath Chandra Guntuku",Auton. Robots 41: 1501-1520 ,AROBOTS,Unranked
+198,BSD: Blind image quality assessment based on structural degradation.,2017,"Qiaohong Li, Weisi Lin, Yuming Fang",Neurocomputing 236: 93-103 ,IJON,Unranked
+199,Effective visual tracking by pairwise metric learning.,2017,"Chenwei Deng, Baoxian Wang, Weisi Lin, Guang-Bin Huang, Baojun Zhao",Neurocomputing 261: 266-275 ,IJON,Unranked
+200,Learning visual saliency from human fixations for stereoscopic images.,2017,"Yuming Fang, Jianjun Lei, Jia Li, Long Xu, Weisi Lin, Patrick Le Callet",Neurocomputing 266: 284-292 ,IJON,Unranked
+201,Quality assessment of retargeted images by salient region deformity analysis.,2017,"Maryam Karimi, Shadrokh Samavi, Nader Karimi, S. M. Reza Soroushmehr, Weisi Lin, Kayvan Najarian",J. Vis. Commun. Image Represent. 43: 108-118 ,JVCIR,Unranked
+202,3DHoPD: A Fast Low-Dimensional 3-D Descriptor.,2017,"Sai Manoj Prakhya, Jie Lin, Vijay Chandrasekhar, Weisi Lin, Bingbing Liu",IEEE Robotics Autom. Lett. 2: 1472-1479 ,RAL,Unranked
+203,Low Bit-rate 3D feature descriptors for depth data from Kinect-style sensors.,2017,"Sai Manoj Prakhya, Weisi Lin, Vijay Chandrasekhar, Bingbing Liu, Jie Lin",Signal Process. Image Commun. 51: 40-49 ,SPIC,Unranked
+204,Just-Noticeable Difference-Based Perceptual Optimization for JPEG Compression.,2017,"Xinfeng Zhang, Shiqi Wang, Ke Gu, Weisi Lin, Siwei Ma, Wen Gao",IEEE Signal Process. Lett. 24: 96-100 ,SPL,Unranked
+205,High-Efficiency Image Coding via Near-Optimal Filtering.,2017,"Xinfeng Zhang, Shiqi Wang, Yabin Zhang, Weisi Lin, Siwei Ma, Wen Gao",IEEE Signal Process. Lett. 24: 1403-1407 ,SPL,Unranked
+206,Multi-Task Rank Learning for Image Quality Assessment.,2017,"Long Xu, Jia Li, Weisi Lin, Yongbing Zhang, Lin Ma, Yuming Fang, Yihua Yan",IEEE Trans. Circuits Syst. Video Technol. 27: 1833-1843 ,TCSV,Unranked
+207,Low-Rank-Based Nonlocal Adaptive Loop Filter for High-Efficiency Video Compression.,2017,"Xinfeng Zhang, Ruiqin Xiong, Weisi Lin, Jian Zhang, Shiqi Wang, Siwei Ma, Wen Gao",IEEE Trans. Circuits Syst. Video Technol. 27: 2177-2188 ,TCSV,Unranked
+208,NMF-Based Image Quality Assessment Using Extreme Learning Machine.,2017,"Shuigen Wang, Chenwei Deng, Weisi Lin, Guang-Bin Huang, Baojun Zhao",IEEE Trans. Cybern. 47: 232-243 ,TCYB,Unranked
+209,Toward Simultaneous Visual Comfort and Depth Sensation Optimization for Stereoscopic 3-D Experience.,2017,"Feng Shao, Weisi Lin, Zhutuan Li, Gangyi Jiang, Qionghai Dai",IEEE Trans. Cybern. 47: 4521-4533 ,TCYB,Unranked
+210,No-Reference Quality Metric of Contrast-Distorted Images Based on Information Maximization.,2017,"Ke Gu, Weisi Lin, Guangtao Zhai, Xiaokang Yang, Wenjun Zhang, Chang Wen Chen",IEEE Trans. Cybern. 47: 4559-4565 ,TCYB,Unranked
+211,A Fast Reliable Image Quality Predictor by Fusing Micro- and Macro-Structures.,2017,"Ke Gu, Leida Li, Hong Lu, Xiongkuo Min, Weisi Lin",IEEE Trans. Ind. Electron. 64: 3903-3912 ,TIE,Unranked
+212,A Data-Driven Point Cloud Simplification Framework for City-Scale Image-Based Localization.,2017,"Wentao Cheng, Weisi Lin, Xinfeng Zhang, Michael Goesele, Ming-Ting Sun",IEEE Trans. Image Process. 26: 262-275 ,TIP,Unranked
+213,Image Quality Assessment Based on Local Linear Information and Distortion-Specific Compensation.,2017,"Hanli Wang, Jie Fu, Weisi Lin, Sudeng Hu, C.-C. Jay Kuo, Lingxuan Zuo",IEEE Trans. Image Process. 26: 915-926 ,TIP,Unranked
+214,Enhanced Just Noticeable Difference Model for Images With Pattern Complexity.,2017,"Jinjian Wu, Leida Li, Weisheng Dong, Guangming Shi, Weisi Lin, C.-C. Jay Kuo",IEEE Trans. Image Process. 26: 2682-2693 ,TIP,Unranked
+215,Salient Object Detection With Spatiotemporal Background Priors for Video.,2017,"Tao Xi, Wei Zhao, Han Wang, Weisi Lin",IEEE Trans. Image Process. 26: 3425-3436 ,TIP,Unranked
+216,No-Reference Quality Assessment of Screen Content Pictures.,2017,"Ke Gu, Jun Zhou, Junfei Qiao, Guangtao Zhai, Weisi Lin, Alan Conrad Bovik",IEEE Trans. Image Process. 26: 4005-4018 ,TIP,Unranked
+217,QoE-Guided Warping for Stereoscopic Image Retargeting.,2017,"Feng Shao, Wenchong Lin, Weisi Lin, Qiuping Jiang, Gangyi Jiang",IEEE Trans. Image Process. 26: 4790-4805 ,TIP,Unranked
+218,"Unified Blind Quality Assessment of Compressed Natural, Graphic, and Screen Content Images.",2017,"Xiongkuo Min, Kede Ma, Ke Gu, Guangtao Zhai, Zhou Wang, Weisi Lin",IEEE Trans. Image Process. 26: 5462-5474 ,TIP,Unranked
+219,Maximum a Posterior and Perceptually Motivated Reconstruction Algorithm: A Generic Framework.,2017,"Vinit Jakhetiya, Weisi Lin, Sunil Prasad Jaiswal, Sharath Chandra Guntuku, Oscar C. Au",IEEE Trans. Multim. 19: 93-106 ,TMM,Unranked
+220,No-Reference and Robust Image Sharpness Evaluation Based on Multiscale Spatial and Spectral Features.,2017,"Leida Li, Wenhan Xia, Weisi Lin, Yuming Fang, Shiqi Wang",IEEE Trans. Multim. 19: 1030-1040 ,TMM,Unranked
+221,Learning Sparse Representation for No-Reference Quality Assessment of Multiply Distorted Stereoscopic Images.,2017,"Feng Shao, Weijun Tian, Weisi Lin, Gangyi Jiang, Qionghai Dai",IEEE Trans. Multim. 19: 1821-1836 ,TMM,Unranked
+222,A ParaBoost Method to Image Quality Assessment.,2017,"Tsung-Jung Liu, Kuan-Hsien Liu, Joe Yuchieh Lin, Weisi Lin, C.-C. Jay Kuo",IEEE Trans. Neural Networks Learn. Syst. 28: 107-121 ,TNN,Unranked
+223,Facial action recognition using very deep networks for highly imbalanced class distribution.,2017,"Wan Ding, Dong-Yan Huang, Zhuo Chen, Xinguo Yu, Weisi Lin",APSIPA 2017: 1368-1372,APSIPA,Unranked
+224,Hierarchical Feature Degradation Based Blind Image Quality Assessment.,2017,"Jinjian Wu, Jichen Zeng, Yongxu Liu, Guangming Shi, Weisi Lin",ICCV Workshops 2017: 510-517,ICCVW,Unranked
+225,Subjective and objective quality evaluation of sonar images for underwater acoustic transmission.,2017,"Weiling Chen, Fei Yuan, En Cheng, Weisi Lin",ICIP 2017: 176-180,ICIP,B
+226,Using multiscale analysis for blind quality assessment of DIBR-synthesized images.,2017,"Ke Gu, Junfei Qiao, Patrick Le Callet, Zhifang Xia, Weisi Lin",ICIP 2017: 745-749,ICIP,B
+227,No-reference image quality assessment with orientation selectivity mechanism.,2017,"Jinjian Wu, Man Zhang, Guangming Shi, Xuemei Xie, Weisi Lin",ICIP 2017: 3150-3154,ICIP,B
+228,CVIQD: Subjective quality evaluation of compressed virtual reality images.,2017,"Wei Sun, Ke Gu, Guangtao Zhai, Siwei Ma, Weisi Lin, Patrick Le Callet",ICIP 2017: 3450-3454,ICIP,B
+229,Benchmarking Screen Content Image Quality Evaluation in Spatial Psychovisual Modulation Display System.,2017,"Yuanchun Chen, Guangtao Zhai, Ke Gu, Xinfeng Zhang, Weisi Lin, Jiantao Zhou",PCM  2017: 629-640,PCM,Unranked
+230,Saliency change based reduced reference image quality assessment.,2017,"Jinjian Wu, Yongxu Liu, Guangming Shi, Weisi Lin",VCIP 2017: 1-4,VCIP,C
+231,Studying Personality through the Content of Posted and Liked Images on Twitter.,2017,"Sharath Chandra Guntuku, Weisi Lin, Jordan Carpenter, Wee Keong Ng, Lyle H. Ungar, Daniel Preotiuc-Pietro",WebSci 2017: 223-227,WEBSCI,Unranked
+232,Image Quality Assessment Guided Deep Neural Networks Training.,2017,"Zhuo Chen, Weisi Lin, Shiqi Wang, Long Xu, Leida Li",CoRR abs/1708.03880 ,CORR,Unranked
+233,An Iterative Co-Saliency Framework for RGBD Images.,2017,"Runmin Cong, Jianjun Lei, Huazhu Fu, Weisi Lin, Qingming Huang, Xiaochun Cao, Chunping Hou",CoRR abs/1711.01371 ,CORR,Unranked
+234,Complex wavelet based quality assessment for AS-OCT images with application to Angle Closure Glaucoma diagnosis.,2016,"Swamidoss Issac Niwas, Vinit Jakhetiya, Weisi Lin, Chee Keong Kwoh, Chelvin C. Sng, Maria Cecilia Aquino, Victor Koh, Paul T. K. Chew",Comput. Methods Programs Biomed. 130: 13-21 ,CMPB,Unranked
+235,Automated anterior segment OCT image analysis for Angle Closure Glaucoma mechanisms classification.,2016,"Swamidoss Issac Niwas, Weisi Lin, Xiaolong Bai, Chee Keong Kwoh, C.-C. Jay Kuo, Chelvin C. Sng, Maria Cecilia Aquino, Paul T. K. Chew",Comput. Methods Programs Biomed. 130: 65-75 ,CMPB,Unranked
+236,Pairwise comparison and rank learning for image quality assessment.,2016,"Long Xu, Jia Li, Weisi Lin, Yun Zhang, Yongbing Zhang, Yihua Yan",Displays 44: 21-26 ,DISPLAYS,Unranked
+237,Subjective and Objective Quality Assessment of Compressed Screen Content Images.,2016,"Shiqi Wang, Ke Gu, Xiang Zhang, Weisi Lin, Li Zhang, Siwei Ma, Wen Gao",IEEE J. Emerg. Sel. Topics Circuits Syst. 6: 532-543 ,ESTICAS,Unranked
+238,No-reference quality assessment of deblocked images.,2016,"Leida Li, Yu Zhou, Weisi Lin, Jinjian Wu, Xinfeng Zhang, Beijing Chen",Neurocomputing 177: 572-584 ,IJON,Unranked
+239,Learning a blind quality evaluation engine of screen content images.,2016,"Ke Gu, Guangtao Zhai, Weisi Lin, Xiaokang Yang, Wenjun Zhang",Neurocomputing 196: 140-149 ,IJON,Unranked
+240,Orientation selectivity based visual pattern for reduced-reference image quality assessment.,2016,"Jinjian Wu, Weisi Lin, Guangming Shi, Leida Li, Yuming Fang",Inf. Sci. 351: 18-29 ,ISCI,Unranked
+241,Saliency-based stereoscopic image retargeting.,2016,"Yuming Fang, Junle Wang, Yuan Yuan, Jianjun Lei, Weisi Lin, Patrick Le Callet",Inf. Sci. 372: 347-358 ,ISCI,Unranked
+242,Learning ECOC Code Matrix for Multiclass Classification with Application to Glaucoma Diagnosis.,2016,"Xiaolong Bai, Swamidoss Issac Niwas, Weisi Lin, Bing-Feng Ju, Chee Keong Kwoh, Lipo Wang, Chelvin C. Sng, Maria Cecilia Aquino, Paul T. K. Chew",J. Medical Syst. 40: 78:1-78:10 ,JMS,Unranked
+243,Special issue on weakly supervised learning.,2016,"Luming Zhang, Rongrong Ji, Yi Zhen, Weisi Lin, Cees Snoek",J. Vis. Commun. Image Represent. 37: 1-2 ,JVCIR,Unranked
+244,Color image quality assessment based on sparse representation and reconstruction residual.,2016,"Leida Li, Wenhan Xia, Yuming Fang, Ke Gu, Jinjian Wu, Weisi Lin, Jiansheng Qian",J. Vis. Commun. Image Represent. 38: 550-560 ,JVCIR,Unranked
+245,Detecting keypoint sets on 3D point clouds via Histogram of Normal Orientations.,2016,"Sai Manoj Prakhya, Bingbing Liu, Weisi Lin",Pattern Recognit. Lett. 83: 42-48 ,PRL,Unranked
+246,Visual structural degradation based reduced-reference image quality assessment.,2016,"Jinjian Wu, Weisi Lin, Yuming Fang, Leida Li, Guangming Shi, S. Issac Niwas",Signal Process. Image Commun. 47: 16-27 ,SPIC,Unranked
+247,On Predicting Visual Comfort of Stereoscopic Images: A Learning to Rank Based Approach.,2016,"Qiuping Jiang, Feng Shao, Weisi Lin, Gangyi Jiang",IEEE Signal Process. Lett. 23: 302-306 ,SPL,Unranked
+248,No-Reference Quality Assessment for Multiply-Distorted Images in Gradient Domain.,2016,"Qiaohong Li, Weisi Lin, Yuming Fang",IEEE Signal Process. Lett. 23: 541-545 ,SPL,Unranked
+249,Low-Complexity Depth Coding by Depth Sensitivity Aware Rate-Distortion Optimization.,2016,"Feng Shao, Weisi Lin, Gangyi Jiang, Mei Yu",IEEE Trans. Broadcast. 62: 94-102 ,TBC,Unranked
+250,Analysis of Distortion Distribution for Pooling in Image Quality Prediction.,2016,"Ke Gu, Shiqi Wang, Guangtao Zhai, Weisi Lin, Xiaokang Yang, Wenjun Zhang",IEEE Trans. Broadcast. 62: 446-456 ,TBC,Unranked
+251,Models of Monocular and Binocular Visual Perception in Quality Assessment of Stereoscopic Images.,2016,"Feng Shao, Weisi Lin, Gangyi Jiang, Qionghai Dai",IEEE Trans. Computational Imaging 2: 123-135 ,TCI,Unranked
+252,Introduction of New Associate Editors.,2016,"Nikolaos V. Boulgouris, David R. Bull, Marco Cagnazzo, Andrea Cavallaro, Gene Cheung, Amit K. Roy-Chowdhury, Pedro Comesaña Alfaro, Shan Du, Sarp Ertürk, Markus Flierl, Gian Luca Foresti, Gang Hua, Zhu Li, Weisi Lin, Siwei Ma, Pramod Kumar Meher, Debargha Mukherjee, Aleksandra Pizurica, Andrea Prati, Paolo Remagnino, Arun Ross, Shin'ichi Satoh, Andreas E. Savakis, Heiko Schwarz, Ling Shao, Shervin Shirmohammadi, Giuseppe Valenzise, Meng Wang, Zhou Wang, Yonggang Wen, Dong Xu, Junsong Yuan, Yuan Yuan",IEEE Trans. Circuits Syst. Video Technol. 26: 253-263 ,TCSV,Unranked
+253,No-Reference Image Blur Assessment Based on Discrete Orthogonal Moments.,2016,"Leida Li, Weisi Lin, Xuesong Wang, Gaobo Yang, Khosro Bahrami, Alex C. Kot",IEEE Trans. Cybern. 46: 39-50 ,TCYB,Unranked
+254,The Analysis of Image Contrast: From Quality Assessment to Automatic Enhancement.,2016,"Ke Gu, Guangtao Zhai, Weisi Lin, Min Liu",IEEE Trans. Cybern. 46: 284-297 ,TCYB,Unranked
+255,Learning Receptive Fields and Quality Lookups for Blind Quality Assessment of Stereoscopic Images.,2016,"Feng Shao, Weisi Lin, Shanshan Wang, Gangyi Jiang, Mei Yu, Qionghai Dai",IEEE Trans. Cybern. 46: 730-743 ,TCYB,Unranked
+256,Toward a Blind Deep Quality Evaluator for Stereoscopic Images Based on Monocular and Binocular Interactions.,2016,"Feng Shao, Weijun Tian, Weisi Lin, Gangyi Jiang, Qionghai Dai",IEEE Trans. Image Process. 25: 2059-2074 ,TIP,Unranked
+257,Understanding Deep Representations Learned in Modeling Users Likes.,2016,"Sharath Chandra Guntuku, Joey Tianyi Zhou, Sujoy Roy, Weisi Lin, Ivor W. Tsang",IEEE Trans. Image Process. 25: 3762-3774 ,TIP,Unranked
+258,Sparse Representation-Based Image Quality Index With Adaptive Sub-Dictionaries.,2016,"Leida Li, Hao Cai, Yabin Zhang, Weisi Lin, Alex C. Kot, Xingming Sun",IEEE Trans. Image Process. 25: 3775-3786 ,TIP,Unranked
+259,Just Noticeable Difference Estimation for Screen Content Images.,2016,"Shiqi Wang, Lin Ma, Yuming Fang, Weisi Lin, Siwei Ma, Wen Gao",IEEE Trans. Image Process. 25: 3838-3851 ,TIP,Unranked
+260,Low-Rank Decomposition-Based Restoration of Compressed Images via Adaptive Noise Estimation.,2016,"Xinfeng Zhang, Weisi Lin, Ruiqin Xiong, Xianming Liu, Siwei Ma, Wen Gao",IEEE Trans. Image Process. 25: 4158-4171 ,TIP,Unranked
+261,Backward Registration-Based Aspect Ratio Similarity for Image Retargeting Quality Assessment.,2016,"Yabin Zhang, Yuming Fang, Weisi Lin, Xinfeng Zhang, Leida Li",IEEE Trans. Image Process. 25: 4286-4297 ,TIP,Unranked
+262,Cross-Examination for Angle-Closure Glaucoma Feature Detection.,2016,"Swamidoss Issac Niwas, Weisi Lin, Chee Keong Kwoh, C.-C. Jay Kuo, Chelvin C. Sng, Maria Cecilia Aquino, Paul T. K. Chew",IEEE J. Biomed. Health Informatics 20: 343-354 ,TITB,Unranked
+263,Guided Image Contrast Enhancement Based on Retrieved Images in Cloud.,2016,"Shiqi Wang, Ke Gu, Siwei Ma, Weisi Lin, Xianming Liu, Wen Gao",IEEE Trans. Multim. 18: 219-232 ,TMM,Unranked
+264,"Blind Quality Assessment of Tone-Mapped Images Via Analysis of Information, Naturalness, and Structure.",2016,"Ke Gu, Shiqi Wang, Guangtao Zhai, Siwei Ma, Xiaokang Yang, Weisi Lin, Wenjun Zhang, Wen Gao",IEEE Trans. Multim. 18: 432-443 ,TMM,Unranked
+265,Free-Energy Principle Inspired Video Quality Metric and Its Use in Video Coding.,2016,"Long Xu, Weisi Lin, Lin Ma, Yongbing Zhang, Yuming Fang, King Ngi Ngan, Songnan Li, Yihua Yan",IEEE Trans. Multim. 18: 590-602 ,TMM,Unranked
+266,Image Sharpness Assessment by Sparse Representation.,2016,"Leida Li, Dong Wu, Jinjian Wu, Haoliang Li, Weisi Lin, Alex C. Kot",IEEE Trans. Multim. 18: 1085-1097 ,TMM,Unranked
+267,Saliency-Guided Quality Assessment of Screen Content Images.,2016,"Ke Gu, Shiqi Wang, Huan Yang, Weisi Lin, Guangtao Zhai, Xiaokang Yang, Wenjun Zhang",IEEE Trans. Multim. 18: 1098-1110 ,TMM,Unranked
+268,A Universal Framework for Salient Object Detection.,2016,"Jianjun Lei, Bingren Wang, Yuming Fang, Weisi Lin, Patrick Le Callet, Nam Ling, Chunping Hou",IEEE Trans. Multim. 18: 1783-1795 ,TMM,Unranked
+269,Do Personality and Culture Influence Perceived Video Quality and Enjoyment?,2016,"Michael James Scott, Sharath Chandra Guntuku, Weisi Lin, Gheorghita Ghinea",IEEE Trans. Multim. 18: 1796-1807 ,TMM,Unranked
+270,Learning Blind Quality Evaluator for Stereoscopic Images Using Joint Sparse Representation.,2016,"Feng Shao, Kemeng Li, Weisi Lin, Gangyi Jiang, Qionghai Dai",IEEE Trans. Multim. 18: 2104-2114 ,TMM,Unranked
+271,Blind Image Quality Assessment Using Statistical Structural and Luminance Features.,2016,"Qiaohong Li, Weisi Lin, Jingtao Xu, Yuming Fang",IEEE Trans. Multim. 18: 2457-2469 ,TMM,Unranked
+272,Aspect Ratio Similarity (ARS) for image retargeting quality assessment.,2016,"Yabin Zhang, Weisi Lin, Xinfeng Zhang, Yuming Fang, Leida Li",ICASSP 2016: 1080-1084,ICASSP,Unranked
+273,A benchmark for robustness analysis of visual tracking algorithms.,2016,"Yuming Fang, Yuan Yuan, Long Xu, Weisi Lin",ICASSP 2016: 1120-1124,ICASSP,Unranked
+274,Enhanced just noticeable difference model with visual regularity consideration.,2016,"Jinjian Wu, Guangming Shi, Weisi Lin, C.-C. Jay Kuo",ICASSP 2016: 1581-1585,ICASSP,Unranked
+275,Quality assessment of 3D synthesized images via disoccluded region discovery.,2016,"Yu Zhou, Leida Li, Ke Gu, Yuming Fang, Weisi Lin",ICIP 2016: 1012-1016,ICIP,B
+276,Quality assessment for image super-resolution based on energy change and texture variation.,2016,"Yuming Fang, Jiaying Liu, Yabin Zhang, Weisi Lin, Zongming Guo",ICIP 2016: 2057-2061,ICIP,B
+277,No-reference image quality assessment based on high order derivatives.,2016,"Qiaohong Li, Weisi Lin, Yuming Fang",ICME 2016: 1-6,ICMCS,Unranked
+278,Audio and face video emotion recognition in the wild using deep neural networks and small datasets.,2016,"Wan Ding, Mingyu Xu, Dong-Yan Huang, Weisi Lin, Minghui Dong, Xinguo Yu, Haizhou Li",ICMI 2016: 506-513,ICMI,B
+279,Quality assessment of contrast-altered images.,2016,"Min Liu, Ke Gu, Guangtao Zhai, Jiantao Zhou, Weisi Lin",ISCAS 2016: 2214-2217,ISCAS,Unranked
+280,No-reference Image Quality Assessment Based on Structural and Luminance Information.,2016,"Qiaohong Li, Weisi Lin, Jingtao Xu, Yuming Fang, Daniel Thalmann",MMM  2016: 301-312,MMM,B
+281,Personalizing User Interfaces for improving quality of experience in VoD recommender systems.,2016,"Sharath Chandra Guntuku, Sujoy Roy, Weisi Lin, Kelvin Ng, Wee Keong Ng, Vinit Jakhetiya",QoMEX 2016: 1-6,QOMEX,Unranked
+282,I2RNTU at SemEval-2016 Task 4: Classifier Fusion for Polarity Classification in Twitter.,2016,"Zhengchen Zhang, Chen Zhang, Fuxiang Wu, Dong-Yan Huang, Weisi Lin, Minghui Dong",SemEval@NAACL-HLT 2016: 71-78,SEMEVAL,Unranked
+283,No-reference image quality assessment based on local region statistics.,2016,"Qiaohong Li, Weisi Lin, Yuming Fang, Xinfeng Zhang, Yabin Zhang",VCIP 2016: 1-4,VCIP,C
+284,Detection and estimation of supra-threshold distortion levels of pictures based on just-noticeable difference.,2016,"Kaifang Yang, Shuai Wan, Hong Ren Wu, Weisi Lin, Damian M. Tan, Yanchao Gong, Leyi Xie",VCIP 2016: 1-4,VCIP,C
+285,Transform-domain in-loop filter with block similarity for HEVC.,2016,"Xinfeng Zhang, Weisi Lin, Ke Gu, Qiaohong Li, Shanshe Wang, Siwei Ma",VCIP 2016: 1-4,VCIP,C
+286,"Personality, Culture, and System Factors - Impact on Affective Response to Multimedia.",2016,"Sharath Chandra Guntuku, Michael James Scott, Gheorghita Ghinea, Weisi Lin",CoRR abs/1606.06873 ,CORR,Unranked
+287,Visual acuity inspired saliency detection by using sparse features.,2015,"Yuming Fang, Weisi Lin, Zhijun Fang, Zhenzhong Chen, Chia-Wen Lin, Chenwei Deng",Inf. Sci. 309: 1-10 ,ISCI,Unranked
+288,Reliable Feature Selection for Automated Angle Closure Glaucoma Mechanism Detection.,2015,"S. Issac Niwas, Weisi Lin, Xiaolong Bai, Chee Keong Kwoh, Chelvin C. Sng, Maria Cecilia Aquino, Paul T. K. Chew",J. Medical Syst. 39: 21 ,JMS,Unranked
+289,Subjective quality evaluation of compressed digital compound images.,2015,"Huan Yang, Yuming Fang, Yuan Yuan, Weisi Lin",J. Vis. Commun. Image Represent. 26: 105-114 ,JVCIR,Unranked
+290,Incremental low-rank and sparse decomposition for compressing videos captured by fixed cameras.,2015,"Chongyu Chen, Jianfei Cai, Weisi Lin, Guangming Shi",J. Vis. Commun. Image Represent. 26: 338-348 ,JVCIR,Unranked
+291,GridSAR: Grid strength and regularity for robust evaluation of blocking artifacts in JPEG images.,2015,"Leida Li, Yu Zhou, Jinjian Wu, Weisi Lin, Haoliang Li",J. Vis. Commun. Image Represent. 30: 153-163 ,JVCIR,Unranked
+292,No-reference hybrid video quality assessment based on partial least squares regression.,2015,"Zhengyou Wang, Wan Wang, Zheng Wan, Yanhui Xia, Weisi Lin",Multim. Tools Appl. 74: 10277-10290 ,MTA,Unranked
+293,Exploiting entropy masking in perceptual graphic rendering.,2015,"Lu Dong, Yuming Fang, Weisi Lin, Chenwei Deng, Ce Zhu, Hock Soon Seah",Signal Process. Image Commun. 33: 1-13 ,SPIC,Unranked
+294,Image retargeting quality assessment based on support vector regression.,2015,"Anmin Liu, Weisi Lin, Hai Chen, Philipp Zhang",Signal Process. Image Commun. 39: 444-456 ,SPIC,Unranked
+295,No-Reference Quality Assessment of Contrast-Distorted Images Based on Natural Scene Statistics.,2015,"Yuming Fang, Kede Ma, Zhou Wang, Weisi Lin, Zhijun Fang, Guangtao Zhai",IEEE Signal Process. Lett. 22: 838-842 ,SPL,Unranked
+296,Using Binocular Feature Combination for Blind Quality Assessment of Stereoscopic Images.,2015,"Feng Shao, Kemeng Li, Weisi Lin, Gangyi Jiang, Mei Yu",IEEE Signal Process. Lett. 22: 1548-1551 ,SPL,Unranked
+297,Visual Saliency Detection With Free Energy Theory.,2015,"Ke Gu, Guangtao Zhai, Weisi Lin, Xiaokang Yang, Wenjun Zhang",IEEE Signal Process. Lett. 22: 1552-1555 ,SPL,Unranked
+298,A Patch-Structure Representation Method for Quality Assessment of Contrast Changed Images.,2015,"Shiqi Wang, Kede Ma, Hojatollah Yeganeh, Zhou Wang, Weisi Lin",IEEE Signal Process. Lett. 22: 2387-2390 ,SPL,Unranked
+299,Blind Image Quality Assessment for Stereoscopic Images Using Binocular Guided Quality Lookup and Visual Codebook.,2015,"Feng Shao, Weisi Lin, Shanshan Wang, Gangyi Jiang, Mei Yu",IEEE Trans. Broadcast. 61: 154-165 ,TBC,Unranked
+300,Scale and Orientation Invariant Text Segmentation for Born-Digital Compound Images.,2015,"Huan Yang, Shiqian Wu, Chenwei Deng, Weisi Lin",IEEE Trans. Cybern. 45: 533-547 ,TCYB,Unranked
+301,Full-Reference Quality Assessment of Stereoscopic Images by Learning Binocular Receptive Field Properties.,2015,"Feng Shao, Kemeng Li, Weisi Lin, Gangyi Jiang, Mei Yu, Qionghai Dai",IEEE Trans. Image Process. 24: 2971-2983 ,TIP,Unranked
+302,No-Reference Image Sharpness Assessment in Autoregressive Parameter Space.,2015,"Ke Gu, Guangtao Zhai, Weisi Lin, Xiaokang Yang, Wenjun Zhang",IEEE Trans. Image Process. 24: 3218-3231 ,TIP,Unranked
+303,Perceptual Quality Assessment of Screen Content Images.,2015,"Huan Yang, Yuming Fang, Weisi Lin",IEEE Trans. Image Process. 24: 4408-4421 ,TIP,Unranked
+304,Visual Orientation Selectivity Based Structure Description.,2015,"Jinjian Wu, Weisi Lin, Guangming Shi, Yazhong Zhang, Weisheng Dong, Zhibo Chen",IEEE Trans. Image Process. 24: 4602-4613 ,TIP,Unranked
+305,Video Compression Artifact Reduction via Spatio-Temporal Multi-Hypothesis Prediction.,2015,"Xinfeng Zhang, Ruiqin Xiong, Weisi Lin, Siwei Ma, Jiaying Liu, Wen Gao",IEEE Trans. Image Process. 24: 6048-6061 ,TIP,Unranked
+306,Visual Object Tracking by Structure Complexity Coefficients.,2015,"Yuan Yuan, Huan Yang, Yuming Fang, Weisi Lin",IEEE Trans. Multim. 17: 1125-1136 ,TMM,Unranked
+307,Perceptual Quality Assessment for 3D Triangle Mesh Based on Curvature.,2015,"Lu Dong, Yuming Fang, Weisi Lin, Hock Soon Seah",IEEE Trans. Multim. 17: 2174-2184 ,TMM,Unranked
+308,Modelling the influence of personality and culture on affect and enjoyment in multimedia.,2015,"Sharath Chandra Guntuku, Weisi Lin, Michael James Scott, Gheorghita Ghinea",ACII 2015: 236-242,ACII,C
+309,Compression noise estimation and reduction via patch clustering.,2015,"Xinfeng Zhang, Weisi Lin, Jiaying Liu, Siwei Ma",APSIPA 2015: 715-718,APSIPA,Unranked
+310,Cloud Based Image Contrast Enhancement.,2015,"Shiqi Wang, Ke Gu, Siwei Ma, Weisi Lin, Xiang Zhang, Wen Gao",BigMM 2015: 148-155,BIGMM,Unranked
+311,Bag-of-words representation for non-intrusive speech quality assessment.,2015,"Qiaohong Li, Weisi Lin, Yuming Fang, Daniel Thalmann",ChinaSIP 2015: 616-619,CHINASIP,Unranked
+312,Reduced-reference image quality assessment with orientation selectivity based visual pattern.,2015,"Jinjian Wu, Guangming Shi, Weisi Lin, Xiaotian Wang",ChinaSIP 2015: 663-666,CHINASIP,Unranked
+313,Performance scoring of singing voice.,2015,"Yang Yu, Weisi Lin, Dong-Yan Huang, Minghui Dong, Haizhou Li",IALP 2015: 119-122,IALP,Unranked
+314,Dense correspondence based prediction for image set compression.,2015,"Yabin Zhang, Weisi Lin, Jianfei Cai",ICASSP 2015: 1240-1244,ICASSP,Unranked
+315,Multi-task rank learning for image quality assessment.,2015,"Long Xu, Jia Li, Weisi Lin, Yongbing Zhang, Lin Ma, Yuming Fang, Yun Zhang, Yihua Yan",ICASSP 2015: 1339-1343,ICASSP,Unranked
+316,Dominant SIFT: A novel compact descriptor.,2015,"Anh T. Tra, Weisi Lin, Alex C. Kot",ICASSP 2015: 1344-1348,ICASSP,Unranked
+317,Observation model based perceptually motivated bilateral filter for image reconstruction.,2015,"Vinit Jakhetiya, Weisi Lin, Sunil Prasad Jaiswal, Anil Kumar Tiwari, Sharath Chandra Guntuku",DSP 2015: 201-205,ICDSP,Unranked
+318,Perceptual screen content image quality assessment and compression.,2015,"Shiqi Wang, Ke Gu, Kai Zeng, Zhou Wang, Weisi Lin",ICIP 2015: 1434-1438,ICIP,B
+319,Is pedestrian detection robust for surveillance?,2015,"Yuan Yuan, Weisi Lin, Yuming Fang",ICIP 2015: 2776-2780,ICIP,B
+320,3D point cloud simplification for image-based localization.,2015,"Wentao Cheng, Weisi Lin, Ming-Ting Sun",ICME Workshops 2015: 1-6,ICMCS,Unranked
+321,Evaluating visual and textual features for predicting user 'likes'.,2015,"Sharath Chandra Guntuku, Sujoy Roy, Weisi Lin",ICME 2015: 1-6,ICMCS,Unranked
+322,Sparse Depth Odometry: 3D keypoint based pose estimation from dense depth data.,2015,"Prakhya Sai Manoj, Bingbing Liu, Weisi Lin, Usman Qayyum",ICRA 2015: 4216-4223,ICRA,A*
+323,B-SHOT: A binary feature descriptor for fast and efficient keypoint matching on 3D point clouds.,2015,"Sai Manoj Prakhya, Bingbing Liu, Weisi Lin",IROS 2015: 1929-1934,IROS,A
+324,Screen image quality assessment incorporating structural degradation measurement.,2015,"Ke Gu, Shiqi Wang, Guangtao Zhai, Siwei Ma, Weisi Lin",ISCAS 2015: 125-128,ISCAS,Unranked
+325,An inter-image redundancy measure for image set compression.,2015,"Xinfeng Zhang, Yabin Zhang, Weisi Lin, Siwei Ma, Wen Gao",ISCAS 2015: 1274-1277,ISCAS,Unranked
+326,Gradient-weighted structural similarity for image quality assessments.,2015,"Qiaohong Li, Yuming Fang, Weisi Lin, Daniel Thalmann",ISCAS 2015: 2165-2168,ISCAS,Unranked
+327,A general histogram modification framework for efficient contrast enhancement.,2015,"Ke Gu, Guangtao Zhai, Shiqi Wang, Min Liu, Jiantao Zhou, Weisi Lin",ISCAS 2015: 2816-2819,ISCAS,Unranked
+328,Nonlocal Adaptive In-Loop Filter via Content-Dependent Soft-Thresholding for HEVC.,2015,"Xinfeng Zhang, Weisi Lin, Shiqi Wang, Siwei Ma",ISM 2015: 465-470,ISM,C
+329,Do Others Perceive You As You Want Them To?: Modeling Personality based on Selfies.,2015,"Sharath Chandra Guntuku, Lin Qiu, Sujoy Roy, Weisi Lin, Vinit Jakhetiya",ASM@ACM Multimedia 2015: 21-26,MM,Unranked
+330,Modelling Human Factors in Perceptual Multimedia Quality: On The Role of Personality and Culture.,2015,"Michael James Scott, Sharath Chandra Guntuku, Huan Yang, Weisi Lin, Gheorghita Ghinea",ACM Multimedia 2015: 481-490,MM,Unranked
+331,Moving Object Tracking with Structure Complexity Coefficients.,2015,"Yuan Yuan, Yuming Fang, Weisi Lin",MMM  2015: 59-70,MMM,B
+332,Personality Modeling Based Image Recommendation.,2015,"Sharath Chandra Guntuku, Sujoy Roy, Weisi Lin",MMM  2015: 171-182,MMM,B
+333,A closed-form estimate of 3D ICP covariance.,2015,"Prakhya Sai Manoj, Bingbing Liu, Yan Rui, Weisi Lin",MVA 2015: 526-529,MVA,National
+334,Improved Salient Object Detection Based on Background Priors.,2015,"Tao Xi, Yuming Fang, Weisi Lin, Yabin Zhang",PCM  2015: 411-420,PCM,Unranked
+335,The CP-QAE-I: A video dataset for exploring the effect of personality and culture on perceived quality and affect in multimedia.,2015,"Sharath Chandra Guntuku, Michael James Scott, Huan Yang, Gheorghita Ghinea, Weisi Lin",QoMEX 2015: 1-7,QOMEX,Unranked
+336,Rate-distortion based sparse coding for image set compression.,2015,"Xinfeng Zhang, Weisi Lin, Siwei Ma, Shiqi Wang, Wen Gao",VCIP 2015: 1-4,VCIP,C
+337,Objective Quality Assessment for Image Retargeting Based on Structural Similarity.,2014,"Yuming Fang, Kai Zeng, Zhou Wang, Weisi Lin, Zhijun Fang, Chia-Wen Lin",IEEE J. Emerg. Sel. Topics Circuits Syst. 4: 95-105 ,ESTICAS,Unranked
+338,Depth Map Coding for View Synthesis Based on Distortion Analyses.,2014,"Feng Shao, Weisi Lin, Gangyi Jiang, Mei Yu, Qionghai Dai",IEEE J. Emerg. Sel. Topics Circuits Syst. 4: 106-117 ,ESTICAS,Unranked
+339,Objective Quality Assessment for Image Retargeting Based on Perceptual Geometric Distortion and Information Loss.,2014,"Chih-Chung Hsu, Chia-Wen Lin, Yuming Fang, Weisi Lin",IEEE J. Sel. Top. Signal Process. 8: 377-389 ,JSTSP,Unranked
+340,Editorial: Special issue on QoE in 2D/3D video systems.,2014,"Tasos Dagiuklas, Luigi Atzori, Periklis Chatzimisios, Chang Wen Chen, Weisi Lin",J. Vis. Commun. Image Represent. 25: 523-524 ,JVCIR,Unranked
+341,Saliency detection in computer rendered images based on object-level contrast.,2014,"Lu Dong, Weisi Lin, Yuming Fang, Shiqian Wu, Hock Soon Seah",J. Vis. Commun. Image Represent. 25: 525-533 ,JVCIR,Unranked
+342,Correlation based universal image/video coding loss recovery.,2014,"Jinjian Wu, Weisi Lin, Guangming Shi, Jimin Xiao",J. Vis. Commun. Image Represent. 25: 1507-1515 ,JVCIR,Unranked
+343,Image Quality Assessment with Degradation on Spatial Structure.,2014,"Jinjian Wu, Weisi Lin, Guangming Shi",IEEE Signal Process. Lett. 21: 437-440 ,SPL,Unranked
+344,Learning Structural Regularity for Evaluating Blocking Artifacts in JPEG Images.,2014,"Leida Li, Weisi Lin, Hancheng Zhu",IEEE Signal Process. Lett. 21: 918-922 ,SPL,Unranked
+345,A Video Saliency Detection Model in Compressed Domain.,2014,"Yuming Fang, Weisi Lin, Zhenzhong Chen, Chia-Ming Tsai, Chia-Wen Lin",IEEE Trans. Circuits Syst. Video Technol. 24: 27-38 ,TCSV,Unranked
+346,Geometric Optimum Experimental Design for Collaborative Image Retrieval.,2014,"Lining Zhang, Lipo Wang, Weisi Lin, Shuicheng Yan",IEEE Trans. Circuits Syst. Video Technol. 24: 346-359 ,TCSV,Unranked
+347,Multiple Description Video Coding Based on Human Visual System Characteristics.,2014,"Huihui Bai, Weisi Lin, Mengmeng Zhang, Anhong Wang, Yao Zhao",IEEE Trans. Circuits Syst. Video Technol. 24: 1390-1394 ,TCSV,Unranked
+348,A Long-Term Reference Frame for Hierarchical B-Picture-Based Video Coding.,2014,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",IEEE Trans. Circuits Syst. Video Technol. 24: 1729-1742 ,TCSV,Unranked
+349,Visual Object Tracking Based on Backward Model Validation.,2014,"Yuan Yuan, Sabu Emmanuel, Yuming Fang, Weisi Lin",IEEE Trans. Circuits Syst. Video Technol. 24: 1898-1910 ,TCSV,Unranked
+350,Saliency-Based Defect Detection in Industrial Images by Using Phase Spectrum.,2014,"Xiaolong Bai, Yuming Fang, Weisi Lin, Lipo Wang, Bing-Feng Ju",IEEE Trans. Ind. Informatics 10: 2135-2145 ,TII,Unranked
+351,Saliency Detection for Stereoscopic Images.,2014,"Yuming Fang, Junle Wang, Manish Narwaria, Patrick Le Callet, Weisi Lin",IEEE Trans. Image Process. 23: 2625-2636 ,TIP,Unranked
+352,Video Saliency Incorporating Spatiotemporal Cues and Uncertainty Weighting.,2014,"Yuming Fang, Zhou Wang, Weisi Lin, Zhijun Fang",IEEE Trans. Image Process. 23: 3910-3921 ,TIP,Unranked
+353,Salient Region Detection by Fusing Bottom-Up and Top-Down Features Extracted From a Single Image.,2014,"Huawei Tian, Yuming Fang, Yao Zhao, Weisi Lin, Rongrong Ni, Zhenfeng Zhu",IEEE Trans. Image Process. 23: 4389-4398 ,TIP,Unranked
+354,Introduction.,2014,"Gheorghita Ghinea, Christian Timmerer, Weisi Lin, Stephen R. Gulliver",ACM Trans. Multim. Comput. Commun. Appl. 11: 9:1-9:2 ,TOMCCAP,Unranked
+355,"Mulsemedia: State of the Art, Perspectives, and Challenges.",2014,"Gheorghita Ghinea, Christian Timmerer, Weisi Lin, Stephen R. Gulliver",ACM Trans. Multim. Comput. Commun. Appl. 11: 17:1-17:23 ,TOMCCAP,Unranked
+356,Advances in Multimedia Content Analysis and Signal Processing.,2014,"Dong Xu, Weisi Lin, Anthony T. S. Ho",J. Signal Process. Syst. 74: 1-3 ,VLSISP,Unranked
+357,Deep Representations to Model User 'Likes'.,2014,"Sharath Chandra Guntuku, Joey Tianyi Zhou, Sujoy Roy, Weisi Lin, Ivor W. Tsang",ACCV  2014: 3-18,ACCV,B
+358,Emotional facial expression transfer based on temporal restricted Boltzmann machines.,2014,"Shuojun Liu, Dong-Yan Huang, Weisi Lin, Minghui Dong, Haizhou Li, Ee Ping Ong",APSIPA 2014: 1-7,APSIPA,Unranked
+359,Multi-operator retargeting based on perceptual structural similarity.,2014,"Yuming Fang, Weisi Lin, Zhou Wang, Zhijun Fang, Long Xu, Yong Yang",ChinaSIP 2014: 416-420,CHINASIP,Unranked
+360,Stereoscopic image retargeting based on 3D saliency detection.,2014,"Junle Wang, Yuming Fang, Manish Narwaria, Weisi Lin, Patrick Le Callet",ICASSP 2014: 669-673,ICASSP,Unranked
+361,Structural uncertainty based just noticeable difference estimation.,2014,"Jinjian Wu, Weisi Lin, Guangming Shi",DSP 2014: 768-771,ICDSP,Unranked
+362,Rate-perceptual-distortion optimization (RpDO) based picture coding - Issues and challenges.,2014,"Hong Ren Wu, Weisi Lin, King Ngi Ngan",DSP 2014: 777-782,ICDSP,Unranked
+363,Operational rate-distortion shape coding with dual error regularization.,2014,"Zhongyuan Lai, Fan Zhang, Weisi Lin",ICIP 2014: 5547-5550,ICIP,B
+364,Learning visual saliency for stereoscopic images.,2014,"Yuming Fang, Weisi Lin, Zhijun Fang, Jianjun Lei, Patrick Le Callet, Feiniu Yuan",ICME Workshops 2014: 1-6,ICMCS,Unranked
+365,Non-intrusive quality assessment for enhanced speech signals based on spectro-temporal features.,2014,"Qiaohong Li, Yuming Fang, Weisi Lin, Daniel Thalmann",ICME Workshops 2014: 1-6,ICMCS,Unranked
+366,Rank learning on training set selection and image quality assessment.,2014,"Long Xu, Weisi Lin, Jia Li, Xu Wang, Yihua Yan, Yuming Fang",ICME 2014: 1-6,ICMCS,Unranked
+367,Reduced-reference image quality assessment with local binary structural pattern.,2014,"Jinjian Wu, Weisi Lin, Guangming Shi, Long Xu",ISCAS 2014: 898-901,ISCAS,Unranked
+368,Study on subjective quality assessment of Digital Compound Images.,2014,"Huan Yang, Weisi Lin, Chenwei Deng, Long Xu",ISCAS 2014: 2149-2152,ISCAS,Unranked
+369,Objective visual quality assessment for 3D meshes.,2014,"Lu Dong, Yuming Fang, Weisi Lin, Hock Soon Seah",QoMEX 2014: 1-6,QOMEX,Unranked
+370,Subjective quality assessment of Screen Content Images.,2014,"Huan Yang, Yuming Fang, Weisi Lin, Zhou Wang",QoMEX 2014: 257-262,QOMEX,Unranked
+371,Video coding with dynamic background.,2013,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",EURASIP J. Adv. Signal Process. 2013: 11 ,EJASP,Unranked
+372,Pattern-based video coding with dynamic background modeling.,2013,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",EURASIP J. Adv. Signal Process. 2013: 138 ,EJASP,Unranked
+373,Blind Measurement of Blocking Artifacts of Images Based on Edge and Flat-region Detection.,2013,"Yanhui Xia, Zhengyou Wang, Wan Wang, Jin Wang, Zheng Wan, Weisi Lin",J. Softw. 8: 168-175 ,JSW,Unranked
+374,Fast synthesized and predicted just noticeable distortion maps for perceptual multiview video coding.,2013,"Yu Gao, Xiaoyu Xiu, Jie Liang, Weisi Lin",J. Vis. Commun. Image Represent. 24: 700-707 ,JVCIR,Unranked
+375,Perceptual Visual Signal Compression and Transmission.,2013,"Hong Ren Wu, Amy R. Reibman, Weisi Lin, F. Pereira, Sheila S. Hemami",Proc. IEEE 101: 2025-2043 ,PIEEE,Unranked
+376,Scene-Based Movie Summarization Via Role-Community Networks.,2013,"Chia-Ming Tsai, Li-Wei Kang, Chia-Wen Lin, Weisi Lin",IEEE Trans. Circuits Syst. Video Technol. 23: 1927-1940 ,TCSV,Unranked
+377,Perceptual Quality Metric With Internal Generative Mechanism.,2013,"Jinjian Wu, Weisi Lin, Guangming Shi, Anmin Liu",IEEE Trans. Image Process. 22: 43-54 ,TIP,Unranked
+378,Additive White Gaussian Noise Level Estimation in SVD Domain for Images.,2013,"Wei Liu, Weisi Lin",IEEE Trans. Image Process. 22: 872-883 ,TIP,Unranked
+379,Additive Log-Logistic Model for Networked Video Quality Assessment.,2013,"Fan Zhang, Weisi Lin, Zhibo Chen, King Ngi Ngan",IEEE Trans. Image Process. 22: 1536-1547 ,TIP,Unranked
+380,Image Quality Assessment Using Multi-Method Fusion.,2013,"Tsung-Jung Liu, Weisi Lin, C.-C. Jay Kuo",IEEE Trans. Image Process. 22: 1793-1807 ,TIP,Unranked
+381,Perceptual Full-Reference Quality Assessment of Stereoscopic Images by Considering Binocular Visual Characteristics.,2013,"Feng Shao, Weisi Lin, Shanbo Gu, Gangyi Jiang, Thambipillai Srikanthan",IEEE Trans. Image Process. 22: 1940-1953 ,TIP,Unranked
+382,Pattern Masking Estimation in Image With Structural Uncertainty.,2013,"Jinjian Wu, Weisi Lin, Guangming Shi, Xiaotian Wang, Fu Li",IEEE Trans. Image Process. 22: 4892-4904 ,TIP,Unranked
+383,A Saliency Detection Model Using Low-Level Features Based on Wavelet Transform.,2013,"Nevrez Imamoglu, Weisi Lin, Yuming Fang",IEEE Trans. Multim. 15: 96-105 ,TMM,Unranked
+384,Reduced-Reference Image Quality Assessment With Visual Information Fidelity.,2013,"Jinjian Wu, Weisi Lin, Guangming Shi, Anmin Liu",IEEE Trans. Multim. 15: 1700-1705 ,TMM,Unranked
+385,Just Noticeable Difference Estimation for Images With Free-Energy Principle.,2013,"Jinjian Wu, Guangming Shi, Weisi Lin, Anmin Liu, Fei Qi",IEEE Trans. Multim. 15: 1705-1710 ,TMM,Unranked
+386,Joint Bit Allocation and Rate Control for Coding Multi-View Video Plus Depth Based 3D Video.,2013,"Feng Shao, Gangyi Jiang, Weisi Lin, Mei Yu, Qionghai Dai",IEEE Trans. Multim. 15: 1843-1854 ,TMM,Unranked
+387,Visual-saliency-enhanced image quality assessment indices.,2013,"Joe Yuchieh Lin, Tsung-Jung Liu, Weisi Lin, C.-C. Jay Kuo",APSIPA 2013: 1-4,APSIPA,Unranked
+388,A novel NMF-based image quality assessment metric using extreme learning machine.,2013,"Shuigen Wang, Chenwei Deng, Weisi Lin, Guang-Bin Huang",ChinaSIP 2013: 255-258,CHINASIP,Unranked
+389,A semantic subspace learning method to exploit relevance feedback log data for image retrieval.,2013,"Lining Zhang, Lipo Wang, Weisi Lin",CIDM 2013: 178-183,CIDM,C
+390,2D mel-cepstrum based saliency detection.,2013,"Nevrez Imamoglu, Yuming Fang, Wenwei Yu, Weisi Lin",ICIP 2013: 236-239,ICIP,B
+391,A novel SVD-based image quality assessment metric.,2013,"Shuigen Wang, Chenwei Deng, Weisi Lin, Baojun Zhao, Jie Chen",ICIP 2013: 423-426,ICIP,B
+392,Video saliency incorporating spatiotemporal cues and uncertainty weighting.,2013,"Yuming Fang, Zhou Wang, Weisi Lin",ICME 2013: 1-6,ICMCS,Unranked
+393,Visual object tracking based on appearance model selection.,2013,"Yuan Yuan, Sabu Emmanuel, Weisi Lin, Yuming Fang",ICME Workshops 2013: 1-4,ICMCS,Unranked
+394,Visual masking estimation based on structural uncertainty.,2013,"Jinjian Wu, Weisi Lin, Guangming Shi",ISCAS 2013: 933-936,ISCAS,Unranked
+395,Overview of quality assessment for visual signals and newly emerged trends.,2013,"Lin Ma, Chenwei Deng, King N. Ngan, Weisi Lin",ISCAS 2013: 1091-1094,ISCAS,Unranked
+396,To exploit uncertainty masking for adaptive image rendering.,2013,"Lu Dong, Weisi Lin, Chenwei Deng, Ce Zhu, Hock Soon Seah",ISCAS 2013: 2848-2851,ISCAS,Unranked
+397,A saliency detection model based on sparse features and visual acuity.,2013,"Yuming Fang, Weisi Lin, Zhenzhong Chen, Chia-Wen Lin, Zhijun Fang, Chenwei Deng",ISCAS 2013: 2888-2891,ISCAS,Unranked
+398,Detection of salient objects in computer synthesized images based on object-level contrast.,2013,"Lu Dong, Weisi Lin, Yuming Fang, Shiqian Wu, Hock Soon Seah",VCIP 2013: 1-6,VCIP,C
+399,Saliency detection for stereoscopic images.,2013,"Yuming Fang, Junle Wang, Manish Narwaria, Patrick Le Callet, Weisi Lin",VCIP 2013: 1-6,VCIP,C
+400,Objective quality assessment for image retargeting based on perceptual distortion and information loss.,2013,"Chih-Chung Hsu, Chia-Wen Lin, Yuming Fang, Weisi Lin",VCIP 2013: 1-6,VCIP,C
+401,Visual quality metric for perceptual video coding.,2013,"Long Xu, Lin Ma, King Ngi Ngan, Weisi Lin, Ying Weng",VCIP 2013: 1-5,VCIP,C
+402,Introduction to the Special Issue on New Subjective and Objective Methodologies for Audio and Visual Signal Processing.,2012,"Weisi Lin, Touradj Ebrahimi, Philipos C. Loizou, Sebastian Möller, Amy R. Reibman",IEEE J. Sel. Top. Signal Process. 6: 614-615 ,JSTSP,Unranked
+403,Image Retargeting Quality Assessment: A Study of Subjective Scores and Objective Metrics.,2012,"Lin Ma, Weisi Lin, Chenwei Deng, King Ngi Ngan",IEEE J. Sel. Top. Signal Process. 6: 626-639 ,JSTSP,Unranked
+404,Scalable image quality assessment with 2D mel-cepstrum and machine learning approach.,2012,"Manish Narwaria, Weisi Lin, A. Enis Çetin",Pattern Recognit. 45: 299-313 ,PR,Unranked
+405,Reducing location map in prediction-based difference expansion for reversible image data embedding.,2012,"Minglei Liu, Hock Soon Seah, Ce Zhu, Weisi Lin, Feng Tian",Signal Process. 92: 819-828 ,SIGPRO,Unranked
+406,Nonintrusive Quality Assessment of Noise Suppressed Speech With Mel-Filtered Energies and Support Vector Regression.,2012,"Manish Narwaria, Weisi Lin, Ian Vince McLoughlin, Sabu Emmanuel, Liang-Tien Chia",IEEE Trans. Speech Audio Process. 20: 1217-1232 ,TASLP,Unranked
+407,A Psychovisual Quality Metric in Free-Energy Principle.,2012,"Guangtao Zhai, Xiaolin Wu, Xiaokang Yang, Weisi Lin, Wenjun Zhang",IEEE Trans. Image Process. 21: 41-52 ,TIP,Unranked
+408,Low-Complexity Video Coding Based on Two-Dimensional Singular Value Decomposition.,2012,"Zhouye Gu, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau",IEEE Trans. Image Process. 21: 674-687 ,TIP,Unranked
+409,Image Quality Assessment Based on Gradient Similarity.,2012,"Anmin Liu, Weisi Lin, Manish Narwaria",IEEE Trans. Image Process. 21: 1500-1512 ,TIP,Unranked
+410,Semisupervised Biased Maximum Margin Analysis for Interactive Image Retrieval.,2012,"Lining Zhang, Lipo Wang, Weisi Lin",IEEE Trans. Image Process. 21: 2294-2308 ,TIP,Unranked
+411,Fourier Transform-Based Scalable Image Quality Measure.,2012,"Manish Narwaria, Weisi Lin, Ian Vince McLoughlin, Sabu Emmanuel, Liang-Tien Chia",IEEE Trans. Image Process. 21: 3364-3377 ,TIP,Unranked
+412,Conjunctive Patches Subspace Learning With Side Information for Collaborative Image Retrieval.,2012,"Lining Zhang, Lipo Wang, Weisi Lin",IEEE Trans. Image Process. 21: 3707-3720 ,TIP,Unranked
+413,Saliency Detection in the Compressed Domain for Adaptive Image Retargeting.,2012,"Yuming Fang, Zhenzhong Chen, Weisi Lin, Chia-Wen Lin",IEEE Trans. Image Process. 21: 3888-3901 ,TIP,Unranked
+414,Mode-Dependent Templates and Scan Order for H.264/AVC-Based Intra Lossless Coding.,2012,"Zhouye Gu, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau, Ming-Ting Sun",IEEE Trans. Image Process. 21: 4106-4116 ,TIP,Unranked
+415,Rotated Orthogonal Transform (ROT) for Motion-Compensation Residual Coding.,2012,"Zhouye Gu, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau",IEEE Trans. Image Process. 21: 4770-4781 ,TIP,Unranked
+416,Bottom-Up Saliency Detection Model Based on Human Visual Sensitivity and Amplitude Spectrum.,2012,"Yuming Fang, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau, Zhenzhong Chen, Chia-Wen Lin",IEEE Trans. Multim. 14: 187-198 ,TMM,Unranked
+417,Robust Image Coding Based Upon Compressive Sensing.,2012,"Chenwei Deng, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau",IEEE Trans. Multim. 14: 278-290 ,TMM,Unranked
+418,Low-Complexity Video Quality Assessment Using Temporal Quality Variations.,2012,"Manish Narwaria, Weisi Lin, Anmin Liu",IEEE Trans. Multim. 14: 525-535 ,TMM,Unranked
+419,HodgeRank on Random Graphs for Subjective Video Quality Assessment.,2012,"Qianqian Xu, Qingming Huang, Tingting Jiang, Bowei Yan, Weisi Lin, Yuan Yao",IEEE Trans. Multim. 14: 844-857 ,TMM,Unranked
+420,Content-Based Image Compression for Arbitrary-Resolution Display Devices.,2012,"Chenwei Deng, Weisi Lin, Jianfei Cai",IEEE Trans. Multim. 14: 1127-1139 ,TMM,Unranked
+421,Discretized-Vapnik-Chervonenkis Dimension for Analyzing Complexity of Real Function Classes.,2012,"Chao Zhang, Wei Bian, Dacheng Tao, Weisi Lin",IEEE Trans. Neural Networks Learn. Syst. 23: 1461-1472 ,TNN,Unranked
+422,Generalized Biased Discriminant Analysis for Content-Based Image Retrieval.,2012,"Lining Zhang, Lipo Wang, Weisi Lin",IEEE Trans. Syst. Man Cybern. Part B 42: 282-290 ,TSMC,Unranked
+423,SVD-Based Quality Metric for Image and Video Using Machine Learning.,2012,"Manish Narwaria, Weisi Lin",IEEE Trans. Syst. Man Cybern. Part B 42: 347-364 ,TSMC,Unranked
+424,A fusion approach to video quality assessment based on temporal decomposition.,2012,"Tsung-Jung Liu, Weisi Lin, C.-C. Jay Kuo",APSIPA 2012: 1-5,APSIPA,Unranked
+425,No-reference image quality assessment for compressed images based on DCT coefficient distribution and PSNR estimation.,2012,"Zhengyou Wang, Wan Wang, Zhenxing Li, Jin Wang, Weisi Lin",APSIPA 2012: 1-4,APSIPA,Unranked
+426,Just noticeable distortion map prediction for perceptual multiview video coding.,2012,"Yu Gao, Xiaoyu Xiu, Jie Liang, Weisi Lin",ICIP 2012: 1045-1048,ICIP,B
+427,An Overview of Perceptual Processing for Digital Pictures.,2012,"Hong Ren Wu, Weisi Lin, Lina J. Karam",ICME Workshops 2012: 113-120,ICMCS,Unranked
+428,Gaussian Noise Level Estimation in SVD Domain for Images.,2012,"Wei Liu, Weisi Lin",ICME 2012: 830-835,ICMCS,Unranked
+429,Laplacian Regularized Subspace Learning for interactive image re-ranking.,2012,"Lining Zhang, Lipo Wang, Weisi Lin",IJCNN 2012: 1-5,IJCNN,B
+430,Study of subjective and objective quality assessment of retargeted images.,2012,"Lin Ma, Weisi Lin, Chenwei Deng, King N. Ngan",ISCAS 2012: 2677-2680,ISCAS,Unranked
+431,Video saliency detection in the compressed domain.,2012,"Yuming Fang, Weisi Lin, Zhenzhong Chen, Chia-Ming Tsai, Chia-Wen Lin",ACM Multimedia 2012: 697-700,MM,Unranked
+432,Surveillance video coding via low-rank and sparse decomposition.,2012,"Chongyu Chen, Jianfei Cai, Weisi Lin, Guangming Shi",ACM Multimedia 2012: 713-716,MM,Unranked
+433,Learning based screen image compression.,2012,"Huan Yang, Weisi Lin, Chenwei Deng",MMSP 2012: 77-82,MMSP,C
+434,DECA: Recovering fields of physical quantities from incomplete sensory data.,2012,"Liu Xiang, Jun Luo, Chenwei Deng, Athanasios V. Vasilakos, Weisi Lin",SECON 2012: 182-190,SECON,B
+435,"Advances in Multimedia Information Processing - PCM 2012 - 13th Pacific-Rim Conference on Multimedia, Singapore, December 4-6, 2012. Proceedings.",2012,"Weisi Lin, Dong Xu, Anthony T. S. Ho, Jianxin Wu, Ying He, Jianfei Cai, Mohan S. Kankanhalli, Ming-Ting Sun","Lecture Notes in Computer Science 7674, Springer 2012, ISBN 978-3-642-34777-1 ",PCM,Unranked
+436,Perceptual visual quality metrics: A survey.,2011,"Weisi Lin, C.-C. Jay Kuo",J. Vis. Commun. Image Represent. 22: 297-312 ,JVCIR,Unranked
+437,"Performance analysis, parameter selection and extensions to H.264/AVC FRExt for high resolution video coding.",2011,"Chenwei Deng, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau, Ming-Ting Sun",J. Vis. Commun. Image Represent. 22: 749-759 ,JVCIR,Unranked
+438,Explore and Model Better I-Frames for Video Coding.,2011,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",IEEE Trans. Circuits Syst. Video Technol. 21: 1242-1254 ,TCSV,Unranked
+439,Direct Intermode Selection for H.264 Video Coding Using Phase Correlation.,2011,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",IEEE Trans. Image Process. 20: 461-473 ,TIP,Unranked
+440,Optimal Compression Plane for Efficient Video Coding.,2011,"Anmin Liu, Weisi Lin, Manoranjan Paul, Fan Zhang, Chenwei Deng",IEEE Trans. Image Process. 20: 2788-2799 ,TIP,Unranked
+441,Spread Spectrum Image Watermarking Based on Perceptual Quality Metric.,2011,"Fan Zhang, Wenyu Liu, Weisi Lin, King Ngi Ngan",IEEE Trans. Image Process. 20: 3207-3218 ,TIP,Unranked
+442,Integrating Visual Saliency and Consistency for Re-Ranking Image Search Results.,2011,"Jun Huang, Xiaokang Yang, Xiangzhong Fang, Weisi Lin, Rui Zhang",IEEE Trans. Multim. 13: 653-661 ,TMM,Unranked
+443,Biased subspace learning for SVM Relevance Feedback in Content-Based Image Retrieval.,2011,"Lining Zhang, Lipo Wang, Weisi Lin",ICICS 2011: 1-5,IEEEICICS,Unranked
+444,Efficient Video Coding Considering a Video as a 3D Data Cube.,2011,"Manoranjan Paul, Weisi Lin",DICTA 2011: 170-174,DICTA,Australasian C
+445,Unsupervised malaria parasite detection based on phase spectrum.,2011,"Yuming Fang, Wei Xiong, Weisi Lin, Zhenzhong Chen",EMBC 2011: 7997-8000,EMBC,Unranked
+446,A visual attention model combining top-down and bottom-up mechanisms for salient object detection.,2011,"Yuming Fang, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",ICASSP 2011: 1293-1296,ICASSP,Unranked
+447,Content-Based Image Compression for Arbitrary-Resolution Display Devices.,2011,"Chenwei Deng, Weisi Lin, Jianfei Cai",ICC 2011: 1-5,ICC,Unranked
+448,Machine learning based modeling of spatial and temporal factors for video quality assessment.,2011,"Manish Narwaria, Weisi Lin",ICIP 2011: 2513-2516,ICIP,B
+449,McFIS in hierarchical bipredictve pictures-based video coding for referencing the stable area in a scene.,2011,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",ICIP 2011: 3521-3524,ICIP,B
+450,Fast environment matting extraction using compressive sensing.,2011,"Qi Duan, Jianfei Cai, Jianmin Zheng, Weisi Lin",ICME 2011: 1-6,ICMCS,Unranked
+451,Video quality assessment using temporal quality variations and machine learning.,2011,"Manish Narwaria, Weisi Lin",ICME 2011: 1-6,ICMCS,Unranked
+452,Perceptual multiview video coding using synthesized Just Noticeable Distortion maps.,2011,"Yu Gao, Xiaoyu Xiu, Jie Liang, Weisi Lin",ISCAS 2011: 2153-2156,ISCAS,Unranked
+453,Visual attention model for target search in cluttered scene.,2011,"Nevrez Imamoglu, Weisi Lin",IVMSP 2011: 147-152,IVMSP,Unranked
+454,Selective rendering with graphical saliency model.,2011,"Lu Dong, Weisi Lin, Ce Zhu, Hock Soon Seah",IVMSP 2011: 159-164,IVMSP,Unranked
+455,Random partial paired comparison for subjective video quality assessment via hodgerank.,2011,"Qianqian Xu, Tingting Jiang, Yuan Yao, Qingming Huang, Bowei Yan, Weisi Lin",ACM Multimedia 2011: 393-402,MM,Unranked
+456,Saliency-based image retargeting in the compressed domain.,2011,"Yuming Fang, Zhenzhong Chen, Weisi Lin, Chia-Wen Lin",ACM Multimedia 2011: 1049-1052,MM,Unranked
+457,Adaptive Orthogonal Transform for Motion Compensation Residual in Video Compression.,2011,"Zhouye Gu, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau",MMM  2011: 40-50,MMM,B
+458,Bottom-Up Saliency Detection Model Based on Amplitude Spectrum.,2011,"Yuming Fang, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau, Chia-Wen Lin",MMM  2011: 370-380,MMM,B
+459,A multi-metric fusion approach to visual quality assessment.,2011,"Tsung-Jung Liu, Weisi Lin, C.-C. Jay Kuo",QoMEX 2011: 72-77,QOMEX,Unranked
+460,Image retargeting based on the sensitivity-tuned visual significance map.,2011,"Yuming Fang, Zhenzhong Chen, Weisi Lin, Chia-Wen Lin, Chia-Ming Tsai",VCIP 2011: 1-4,VCIP,C
+461,Blind Measurement of Image Blur for Vision-Based Applications.,2011,"Shiqian Wu, Shoulie Xie, Weisi Lin","Multimedia Analysis, Processing and Communications 2011: 185-215",SCI,Unranked
+462,"Multimedia Analysis, Processing and Communications.",2011,"Weisi Lin, Dacheng Tao, Janusz Kacprzyk, Zhu Li, Ebroul Izquierdo, Haohong Wang","2011, ISBN 978-3-642-19550-1 ",SCI,Unranked
+463,Dual-Level Compressed Aggregation: Recovering Fields of Physical Quantities from Incomplete Sensory Data.,2011,"Liu Xiang, Jun Luo, Chenwei Deng, Athanasios V. Vasilakos, Weisi Lin",CoRR abs/1107.4873 ,CORR,Unranked
+464,Performance of reconstruction-based super-resolution with regularization.,2010,"Minmin Shen, Ci Wang, Ping Xue, Weisi Lin",J. Vis. Commun. Image Represent. 21: 640-650 ,JVCIR,Unranked
+465,Bayesian Error Concealment With DCT Pyramid for Images.,2010,"Guangtao Zhai, Xiaokang Yang, Weisi Lin, Wenjun Zhang",IEEE Trans. Circuits Syst. Video Technol. 20: 1224-1232 ,TCSV,Unranked
+466,Just Noticeable Difference for Images With Decomposition Model for Separating Edge and Textured Regions.,2010,"Anmin Liu, Weisi Lin, Manoranjan Paul, Chenwei Deng, Fan Zhang",IEEE Trans. Circuits Syst. Video Technol. 20: 1648-1652 ,TCSV,Unranked
+467,Objective image quality assessment based on support vector regression.,2010,"Manish Narwaria, Weisi Lin",IEEE Trans. Neural Networks 21: 515-519 ,TNN,Unranked
+468,Video coding using the most common frame in scene.,2010,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",ICASSP 2010: 734-737,ICASSP,Unranked
+469,Bayesian error concealment with DCT pyramid.,2010,"Guangtao Zhai, Xiaokang Yang, Weisi Lin, Wenjun Zhang, Yi Xu",ICASSP 2010: 1366-1369,ICASSP,Unranked
+470,Two dimensional Singular Value Decomposition (2D-SVD) based video coding.,2010,"Zhouye Gu, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau, Manoranjan Paul",ICIP 2010: 181-184,ICIP,B
+471,Enhanced Just Noticeable Difference (JND) estimation with image decomposition.,2010,"Anmin Liu, Weisi Lin, Fan Zhang, Manoranjan Paul",ICIP 2010: 317-320,ICIP,B
+472,Comparison between H.264/AVC and Motion jpeg2000 for super-high definition video coding.,2010,"Chenwei Deng, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau, Manoranjan Paul",ICIP 2010: 2037-2040,ICIP,B
+473,Pattern based video coding with uncovered background.,2010,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",ICIP 2010: 2065-2068,ICIP,B
+474,Optimal compression plane (OCP) - A new framework for H.264 video coding.,2010,"Anmin Liu, Weisi Lin, Manoranjan Paul, Chenwei Deng",ICME 2010: 456-461,ICMCS,Unranked
+475,Robust image compression based on compressive sensing.,2010,"Chenwei Deng, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau",ICME 2010: 462-467,ICMCS,Unranked
+476,Perceptual video coding: Challenges and approaches.,2010,"Zhenzhong Chen, Weisi Lin, King Ngi Ngan",ICME 2010: 784-789,ICMCS,Unranked
+477,McFIS: Better I-frame for video coding.,2010,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",ISCAS 2010: 2171-2174,ISCAS,Unranked
+478,Simultaneous deblocking and error concealment for decoded visual signal.,2010,"Guangtao Zhai, Xiaokang Yang, Weisi Lin, Wenjun Zhang",ISCAS 2010: 2626-2629,ISCAS,Unranked
+479,Non-intrusive Speech Quality Assessment with Support Vector Regression.,2010,"Manish Narwaria, Weisi Lin, Ian Vince McLoughlin, Sabu Emmanuel, Liang-Tien Chia",MMM 2010: 325-335,MMM,B
+480,Perceptual image quality assessment: recent progress and trends.,2010,"Weisi Lin, Manish Narwaria",VCIP 2010: 774403,VCIP,C
+481,Blind blur assessment for vision-based applications.,2009,"Shiqian Wu, Weisi Lin, Shoulie Xie, Zhongkang Lu, Ee Ping Ong, Susu Yao",J. Vis. Commun. Image Represent. 20: 231-241 ,JVCIR,Unranked
+482,Efficient quadtree based block-shift filtering for deblocking and deringing.,2009,"Guangtao Zhai, Weisi Lin, Jianfei Cai, Xiaokang Yang, Wenjun Zhang",J. Vis. Commun. Image Represent. 20: 595-607 ,JVCIR,Unranked
+483,A comparative study on attention-based rate adaptation for scalable video coding.,2009,"Chia-Ming Tsai, Chia-Wen Lin, Weisi Lin, Wen-Hsiao Peng",ICIP 2009: 969-972,ICIP,B
+484,Lossless video compression with optimal compression plane determination.,2009,"Anmin Liu, Weisi Lin, Fan Zhang",ICME 2009: 173-176,ICMCS,Unranked
+485,Scalable image quality assessment based on structural vectors.,2009,"Manish Narwaria, Weisi Lin",MMSP 2009: 1-6,MMSP,C
+486,Perception Based Down Sampling for Low Bit Rate Image Coding.,2009,"Anmin Liu, Weisi Lin",PCM 2009: 212-221,PCM,Unranked
+487,Unified deblocking for discrete cosine transfer compressed images.,2008,"Guangtao Zhai, Wenjun Zhang, Xiaokang Yang, Weisi Lin, Yi Xu",J. Electronic Imaging 17: 043021 ,JEI,Unranked
+488,Analysis of the H.264 advanced video coding standard and an associated rate control scheme.,2008,"Ping Li, Weisi Lin, Xiaokang Yang",J. Electronic Imaging 17: 043023 ,JEI,Unranked
+489,Just-noticeable difference estimation with pixels in images.,2008,"Xiaohui Zhang, Weisi Lin, Ping Xue",J. Vis. Commun. Image Represent. 19: 30-41 ,JVCIR,Unranked
+490,Skin heat transfer model of facial thermograms and its application in face recognition.,2008,"Shiqian Wu, Weisi Lin, Shoulie Xie",Pattern Recognit. 41: 2718-2729 ,PR,Unranked
+491,Layered image resizing in compression domain.,2008,"Ci Wang, Ping Xue, Weisi Lin",Signal Process. Image Commun. 23: 58-69 ,SPIC,Unranked
+492,No-reference noticeable blockiness estimation in images.,2008,"Guangtao Zhai, Wenjun Zhang, Xiaokang Yang, Weisi Lin, Yi Xu",Signal Process. Image Commun. 23: 417-432 ,SPIC,Unranked
+493,Three Dimensional Scalable Video Adaptation via User-End Perceptual Quality Assessment.,2008,"Guangtao Zhai, Jianfei Cai, Weisi Lin, Xiaokang Yang, Wenjun Zhang",IEEE Trans. Broadcast. 54: 719-727 ,TBC,Unranked
+494,Efficient Image Deblocking Based on Postfiltering in Shifted Windows.,2008,"Guangtao Zhai, Wenjun Zhang, Xiaokang Yang, Weisi Lin, Yi Xu",IEEE Trans. Circuits Syst. Video Technol. 18: 122-126 ,TCSV,Unranked
+495,"Efficient Deblocking With Coefficient Regularization, Shape-Adaptive Filtering, and Quantization Constraint.",2008,"Guangtao Zhai, Wenjun Zhang, Xiaokang Yang, Weisi Lin, Yi Xu",IEEE Trans. Multim. 10: 735-745 ,TMM,Unranked
+496,Cross-Dimensional Perceptual Quality Assessment for Low Bit-Rate Videos.,2008,"Guangtao Zhai, Jianfei Cai, Weisi Lin, Xiaokang Yang, Wenjun Zhang, Minoru Etoh",IEEE Trans. Multim. 10: 1316-1324 ,TMM,Unranked
+497,Defocus Estimation from a Single Image.,2008,"Shiqian Wu, Weisi Lin",ICCCN 2008: 935-939,ICCCN,B
+498,Image error-concealment via Block-based Bilateral Filtering.,2008,"Guangtao Zhai, Jianfei Cai, Weisi Lin, Xiaokang Yang, Wenjun Zhang",ICME 2008: 621-624,ICMCS,Unranked
+499,Cross-dimensional quality assessment for low bitrate video.,2008,"Guangtao Zhai, Weisi Lin, Jianfei Cai, Xiaokang Yang, Wenjun Zhang, Minoru Etoh",ISCAS 2008: 400-403,ISCAS,Unranked
+500,Image deringing using quadtree based block-shift filtering.,2008,"Guangtao Zhai, Jianfei Cai, Weisi Lin, Xiaokang Yang, Wenjun Zhang",ISCAS 2008: 708-711,ISCAS,Unranked
+501,Adaptive downsampling/upsampling for better video compression at low bit rate.,2008,"Viet Anh Nguyen, Yap-Peng Tan, Weisi Lin",ISCAS 2008: 1624-1627,ISCAS,Unranked
+502,Recover image coding loss with LMS filtering.,2008,"Weisi Lin, Jinghong Zheng, Li Dong",ISCAS 2008: 3562-3565,ISCAS,Unranked
+503,Gauging Image and Video Quality in Industrial Applications.,2008,Weisi Lin,Advances of Computational Intelligence in Industrial Systems 2008: 117-137,SCI,Unranked
+504,Using edge direction information for measuring blocking artifacts of images.,2007,"Feng Pan, Xiao Lin, Susanto Rahardja, Ee Ping Ong, Weisi Lin",Multidimens. Syst. Signal Process. 18: 297-308 ,MSSP,Unranked
+505,Video Quality Metrics - An Analysis for Low Bit Rate Videos.,2007,"Ee Ping Ong, Mei Hwan Loke, Weisi Lin, Zhongkang Lu, Susu Yao",ICASSP  2007: 889-892,ICASSP,Unranked
+506,Blind Image Blur Identification in Cepstrum Domain.,2007,"Shiqian Wu, Zhongkang Lu, Ee Ping Ong, Weisi Lin",ICCCN 2007: 1166-1171,ICCCN,B
+507,Perceptual Quality Evaluation on Periodic Frame-Dropping Video.,2007,"Zhongkang Lu, Weisi Lin, Choong Seng Boon, Sadaatsu Kato, Ee Ping Ong, Susu Yao",ICIP  2007: 433-436,ICIP,B
+508,Image Quality Measure using Curvature Similarity.,2007,"Susu Yao, Weisi Lin, Zhongkang Lu, Ee Ping Ong, Mei Hwan Loke, Shiqian Wu",ICIP  2007: 437-440,ICIP,B
+509,Image Super-Resolution Framework with Multi-Channel Constraints.,2007,"Ci Wang, Ping Xue, Weisi Lin, Minmin Shen",ICME 2007: 456-459,ICMCS,Unranked
+510,An Adaptive Deblocking Filter for ROI-Based Scalable Video Coding.,2007,"Zhongkang Lu, Jinghong Zheng, Shiqian Wu, Weisi Lin, Susanto Rahardja",ICME 2007: 1347-1350,ICMCS,Unranked
+511,Content-Based Quality Evaluation on Frame-Dropped and Blurred Video.,2007,"Zhongkang Lu, Weisi Lin, Ee Ping Ong, Susu Yao, Shiqian Wu, Choong Seng Boon, Sadaatsu Kato",ICME 2007: 1455-1458,ICMCS,Unranked
+512,A Unified Framework for Removing Blocking Artifacts.,2007,"Guangtao Zhai, Wenjun Zhang, Xiaokang Yang, Weisi Lin, Yi Xu",ICME 2007: 1623-1626,ICMCS,Unranked
+513,Blind Blur Assessment for Vision-Based Applications.,2007,"Shiqian Wu, Weisi Lin, Zhongkang Lu, Ee Ping Ong, Susu Yao",ICME 2007: 1639-1642,ICMCS,Unranked
+514,Image Quality Assessment using Foveated Wavelet Error Sensitivity and Isotropic Contrast.,2007,"Susu Yao, Weisi Lin, Ee Ping Ong, Zhongkang Lu, Mei Hwan Loke, Zhengguo Li",ISCAS 2007: 2654-2657,ISCAS,Unranked
+515,Initial Image Selection and its Influence on Super-Resolution Reconstruction.,2007,"Minmin Shen, Ci Wang, Ping Xue, Weisi Lin",SiPS 2007: 86-89,SIPS,Unranked
+516,Shifted Window Based Filtering for Alleviating Blocking Artifacts.,2007,"Guangtao Zhai, Wenjun Zhang, Yi Xu, Weisi Lin",SiPS 2007: 289-294,SIPS,Unranked
+517,LGPS: Phase Based Image Quality Assessment Metric.,2007,"Guangtao Zhai, Wenjun Zhang, Yi Xu, Weisi Lin",SiPS 2007: 605-609,SIPS,Unranked
+518,Perceptual quality and objective quality measurements of compressed videos.,2006,"Ee Ping Ong, Xiaokang Yang, Weisi Lin, Zhongkang Lu, Susu Yao, Xiao Lin, Susanto Rahardja, Choong Seng Boon",J. Vis. Commun. Image Represent. 17: 717-737 ,JVCIR,Unranked
+519,Marker-based image segmentation relying on disjoint set union.,2006,"Hai Gao, Weisi Lin, Ping Xue, Wan-Chi Siu",Signal Process. Image Commun. 21: 100-112 ,SPIC,Unranked
+520,Estimating Just-Noticeable Distortion for Video.,2006,"Yuting Jia, Weisi Lin, Ashraf A. Kassim",IEEE Trans. Circuits Syst. Video Technol. 16: 820-829 ,TCSV,Unranked
+521,Fast Edge-Preserved Postprocessing for Compressed Images.,2006,"Ci Wang, Ping Xue, Weisi Lin, W. Zhang, S. Yu",IEEE Trans. Circuits Syst. Video Technol. 16: 1142-1147 ,TCSV,Unranked
+522,Improved Super-Resolution Reconstruction From Video.,2006,"Ci Wang, Ping Xue, Weisi Lin",IEEE Trans. Circuits Syst. Video Technol. 16: 1411-1422 ,TCSV,Unranked
+523,Adaptive downsampling to improve image compression at low bit rates.,2006,"Weisi Lin, Li Dong",IEEE Trans. Image Process. 15: 2513-2521 ,TIP,Unranked
+524,Comparison of Video Quality Metrics on Multimedia Videos.,2006,"Mei Hwan Loke, Ee Ping Ong, Weisi Lin, Zhongkang Lu, Susu Yao",ICIP 2006: 457-460,ICIP,B
+525,A Wavelet-Based Visible Distortion Measure for Video Quality Evaluation.,2006,"Susu Yao, Weisi Lin, Ee Ping Ong, Zhongkang Lu",ICIP 2006: 2937-2940,ICIP,B
+526,Perceptual Quality Metric for H.264 Low Bit Rate Videos.,2006,"Ee Ping Ong, Weisi Lin, Zhongkang Lu, Susu Yao, Mei Hwan Loke",ICME 2006: 677-680,ICMCS,Unranked
+527,Two-Layer Image Resizing for Scalable CODEC.,2006,"Ci Wang, Ping Xue, Weisi Lin",ICME 2006: 1457-1460,ICMCS,Unranked
+528,Recovery of compressed videos using forward and backward anisotropic diffusion.,2006,"Susu Yao, Weisi Lin, Ee Ping Ong, Zhongkang Lu",ISCAS 2006,ISCAS,Unranked
+529,Improved estimation for just-noticeable visual distortion.,2005,"Xiaohui Zhang, Weisi Lin, Ping Xue",Signal Process. 85: 795-808 ,SIGPRO,Unranked
+530,Geometrically determining the leaky bucket parameters for video streaming over constant bit-rate channels.,2005,"Ping Li, Weisi Lin, Susanto Rahardja, Xiao Lin, Xiaokang Yang, Zhengguo Li",Signal Process. Image Commun. 20: 193-204 ,SPIC,Unranked
+531,Rate Control for Videophone Using Local Perceptual Cues.,2005,"Xiaokang Yang, Weisi Lin, Zhongkang Lu, Xiao Lin, Susanto Rahardja, Ee Ping Ong, Susu Yao",IEEE Trans. Circuits Syst. Video Technol. 15: 496-507 ,TCSV,Unranked
+532,Motion-compensated residue preprocessing in video coding based on just-noticeable-distortion profile.,2005,"Xiaokang Yang, Weisi Lin, Zhongkang Lu, Ee Ping Ong, Susu Yao",IEEE Trans. Circuits Syst. Video Technol. 15: 742-752 ,TCSV,Unranked
+533,Visual distortion gauge based on discrimination of noticeable contrast changes.,2005,"Weisi Lin, Li Dong, Ping Xue",IEEE Trans. Circuits Syst. Video Technol. 15: 900-909 ,TCSV,Unranked
+534,Modeling visual attention's modulatory aftereffects on visual sensitivity and quality evaluation.,2005,"Zhongkang Lu, Weisi Lin, Xiaokang Yang, Ee Ping Ong, Susu Yao",IEEE Trans. Image Process. 14: 1928-1942 ,TIP,Unranked
+535,Measuring the negative impact of frame dropping on perceptual visual quality.,2005,"Zhongkang Lu, Weisi Lin, Choong Seng Boon, Sadaatsu Kato, Susu Yao, Ee Ping Ong, Xiaokang Yang",Human Vision and Electronic Imaging 2005: 554-562,HVEI,Unranked
+536,Buffer-constrained R-D Model-Based Rate Control for H.264/AVC.,2005,"Ping Li, Xiaokang Yang, Weisi Lin",ICASSP  2005: 321-324,ICASSP,Unranked
+537,Perceptual Quality Metric For Compressed Videos.,2005,"Ee Ping Ong, Xiaokang Yang, Weisi Lin, Zhongkang Lu, Susu Yao",ICASSP  2005: 581-584,ICASSP,Unranked
+538,Contrast signal-to-noise ratio for image quality assessment.,2005,"Susu Yao, Weisi Lin, Ee Ping Ong, Zhongkang Lu",ICIP  2005: 397-400,ICIP,B
+539,Colour perceptual video quality metric.,2005,"Ee Ping Ong, Weisi Lin, Zhongkang Lu, Susu Yao",ICIP  2005: 1172-1175,ICIP,B
+540,Demosaicing with improved edge direction detection.,2005,"Xiaomeng Wang, Weisi Lin, Ping Xue",ISCAS  2005: 2048-2051,ISCAS,Unranked
+541,Perceived visual quality metric based on error spread and contrast.,2005,"Susu Yao, Weisi Lin, Susanto Rahardja, Xiao Lin, Ee Ping Ong, Zhongkang Lu, Xiaokang Yang",ISCAS  2005: 3793-3796,ISCAS,Unranked
+542,Just-Noticeable Distortion Estimation for Image Pixels.,2005,"Xiaohui Zhang, Weisi Lin, Ping Xue",MMSP 2005: 1-4,MMSP,C
+543,Integrated Evaluation of Temporal and Spatial Distortions for Low Bit-rate Videos.,2005,"Zhongkang Lu, Weisi Lin, Xiao Lin, Ee Ping Ong, Susu Yao",MMSP 2005: 1-4,MMSP,C
+544,A locally adaptive algorithm for measuring blocking artifacts in images and videos.,2004,"Feng Pan, Xiao Lin, Susanto Rahardja, Weisi Lin, Ee Ping Ong, Susu Yao, Zhongkang Lu, Xiaokang Yang",Signal Process. Image Commun. 19: 499-506 ,SPIC,Unranked
+545,Visual distortion assessment with emphasis on spatially transitional regions.,2004,"Ee Ping Ong, Weisi Lin, Zhongkang Lu, Susu Yao, Minoru Etoh",IEEE Trans. Circuits Syst. Video Technol. 14: 559-566 ,TCSV,Unranked
+546,An effective perceptual weighting model for videophone coding.,2004,"Xiaokang Yang, Weisi Lin, Zhongkang Lu, Ee Ping Ong, Susu Yao",ICASSP  2004: 145-148,ICASSP,Unranked
+547,Geometrically determining leaky bucket parameters for video streaming over constant bit-rate channels.,2004,"Ping Li, Weisi Lin, Susanto Rahardja, Xiao Lin, Xiaokang Yang, Zhengguo Li",ICASSP  2004: 153-156,ICASSP,Unranked
+548,Spatial selectivity modulated just-noticeable-distortion profile for video.,2004,"Zhongkang Lu, Weisi Lin, Xiaokang Yang, Ee Ping Ong, Susu Yao",ICASSP  2004: 705-708,ICASSP,Unranked
+549,Perceptually-adaptive pre-processing for motion-compensated residue in video coding.,2004,"Xiaokang Yang, Weisi Lin, Zhongkang Lu, Ee Ping Ong, Susu Yao",ICIP 2004: 489-492,ICIP,B
+550,Modelling visual attention and motion effect for visual quality evaluation.,2004,"Zhongkang Lu, Xiaokang Yang, Weisi Lin, Ee Ping Ong, Susu Yao",ICIP 2004: 2311-2314,ICIP,B
+551,Video quality metric for low bitrate compressed videos.,2004,"Ee Ping Ong, Xiaokang Yang, Weisi Lin, Zhongkang Lu, Susu Yao",ICIP 2004: 3531-3534,ICIP,B
+552,Adaptive nonlinear diffusion processes for ringing artifacts removal on JPEG 2000 images.,2004,"Susu Yao, Weisi Lin, Zhongkang Lu, Ee Ping Ong, Xiaokang Yang",ICME 2004: 691-694,ICMCS,Unranked
+553,Measuring blocking artifacts using edge direction information.,2004,"Feng Pan, Xiao Lin, Susanto Rahardja, Ee Ping Ong, Weisi Lin",ICME 2004: 1491-1494,ICMCS,Unranked
+554,A new marker-based watershed algorithm.,2004,"Hai Gao, Ping Xue, Weisi Lin",ISCAS  2004: 81-84,ISCAS,Unranked
+555,Speech pitch detection in noisy environment using multi-rate adaptive lossless FIR filters.,2004,"Dong-Yan Huang, Weisi Lin, Susanto Rahardja",ISCAS  2004: 429-432,ISCAS,Unranked
+556,Local visual perceptual clues and its use in videophone rate control.,2004,"Xiaokang Yang, Weisi Lin, Zhongkang Lu, Xiao Lin, Susanto Rahardja, Ee Ping Ong, Susu Yao",ISCAS  2004: 805-808,ISCAS,Unranked
+557,Perceptual video quality evaluation using fuzzy inference system.,2004,"Susu Yao, Weisi Lin, Zhongkang Lu, Ee Ping Ong, Xiaokang Yang",ISCAS  2004: 897-900,ISCAS,Unranked
+558,A locally-adaptive algorithm for measuring blocking artifacts in images and videos.,2004,"Feng Pan, Xiao Lin, Susanto Rahardja, Weisi Lin, Ee Ping Ong, Susu Yao, Zhongkang Lu, Xiaokang Yang",ISCAS  2004: 925-928,ISCAS,Unranked
+559,Just-noticeable-distortion profile with nonlinear additivity model for perceptual masking in color images.,2003,"Xiaokang Yang, Weisi Lin, Zhongkang Lu, Ee Ping Ong, Susu Yao",ICASSP  2003: 609-612,ICASSP,Unranked
+560,Perceptual-quality significance map (PQSM) and its application on video quality distortion metrics.,2003,"Zhongkang Lu, Weisi Lin, Ee Ping Ong, Susu Yao, Xiaokang Yang",ICASSP  2003: 617-620,ICASSP,Unranked
+561,Low bit rate quality assessment based on perceptual characteristics.,2003,"Ee Ping Ong, Weisi Lin, Zhongkang Lu, Susu Yao, Xiaokang Yang, Fulvio Moschetti",ICIP  2003: 189-192,ICIP,B
+562,Discriminative analysis of pixel difference towards picture quality prediction.,2003,"Weisi Lin, Dong Li, Ping Xue",ICIP  2003: 193-196,ICIP,B
+563,A coding artifacts removal algorithm based on spatial and temporal regularization.,2003,"Susu Yao, Genan Feng, Xiao Lin, Keng Pang Lim, Weisi Lin",ICIP  2003: 215-218,ICIP,B
+564,On incorporating just-noticeable-distortion profile into motion-compensated prediction for video compression.,2003,"Susu Yao, Weisi Lin, Zhongkang Lu, Ee Ping Ong, Xiaokang Yang",ICIP  2003: 833-836,ICIP,B
+565,No-reference JPEG-2000 image quality metric.,2003,"Ee Ping Ong, Weisi Lin, Zhongkang Lu, Susu Yao, Xiaokang Yang, Lijun Jiang",ICME 2003: 545-548,ICMCS,Unranked
+566,Objective quality assessment for compressed video.,2003,"Susu Yao, Weisi Lin, Zhongkang Lu, Ee Ping Ong, Minoru Etoh",ISCAS  2003: 688-691,ISCAS,Unranked
+567,A no-reference quality metric for measuring image blur.,2003,"Ee Ping Ong, Weisi Lin, Zhongkang Lu, Xiaokang Yang, Susu Yao, Feng Pan, Lijun Jiang, Fulvio Moschetti",ISSPA  2003: 469-472,ISSPA,Unranked
+568,Quality evaluation of MPEG-4 and H.26L coded video for mobile multimedia communications.,2003,"Ee Ping Ong, Weisi Lin, Zhongkang Lu, Xiaokang Yang, Susu Yao, Xiao Lin, Fulvio Moschetti",ISSPA  2003: 473-476,ISSPA,Unranked
+569,Video quality assessment using neural network based on multi-feature extraction.,2003,"Susu Yao, Weisi Lin, Zhongkang Lu, Ee Ping Ong, Xiaokang Yang",VCIP 2003: 604-612,VCIP,C
+570,PSQM-based RR and NR video quality metrics.,2003,"Zhongkang Lu, Weisi Lin, Ee Ping Ong, Xiaokang Yang, Susu Yao",VCIP 2003: 633-640,VCIP,C
+571,Perceptually adaptive hybrid video encoding based on just-noticeable-distortion profile.,2003,"Xiaokang Yang, Weisi Lin, Zhongkang Lu, Ee Ping Ong, Susu Yao",VCIP 2003: 1448-1459,VCIP,C
+572,On fast firmware/software-based video coding.,2002,Weisi Lin,IEEE Trans. Consumer Electron. 48: 209-219 ,TCE,Unranked
+573,An efficient video object segmentation scheme.,2002,"Ee Ping Ong, Bee June Tye, Weisi Lin, Minoru Etoh",ICASSP 2002: 3361-3364,ICASSP,Unranked
+574,Object Segmentation With Affine Motion Similarity Measure.,2001,"Hong Li, Weisi Lin, Bee June Tye, Ee Ping Ong, Chi Chung Ko",ICME 2001,ICMCS,Unranked
+575,Multiple motion object segmentation based on homogenous region merging.,2001,"Hong Li, Bee June Tye, Ee Ping Ong, Weisi Lin, Chi Chung Ko",ISCAS  2001: 175-178,ISCAS,Unranked
+576,Task division for parallel implementation of object identification system based on alternating hypothesize-verify-extend strategy.,1997,Weisi Lin,Concurr. Pract. Exp. 9: 859-876 ,CONCURRENCY,Unranked
+577,Real Time H.263 Video Codec Using Parallel DSP.,1997,"Weisi Lin, Kwong H. Goh, Bee June Tye, G. A. Powell, T. Ohya, S. Adachi",ICIP  1997: 586-589,ICIP,B
+578,Real time full-duplex H.263 video codec system.,1997,"Kwong H. Goh, Weisi Lin, Bee June Tye, G. A. Powell, T. Ohya, S. Adachi",MMSP 1997: 445-450,MMSP,C
+579,'Walking on two legs': alternate use of two representations of a match during object recognition and location.,1992,"David A. Fraser, Weisi Lin",ICPR  1992: 571-574,ICPR,B

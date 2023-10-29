@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 600px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#8dceeb", "id": "Basim Khajwal", "label": "Basim Khajwal", "shape": "dot", "size": 10}, {"color": "#dd4b39", "id": "C.-H. Luke Ong", "label": "C.-H. Luke Ong", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Dominik Wagner", "label": "Dominik Wagner", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Eddie Jones", "label": "Eddie Jones", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Steven J. Ramsay", "label": "Steven J. Ramsay", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Raven Beutner", "label": "Raven Beutner", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Fabian Zaiser", "label": "Fabian Zaiser", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Christopher H. Broadbent", "label": "Christopher H. Broadbent", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Arnaud Carayol", "label": "Arnaud Carayol", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Olivier Serre", "label": "Olivier Serre", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Matthew Hague", "label": "Matthew Hague", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Andrzej S. Murawski", "label": "Andrzej S. Murawski", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Carol Mak", "label": "Carol Mak", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Hugo Paquet", "label": "Hugo Paquet", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Andrew Kenyon-Roberts", "label": "Andrew Kenyon-Roberts", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Mario Alvarez-Picallo", "label": "Mario Alvarez-Picallo", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Martin Lester", "label": "Martin Lester", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Robin P. Neatherway", "label": "Robin P. Neatherway", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Conrad Cotton-Barratt", "label": "Conrad Cotton-Barratt", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Alex Eyers-Taylor", "label": "Alex Eyers-Taylor", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Michael Peyton Jones", "label": "Michael Peyton Jones", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Rolf Morel", "label": "Rolf Morel", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Andrew Cropper", "label": "Andrew Cropper", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Anne Schreuder", "label": "Anne Schreuder", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Toby Cathcart Burn", "label": "Toby Cathcart Burn", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Takeshi Tsukada", "label": "Takeshi Tsukada", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Kazuyuki Asada", "label": "Kazuyuki Asada", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Zhao Duan", "label": "Zhao Duan", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Cong Tian", "label": "Cong Tian", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Zhenhua Duan", "label": "Zhenhua Duan", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Long Pham", "label": "Long Pham", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Emanuele D\u0027Osualdo", "label": "Emanuele D\u0027Osualdo", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Jonathan Kochems", "label": "Jonathan Kochems", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Ruy J. G. B. de Queiroz", "label": "Ruy J. G. B. de Queiroz", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "David Hopkins", "label": "David Hopkins", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Anthony Widjaja Lin", "label": "Anthony Widjaja Lin", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Max Sch\u00e4fer", "label": "Max Sch\u00e4fer", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Naoki Kobayashi", "label": "Naoki Kobayashi", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "G\u00e9rard Basler", "label": "G\u00e9rard Basler", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Daniel Kroening", "label": "Daniel Kroening", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Thomas Wahl", "label": "Thomas Wahl", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Haoxian Zhao", "label": "Haoxian Zhao", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "William Blum", "label": "William Blum", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Nikos Tzevelekos", "label": "Nikos Tzevelekos", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Antoine Meyer", "label": "Antoine Meyer", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Giorgio Ausiello", "label": "Giorgio Ausiello", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Juhani Karhum\u00e4ki", "label": "Juhani Karhum\u00e4ki", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Giancarlo Mauri", "label": "Giancarlo Mauri", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Sam Bakhtiar Sanjabi", "label": "Sam Bakhtiar Sanjabi", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Dan R. Ghica", "label": "Dan R. Ghica", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Klaus Aehlig", "label": "Klaus Aehlig", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Jolie G. de Miranda", "label": "Jolie G. de Miranda", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Igor Walukiewicz", "label": "Igor Walukiewicz", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Pietro Di Gianantonio", "label": "Pietro Di Gianantonio", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Samson Abramsky", "label": "Samson Abramsky", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Ian David Bede Stark", "label": "Ian David Bede Stark", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Andrew D. Ker", "label": "Andrew D. Ker", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Hanno Nickau", "label": "Hanno Nickau", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "J. M. E. Hyland", "label": "J. M. E. Hyland", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Thong wei Koh", "label": "Thong wei Koh", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Charles A. Stewart", "label": "Charles A. Stewart", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Eike Ritter", "label": "Eike Ritter", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Luke Ong", "label": "Luke Ong", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Guanyan Li", "label": "Guanyan Li", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Peixin Wang", "label": "Peixin Wang", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Hongfei Fu", "label": "Hongfei Fu", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Tengshun Yang", "label": "Tengshun Yang", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Tim Reichelt", "label": "Tim Reichelt", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Thomas Rainforth", "label": "Thomas Rainforth", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Adam Golinski", "label": "Adam Golinski", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Tom Rainforth", "label": "Tom Rainforth", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Egor Ianovski", "label": "Egor Ianovski", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Alwen Tiu", "label": "Alwen Tiu", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Martin Mariusz Lester", "label": "Martin Mariusz Lester", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Bob Coecke", "label": "Bob Coecke", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Prakash Panangaden", "label": "Prakash Panangaden", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "David Van Horn", "label": "David Van Horn", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Anindya Basu", "label": "Anindya Basu", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Chih-Hao Luke Ong", "label": "Chih-Hao Luke Ong", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "April Rasala", "label": "April Rasala", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "F. Bruce Shepherd", "label": "F. Bruce Shepherd", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Gordon T. Wilfong", "label": "Gordon T. Wilfong", "shape": "dot", "size": 10}]);
+                  edges = new vis.DataSet([{"color": "#8dceeb", "from": "Basim Khajwal", "to": "C.-H. Luke Ong", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Basim Khajwal", "to": "Dominik Wagner", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Dominik Wagner", "value": 6, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Eddie Jones", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Steven J. Ramsay", "value": 9, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Raven Beutner", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Fabian Zaiser", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Christopher H. Broadbent", "value": 6, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Arnaud Carayol", "value": 6, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Olivier Serre", "value": 8, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Matthew Hague", "value": 16, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Andrzej S. Murawski", "value": 24, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Carol Mak", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Hugo Paquet", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Andrew Kenyon-Roberts", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Mario Alvarez-Picallo", "value": 6, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Martin Lester", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Robin P. Neatherway", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Conrad Cotton-Barratt", "value": 6, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Alex Eyers-Taylor", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Michael Peyton Jones", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Rolf Morel", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Andrew Cropper", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Anne Schreuder", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Toby Cathcart Burn", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Takeshi Tsukada", "value": 7, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Kazuyuki Asada", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Zhao Duan", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Cong Tian", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Zhenhua Duan", "value": 3, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Long Pham", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Emanuele D\u0027Osualdo", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Jonathan Kochems", "value": 8, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Ruy J. G. B. de Queiroz", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "David Hopkins", "value": 5, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Anthony Widjaja Lin", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Max Sch\u00e4fer", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Naoki Kobayashi", "value": 3, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "G\u00e9rard Basler", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Daniel Kroening", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Thomas Wahl", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Haoxian Zhao", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "William Blum", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Nikos Tzevelekos", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Antoine Meyer", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Giorgio Ausiello", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Juhani Karhum\u00e4ki", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Giancarlo Mauri", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Sam Bakhtiar Sanjabi", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Dan R. Ghica", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Klaus Aehlig", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Jolie G. de Miranda", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Igor Walukiewicz", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Pietro Di Gianantonio", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Samson Abramsky", "value": 3, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Ian David Bede Stark", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Andrew D. Ker", "value": 3, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Hanno Nickau", "value": 3, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "J. M. E. Hyland", "value": 3, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Thong wei Koh", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Charles A. Stewart", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "C.-H. Luke Ong", "to": "Eike Ritter", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dominik Wagner", "to": "Carol Mak", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Dominik Wagner", "to": "Hugo Paquet", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Dominik Wagner", "to": "Toby Cathcart Burn", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Dominik Wagner", "to": "Luke Ong", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Dominik Wagner", "to": "Steven J. Ramsay", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Fabian Zaiser", "to": "Andrzej S. Murawski", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Fabian Zaiser", "to": "Luke Ong", "value": 7, "width": 1}, {"color": "#8dceeb", "from": "Fabian Zaiser", "to": "Carol Mak", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Fabian Zaiser", "to": "Raven Beutner", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Andrzej S. Murawski", "to": "Luke Ong", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Andrzej S. Murawski", "to": "Guanyan Li", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Andrzej S. Murawski", "to": "Christopher H. Broadbent", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Andrzej S. Murawski", "to": "Arnaud Carayol", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Andrzej S. Murawski", "to": "Matthew Hague", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Andrzej S. Murawski", "to": "Olivier Serre", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Andrzej S. Murawski", "to": "Conrad Cotton-Barratt", "value": 6, "width": 1}, {"color": "#8dceeb", "from": "Andrzej S. Murawski", "to": "David Hopkins", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Andrzej S. Murawski", "to": "Dan R. Ghica", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Andrzej S. Murawski", "to": "Igor Walukiewicz", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Andrzej S. Murawski", "to": "Samson Abramsky", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Andrzej S. Murawski", "to": "Ian David Bede Stark", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Peixin Wang", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Hongfei Fu", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Tengshun Yang", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Guanyan Li", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Carol Mak", "value": 5, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Tim Reichelt", "value": 3, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Thomas Rainforth", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Adam Golinski", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Tom Rainforth", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Raven Beutner", "value": 3, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Toby Cathcart Burn", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Steven J. Ramsay", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Andrew Kenyon-Roberts", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Egor Ianovski", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Emanuele D\u0027Osualdo", "value": 3, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Alwen Tiu", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Zhenhua Duan", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Martin Mariusz Lester", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Max Sch\u00e4fer", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Naoki Kobayashi", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Igor Walukiewicz", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Matthew Hague", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Anthony Widjaja Lin", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Martin Lester", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Bob Coecke", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Prakash Panangaden", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "Jonathan Kochems", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Luke Ong", "to": "David Van Horn", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Peixin Wang", "to": "Hongfei Fu", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Peixin Wang", "to": "Tengshun Yang", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Peixin Wang", "to": "Guanyan Li", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Hongfei Fu", "to": "Tengshun Yang", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Hongfei Fu", "to": "Guanyan Li", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Tengshun Yang", "to": "Guanyan Li", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Carol Mak", "to": "Hugo Paquet", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Tim Reichelt", "to": "Thomas Rainforth", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Tim Reichelt", "to": "Adam Golinski", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Tim Reichelt", "to": "Tom Rainforth", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Eddie Jones", "to": "Steven J. Ramsay", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Steven J. Ramsay", "to": "Toby Cathcart Burn", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Steven J. Ramsay", "to": "Martin Lester", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Steven J. Ramsay", "to": "Robin P. Neatherway", "value": 3, "width": 1}, {"color": "#8dceeb", "from": "Steven J. Ramsay", "to": "Long Pham", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Adam Golinski", "to": "Tom Rainforth", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Christopher H. Broadbent", "to": "Arnaud Carayol", "value": 5, "width": 1}, {"color": "#8dceeb", "from": "Christopher H. Broadbent", "to": "Olivier Serre", "value": 5, "width": 1}, {"color": "#8dceeb", "from": "Christopher H. Broadbent", "to": "Matthew Hague", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Arnaud Carayol", "to": "Olivier Serre", "value": 6, "width": 1}, {"color": "#8dceeb", "from": "Arnaud Carayol", "to": "Matthew Hague", "value": 3, "width": 1}, {"color": "#8dceeb", "from": "Arnaud Carayol", "to": "Antoine Meyer", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Olivier Serre", "to": "Matthew Hague", "value": 5, "width": 1}, {"color": "#8dceeb", "from": "Olivier Serre", "to": "Antoine Meyer", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Matthew Hague", "to": "Jonathan Kochems", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Matthew Hague", "to": "Anthony Widjaja Lin", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Matthew Hague", "to": "G\u00e9rard Basler", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Matthew Hague", "to": "Daniel Kroening", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Matthew Hague", "to": "Thomas Wahl", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Matthew Hague", "to": "Haoxian Zhao", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Matthew Hague", "to": "Antoine Meyer", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Mario Alvarez-Picallo", "to": "Alex Eyers-Taylor", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Mario Alvarez-Picallo", "to": "Michael Peyton Jones", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Martin Lester", "to": "Robin P. Neatherway", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Martin Lester", "to": "Max Sch\u00e4fer", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Conrad Cotton-Barratt", "to": "David Hopkins", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Alex Eyers-Taylor", "to": "Michael Peyton Jones", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Rolf Morel", "to": "Andrew Cropper", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Takeshi Tsukada", "to": "Kazuyuki Asada", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Zhao Duan", "to": "Cong Tian", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Zhao Duan", "to": "Zhenhua Duan", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Cong Tian", "to": "Zhenhua Duan", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Emanuele D\u0027Osualdo", "to": "Alwen Tiu", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Emanuele D\u0027Osualdo", "to": "Jonathan Kochems", "value": 3, "width": 1}, {"color": "#8dceeb", "from": "Martin Mariusz Lester", "to": "Max Sch\u00e4fer", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Naoki Kobayashi", "to": "Igor Walukiewicz", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Naoki Kobayashi", "to": "David Van Horn", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Bob Coecke", "to": "Prakash Panangaden", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "G\u00e9rard Basler", "to": "Daniel Kroening", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "G\u00e9rard Basler", "to": "Thomas Wahl", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "G\u00e9rard Basler", "to": "Haoxian Zhao", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Daniel Kroening", "to": "Thomas Wahl", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Daniel Kroening", "to": "Haoxian Zhao", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Thomas Wahl", "to": "Haoxian Zhao", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Giorgio Ausiello", "to": "Juhani Karhum\u00e4ki", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Giorgio Ausiello", "to": "Giancarlo Mauri", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Juhani Karhum\u00e4ki", "to": "Giancarlo Mauri", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dan R. Ghica", "to": "Samson Abramsky", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Dan R. Ghica", "to": "Ian David Bede Stark", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Klaus Aehlig", "to": "Jolie G. de Miranda", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Samson Abramsky", "to": "Ian David Bede Stark", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Andrew D. Ker", "to": "Hanno Nickau", "value": 3, "width": 1}, {"color": "#8dceeb", "from": "Anindya Basu", "to": "Chih-Hao Luke Ong", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Anindya Basu", "to": "April Rasala", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Anindya Basu", "to": "F. Bruce Shepherd", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Anindya Basu", "to": "Gordon T. Wilfong", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Chih-Hao Luke Ong", "to": "April Rasala", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Chih-Hao Luke Ong", "to": "F. Bruce Shepherd", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Chih-Hao Luke Ong", "to": "Gordon T. Wilfong", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "April Rasala", "to": "F. Bruce Shepherd", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "April Rasala", "to": "Gordon T. Wilfong", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "F. Bruce Shepherd", "to": "Gordon T. Wilfong", "value": 1, "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

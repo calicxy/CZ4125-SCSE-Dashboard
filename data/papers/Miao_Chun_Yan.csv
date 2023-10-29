@@ -1,0 +1,580 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Conference Report on 2022 IEEE Symposium Series on Computational Intelligence (IEEE SSCI 2022) [Conference Reports].,2023,"Ah-Hwee Tan, Dipti Srinivasan, Chunyan Miao",IEEE Comput. Intell. Mag. 18: 6-9 ,CIM,Unranked
+1,"Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges.",2023,"Wanting Yang, Hongyang Du, Zi Qin Liew, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xuefen Chi, Xuemin Shen, Chunyan Miao",IEEE Commun. Surv. Tutorials 25: 213-250 ,COMSUR,Unranked
+2,"A Full Dive Into Realizing the Edge-Enabled Metaverse: Visions, Enabling Technologies, and Challenges.",2023,"Minrui Xu, Wei Chong Ng, Wei Yang Bryan Lim, Jiawen Kang, Zehui Xiong, Dusit Niyato, Qiang Yang, Xuemin Shen, Chunyan Miao",IEEE Commun. Surv. Tutorials 25: 656-700 ,COMSUR,Unranked
+3,A Dynamic Hierarchical Framework for IoT-Assisted Digital Twin Synchronization in the Metaverse.,2023,"Yue Han, Dusit Niyato, Cyril Leung, Dong In Kim, Kun Zhu, Shaohan Feng, Xuemin Shen, Chunyan Miao",IEEE Internet Things J. 10: 268-284 ,IOTJ,Unranked
+4,Stochastic Coded Offloading Scheme for Unmanned-Aerial-Vehicle-Assisted Edge Computing.,2023,"Wei Chong Ng, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Chunyan Miao, Zhu Han, Dong In Kim",IEEE Internet Things J. 10: 5626-5643 ,IOTJ,Unranked
+5,SSD-KD: A self-supervised diverse knowledge distillation method for lightweight skin lesion classification using dermoscopic images.,2023,"Yongwei Wang, Yuheng Wang, Jiayue Cai, Tim K. Lee, Chunyan Miao, Z. Jane Wang",Medical Image Anal. 84: 102693 ,MIA,Unranked
+6,Learning Structural Representations for Recipe Generation and Food Retrieval.,2023,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",IEEE Trans. Pattern Anal. Mach. Intell. 45: 3363-3377 ,PAMI,Unranked
+7,Incorporating Surprisingly Popular Algorithm and Euclidean distance-based adaptive topology into PSO.,2023,"Xuan Wu, Jizong Han, Di Wang, Pengyue Gao, Quanlong Cui, Liang Chen, Yanchun Liang, Han Huang, Heow Pueh Lee, Chunyan Miao, You Zhou, Chunguo Wu",Swarm Evol. Comput. 76: 101222 ,SWEVO,Unranked
+8,Summarizing User-item Matrix By Group Utility Maximization.,2023,"Yongjie Wang, Ke Wang, Cheng Long, Chunyan Miao",ACM Trans. Knowl. Discov. Data 17: 86:1-86:22 ,TKDD,Unranked
+9,Contextualized Graph Attention Network for Recommendation With Item Knowledge Graph.,2023,"Yong Liu, Susen Yang, Yonghui Xu, Chunyan Miao, Min Wu, Juyong Zhang",IEEE Trans. Knowl. Data Eng. 35: 181-195 ,TKDE,Unranked
+10,Learning Hierarchical Review Graph Representations for Recommendation.,2023,"Yong Liu, Susen Yang, Yinan Zhang, Chunyan Miao, Zaiqing Nie, Juyong Zhang",IEEE Trans. Knowl. Data Eng. 35: 658-671 ,TKDE,Unranked
+11,Aspect-Guided Syntax Graph Learning for Explainable Recommendation.,2023,"Yidan Hu, Yong Liu, Chunyan Miao, Gongqi Lin, Yuan Miao",IEEE Trans. Knowl. Data Eng. 35: 7768-7781 ,TKDE,Unranked
+12,Brain-Inspired Search Engine Assistant Based on Knowledge Graph.,2023,"Xuejiao Zhao, Huanhuan Chen, Zhenchang Xing, Chunyan Miao",IEEE Trans. Neural Networks Learn. Syst. 34: 4386-4400 ,TNN,Unranked
+13,Reliable Distributed Computing for Metaverse: A Hierarchical Game-Theoretic Approach.,2023,"Yuna Jiang, Jiawen Kang, Dusit Niyato, Xiaohu Ge, Zehui Xiong, Chunyan Miao, Xuemin Shen",IEEE Trans. Veh. Technol. 72: 1084-1100 ,TVT,Unranked
+14,Realizing the Metaverse with Edge Intelligence: A Match Made in Heaven.,2023,"Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xianbin Cao, Chunyan Miao, Sumei Sun, Qiang Yang",IEEE Wirel. Commun. 30: 64-71 ,WC,Unranked
+15,Multi-Aspect Explainable Inductive Relation Prediction by Sentence Transformer.,2023,"Zhixiang Su, Di Wang, Chunyan Miao, Lizhen Cui",AAAI 2023: 6533-6540,AAAI,A*
+16,Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning.,2023,"Ran Zhou, Xin Li, Lidong Bing, Erik Cambria, Chunyan Miao",ACL  2023: 4018-4031,ACL,A*
+17,Flexible and Robust Counterfactual Explanations with Minimal Satisfiable Perturbations.,2023,"Yongjie Wang, Hangwei Qian, Yongjie Liu, Wei Guo, Chunyan Miao",CIKM 2023: 2596-2605,CIKM,A
+18,TranSG: Transformer-Based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-Identification.,2023,"Haocong Rao, Chunyan Miao",CVPR 2023: 22118-22128,CVPR,A*
+19,CMT: Cross-modal Memory Transformer for Medical Image Report Generation.,2023,"Yiming Cao, Lizhen Cui, Lei Zhang, Fuqiang Yu, Ziheng Cheng, Zhen Li, Yonghui Xu, Chunyan Miao",DASFAA  2023: 415-424,DASFAA,B
+20,Layer-refined Graph Convolutional Networks for Recommendation.,2023,"Xin Zhou, Donghui Lin, Yong Liu, Chunyan Miao",ICDE 2023: 1247-1259,ICDE,A*
+21,Cross-Domain Disentangled Learning for E-Commerce Live Streaming Recommendation.,2023,"Yixin Zhang, Yong Liu, Hao Xiong, Yi Liu, Fuqiang Yu, Wei He, Yonghui Xu, Lizhen Cui, Chunyan Miao",ICDE 2023: 2955-2968,ICDE,A*
+22,FedDBM: Federated Digital Biomarker for Detecting Parkinson's Disease Progress.,2023,"Yiqiang Chen, Xiaodong Yang, Yuting He, Chunyan Miao, Piu Chan",ICME 2023: 678-683,ICMCS,Unranked
+23,Bootstrap Latent Representations for Multi-modal Recommendation.,2023,"Xin Zhou, Hongyu Zhou, Yong Liu, Zhiwei Zeng, Chunyan Miao, Pengwei Wang, Yuan You, Feijun Jiang",WWW 2023: 845-854,WWW,A*
+24,Multi-Aspect Explainable Inductive Relation Prediction by Sentence Transformer.,2023,"Zhixiang Su, Di Wang, Chunyan Miao, Lizhen Cui",CoRR abs/2301.01664 ,CORR,Unranked
+25,History-Aware Hierarchical Transformer for Multi-session Open-domain Dialogue System.,2023,"Tong Zhang, Yong Liu, Boyang Li, Zhiwei Zeng, Pengwei Wang, Yuan You, Chunyan Miao, Lizhen Cui",CoRR abs/2302.00907 ,CORR,Unranked
+26,Can ChatGPT Assess Human Personalities? A General Evaluation Framework.,2023,"Haocong Rao, Cyril Leung, Chunyan Miao",CoRR abs/2303.01248 ,CORR,Unranked
+27,Blockchain-Empowered Lifecycle Management for AI-Generated Content (AIGC) Products in Edge Networks.,2023,"Yinqiu Liu, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Chunyan Miao, Xuemin Shen, Abbas Jamalipour",CoRR abs/2303.02836 ,CORR,Unranked
+28,TranSG: Transformer-Based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-Identification.,2023,"Haocong Rao, Chunyan Miao",CoRR abs/2303.06819 ,CORR,Unranked
+29,StarNet: Style-Aware 3D Point Cloud Generation.,2023,"Yunfan Zhang, Hao Wang, Guosheng Lin, Vun Chan Hua Nicholas, Zhiqi Shen, Chunyan Miao",CoRR abs/2303.15805 ,CORR,Unranked
+30,Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning.,2023,"Ran Zhou, Xin Li, Lidong Bing, Erik Cambria, Chunyan Miao",CoRR abs/2305.13628 ,CORR,Unranked
+31,Hierarchical Skeleton Meta-Prototype Contrastive Learning with Hard Skeleton Mining for Unsupervised Person Re-Identification.,2023,"Haocong Rao, Cyril Leung, Chunyan Miao",CoRR abs/2307.12917 ,CORR,Unranked
+32,Flexible and Robust Counterfactual Explanations with Minimal Satisfiable Perturbations.,2023,"Yongjie Wang, Hangwei Qian, Yongjie Liu, Wei Guo, Chunyan Miao",CoRR abs/2309.04676 ,CORR,Unranked
+33,Rethinking Negative Pairs in Code Search.,2023,"Haochen Li, Xin Zhou, Luu Anh Tuan, Chunyan Miao",CoRR abs/2310.08069 ,CORR,Unranked
+34,Federated Learning Over Wireless Edge Networks.,2022,"Wei Yang Bryan Lim, Jer Shyuan Ng, Zehui Xiong, Dusit Niyato, Chunyan Miao","Wireless Networks, Springer 2022, ISBN 978-3-031-07837-8, pp. 1-150",WN,Unranked
+35,Heterogeneous star graph attention network for product attributes prediction.,2022,"Xuejiao Zhao, Yong Liu, Yonghui Xu, Yonghua Yang, Xusheng Luo, Chunyan Miao",Adv. Eng. Informatics 51: 101447 ,AEI,Unranked
+36,Dynamics in Coded Edge Computing for IoT: A Fractional Evolutionary Game Approach.,2022,"Yue Han, Dusit Niyato, Cyril Leung, Chunyan Miao, Dong In Kim",IEEE Internet Things J. 9: 13978-13994 ,IOTJ,Unranked
+37,HandGest: Hierarchical Sensing for Robust-in-the-Air Handwriting Recognition With Commodity WiFi Devices.,2022,"Jie Zhang, Yang Li, Haoyi Xiong, Dejing Dou, Chunyan Miao, Daqing Zhang",IEEE Internet Things J. 9: 19529-19544 ,IOTJ,Unranked
+38,Hierarchical reinforcement learning with dynamic recurrent mechanism for course recommendation.,2022,"Yuanguo Lin, Fan Lin, Wenhua Zeng, Jianbing Xiahou, Li Li, Pengcheng Wu, Yong Liu, Chunyan Miao",Knowl. Based Syst. 244: 108546 ,KBS,Unranked
+39,Decomposing generation networks with structure prediction for recipe generation.,2022,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",Pattern Recognit. 126: 108578 ,PR,Unranked
+40,QueryFormer: A Tree Transformer Model for Query Plan Representation.,2022,"Yue Zhao, Gao Cong, Jiachen Shi, Chunyan Miao",Proc. VLDB Endow. 15: 1658-1670 ,PVLDB,Unranked
+41,ABC: Attributed Bipartite Co-clustering.,2022,"Junghoon Kim, Kaiyu Feng, Gao Cong, Diwen Zhu, Wenyuan Yu, Chunyan Miao",Proc. VLDB Endow. 15: 2134-2147 ,PVLDB,Unranked
+42,Revisiting -Reciprocal Distance Re-Ranking for Skeleton-Based Person Re-Identification.,2022,"Haocong Rao, Yuan Li, Chunyan Miao",IEEE Signal Process. Lett. 29: 2103-2107 ,SPL,Unranked
+43,EEG-Based Emotion Recognition Using Regularized Graph Neural Networks.,2022,"Peixiang Zhong, Di Wang, Chunyan Miao",IEEE Trans. Affect. Comput. 13: 1290-1301 ,TAFFCO,Unranked
+44,Towards Secure and Efficient Equality Conjunction Search Over Outsourced Databases.,2022,"Weipeng Lin, Ke Wang, Zhilin Zhang, Ada Wai-Chee Fu, Raymond Chi-Wing Wong, Cheng Long, Chunyan Miao",IEEE Trans. Cloud Comput. 10: 1445-1461 ,TCC,A
+45,Auxiliary Learning for Relation Extraction.,2022,"Shengfei Lyu, Jin Cheng, Xingyu Wu, Lizhen Cui, Huanhuan Chen, Chunyan Miao",IEEE Trans. Emerg. Top. Comput. Intell. 6: 182-191 ,TETCI,Unranked
+46,When Information Freshness Meets Service Latency in Federated Learning: A Task-Aware Incentive Scheme for Smart Industries.,2022,"Wei Yang Bryan Lim, Zehui Xiong, Jiawen Kang, Dusit Niyato, Cyril Leung, Chunyan Miao, Xuemin Shen",IEEE Trans. Ind. Informatics 18: 457-466 ,TII,Unranked
+47,Cross-Modal Graph With Meta Concepts for Video Captioning.,2022,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",IEEE Trans. Image Process. 31: 5150-5162 ,TIP,Unranked
+48,Federated Learning for Personalized Humor Recognition.,2022,"Xu Guo, Han Yu, Boyang Li, Hao Wang, Pengwei Xing, Siwei Feng, Zaiqing Nie, Chunyan Miao",ACM Trans. Intell. Syst. Technol. 13: 68:1-68:18 ,TIST,Unranked
+49,Dynamic Link Prediction for Discovery of New Impactful COVID-19 Research Approaches.,2022,"Xiangyu Wang, Yuan Li, Taiyu Ban, Jiarun Zhu, Lyuzhou Chen, Muhammad Usman, Xin Wang, Huanhuan Chen, Xiaomei Chen, Cyril Leung, Chunyan Miao",IEEE J. Biomed. Health Informatics 26: 5883-5894 ,TITB,Unranked
+50,Decentralized Edge Intelligence: A Dynamic Resource Allocation Framework for Hierarchical Federated Learning.,2022,"Wei Yang Bryan Lim, Jer Shyuan Ng, Zehui Xiong, Jiangming Jin, Yang Zhang, Dusit Niyato, Cyril Leung, Chunyan Miao",IEEE Trans. Parallel Distributed Syst. 33: 536-550 ,TPDS,Unranked
+51,Reputation-Aware Hedonic Coalition Formation for Efficient Serverless Hierarchical Federated Learning.,2022,"Jer Shyuan Ng, Wei Yang Bryan Lim, Zehui Xiong, Xianbin Cao, Jiangming Jin, Dusit Niyato, Cyril Leung, Chunyan Miao",IEEE Trans. Parallel Distributed Syst. 33: 2675-2686 ,TPDS,Unranked
+52,A Double Auction Mechanism for Resource Allocation in Coded Vehicular Edge Computing.,2022,"Jer Shyuan Ng, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Cyril Leung, Chunyan Miao",IEEE Trans. Veh. Technol. 71: 1832-1845 ,TVT,Unranked
+53,VRepChain: A Decentralized and Privacy-Preserving Reputation System for Social Internet of Vehicles Based on Blockchain.,2022,"Yuan Liu, Zehui Xiong, Qin Hu, Dusit Niyato, Jie Zhang, Chunyan Miao, Cyril Leung, Zhihong Tian",IEEE Trans. Veh. Technol. 71: 13242-13253 ,TVT,Unranked
+54,Semantic Information Market For The Metaverse: An Auction Based Approach.,2022,"Ismail Lotfi, Dusit Niyato, Sumei Sun, Dong In Kim, Melike Erol-Kantarci, Chunyan Miao",FNWF 2022: 628-633,5GWF,Unranked
+55,Prior-Guided Transfer Learning for Enhancing Item Representation in E-commerce.,2022,"Heng-Yi Li, Yabo Ni, Anxiang Zeng, Han Yu, Chunyan Miao",AAAI 2022: 12387-12395,AAAI,A*
+56,CrowdFL: A Marketplace for Crowdsourced Federated Learning.,2022,"Daifei Feng, Cicilia Helena, Wei Yang Bryan Lim, Jer Shyuan Ng, Hongchao Jiang, Zehui Xiong, Jiawen Kang, Han Yu, Dusit Niyato, Chunyan Miao",AAAI 2022: 13164-13166,AAAI,A*
+57,Dynamic Incentive Mechanism Design for COVID-19 Social Distancing.,2022,"Xuan Rong Zane Ho, Wei Yang Bryan Lim, Hongchao Jiang, Jer Shyuan Ng, Han Yu, Zehui Xiong, Dusit Niyato, Chunyan Miao",AAAI 2022: 13173-13175,AAAI,A*
+58,GlobalWoZ: Globalizing MultiWoZ to Develop Multilingual Task-Oriented Dialogue Systems.,2022,"Bosheng Ding, Junjie Hu, Lidong Bing, Sharifah Mahani Aljunied, Shafiq R. Joty, Luo Si, Chunyan Miao",ACL  2022: 1639-1657,ACL,A*
+59,MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER.,2022,"Ran Zhou, Xin Li, Ruidan He, Lidong Bing, Erik Cambria, Luo Si, Chunyan Miao",ACL  2022: 2251-2262,ACL,A*
+60,Toward Knowledge-Enriched Conversational Recommendation Systems.,2022,"Tong Zhang, Yong Liu, Boyang Li, Peixiang Zhong, Chen Zhang, Hao Wang, Chunyan Miao",ConvAI@ACL 2022: 212-217,ACL-CONVAI,Unranked
+61,KdINet: Knowledge-driven Interpretable Network for Medical Imaging Diagnosis.,2022,"Yiming Cao, Lizhen Cui, Lei Zhang, Fuqiang Yu, Zhen Li, Yonghui Xu, Chunyan Miao",BIBM 2022: 1457-1460,BIBM,Unranked
+62,On Inferring User Socioeconomic Status with Mobility Records.,2022,"Zheng Wang, Mingrui Liu, Cheng Long, Qianru Zhang, Jiangneng Li, Chunyan Miao",IEEE Big Data 2022: 646-655,BIGDATACONF,Unranked
+63,XIVA: An Intelligent Voice Assistant with Scalable Capabilities for Educational Metaverse.,2022,"Jun Lin, Yonghui Xu, Wei Guo, Lizhen Cui, Chunyan Miao",CICAI  2022: 559-563,CICAI,Unranked
+64,Memory Bank Augmented Long-tail Sequential Recommendation.,2022,"Yidan Hu, Yong Liu, Chunyan Miao, Yuan Miao",CIKM 2022: 791-801,CIKM,A
+65,Diffusion-Based Graph Contrastive Learning for Recommendation with Implicit Feedback.,2022,"Lingzi Zhang, Yong Liu, Xin Zhou, Chunyan Miao, Guoxin Wang, Haihong Tang",DASFAA  2022: 232-247,DASFAA,B
+66,Bi-level Feature Alignment for Versatile Image Translation and Manipulation.,2022,"Fangneng Zhan, Yingchen Yu, Rongliang Wu, Jiahui Zhang, Kaiwen Cui, Aoran Xiao, Shijian Lu, Chunyan Miao",ECCV  2022: 224-241,ECCV,A*
+67,History-Aware Hierarchical Transformer for Multi-session Open-domain Dialogue System.,2022,"Tong Zhang, Yong Liu, Boyang Li, Zhiwei Zeng, Pengwei Wang, Yuan You, Chunyan Miao, Lizhen Cui",EMNLP  2022: 3395-3407,EMNLP,A*
+68,Exploring Representation-level Augmentation for Code Search.,2022,"Haochen Li, Chunyan Miao, Cyril Leung, Yanxian Huang, Yuan Huang, Hongyu Zhang, Yanlin Wang",EMNLP 2022: 4924-4936,EMNLP,A*
+69,ConNER: Consistency Training for Cross-lingual Named Entity Recognition.,2022,"Ran Zhou, Xin Li, Lidong Bing, Erik Cambria, Luo Si, Chunyan Miao",EMNLP 2022: 8438-8449,EMNLP,A*
+70,DualCF: Efficient Model Extraction Attack from Counterfactual Explanations.,2022,"Yongjie Wang, Hangwei Qian, Chunyan Miao",FAccT 2022: 1318-1329,FAT,Unranked
+71,Optimal Targeted Advertising Strategy for Secure Wireless Edge Metaverse.,2022,"Hongyang Du, Dusit Niyato, Chunyan Miao, Jiawen Kang, Dong In Kim",GLOBECOM 2022: 4346-4351,GLOBECOM,B
+72,Stochastic Resource Allocation in Quantum Key Distribution for Secure Federated Learning.,2022,"Minrui Xu, Wei Chong Ng, Dusit Niyato, Han Yu, Chunyan Miao, Dong In Kim, Xuemin Sherman Shen",GLOBECOM 2022: 4377-4382,GLOBECOM,B
+73,A Comparison of Web Services for Sentiment Analysis in Digital Mental Health Interventions.,2022,"Benny Toh Hsiang Tan, Sufang Lim, Yang Qiu, Chunyan Miao",HCI  2022: 389-407,HCI,National
+74,Economics of Semantic Communication System in Wireless Powered Internet of Things.,2022,"Zi Qin Liew, Yanyu Cheng, Wei Yang Bryan Lim, Dusit Niyato, Chunyan Miao, Sumei Sun",ICASSP 2022: 8637-8641,ICASSP,Unranked
+75,Evolutionary Model Owner Selection for Federated Learning with Heterogeneous Privacy Budgets.,2022,"Wei Yang Bryan Lim, Jer Shyuan Ng, Jiangtian Nie, Qin Hu, Zehui Xiong, Dusit Niyato, Chunyan Miao",ICC 2022: 980-985,ICC,Unranked
+76,A Dynamic Resource Allocation Framework for Synchronizing Metaverse with IoT Service and Data.,2022,"Yue Han, Dusit Niyato, Cyril Leung, Chunyan Miao, Dong In Kim",ICC 2022: 1196-1201,ICC,Unranked
+77,UAV-assisted Wireless Power Charging for Efficient Hybrid Coded Edge Computing Network.,2022,"Jer Shyuan Ng, Wei Chong Ng, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Cyril Leung, Chunyan Miao",ICC 2022: 4037-4042,ICC,Unranked
+78,Unified Resource Allocation Framework for the Edge Intelligence-Enabled Metaverse.,2022,"Wei Chong Ng, Wei Yang Bryan Lim, Jer Shyuan Ng, Zehui Xiong, Dusit Niyato, Chunyan Miao",ICC 2022: 5214-5219,ICC,Unranked
+79,Wireless Edge-Empowered Metaverse: A Learning-Based Incentive Mechanism for Virtual Reality.,2022,"Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Chunyan Miao, Dong In Kim",ICC 2022: 5220-5225,ICC,Unranked
+80,On Non-Random Missing Labels in Semi-Supervised Learning.,2022,"Xinting Hu, Yulei Niu, Chunyan Miao, Xian-Sheng Hua, Hanwang Zhang",ICLR 2022,ICLR,A*
+81,SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification.,2022,"Haocong Rao, Chunyan Miao",IJCAI 2022: 1290-1297,IJCAI,A*
+82,Enhancing Sequential Recommendation with Graph Contrastive Learning.,2022,"Yixin Zhang, Yong Liu, Yonghui Xu, Hao Xiong, Chenyi Lei, Wei He, Lizhen Cui, Chunyan Miao",IJCAI 2022: 2398-2405,IJCAI,A*
+83,CCLF: A Contrastive-Curiosity-Driven Learning Framework for Sample-Efficient Reinforcement Learning.,2022,"Chenyu Sun, Hangwei Qian, Chunyan Miao",IJCAI 2022: 3444-3450,IJCAI,A*
+84,Pre-Training 3D Convolutional Neural Networks for Prodromal Alzheimer's Disease Classification.,2022,"Hongchao Jiang, Chunyan Miao",IJCNN 2022: 1-8,IJCNN,B
+85,Missing Value Imputation for Diabetes Prediction.,2022,"Fei Luo, Hangwei Qian, Di Wang, Xu Guo, Yan Sun, Eng Sing Lee, Hui Hwang Teong, Ray Tian Rui Lai, Chunyan Miao",IJCNN 2022: 1-8,IJCNN,B
+86,CD-SLFN: A Curiosity-Driven Online Sequential Learning Framework with Self-Adaptive Hot Cognition.,2022,"Chenyu Sun, Chunyan Miao",IJCNN 2022: 1-8,IJCNN,B
+87,What Makes Good Contrastive Learning on Small-Scale Wearable-based Tasks?,2022,"Hangwei Qian, Tian Tian, Chunyan Miao",KDD 2022: 3761-3771,KDD,A*
+88,Towards Counterfactual Image Manipulation via CLIP.,2022,"Yingchen Yu, Fangneng Zhan, Rongliang Wu, Jiahui Zhang, Shijian Lu, Miaomiao Cui, Xuansong Xie, Xian-Sheng Hua, Chunyan Miao",ACM Multimedia 2022: 3637-3645,MM,Unranked
+89,Paired Cross-Modal Data Augmentation for Fine-Grained Image-to-Text Retrieval.,2022,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",ACM Multimedia 2022: 5517-5526,MM,Unranked
+90,Efficient Reachability Query with Extreme Labeling Filter.,2022,"Zhixiang Su, Di Wang, Xiaofeng Zhang, Lizhen Cui, Chunyan Miao",WSDM 2022: 966-975,WSDM,A
+91,"IEEE Symposium Series on Computational Intelligence, SSCI 2022, Singapore, December 4-7, 2022.",2022,"Hisao Ishibuchi, Chee-Keong Kwoh, Ah-Hwee Tan, Dipti Srinivasan, Chunyan Miao, Anupam Trivedi, Keeley A. Crockett","IEEE 2022, ISBN 978-1-6654-8768-9 ",SSCI,Unranked
+92,Realizing the Metaverse with Edge Intelligence: A Match Made in Heaven.,2022,"Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xianbin Cao, Chunyan Miao, Sumei Sun, Qiang Yang",CoRR abs/2201.01634 ,CORR,Unranked
+93,From Psychological Curiosity to Artificial Curiosity: Curiosity-Driven Learning in Artificial Intelligence Tasks.,2022,"Chenyu Sun, Hangwei Qian, Chunyan Miao",CoRR abs/2201.08300 ,CORR,Unranked
+94,What Makes Good Contrastive Learning on Small-Scale Wearable-based Tasks?,2022,"Hangwei Qian, Tian Tian, Chunyan Miao",CoRR abs/2202.05998 ,CORR,Unranked
+95,Stochastic Coded Offloading Scheme for Unmanned Aerial Vehicle-Assisted Edge Computing.,2022,"Wei Chong Ng, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Chunyan Miao, Zhu Han, Dong In Kim",CoRR abs/2202.11697 ,CORR,Unranked
+96,A Dynamic Hierarchical Framework for IoT-assisted Metaverse Synchronization.,2022,"Yue Han, Dusit Niyato, Cyril Leung, Dong In Kim, Kun Zhu, Shaohan Feng, Xuemin Sherman Shen, Chunyan Miao",CoRR abs/2203.03969 ,CORR,Unranked
+97,"A Full Dive into Realizing the Edge-enabled Metaverse: Visions, Enabling Technologies, and Challenges.",2022,"Minrui Xu, Wei Chong Ng, Wei Yang Bryan Lim, Jiawen Kang, Zehui Xiong, Dusit Niyato, Qiang Yang, Xuemin Sherman Shen, Chunyan Miao",CoRR abs/2203.05471 ,CORR,Unranked
+98,SSD-KD: A Self-supervised Diverse Knowledge Distillation Method for Lightweight Skin Lesion Classification Using Dermoscopic Images.,2022,"Yongwei Wang, Yuheng Wang, Tim K. Lee, Chunyan Miao, Z. Jane Wang",CoRR abs/2203.11490 ,CORR,Unranked
+99,Semantic Information Market For The Metaverse: An Auction Based Approach.,2022,"Ismail Lotfi, Dusit Niyato, Sumei Sun, Dong In Kim, Melike Erol-Kantarci, Chunyan Miao",CoRR abs/2204.04878 ,CORR,Unranked
+100,"Quantum-Secured Space-Air-Ground Integrated Networks: Concept, Framework, and Case Study.",2022,"Minrui Xu, Dusit Niyato, Zehui Xiong, Jiawen Kang, Xianbin Cao, Xuemin Sherman Shen, Chunyan Miao",CoRR abs/2204.08673 ,CORR,Unranked
+101,SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification.,2022,"Haocong Rao, Chunyan Miao",CoRR abs/2204.09826 ,CORR,Unranked
+102,CCLF: A Contrastive-Curiosity-Driven Learning Framework for Sample-Efficient Reinforcement Learning.,2022,"Chenyu Sun, Hangwei Qian, Chunyan Miao",CoRR abs/2205.00943 ,CORR,Unranked
+103,DualCF: Efficient Model Extraction Attack from Counterfactual Explanations.,2022,"Yongjie Wang, Hangwei Qian, Chunyan Miao",CoRR abs/2205.06504 ,CORR,Unranked
+104,Enhancing Sequential Recommendation with Graph Contrastive Learning.,2022,"Yixin Zhang, Yong Liu, Yonghui Xu, Hao Xiong, Chenyi Lei, Wei He, Lizhen Cui, Chunyan Miao",CoRR abs/2205.14837 ,CORR,Unranked
+105,Minimalist and High-performance Conversational Recommendation with Uncertainty Estimation for User Preference.,2022,"Yinan Zhang, Boyang Li, Yong Liu, You Yuan, Chunyan Miao",CoRR abs/2206.14468 ,CORR,Unranked
+106,On Non-Random Missing Labels in Semi-Supervised Learning.,2022,"Xinting Hu, Yulei Niu, Chunyan Miao, Xian-Sheng Hua, Hanwang Zhang",CoRR abs/2206.14923 ,CORR,Unranked
+107,"Semantic Communications for 6G Future Internet: Fundamentals, Applications, and Challenges.",2022,"Wanting Yang, Hongyang Du, Zi Qin Liew, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xuefen Chi, Xuemin Sherman Shen, Chunyan Miao",CoRR abs/2207.00427 ,CORR,Unranked
+108,Towards Counterfactual Image Manipulation via CLIP.,2022,"Yingchen Yu, Fangneng Zhan, Rongliang Wu, Jiahui Zhang, Shijian Lu, Miaomiao Cui, Xuansong Xie, Xian-Sheng Hua, Chunyan Miao",CoRR abs/2207.02812 ,CORR,Unranked
+109,Bootstrap Latent Representations for Multi-modal Recommendation.,2022,"Xin Zhou, Hongyu Zhou, Yong Liu, Zhiwei Zeng, Chunyan Miao, Pengwei Wang, Yuan You, Feijun Jiang",CoRR abs/2207.05969 ,CORR,Unranked
+110,Layer-refined Graph Convolutional Networks for Recommendation.,2022,"Xin Zhou, Donghui Lin, Yong Liu, Chunyan Miao",CoRR abs/2207.11088 ,CORR,Unranked
+111,3D Cartoon Face Generation with Controllable Expressions from a Single GAN Image.,2022,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",CoRR abs/2207.14425 ,CORR,Unranked
+112,Paired Cross-Modal Data Augmentation for Fine-Grained Image-to-Text Retrieval.,2022,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",CoRR abs/2207.14428 ,CORR,Unranked
+113,Economics of Semantic Communication System: An Auction Approach.,2022,"Zi Qin Liew, Hongyang Du, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Chunyan Miao, Dong In Kim",CoRR abs/2208.05040 ,CORR,Unranked
+114,Skeleton Prototype Contrastive Learning with Multi-Level Graph Relation Modeling for Unsupervised Person Re-Identification.,2022,"Haocong Rao, Chunyan Miao",CoRR abs/2208.11814 ,CORR,Unranked
+115,Stochastic Resource Allocation for Semantic Communication-aided Virtual Transportation Networks in the Metaverse.,2022,"Wei Chong Ng, Hongyang Du, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Chunyan Miao",CoRR abs/2208.14661 ,CORR,Unranked
+116,ManiCLIP: Multi-Attribute Face Manipulation from Text.,2022,"Hao Wang, Guosheng Lin, Ana Garcia del Molino, Anran Wang, Zehuan Yuan, Chunyan Miao, Jiashi Feng",CoRR abs/2210.00445 ,CORR,Unranked
+117,Exploring Representation-Level Augmentation for Code Search.,2022,"Haochen Li, Chunyan Miao, Cyril Leung, Yanxian Huang, Yuan Huang, Hongyu Zhang, Yanlin Wang",CoRR abs/2210.12285 ,CORR,Unranked
+118,"Towards Green Metaverse Networking Technologies, Advancements and Future Directions.",2022,"Siyue Zhang, Wei Yang Bryan Lim, Wei Chong Ng, Zehui Xiong, Dusit Niyato, Xuemin Sherman Shen, Chunyan Miao",CoRR abs/2211.03057 ,CORR,Unranked
+119,On Inferring User Socioeconomic Status with Mobility Records.,2022,"Zheng Wang, Mingrui Liu, Cheng Long, Qianru Zhang, Jiangneng Li, Chunyan Miao",CoRR abs/2211.08200 ,CORR,Unranked
+120,ConNER: Consistency Training for Cross-lingual Named Entity Recognition.,2022,"Ran Zhou, Xin Li, Lidong Bing, Erik Cambria, Luo Si, Chunyan Miao",CoRR abs/2211.09394 ,CORR,Unranked
+121,Toward Efficient Language Model Pretraining and Downstream Adaptation via Self-Evolution: A Case Study on SuperGLUE.,2022,"Qihuang Zhong, Liang Ding, Yibing Zhan, Yu Qiao, Yonggang Wen, Li Shen, Juhua Liu, Baosheng Yu, Bo Du, Yixin Chen, Xinbo Gao, Chunyan Miao, Xiaoou Tang, Dacheng Tao",CoRR abs/2212.01853 ,CORR,Unranked
+122,Weakly-supervised sensor-based activity segmentation and recognition via learning from distributions.,2021,"Hangwei Qian, Sinno Jialin Pan, Chunyan Miao",Artif. Intell. 292: 103429 ,AI,Australasian B
+123,Optimizing Smart Grid Operations from the Demand Side.,2021,"Yongqing Zheng, Han Yu, Yuliang Shi, Kun Zhang, Shuai Zhen, Lizhen Cui, Cyril Leung, Chunyan Miao",AI Mag. 42: 28-37 ,AIM,Unranked
+124,Improving Search Engine Efficiency through Contextual Factor Selection.,2021,"Anxiang Zeng, Han Yu, Qing Da, Yusen Zhan, Yang Yu, Jingren Zhou, Chunyan Miao",AI Mag. 42: 50-58 ,AIM,Unranked
+125,Proof of Learning (PoLe): Empowering neural network training with consensus building on blockchains.,2021,"Yuan Liu, Yixiao Lan, Boyang Li, Chunyan Miao, Zhihong Tian",Comput. Networks 201: 108594 ,CN,National
+126,"A Comprehensive Survey on Coded Distributed Computing: Fundamentals, Challenges, and Networking Applications.",2021,"Jer Shyuan Ng, Wei Yang Bryan Lim, Nguyen Cong Luong, Zehui Xiong, Alia Asheralieva, Dusit Niyato, Cyril Leung, Chunyan Miao",IEEE Commun. Surv. Tutorials 23: 1800-1837 ,COMSUR,Unranked
+127,Ping Pong: An Exergame for Cognitive Inhibition Training.,2021,"Hao Zhang, Zhiqi Shen, Siyuan Liu, Dazhong Yuan, Chunyan Miao",Int. J. Hum. Comput. Interact. 37: 1104-1115 ,IJHCI,Unranked
+128,Development and validation of a practical instrument for evaluating players' familiarity with exergames.,2021,"Hao Zhang, Di Wang, Yu Wang, Ying Chi, Chunyan Miao",Int. J. Hum. Comput. Stud. 145: 102521 ,IJMMS,Unranked
+129,Federated Learning in the Sky: Aerial-Ground Air Quality Sensing Framework With UAV Swarms.,2021,"Yi Liu, Jiangtian Nie, Xuandi Li, Syed Hassan Ahmed, Wei Yang Bryan Lim, Chunyan Miao",IEEE Internet Things J. 8: 9827-9837 ,IOTJ,Unranked
+130,Dynamic Contract Design for Federated Learning in Smart Healthcare Applications.,2021,"Wei Yang Bryan Lim, Sahil Garg, Zehui Xiong, Dusit Niyato, Cyril Leung, Chunyan Miao, Mohsen Guizani",IEEE Internet Things J. 8: 16853-16862 ,IOTJ,Unranked
+131,Dynamic Edge Association and Resource Allocation in Self-Organizing Hierarchical Federated Learning Networks.,2021,"Wei Yang Bryan Lim, Jer Shyuan Ng, Zehui Xiong, Dusit Niyato, Chunyan Miao, Dong In Kim",IEEE J. Sel. Areas Commun. 39: 3640-3653 ,JSAC,Unranked
+132,Adaptive Power Iteration Clustering.,2021,"Bo Liu, Yong Liu, Huiyan Zhang, Yonghui Xu, Can Tang, Lianggui Tang, Huafeng Qin, Chunyan Miao",Knowl. Based Syst. 225: 107118 ,KBS,Unranked
+133,UAV-Assisted Communication Efficient Federated Learning in the Era of the Artificial Intelligence of Things.,2021,"Wei Yang Bryan Lim, Sahil Garg, Zehui Xiong, Yang Zhang, Dusit Niyato, Cyril Leung, Chunyan Miao",IEEE Netw. 35: 188-195 ,NETWORK,Unranked
+134,UAV-Assisted Wireless Energy and Data Transfer With Deep Reinforcement Learning.,2021,"Zehui Xiong, Yang Zhang, Wei Yang Bryan Lim, Jiawen Kang, Dusit Niyato, Cyril Leung, Chunyan Miao",IEEE Trans. Cogn. Commun. Netw. 7: 85-99 ,TCCN,Unranked
+135,Joint Auction-Coalition Formation Framework for Communication-Efficient Federated Learning in UAV-Enabled Internet of Vehicles.,2021,"Jer Shyuan Ng, Wei Yang Bryan Lim, Hong-Ning Dai, Zehui Xiong, Jianqiang Huang, Dusit Niyato, Xian-Sheng Hua, Cyril Leung, Chunyan Miao",IEEE Trans. Intell. Transp. Syst. 22: 2326-2344 ,TITS,Unranked
+136,Towards Federated Learning in UAV-Enabled Internet of Vehicles: A Multi-Dimensional Contract-Matching Approach.,2021,"Wei Yang Bryan Lim, Jianqiang Huang, Zehui Xiong, Jiawen Kang, Dusit Niyato, Xian-Sheng Hua, Cyril Leung, Chunyan Miao",IEEE Trans. Intell. Transp. Syst. 22: 5140-5154 ,TITS,Unranked
+137,Optimizing Task Assignment for Reliable Blockchain-Empowered Federated Edge Learning.,2021,"Jiawen Kang, Zehui Xiong, Xuandi Li, Yang Zhang, Dusit Niyato, Cyril Leung, Chunyan Miao",IEEE Trans. Veh. Technol. 70: 1910-1923 ,TVT,Unranked
+138,A Hybrid Bandit Framework for Diversified Recommendation.,2021,"Qinxu Ding, Yong Liu, Chunyan Miao, Fei Cheng, Haihong Tang",AAAI 2021: 4036-4044,AAAI,A*
+139,HyDRA: Hypergradient Data Relevance Analysis for Interpreting Deep Neural Networks.,2021,"Yuanyuan Chen, Boyang Li, Han Yu, Pengcheng Wu, Chunyan Miao",AAAI 2021: 7081-7089,AAAI,A*
+140,Latent Independent Excitation for Generalizable Sensor-based Cross-Person Activity Recognition.,2021,"Hangwei Qian, Sinno Jialin Pan, Chunyan Miao",AAAI 2021: 11921-11929,AAAI,A*
+141,Keyword-Guided Neural Conversational Model.,2021,"Peixiang Zhong, Yong Liu, Hao Wang, Chunyan Miao",AAAI 2021: 14568-14576,AAAI,A*
+142,CARE: Commonsense-Aware Emotional Response Generation with Latent Concepts.,2021,"Peixiang Zhong, Di Wang, Pengfei Li, Chen Zhang, Hao Wang, Chunyan Miao",AAAI 2021: 14577-14585,AAAI,A*
+143,Enhancing E-commerce Recommender System Adaptability with Online Deep Controllable Learning-To-Rank.,2021,"Anxiang Zeng, Han Yu, Hua-Lin He, Yabo Ni, Yongliang Li, Jingren Zhou, Chunyan Miao",AAAI 2021: 15214-15222,AAAI,A*
+144,AI-Empowered Decision Support for COVID-19 Social Distancing.,2021,"Hongchao Jiang, Wei Yang Bryan Lim, Jer Shyuan Ng, Harold Ze Chie Teng, Han Yu, Zehui Xiong, Dusit Niyato, Chunyan Miao",AAAI 2021: 16044-16047,AAAI,A*
+145,Mobile-based Clock Drawing Test for Detecting Early Signs of Dementia.,2021,"Hongchao Jiang, Yanci Zhang, Zhiwei Zeng, Jun Ji, Yu Wang, Ying Chi, Chunyan Miao",AAAI 2021: 16048-16050,AAAI,A*
+146,Proof of Learning (PoLe): Empowering Machine Learning with Consensus Building on Blockchains (Demo).,2021,"Yixiao Lan, Yuan Liu, Boyang Li, Chunyan Miao",AAAI 2021: 16063-16066,AAAI,A*
+147,MulDA: A Multilingual Data Augmentation Framework for Low-Resource Cross-Lingual NER.,2021,"Linlin Liu, Bosheng Ding, Lidong Bing, Shafiq R. Joty, Luo Si, Chunyan Miao",ACL/IJCNLP  2021: 5834-5846,ACL,A*
+148,Multi-modal Information Fusion-powered Regional Covid-19 Epidemic Forecasting.,2021,"Honglu Zhang, Yonghui Xu, Lei Liu, Xudong Lu, Xijie Lin, Zhongmin Yan, Lizhen Cui, Chunyan Miao",BIBM 2021: 779-784,BIBM,Unranked
+149,Personalized Clinical Pathway Recommendation via Attention Based Pre-training.,2021,"Xijie Lin, Yuan Li, Yonghui Xu, Wei Guo, Wei He, Honglu Zhang, Lizhen Cui, Chunyan Miao",BIBM 2021: 980-987,BIBM,Unranked
+150,The Skyline of Counterfactual Explanations for Machine Learning Decision Models.,2021,"Yongjie Wang, Qinxu Ding, Ke Wang, Yue Liu, Xingyu Wu, Jinglong Wang, Yong Liu, Chunyan Miao",CIKM 2021: 2030-2039,CIKM,A
+151,Unsupervised Categorical Representation Learning for Package Arrival Time Prediction.,2021,"Yang Li, Xingyu Wu, Jinglong Wang, Yong Liu, Xiaoqing Wang, Yuming Deng, Chunyan Miao",CIKM 2021: 3935-3944,CIKM,A
+152,Distilling Causal Effect of Data in Class-Incremental Learning.,2021,"Xinting Hu, Kaihua Tang, Chunyan Miao, Xian-Sheng Hua, Hanwang Zhang",CVPR 2021: 3957-3966,CVPR,A*
+153,Noise-Resistant Deep Metric Learning With Ranking-Based Instance Selection.,2021,"Chang Liu, Han Yu, Boyang Li, Zhiqi Shen, Zhanning Gao, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",CVPR 2021: 6811-6820,CVPR,A*
+154,Unbalanced Feature Transport for Exemplar-Based Image Translation.,2021,"Fangneng Zhan, Yingchen Yu, Kaiwen Cui, Gongjie Zhang, Shijian Lu, Jianxiong Pan, Changgong Zhang, Feiying Ma, Xuansong Xie, Chunyan Miao",CVPR 2021: 15028-15038,CVPR,A*
+155,A Goal Oriented Storytelling Model for Improvement of Health Game Experiences Among Older Adults.,2021,"Zhengxiang Pan, Hao Zhang, Yaming Zhang, Cyril Leung, Chunyan Miao",HCI  2021: 135-152,HCI,National
+156,Infusing Motivation into Reminders for Improving Medication Adherence.,2021,"Yaming Zhang, Yang Qiu, Zhengxiang Pan, Xinjia Yu, Chunyan Miao",HCI  2021: 456-471,HCI,National
+157,Towards Parkinson's Disease Prognosis Using Self-Supervised Learning and Anomaly Detection.,2021,"Hongchao Jiang, Wei Yang Bryan Lim, Jer Shyuan Ng, Yu Wang, Ying Chi, Chunyan Miao",ICASSP 2021: 3960-3964,ICASSP,Unranked
+158,Practices of Using Blockchain Technology in e-Learning.,2021,"Jun Lin, Bei Li, Lizhen Cui, Chunyan Miao",ICCSE 2021: 55-60,ICCSE,Unranked
+159,Exploring the use of Virtual Reality for Evaluating Activities of Daily Living: A Usability Study.,2021,"Benny Toh Hsiang Tan, Huiguo Zhang, Chunyan Miao, Siyuan Liu",ICCSE 2021: 119-123,ICCSE,Unranked
+160,WaveFill: A Wavelet-based Generation Network for Image Inpainting.,2021,"Yingchen Yu, Fangneng Zhan, Shijian Lu, Jianxiong Pan, Feiying Ma, Xuansong Xie, Chunyan Miao",ICCV 2021: 14094-14103,ICCV,A*
+161,Summarizing User-Item Matrix By Group Utility Maximization.,2021,"Yongjie Wang, Ke Wang, Cheng Long, Chunyan Miao",ICDM 2021: 1409-1414,ICDM,A*
+162,Enhancing Viewing Experience of Generated Visual Storylines for Promotional Videos.,2021,"Chang Liu, Han Yu, Zhiqi Shen, Ian Dixon, Yingxue Yu, Zhanning Gao, Pan Wang, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",ICME 2021: 1-6,ICMCS,Unranked
+163,Predictive Analytics for COVID-19 Social Distancing.,2021,"Harold Ze Chie Teng, Hongchao Jiang, Xuan Rong Zane Ho, Wei Yang Bryan Lim, Jer Shyuan Ng, Han Yu, Zehui Xiong, Dusit Niyato, Chunyan Miao",IJCAI 2021: 5016-5019,IJCAI,A*
+164,Initialization Matters: Regularizing Manifold-informed Initialization for Neural Recommendation Systems.,2021,"Yinan Zhang, Boyang Li, Yong Liu, Hao Wang, Chunyan Miao",KDD 2021: 2263-2273,KDD,A*
+165,SEMI: A Sequential Multi-Modal Information Transfer Network for E-Commerce Micro-Video Recommendations.,2021,"Chenyi Lei, Yong Liu, Lingzi Zhang, Guoxin Wang, Haihong Tang, Houqiang Li, Chunyan Miao",KDD 2021: 3161-3171,KDD,A*
+166,Diverse Image Inpainting with Bidirectional and Autoregressive Transformers.,2021,"Yingchen Yu, Fangneng Zhan, Rongliang Wu, Jianxiong Pan, Kaiwen Cui, Shijian Lu, Feiying Ma, Xuansong Xie, Chunyan Miao",ACM Multimedia 2021: 69-78,MM,Unranked
+167,Cycle-Consistent Inverse GAN for Text-to-Image Synthesis.,2021,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",ACM Multimedia 2021: 630-638,MM,Unranked
+168,Understanding Chinese Video and Language via Contrastive Multimodal Pre-Training.,2021,"Chenyi Lei, Shixian Luo, Yong Liu, Wanggui He, Jiamang Wang, Guoxin Wang, Haihong Tang, Chunyan Miao, Houqiang Li",ACM Multimedia 2021: 2567-2576,MM,Unranked
+169,Pre-training Graph Transformer with Multimodal Side Information for Recommendation.,2021,"Yong Liu, Susen Yang, Chenyi Lei, Guoxin Wang, Haihong Tang, Juyong Zhang, Aixin Sun, Chunyan Miao",ACM Multimedia 2021: 2853-2861,MM,Unranked
+170,Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection.,2021,"Xu Guo, Boyang Li, Han Yu, Chunyan Miao",NAACL-HLT 2021: 5394-5407,NAACL,A
+171,Goal Modelling for Deep Reinforcement Learning Agents.,2021,"Jonathan Leung, Zhiqi Shen, Zhiwei Zeng, Chunyan Miao",ECML/PKDD  2021: 271-286,PKDD,Unranked
+172,Dynamic Edge Association in Hierarchical Federated Learning Networks.,2021,"Wei Yang Bryan Lim, Jer Shyuan Ng, Zehui Xiong, Sahil Garg, Yang Zhang, Dusit Niyato, Chunyan Miao",TrustCom 2021: 1124-1131,TRUSTCOM,Unranked
+173,"KDD '21: The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Virtual Event, Singapore, August 14-18, 2021.",2021,"Feida Zhu, Beng Chin Ooi, Chunyan Miao","ACM 2021, ISBN 978-1-4503-8332-5 ",KDD,A*
+174,HYDRA: Hypergradient Data Relevance Analysis for Interpreting Deep Neural Networks.,2021,"Yuanyuan Chen, Boyang Li, Han Yu, Pengcheng Wu, Chunyan Miao",CoRR abs/2102.02515 ,CORR,Unranked
+175,Distilling Causal Effect of Data in Class-Incremental Learning.,2021,"Xinting Hu, Kaihua Tang, Chunyan Miao, Xian-Sheng Hua, Hanwang Zhang",CoRR abs/2103.01737 ,CORR,Unranked
+176,Noise-resistant Deep Metric Learning with Ranking-based Instance Selection.,2021,"Chang Liu, Han Yu, Boyang Li, Zhiqi Shen, Zhanning Gao, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",CoRR abs/2103.16047 ,CORR,Unranked
+177,Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection.,2021,"Xu Guo, Boyang Li, Han Yu, Chunyan Miao",CoRR abs/2104.09261 ,CORR,Unranked
+178,Understanding Chinese Video and Language via Contrastive Multimodal Pre-Training.,2021,"Chenyi Lei, Shixian Luo, Yong Liu, Wanggui He, Jiamang Wang, Guoxin Wang, Haihong Tang, Chunyan Miao, Houqiang Li",CoRR abs/2104.09411 ,CORR,Unranked
+179,Diverse Image Inpainting with Bidirectional and Autoregressive Transformers.,2021,"Yingchen Yu, Fangneng Zhan, Rongliang Wu, Jianxiong Pan, Kaiwen Cui, Shijian Lu, Feiying Ma, Xuansong Xie, Chunyan Miao",CoRR abs/2104.12335 ,CORR,Unranked
+180,On Decentralization of Bitcoin: An Asset Perspective.,2021,"Ling Cheng, Feida Zhu, Huiwen Liu, Chunyan Miao",CoRR abs/2105.07646 ,CORR,Unranked
+181,KECRS: Towards Knowledge-Enriched Conversational Recommendation System.,2021,"Tong Zhang, Yong Liu, Peixiang Zhong, Chen Zhang, Hao Wang, Chunyan Miao",CoRR abs/2105.08261 ,CORR,Unranked
+182,Initialization Matters: Regularizing Manifold-informed Initialization for Neural Recommendation Systems.,2021,"Yinan Zhang, Boyang Li, Yong Liu, Hao Wang, Chunyan Miao",CoRR abs/2106.04993 ,CORR,Unranked
+183,Unbalanced Feature Transport for Exemplar-based Image Translation.,2021,"Fangneng Zhan, Yingchen Yu, Kaiwen Cui, Gongjie Zhang, Shijian Lu, Jianxiong Pan, Changgong Zhang, Feiying Ma, Xuansong Xie, Chunyan Miao",CoRR abs/2106.10482 ,CORR,Unranked
+184,SelfCF: A Simple Framework for Self-supervised Collaborative Filtering.,2021,"Xin Zhou, Aixin Sun, Yong Liu, Jie Zhang, Chunyan Miao",CoRR abs/2107.03019 ,CORR,Unranked
+185,WaveFill: A Wavelet-based Generation Network for Image Inpainting.,2021,"Yingchen Yu, Fangneng Zhan, Shijian Lu, Jianxiong Pan, Feiying Ma, Xuansong Xie, Chunyan Miao",CoRR abs/2107.11027 ,CORR,Unranked
+186,Cycle-Consistent Inverse GAN for Text-to-Image Synthesis.,2021,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",CoRR abs/2108.01361 ,CORR,Unranked
+187,Noise-Resistant Deep Metric Learning with Probabilistic Instance Filtering.,2021,"Chang Liu, Han Yu, Boyang Li, Zhiqi Shen, Zhanning Gao, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",CoRR abs/2108.01431 ,CORR,Unranked
+188,A Contract Theory based Incentive Mechanism for Federated Learning.,2021,"Mengmeng Tian, Yuxin Chen, Yuan Liu, Zehui Xiong, Cyril Leung, Chunyan Miao",CoRR abs/2108.05568 ,CORR,Unranked
+189,Cross-Modal Graph with Meta Concepts for Video Captioning.,2021,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",CoRR abs/2108.06458 ,CORR,Unranked
+190,MELM: Data Augmentation with Masked Entity Language Modeling for Cross-lingual NER.,2021,"Ran Zhou, Ruidan He, Xin Li, Lidong Bing, Erik Cambria, Luo Si, Chunyan Miao",CoRR abs/2108.13655 ,CORR,Unranked
+191,A Survey on Reinforcement Learning for Recommender Systems.,2021,"Yuanguo Lin, Yong Liu, Fan Lin, Pengcheng Wu, Wenhua Zeng, Chunyan Miao",CoRR abs/2109.10665 ,CORR,Unranked
+192,Dynamics in Coded Edge Computing for IoT: A Fractional Evolutionary Game Approach.,2021,"Yue Han, Dusit Niyato, Cyril Leung, Chunyan Miao, Dong In Kim",CoRR abs/2109.13586 ,CORR,Unranked
+193,Geometry-Entangled Visual Semantic Transformer for Image Captioning.,2021,"Ling Cheng, Wei Wei, Feida Zhu, Yong Liu, Chunyan Miao",CoRR abs/2109.14137 ,CORR,Unranked
+194,Learning Structural Representations for Recipe Generation and Food Retrieval.,2021,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",CoRR abs/2110.01209 ,CORR,Unranked
+195,Economics of Semantic Communication System in Wireless Powered Internet of Things.,2021,"Zi Qin Liew, Yanyu Cheng, Wei Yang Bryan Lim, Dusit Niyato, Chunyan Miao, Sumei Sun",CoRR abs/2110.01423 ,CORR,Unranked
+196,GlobalWoZ: Globalizing MultiWoZ to Develop Multilingual Task-Oriented Dialogue Systems.,2021,"Bosheng Ding, Junjie Hu, Lidong Bing, Sharifah Aljunied Mahani, Shafiq R. Joty, Luo Si, Chunyan Miao",CoRR abs/2110.07679 ,CORR,Unranked
+197,Hierarchical Aspect-guided Explanation Generation for Explainable Recommendation.,2021,"Yidan Hu, Yong Liu, Chunyan Miao, Gongqi Lin, Yuan Miao",CoRR abs/2110.10358 ,CORR,Unranked
+198,Unified Resource Allocation Framework for the Edge Intelligence-Enabled Metaverse.,2021,"Wei Chong Ng, Wei Yang Bryan Lim, Jer Shyuan Ng, Zehui Xiong, Dusit Niyato, Chunyan Miao",CoRR abs/2110.14325 ,CORR,Unranked
+199,A Dynamic Resource Allocation Framework for Synchronizing Metaverse with IoT Service and Data.,2021,"Yue Han, Dusit Niyato, Cyril Leung, Chunyan Miao, Dong In Kim",CoRR abs/2111.00431 ,CORR,Unranked
+200,Optimal Targeted Advertising Strategy For Secure Wireless Edge Metaverse.,2021,"Hongyang Du, Dusit Niyato, Jiawen Kang, Dong In Kim, Chunyan Miao",CoRR abs/2111.00511 ,CORR,Unranked
+201,Wireless Edge-Empowered Metaverse: A Learning-Based Incentive Mechanism for Virtual Reality.,2021,"Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Chunyan Miao, Dong In Kim",CoRR abs/2111.03776 ,CORR,Unranked
+202,Reliable Coded Distributed Computing for Metaverse Services: Coalition Formation and Incentive Mechanism Design.,2021,"Yuna Jiang, Jiawen Kang, Dusit Niyato, Xiaohu Ge, Zehui Xiong, Chunyan Miao",CoRR abs/2111.10548 ,CORR,Unranked
+203,Stack-VS: Stacked Visual-Semantic Attention for Image Caption Generation.,2020,"Ling Cheng, Wei Wei, Xianling Mao, Yong Liu, Chunyan Miao",IEEE Access 8: 154953-154965 ,ACCESS,Unranked
+204,Addressing the Challenges of Government Service Provision with AI.,2020,"Yongqing Zheng, Han Yu, Lizhen Cui, Chunyan Miao, Cyril Leung, Yang Liu, Qiang Yang",AI Mag. 41: 33-43 ,AIM,Unranked
+205,Federated Learning in Mobile Edge Networks: A Comprehensive Survey.,2020,"Wei Yang Bryan Lim, Nguyen Cong Luong, Dinh Thai Hoang, Yutao Jiao, Ying-Chang Liang, Qiang Yang, Dusit Niyato, Chunyan Miao",IEEE Commun. Surv. Tutorials 22: 2031-2063 ,COMSUR,Unranked
+206,A systematic density-based clustering method using anchor points.,2020,"Yizhang Wang, Di Wang, Wei Pang, Chunyan Miao, Ah-Hwee Tan, You Zhou",Neurocomputing 400: 352-370 ,IJON,Unranked
+207,Kernel-target alignment based non-linear metric learning.,2020,"Yonghui Xu, Chunyan Miao, Yong Liu, Hengjie Song, Yi Hu, Huaqing Min",Neurocomputing 411: 54-66 ,IJON,Unranked
+208,Hierarchical Incentive Mechanism Design for Federated Machine Learning in Mobile Networks.,2020,"Wei Yang Bryan Lim, Zehui Xiong, Chunyan Miao, Dusit Niyato, Qiang Yang, Cyril Leung, H. Vincent Poor",IEEE Internet Things J. 7: 9575-9588 ,IOTJ,Unranked
+209,McDPC: multi-center density peak clustering.,2020,"Yizhang Wang, Di Wang, Xiaofeng Zhang, Wei Pang, Chunyan Miao, Ah-Hwee Tan, You Zhou",Neural Comput. Appl. 32: 13465-13478 ,NCA,B
+210,Accurate Markov Boundary Discovery for Causal Feature Selection.,2020,"Xingyu Wu, Bingbing Jiang, Kui Yu, Chunyan Miao, Huanhuan Chen",IEEE Trans. Cybern. 50: 4983-4996 ,TCYB,Unranked
+211,Diversified Interactive Recommendation with Implicit Feedback.,2020,"Yong Liu, Yingtai Xiao, Qiong Wu, Chunyan Miao, Juyong Zhang, Binqiang Zhao, Haihong Tang",AAAI 2020: 4932-4939,AAAI,A*
+212,Multi-Label Causal Feature Selection.,2020,"Xingyu Wu, Bingbing Jiang, Kui Yu, Huanhuan Chen, Chunyan Miao",AAAI 2020: 6430-6437,AAAI,A*
+213,Accelerating Ranking in E-Commerce Search Engines through Contextual Factor Selection.,2020,"Anxiang Zeng, Han Yu, Qing Da, Yusen Zhan, Chunyan Miao",AAAI 2020: 13212-13219,AAAI,A*
+214,PIDS: An Intelligent Electric Power Management Platform.,2020,"Yongqing Zheng, Han Yu, Yuliang Shi, Kun Zhang, Shuai Zhen, Lizhen Cui, Cyril Leung, Chunyan Miao",AAAI 2020: 13220-13227,AAAI,A*
+215,Generating Engaging Promotional Videos for E-commerce Platforms (Student Abstract).,2020,"Chang Liu, Han Yu, Yi Dong, Zhiqi Shen, Yingxue Yu, Ian Dixon, Zhanning Gao, Pan Wang, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",AAAI 2020: 13865-13866,AAAI,A*
+216,Explainable and Contextual Preferences based Decision Making with Assumption-based Argumentation for Diagnostics and Prognostics of Alzheimer's Disease.,2020,"Zhiwei Zeng, Zhiqi Shen, Jing Jih Chin, Cyril Leung, Yu Wang, Ying Chi, Chunyan Miao",AAMAS 2020: 2071-2073,ATAL,Unranked
+217,Scalable and Communication-Efficient Decentralized Federated Edge Learning with Multi-blockchain Framework.,2020,"Jiawen Kang, Zehui Xiong, Chunxiao Jiang, Yi Liu, Song Guo, Yang Zhang, Dusit Niyato, Cyril Leung, Chunyan Miao",BlockSys 2020: 152-165,BLOCKSYS,Unranked
+218,Learning to Segment the Tail.,2020,"Xinting Hu, Yi Jiang, Kaihua Tang, Jingyuan Chen, Chunyan Miao, Hanwang Zhang",CVPR 2020: 14042-14051,CVPR,A*
+219,Structure-Aware Generation Network for Recipe Generation from Images.,2020,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",ECCV  2020: 359-374,ECCV,A*
+220,DAGA: Data Augmentation with a Generation Approach forLow-resource Tagging Tasks.,2020,"Bosheng Ding, Linlin Liu, Lidong Bing, Canasai Kruengkrai, Thien Hai Nguyen, Shafiq R. Joty, Luo Si, Chunyan Miao",EMNLP  2020: 6045-6057,EMNLP,A*
+221,Towards Persona-Based Empathetic Conversational Models.,2020,"Peixiang Zhong, Chen Zhang, Hao Wang, Yong Liu, Chunyan Miao",EMNLP  2020: 6556-6566,EMNLP,A*
+222,Multi-Dimensional Contract-Matching for Federated Learning in UAV-Enabled Internet of Vehicles.,2020,"Wei Yang Bryan Lim, Jianqiang Huang, Zehui Xiong, Jiawen Kang, Dusit Niyato, Xian-Sheng Hua, Cyril Leung, Chunyan Miao",GLOBECOM 2020: 1-6,GLOBECOM,B
+223,Communication-Efficient Federated Learning in UAV-enabled IoV: A Joint Auction-Coalition Approach.,2020,"Jer Shyuan Ng, Wei Yang Bryan Lim, Hong-Ning Dai, Zehui Xiong, Jianqiang Huang, Dusit Niyato, Xian-Sheng Hua, Cyril Leung, Chunyan Miao",GLOBECOM 2020: 1-6,GLOBECOM,B
+224,Commonsense Knowledge Adversarial Dataset that Challenges ELECTRA.,2020,"Gongqi Lin, Yuan Miao, Xiaoyong Yang, Wenwu Ou, Lizhen Cui, Wei Guo, Chunyan Miao",ICARCV 2020: 315-320,ICARCV,C
+225,Learning Personalized Itemset Mapping for Cross-Domain Recommendation.,2020,"Yinan Zhang, Yong Liu, Peng Han, Chunyan Miao, Lizhen Cui, Baoli Li, Haihong Tang",IJCAI 2020: 2561-2567,IJCAI,A*
+226,An AI-empowered Visual Storyline Generator.,2020,"Chang Liu, Zhao Yong Lim, Han Yu, Zhiqi Shen, Ian Dixon, Zhanning Gao, Pan Wang, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",IJCAI 2020: 5267-5269,IJCAI,A*
+227,A Testbed for Studying COVID-19 Spreading in Ride-Sharing Systems.,2020,"Harrison Jun Yong Wong, Zichao Deng, Han Yu, Jianqiang Huang, Cyril Leung, Chunyan Miao",IJCAI 2020: 5294-5296,IJCAI,A*
+228,A Gamified Assessment Platform for Predicting the Risk of Dementia +Parkinson's disease (DPD) Co-Morbidity.,2020,"Zhiwei Zeng, Hongchao Jiang, Yanci Zhang, Zhiqi Shen, Jun Ji, Martin J. McKeown, Jing Jih Chin, Cyril Leung, Chunyan Miao",IJCAI 2020: 5297-5299,IJCAI,A*
+229,BDANN: BERT-Based Domain Adaptation Neural Network for Multi-Modal Fake News Detection.,2020,"Tong Zhang, Di Wang, Huanhuan Chen, Zhiwei Zeng, Wei Guo, Chunyan Miao, Lizhen Cui",IJCNN 2020: 1-8,IJCNN,B
+230,Truth Discovery against Strategic Sybil Attack in Crowdsourcing.,2020,"Yue Wang, Ke Wang, Chunyan Miao",KDD 2020: 95-104,KDD,A*
+231,Explainable and Argumentation-based Decision Making with Qualitative Preferences for Diagnostics and Prognostics of Alzheimer's Disease.,2020,"Zhiwei Zeng, Zhiqi Shen, Benny Toh Hsiang Tan, Jing Jih Chin, Cyril Leung, Yu Wang, Ying Chi, Chunyan Miao",KR 2020: 816-826,KR,A*
+232,Weakly Supervised Segmentation with Maximum Bipartite Graph Matching.,2020,"Weide Liu, Chi Zhang, Guosheng Lin, Tzu-Yi Hung, Chunyan Miao",ACM Multimedia 2020: 2085-2094,MM,Unranked
+233,An incentive scheme for federated learning in the sky.,2020,"Wei Yang Bryan Lim, Zehui Xiong, Jiawen Kang, Dusit Niyato, Yang Zhang, Cyril Leung, Chunyan Miao",DroneCom@MOBICOM 2020: 55-60,MOBICOM,A*
+234,Dynamic Resource Allocation for Hierarchical Federated Learning.,2020,"Wei Yang Bryan Lim, Jer Shyuan Ng, Zehui Xiong, Dusit Niyato, Song Guo, Cyril Leung, Chunyan Miao",MSN 2020: 153-160,MSN,Unranked
+235,Differentially Private Top-k Selection via Stability on Unknown Domain.,2020,"Ricardo Silva Carvalho, Ke Wang, Lovedeep Gondara, Chunyan Miao",UAI 2020: 1109-1118,UAI,A
+236,Incentive Mechanism Design for Federated Learning in the Internet of Vehicles.,2020,"Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Jianqiang Huang, Xian-Sheng Hua, Chunyan Miao",VTC Fall 2020: 1-5,VTC,B
+237,Incentive Mechanism Design for Mobile Data Rewards using Multi-Dimensional Contract.,2020,"Zehui Xiong, Wei Yang Bryan Lim, Jiawen Kang, Dusit Niyato, Ping Wang, Chunyan Miao",WCNC 2020: 1-6,WCNC,B
+238,Learning to Segment the Tail.,2020,"Xinting Hu, Yi Jiang, Kaihua Tang, Jingyuan Chen, Chunyan Miao, Hanwang Zhang",CoRR abs/2004.00900 ,CORR,Unranked
+239,Towards Federated Learning in UAV-Enabled Internet of Vehicles: A Multi-Dimensional Contract-Matching Approach.,2020,"Wei Yang Bryan Lim, Jianqiang Huang, Zehui Xiong, Jiawen Kang, Dusit Niyato, Xian-Sheng Hua, Cyril Leung, Chunyan Miao",CoRR abs/2004.03877 ,CORR,Unranked
+240,Contextualized Graph Attention Network for Recommendation with Item Knowledge Graph.,2020,"Susen Yang, Yong Liu, Yonghui Xu, Chunyan Miao, Min Wu, Juyong Zhang",CoRR abs/2004.11529 ,CORR,Unranked
+241,Learning Hierarchical Review Graph Representation for Recommendation.,2020,"Susen Yang, Yong Liu, Yinan Zhang, Chunyan Miao, Zaiqing Nie, Juyong Zhang",CoRR abs/2004.11588 ,CORR,Unranked
+242,Endowing Empathetic Dialogue Systems with Personas.,2020,"Peixiang Zhong, Yan Sun, Yong Liu, Chen Zhang, Hao Wang, Zaiqing Nie, Chunyan Miao",CoRR abs/2004.12316 ,CORR,Unranked
+243,Incentive Mechanism Design for Resource Sharing in Collaborative Edge Learning.,2020,"Wei Yang Bryan Lim, Jer Shyuan Ng, Zehui Xiong, Dusit Niyato, Cyril Leung, Chunyan Miao, Qiang Yang",CoRR abs/2006.00511 ,CORR,Unranked
+244,Joint Auction-Coalition Formation Framework for Communication-Efficient Federated Learning in UAV-Enabled Internet of Vehicles.,2020,"Jer Shyuan Ng, Wei Yang Bryan Lim, Hong-Ning Dai, Zehui Xiong, Jianqiang Huang, Dusit Niyato, Xian-Sheng Hua, Cyril Leung, Chunyan Miao",CoRR abs/2007.06378 ,CORR,Unranked
+245,Federated Learning in the Sky: Aerial-Ground Air Quality Sensing Framework with UAV Swarms.,2020,"Yi Liu, Jiangtian Nie, Xuandi Li, Syed Hassan Ahmed, Wei Yang Bryan Lim, Chunyan Miao",CoRR abs/2007.12004 ,CORR,Unranked
+246,Decomposed Generation Networks with Structure Prediction for Recipe Generation from Food Images.,2020,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",CoRR abs/2007.13374 ,CORR,Unranked
+247,Scalable and Communication-efficient Decentralized Federated Edge Learning with Multi-blockchain Framework.,2020,"Jiawen Kang, Zehui Xiong, Chunxiao Jiang, Yi Liu, Song Guo, Yang Zhang, Dusit Niyato, Cyril Leung, Chunyan Miao",CoRR abs/2008.04743 ,CORR,Unranked
+248,A Survey of Coded Distributed Computing.,2020,"Jer Shyuan Ng, Wei Yang Bryan Lim, Nguyen Cong Luong, Zehui Xiong, Alia Asheralieva, Dusit Niyato, Cyril Leung, Chunyan Miao",CoRR abs/2008.09048 ,CORR,Unranked
+249,Structure-Aware Generation Network for Recipe Generation from Images.,2020,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",CoRR abs/2009.00944 ,CORR,Unranked
+250,A Pre-training Strategy for Recommendation.,2020,"Susen Yang, Yong Liu, Chenyi Lei, Guoxin Wang, Haihong Tang, Juyong Zhang, Chunyan Miao",CoRR abs/2010.12284 ,CORR,Unranked
+251,Commonsense knowledge adversarial dataset that challenges ELECTRA.,2020,"Gongqi Lin, Yuan Miao, Xiaoyong Yang, Wenwu Ou, Lizhen Cui, Wei Guo, Chunyan Miao",CoRR abs/2010.13049 ,CORR,Unranked
+252,DAGA: Data Augmentation with a Generation Approach for Low-resource Tagging Tasks.,2020,"Bosheng Ding, Linlin Liu, Lidong Bing, Canasai Kruengkrai, Thien Hai Nguyen, Shafiq R. Joty, Luo Si, Chunyan Miao",CoRR abs/2011.01549 ,CORR,Unranked
+253,Optimal Transaction Queue Waiting in Blockchain Mining.,2020,"Gholamreza Ramezan, Cyril Leung, Chunyan Miao",CoRR abs/2011.10886 ,CORR,Unranked
+254,Federated Learning with Diversified Preference for Humor Recognition.,2020,"Xu Guo, Pengwei Xing, Siwei Feng, Boyang Li, Chunyan Miao",CoRR abs/2012.01675 ,CORR,Unranked
+255,CARE: Commonsense-Aware Emotional Response Generation with Latent Concepts.,2020,"Peixiang Zhong, Di Wang, Pengfei Li, Chen Zhang, Hao Wang, Chunyan Miao",CoRR abs/2012.08377 ,CORR,Unranked
+256,Keyword-Guided Neural Conversational Model.,2020,"Peixiang Zhong, Yong Liu, Hao Wang, Chunyan Miao",CoRR abs/2012.08383 ,CORR,Unranked
+257,A Hybrid Bandit Framework for Diversified Recommendation.,2020,"Qinxu Ding, Yong Liu, Chunyan Miao, Fei Cheng, Haihong Tang",CoRR abs/2012.13245 ,CORR,Unranked
+258,Brain-inspired Search Engine Assistant based on Knowledge Graph.,2020,"Xuejiao Zhao, Huanhuan Chen, Zhenchang Xing, Chunyan Miao",CoRR abs/2012.13529 ,CORR,Unranked
+259,REDPC: A residual error-based density peak clustering algorithm.,2019,"Milan Deepak Parmar, Di Wang, Xiaofeng Zhang, Ah-Hwee Tan, Chunyan Miao, Jianhua Jiang, You Zhou",Neurocomputing 348: 82-96 ,IJON,Unranked
+260,Hierarchical planning-based crowd formation.,2019,"Na Liu, Xingce Wang, Shaolong Liu, Zhongke Wu, Jiale He, Peng Cheng, Chunyan Miao, Nadia Magnenat-Thalmann",Comput. Animat. Virtual Worlds 30 ,JVCA,Unranked
+261,Salience-aware adaptive resonance theory for large-scale sparse data clustering.,2019,"Lei Meng, Ah-Hwee Tan, Chunyan Miao",Neural Networks 120: 143-157 ,NN,Unranked
+262,"A Survey of Zero-Shot Learning: Settings, Methods, and Applications.",2019,"Wei Wang, Vincent W. Zheng, Han Yu, Chunyan Miao",ACM Trans. Intell. Syst. Technol. 10: 13:1-13:37 ,TIST,Unranked
+263,Recommend interesting items: How can social curiosity help?,2019,"Qiong Wu, Siyuan Liu, Chunyan Miao",Web Intell. 17: 297-311 ,WIAS,Unranked
+264,Modelling Autobiographical Memory Loss across Life Span.,2019,"Di Wang, Ah-Hwee Tan, Chunyan Miao, Ahmed A. Moustafa",AAAI 2019: 1368-1375,AAAI,A*
+265,An Affect-Rich Neural Conversational Model with Biased Attention and Weighted Cross-Entropy Loss.,2019,"Peixiang Zhong, Di Wang, Chunyan Miao",AAAI 2019: 7492-7500,AAAI,A*
+266,Distribution-Based Semi-Supervised Learning for Activity Recognition.,2019,"Hangwei Qian, Sinno Jialin Pan, Chunyan Miao",AAAI 2019: 7699-7706,AAAI,A*
+267,Computing Argumentative Explanations in Bipolar Argumentation Frameworks.,2019,"Zhiwei Zeng, Chunyan Miao, Cyril Leung, Zhiqi Shen, Jing Jih Chin",AAAI 2019: 10079-10080,AAAI,A*
+268,Ethically Aligned Opportunistic Scheduling for Productive Laziness.,2019,"Han Yu, Chunyan Miao, Yongqing Zheng, Lizhen Cui, Simon Fauvel, Cyril Leung",AIES 2019: 45-51,AIES,Unranked
+269,Towards Age-friendly Exergame Design: The Role of Familiarity.,2019,"Hao Zhang, Qiong Wu, Chunyan Miao, Zhiqi Shen, Cyril Leung",CHI PLAY 2019: 45-57,CHIPLAY,Unranked
+270,Generating Persuasive Visual Storylines for Promotional Videos.,2019,"Chang Liu, Yi Dong, Han Yu, Zhiqi Shen, Zhanning Gao, Pan Wang, Changgong Zhang, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",CIKM 2019: 901-910,CIKM,A
+271,Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations.,2019,"Peixiang Zhong, Di Wang, Chunyan Miao",EMNLP/IJCNLP  2019: 165-176,EMNLP,A*
+272,The Effects of Online Social Supports on Exercise Behavior.,2019,"Xinjia Yu, Chunyan Miao, Cyril Leung, Charles Thomas Salmon",HCI  2019: 137-150,HCI,National
+273,The Effect of Familiarity on Older Adults' Engagement in Exergames.,2019,"Hao Zhang, Chunyan Miao, Qiong Wu, Xuehong Tao, Zhiqi Shen",HCI  2019: 277-288,HCI,National
+274,Goal-Oriented Modelling for Virtual Assistants.,2019,"Jonathan Leung, Zhiqi Shen, Chunyan Miao",ICA 2019: 73-76,ICA2,Unranked
+275,Diabetic Retinopathy Classification Using an Efficient Convolutional Neural Network.,2019,"Jiaxi Gao, Cyril Leung, Chunyan Miao",ICA 2019: 80-85,ICA2,Unranked
+276,PD-GAN: Adversarial Learning for Personalized Diversity-Promoting Recommendation.,2019,"Qiong Wu, Yong Liu, Chunyan Miao, Binqiang Zhao, Yin Zhao, Lu Guan",IJCAI 2019: 3870-3876,IJCAI,A*
+277,A Novel Distribution-Embedded Neural Network for Sensor-Based Activity Recognition.,2019,"Hangwei Qian, Sinno Jialin Pan, Bingshui Da, Chunyan Miao",IJCAI 2019: 5614-5620,IJCAI,A*
+278,Agent-based Decision Support for Pain Management in Primary Care Settings.,2019,"Xu Guo, Han Yu, Chunyan Miao, Yiqiang Chen",IJCAI 2019: 6521-6523,IJCAI,A*
+279,An Online Intelligent Visual Interaction System.,2019,"Anxiang Zeng, Han Yu, Xin Gao, Kairi Ou, Zhenchuan Huang, Peng Hou, Mingli Song, Jingshu Zhang, Chunyan Miao",IJCAI 2019: 6578-6580,IJCAI,A*
+280,Intelligent Decision Support for Improving Power Management.,2019,"Yongqing Zheng, Han Yu, Kun Zhang, Yuliang Shi, Cyril Leung, Chunyan Miao",IJCAI 2019: 6587-6589,IJCAI,A*
+281,Learning Using Privileged Information for Food Recognition.,2019,"Lei Meng, Long Chen, Xun Yang, Dacheng Tao, Hanwang Zhang, Chunyan Miao, Tat-Seng Chua",ACM Multimedia 2019: 557-565,MM,Unranked
+282,ntuer at SemEval-2019 Task 3: Emotion Classification with Word and Sentence Representations in RCNN.,2019,"Peixiang Zhong, Chunyan Miao",SemEval@NAACL-HLT 2019: 282-286,SEMEVAL,Unranked
+283,Ethically Aligned Opportunistic Scheduling for Productive Laziness.,2019,"Han Yu, Chunyan Miao, Yongqing Zheng, Lizhen Cui, Simon Fauvel, Cyril Leung",CoRR abs/1901.00298 ,CORR,Unranked
+284,ntuer at SemEval-2019 Task 3: Emotion Classification with Word and Sentence Representations in RCNN.,2019,"Peixiang Zhong, Chunyan Miao",CoRR abs/1902.07867 ,CORR,Unranked
+285,Multi-Scale Quasi-RNN for Next Item Recommendation.,2019,"Chaoyue He, Yong Liu, Qingyu Guo, Chunyan Miao",CoRR abs/1902.09849 ,CORR,Unranked
+286,Diversity-Promoting Deep Reinforcement Learning for Interactive Recommendation.,2019,"Yong Liu, Yinan Zhang, Qiong Wu, Chunyan Miao, Lizhen Cui, Binqiang Zhao, Yin Zhao, Lu Guan",CoRR abs/1903.07826 ,CORR,Unranked
+287,Recent Advances in Diversified Recommendation.,2019,"Qiong Wu, Yong Liu, Chunyan Miao, Yin Zhao, Lu Guan, Haihong Tang",CoRR abs/1905.06589 ,CORR,Unranked
+288,Bandit Learning for Diversified Interactive Recommendation.,2019,"Yong Liu, Yingtai Xiao, Qiong Wu, Chunyan Miao, Juyong Zhang",CoRR abs/1907.01647 ,CORR,Unranked
+289,EEG-Based Emotion Recognition Using Regularized Graph Neural Networks.,2019,"Peixiang Zhong, Di Wang, Chunyan Miao",CoRR abs/1907.07835 ,CORR,Unranked
+290,Generating Persuasive Visual Storylines for Promotional Videos.,2019,"Chang Liu, Yi Dong, Han Yu, Zhiqi Shen, Zhanning Gao, Pan Wang, Changgong Zhang, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",CoRR abs/1908.11588 ,CORR,Unranked
+291,Reading Comprehension Ability Test-A Turing Test for Reading Comprehension.,2019,"Yuan Miao, Gongqi Lin, Yidan Hu, Chunyan Miao",CoRR abs/1909.02399 ,CORR,Unranked
+292,Commonsense Knowledge + BERT for Level 2 Reading Comprehension Ability Test.,2019,"Yidan Hu, Gongqi Lin, Yuan Miao, Chunyan Miao",CoRR abs/1909.03415 ,CORR,Unranked
+293,Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations.,2019,"Peixiang Zhong, Di Wang, Chunyan Miao",CoRR abs/1909.10681 ,CORR,Unranked
+294,Federated Learning in Mobile Edge Networks: A Comprehensive Survey.,2019,"Wei Yang Bryan Lim, Nguyen Cong Luong, Dinh Thai Hoang, Yutao Jiao, Ying-Chang Liang, Qiang Yang, Dusit Niyato, Chunyan Miao",CoRR abs/1909.11875 ,CORR,Unranked
+295,An interpretable neural fuzzy inference system for predictions of underpricing in initial public offerings.,2018,"Di Wang, Xiaolin Qian, Chai Quek, Ah-Hwee Tan, Chunyan Miao, Xiaofeng Zhang, Geok See Ng, You Zhou",Neurocomputing 319: 102-117 ,IJON,Unranked
+296,Dynamic Generation of Internet of Things Organizational Structures Through Evolutionary Computing.,2018,"Zhiqi Shen, Han Yu, Ling Yu, Chunyan Miao, Yiqiang Chen, Victor R. Lesser",IEEE Internet Things J. 5: 943-954 ,IOTJ,Unranked
+297,Distributed multi-task classification: a decentralized online learning approach.,2018,"Chi Zhang, Peilin Zhao, Shuji Hao, Yeng Chai Soh, Bu-Sung Lee, Chunyan Miao, Steven C. H. Hoi",Mach. Learn. 107: 727-747 ,ML,Unranked
+298,Optimal Electric Vehicle Fast Charging Station Placement Based on Game Theoretical Framework.,2018,"Yanhai Xiong, Jiarui Gan, Bo An, Chunyan Miao, Ana L. C. Bazzan",IEEE Trans. Intell. Transp. Syst. 19: 2493-2504 ,TITS,Unranked
+299,Online Active Learning with Expert Advice.,2018,"Shuji Hao, Peiying Hu, Peilin Zhao, Steven C. H. Hoi, Chunyan Miao",ACM Trans. Knowl. Discov. Data 12: 58:1-58:22 ,TKDD,Unranked
+300,Second-Order Online Active Learning and Its Applications.,2018,"Shuji Hao, Jing Lu, Peilin Zhao, Chi Zhang, Steven C. H. Hoi, Chunyan Miao",IEEE Trans. Knowl. Data Eng. 30: 1338-1351 ,TKDE,Unranked
+301,Inferring Cognitive Wellness from Motor Patterns.,2018,"Yiqiang Chen, Chunyu Hu, Bin Hu, Lisha Hu, Han Yu, Chunyan Miao",IEEE Trans. Knowl. Data Eng. 30: 2340-2353 ,TKDE,Unranked
+302,DyETC: Dynamic Electronic Toll Collection for Traffic Congestion Alleviation.,2018,"Haipeng Chen, Bo An, Guni Sharon, Josiah P. Hanna, Peter Stone, Chunyan Miao, Yeng Chai Soh",AAAI 2018: 757-765,AAAI,A*
+303,Sensor-Based Activity Recognition via Learning From Distributions.,2018,"Hangwei Qian, Sinno Jialin Pan, Chunyan Miao",AAAI 2018: 6262-6269,AAAI,A*
+304,SmartHS: An AI Platform for Improving Government Service Provision.,2018,"Yongqing Zheng, Han Yu, Lizhen Cui, Chunyan Miao, Cyril Leung, Qiang Yang",AAAI 2018: 7704-7712,AAAI,A*
+305,Building More Explainable Artificial Intelligence With Argumentation.,2018,"Zhiwei Zeng, Chunyan Miao, Cyril Leung, Jing Jih Chin",AAAI 2018: 8044-8046,AAAI,A*
+306,Context-based and Explainable Decision Making with Argumentation.,2018,"Zhiwei Zeng, Xiuyi Fan, Chunyan Miao, Cyril Leung, Jing Jih Chin, Yew-Soon Ong",AAMAS 2018: 1114-1122,ATAL,Unranked
+307,Constrained Texture Mapping via Approximate Voronoi Base Domain.,2018,"Peng Cheng, Jiaye Wang, Chunyan Miao, Changhe Tu",CGI 2018: 19-22,CGI,C
+308,Gamified Rehabilitation for Pain Distraction in Total-Knee-Replacement Patients.,2018,"Xuejiao Zhao, Qiong Wu, X. Jessie Yang, Yang Qiu, Huiguo Zhang, Chunyan Miao",CHI Extended Abstracts 2018,CHI,A*
+309,Usability Analysis of the Novel Functions to Assist the Senior Customers in Online Shopping.,2018,"Xinjia Yu, Lei Meng, Xiaohai Tian, Simon Fauvel, Bo Huang, Yunqing Guan, Zhiqi Shen, Chunyan Miao, Cyril Leung",HCI  2018: 173-185,HCI,National
+310,Personalized Emotion-Aware Video Streaming for the Elderly.,2018,"Yi Dong, Han Hu, Yonggang Wen, Han Yu, Chunyan Miao",HCI  2018: 372-382,HCI,National
+311,Opportunistic Work-Rest Scheduling for Productive Aging.,2018,"Han Yu, Chunyan Miao, Lizhen Cui, Yiqiang Chen, Simon Fauvel, Qiang Yang",HCI  2018: 413-428,HCI,National
+312,Pumpkin Garden: A Mobile Game Platform for Monitoring Parkinson's Disease Symptoms.,2018,"Siyuan Liu, Chunyan Miao, Martin J. McKeown, Jun Ji, Zhiqi Shen, Cyril Leung",HCI  2018: 546-560,HCI,National
+313,Autonomous Agents in Snake Game via Deep Reinforcement Learning.,2018,"Zhepei Wei, Di Wang, Ming Zhang, Ah-Hwee Tan, Chunyan Miao, You Zhou",ICA 2018: 20-25,ICA2,Unranked
+314,Artificial Intelligence Powered MOOCs: A Brief Survey.,2018,"Simon Fauvel, Han Yu, Chunyan Miao, Lizhen Cui, Hengjie Song, Liang Zhang, Xiaoming Li, Cyril Leung",ICA 2018: 56-61,ICA2,Unranked
+315,Personalized Recommendation Considering Secondary Implicit Feedback.,2018,"Siyuan Liu, Qiong Wu, Chunyan Miao",ICA 2018: 87-92,ICA2,Unranked
+316,CrowdMerge: Achieving Optimal Crowdsourcing Quality Management by Sequent Merger.,2018,"Yinan Zhang, Lizhen Cui, Jiwei Huang, Chunyan Miao",ICCSE 2018: 25:1-25:8,ICCSE,Unranked
+317,Building Ethics into Artificial Intelligence.,2018,"Han Yu, Zhiqi Shen, Chunyan Miao, Cyril Leung, Victor R. Lesser, Qiang Yang",IJCAI 2018: 5527-5533,IJCAI,A*
+318,Activity Recognition in New Smart Home Environments.,2018,"Wei Wang, Chunyan Miao",HealthMedia@MM 2018: 29-37,MM,Unranked
+319,Multi-Resident Activity Recognition with Unseen Classes in Smart Homes.,2018,"Wei Wang, Chunyan Miao",SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI 2018: 780-787,UIC,C
+320,A comprehensive exploration to the machine learning techniques for diabetes identification.,2018,"Sidong Wei, Xuejiao Zhao, Chunyan Miao",WF-IoT 2018: 291-295,WF-IOT,Unranked
+321,An Affect-Rich Neural Conversational Model with Biased Attention and Weighted Cross-Entropy Loss.,2018,"Peixiang Zhong, Di Wang, Chunyan Miao",CoRR abs/1811.07078 ,CORR,Unranked
+322,Building Ethics into Artificial Intelligence.,2018,"Han Yu, Zhiqi Shen, Chunyan Miao, Cyril Leung, Victor R. Lesser, Qiang Yang",CoRR abs/1812.02953 ,CORR,Unranked
+323,3D CNN Based Automatic Diagnosis of Attention Deficit Hyperactivity Disorder Using Functional and Structural MRI.,2017,"Liang Zou, Jiannan Zheng, Chunyan Miao, Martin J. McKeown, Z. Jane Wang",IEEE Access 5: 23626-23636 ,ACCESS,Unranked
+324,A social influence based trust model for recommender systems.,2017,"Jian-Ping Mei, Han Yu, Zhiqi Shen, Chunyan Miao",Intell. Data Anal. 21: 263-277 ,IDA,B
+325,PSDVec: A toolbox for incremental and scalable word embedding.,2017,"Shaohua Li, Jun Zhu, Chunyan Miao",Neurocomputing 237: 405-409 ,IJON,Unranked
+326,Workload Factoring and Resource Sharing via Joint Vertical and Horizontal Cloud Federation Networks.,2017,"Haipeng Chen, Bo An, Dusit Niyato, Yeng Chai Soh, Chunyan Miao",IEEE J. Sel. Areas Commun. 35: 557-570 ,JSAC,Unranked
+327,"Towards online and personalized daily activity recognition, habit modeling, and anomaly detection for the solitary elderly through unobtrusive sensing.",2017,"Lei Meng, Chunyan Miao, Cyril Leung",Multim. Tools Appl. 76: 10779-10799 ,MTA,Unranked
+328,Large Scale Document Categorization With Fuzzy Clustering.,2017,"Jian-Ping Mei, Yangtao Wang, Lihui Chen, Chunyan Miao",IEEE Trans. Fuzzy Syst. 25: 1239-1251 ,TFS,Unranked
+329,Analyzing Sentiments in One Go: A Supervised Joint Topic Modeling Approach.,2017,"Zhen Hai, Gao Cong, Kuiyu Chang, Peng Cheng, Chunyan Miao",IEEE Trans. Knowl. Data Eng. 29: 1172-1185 ,TKDE,Unranked
+330,Query Diversity Schemes for Backscatter RFID Communications With Single-Antenna Tags.,2017,"Chen He, Z. Jane Wang, Chunyan Miao",IEEE Trans. Veh. Technol. 66: 6932-6941 ,TVT,Unranked
+331,Crowdsensing Air Quality with Camera-Enabled Mobile Devices.,2017,"Zhengxiang Pan, Han Yu, Chunyan Miao, Cyril Leung",AAAI 2017: 4728-4733,AAAI,A*
+332,A Computational Assessment Model for the Adaptive Level of Rehabilitation Exergames for the Elderly.,2017,"Hao Zhang, Chunyan Miao, Han Yu, Cyril Leung",AAAI 2017: 5021-5022,AAAI,A*
+333,Two Forms of Explanations in Computational Assumption-based Argumentation.,2017,"Xiuyi Fan, Siyuan Liu, Huiguo Zhang, Chunyan Miao, Cyril Leung",AAMAS 2017: 1532-1534,ATAL,Unranked
+334,PdAssist: Objective and quantified symptom assessment of Parkinson's disease via smartphone.,2017,"Yiqiang Chen, Xiaodong Yang, Biao Chen, Chunyan Miao, Hanchao Yu",BIBM 2017: 939-945,BIBM,Unranked
+335,EEG-Based Emotion Recognition via Fast and Robust Feature Smoothing.,2017,"Cheng Tang, Di Wang, Ah-Hwee Tan, Chunyan Miao",BI 2017: 83-92,BRAIN,Unranked
+336,Crowd-enabled Pareto-Optimal Objects Finding Employing Multi-Pairwise-Comparison Questions.,2017,"Chang Liu, Yinan Zhang, Lei Liu, Lizhen Cui, Dong Yuan, Chunyan Miao",CIKM 2017: 287-295,CIKM,A
+337,A Novel Cascade Model for Learning Latent Similarity from Heterogeneous Sequential Data of MOOC.,2017,"Zhuoxuan Jiang, Shanshan Feng, Gao Cong, Chunyan Miao, Xiaoming Li",EMNLP 2017: 2768-2773,EMNLP,A*
+338,Fuzzy logic based assessment on the adaptive level of rehabilitation exergames for the elderly.,2017,"Hao Zhang, Chunyan Miao, Han Yu",GlobalSIP 2017: 423-427,GLOBALSIP,Unranked
+339,Novel Functional Technologies for Age-Friendly E-commerce.,2017,"Xiaohai Tian, Lei Meng, Siyuan Liu, Zhiqi Shen, Eng Siong Chng, Cyril Leung, Frank Guan, Chunyan Miao",HCI  2017: 150-158,HCI,National
+340,Elderly friendliness evaluation of mobile assistants.,2017,"Di Wang, Xinjia Yu, Simon Fauvel, Ah-Hwee Tan, Chunyan Miao",ICA 2017: 115-120,ICA2,Unranked
+341,Deep Model for Dropout Prediction in MOOCs.,2017,"Wei Wang, Han Yu, Chunyan Miao",ICCSE 2017: 26-32,ICCSE,Unranked
+342,Using Blockchain Technology to Build Trust in Sharing LoRaWAN IoT.,2017,"Jun Lin, Zhiqi Shen, Chunyan Miao",ICCSE 2017: 38-43,ICCSE,Unranked
+343,"Towards Age-friendly E-commerce Through Crowd-Improved Speech Recognition, Multimodal Search, and Personalized Speech Feedback.",2017,"Lei Meng, Nguyen Quy Hy, Xiaohai Tian, Zhiqi Shen, Eng Siong Chng, Frank Yunqing Guan, Chunyan Miao, Cyril Leung",ICCSE 2017: 127-135,ICCSE,Unranked
+344,Design Tradeoffs for Cloud-Based Ambient Assisted Living Systems.,2017,"Yi Dong, Yonggang Wen, Han Hu, Chunyan Miao, Cyril Leung",ICCSE 2017: 144-151,ICCSE,Unranked
+345,Online Multitask Relative Similarity Learning.,2017,"Shuji Hao, Peilin Zhao, Yong Liu, Steven C. H. Hoi, Chunyan Miao",IJCAI 2017: 1823-1829,IJCAI,A*
+346,Fun-Knee™: A novel smart knee sleeve for Total-Knee-Replacement rehabilitation with gamification.,2017,"Yang Qiu, Kun Man Li, Eng Chuan Neoh, Huiguo Zhang, Xin Yue Khaw, Xiuyi Fan, Chunyan Miao",SeGAH 2017: 1-8,SEGAH,Unranked
+347,A novel density peak clustering algorithm based on squared residual error.,2017,"Milan Deepak Parmar, Di Wang, Ah-Hwee Tan, Chunyan Miao, Jianhua Jiang, You Zhou",SPAC 2017: 43-48,SPAC,Unranked
+348,Leveraging the trade-off between accuracy and interpretability in a hybrid intelligent system.,2017,"Di Wang, Chai Quek, Ah-Hwee Tan, Chunyan Miao, Geok See Ng, You Zhou",SPAC 2017: 55-60,SPAC,Unranked
+349,Robust human activity recognition using lesser number of wearable sensors.,2017,"Di Wang, Edwin Candinegara, Junhui Hou, Ah-Hwee Tan, Chunyan Miao",SPAC 2017: 290-295,SPAC,Unranked
+350,Zero-shot human activity recognition via nonlinear compatibility based method.,2017,"Wei Wang, Chunyan Miao, Shuji Hao",WI 2017: 322-330,WEBI,Unranked
+351,Modeling uncertainty driven curiosity for social recommendation.,2017,"Qiong Wu, Siyuan Liu, Chunyan Miao",WI 2017: 790-798,WEBI,Unranked
+352,Solving the initial value problem of discrete geodesics.,2016,"Peng Cheng, Chunyan Miao, Yong-Jin Liu, Changhe Tu, Ying He",Comput. Aided Des. 70: 144-152 ,CAD,Unranked
+353,Balancing quality and budget considerations in mobile crowdsourcing.,2016,"Chunyan Miao, Han Yu, Zhiqi Shen, Cyril Leung",Decis. Support Syst. 90: 56-64 ,DSS,Unranked
+354,Neighborhood Regularized Logistic Matrix Factorization for Drug-Target Interaction Prediction.,2016,"Yong Liu, Min Wu, Chunyan Miao, Peilin Zhao, Xiaoli Li",PLoS Comput. Biol. 12 ,PLOSCB,Unranked
+355,Online Multi-Modal Distance Metric Learning with Application to Image Retrieval.,2016,"Pengcheng Wu, Steven C. H. Hoi, Peilin Zhao, Chunyan Miao, Zhiyong Liu",IEEE Trans. Knowl. Data Eng. 28: 454-467 ,TKDE,Unranked
+356,Learning to Find Topic Experts in Twitter via Different Relations.,2016,"Wei Wei, Gao Cong, Chunyan Miao, Feida Zhu, Guohui Li",IEEE Trans. Knowl. Data Eng. 28: 1764-1778 ,TKDE,Unranked
+357,Block-Level Unitary Query: Enabling Orthogonal-Like Space-Time Code With Query Diversity for MIMO Backscatter RFID.,2016,"Chen He, Z. Jane Wang, Chunyan Miao, Victor C. M. Leung",IEEE Trans. Wirel. Commun. 15: 1937-1949 ,TWC,Unranked
+358,Individual Judgments Versus Consensus: Estimating Query-URL Relevance.,2016,"Hengjie Song, Yonghui Xu, Huaqing Min, Qingyao Wu, Wei Wei, Jianshu Weng, Xiaogang Han, Qiang Yang, Jialiang Shi, Jiaqian Gu, Chunyan Miao, Toyoaki Nishida",ACM Trans. Web 10: 3:1-3:21 ,TWEB,Unranked
+359,Infusing Human Factors into Algorithmic Crowdsourcing.,2016,"Han Yu, Chunyan Miao, Zhiqi Shen, Jun Lin, Cyril Leung, Qiang Yang",AAAI 2016: 4062-4064,AAAI,A*
+360,Efficient Collaborative Crowdsourcing.,2016,"Zhengxiang Pan, Han Yu, Chunyan Miao, Cyril Leung",AAAI 2016: 4248-4249,AAAI,A*
+361,Multi-Agent System Development MADE Easy.,2016,"Zhiqi Shen, Han Yu, Chunyan Miao, Siyao Li, Yiqiang Chen",AAAI 2016: 4391-4392,AAAI,A*
+362,A Fraud Resilient Medical Insurance Claim System.,2016,"Yuliang Shi, Chenfei Sun, Qingzhong Li, Lizhen Cui, Han Yu, Chunyan Miao",AAAI 2016: 4393-4394,AAAI,A*
+363,Productive Aging through Intelligent Personalized Crowdsourcing.,2016,"Han Yu, Chunyan Miao, Siyuan Liu, Zhengxiang Pan, Nur Syahidah Bte Khalid, Zhiqi Shen, Cyril Leung",AAAI 2016: 4405-,AAAI,A*
+364,Generative Topic Embedding: a Continuous Representation of Documents.,2016,"Shaohua Li, Tat-Seng Chua, Jun Zhu, Chunyan Miao",ACL  2016,ACL,A*
+365,Coalitional Security Games.,2016,"Qingyu Guo, Bo An, Yevgeniy Vorobeychik, Long Tran-Thanh, Jiarui Gan, Chunyan Miao",AAMAS 2016: 159-167,ATAL,Unranked
+366,Optimal Pricing for Efficient Electric Vehicle Charging Station Management.,2016,"Yanhai Xiong, Jiarui Gan, Bo An, Chunyan Miao, Yeng Chai Soh",AAMAS 2016: 749-757,ATAL,Unranked
+367,Modeling Autobiographical Memory in Human-Like Autonomous Agents.,2016,"Di Wang, Ah-Hwee Tan, Chunyan Miao",AAMAS 2016: 845-853,ATAL,Unranked
+368,A Hybrid Approach for Detecting Fraudulent Medical Insurance Claims: (Extended Abstract).,2016,"Chenfei Sun, Yuliang Shi, Qingzhong Li, Li-zhen Cui, Han Yu, Chunyan Miao",AAMAS 2016: 1287-1288,ATAL,Unranked
+369,A Kinect-based Interactive Game to Improve the Cognitive Inhibition of the Elderly: (Demonstration).,2016,"Siyuan Liu, Zhiqi Shen, Han Yu, Han Lin, Zhengjin Guo, Zhengxiang Pan, Chunyan Miao, Cyril Leung",AAMAS 2016: 1479-1481,ATAL,Unranked
+370,Detection of anomalies in activity patterns of lone occupants from electricity usage data.,2016,"Kuanlong Leong, Cyril Leung, Chunyan Miao, Yu Christine Chen",CEC 2016: 1361-1369,CEC,B
+371,Identifying and Rewarding Subcrowds in Crowdsourcing.,2016,"Siyuan Liu, Xiuyi Fan, Chunyan Miao",ECAI 2016: 1573-1574,ECAI,A
+372,Explained Activity Recognition with Computational Assumption-Based Argumentation.,2016,"Xiuyi Fan, Siyuan Liu, Huiguo Zhang, Cyril Leung, Chunyan Miao",ECAI 2016: 1590-1591,ECAI,A
+373,Prospective memory aid: A reminding model based on Fuzzy Cognitive Maps.,2016,"Jinghua Hou, Zhiwei Zeng, Chunyan Miao, Yang Liu",FUZZ-IEEE 2016: 170-177,FUZZIEEE,Unranked
+374,Towards Emotionally Intelligent Machines: Taking Social Contexts into Account.,2016,"Han Lin, Han Yu, Chunyan Miao, Lin Qiu",HCI  2016: 12-24,HCI,National
+375,Human-Centred Design for Silver Assistants.,2016,"Zhiwei Zeng, Di Wang, Ailiya Borjigin, Chunyan Miao, Ah-Hwee Tan, Cyril Leung",ICA 2016: 112-113,ICA2,Unranked
+376,SOAL: Second-Order Online Active Learning.,2016,"Shuji Hao, Peilin Zhao, Jing Lu, Steven C. H. Hoi, Chunyan Miao, Chi Zhang",ICDM 2016: 931-936,ICDM,A*
+377,Optimal Interdiction of Illegal Network Flow.,2016,"Qingyu Guo, Bo An, Yair Zick, Chunyan Miao",IJCAI 2016: 2507-2513,IJCAI,A*
+378,A coarse-to-fine feature selection method for accurate detection of cerebral small vessel disease.,2016,"Yiqiang Chen, Meiyu Huang, Chunyu Hu, Yicheng Zhu, Fei Han, Chunyan Miao",IJCNN 2016: 2609-2616,IJCNN,B
+379,Comparative study of machine learning algorithms for activity recognition with data sequence in home-like environment.,2016,"Xiuyi Fan, Huiguo Zhang, Cyril Leung, Chunyan Miao",MFI 2016: 168-173,MFI,Unranked
+380,A first step towards explained activity recognition with computational abstract argumentation.,2016,"Xiuyi Fan, Huiguo Zhang, Cyril Leung, Chunyan Miao",MFI 2016: 186-191,MFI,Unranked
+381,An FCM-based Personalized Affective Model for Agile Software Development.,2016,"Wenjing He, Jun Lin, Xinjia Yu, Zhiqi Shen, Chunyan Miao",SEKE 2016: 75-80,SEKE,C
+382,Towards Best Region Search for Data Exploration.,2016,"Kaiyu Feng, Gao Cong, Sourav S. Bhowmick, Wen-Chih Peng, Chunyan Miao",SIGMOD Conference 2016: 1055-1070,SIGMOD,A*
+383,Prospective memory aid reminder system design for group tasks.,2016,"Jinghua Hou, Chunyan Miao, Yang Liu",SKIMA 2016: 433-438,SKIMA,Unranked
+384,Crowd formation via hierarchical planning.,2016,"Xingce Wang, Na Liu, Shaolong Liu, Zhongke Wu, Mingquan Zhou, Jiale He, Peng Cheng, Chunyan Miao, Nadia Magnenat-Thalmann",VRCAI 2016: 251-260,VRCAI,Unranked
+385,"A Social Curiosity Inspired Recommendation Model to Improve Precision, Coverage and Diversity.",2016,"Qiong Wu, Siyuan Liu, Chunyan Miao, Yuan Liu, Cyril Leung",WI 2016: 240-247,WEBI,Unranked
+386,A Survey of Incentives and Mechanism Design for Human Computation Systems.,2016,"Yuan Liu, Chunyan Miao",CoRR abs/1602.03277 ,CORR,Unranked
+387,Generative Topic Embedding: a Continuous Representation of Documents (Extended Version with Proofs).,2016,"Shaohua Li, Tat-Seng Chua, Jun Zhu, Chunyan Miao",CoRR abs/1606.02979 ,CORR,Unranked
+388,PSDVec: a Toolbox for Incremental and Scalable Word Embedding.,2016,"Shaohua Li, Jun Zhu, Chunyan Miao",CoRR abs/1606.03192 ,CORR,Unranked
+389,A Coral Reef Algorithm Based on Learning Automata for the Coverage Control Problem of Heterogeneous Directional Sensor Networks.,2015,"Ming Li, Chunyan Miao, Cyril Leung",Sensors 15: 30617-30635 ,SENSORS,Unranked
+390,Accurate and Robust Moving-Object Segmentation for Telepresence Systems.,2015,"Meiyu Huang, Yiqiang Chen, Wen Ji, Chunyan Miao",ACM Trans. Intell. Syst. Technol. 6: 17:1-17:28 ,TIST,Unranked
+391,A Reputation Revision Mechanism to Mitigate the Negative Effects of Misreported Ratings.,2015,"Siyuan Liu, Chunyan Miao, Yuan Liu, Hui Fang, Han Yu, Jie Zhang, Yueting Chai, Cyril Leung",ICEC 2015: 7:1-7:8,ACMICEC,Unranked
+392,Efficient Task Sub-Delegation for Crowdsourcing.,2015,"Han Yu, Chunyan Miao, Zhiqi Shen, Cyril Leung, Yiqiang Chen, Qiang Yang",AAAI 2015: 1305-1312,AAAI,A*
+393,Teachable Agents with Intrinsic Motivation.,2015,"Ailiya Borjigin, Chunyan Miao, Sufang Lim, Siyao Li, Zhiqi Shen",AIED 2015: 34-43,AIED,A
+394,Optimizing Efficiency of Taxi Systems: Scaling-up and Handling Arbitrary Constraints.,2015,"Jiarui Gan, Bo An, Chunyan Miao",AAMAS 2015: 523-531,ATAL,Unranked
+395,Empirical Analysis of Reputation-aware Task Delegation by Humans from a Multi-agent Game.,2015,"Han Yu, Han Lin, Sufang Lim, Jun Lin, Zhiqi Shen, Chunyan Miao",AAMAS 2015: 1687-1688,ATAL,Unranked
+396,Quality and Budget Aware Task Allocation for Spatial Crowdsourcing.,2015,"Han Yu, Chunyan Miao, Zhiqi Shen, Cyril Leung",AAMAS 2015: 1689-1690,ATAL,Unranked
+397,An Affective Agent for Studying Composite Emotions.,2015,"Jun Lin, Han Yu, Chunyan Miao, Zhiqi Shen",AAMAS 2015: 1947-1948,ATAL,Unranked
+398,Non-contact driver cardiac physiological monitoring using video data.,2015,"Huan Qi, Z. Jane Wang, Chunyan Miao",ChinaSIP 2015: 418-422,CHINASIP,Unranked
+399,Learning Relative Similarity from Data Streams: Active Online Learning Approaches.,2015,"Shuji Hao, Peilin Zhao, Steven C. H. Hoi, Chunyan Miao",CIKM 2015: 1181-1190,CIKM,A
+400,Skill Assessment Using Behavior Data in Virtual World.,2015,"Ailiya Borjigin, Chunyan Miao, Zhiqi Shen, Zhiwei Zeng",EDM 2015: 570-571,EDM,B
+401,A Generative Word Embedding Model and its Low Rank Positive Semidefinite Solution.,2015,"Shaohua Li, Jun Zhu, Chunyan Miao",EMNLP 2015: 1599-1609,EMNLP,A*
+402,Unobtrusive Sensing Incremental Social Contexts Using Fuzzy Class Incremental Learning.,2015,"Zhenyu Chen, Yiqiang Chen, Xingyu Gao, Shuangquan Wang, Lisha Hu, Chenggang Clarence Yan, Nicholas D. Lane, Chunyan Miao",ICDM 2015: 71-80,ICDM,A*
+403,An Adaptive Computational Model for Personalized Persuasion.,2015,"Yilin Kang, Ah-Hwee Tan, Chunyan Miao",IJCAI 2015: 61-67,IJCAI,A*
+404,A Boosting Algorithm for Item Recommendation with Implicit Feedback.,2015,"Yong Liu, Peilin Zhao, Aixin Sun, Chunyan Miao",IJCAI 2015: 1792-1798,IJCAI,A*
+405,Optimal Electric Vehicle Charging Station Placement.,2015,"Yanhai Xiong, Jiarui Gan, Bo An, Chunyan Miao, Ana L. C. Bazzan",IJCAI 2015: 2662-2668,IJCAI,A*
+406,Online Multimodal Co-indexing and Retrieval of Weakly Labeled Web Image Collections.,2015,"Lei Meng, Ah-Hwee Tan, Cyril Leung, Liqiang Nie, Tat-Seng Chua, Chunyan Miao",ICMR 2015: 219-226,MIR,Unranked
+407,Active Crowdsourcing for Annotation.,2015,"Shuji Hao, Steven C. H. Hoi, Chunyan Miao, Peilin Zhao",WI-IAT  2015: 1-8,WEBI,Unranked
+408,Modeling Curiosity in Virtual Companions to Improve Human Learners' Learning Experience.,2015,"Qiong Wu, Chunyan Miao, Cyril Leung",WI-IAT  2015: 59-66,WEBI,Unranked
+409,An Incentive Mechanism to Elicit Truthful Opinions for Crowdsourced Multiple Choice Consensus Tasks.,2015,"Siyuan Liu, Chunyan Miao, Yuan Liu, Han Yu, Jie Zhang, Cyril Leung",WI-IAT  2015: 96-103,WEBI,Unranked
+410,Modelling Composite Emotions in Affective Agents.,2015,"Xinjia Yu, Chunyan Miao, Cyril Leung, Charles Thomas Salmon",WI-IAT  2015: 223-224,WEBI,Unranked
+411,An Agent-Based Game Platform for Exercising People's Prospective Memory.,2015,"Han Lin, Jinghua Hou, Han Yu, Zhiqi Shen, Chunyan Miao",WI-IAT  2015: 235-236,WEBI,Unranked
+412,Agent Augmented Inter-Generational Crowdsourcing.,2015,"Zhengxiang Pan, Chunyan Miao, Benny Toh Hsiang Tan, Han Yu, Cyril Leung",WI-IAT  2015: 237-238,WEBI,Unranked
+413,Progressive Sequence Matching for ADL Plan Recommendation.,2015,"Shan Gao, Di Wang, Ah-Hwee Tan, Chunyan Miao",WI-IAT  2015: 360-367,WEBI,Unranked
+414,Automatic Sleep Arousal Detection Based on C-ELM.,2015,"Yuemeng Liang, Cyril Leung, Chunyan Miao, Qiong Wu, Martin J. McKeown",WI-IAT  2015: 376-382,WEBI,Unranked
+415,The Effects of Familiarity Design on the Adoption of Wellness Games by the Elderly.,2015,"Zhengxiang Pan, Chunyan Miao, Han Yu, Cyril Leung, Jing Jih Chin",WI-IAT  2015: 387-390,WEBI,Unranked
+416,A Generative Word Embedding Model and its Low Rank Positive Semidefinite Solution.,2015,"Shaohua Li, Jun Zhu, Chunyan Miao",CoRR abs/1508.03826 ,CORR,Unranked
+417,An Integrated Clustering-Based Approach to Filtering Unfair Multi-Nominal Testimonies.,2014,"Siyuan Liu, Jie Zhang, Chunyan Miao, Yin-Leng Theng, Alex C. Kot",Comput. Intell. 30: 316-341 ,CI,Unranked
+418,Context-Aware Personal Information Retrieval From Multiple Social Networks.,2014,"Xiaogang Han, Wei Wei, Chunyan Miao, Jian-Ping Mei, Hengjie Song",IEEE Comput. Intell. Mag. 9: 18-28 ,CIM,Unranked
+419,A Survey of Resource Management in Multi-Tier Web Applications.,2014,"Dong Huang, Bingsheng He, Chunyan Miao",IEEE Commun. Surv. Tutorials 16: 1574-1590 ,COMSUR,Unranked
+420,Filtering trust opinions through reinforcement learning.,2014,"Han Yu, Zhiqi Shen, Chunyan Miao, Bo An, Cyril Leung",Decis. Support Syst. 66: 102-113 ,DSS,Unranked
+421,"Comparing the learning effectiveness of BP, ELM, I-ELM, and SVM for corporate credit ratings.",2014,"Haoming Zhong, Chunyan Miao, Zhiqi Shen, Yuhong Feng",Neurocomputing 128: 285-295 ,IJON,Unranked
+422,Learning Relative Similarity by Stochastic Dual Coordinate Ascent.,2014,"Pengcheng Wu, Yi Ding, Peilin Zhao, Chunyan Miao, Steven C. H. Hoi",AAAI 2014: 2142-2148,AAAI,A*
+423,RepRev: Mitigating the Negative Effects of Misreported Ratings.,2014,"Yuan Liu, Siyuan Liu, Jie Zhang, Hui Fang, Han Yu, Chunyan Miao",AAAI 2014: 3124-3125,AAAI,A*
+424,Reputation-Aware Continuous Double Auction.,2014,"Yuan Liu, Jie Zhang, Han Yu, Chunyan Miao",AAAI 2014: 3126-3127,AAAI,A*
+425,Reputation-aware task allocation for human trustees.,2014,"Han Yu, Chunyan Miao, Bo An, Zhiqi Shen, Cyril Leung",AAMAS 2014: 357-364,ATAL,Unranked
+426,Modeling curiosity for virtual learning companions.,2014,"Qiong Wu, Chunyan Miao, Bo An",AAMAS 2014: 1401-1402,ATAL,Unranked
+427,An efficient algorithm for taxi system optimization.,2014,"Jiarui Gan, Bo An, Chunyan Miao",AAMAS 2014: 1465-1466,ATAL,Unranked
+428,A multi-agent game for studying human decision-making.,2014,"Han Yu, Xinjia Yu, Sufang Lim, Jun Lin, Zhiqi Shen, Chunyan Miao",AAMAS 2014: 1661-1662,ATAL,Unranked
+429,An agent-based game for the predictive diagnosis of parkinson's disease.,2014,"Yundong Cai, Zhiqi Shen, Siyuan Liu, Han Yu, Xiaogang Han, Jun Ji, Martin J. McKeown, Cyril Leung, Chunyan Miao",AAMAS 2014: 1663-1664,ATAL,Unranked
+430,Exploiting Geographical Neighborhood Characteristics for Location Recommendation.,2014,"Yong Liu, Wei Wei, Aixin Sun, Chunyan Miao",CIKM 2014: 739-748,CIKM,A
+431,Incremental fuzzy clustering for document categorization.,2014,"Jian-Ping Mei, Yangtao Wang, Lihui Chen, Chunyan Miao",FUZZ-IEEE 2014: 1518-1525,FUZZIEEE,Unranked
+432,A fuzzy logic based Parkinson's Disease risk predictor.,2014,"Siyuan Liu, Zhiqi Shen, Martin J. McKeown, Cyril Leung, Chunyan Miao",FUZZ-IEEE 2014: 1624-1631,FUZZIEEE,Unranked
+433,Persuasive Teachable Agent with Goal Net.,2014,"Sufang Lim, Ailiya, Chunyan Miao, Zhiqi Shen",ICALT 2014: 461-463,ICALT,B
+434,High-Dimensional Data Stream Classification via Sparse Online Learning.,2014,"Dayong Wang, Pengcheng Wu, Peilin Zhao, Yue Wu, Chunyan Miao, Steven C. H. Hoi",ICDM 2014: 1007-1012,ICDM,A*
+435,Studying task allocation decisions of novice agile teams with data from agile project management tools.,2014,"Jun Lin, Han Yu, Zhiqi Shen, Chunyan Miao",ASE 2014: 689-694,KBSE,Unranked
+436,A Social Trust Model Considering Trustees' Influence.,2014,"Jian-Ping Mei, Han Yu, Yong Liu, Zhiqi Shen, Chunyan Miao",PRIMA 2014: 357-364,PRIMA,B
+437,Using goal net to model user stories in agile software development.,2014,"Jun Lin, Han Yu, Zhiqi Shen, Chunyan Miao",SNPD 2014: 1-6,SNPD,C
+438,Designing Socially Intelligent Virtual Companions.,2014,"Han Yu, Zhiqi Shen, Qiong Wu, Chunyan Miao",CoRR abs/1411.7090 ,CORR,Unranked
+439,A Survey of Multi-Agent Trust Management Systems.,2013,"Han Yu, Zhiqi Shen, Cyril Leung, Chunyan Miao, Victor R. Lesser",IEEE Access 1: 35-50 ,ACCESS,Unranked
+440,A Two-Stage Win-Win Multiattribute Negotiation Model: Optimization and then Concession.,2013,"Li Pan, Xudong Luo, Xiangxu Meng, Chunyan Miao, Minghua He, Xingchen Guo",Comput. Intell. 29: 577-626 ,CI,Unranked
+441,Modeling Curiosity-Related Emotions for Virtual Peer Learners.,2013,"Qiong Wu, Chunyan Miao",IEEE Comput. Intell. Mag. 8: 50-62 ,CIM,Unranked
+442,Curiosity: From psychology to computation.,2013,"Qiong Wu, Chunyan Miao",ACM Comput. Surv. 46: 18:1-18:26 ,CSUR,Unranked
+443,Adaptive goal selection for agents in dynamic environments.,2013,"Huiliang Zhang, Xudong Luo, Chunyan Miao, Zhiqi Shen, Jin You",Knowl. Inf. Syst. 37: 665-692 ,KAIS,Unranked
+444,An Energy-Efficient Self-Adaptive Duty Cycle MAC Protocol for Traffic-Dynamic Wireless Sensor Networks.,2013,"Yi Zhi Zhao, Chunyan Miao, Maode Ma",Wirel. Pers. Commun. 68: 1287-1315 ,WPC,Unranked
+445,A fuzzy logic based reputation model against unfair ratings.,2013,"Siyuan Liu, Han Yu, Chunyan Miao, Alex C. Kot",AAMAS 2013: 821-828,ATAL,Unranked
+446,The innovative application of learning companions in virtual singapura.,2013,"Qiong Wu, Xiaogang Han, Han Yu, Zhiqi Shen, Chunyan Miao",AAMAS 2013: 1171-1172,ATAL,Unranked
+447,A reputation-aware decision-making approach for improving the efficiency of crowdsourcing systems.,2013,"Han Yu, Zhiqi Shen, Chunyan Miao, Bo An",AAMAS 2013: 1315-1316,ATAL,Unranked
+448,Personalized point-of-interest recommendation by mining users' preference transition.,2013,"Xin Liu, Yong Liu, Karl Aberer, Chunyan Miao",CIKM 2013: 733-738,CIKM,A
+449,Internet of Things Based Data Driven Storytelling for Supporting Social Connections.,2013,"Qiong Wu, Zhiqi Shen, Cyril Leung, Huiguo Zhang, Ailiya, Yundong Cai, Chunyan Miao",GreenCom/iThings/CPScom 2013: 383-390,GREENCOM,Unranked
+450,Persuasive Teachable Agent User Modeling.,2013,"Sufang Lim, Matthias Chan, Ailiya, Chunyan Miao, Zhiqi Shen",ICALT 2013: 307-308,ICALT,B
+451,The Design of Persuasive Teachable Agent.,2013,"Sufang Lim, Ailiya, Chunyan Miao, Zhiqi Shen",ICALT 2013: 382-384,ICALT,B
+452,A Reputation Management Approach for Resource Constrained Trustee Agents.,2013,"Han Yu, Chunyan Miao, Bo An, Cyril Leung, Victor R. Lesser",IJCAI 2013: 418-424,IJCAI,A*
+453,Online multimodal deep similarity learning with application to image retrieval.,2013,"Pengcheng Wu, Steven C. H. Hoi, Hao Xia, Peilin Zhao, Dayong Wang, Chunyan Miao",ACM Multimedia 2013: 153-162,MM,Unranked
+454,Learning to name faces: a multimodal learning scheme for search-based face annotation.,2013,"Dayong Wang, Steven C. H. Hoi, Pengcheng Wu, Jianke Zhu, Ying He, Chunyan Miao",SIGIR 2013: 443-452,SIGIR,A*
+455,FANS: face annotation by searching large-scale web facial images.,2013,"Steven C. H. Hoi, Dayong Wang, I. Yeu Cheng, Elmer Weijie Lin, Jianke Zhu, Ying He, Chunyan Miao",WWW  2013: 317-320,WWW,A*
+456,Kemnad: a Knowledge Engineering Methodology for Negotiating Agent Development.,2012,"Xudong Luo, Chunyan Miao, Nicholas R. Jennings, Minghua He, Zhiqi Shen, Minjie Zhang",Comput. Intell. 28: 51-105 ,CI,Unranked
+457,A survey and projection on medium access control protocols for wireless sensor networks.,2012,"Yi Zhi Zhao, Chunyan Miao, Maode Ma, Jing-Bing Zhang, Cyril Leung",ACM Comput. Surv. 45: 7:1-7:37 ,CSUR,Unranked
+458,A Dempster-Shafer theory based witness trustworthiness model to cope with unfair ratings in e-marketplace.,2012,"Siyuan Liu, Alex C. Kot, Chunyan Miao, Yin Leng Theng",ICEC 2012: 99-106,ACMICEC,Unranked
+459,A Mouse-Trajectory Based Model for Predicting Query-URL Relevance.,2012,"Hengjie Song, Ruoxue Liao, Xiangliang Zhang, Chunyan Miao, Qiang Yang",AAAI 2012: 143-149,AAAI,A*
+460,A Dempster-Shafer theory based witness trustworthiness model.,2012,"Siyuan Liu, Alex C. Kot, Chunyan Miao, Yin Leng Theng",AAMAS 2012: 1361-1362,ATAL,Unranked
+461,Virtual characters in agent-augmented co-space (demonstration).,2012,"Yilin Kang, Budhitama Subagdja, Ah-Hwee Tan, Yew-Soon Ong, Chunyan Miao",AAMAS 2012: 1465-1466,ATAL,Unranked
+462,A curious learning companion in Virtual Learning Environment.,2012,"Qiong Wu, Chunyan Miao, Zhiqi Shen",FUZZ-IEEE 2012: 1-8,FUZZIEEE,Unranked
+463,Challenges and Opportunities for Trust Management in Crowdsourcing.,2012,"Han Yu, Zhiqi Shen, Chunyan Miao, Bo An",IAT 2012: 486-493,IAT,Unranked
+464,"Towards an Integrated Design of Digital Library and Virtual Museum in the Heritage Preservation of the Chinese ""Qipao"".",2012,"Yin Leng Theng, Lynette Ying Qin Goh, Natalie Lee-San Pang, Yundong Cai, Sufang Lim, Chunyan Miao, Zhiqi Shen, Gladys Sau-Mei Theng",ICADL 2012: 342-343,ICADL,Unranked
+465,Authoring Educational Games through Affective Teachable Agent.,2012,"Ailiya, Chunyan Miao, Zhiqi Shen",ICALT 2012: 102-104,ICALT,B
+466,Author Name Disambiguation Using a New Categorical Distribution Similarity.,2012,"Shaohua Li, Gao Cong, Chunyan Miao",ECML/PKDD  2012: 569-584,PKDD,Unranked
+467,A probabilistic fuzzy approach to modeling nonlinear systems.,2011,"Hengjie Song, Chunyan Miao, Zhiqi Shen, Roel Wuyts, Maja D'Hondt, Francky Catthoor",Neurocomputing 74: 1008-1025 ,IJON,Unranked
+468,A new robust training algorithm for a class of single-hidden layer feedforward neural networks.,2011,"Zhihong Man, Kevin Lee, Dianhui Wang, Zhenwei Cao, Chunyan Miao",Neurocomputing 74: 2491-2501 ,IJON,Unranked
+469,An Extension to Fuzzy Cognitive Maps for Classification and Prediction.,2011,"Hengjie J. Song, Chunyan Miao, Roel Wuyts, Zhiqi Shen, Maja D'Hondt, Francky Catthoor",IEEE Trans. Fuzzy Syst. 19: 116-135 ,TFS,Unranked
+470,Trust-based web service selection in virtual communities.,2011,"Zhiqi Shen, Han Yu, Chunyan Miao, Jianshu Weng",Web Intell. Agent Syst. 9: 227-238 ,WIAS,Unranked
+471,Generating True Relevance Labels in Chinese Search Engine Using Clickthrough Data.,2011,"Hengjie Song, Chunyan Miao, Zhiqi Shen",AAAI 2011: 1230-1236,AAAI,A*
+472,Agent-Mediated Immersion in Virtual World: The Implications for Science Learning.,2011,"Chee-Kit Looi, Longkai Wu, Beaumie Kim, Chunyan Miao",AIED 2011: 507-509,AIED,A
+473,iCLUB: an integrated clustering-based approach to improve the robustness of reputation systems.,2011,"Siyuan Liu, Jie Zhang, Chunyan Miao, Yin Leng Theng, Alex C. Kot",AAMAS 2011: 1151-1152,ATAL,Unranked
+474,A simple curious agent to help people be curious.,2011,"Han Yu, Zhiqi Shen, Chunyan Miao, Ah-Hwee Tan",AAMAS 2011: 1159-1160,ATAL,Unranked
+475,Genetic algorithm aided optimization of hierarchical multiagent system organization.,2011,"Ling Yu, Zhiqi Shen, Chunyan Miao, Victor R. Lesser",AAMAS 2011: 1169-1170,ATAL,Unranked
+476,A Cloud and Agent Based Architecture Design for an Educational Mobile SNS Game.,2011,"Jun Lin, Chunyan Miao, Han Yu",Edutainment 2011: 212-219,EDUTAINMENT,Unranked
+477,Train Fuzzy Cognitive Maps by gradient residual algorithm.,2011,"Huiliang Zhang, Zhiqi Shen, Chunyan Miao",FUZZ-IEEE 2011: 1815-1821,FUZZIEEE,Unranked
+478,Motivation Based Goal Adoption for Autonomous Intelligent Agents.,2011,"Umair Rafique, Shell-Ying Huang, Chunyan Miao",IAT 2011: 54-57,IAT,Unranked
+479,Affective Teachable Agent in VLE: A Goal Oriented Approach.,2011,"Ailiya, Zhiqi Shen, Chunyan Miao",ICALT 2011: 110-114,ICALT,B
+480,Agent-Oriented Methodology for Interactive Storytelling (AOMIS).,2011,"Yundong Cai, Zhiqi Shen, Chunyan Miao",ICIDS 2011: 25-30,ICIDS,C
+481,Minimizing the Number of Separating Circles for Two Sets of Points in the Plane.,2011,"Jiaye Wang, Feng Sun, Wenping Wang, Chunyan Miao, Caiming Zhang",ISVD 2011: 98-104,ISVD,Unranked
+482,Creating an Immersive Game World with Evolutionary Fuzzy Cognitive Maps.,2010,"Yundong Cai, Chunyan Miao, Ah-Hwee Tan, Zhiqi Shen, Boyang Li",IEEE Computer Graphics and Applications 30: 58-70 ,CGA,Unranked
+483,An energy-efficient and low-latency MAC protocol with Adaptive Scheduling for multi-hop wireless sensor networks.,2010,"Yi Zhi Zhao, Maode Ma, Chunyan Miao, T. N. Nguyen",Comput. Commun. 33: 1452-1461 ,COMCOM,Unranked
+484,Resource Allocation in MU-OFDM Cognitive Radio Systems with Partial Channel State Information.,2010,"Dong Huang, Zhiqi Shen, Chunyan Miao, Cyril Leung",EURASIP J. Wirel. Commun. Netw. 2010 ,EJWCN,Unranked
+485,Resource Allocation in a Cognitive Radio System with Imperfect Channel State Estimation.,2010,"Tao Qin, Cyril Leung, Chunyan Miao, Zhiqi Shen",J. Electr. Comput. Eng. 2010: 419430:1-419430:5 ,JECE,Unranked
+486,Design of fuzzy cognitive maps using neural networks for predicting chaotic time series.,2010,"Hengjie Song, Chunyan Miao, Zhiqi Shen, Roel Wuyts, Maja D'Hondt, Francky Catthoor",Neural Networks 23: 1264-1275 ,NN,Unranked
+487,A Survey of Trust and Reputation Management Systems in Wireless Communications.,2010,"Han Yu, Zhiqi Shen, Chunyan Miao, Cyril Leung, Dusit Niyato",Proc. IEEE 98: 1755-1772 ,PIEEE,Unranked
+488,An Emotional Agent in Virtual Learning Environment.,2010,"Ailiya, Zhiqi Shen, Chunyan Miao",Trans. Edutainment 4: 22-33 ,TEDU,Unranked
+489,Transformation of Cognitive Maps.,2010,"Yuan Miao, Chunyan Miao, Xuehong Tao, Zhiqi Shen, Zhi-Qiang Liu",IEEE Trans. Fuzzy Syst. 18: 114-124 ,TFS,Unranked
+490,Implementation of Fuzzy Cognitive Maps Based on Fuzzy Neural Network and Application in Prediction of Time Series.,2010,"Hengjie Song, Chunyan Miao, Roel Wuyts, Zhiqi Shen, Francky Catthoor",IEEE Trans. Fuzzy Syst. 18: 233-250 ,TFS,Unranked
+491,Credibility: How Agents Can Handle Unfair Third-Party Testimonies in Computational Trust Models.,2010,"Jianshu Weng, Zhiqi Shen, Chunyan Miao, Angela Eck Soong Goh, Cyril Leung",IEEE Trans. Knowl. Data Eng. 22: 1286-1298 ,TKDE,Unranked
+492,Folksonomy-Based Ontological User Interest Profile Modeling and Its Application in Personalized Search.,2010,"Xiaogang Han, Zhiqi Shen, Chunyan Miao, Xudong Luo",AMT 2010: 34-46,AMT,Unranked
+493,A clustering approach to filtering unfair testimonies for reputation systems.,2010,"Siyuan Liu, Chunyan Miao, Yin Leng Theng, Alex C. Kot",AAMAS 2010: 1577-1578,ATAL,Unranked
+494,Youth Olympic Village Co-space.,2010,"Zin-Yan Chua, Yilin Kang, Xing Jiang, Kah-Hoe Pang, Andrew C. Gregory, Chi-Yun Tan, Wai-Lun Wong, Ah-Hwee Tan, Yew-Soon Ong, Chunyan Miao",CW 2010: 200-207,CW,C
+495,Predicting Responsiveness of BDI Agent.,2010,"Huiliang Zhang, Zhiqi Shen, Shell-Ying Huang, Chunyan Miao",ECAI 2010: 647-652,ECAI,A
+496,An emotion aware agent platform for interactive storytelling and gaming.,2010,"Zhiqi Shen, Chunyan Miao, Liang Zhang, Han Yu, Mark J. Chavez",Future Play 2010: 257-258,FPLAY,Unranked
+497,How Fast Can a BDI Agent Respond?,2010,"Huiliang Zhang, Chunyan Miao, Shell-Ying Huang, Zhiqi Shen, Xudong Luo",IAT 2010: 189-196,IAT,Unranked
+498,Motivated Learning for Goal Selection in Goal Nets.,2010,"Huiliang Zhang, Zhiqi Shen, Chunyan Miao, Xudong Luo",IAT 2010: 252-255,IAT,Unranked
+499,DIRACT: Agent-Based Interactive Storytelling.,2010,"Yundong Cai, Zhiqi Shen, Chunyan Miao, Ah-Hwee Tan",IAT 2010: 273-276,IAT,Unranked
+500,Agents as intelligent user interfaces for the net generation.,2010,"Han Yu, Yundong Cai, Zhiqi Shen, Xuehong Tao, Chunyan Miao",IUI 2010: 429-430,IUI,A
+501,Optimization of Multiple Related Negotiation through Multi-Negotiation Network.,2010,"Fenghui Ren, Minjie Zhang, Chunyan Miao, Zhiqi Shen",KSEM 2010: 174-185,KSEM,C
+502,Semi-Supervised Learning in Reconstructed Manifold Space for 3D Caricature Generation.,2009,"Junfa Liu, Yiqiang Chen, Chunyan Miao, Jinjing Xie, Charles X. Ling, Xingyu Gao, Wen Gao",Comput. Graph. Forum 28: 2104-2116 ,CGF,Unranked
+503,A fuzzy neural network with fuzzy impact grades.,2009,"Hengjie Song, Chunyan Miao, Zhiqi Shen, Yuan Miao, Bu-Sung Lee",Neurocomputing 72: 3098-3122 ,IJON,Unranked
+504,Fitness landscape analysis for resource allocation in multiuser OFDM based cognitive radio systems.,2009,"Dong Huang, Zhiqi Shen, Chunyan Miao, Cyril Leung",ACM SIGMOBILE Mob. Comput. Commun. Rev. 13: 26-36 ,SIGMOBILE,Unranked
+505,Towards a trust aware cognitive radio architecture.,2009,"Tao Qin, Han Yu, Cyril Leung, Zhiqi Shen, Chunyan Miao",ACM SIGMOBILE Mob. Comput. Commun. Rev. 13: 86-95 ,SIGMOBILE,Unranked
+506,Modeling Believable Virtual Characters with Evolutionary Fuzzy Cognitive Maps in Interactive Storytelling.,2009,"Yundong Cai, Chunyan Miao, Ah-Hwee Tan, Zhiqi Shen",AAAI Spring Symposium: Intelligent Narrative Technologies II 2009: 5-11,AAAISS,Unranked
+507,Evolutionary organizational search.,2009,"Boyang Li, Han Yu, Zhiqi Shen, Chunyan Miao",AAMAS  2009: 1329-1330,ATAL,Unranked
+508,Emotional agent in serious game (DINO).,2009,"Huiliang Zhang, Zhiqi Shen, Xuehong Tao, Chunyan Miao, B. Li, Ailiya, Yundong Cai",AAMAS  2009: 1385-1386,ATAL,Unranked
+509,Enabling Goal Oriented Action Planning with Goal Net.,2009,"Huiliang Zhang, Zhiqi Shen, Chunyan Miao",IAT 2009: 271-274,IAT,Unranked
+510,ELM-Based Intelligent Resource Selection for Grid Scheduling.,2009,"Guopeng Zhao, Zhiqi Shen, Chunyan Miao",ICMLA 2009: 398-403,ICMLA,C
+511,A Fast and Intelligent Resource Allocation Service for Service-Oriented Grid.,2009,"Guopeng Zhao, Zhiqi Shen, Chunyan Miao",ICPADS 2009: 804-809,ICPADS,B
+512,An energy-efficient MAC protocol with Adaptive Scheduling for wireless sensor networks.,2009,"Yi Zhi Zhao, Thuy Ngoc Nguyen, Maode Ma, Chunyan Miao",INDIN 2009: 446-451,INDIN,Unranked
+513,Interactive 3D caricature generation based on double sampling.,2009,"Jinjing Xie, Yiqiang Chen, Junfa Liu, Chunyan Miao, Xingyu Gao",ACM Multimedia 2009: 745-748,MM,Unranked
+514,A Market-Based Multi-Issue Negotiation Model Considering Multiple Preferences in Dynamic E-Marketplaces.,2009,"Fenghui Ren, Minjie Zhang, Chunyan Miao, Zhiqi Shen",PRIMA 2009: 1-16,PRIMA,B
+515,A goal-oriented development tool to automate the incorporation of intelligent agents into interactive digital media applications.,2008,"Han Yu, Zhiqi Shen, Chunyan Miao",Comput. Entertain. 6: 24:1-24:15 ,CIE,Unranked
+516,A survey of agent-oriented software engineering for service-oriented computing.,2008,"Peter Leong, Chunyan Miao, Bu-Sung Lee",Int. J. Web Eng. Technol. 4: 367-385 ,IJWET,Unranked
+517,Memetic algorithm for dynamic resource allocation in multiuser OFDM based Cognitive Radio systems.,2008,"Dong Huang, Cyril Leung, Chunyan Miao",IEEE Congress on Evolutionary Computation 2008: 3860-3865,CEC,B
+518,Temporal fuzzy cognitive maps.,2008,"Haoming Zhong, Chunyan Miao, Zhiqi Shen, Yuhong Feng",FUZZ-IEEE 2008: 1831-1840,FUZZIEEE,Unranked
+519,Context modeling with Evolutionary Fuzzy Cognitive Map in interactive storytelling.,2008,"Yundong Cai, Chunyan Miao, Ah-Hwee Tan, Zhiqi Shen",FUZZ-IEEE 2008: 2320-2325,FUZZIEEE,Unranked
+520,Research into Learning in an Intelligent Agent Augmented Multi-user Virtual Environment.,2008,"Michael J. Jacobson, Chunyan Miao, Beaumie Kim, Zhiqi Shen, Mark J. Chavez",Web Intelligence/IAT Workshops 2008: 348-351,IAT,Unranked
+521,ELM-Based Agents for Grid Resource Selection.,2008,"Guopeng Zhao, Zhiqi Shen, Ailiya, Chunyan Miao",IAT 2008: 385-388,IAT,Unranked
+522,Transforming Learning through Agent Augmented Virtual World.,2008,"Han Yu, Zhiqi Shen, ChorPing Low, Chunyan Miao",ICALT 2008: 933-937,ICALT,B
+523,Enhanced Extreme Learning Machine with stacked generalization.,2008,"Guopeng Zhao, Zhiqi Shen, Chunyan Miao, Robert K. L. Gay",IJCNN 2008: 1191-1198,IJCNN,B
+524,A cognitive approach for agent-based personalized recommendation.,2007,"Chunyan Miao, Qiang Yang, Haijing Fang, Angela Goh",Knowl. Based Syst. 20: 397-405 ,KBS,Unranked
+525,Algorithms for Transitive Dependence-Based Coalition Formation.,2007,"Bo An, Zhiqi Shen, Chunyan Miao, Daijie Cheng",IEEE Trans. Ind. Informatics 3: 234-245 ,TII,Unranked
+526,S-MADE: Interactive Storytelling Architecture through Goal Execution and Decomposition.,2007,"Yundong Cai, Zhiqi Shen, Chunyan Miao, Ah-Hwee Tan",AAAI Fall Symposium: Intelligent Narrative Technologies 2007: 17-20,AAAIFS,Unranked
+527,A Hybrid of Plot-Based and Character-Based Interactive Storytelling.,2007,"Yundong Cai, Chunyan Miao, Ah-Hwee Tan, Zhiqi Shen",Edutainment 2007: 260-273,EDUTAINMENT,Unranked
+528,A service based multi-agent system design tool for modelling integrated manufacturing and service systems.,2007,"Han Yu, Zhiqi Shen, Chunyan Miao, Jing Wen, Qizhen Yang",ETFA 2007: 149-154,ETFA,Unranked
+529,Semantic enhancement and ontology for interoperability of design information systems.,2007,"Qizhen Yang, Chunyan Miao",ETFA 2007: 169-176,ETFA,Unranked
+530,Fuzzy cognitive map learning based on multi-objectiveparticle swarm optimization.,2007,"Hengjie Song, Chunyan Miao, Zhiqi Shen",GECCO 2007: 339,GECCO,A
+531,Intelligent Software Agent Design Tool Using Goal Net Methodology.,2007,"Han Yu, Zhiqi Shen, Chunyan Miao",IAT 2007: 43-46,IAT,Unranked
+532,Economically Inspired Self-healing Model for Multi-Agent Systems.,2007,"Maryam Ashoori, Chunyan Miao, Majid Nili, Mehdi Amoui",IAT 2007: 261-264,IAT,Unranked
+533,Socializing Pedagogical Agents for Personalization in Virtual Learning Environments.,2007,"Maryam Ashoori, Chunyan Miao, Yundong Cai",Web Intelligence/IAT Workshops 2007: 346-349,IAT,Unranked
+534,Market Based Resource Allocation with Incomplete Information.,2007,"Bo An, Chunyan Miao, Zhiqi Shen",IJCAI 2007: 1193-1198,IJCAI,A*
+535,The Multi-Agent Data Collection in HLA-Based Simulation System.,2007,"Hengjie Song, Zhiqi Shen, Chunyan Miao, Ah-Hwee Tan, Guopeng Zhao",PADS 2007: 61-69,PADS,B
+536,Goal-Oriented Methodology for Agent System Development.,2006,"Zhiqi Shen, Chunyan Miao, Robert K. L. Gay, Dongtao Li",IEICE Trans. Inf. Syst. 89-D: 1413-1420 ,IEICET,Unranked
+537,An Entropy-Based Approach to Protecting Rating Systems from Unfair Testimonies.,2006,"Jianshu Weng, Chunyan Miao, Angela Goh",IEICE Trans. Inf. Syst. 89-D: 2502-2511 ,IEICET,Unranked
+538,Fuzzy cognitive maps for dynamic grid service negotiation.,2006,"Chunyan Miao, Jianshu Weng, Angela Goh, Zhiqi Shen, Bo An",Multiagent Grid Syst. 2: 101-114 ,MAGS,Unranked
+539,Fuzzy cognitive goal net for interactive storytelling plot design.,2006,"Yundong Cai, Chunyan Miao, Ah-Hwee Tan, Zhiqi Shen",Advances in Computer Entertainment Technology 2006: 56,ACMACE,Unranked
+540,Trust-based agent community for collaborative recommendation.,2006,"Jianshu Weng, Chunyan Miao, Angela Goh, Zhiqi Shen, Robert K. L. Gay",AAMAS 2006: 1260-1262,ATAL,Unranked
+541,Agent Oriented Software Engineering for Grid Computing.,2006,"Peter Leong, Chunyan Miao, Bu-Sung Lee",CCGRID 2006: 2,CCGRID,B
+542,A Robust Reputation System for the Grid.,2006,"Jianshu Weng, Chunyan Miao, Angela Goh",CCGRID 2006: 548-551,CCGRID,B
+543,A Goal-oriented Approach to Goal Selection and Action Selection.,2006,"Zhiqi Shen, Chunyan Miao, Yuan Miao, Xuehong Tao, Robert K. L. Gay",FUZZ-IEEE 2006: 114-121,FUZZIEEE,Unranked
+544,Probabilistic Fuzzy Cognitive Map.,2006,"Hengjie Song, Zhiqi Shen, Chunyan Miao, Zhi-Qiang Liu, Yuan Miao",FUZZ-IEEE 2006: 1221-1228,FUZZIEEE,Unranked
+545,"The Equivalence of Cognitive Map, Fuzzy Cognitive Map and Multi Value Fuzzy Cognitive Map.",2006,"Yuan Miao, Xuehong Tao, Zhiqi Shen, Zhi-Qiang Liu, Chunyan Miao",FUZZ-IEEE 2006: 1872-1878,FUZZIEEE,Unranked
+546,Interest Based Negotiation Automation.,2006,"Xuehong Tao, Yuan Miao, Zhiqi Shen, Chunyan Miao, Nicola Yelland",ICIC  2006: 211-222,ICIC,Unranked
+547,LCA and LCC Data Semantics Sharing Across Product Lifecycle Processes.,2006,"Q. Z. Yang, Chunyan Miao, Y. Zhang, Robert K. L. Gay",CE 2006: 190-197,ISPE,Unranked
+548,Intelligent Market Based Learner Modeling.,2006,"Maryam Ashoori, Chunyan Miao, Angela Goh, Qiong Wang",PRICAI 2006: 101-111,PRICAI,B
+549,Improving collaborative filtering with trust-based metrics.,2006,"Jianshu Weng, Chunyan Miao, Angela Goh",SAC 2006: 1860-1864,SAC,B
+550,Improving collaborative filtering with trust-based metrics.,2006,"Jianshu Weng, Chunyan Miao, Angela Goh",SAC 2006: 1860-1864,SAC,Multiconference
+551,A Coalition Formation Framework Based on Transitive Dependence.,2005,"Bo An, Chunyan Miao, Daijie Cheng",IEICE Trans. Inf. Syst. 88-D: 2672-2680 ,IEICET,Unranked
+552,Trust-based collaborative filtering.,2005,"Jianshu Weng, Chunyan Miao, Angela Goh, Dongtao Li",CIKM 2005: 299-300,CIKM,A
+553,Transitive Dependence Based Formation of Virtual Organizations.,2005,"Bo An, Chunyan Miao, Zhiqi Shen, Yuan Miao, Daijie Cheng",CIS  2005: 375-380,CIS,C
+554,Transitive Dependence Based Formation of Virtual Organizations.,2005,"Bo An, Chunyan Miao, Zhiqi Shen, Yuan Miao, Daijie Cheng",CIS  2005: 375-380,CIS,National
+555,Fuzzy Cognitive Agents in Shared Virtual Worlds.,2005,"Peter Leong, Chunyan Miao",CW 2005: 368-372,CW,C
+556,Goal Net Agent Framework for Web Service Integration.,2005,"Chong Sean Kuay, Zhiqi Shen, Robert K. L. Gay, Chunyan Miao","Web Technologies, Applications, and Services 2005: 117-122",IASTEDWTAS,Unranked
+557,Goal-oriented Methodology for Agent System Development.,2005,"Zhiqi Shen, Dongtao Li, Chunyan Miao, Robert K. L. Gay, Yuan Miao",IAT 2005: 95-101,IAT,Unranked
+558,Actionable Knowledge Model for GUI Regression Testing.,2005,"Zunliang Yin, Chunyan Miao, Zhiqi Shen, Yuan Miao",IAT 2005: 165-168,IAT,Unranked
+559,Toward Transitive Dependence in MAS.,2005,"Bo An, Chunyan Miao, Lianggui Tang, Shuangqing Li, Daijie Cheng",IDEAL 2005: 486-493,IDEAL,C
+560,A Transitive Dependence Based Social Reasoning Mechanism for Coalition Formation.,2005,"Bo An, Chunyan Miao, Lianggui Tang, Shuangqing Li, Daijie Cheng",IDEAL 2005: 507-514,IDEAL,C
+561,A Goal Oriented e-Learning Agent System.,2005,"Dongtao Li, Zhiqi Shen, Yuan Miao, Chunyan Miao, Robert K. L. Gay",KES  2005: 664-670,KES,B
+562,Protecting Online Rating Systems from Unfair Ratings.,2005,"Jianshu Weng, Chunyan Miao, Angela Goh",TrustBus 2005: 50-59,TRUSTBUS,Unranked
+563,Agent mediated Grid services in E-learning.,2004,"Zhiqi Shen, Chunyan Miao, Angela Goh, Robert K. L. Gay",CCGRID 2004: 210-211,CCGRID,B
+564,Goal Autonomous Agent Architecture.,2004,"Zhiqi Shen, Robert K. L. Gay, Yuan Miao, Chunyan Miao",COMPSAC Workshops 2004: 45-46,COMPSAC,B
+565,Goal Oriented Modeling for Intelligent Software Agents.,2004,"Zhiqi Shen, Chunyan Miao, Xuehong Tao, Robert K. L. Gay",IAT 2004: 540-543,IAT,Unranked
+566,Dynamic Negotiations for Grid Services.,2004,"Jianshu Weng, Chunyan Miao, Angela Goh",ICAC 2004: 296-297,ICAC,B
+567,Goal oriented modeling for agent mediated e-learning grid.,2004,"Zhiqi Shen, Robert K. L. Gay, Chunyan Miao, Q. Wang",ICARCV 2004: 2280-2285,ICARCV,C
+568,Dynamic inference agents: from theory to practice.,2003,Chun Yan Miao,"Nanyang Technological University, Singapore, 2003",NAN,Unranked
+569,The Knowledge-Base of a B2B E-commerce Multi-agent System.,2003,"Nelly Kasim, Chunyan Miao, Angela Goh",IDEAL 2003: 924-928,IDEAL,C
+570,"Agent that models, reasons and makes decisions.",2002,"Chunyan Miao, Angela Goh, Yuan Miao, Zhonghua Yang",Knowl. Based Syst. 15: 203-211 ,KBS,Unranked
+571,An Agent Approach for Personalized Recommendation.,2002,"Chunyan Miao, Haijing Fang, Xuehong Tao, Qiang Yang, Robert K. L. Gay",FSKD 2002: 231-235,FSKD,Unranked
+572,Goal-Based Modeling for Intelligent Business Forecasting Agents.,2002,"Zhiqi Shen, Robert K. L. Gay, Chunyan Miao",FSKD 2002: 534-538,FSKD,Unranked
+573,Fuzzy Cognitive Agents for Personalized Recommendation.,2002,"Chunyan Miao, Qiang Yang, Haijing Fang, Angela Goh",WISE 2002: 362-372,WISE,B
+574,A Dynamic Inference Model for Intelligent Agents.,2001,"Chunyan Miao, Angela Goh, Yuan Miao, Zhonghua Yang",Int. J. Softw. Eng. Knowl. Eng. 11: 509-528 ,IJSEKE,Unranked
+575,Dynamical cognitive network - an extension of fuzzy cognitive map.,2001,"Yuan Miao, Zhi-Qiang Liu, Chee Kheong Siew, Chun Yan Miao",IEEE Trans. Fuzzy Syst. 9: 760-770 ,TFS,Unranked
+576,A Framework for Multi-agent Reasoning and Coordination.,2000,"Chunyan Miao, Yuan Miao, Angela Goh, Zhiqi Shen",Artificial Intelligence and Soft Computing 2000: 156-162,ASC,Unranked
+577,An Infrastructure for Inter-Organizational Collaborative Product Development.,2000,"Dragan S. Domazet, Chunyan Miao, Chee Fook Yew Calvin, Hinny P. H. Kong, Angela Goh",HICSS 2000,HICSS,Unranked
+578,Extending SQL3 for Query Language of Object-relational Multimedia Databases.,1998,"Michael J. Hu, Chunyan Miao",SYBEN 1998: 558-569,SYBEN,Unranked

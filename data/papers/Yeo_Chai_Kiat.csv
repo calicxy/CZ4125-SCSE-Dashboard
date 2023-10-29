@@ -1,0 +1,224 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Traffic forecasting with graph spatial-temporal position recurrent network.,2023,"Yibi Chen, Kenli Li, Chai Kiat Yeo, Keqin Li",Neural Networks 162: 340-349 ,NN,Unranked
+1,Siamese Centerness Prediction Network for Real-Time Visual Object Tracking.,2023,"Yue Wu, Chengtao Cai, Chai Kiat Yeo",Neural Process. Lett. 55: 1029-1044 ,NPL,Unranked
+2,DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields.,2023,"Junzhe Zhang, Yushi Lan, Shuai Yang, Fangzhou Hong, Quan Wang, Chai Kiat Yeo, Ziwei Liu, Chen Change Loy",CoRR abs/2309.04410 ,CORR,Unranked
+3,Transferability of Representations Learned using Supervised Contrastive Learning Trained on a Multi-Domain Dataset.,2023,"Alvin De Jun Tan, Clement Tan, Chai Kiat Yeo",CoRR abs/2309.15486 ,CORR,Unranked
+4,Hybrid market-based resources allocation in Mobile Edge Computing systems under stochastic information.,2022,"Xiaowen Huang, Shimin Gong, Jingmin Yang, Wenjie Zhang, Liwei Yang, Chai Kiat Yeo",Future Gener. Comput. Syst. 127: 80-91 ,FGCS,Unranked
+5,Approximate personalized propagation for unsupervised embedding in heterogeneous graphs.,2022,"Yibi Chen, Yikun Hu, Keqin Li, Chai Kiat Yeo, Kenli Li",Inf. Sci. 600: 287-300 ,ISCI,Unranked
+6,Privacy-preserving knowledge transfer for intrusion detection with federated deep autoencoding gaussian mixture model.,2022,"Yang Chen, Junzhe Zhang, Chai Kiat Yeo",Inf. Sci. 609: 1204-1220 ,ISCI,Unranked
+7,Identification of rumour stances by considering network topology and social media comments.,2022,"Yongcong Luo, Jing Ma, Chai Kiat Yeo",J. Inf. Sci. 48: 118-130 ,JIS,Unranked
+8,Exploiting user network topology and comment semantic for accurate rumour stance recognition on social media.,2022,"Yongcong Luo, Jing Ma, Chai Kiat Yeo",J. Inf. Sci. 48: 660-675 ,JIS,Unranked
+9,Optimal sequential relay-remote selection and computation offloading in mobile edge computing.,2022,"Che Chen, Rongzong Guo, Wenjie Zhang, Jingmin Yang, Chai Kiat Yeo",J. Supercomput. 78: 1093-1116 ,TJS,Unranked
+10,Distributed algorithm for computation offloading in mobile edge computing considering user mobility and task randomness.,2022,"F. Yifeng Zheng, S. Lei Huang, Wenjie Zhang, F. Jingmin Yang, F. Liwei Yang, Chai Kiat Yeo",J. Supercomput. 78: 12476-12504 ,TJS,Unranked
+11,NSGZero: Efficiently Learning Non-exploitable Policy in Large-Scale Network Security Games with Neural Monte Carlo Tree Search.,2022,"Wanqi Xue, Bo An, Chai Kiat Yeo",AAAI 2022: 4646-4653,AAAI,A*
+12,Mis-spoke or mis-lead: Achieving Robustness in Multi-Agent Communicative Reinforcement Learning.,2022,"Wanqi Xue, Wei Qiu, Bo An, Zinovi Rabinovich, Svetlana Obraztsova, Chai Kiat Yeo",AAMAS 2022: 1418-1426,ATAL,Unranked
+13,Monocular 3D Object Reconstruction with GAN Inversion.,2022,"Junzhe Zhang, Daxuan Ren, Zhongang Cai, Chai Kiat Yeo, Bo Dai, Chen Change Loy",ECCV  2022: 673-689,ECCV,A*
+14,Deep Reinforcement Learning based Contract Incentive for UAVs and Energy Harvest Assisted Computing.,2022,"Che Chen, Shimin Gong, Wenjie Zhang, Yifeng Zheng, Chai Kiat Yeo",GLOBECOM 2022: 2224-2229,GLOBECOM,B
+15,Context-Aware Memory Attention Network for Video-Based Action Recognition.,2022,"Thean Chun Koh, Chai Kiat Yeo, Vaitesswar U. S, Xuan Jing",IVMSP 2022: 1-5,IVMSP,Unranked
+16,Self-Supervised Superpixel Correspondences For Video Object Segmentation.,2022,"Clement Tan, Chai Kiat Yeo, Cheston Tan, Basura Fernando",VSIP 2022: 117-121,VSIP,Unranked
+17,NSGZero: Efficiently Learning Non-Exploitable Policy in Large-Scale Network Security Games with Neural Monte Carlo Tree Search.,2022,"Wanqi Xue, Bo An, Chai Kiat Yeo",CoRR abs/2201.07224 ,CORR,Unranked
+18,Monocular 3D Object Reconstruction with GAN Inversion.,2022,"Junzhe Zhang, Daxuan Ren, Zhongang Cai, Chai Kiat Yeo, Bo Dai, Chen Change Loy",CoRR abs/2207.10061 ,CORR,Unranked
+19,Abductive Action Inference.,2022,"Clement Tan, Chai Kiat Yeo, Cheston Tan, Basura Fernando",CoRR abs/2210.13984 ,CORR,Unranked
+20,Market-based dynamic resource allocation in Mobile Edge Computing systems with multi-server and multi-user.,2021,"Xiaowen Huang, Wenjie Zhang, Jingmin Yang, Liwei Yang, Chai Kiat Yeo",Comput. Commun. 165: 43-52 ,COMCOM,Unranked
+21,Lower-Limb Rehabilitation at Home: A Survey on Exercise Assessment and Initial Study on Exercise State Identification Toward Biofeedback.,2021,"Seanglidet Yean, Bu-Sung Lee, Chai Kiat Yeo",Int. J. Interdiscip. Telecommun. Netw. 13: 12-23 ,IJITN,Unranked
+22,Multi-scale Self-Organizing Map assisted Deep Autoencoding Gaussian Mixture Model for unsupervised intrusion detection.,2021,"Yang Chen, Nami Ashizawa, Chai Kiat Yeo, Naoto Yanai, Seanglidet Yean",Knowl. Based Syst. 224: 107086 ,KBS,Unranked
+23,BCMM: A novel post-based augmentation representation for early rumour detection on social media.,2021,"Yongcong Luo, Jing Ma, Chai Kiat Yeo",Pattern Recognit. 113: 107818 ,PR,Unranked
+24,Self-Organizing Map assisted Deep Autoencoding Gaussian Mixture Model for Intrusion Detection.,2021,"Yang Chen, Nami Ashizawa, Seanglidet Yean, Chai Kiat Yeo, Naoto Yanai",CCNC 2021: 1-6,CCNC,Unranked
+25,Unsupervised 3D Shape Completion Through GAN Inversion.,2021,"Junzhe Zhang, Xinyi Chen, Zhongang Cai, Liang Pan, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Bo Dai, Chen Change Loy",CVPR 2021: 1768-1777,CVPR,A*
+26,Solving Large-Scale Extensive-Form Network Security Games via Neural Fictitious Self-Play.,2021,"Wanqi Xue, Youzhi Zhang, Shuxin Li, Xinrun Wang, Bo An, Chai Kiat Yeo",IJCAI 2021: 3713-3720,IJCAI,A*
+27,Unsupervised 3D Shape Completion through GAN Inversion.,2021,"Junzhe Zhang, Xinyi Chen, Zhongang Cai, Liang Pan, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Bo Dai, Chen Change Loy",CoRR abs/2104.13366 ,CORR,Unranked
+28,Solving Large-Scale Extensive-Form Network Security Games via Neural Fictitious Self-Play.,2021,"Wanqi Xue, Youzhi Zhang, Shuxin Li, Xinrun Wang, Bo An, Chai Kiat Yeo",CoRR abs/2106.00897 ,CORR,Unranked
+29,Mis-spoke or mis-lead: Achieving Robustness in Multi-Agent Communicative Reinforcement Learning.,2021,"Wanqi Xue, Wei Qiu, Bo An, Zinovi Rabinovich, Svetlana Obraztsova, Chai Kiat Yeo",CoRR abs/2108.03803 ,CORR,Unranked
+30,Distributed algorithm for AP association with random arrivals and departures of users.,2020,"Zhenwei Chen, Wenjie Zhang, Yifeng Zheng, Liwei Yang, Chai Kiat Yeo",IET Commun. 14: 846-856 ,IET-COM,Unranked
+31,Two-tier trading strategy design for spectrum allocation in heterogeneous cognitive radio networks.,2020,"Xiaowen Huang, Wenjie Zhang, Jingmin Yang, Liwei Yang, Chai Kiat Yeo",IET Commun. 14: 2759-2768 ,IET-COM,Unranked
+32,Lower-Limb Rehabilitation at Home: A Survey on Exercise Assessment and Initial Study on Exercise State Identification Toward Biofeedback.,2020,"Seanglidet Yean, Bu-Sung Lee, Chai Kiat Yeo",Int. J. Interdiscip. Telecommun. Netw. 12: 15-27 ,IJITN,Unranked
+33,GPS Location Spoofing and FM Broadcast Intrusion Using Software-Defined Radio.,2020,"Soon Heng Mavric Tan, Chai Kiat Yeo",Int. J. Interdiscip. Telecommun. Netw. 12: 104-117 ,IJITN,Unranked
+34,Harvesting Social Media Sentiments for Stock Index Prediction.,2020,"MingWei Lim, Chai Kiat Yeo",CCNC 2020: 1-4,CCNC,Unranked
+35,MessyTable: Instance Association in Multiple Camera Views.,2020,"Zhongang Cai, Junzhe Zhang, Daxuan Ren, Cunjun Yu, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Chen Change Loy",ECCV  2020: 1-16,ECCV,A*
+36,MessyTable: Instance Association in Multiple Camera Views.,2020,"Zhongang Cai, Junzhe Zhang, Daxuan Ren, Cunjun Yu, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Chen Change Loy",CoRR abs/2007.14878 ,CORR,Unranked
+37,Self-Organizing Map assisted Deep Autoencoding Gaussian Mixture Model for Intrusion Detection.,2020,"Yang Chen, Nami Ashizawa, Seanglidet Yean, Chai Kiat Yeo, Naoto Yanai",CoRR abs/2008.12686 ,CORR,Unranked
+38,Dynamic Spectrum Allocation for Heterogeneous Cognitive Radio Networks With Multiple Channels.,2019,"Wenjie Zhang, Yingjuan Sun, Lei Deng, Chai Kiat Yeo, Liwei Yang",IEEE Syst. J. 13: 53-64 ,SJ,Unranked
+39,Spectrum Sharing for Heterogeneous Communication Systems in TV White Spaces.,2019,"Wenjie Zhang, Guanglin Zhang, Yifeng Zheng, Liwei Yang, Chai Kiat Yeo",ICNC 2019: 240-244,ICCNC,Unranked
+40,Two-Tier Spectrum Trading Strategy for Heterogeneous Cognitive Radio Networks.,2019,"Xiaowen Huang, Wenjie Zhang, Liwei Yang, Chai Kiat Yeo, Shengyu Chen",ITNAC 2019: 1-6,ITNAC,Australasian C
+41,Network Anomaly Detection Using Federated Deep Autoencoding Gaussian Mixture Model.,2019,"Yang Chen, Junzhe Zhang, Chai Kiat Yeo",MLN 2019: 1-14,MLN,Unranked
+42,Unauthorized Parking Detection using Deep Networks at Real Time.,2019,"Weiling Chen, Chai Kiat Yeo",SMARTCOMP 2019: 459-463,SMARTCOMP,Unranked
+43,Energy Efficiency Consideration for Indoor Femtocell Networks in TV White Spaces.,2018,"Wenjie Zhang, Guanglin Zhang, Yifeng Zheng, Lingfu Xie, Chai Kiat Yeo",IEEE Access 6: 1565-1576 ,ACCESS,Unranked
+44,Spectrum Sharing for Heterogeneous Networks and Application Systems in TV White Spaces.,2018,"Wenjie Zhang, Guanglin Zhang, Yifeng Zheng, Liwei Yang, Chai Kiat Yeo",IEEE Access 6: 19833-19843 ,ACCESS,Unranked
+45,Distributed Decisions on TV Spectrum Allocation Considering Spatial and Temporal Variation.,2018,"Zhenwei Chen, Wenjie Zhang, Jingmin Yang, Liwei Yang, Chai Kiat Yeo",IEEE Access 6: 59316-59328 ,ACCESS,Unranked
+46,Power spectrum entropy based detection and mitigation of low-rate DoS attacks.,2018,"Zhaomin Chen, Chai Kiat Yeo, Bu-Sung Lee, Chiew Tong Lau",Comput. Networks 136: 80-94 ,CN,National
+47,Leveraging social media news to predict stock index movement using RNN-boost.,2018,"Weiling Chen, Chai Kiat Yeo, Chiew Tong Lau, Bu-Sung Lee",Data Knowl. Eng. 118: 14-24 ,DKE,Unranked
+48,TV white space and its applications in future wireless networks and communications: a survey.,2018,"Wenjie Zhang, Jingmin Yang, Guanglin Zhang, Liwei Yang, Chai Kiat Yeo",IET Commun. 12: 2521-2532 ,IET-COM,Unranked
+49,Evolutionary multi-objective optimization based ensemble autoencoders for image outlier detection.,2018,"Zhaomin Chen, Chai Kiat Yeo, Bu-Sung Lee, Chiew Tong Lau, Yaochu Jin",Neurocomputing 309: 192-200 ,IJON,Unranked
+50,Unsupervised rumor detection based on users' behaviors using neural networks.,2018,"Weiling Chen, Yan Zhang, Chai Kiat Yeo, Chiew Tong Lau, Bu-Sung Lee",Pattern Recognit. Lett. 105: 226-233 ,PRL,Unranked
+51,Smartphone Orientation Estimation Algorithm Combining Kalman Filter With Gradient Descent.,2018,"Seanglidet Yean, Bu-Sung Lee, Chai Kiat Yeo, Chan Hua Vun, Hong Lye Oh",IEEE J. Biomed. Health Informatics 22: 1421-1433 ,TITB,Unranked
+52,Detecting Flooding Attack and Accommodating Burst Traffic in Delay-Tolerant Networks.,2018,"Thi Ngoc Diep Pham, Chai Kiat Yeo, Naoto Yanai, Toru Fujiwara",IEEE Trans. Veh. Technol. 67: 795-808 ,TVT,Unranked
+53,Adaptive trust and privacy management framework for vehicular networks.,2018,"Thi Ngoc Diep Pham, Chai Kiat Yeo",Veh. Commun. 13: 1-12 ,VCOMM,Unranked
+54,Efficient replication for vehicular content distribution.,2018,"Da Zhang, Chai Kiat Yeo",Veh. Commun. 13: 13-26 ,VCOMM,Unranked
+55,RehabPartner: Motion tracking assistant using a novel complementary feedback filter.,2018,"Shao Loong Lim, Seanglidet Yean, Bu-Sung Lee, Chai Kiat Yeo",CCNC 2018: 1-6,CCNC,Unranked
+56,Smart Cross-Platform Binary Visualisation Tool.,2018,"Bee Lee Ong, Chai Kiat Yeo",UEMCON 2018: 412-417,UEMCOM,Unranked
+57,Exploiting Behavioral Differences to Detect Fake Ne.,2018,"Weiling Chen, Chenyan Yang, Gibson Cheng, Yan Zhang, Chai Kiat Yeo, Chiew Tong Lau, Bu-Sung Lee",UEMCON 2018: 879-884,UEMCOM,Unranked
+58,Autoencoder-based network anomaly detection.,2018,"Zhaomin Chen, Chai Kiat Yeo, Bu-Sung Lee, Chiew Tong Lau",WTS 2018: 1-5,WTS,Unranked
+59,Automated oscillation detection and correction of fused wearable sensor signals using machine learning.,2018,"Senglidet Yean, Bu-Sung Lee, Chai Kiat Yeo, Zhaomin Chen",WTS 2018: 1-6,WTS,Unranked
+60,Detection of network anomalies using Improved-MSPCA with sketches.,2017,"Zhaomin Chen, Chai Kiat Yeo, Bu-Sung Lee, Chiew Tong Lau",Comput. Secur. 65: 314-328 ,COMPSEC,Unranked
+61,MaxRep: Efficient Replication for Vehicular Content Distribution.,2017,"Da Zhang, Chai Kiat Yeo",GLOBECOM 2017: 1-6,GLOBECOM,B
+62,A novel anomaly detection system using feature-based MSPCA with sketch.,2017,"Zhaomin Chen, Chai Kiat Yeo, Bu-Sung Lee, Chiew Tong Lau",WOCC 2017: 1-6,WOCC,Unranked
+63,Detecting flooding attack while accommodating burst traffic in delay tolerant networks.,2017,"Pham Thi Ngoc Diep, Chai Kiat Yeo",WTS 2017: 1-7,WTS,Unranked
+64,Capacity consideration for indoor femtocell networks in TV white spaces.,2017,"Wenjie Zhang, Lingfu Xie, Chai Kiat Yeo",WTS 2017: 1-5,WTS,Unranked
+65,Detecting Colluding Blackhole and Greyhole Attacks in Delay Tolerant Networks.,2016,"Thi Ngoc Diep Pham, Chai Kiat Yeo",IEEE Trans. Mob. Comput. 15: 1116-1129 ,TMC,Unranked
+66,Utility maximization for uplink MU-MIMO: Combining spectral-energy efficiency and fairness.,2016,"Lei Deng, Wenjie Zhang, Yun Rui, Chai Kiat Yeo",EuCNC 2016: 79-83,EUCNC,Unranked
+67,Dynamic spectrum allocation for heterogeneous cognitive radio network.,2016,"Wenjie Zhang, Lei Deng, Chai Kiat Yeo",WCNC 2016: 1-6,WCNC,B
+68,A trust-privacy framework in vehicular ad hoc networks (VANET).,2016,"Thi Ngoc Diep Pham, Chai Kiat Yeo",WTS 2016: 1-7,WTS,Unranked
+69,"Mood prediction from facial video with music ""therapy"" on a smartphone.",2016,"Seanglidet Yean, Bu-Sung Lee, Chai Kiat Yeo",WTS 2016: 1-5,WTS,Unranked
+70,Data exchange via multiplexed color QR codes on mobile devices.,2016,"Sin Rong Toh, Weihan Goh, Chai Kiat Yeo",WTS 2016: 1-6,WTS,Unranked
+71,Objective measures for quality assessment of noise-suppressed speech.,2015,"Huijun Ding, Tan Lee, Ing Yann Soon, Chai Kiat Yeo, Peng Dai, Guo Dan",Speech Commun. 71: 62-73 ,SPEECH,Unranked
+72,Conceptual Network Model From Sensory Neurons to Astrocytes of the Human Nervous System.,2015,"Yiqun Yang, Chai Kiat Yeo",IEEE Trans. Biomed. Eng. 62: 1843-1852 ,TBE,Unranked
+73,Cluster-Based Cooperative Spectrum Sensing Assignment Strategy for Heterogeneous Cognitive Radio Network.,2015,"Wenjie Zhang, Yiqun Yang, Chai Kiat Yeo",IEEE Trans. Veh. Technol. 64: 2637-2647 ,TVT,Unranked
+74,Cluster-based adaptive multispectrum sensing and access in cognitive radio networks.,2015,"Wenjie Zhang, Chai Kiat Yeo",Wirel. Commun. Mob. Comput. 15: 100-114 ,WICOMM,Unranked
+75,Modelling Calcium Signaling with a Two-Layer Cluster-Based Communication Network System.,2015,"Yiqun Yang, Wenjie Zhang, Chai Kiat Yeo",BWCCA 2015: 296-303,BWCCA,Unranked
+76,Detecting colluding blackhole and greyhole attack in Delay Tolerant Networks.,2015,"Thi Ngoc Diep Pham, Chai Kiat Yeo",CCNC 2015: 233-238,CCNC,Unranked
+77,A MSPCA based intrusion detection algorithm tor detection of DDoS attack.,2015,"Zhaomin Chen, Chai Kiat Yeo, Francis Bu-Sung Lee, Chiew Tong Lau",ICCC 2015: 1-5,ICCCHINA,Unranked
+78,Early Warning Systems for Cyber Defence.,2015,"Harsha K. Kalutarage, Siraj Ahmed Shaikh, Bu-Sung Lee, Chonho Lee, Chai Kiat Yeo",iNetSeC 2015: 29-42,IFIP11-4,Unranked
+79,Assistive visual aid for the elderly hearing impaired.,2015,"Chai Kiat Yeo, Feng Yun Tan, Ing Yann Soon, Keok-Kee Lee",WTS 2015: 1-5,WTS,Unranked
+80,Sequential sensing based spectrum handoff in cognitive radio networks with multiple users.,2014,"Wenjie Zhang, Chai Kiat Yeo",Comput. Networks 58: 87-98 ,CN,National
+81,Optimal non-identical sensing setting for multi channels in cognitive radio networks.,2014,"Wenjie Zhang, Chai Kiat Yeo",Comput. Commun. 41: 67-75 ,COMCOM,Unranked
+82,Mobile Internet access over intermittent network connectivity.,2014,"Yang Xia, Chai Kiat Yeo",J. Netw. Comput. Appl. 40: 126-138 ,JNCA,Unranked
+83,Resilient mesh-tree overlay for differentiated temporal requirement service in P2P streaming.,2014,"Jiaming Li, Chai Kiat Yeo, Ing Yann Soon",CCNC 2014: 301-308,CCNC,Unranked
+84,Statistical wormhole detection and localization in delay tolerant networks.,2014,"Thi Ngoc Diep Pham, Chai Kiat Yeo",CCNC 2014: 380-385,CCNC,Unranked
+85,A Wavelet Entropy-Based Change Point Detection on Network Traffic: A Case Study of Heartbleed Vulnerability.,2014,"Chonho Lee, Liu Yi, Li-Hau Tan, Weihan Goh, Bu-Sung Lee, Chai Kiat Yeo",CloudCom 2014: 995-1000,CLOUDCOM,Unranked
+86,Cryptanalyzing the efficient identity-based RSA and GQ multisignature schemes.,2014,"Weihan Goh, Chai Kiat Yeo",IWCMC 2014: 875-880,IWCMC,B
+87,Cluster-Based Cooperative Spectrum Sensing Assignment Strategy in Cognitive Radio Networks.,2014,"Wenjie Zhang, Yiqun Yang, Chai Kiat Yeo, Lei Deng",VTC Fall 2014: 1-5,VTC,B
+88,Using mobile relays as connectivity catalyst for highly mobile networks.,2014,"Yang Xia, Chai Kiat Yeo",WCNC 2014: 3000-3004,WCNC,B
+89,MaxCD: Efficient multi-flow scheduling and cooperative downloading for improved highway drive-thru Internet systems.,2013,"Shengbo Yang, Chai Kiat Yeo, Bu-Sung Lee",Comput. Networks 57: 1805-1820 ,CN,National
+90,EFLoM: An Efficient Framework for Local Mobility.,2013,"Feng Zhong, Chai Kiat Yeo, Bu-Sung Lee",Comput. Commun. 36: 291-302 ,COMCOM,Unranked
+91,Teaching an Old TPM New Tricks: Repurposing for Identity-Based Signatures.,2013,"Weihan Goh, Chai Kiat Yeo",IEEE Secur. Priv. 11: 28-35 ,IEEESP,Unranked
+92,A MAC Sensing Protocol Design for Data Transmission with More Protection to Primary Users.,2013,"Wenjie Zhang, Chai Kiat Yeo, Yifan Li",IEEE Trans. Mob. Comput. 12: 621-632 ,TMC,Unranked
+93,Enabling Efficient WiFi-Based Vehicular Content Distribution.,2013,"Da Zhang, Chai Kiat Yeo",IEEE Trans. Parallel Distributed Syst. 24: 479-492 ,TPDS,Unranked
+94,Cooperative Duty Cycling For Energy-Efficient Contact Discovery in Pocket Switched Networks.,2013,"Shengbo Yang, Chai Kiat Yeo, Francis Bu-Sung Lee",IEEE Trans. Veh. Technol. 62: 1815-1826 ,TVT,Unranked
+95,Measuring Group Mobility: A Topology Based Approach.,2013,"Yang Xia, Chai Kiat Yeo",IEEE Wirel. Commun. Lett. 2: 54-57 ,WCL,Unranked
+96,Dual-metric hybrid protocol for application level multicast for live video streaming.,2013,"Chai Kiat Yeo, Bu-Sung Lee, Ing Yann Soon, Yang Xia, Zoebir Bong, Yuanyuan Mao",CCNC 2013: 31-36,CCNC,Unranked
+97,Design and analysis of a cluster-based calcium signaling network model.,2013,"Yiqun Yang, Chai Kiat Yeo",CCNC 2013: 574-579,CCNC,Unranked
+98,Anonymity-preserving identity-based multisignature scheme with provision for origin Self-Revelation.,2013,"Weihan Goh, Chai Kiat Yeo",GLOBECOM 2013: 855-860,GLOBECOM,B
+99,Multi-policy link state routing for disruption tolerant networks.,2013,"Yuanyuan Mao, Yang Xia, Zoebir Bong, Chai Kiat Yeo, A. Y. P. Chua, A. J. L. Tan, A. Sivagami, Tiah Khoon Ng, Kok Siong Lai, Ser Hai Toh",WMNC 2013: 1-7,MWCN,Unranked
+100,Enabling email access under intermittent connectivity.,2013,"Yang Xia, Zoebir Bong, Sugura Ishikawa, Chai Kiat Yeo, Yuanyuan Mao",WCNC 2013: 4742-4746,WCNC,B
+101,Achieving Small-World Properties using Bio-Inspired Techniques in Wireless Networks.,2012,"Rachit Agarwal, Abhik Banerjee, Vincent Gauthier, Monique Becker, Chai Kiat Yeo, Bu-Sung Lee",Comput. J. 55: 909-931 ,CJ,Unranked
+102,Mitigating the impact of node mobility using mobile backbone for heterogeneous MANETs.,2012,"Yang Xia, Chai Kiat Yeo",Comput. Commun. 35: 1217-1230 ,COMCOM,Unranked
+103,Joint iterative algorithm for optimal cooperative spectrum sensing in cognitive radio networks.,2012,"Wenjie Zhang, Chai Kiat Yeo",Comput. Commun. 36: 80-89 ,COMCOM,Unranked
+104,Adaptive load balancing algorithm for multiple homing mobile nodes.,2012,"Feng Zhong, Chai Kiat Yeo, Bu-Sung Lee",J. Netw. Comput. Appl. 35: 316-327 ,JNCA,Unranked
+105,Throughput and delay scaling laws for mobile overlaid wireless networks.,2012,"Wenjie Zhang, Chai Kiat Yeo",J. Netw. Comput. Appl. 35: 657-667 ,JNCA,Unranked
+106,Performance improvements for network-wide broadcast with instantaneous network information.,2012,"Abhik Banerjee, Chuan Heng Foh, Chai Kiat Yeo, Bu-Sung Lee",J. Netw. Comput. Appl. 35: 1162-1174 ,JNCA,Unranked
+107,Toward Reliable Data Delivery for Highly Dynamic Mobile Ad Hoc Networks.,2012,"Shengbo Yang, Chai Kiat Yeo, Bu-Sung Lee",IEEE Trans. Mob. Comput. 11: 111-124 ,TMC,Unranked
+108,Exploring Locality of Reference in P2P VoD Systems.,2012,"Danqi Wang, Chai Kiat Yeo",IEEE Trans. Multim. 14: 1309-1323 ,TMM,Unranked
+109,A Self-Organization Framework for Wireless Ad Hoc Networks as Small Worlds.,2012,"Abhik Banerjee, Rachit Agarwal, Vincent Gauthier, Chai Kiat Yeo, Hossam Afifi, Francis Bu-Sung Lee",IEEE Trans. Veh. Technol. 61: 2659-2673 ,TVT,Unranked
+110,Threat mitigation in tactical-level disruption tolerant networks.,2012,"Weihan Goh, Chai Kiat Yeo",GLOBECOM 2012: 997-1003,GLOBECOM,B
+111,CDC: An Energy-Efficient Contact Discovery Scheme for Pocket Switched Networks.,2012,"Shengbo Yang, Chai Kiat Yeo, Bu-Sung Lee",ICCCN 2012: 1-7,ICCCN,B
+112,MaxCD: Max-Rate Based Cooperative Downloading for Drive-Thru Networks.,2012,"Shengbo Yang, Chai Kiat Yeo, Bu-Sung Lee",ICCCN 2012: 1-7,ICCCN,B
+113,Molecular communication model through gap junction channel with selective permeabilities.,2012,"Yiqun Yang, Chai Kiat Yeo",ICON 2012: 256-261,ICON,Unranked
+114,Optimal handing-back point in mobile data offloading.,2012,"Da Zhang, Chai Kiat Yeo",VNC 2012: 219-225,VNC,Unranked
+115,Enabling Network Based Local Mobility with Cooperative Access Points.,2012,"Yang Xia, Chai Kiat Yeo",VTC Fall 2012: 1-5,VTC,B
+116,A Self-Organization Framework for Wireless Ad Hoc Networks as Small Worlds.,2012,"Abhik Banerjee, Rachit Agarwal, Vincent Gauthier, Chai Kiat Yeo, Hossam Afifi, Bu-Sung Lee",CoRR abs/1203.1185 ,CORR,Unranked
+117,Distributed Court System for intrusion detection in mobile ad hoc networks.,2011,"Da Zhang, Chai Kiat Yeo",Comput. Secur. 30: 555-570 ,COMPSEC,Unranked
+118,"A Plausibly-Deniable, Practical Trusted Platform Module Based Anti-Forensics Client-Server System.",2011,"Weihan Goh, Peng-Chor Leong, Chai Kiat Yeo",IEEE J. Sel. Areas Commun. 29: 1377-1391 ,JSAC,Unranked
+119,A DCT-Based Speech Enhancement System With Pitch Synchronous Analysis.,2011,"Huijun Ding, Ing Yann Soon, Chai Kiat Yeo",IEEE ACM Trans. Audio Speech Lang. Process. 19: 2614-2623 ,TASLP,Unranked
+120,Improving job scheduling performance with parallel access to replicas in Data Grid environment.,2011,"Junwei Zhang, Bu-Sung Lee, Xueyan Tang, Chai Kiat Yeo",J. Supercomput. 56: 245-269 ,TJS,Unranked
+121,Superchunk-Based Efficient Search in P2P-VoD System.,2011,"Danqi Wang, Chai Kiat Yeo",IEEE Trans. Multim. 13: 376-387 ,TMM,Unranked
+122,Adaptive Load Balancing Algorithm for multi-homing mobile nodes in local domain.,2011,"Feng Zhong, Chai Kiat Yeo, Bu-Sung Lee",CCNC 2011: 482-486,CCNC,Unranked
+123,A Cooperative Content Distribution System for Vehicles.,2011,"Da Zhang, Chai Kiat Yeo",GLOBECOM 2011: 1-6,GLOBECOM,B
+124,Self-organization of nodes using bio-inspired techniques for achieving small world properties.,2011,"Rachit Agarwal, Abhik Banerjee, Vincent Gauthier, Monique Becker, Chai Kiat Yeo, Bu-Sung Lee",GLOBECOM Workshops 2011: 89-94,GLOBECOM,B
+125,Self-organization of wireless ad hoc networks as small worlds using long range directional beams.,2011,"Abhik Banerjee, Rachit Agarwal, Vincent Gauthier, Chai Kiat Yeo, Hossam Afifi, Bu-Sung Lee",GLOBECOM Workshops 2011: 120-124,GLOBECOM,B
+126,Predictive Scheduling in Drive-Thru Networks with Flow-Level Dynamics and Deadlines.,2011,"Shengbo Yang, Chai Kiat Yeo, Bu-Sung Lee",ICC 2011: 1-5,ICC,Unranked
+127,Optimal Non-Identical Sensing Setting for Multi-Channel Cooperative Sensing.,2011,"Wenjie Zhang, Chai Kiat Yeo",ICC 2011: 1-5,ICC,Unranked
+128,Multi-Rate Broadcasting: Analysis and Design of Stateless Algorithms.,2011,"Abhik Banerjee, Chuan Heng Foh, Chai Kiat Yeo, Bu-Sung Lee",VTC Fall 2011: 1-5,VTC,B
+129,DTN Serial Convergence Layer with Multiple Access Control & Neighbour Discovery.,2011,"Zoebir Bong, Chai Kiat Yeo",VTC Fall 2011: 1-5,VTC,B
+130,Probabilistic Routing Based on History of Messages in Delay Tolerant Networks.,2011,"Feng Cheng Lee, Chai Kiat Yeo",VTC Fall 2011: 1-6,VTC,B
+131,Exploiting wireless broadcast advantage as a network-wide cache.,2011,"Abhik Banerjee, Chuan Heng Foh, Chai Kiat Yeo, Bu-Sung Lee",WiMob 2011: 490-497,WIMOB,Unranked
+132,Self-Organization of Wireless Ad Hoc Networks as Small Worlds Using Long Range Directional Beams.,2011,"Abhik Banerjee, Rachit Agarwal, Vincent Gauthier, Chai Kiat Yeo, Hossam Afifi, Bu-Sung Lee",CoRR abs/1109.5338 ,CORR,Unranked
+133,Self-organization of Nodes using Bio-Inspired Techniques for Achieving Small World Properties.,2011,"Rachit Agarwal, Abhik Banerjee, Vincent Gauthier, Monique Becker, Chai Kiat Yeo, Bu-Sung Lee",CoRR abs/1109.5959 ,CORR,Unranked
+134,Achieving Small World Properties using Bio-Inspired Techniques in Wireless Networks.,2011,"Rachit Agarwal, Abhik Banerjee, Vincent Gauthier, Monique Becker, Chai Kiat Yeo, Bu-Sung Lee",CoRR abs/1111.4807 ,CORR,Unranked
+135,Efficient DSR route request flooding with directional antennas.,2010,"Rully Adrian Santosa, Bu-Sung Lee, Chai Kiat Yeo",Comput. Networks 54: 2293-2309 ,CN,National
+136,Environment-aware QoS framework for multi-interface terminal.,2010,"Widyo Cahyono Andi, Chai Kiat Yeo, Bu-Sung Lee",Comput. Commun. 33: 1049-1055 ,COMCOM,Unranked
+137,A model to predict the optimal performance of the Hierarchical Data Grid.,2010,"Junwei Zhang, Bu-Sung Lee, Xueyan Tang, Chai Kiat Yeo",Future Gener. Comput. Syst. 26: 1-11 ,FGCS,Unranked
+138,Enabling inter-PMIPv6-domain handover with traffic distributors.,2010,"Feng Zhong, Chai Kiat Yeo, Bu-Sung Lee",J. Netw. Comput. Appl. 33: 397-409 ,JNCA,Unranked
+139,Over-Attenuated Components Regeneration for Speech Enhancement.,2010,"Huijun Ding, Ing Yann Soon, Chai Kiat Yeo",IEEE Trans. Speech Audio Process. 18: 2004-2014 ,TASLP,Unranked
+140,A Service/Device Differentiation Scheme for Contention-Tone-Based Wireless LAN Protocol.,2010,"Abhik Banerjee, Juki Wirawan Tantra, Chuan Heng Foh, Chai Kiat Yeo, Bu-Sung Lee",IEEE Trans. Veh. Technol. 59: 3872-3885 ,TVT,Unranked
+141,Dynamic Transmission Scheduling for Streaming Applications via P2P Overlay.,2010,"Jiaming Li, Chai Kiat Yeo",J. Signal Process. Syst. 59: 355-366 ,VLSISP,Unranked
+142,A Queuing Mechanism to Alleviate Flooding Attacks in Probabilistic Delay Tolerant Networks.,2010,"Feng Cheng Lee, Weihan Goh, Chai Kiat Yeo",AICT 2010: 329-334,AICT,Unranked
+143,"A ""Plug-and-Play' Framework to Enhance Heterogeneity and Versatility in Delay Tolerant Networks.",2010,"Feng Cheng Lee, Yang Xia, Chai Kiat Yeo, Yong Tai Tan",AICT 2010: 353-357,AICT,Unranked
+144,A Network Lifetime Aware Cooperative MAC Scheme for 802.11b Wireless Networks.,2010,"Abhik Banerjee, Chuan Heng Foh, Chai Kiat Yeo, Bu-Sung Lee",CCNC 2010: 1-5,CCNC,Unranked
+145,Controlling Route Discovery for Efficient Routing in Resource-Constrained Sensor Networks.,2010,"Abhik Banerjee, Juki Wirawan Tantra, Chuan Heng Foh, Chai Kiat Yeo, Bu-Sung Lee",CCNC 2010: 1-2,CCNC,Unranked
+146,A Disruption Tolerant Mobility Architecture Towards Convergent Terminal Mobility.,2010,"Yang Xia, Chai Kiat Yeo, Bu-Sung Lee",CCNC 2010: 1-6,CCNC,Unranked
+147,A Novel Architecture of Intrusion Detection System.,2010,"Da Zhang, Chai Kiat Yeo",CCNC 2010: 1-5,CCNC,Unranked
+148,Enabling Inter-PMIPv6-Domain Handover with Traffic Distributors.,2010,"Feng Zhong, Shengbo Yang, Chai Kiat Yeo, Bu-Sung Lee",CCNC 2010: 1-5,CCNC,Unranked
+149,Exploring Locality of Reference in P2P VoD Systems.,2010,"Danqi Wang, Chai Kiat Yeo",GLOBECOM 2010: 1-6,GLOBECOM,B
+150,Throughput-Delay Scaling for Two Mobile Overlaid Networks.,2010,"Wenjie Zhang, Chai Kiat Yeo",GLOBECOM 2010: 1-6,GLOBECOM,B
+151,Robust Geographic Routing with Virtual Destination Based Void Handling for MANETs.,2010,"Shengbo Yang, Chai Kiat Yeo, Bu-Sung Lee",VTC Spring 2010: 1-5,VTC,B
+152,Efficient channel assignment and routing protocol for multiple channels multiple interfaces wireless mesh network.,2010,"Trung-Tuan Luong, Bu-Sung Lee, Chai Kiat Yeo, Andreas Kassler",Wireless Days 2010: 1-5,WD,C
+153,Content and overlay-aware scheduling for peer-to-peer streaming in fluctuating networks.,2009,"Jiaming Li, Chai Kiat Yeo",J. Netw. Comput. Appl. 32: 901-912 ,JNCA,Unranked
+154,A spectral filtering method based on hybrid wiener filters for speech enhancement.,2009,"Huijun Ding, Ing Yann Soon, Soo Ngee Koh, Chai Kiat Yeo",Speech Commun. 51: 259-267 ,SPEECH,Unranked
+155,A terminal-assisted route optimized NEMO management.,2009,"Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo, Juki Wirawan Tantra, Yang Xia",Telecommun. Syst. 42: 263-272 ,TELSYS,Unranked
+156,TMSP: Terminal Mobility Support Protocol.,2009,"Teck Meng Lim, Chai Kiat Yeo, Francis Bu-Sung Lee, Quang Vinh Le",IEEE Trans. Mob. Comput. 8: 849-863 ,TMC,Unranked
+157,A Distributed Court System for Intrusion Detection in OLSR.,2009,"Da Zhang, Chai Kiat Yeo",CIS  2009: 478-482,CIS,C
+158,A Distributed Court System for Intrusion Detection in OLSR.,2009,"Da Zhang, Chai Kiat Yeo",CIS  2009: 478-482,CIS,National
+159,Superchunk Based Fast Search in P2P-VoD System.,2009,"Danqi Wang, Chai Kiat Yeo",GLOBECOM 2009: 1-6,GLOBECOM,B
+160,Position Based Opportunistic Routing for Robust Data Delivery in MANETs.,2009,"Shengbo Yang, Feng Zhong, Chai Kiat Yeo, Bu-Sung Lee, Jeff Boleng",GLOBECOM 2009: 1-6,GLOBECOM,B
+161,A post-processing technique for regeneration of over-attenuated speech.,2009,"Huijun Ding, Ing Yann Soon, Soo Ngee Koh, Chai Kiat Yeo",ICASSP 2009: 3889-3892,ICASSP,Unranked
+162,Algorithms to minimize channel interference in multiple channels multiple interfaces environments.,2009,"Trung-Tuan Luong, Bu-Sung Lee, Chai Kiat Yeo, Ming-Shiunn Wong, Shigeki Goto",LCN 2009: 61-68,LCN,B
+163,An efficient framework for local mobility.,2009,"Feng Zhong, Yang Xia, Chai Kiat Yeo, Bu-Sung Lee, Teck Meng Lim",WCNC 2009: 2396-2401,WCNC,B
+164,Dual-Interface Multiple Channels DSDV Protocol.,2009,"Trung-Tuan Luong, Bu-Sung Lee, Chai Kiat Yeo",WiMob 2009: 104-109,WIMOB,Unranked
+165,An Efficient Scheme to Discover Neighbors Beyond Omnidirectional Transmission Range.,2008,"Rully Adrian Santosa, Bu-Sung Lee, Chai Kiat Yeo, Teck Meng Lim",CCNC 2008: 18-22,CCNC,Unranked
+166,Seamless Mobility Across Heterogeneous Wireless Domains.,2008,"Juki Wirawan Tantra, Mai Ngoc Son, Dang Duc Nguyen, Teck Meng Lim, Chai Kiat Yeo, Bu-Sung Lee",CCNC 2008: 84-88,CCNC,Unranked
+167,Impact of Parallel Download on Job Scheduling in Data Grid Environment.,2008,"Junwei Zhang, Bu-Sung Lee, Xueyan Tang, Chai Kiat Yeo",GCC 2008: 102-109,GCC,Unranked
+168,Content and Overlay-Aware Transmission Scheduling in Peer-to-Peer Streaming.,2008,"Jiaming Li, Chai Kiat Yeo, Bu-Sung Lee",GLOBECOM 2008: 1780-1784,GLOBECOM,B
+169,A Mobility Management Scheme with QoS Support for Heterogeneous Multihomed Mobile Nodes.,2008,"Dang Duc Nguyen, Yang Xia, Mai Ngoc Son, Chai Kiat Yeo, Bu-Sung Lee",GLOBECOM 2008: 5345-5340,GLOBECOM,B
+170,A mobile SIP: IP mobility support using SIP.,2008,"Chai Kiat Yeo, Bu-Sung Lee, Feng Zhong",ICUIMC 2008: 125-129,ICUIMC,Unranked
+171,Fast scheduling on P2P streaming overlay.,2008,"Jiaming Li, Chai Kiat Yeo, Bu-Sung Lee",ICUIMC 2008: 242-246,ICUIMC,Unranked
+172,Channel Allocation for Multiple Channels Multiple Interfaces Communication in Wireless Ad Hoc Networks.,2008,"Trung-Tuan Luong, Bu-Sung Lee, Chai Kiat Yeo",Networking 2008: 87-98,NETWORKING,Unranked
+173,Efficient QoS Differentiation in Crowded Wireless LANs.,2008,"Abhik Banerjee, Juki Wirawan Tantra, Chai Kiat Yeo, Bu-Sung Lee",VTC Spring 2008: 1806-1810,VTC,B
+174,Effectiveness of Explicit Stations Grouping in Crowded Wireless LANs.,2007,"Juki Wirawan Tantra, Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo",IEEE Commun. Lett. 11: 659-661 ,ICL,Unranked
+175,Quantum-Based Earliest Deadline First Scheduling for Multiservices.,2007,"Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo",IEEE Trans. Multim. 9: 157-168 ,TMM,Unranked
+176,Hybrid Protocol for Application Level Multicast for Live Video Streaming.,2007,"Chai Kiat Yeo, Bu-Sung Lee, Meng Hwa Er",ICC 2007: 1685-1691,ICC,Unranked
+177,A Mobility Scheme for Personal and Terminal Mobility.,2007,"Bu-Sung Lee, Teck Meng Lim, Chai Kiat Yeo, Quang Vinh Le",ICC 2007: 1815-1820,ICC,Unranked
+178,Peer-to-Peer Streaming Scheduling to Improve Real-Time Latency.,2007,"Jiaming Li, Chai Kiat Yeo, Bu-Sung Lee",ICME 2007: 36-39,ICMCS,Unranked
+179,Click4BuildingID@NTU: Click for Building Identification with GPS-enabled Camera Cell Phone.,2007,"Chai Kiat Yeo, Liang-Tien Chia, Tat-Jen Cham, D. Rajon",ICME 2007: 1059-1062,ICMCS,Unranked
+180,Service Differentiation in Wireless Networks: Adaptive Ad Hoc Qs Versus IEEE 802.11e.,2007,"Amir Mowlaei, Bu-Sung Lee, Teck Meng Lim, Chai Kiat Yeo",ICON 2007: 306-311,ICON,Unranked
+181,A terminal-assisted route optimized NEMO management.,2007,"Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo, Juki Wirawan Tantra",MOBIWAC 2007: 84-90,MOBIWAC,Unranked
+182,Terminal-Assisted Network Mobility Management.,2007,"Teck Meng Lim, Juki Wirawan Tantra, Bu-Sung Lee, Chai Kiat Yeo, Yang Xia",WCNC 2007: 3664-3669,WCNC,B
+183,The impact of data replication on job scheduling performance in the Data Grid.,2006,"Ming Tang, Bu-Sung Lee, Xueyan Tang, Chai Kiat Yeo",Future Gener. Comput. Syst. 22: 254-268 ,FGCS,Unranked
+184,Edge-to-Edge Quality-of-Service Domain.,2006,"Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo",IEICE Trans. Commun. 89-B: 1554-1569 ,IEICET,Unranked
+185,Distributed Neighbor Discovery in Ad Hoc Networks Using Directional Antennas.,2006,"Rully Adrian Santosa, Bu-Sung Lee, Chai Kiat Yeo, Teck Meng Lim",CIT 2006: 97,IEEECIT,Unranked
+186,Weighted deficit earliest departure first scheduling.,2005,"Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo",Comput. Commun. 28: 1711-1720 ,COMCOM,Unranked
+187,Dynamic replication algorithms for the multi-tier Data Grid.,2005,"Ming Tang, Bu-Sung Lee, Chai Kiat Yeo, Xueyan Tang",Future Gener. Comput. Syst. 21: 775-790 ,FGCS,Unranked
+188,Combining Data Replication Algorithms and Job Scheduling Heuristics in the Data Grid.,2005,"Ming Tang, Bu-Sung Lee, Xueyan Tang, Chai Kiat Yeo",Euro-Par 2005: 381-390,EUROPAR,Unranked
+189,IPv6 network mobility for flat ad hoc routing protocol.,2005,"Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo",GLOBECOM 2005: 6,GLOBECOM,B
+190,Pervasive Communication for Commuters in Public Buses.,2005,"Teck Meng Lim, Boon-Chong Seet, Bu-Sung Lee, Chai Kiat Yeo, Andreas Kassler",PerCom Workshops 2005: 75-79,PERCOM,A*
+191,A survey of application level multicast techniques.,2004,"Chai Kiat Yeo, Bu-Sung Lee, Meng Hwa Er",Comput. Commun. 27: 1547-1568 ,COMCOM,Unranked
+192,Secure communications between bandwidth brokers.,2004,"Bu-Sung Lee, Wing-Keong Woo, Chai Kiat Yeo, Teck Meng Lim, Bee-Hwa Lim, Yuxiong He, Jie Song",ACM SIGOPS Oper. Syst. Rev. 38: 43-57 ,SIGOPS,Unranked
+193,Dual-rate quantum-controlled scheduling.,2004,"Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo",ICON 2004: 750-754,ICON,Unranked
+194,A framework for multicast video streaming over IP networks.,2003,"Chai Kiat Yeo, Bu-Sung Lee, Meng Hwa Er",J. Netw. Comput. Appl. 26: 273-289 ,JNCA,Unranked
+195,Path and Oracle Discovery Protocol for Centralized Bandwidth Reservation Mechanisms.,2003,"Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo",J. Netw. Syst. Manag. 11: 447-468 ,JNSM,Unranked
+196,Design and Implementation of a Java-based Meeting Space over Internet.,2003,"Bu-Sung Lee, Chai Kiat Yeo, Ing Yann Soon, Keok-Kee Lee, Sun Wei",Multim. Tools Appl. 20: 179-195 ,MTA,Unranked
+197,Weighted deficit earliest departure first scheduling.,2003,"Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo",ICON 2003: 437-442,ICON,Unranked
+198,Hybrid quality adaptation mechanism for layered multicast over the internet.,2002,"Bu-Sung Lee, Chai Kiat Yeo, Ruijin Fu",J. Netw. Comput. Appl. 25: 145-159 ,JNCA,Unranked
+199,Unicorn: voluntary computing over Internet.,2002,"T. M. Ong, Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo",ACM SIGOPS Oper. Syst. Rev. 36: 36-51 ,SIGOPS,Unranked
+200,A peering architecture for ubiquitous IP multicast streaming.,2002,"Chai Kiat Yeo, Bu-Sung Lee, Meng Hwa Er",ACM SIGOPS Oper. Syst. Rev. 36: 82-95 ,SIGOPS,Unranked
+201,An Overlay for Ubiquitous Streaming over Internet.,2002,"Chai Kiat Yeo, Bu-Sung Lee, Meng Hwa Er",NETWORKING 2002: 1239-1244,NETWORKING,Unranked
+202,An adaptive protocol for real-time fax communications over Internet.,2001,"Chai Kiat Yeo, Siu Cheung Hui, Ing Yann Soon, Bu-Sung Lee",Comput. Commun. 24: 1134-1146 ,COMCOM,Unranked
+203,RQRP protocol for video delivery over IP.,2001,"Bu-Sung Lee, Chai Kiat Yeo, Sui Meng Poon, Jie Song",Int. J. Commun. Syst. 14: 885-896 ,IJCOMSYS,Unranked
+204,A unified messaging system on the Internet.,2001,"Chai Kiat Yeo, Siu Cheung Hui, Ing Yann Soon, Chiew Tong Lau",Microprocess. Microsystems 24: 523-530 ,MAM,Unranked
+205,An analogue video interface for general-purpose DSP.,2001,"Ing Yann Soon, Chai Kiat Yeo, H. C. Ng",Microprocess. Microsystems 25: 33-39 ,MAM,Unranked
+206,Performance of buffer-based request-reply scheme for VoD streams over IP networks.,2000,"Sui Meng Poon, Jie Song, Bu-Sung Lee, Chai Kiat Yeo",Comput. Networks 34: 229-240 ,CN,National
+207,JMS-Java-Based Meeting Space.,2000,"Wei Sun, Bu-Sung Lee, Chai Kiat Yeo",J. Organ. Comput. Electron. Commer. 10: 171-188 ,JOCEC,Unranked
+208,A DAVIC-based video-on-demand system over IP networks.,2000,"Sui Meng Poon, Bu-Sung Lee, Chai Kiat Yeo",IEEE Trans. Consumer Electron. 46: 6-15 ,TCE,Unranked
+209,A web-based Internet Java Phone for real-time voice communication.,2000,"Kia Ming Phua, Siu Cheung Hui, Chai Kiat Yeo",World Wide Web 3: 193-203 ,WWW,A*
+210,Towards a Unified Messaging Environment over the Internet.,1999,"Leonard Chong, Siu Cheung Hui, Chai Kiat Yeo",Cybern. Syst. 30: 533-549 ,CAS,Unranked
+211,Lossless compression of multispectral satellite images.,1999,"Chai Kiat Yeo, Ing Yann Soon, Chiew Tong Lau",J. Commun. Networks 1: 226-230 ,JCN,Unranked
+212,Design of an Internet fax and voice gateway.,1999,"Schubert Foo, Chai Kiat Yeo, Siu Cheung Hui, D. H. Xue",Microprocess. Microsystems 22: 395-402 ,MAM,Unranked
+213,Portable adapter for barcode scanners.,1999,"Ing Yann Soon, Chai Kiat Yeo, Yeow Hong Sng",Microprocess. Microsystems 23: 217-223 ,MAM,Unranked
+214,RTFaxing: Internet Real-Time Faxing System.,1999,"Siu Cheung Hui, Chai Kiat Yeo, K. Jin",Netw. Inf. Syst. J. 2: 323-344 ,NIS,Unranked
+215,Improved noise suppression filter using self-adaptive estimator of probability of speech absence.,1999,"Ing Yann Soon, Soo Ngee Koh, Chai Kiat Yeo",Signal Process. 75: 151-159 ,SIGPRO,Unranked
+216,A DAVIC-based video-on-demand system over ATM networks.,1999,"Sui Meng Poon, Bu-Sung Lee, Chai Kiat Yeo",IEEE Trans. Consumer Electron. 45: 345-355 ,TCE,Unranked
+217,Supporting Real-Time Faxing over the Internet.,1999,"K. Jin, Siu Cheung Hui, Chai Kiat Yeo",ICSC 1999: 264-273,ICSC,Unranked
+218,Noisy speech enhancement using discrete cosine transform.,1998,"Ing Yann Soon, Soo Ngee Koh, Chai Kiat Yeo",Speech Commun. 24: 249-257 ,SPEECH,Unranked
+219,A WWW-Assisted Fax System for Internet Fax-to-Fax Communication.,1998,"L. S. K. Chong, Siu Cheung Hui, Chai Kiat Yeo, Schubert Foo",World Wide Web 1: 209-219 ,WWW,A*
+220,A telephone adapter for Internet telephony systems.,1997,"Schubert Foo, Chai Kiat Yeo, Siu Cheung Hui",Microprocess. Microsystems 21: 213-221 ,MAM,Unranked
+221,An ATM-Enhanced Meeting System.,1997,"Tony K. Y. Chan, Bu-Sung Lee, Liang-Tien Chia, Lai Lai Tung, Chai Kiat Yeo",PDPTA 1997: 574-578,PDPTA,National
+222,English-Japanese Machine Translation: Verb-Based Noun Classification Approach.,1996,"Chai Kiat Yeo, Wai Kong Lam, Ing Yann Soon",Int. J. Artif. Intell. Tools 5: 367-402 ,IJAIT,Unranked

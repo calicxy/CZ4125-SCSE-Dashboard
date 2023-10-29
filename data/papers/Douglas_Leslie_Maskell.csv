@@ -1,0 +1,124 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,A Scalable Systolic Accelerator for Estimation of the Spectral Correlation Density Function and Its FPGA Implementation.,2023,"Xiangwei Li, Douglas L. Maskell, Carol Jingyi Li, Philip H. W. Leong, David Boland",ACM Trans. Reconfigurable Technol. Syst. 16: 9:1-9:24 ,TRETS,Unranked
+1,Approximator: A Software Tool for Automatic Generation of Approximate Arithmetic Circuits.,2022,"Padmanabhan Balasubramanian, Raunaq Nayar, Okkar Min, Douglas L. Maskell",Comput. 11: 11 ,COMPUTERS,Unranked
+2,Coarse Grained FPGA Overlay for Rapid Just-In-Time Accelerator Compilation.,2022,"Abhishek Kumar Jain, Douglas L. Maskell, Suhaib A. Fahmy",IEEE Trans. Parallel Distributed Syst. 33: 1478-1490 ,TPDS,Unranked
+3,"An Approximate Adder With a Near-Normal Error Distribution: Design, Error Analysis and Practical Application.",2021,"Padmanabhan Balasubramanian, Raunaq Nayar, Douglas L. Maskell, Nikos E. Mastorakis",IEEE Access 9: 4518-4530 ,ACCESS,Unranked
+4,An Approximate Adder with Reduced Error and Optimized Design Metrics.,2021,"Padmanabhan Balasubramanian, Raunaq Nayar, Douglas L. Maskell",APCCAS 2021: 21-24,APCCAS,Unranked
+5,Image Compression using Approximate Addition.,2021,"Raunaq Nayar, Padmanabhan Balasubramanian, Douglas Leslie Maskell",TENCON 2021: 1-6,TENCON,Unranked
+6,Gate-Level Static Approximate Adders.,2021,"P. Balasubramanian, Raunaq Nayar, Douglas L. Maskell",CoRR abs/2112.09320 ,CORR,Unranked
+7,Energy Efficient In-memory Integer Multiplication Based on Racetrack Memory.,2020,"Tao Luo, Wei Zhang, Bingsheng He, Cheng Liu, Douglas L. Maskell",ICDCS 2020: 1409-1414,ICDCS,A
+8,High Throughput Accelerator Interface Framework for a Linear Time-Multiplexed FPGA Overlay.,2020,"Xiangwei Li, Kizheppatt Vipin, Douglas L. Maskell, Suhaib A. Fahmy, Abhishek Kumar Jain",ISCAS 2020: 1-5,ISCAS,Unranked
+9,Hardware Optimized Approximate Adder with Normal Error Distribution.,2020,"Raunaq Nayar, Padmanabhan Balasubramanian, Douglas L. Maskell",ISVLSI 2020: 84-89,ISVLSI,Unranked
+10,Area Optimized Quasi Delay Insensitive Majority Voter for TMR Applications.,2020,"P. Balasubramanian, Douglas L. Maskell, Nikos E. Mastorakis",CoRR abs/2008.05685 ,CORR,Unranked
+11,Generalized Majority Voter Design Method for N-Modular Redundant Systems Used in Mission- and Safety-Critical Applications.,2019,"Jaytrilok Choudhary, P. Balasubramanian, Danny M. Varghese, Dhirendra Pratap Singh, Douglas L. Maskell",Comput. 8: 10 ,COMPUTERS,Unranked
+12,Time-Multiplexed FPGA Overlay Architectures: A Survey.,2019,"Xiangwei Li, Douglas L. Maskell",ACM Trans. Design Autom. Electr. Syst. 24: 54:1-54:19 ,TODAES,Unranked
+13,Area Optimized Quasi Delay Insensitive Majority Voter for TMR Applications.,2019,"P. Balasubramanian, Douglas L. Maskell, Nikos E. Mastorakis",EECS 2019: 37-44,EECS,Unranked
+14,Asynchronous Early Output Block Carry Lookahead Adder with Improved Quality of Results.,2019,"P. Balasubramanian, Douglas L. Maskell, Nikos E. Mastorakis",CoRR abs/1901.09315 ,CORR,Unranked
+15,Majority and Minority Voted Redundancy for Safety-Critical Applications.,2019,"P. Balasubramanian, Douglas L. Maskell, Nikos E. Mastorakis",CoRR abs/1901.09316 ,CORR,Unranked
+16,Speed and Energy Optimised Quasi-Delay-Insensitive Block Carry Lookahead Adder.,2019,"P. Balasubramanian, Douglas L. Maskell, Nikos E. Mastorakis",CoRR abs/1903.09433 ,CORR,Unranked
+17,Indicating Asynchronous Array Multipliers.,2019,"P. Balasubramanian, Douglas L. Maskell",CoRR abs/1905.05904 ,CORR,Unranked
+18,Indicating Asynchronous Multipliers.,2019,"P. Balasubramanian, Douglas L. Maskell, Nikos E. Mastorakis",CoRR abs/1905.11231 ,CORR,Unranked
+19,A Self-Healing Redundancy Scheme for Mission/Safety-Critical Applications.,2018,"P. Balasubramanian, Douglas L. Maskell",IEEE Access 6: 69640-69649 ,ACCESS,Unranked
+20,A time-multiplexed FPGA overlay with linear interconnect.,2018,"Xiangwei Li, Abhishek Kumar Jain, Douglas L. Maskell, Suhaib A. Fahmy",DATE 2018: 1075-1080,DATE,B
+21,Indicating Asynchronous Multipliers.,2018,"P. Balasubramanian, Douglas L. Maskell, Nikos E. Mastorakis",EECS 2018: 547-553,EECS,Unranked
+22,Asynchronous Early Output Block Carry Lookahead Adder with Improved Quality of Results.,2018,"P. Balasubramanian, Douglas L. Maskell, Nikos E. Mastorakis",MWSCAS 2018: 587-590,MWSCAS,Unranked
+23,Majority and Minority Voted Redundancy for Safety-Critical Applications.,2018,"P. Balasubramanian, Douglas L. Maskell, Nikos E. Mastorakis",MWSCAS 2018: 1102-1105,MWSCAS,Unranked
+24,A System Health Indicator for the Distributed Minority and Majority Voting Based Redundancy Scheme.,2018,"P. Balasubramanian, Douglas L. Maskell, Krishnamachar Prasad",TENCON 2018: 530-535,TENCON,Unranked
+25,Hardware Efficient Approximate Adder Design.,2018,"P. Balasubramanian, Douglas L. Maskell",TENCON 2018: 806-810,TENCON,Unranked
+26,A Hybrid Logic Block Architecture in FPGA for Holistic Efficiency.,2017,"Tao Luo, Hao Liang, Wei Zhang, Bingsheng He, Douglas L. Maskell",IEEE Trans. Circuits Syst. II Express Briefs 64-II: 71-75 ,TCAS,Unranked
+27,A novel two-stage modular multiplier based on racetrack memory for asymmetric cryptography.,2017,"Tao Luo, Bingsheng He, Wei Zhang, Douglas L. Maskell",ICCAD 2017: 276-282,ICCAD,A
+28,Approximate quasi-delay-insensitive asynchronous adders: Design and analysis.,2017,"P. Balasubramanian, Cuong Dang, Douglas L. Maskell",MWSCAS 2017: 1196-1199,MWSCAS,Unranked
+29,Resource-Aware Just-in-Time OpenCL Compiler for Coarse-Grained FPGA Overlays.,2017,"Abhishek Kumar Jain, Douglas L. Maskell, Suhaib A. Fahmy",CoRR abs/1705.02730 ,CORR,Unranked
+30,Asynchronous Early Output Section-Carry Based Carry Lookahead Adder with Alias Carry Logic.,2017,"P. Balasubramanian, Cuong Dang, Douglas L. Maskell, K. Prasad",CoRR abs/1710.05470 ,CORR,Unranked
+31,Approximate Ripple Carry and Carry Lookahead Adders - A Comparative Analysis.,2017,"P. Balasubramanian, Cuong Dang, Douglas L. Maskell, K. Prasad",CoRR abs/1710.05474 ,CORR,Unranked
+32,A racetrack memory based in-memory booth multiplier for cryptography application.,2016,"Tao Luo, Wei Zhang, Bingsheng He, Douglas L. Maskell",ASP-DAC 2016: 286-291,ASPDAC,C
+33,Are Coarse-Grained Overlays Ready for General Purpose Application Acceleration on FPGAs?,2016,"Abhishek Kumar Jain, Douglas L. Maskell, Suhaib A. Fahmy",DASC/PiCom/DataCom/CyberSciTech 2016: 586-593,DASC,C
+34,Throughput oriented FPGA overlays using DSP blocks.,2016,"Abhishek Kumar Jain, Douglas L. Maskell, Suhaib A. Fahmy",DATE 2016: 1628-1633,DATE,B
+35,DeCO: A DSP Block Based FPGA Accelerator Overlay with Low Overhead Interconnect.,2016,"Abhishek Kumar Jain, Xiangwei Li, Pranjul Singhai, Douglas L. Maskell, Suhaib A. Fahmy",FCCM 2016: 1-8,FCCM,B
+36,An Area-Efficient FPGA Overlay using DSP Block based Time-multiplexed Functional Units.,2016,"Xiangwei Li, Abhishek Kumar Jain, Douglas L. Maskell, Suhaib A. Fahmy",CoRR abs/1606.06460 ,CORR,Unranked
+37,A distributed minority and majority voting based redundancy scheme.,2015,"P. Balasubramanian, Douglas L. Maskell",Microelectron. Reliab. 55: 1373-1378 ,MR,Unranked
+38,Adapting the DySER Architecture with DSP Blocks as an Overlay for the Xilinx Zynq.,2015,"Abhishek Kumar Jain, Xiangwei Li, Suhaib A. Fahmy, Douglas L. Maskell",SIGARCH Comput. Archit. News 43: 28-33 ,SIGARCH,Unranked
+39,An Improved Robust Field-Weakeaning Algorithm for Direct-Torque-Controlled Synchronous-Reluctance-Motor Drives.,2015,"Xinan Zhang, Gilbert Hock Beng Foo, D. Mahinda Vilathgamuwa, Douglas L. Maskell",IEEE Trans. Ind. Electron. 62: 3255-3264 ,TIE,Unranked
+40,Efficient Overlay Architecture Based on DSP Blocks.,2015,"Abhishek Kumar Jain, Suhaib A. Fahmy, Douglas L. Maskell",FCCM 2015: 25-28,FCCM,B
+41,Automatic fault detection and diagnosis for photovoltaic systems using combined artificial neural network and analytical based methods.,2015,"Lian Lian Jiang, Douglas L. Maskell",IJCNN 2015: 1-8,IJCNN,B
+42,FIE-FCMAC: A novel fuzzy cerebellum model articulation controller (FCMAC) using fuzzy interpolation and extrapolation technique.,2015,"Weigui Jair Zhou, Douglas Leslie Maskell, Chai Quek",IJCNN 2015: 1-8,IJCNN,B
+43,The iDEA DSP Block-Based Soft Processor for FPGAs.,2014,"Hui Yan Cheah, Fredrik Brosser, Suhaib A. Fahmy, Douglas L. Maskell",ACM Trans. Reconfigurable Technol. Syst. 7: 19:1-19:23 ,TRETS,Unranked
+44,Virtualized Execution and Management of Hardware Tasks on a Hybrid ARM-FPGA Platform.,2014,"Abhishek Kumar Jain, Khoa Dang Pham, Jin Cui, Suhaib A. Fahmy, Douglas L. Maskell",J. Signal Process. Syst. 77: 61-76 ,VLSISP,Unranked
+45,A uniform implementation scheme for evolutionary optimization algorithms and the experimental implementation of an ACO based MPPT for PV systems under partial shading.,2014,"Lian Lian Jiang, Douglas L. Maskell",CIASG 2014: 109-116,CIASG,Unranked
+46,Soft-switching single inductor current-fed push-pull converter for PV applications.,2014,"D. R. Nayanasiri, D. Mahinda Vilathgamuwa, Douglas L. Maskell, Gilbert Hock Beng Foo",IECON 2014: 5589-5594,IECON,Unranked
+47,HFL micro inverter with front-end diode clamped multi-level inverter and half-wave cycloconverter.,2014,"Dulika R. Nayanasiri, D. Mahinda Vilathgamuwa, Douglas L. Maskell",ISIE 2014: 503-508,ISIE,Unranked
+48,A hybrid short read mapping accelerator.,2013,"Yupeng Chen, Bertil Schmidt, Douglas L. Maskell",BMC Bioinform. 14: 67 ,BMCBI,Unranked
+49,C2FPGA - A dependency-timing graph design methodology.,2013,"Sunita Chandrasekaran, Shilpa Shanbagh, Ramkumar Jayaraman, Douglas L. Maskell, Hui Yan Cheah",J. Parallel Distributed Comput. 73: 1417-1429 ,JPDC,Unranked
+50,Reconfigurable Accelerator for the Word-Matching Stage of BLASTN.,2013,"Yupeng Chen, Bertil Schmidt, Douglas L. Maskell",IEEE Trans. Very Large Scale Integr. Syst. 21: 659-669 ,TVLSI,Unranked
+51,Microkernel hypervisor for a hybrid ARM-FPGA platform.,2013,"Khoa Dang Pham, Abhishek Kumar Jain, Jin Cui, Suhaib A. Fahmy, Douglas L. Maskell",ASAP 2013: 219-226,ASAP,Unranked
+52,Current-controlled resonant circuit based photovoltaic micro-inverter with half- wave cycloconverter.,2013,"D. R. Nayanasiri, D. Mahinda Vilathgamuwa, Douglas L. Maskell",IAS 2013: 1-6,IASAM,Unranked
+53,A simple and efficient hybrid maximum power point tracking method for PV systems under partially shaded condition.,2013,"Lian Lian Jiang, D. R. Nayanasiri, Douglas L. Maskell, D. Mahinda Vilathgamuwa",IECON 2013: 1513-1518,IECON,Unranked
+54,High-frequency-link micro-inverter with front-end current-fed half-bridge boost converter and half-wave cycloconverter.,2013,"D. R. Nayanasiri, D. Mahinda Vilathgamuwa, Douglas L. Maskell",IECON 2013: 6987-6992,IECON,Unranked
+55,Fuzzy interpolation and extrapolation using shift ratio and overall weight measurement based on areas of fuzzy sets.,2013,"Weigui Jair Zhou, Douglas Leslie Maskell, Chai Quek",UKCI 2013: 46-53,UKCI,Unranked
+56,CUSHAW: a CUDA compatible short read aligner to large genomes based on the Burrows-Wheeler transform.,2012,"Yongchao Liu, Bertil Schmidt, Douglas L. Maskell",Bioinform. 28: 1830-1837 ,BIOINFORMATICS,Unranked
+57,A Fast High-Level Event-Driven Thermal Estimator for Dynamic Thermal Aware Scheduling.,2012,"Jin Cui, Douglas L. Maskell",IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 31: 904-917 ,TCAD,Unranked
+58,A lean FPGA soft processor built using a DSP block.,2012,"Hui Yan Cheah, Suhaib A. Fahmy, Douglas L. Maskell, Chidamber Kulkarni",FPGA 2012: 237-240,FPGA,Unranked
+59,Accelerating short read mapping on an FPGA (abstract only).,2012,"Yupeng Chen, Bertil Schmidt, Douglas L. Maskell",FPGA 2012: 265,FPGA,Unranked
+60,An FPGA aligner for short read mapping.,2012,"Yupeng Chen, Bertil Schmidt, Douglas L. Maskell",FPL 2012: 511-514,FPL,Unranked
+61,iDEA: A DSP block based FPGA soft processor.,2012,"Hui Yan Cheah, Suhaib A. Fahmy, Douglas L. Maskell",FPT 2012: 151-158,FPT,Unranked
+62,A flann-based controller for maximum power point tracking in PV systems under rapidly changing conditions.,2012,"Lian Lian Jiang, Douglas L. Maskell, Jagdish Chandra Patra",ICASSP 2012: 2141-2144,ICASSP,Unranked
+63,Chebyshev Functional Link Neural Network-based modeling and experimental verification for photovoltaic arrays.,2012,"Lian Lian Jiang, Douglas L. Maskell, Jagdish Chandra Patra",IJCNN 2012: 1-8,IJCNN,B
+64,Fourth Workshop on using Emerging Parallel Architectures.,2012,"Bertil Schmidt, Douglas L. Maskell",ICCS 2012: 1867-1869,PROCEDIA,Unranked
+65,CompleteMOTIFs: DNA motif discovery platform for transcription factor binding experiments.,2011,"Lakshmi Kuttippurathu, Michael Hsing, Yongchao Liu, Bertil Schmidt, Douglas L. Maskell, Kyungjoon Lee, Aibin He, William T. Pu, Sek Won Kong",Bioinform. 27: 715-717 ,BIOINFORMATICS,Unranked
+66,DecGPU: distributed error correction on massively parallel graphics processing units using CUDA and MPI.,2011,"Yongchao Liu, Bertil Schmidt, Douglas L. Maskell",BMC Bioinform. 12: 85 ,BMCBI,Unranked
+67,Parallelized short read assembly of large genomes using de Bruijn graphs.,2011,"Yongchao Liu, Bertil Schmidt, Douglas L. Maskell",BMC Bioinform. 12: 354 ,BMCBI,Unranked
+68,A Novel Fuzzy Associative Memory Architecture for Stock Market Prediction and Trading.,2011,"Chai Quek, Zaiyi Guo, Douglas L. Maskell",Int. J. Fuzzy Syst. Appl. 1: 61-78 ,IJFSA,Unranked
+69,An Ultrafast Scalable Many-Core Motif Discovery Algorithm for Multiple GPUs.,2011,"Yongchao Liu, Bertil Schmidt, Douglas L. Maskell",IPDPS Workshops 2011: 428-434,IPPS,Unranked
+70,Performance-Power Design Space Exploration in a Hybrid Computing Platform Suitable for Mobile Applications.,2011,"Ramkumar Jayaraman, Handi Kartadihardja, Douglas L. Maskell",ISED 2011: 140-145,ISED,Unranked
+71,Estimation of external quantum efficiency for multi-junction solar cells under influence of charged particles using artificial neural networks.,2011,"Jagdish Chandra Patra, Lian Lian Jiang, Douglas L. Maskell",SMC 2011: 465-470,SMC,B
+72,Third Workshop on using Emerging Parallel Architectures.,2011,"Bertil Schmidt, Douglas L. Maskell",ICCS 2011: 1964-1966,PROCEDIA,Unranked
+73,MSAProbs: multiple sequence alignment based on pair hidden Markov models and partition function posterior probabilities.,2010,"Yongchao Liu, Bertil Schmidt, Douglas L. Maskell",Bioinform. 26: 1958-1964 ,BIOINFORMATICS,Unranked
+74,An improved common subexpression elimination method for reducing logic operators in FIR filter implementations without increasing logic depth.,2010,"Achutavarrier Prasad Vinod, Edmund Ming-Kit Lai, Douglas L. Maskell, Pramod Kumar Meher",Integr. 43: 124-135 ,INTEGRATION,Unranked
+75,CUDA-MEME: Accelerating motif discovery in biological sequences using CUDA-enabled graphics processing units.,2010,"Yongchao Liu, Bertil Schmidt, Weiguo Liu, Douglas L. Maskell",Pattern Recognit. Lett. 31: 2170-2177 ,PRL,Unranked
+76,EpiList II: Closing the Loop in the Development of Generic Cognitive Skills.,2010,"Ghee Ming Goh, Chai Quek, Douglas L. Maskell",IEEE Trans. Syst. Man Cybern. Part A 40: 676-685 ,TSMC,Unranked
+77,High level event driven thermal estimation for thermal aware task allocation and scheduling.,2010,"Jin Cui, Douglas L. Maskell",ASP-DAC 2010: 793-798,ASPDAC,C
+78,A dependency graph based methodology for parallelizing HLL applications on FPGA (abstract only).,2010,"Sunita Chandrasekaran, Shilpa Shanbagh, Douglas L. Maskell",FPGA 2010: 286,FPGA,Unranked
+79,Second Workshop on using Emerging Parallel Architectures.,2010,"Bertil Schmidt, Douglas L. Maskell",ICCS 2010: 1015-1017,PROCEDIA,Unranked
+80,High Speed Biological Sequence Analysis With Hidden Markov Models on Reconfigurable Platforms.,2009,"Timothy F. Oliver, Bertil Schmidt, Yanto Jakop, Douglas L. Maskell",IEEE Trans. Inf. Technol. Biomed. 13: 740-746 ,TITB,Unranked
+81,A Reconfigurable Bloom Filter Architecture for BLASTN.,2009,"Yupeng Chen, Bertil Schmidt, Douglas L. Maskell",ARCS 2009: 40-49,ARCS,Unranked
+82,MSA-CUDA: Multiple Sequence Alignment on Graphics Processing Units with CUDA.,2009,"Yongchao Liu, Bertil Schmidt, Douglas L. Maskell",ASAP 2009: 121-128,ASAP,Unranked
+83,Dynamic thermal-aware scheduling on chip multiprocessor for soft real-time system.,2009,"Jin Cui, Douglas L. Maskell",ACM Great Lakes Symposium on VLSI 2009: 393-396,GLVLSI,Unranked
+84,Workshop on Using Emerging Parallel Architectures for Computational Science.,2009,"Bertil Schmidt, Douglas L. Maskell",ICCS  2009: 861-863,ICCS,Multiconference
+85,Parallel reconstruction of neighbor-joining trees for large multiple sequence alignments using CUDA.,2009,"Yongchao Liu, Bertil Schmidt, Douglas L. Maskell",IPDPS 2009: 1-8,IPPS,Unranked
+86,A unified architecture for a public key cryptographic coprocessor.,2008,"Yi Wang, Douglas L. Maskell, Jussipekka Leiwo",J. Syst. Archit. 54: 1004-1016 ,JSA,Unranked
+87,Efficient multiplierless channel filters for multi-standard SDR.,2008,"Douglas L. Maskell, A. Prasad Vinod",CIT 2008: 237-242,IEEECIT,Unranked
+88,Multiplierless multi-standard SDR channel filters.,2008,"Douglas L. Maskell, Achutavarrier Prasad Vinod, Graham S. Woods",MMSP 2008: 815-819,MMSP,C
+89,Prerouted FPGA Cores for Rapid System Construction in a Dynamic Reconfigurable System.,2007,"Timothy F. Oliver, Douglas L. Maskell",EURASIP J. Embed. Syst. 2007 ,EJES,Unranked
+90,Design of efficient multiplierless FIR filters.,2007,Douglas L. Maskell,IET Circuits Devices Syst. 1: 175-180 ,IET-CDS,Unranked
+91,"Supporting multiple-input, multiple-output custom functions in configurable processors.",2007,"Xiaoyong Chen, Douglas L. Maskell",J. Syst. Archit. 53: 263-271 ,JSA,Unranked
+92,Fast Identification of Custom Instructions for Extensible Processors.,2007,"Xiaoyong Chen, Douglas L. Maskell, Yang Sun",IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 26: 359-368 ,TCAD,Unranked
+93,Type-2 GA-TSK fuzzy neural network.,2007,"Alvin Cai, Chai Quek, Douglas L. Maskell",IEEE Congress on Evolutionary Computation 2007: 1578-1585,CEC,B
+94,An Embedded Systems graduate education for Singapore.,2007,"Ian McLoughlin, Douglas L. Maskell, Thambipillai Srikanthan, Wooi-Boon Goh",ICPADS 2007: 1-5,ICPADS,B
+95,C-Based Design Methodology for FPGA Implementation of ClustalW MSA.,2007,"Yan Lin Aung, Douglas L. Maskell, Timothy F. Oliver, Bertil Schmidt, William Bong",PRIB 2007: 11-18,PRIB,Unranked
+96,High-speed Multiple Sequence Alignment on a reconfigurable platform.,2006,"Timothy F. Oliver, Bertil Schmidt, Douglas L. Maskell, Darran Nathan, Ralf Clemens",Int. J. Bioinform. Res. Appl. 2: 394-406 ,IJBRA,Unranked
+97,A technique for expressing IT security objectives.,2006,"Jussipekka Leiwo, Lam-for Kwok, Douglas L. Maskell, Nenad Stankovic",Inf. Softw. Technol. 48: 532-539 ,INFSOF,Unranked
+98,Adaptive subsample delay estimation using windowed correlation.,2006,"Douglas L. Maskell, Graham S. Woods",IEEE Trans. Circuits Syst. II Express Briefs 53-II: 478-482 ,TCAS,Unranked
+99,Automatic Identification of Custom Functions for Embedded Processors with MIMO Extensions.,2006,"Xiaoyong Chen, Douglas L. Maskell, Yang Sun",APCCAS 2006: 1156-1159,APCCAS,Unranked
+100,Unified Signed-Digit Number Adder for RSA and ECC Public-key Cryptosystems.,2006,"Yi Wang, Douglas L. Maskell, Jussipekka Leiwo, Thambipillai Srikanthan",APCCAS 2006: 1655-1658,APCCAS,Unranked
+101,"M2E: A Multiple-Input, Multiple-Output Function Extension for RISC-Based Extensible Processors.",2006,"Xiaoyong Chen, Douglas L. Maskell",ARCS 2006: 191-201,ARCS,Unranked
+102,A Brain Inspired Fuzzy Neuro-predictor for Bank Failure Analysis.,2006,"Chee H. Lee, Chai Quek, Douglas L. Maskell",IEEE Congress on Evolutionary Computation 2006: 2163-2170,CEC,B
+103,FCMAC-AARS: A Novel FNN Architecture for Stock Market Prediction and Trading.,2006,"Zaiyi Guo, Chai Quek, Douglas L. Maskell",IEEE Congress on Evolutionary Computation 2006: 2375-2381,CEC,B
+104,Execution Objects for Dynamically Reconfigurable FPGA Systems.,2006,"Timothy F. Oliver, Douglas L. Maskell",FPL 2006: 1-4,FPL,Unranked
+105,Software-Oriented Approach to Hardware-Software Co-Simulation for FPGA-Based Risc Extensible Processor.,2006,"K. S. Tham, Douglas L. Maskell",FPL 2006: 1-6,FPL,Unranked
+106,Accelerating the Viterbi Algorithm for Profile Hidden Markov Models Using Reconfigurable Hardware.,2006,"Timothy F. Oliver, Bertil Schmidt, Yanto Jakop, Douglas L. Maskell",International Conference on Computational Science  2006: 522-529,ICCS,Multiconference
+107,The design of multiplierless FIR filters with a minimum adder step and reduced hardware complexity.,2006,"Douglas L. Maskell, Jussipekka Leiwo, Jagdish Chandra Patra",ISCAS 2006,ISCAS,Unranked
+108,Pre-Routed FPGA Cores for Rapid System Construction in a Dynamic Reconfigurable System.,2006,"Douglas L. Maskell, Timothy F. Oliver",Dynamically Reconfigurable Architectures 2006,DAGSTUHL,Unranked
+109,Using reconfigurable hardware to accelerate multiple sequence alignment with ClustalW.,2005,"Timothy F. Oliver, Bertil Schmidt, Darran Nathan, Ralf Clemens, Douglas L. Maskell",Bioinform. 21: 3431-3432 ,BIOINFORMATICS,Unranked
+110,Adaptive subsample delay estimation using a modified quadrature phase detector.,2005,"Douglas L. Maskell, Graham S. Woods",IEEE Trans. Circuits Syst. II Express Briefs 52-II: 669-674 ,TCAS,Unranked
+111,Reconfigurable architectures for bio-sequence database scanning on FPGAs.,2005,"Timothy F. Oliver, Bertil Schmidt, Douglas L. Maskell",IEEE Trans. Circuits Syst. II Express Briefs 52-II: 851-855 ,TCAS,Unranked
+112,Software-Oriented System-Level Simulation for Design Space Exploration of Reconfigurable Architectures.,2005,"K. S. Tham, Douglas L. Maskell",Asia-Pacific Computer Systems Architecture Conference 2005: 391-404,APCSAC,Unranked
+113,Biological Sequence Analysis with Hidden Markov Models on an FPGA.,2005,"Jacop Yanto, Timothy F. Oliver, Bertil Schmidt, Douglas L. Maskell",Asia-Pacific Computer Systems Architecture Conference 2005: 429-439,APCSAC,Unranked
+114,Hyper customized processors for bio-sequence database scanning on FPGAs.,2005,"Timothy F. Oliver, Bertil Schmidt, Douglas L. Maskell",FPGA 2005: 229-237,FPGA,Unranked
+115,An FPGA Model for Developing Dynamic Circuit Computing.,2005,"Timothy F. Oliver, Douglas L. Maskell",FPT 2005: 281-282,FPT,Unranked
+116,Multiple Sequence Alignment on an FPGA.,2005,"Timothy F. Oliver, Bertil Schmidt, Douglas L. Maskell, Darran Nathan, Ralf Clemens",ICPADS  2005: 326-330,ICPADS,B
+117,A reconfigurable architecture for scanning biosequence databases.,2005,"Timothy F. Oliver, Bertil Schmidt, Douglas L. Maskell, Achutavarrier Prasad Vinod",ISCAS  2005: 4799-4802,ISCAS,Unranked
+118,A hardware efficient implementation of an adaptive subsample delay estimator.,2004,"Douglas L. Maskell, Graham S. Woods, Andrew Kerans",ISCAS  2004: 317-320,ISCAS,Unranked
+119,Towards Run-Time Re-Configurable Techniques for Real-Time Embedded Applications.,2003,"Timothy F. Oliver, Douglas L. Maskell",Engineering of Reconfigurable Systems and Algorithms 2003: 141-146,ERSA,Unranked
+120,The discrete-time quadrature subsample estimation of delay.,2002,"Douglas L. Maskell, Graham S. Woods",IEEE Trans. Instrum. Meas. 51: 133-137 ,TIM,Unranked
+121,A frequency modulated envelope delay FSCW radar for multiple-target applications.,2000,"Douglas L. Maskell, Graham S. Woods",IEEE Trans. Instrum. Meas. 49: 710-715 ,TIM,Unranked
+122,The estimation of subsample time delay of arrival in the discrete-time measurement of phase delay.,1999,"Douglas L. Maskell, Graham S. Woods",IEEE Trans. Instrum. Meas. 48: 1227-1231 ,TIM,Unranked

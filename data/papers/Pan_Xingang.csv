@@ -1,0 +1,46 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Grid-guided Neural Radiance Fields for Large Urban Scenes.,2023,"Linning Xu, Yuanbo Xiangli, Sida Peng, Xingang Pan, Nanxuan Zhao, Christian Theobalt, Bo Dai, Dahua Lin",CVPR 2023: 8296-8306,CVPR,A*
+1,Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction.,2023,"Tong Wu, Jiaqi Wang, Xingang Pan, Xudong Xu, Christian Theobalt, Ziwei Liu, Dahua Lin",ICLR 2023,ICLR,A*
+2,Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.,2023,"Xingang Pan, Ayush Tewari, Thomas Leimkühler, Lingjie Liu, Abhimitra Meka, Christian Theobalt",SIGGRAPH  2023: 78:1-78:11,SIGGRAPH,A*
+3,AssetField: Assets Mining and Reconfiguration in Ground Feature Plane Representation.,2023,"Yuanbo Xiangli, Linning Xu, Xingang Pan, Nanxuan Zhao, Bo Dai, Dahua Lin",CoRR abs/2303.13953 ,CORR,Unranked
+4,Grid-guided Neural Radiance Fields for Large Urban Scenes.,2023,"Linning Xu, Yuanbo Xiangli, Sida Peng, Xingang Pan, Nanxuan Zhao, Christian Theobalt, Bo Dai, Dahua Lin",CoRR abs/2303.14001 ,CORR,Unranked
+5,HQ3DAvatar: High Quality Controllable 3D Head Avatar.,2023,"Kartik Teotia, Mallikarjun B. R., Xingang Pan, Hyeongwoo Kim, Pablo Garrido, Mohamed Elgharib, Christian Theobalt",CoRR abs/2303.14471 ,CORR,Unranked
+6,GVP: Generative Volumetric Primitives.,2023,"Mallikarjun B. R., Xingang Pan, Mohamed Elgharib, Christian Theobalt",CoRR abs/2303.18193 ,CORR,Unranked
+7,Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.,2023,"Xingang Pan, Ayush Tewari, Thomas Leimkühler, Lingjie Liu, Abhimitra Meka, Christian Theobalt",CoRR abs/2305.10973 ,CORR,Unranked
+8,AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars.,2023,"Mohit Mendiratta, Xingang Pan, Mohamed Elgharib, Kartik Teotia, Mallikarjun B. R., Ayush Tewari, Vladislav Golyanik, Adam Kortylewski, Christian Theobalt",CoRR abs/2306.00547 ,CORR,Unranked
+9,MATLABER: Material-Aware Text-to-3D via LAtent BRDF auto-EncodeR.,2023,"Xudong Xu, Zhaoyang Lyu, Xingang Pan, Bo Dai",CoRR abs/2308.09278 ,CORR,Unranked
+10,Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.,2022,"Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo",IEEE Trans. Pattern Anal. Mach. Intell. 44: 7474-7489 ,PAMI,Unranked
+11,gCoRF: Generative Compositional Radiance Fields.,2022,"Mallikarjun B. R., Ayush Tewari, Xingang Pan, Mohamed Elgharib, Christian Theobalt",3DV 2022: 567-576,3DIM,Unranked
+12,GAN2X: Non-Lambertian Inverse Rendering of Image GANs.,2022,"Xingang Pan, Ayush Tewari, Lingjie Liu, Christian Theobalt",3DV 2022: 711-721,3DIM,Unranked
+13,Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images.,2022,"Ayush Tewari, Mallikarjun B. R., Xingang Pan, Ohad Fried, Maneesh Agrawala, Christian Theobalt",CVPR 2022: 1506-1515,CVPR,A*
+14,BungeeNeRF: Progressive Neural Radiance Field for Extreme Multi-scale Scene Rendering.,2022,"Yuanbo Xiangli, Linning Xu, Xingang Pan, Nanxuan Zhao, Anyi Rao, Christian Theobalt, Bo Dai, Dahua Lin",ECCV  2022: 106-122,ECCV,A*
+15,Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images.,2022,"Ayush Tewari, Mallikarjun B. R., Xingang Pan, Ohad Fried, Maneesh Agrawala, Christian Theobalt",CoRR abs/2203.15926 ,CORR,Unranked
+16,GAN2X: Non-Lambertian Inverse Rendering of Image GANs.,2022,"Xingang Pan, Ayush Tewari, Lingjie Liu, Christian Theobalt",CoRR abs/2206.09244 ,CORR,Unranked
+17,Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction.,2022,"Tong Wu, Jiaqi Wang, Xingang Pan, Xudong Xu, Christian Theobalt, Ziwei Liu, Dahua Lin",CoRR abs/2208.12697 ,CORR,Unranked
+18,gCoRF: Generative Compositional Radiance Fields.,2022,"Mallikarjun B. R., Ayush Tewari, Xingang Pan, Mohamed Elgharib, Christian Theobalt",CoRR abs/2210.17344 ,CORR,Unranked
+19,GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild.,2022,"Chao Wang, Ana Serrano, Xingang Pan, Bin Chen, Hans-Peter Seidel, Christian Theobalt, Karol Myszkowski, Thomas Leimkühler",CoRR abs/2211.12352 ,CORR,Unranked
+20,Talk-to-Edit: Fine-Grained Facial Editing via Dialog.,2021,"Yuming Jiang, Ziqi Huang, Xingang Pan, Chen Change Loy, Ziwei Liu",ICCV 2021: 13779-13788,ICCV,A*
+21,Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs.,2021,"Xingang Pan, Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo",ICLR 2021,ICLR,A*
+22,A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis.,2021,"Xingang Pan, Xudong Xu, Chen Change Loy, Christian Theobalt, Bo Dai",NeurIPS 2021: 20002-20013,NIPS,Unranked
+23,Generative Occupancy Fields for 3D Surface-Aware Image Synthesis.,2021,"Xudong Xu, Xingang Pan, Dahua Lin, Bo Dai",NeurIPS 2021: 20683-20695,NIPS,Unranked
+24,Talk-to-Edit: Fine-Grained Facial Editing via Dialog.,2021,"Yuming Jiang, Ziqi Huang, Xingang Pan, Chen Change Loy, Ziwei Liu",CoRR abs/2109.04425 ,CORR,Unranked
+25,A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis.,2021,"Xingang Pan, Xudong Xu, Chen Change Loy, Christian Theobalt, Bo Dai",CoRR abs/2110.15678 ,CORR,Unranked
+26,Generative Occupancy Fields for 3D Surface-Aware Image Synthesis.,2021,"Xudong Xu, Xingang Pan, Dahua Lin, Bo Dai",CoRR abs/2111.00969 ,CORR,Unranked
+27,CityNeRF: Building NeRF at City Scale.,2021,"Yuanbo Xiangli, Linning Xu, Xingang Pan, Nanxuan Zhao, Anyi Rao, Christian Theobalt, Bo Dai, Dahua Lin",CoRR abs/2112.05504 ,CORR,Unranked
+28,Self-Supervised Scene De-Occlusion.,2020,"Xiaohang Zhan, Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, Chen Change Loy",CVPR 2020: 3783-3791,CVPR,A*
+29,Open Compound Domain Adaptation.,2020,"Ziwei Liu, Zhongqi Miao, Xingang Pan, Xiaohang Zhan, Dahua Lin, Stella X. Yu, Boqing Gong",CVPR 2020: 12403-12412,CVPR,A*
+30,Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.,2020,"Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo",ECCV  2020: 262-277,ECCV,A*
+31,Channel Equilibrium Networks for Learning Deep Representation.,2020,"Wenqi Shao, Shitao Tang, Xingang Pan, Ping Tan, Xiaogang Wang, Ping Luo",ICML 2020: 8645-8654,ICML,A*
+32,Channel Equilibrium Networks for Learning Deep Representation.,2020,"Wenqi Shao, Shitao Tang, Xingang Pan, Ping Tan, Xiaogang Wang, Ping Luo",CoRR abs/2003.00214 ,CORR,Unranked
+33,Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.,2020,"Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo",CoRR abs/2003.13659 ,CORR,Unranked
+34,Self-Supervised Scene De-occlusion.,2020,"Xiaohang Zhan, Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, Chen Change Loy",CoRR abs/2004.02788 ,CORR,Unranked
+35,Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.,2020,"Xingang Pan, Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo",CoRR abs/2011.00844 ,CORR,Unranked
+36,Self-Supervised Learning via Conditional Motion Propagation.,2019,"Xiaohang Zhan, Xingang Pan, Ziwei Liu, Dahua Lin, Chen Change Loy",CVPR 2019: 1881-1889,CVPR,A*
+37,Switchable Whitening for Deep Representation Learning.,2019,"Xingang Pan, Xiaohang Zhan, Jianping Shi, Xiaoou Tang, Ping Luo",ICCV 2019: 1863-1871,ICCV,A*
+38,Self-Supervised Learning via Conditional Motion Propagation.,2019,"Xiaohang Zhan, Xingang Pan, Ziwei Liu, Dahua Lin, Chen Change Loy",CoRR abs/1903.11412 ,CORR,Unranked
+39,Switchable Whitening for Deep Representation Learning.,2019,"Xingang Pan, Xiaohang Zhan, Jianping Shi, Xiaoou Tang, Ping Luo",CoRR abs/1904.09739 ,CORR,Unranked
+40,Compound Domain Adaptation in an Open World.,2019,"Ziwei Liu, Zhongqi Miao, Xingang Pan, Xiaohang Zhan, Stella X. Yu, Dahua Lin, Boqing Gong",CoRR abs/1909.03403 ,CORR,Unranked
+41,Spatial as Deep: Spatial CNN for Traffic Scene Understanding.,2018,"Xingang Pan, Jianping Shi, Ping Luo, Xiaogang Wang, Xiaoou Tang",AAAI 2018: 7276-7283,AAAI,A*
+42,Two at Once: Enhancing Learning and Generalization Capacities via IBN-Net.,2018,"Xingang Pan, Ping Luo, Jianping Shi, Xiaoou Tang",ECCV  2018: 484-500,ECCV,A*
+43,Two at Once: Enhancing Learning and Generalization Capacities via IBN-Net.,2018,"Xingang Pan, Ping Luo, Jianping Shi, Xiaoou Tang",CoRR abs/1807.09441 ,CORR,Unranked
+44,Spatial As Deep: Spatial CNN for Traffic Scene Understanding.,2017,"Xingang Pan, Jianping Shi, Ping Luo, Xiaogang Wang, Xiaoou Tang",CoRR abs/1712.06080 ,CORR,Unranked

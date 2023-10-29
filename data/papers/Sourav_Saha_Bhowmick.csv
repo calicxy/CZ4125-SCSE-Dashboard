@@ -1,0 +1,309 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,CLOSET: Data-Driven COI Detection and Management in Peer-Review Venues.,2023,Sourav S. Bhowmick,Commun. ACM 66: 70-71 ,CACM,Unranked
+1,To Draw Is Human: Toward No-Code Subgraph Search.,2023,"Sourav S. Bhowmick, Byron Choi",Commun. ACM 66: 83-84 ,CACM,Unranked
+2,A Framework for Privacy Preserving Localized Graph Pattern Query Processing.,2023,"Lyu Xu, Byron Choi, Yun Peng, Jianliang Xu, Sourav S. Bhowmick",Proc. ACM Manag. Data 1: 129:1-129:27 ,PACMMOD,Unranked
+3,Theories and Principles Matter: Towards Visually Appealing and Effective Abstraction of Property Graph Queries.,2023,"Jiebing Ma, Sourav S. Bhowmick, Byron Choi, Lester Tay",Proc. ACM Manag. Data 1: 132:1-132:26 ,PACMMOD,Unranked
+4,"Diversity, Equity and Inclusion Activities in Database Conferences: A 2022 Report.",2023,"Sihem Amer-Yahia, Divyakant Agrawal, Yael Amsterdamer, Sourav S. Bhowmick, Angela Bonifati, Renata Borovica-Gajic, Jesús Camacho-Rodríguez, Barbara Catania, Panos K. Chrysanthis, Carlo Curino, Jérôme Darmont, Gillian Dobbie, Amr El Abbadi, Avrilia Floratou, Juliana Freire, Alekh Jindal, Vana Kalogeraki, Sujaya Maiyya, Alexandra Meliou, Madhulika Mohanty, Behrooz Omidvar-Tehrani, Fatma Özcan, Liat Peterfreund, Wenny Rahayu, Shazia Sadiq, Sana Sellami, Utku Sirin, Wang-Chiew Tan, Bhavani Thuraisingham, Yuanyuan Tian, Pinar Tözün, Genoveva Vargas-Solar, Neeraja J. Yadwadkar, Victor Zakhary, Meihui Zhang",SIGMOD Rec. 52: 38-42 ,SIGMOD,A*
+5,PIANO: Influence Maximization Meets Deep Reinforcement Learning.,2023,"Hui Li, Mengting Xu, Sourav S. Bhowmick, Shafiq Rayhan Joty, Changsheng Sun, Jiangtao Cui",IEEE Trans. Comput. Soc. Syst. 10: 1288-1300 ,TCSS,Unranked
+6,SVP-T: A Shape-Level Variable-Position Transformer for Multivariate Time Series Classification.,2023,"Rundong Zuo, Guozhong Li, Byron Choi, Sourav S. Bhowmick, Daphne Ngar-yin Mah, Grace Lai-Hung Wong",AAAI 2023: 11497-11505,AAAI,A*
+7,VOYAGER: Automatic Computation of Visual Complexity and Aesthetics of Graph Query Interfaces.,2023,"Duy Pham, Sourav S. Bhowmick",EDBT 2023: 815-818,EDBT,A
+8,ARENA: Alternative Relational Query Plan Exploration for Database Education.,2023,"Hu Wang, Hui Li, Sourav S. Bhowmick, Baochao Xu",SIGMOD Conference Companion 2023: 107-110,SIGMOD,A*
+9,"Proceedings 26th International Conference on Extending Database Technology, EDBT 2023, Ioannina, Greece, March 28-31, 2023.",2023,"Julia Stoyanovich, Jens Teubner, Nikos Mamoulis, Evaggelia Pitoura, Jan Mühlig, Katja Hose, Sourav S. Bhowmick, Matteo Lissandrini","OpenProceedings.org 2023, ISBN 978-3-89318-088-2 ",EDBT,A
+10,DKWS: A Distributed System for Keyword Search on Massive Graphs (Complete Version).,2023,"Jiaxin Jiang, Byron Choi, Xin Huang, Jianliang Xu, Sourav S. Bhowmick",CoRR abs/2309.01199 ,CORR,Unranked
+11,Influence Maximization in Social Networks: A Survey.,2023,"Hui Li, Susu Yang, Mengting Xu, Sourav S. Bhowmick, Jiangtao Cui",CoRR abs/2309.04668 ,CORR,Unranked
+12,FLAG: Towards Graph Query Autocompletion for Large Graphs.,2022,"Peipei Yi, Jianping Li, Byron Choi, Sourav S. Bhowmick, Jianliang Xu",Data Sci. Eng. 7: 175-191 ,DASE,Unranked
+13,Towards Technology-Enabled Learning of Relational Query Processing.,2022,"Sourav S. Bhowmick, Hui Li",IEEE Data Eng. Bull. 45: 29-46 ,DEBU,Unranked
+14,Toward automatic support for leading court debates: a novel task proposal & effective approach of judicial question generation.,2022,"Changzhen Ji, Yating Zhang, Xiaozhong Liu, Adam Jatowt, Sourav S. Bhowmick, Changlong Sun, Conghui Zhu, Tiejun Zhao",Neural Comput. Appl. 34: 16367-16385 ,NCA,B
+15,MOCHA: A Tool for Visualizing Impact of Operator Choices in Query Execution Plans for Database Education.,2022,"Jess Tan, Desmond Yeo, Rachael Neoh, Huey-Eng Chua, Sourav S. Bhowmick",Proc. VLDB Endow. 15: 3602-3605 ,PVLDB,Unranked
+16,SENSOR: Data-driven Construction of Sketch-based Visual Query Interfaces for Time Series Data.,2022,"Li Yan, Nerissa Xu, Guozhong Li, Sourav S. Bhowmick, Byron Choi, Jianliang Xu",Proc. VLDB Endow. 15: 3650-3653 ,PVLDB,Unranked
+17,"No PANE, No Gain: Scaling Attributed Network Embedding in a Single Server.",2022,"Renchi Yang, Jieming Shi, Xiaokui Xiao, Yin Yang, Sourav S. Bhowmick, Juncheng Liu",SIGMOD Rec. 51: 42-49 ,SIGMOD,A*
+18,Diversity and Inclusion Activities in Database Conferences: A 2021 Report.,2022,"Sihem Amer-Yahia, Yael Amsterdamer, Sourav S. Bhowmick, Angela Bonifati, Philippe Bonnet, Renata Borovica-Gajic, Barbara Catania, Tania Cerquitelli, Silvia Chiusano, Panos K. Chrysanthis, Carlo Curino, Jérôme Darmont, Amr El Abbadi, Avrilia Floratou, Juliana Freire, Alekh Jindal, Vana Kalogeraki, Georgia Koutrika, Arun Kumar, Sujaya Maiyya, Alexandra Meliou, Madhulika Mohanty, Felix Naumann, Nele Sina Noack, Fatma Özcan, Liat Peterfreund, Wenny Rahayu, Wang-Chiew Tan, Yuanyuan Tian, Pinar Tözün, Genoveva Vargas-Solar, Neeraja J. Yadwadkar, Meihui Zhang",SIGMOD Rec. 51: 69-73 ,SIGMOD,A*
+19,How Connected Are Our Conference Review Boards?,2022,Sourav S. Bhowmick,SIGMOD Rec. 51: 74-78 ,SIGMOD,A*
+20,Efficient Shapelet Discovery for Time Series Classification.,2022,"Guozhong Li, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Kwok-Pan Chun, Grace Lai-Hung Wong",IEEE Trans. Knowl. Data Eng. 34: 1149-1163 ,TKDE,Unranked
+21,GFocus: User Focus-Based Graph Query Autocompletion.,2022,"Peipei Yi, Byron Choi, Zhiwei Zhang, Sourav S. Bhowmick, Jianliang Xu",IEEE Trans. Knowl. Data Eng. 34: 1788-1802 ,TKDE,Unranked
+22,ArcheGEO: towards improving relevance of gene expression omnibus search results.,2022,"Huey-Eng Chua, Lisa Tucker-Kellogg, Sourav S. Bhowmick",BCB 2022: 4:1-4:10,BCB,Unranked
+23,Generating Plugs and Data Sockets for Plug-and-Play Database Web Services.,2022,"Arihant Jain, Curtis E. Dyreson, Sourav S. Bhowmick",CoopIS 2022: 279-288,COOPIS,Unranked
+24,IPS: Instance Profile for Shapelet Discovery for Time Series Classification.,2022,"Guozhong Li, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Daphne Ngar-yin Mah, Grace Lai-Hung Wong",ICDE 2022: 1781-1793,ICDE,A*
+25,PLAYPEN: Plug-and-Play Visual Graph Query Interfaces for Top-down and Bottom-Up Search on Large Networks.,2022,"Zifeng Yuan, Huey-Eng Chua, Sourav S. Bhowmick, Zekun Ye, Byron Choi, Wook-Shin Han",SIGMOD Conference 2022: 2381-2384,SIGMOD,A*
+26,LANTERN: Boredom-conscious Natural Language Description Generation of Query Execution Plans for Database Education.,2022,"Peng Chen, Hui Li, Sourav S. Bhowmick, Shafiq R. Joty, Weiguo Wang",SIGMOD Conference 2022: 2413-2416,SIGMOD,A*
+27,"Data-driven Visual Query Interfaces for Graphs: Past, Present, and (Near) Future.",2022,"Sourav S. Bhowmick, Byron Choi",SIGMOD Conference 2022: 2441-2447,SIGMOD,A*
+28,Publication Culture and Review Processes in the Data Management Community: An Open Discussion.,2022,"Sihem Amer-Yahia, Sourav S. Bhowmick, Xin Luna Dong, Stratos Idreos, Wolfgang Lehner, Divesh Srivastava",SIGMOD Conference 2022: 2501-2502,SIGMOD,A*
+29,AUTOSHAPE: An Autoencoder-Shapelet Approach for Time Series Clustering.,2022,"Guozhong Li, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Daphne Ngar-yin Mah, Grace Lai-Hung Wong",CoRR abs/2208.04313 ,CORR,Unranked
+30,ARENA: Towards Informative Alternative Query Plan Selection for Database Education.,2022,"Hu Wang, Hui Li, Sourav S. Bhowmick",CoRR abs/2210.13722 ,CORR,Unranked
+31,Towards Plug-and-Play Visual Graph Query Interfaces: Data-driven Canned Pattern Selection for Large Networks.,2021,"Zifeng Yuan, Huey-Eng Chua, Sourav S. Bhowmick, Zekun Ye, Wook-Shin Han, Byron Choi",Proc. VLDB Endow. 14: 1979-1991 ,PVLDB,Unranked
+32,A Generic Ontology Framework for Indexing Keyword Search on Massive Graphs.,2021,"Jiaxin Jiang, Byron Choi, Jianliang Xu, Sourav S. Bhowmick",IEEE Trans. Knowl. Data Eng. 33: 2322-2336 ,TKDE,Unranked
+33,ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification.,2021,"Guozhong Li, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Kwok-Pan Chun, Grace Lai-Hung Wong",AAAI 2021: 8375-8383,AAAI,A*
+34,Privacy Preserving Strong Simulation Queries on Large Graphs.,2021,"Lyu Xu, Jiaxin Jiang, Byron Choi, Jianliang Xu, Sourav S. Bhowmick",ICDE 2021: 1500-1511,ICDE,A*
+35,Efficient Shapelet Discovery for Time Series Classification (Extended Abstract).,2021,"Guozhong Li, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Kwok-Pan Chun, Grace Lai-Hung Wong",ICDE 2021: 2336-2337,ICDE,A*
+36,A Generic Ontology Framework for Indexing Keyword Search on Massive Graphs (Extended Abstract).,2021,"Jiaxin Jiang, Byron Choi, Jianliang Xu, Sourav S. Bhowmick",ICDE 2021: 2338-2339,ICDE,A*
+37,Kandinsky Mobile: Abstract Art-Inspired Interactive Visualization of Social Discussions on Mobile Devices.,2021,"Castillo Clarence Fitzgerald Gumtang, Sourav S. Bhowmick",ACM Multimedia 2021: 1446-1448,MM,Unranked
+38,MIDAS: Towards Efficient and Effective Maintenance of Canned Patterns in Visual Graph Query Interfaces.,2021,"Kai Huang, Huey-Eng Chua, Sourav S. Bhowmick, Byron Choi, Shuigeng Zhou",SIGMOD Conference 2021: 764-776,SIGMOD,A*
+39,Towards Enhancing Database Education: Natural Language Generation Meets Query Execution Plans.,2021,"Weiguo Wang, Sourav S. Bhowmick, Hui Li, Shafiq R. Joty, Siyuan Liu, Peng Chen",SIGMOD Conference 2021: 1933-1945,SIGMOD,A*
+40,Towards Enhancing Database Education: Natural Language Generation Meets Query Execution Plans.,2021,"Weiguo Wang, Sourav S. Bhowmick, Hui Li, Shafiq R. Joty, Siyuan Liu, Peng Chen",CoRR abs/2103.00740 ,CORR,Unranked
+41,Towards Plug-and-Play Visual Graph Query Interfaces: Data-driven Canned Pattern Selection for Large Networks.,2021,"Zifeng Yuan, Huey-Eng Chua, Sourav S. Bhowmick, Zekun Ye, Wook-Shin Han, Byron Choi",CoRR abs/2107.09952 ,CORR,Unranked
+42,Homogeneous Network Embedding for Massive Graphs via Reweighted Personalized PageRank.,2020,"Renchi Yang, Jieming Shi, Xiaokui Xiao, Yin Yang, Sourav S. Bhowmick",Proc. VLDB Endow. 13: 670-683 ,PVLDB,Unranked
+43,Scaling Attributed Network Embedding to Massive Graphs.,2020,"Renchi Yang, Jieming Shi, Xiaokui Xiao, Yin Yang, Juncheng Liu, Sourav S. Bhowmick",Proc. VLDB Endow. 14: 37-49 ,PVLDB,Unranked
+44,FROST: Movement History-Conscious Facility Relocation.,2020,"Meng Wang, Hui Li, Jiangtao Cui, Sourav S. Bhowmick, Ping Liu",ACM Trans. Intell. Syst. Technol. 11: 9:1-9:26 ,TIST,Unranked
+45,SURGE: Continuous Detection of Bursty Regions Over a Stream of Spatial Objects.,2020,"Kaiyu Feng, Tao Guo, Gao Cong, Sourav S. Bhowmick, Shuai Ma",IEEE Trans. Knowl. Data Eng. 32: 2254-2268 ,TKDE,Unranked
+46,FERRARI: an efficient framework for visual exploratory subgraph search in graph databases.,2020,"Chaohui Wang, Miao Xie, Sourav S. Bhowmick, Byron Choi, Xiaokui Xiao, Shuigeng Zhou",VLDB J. 29: 973-998 ,VLDB,A*
+47,Visualet: Visualizing Shapelets for Time Series Classification.,2020,"Guozhong Li, Byron Choi, Sourav S. Bhowmick, Grace Lai-Hung Wong, Kwok-Pan Chun, Shiwen Li",CIKM 2020: 3429-3432,CIKM,A
+48,SCALE: An Efficient Framework for Secure Dynamic Skyline Query Processing in the Cloud.,2020,"Weiguo Wang, Hui Li, Yanguo Peng, Sourav S. Bhowmick, Peng Chen, Xiaofeng Chen, Jiangtao Cui",DASFAA  2020: 288-305,DASFAA,B
+49,PPKWS: An Efficient Framework for Keyword Search on Public-Private Networks.,2020,"Jiaxin Jiang, Xin Huang, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Lyu Xu",ICDE 2020: 457-468,ICDE,A*
+50,BRUNCH: Branching Structure Inference of Hybrid Multivariate Hawkes Processes with Application to Social Media.,2020,"Hui Li, Hui Li, Sourav S. Bhowmick",PAKDD  2020: 553-566,PAKDD,B
+51,G-CARE: A Framework for Performance Benchmarking of Cardinality Estimation Techniques for Subgraph Matching.,2020,"Yeonsu Park, Seongyun Ko, Sourav S. Bhowmick, Kyoungmin Kim, Kijae Hong, Wook-Shin Han",SIGMOD Conference 2020: 1099-1114,SIGMOD,A*
+52,CHASSIS: Conformity Meets Online Information Diffusion.,2020,"Hui Li, Hui Li, Sourav S. Bhowmick",SIGMOD Conference 2020: 1829-1840,SIGMOD,A*
+53,BOOMER: A Tool for Blending Visual P-Homomorphic Queries on Large Networks.,2020,"Yinglong Song, Huey-Eng Chua, Sourav S. Bhowmick, Byron Choi, Shuigeng Zhou",SIGMOD Conference 2020: 2685-2688,SIGMOD,A*
+54,AURORA: Data-driven Construction of Visual Graph Query Interfaces for Graph Databases.,2020,"Sourav S. Bhowmick, Kai Huang, Huey-Eng Chua, Zifeng Yuan, Byron Choi, Shuigeng Zhou",SIGMOD Conference 2020: 2689-2692,SIGMOD,A*
+55,LATTE: Visual Construction of Smart Contracts.,2020,"Sean Tan, Sourav S. Bhowmick, Huey-Eng Chua, Xiaokui Xiao",SIGMOD Conference 2020: 2713-2716,SIGMOD,A*
+56,An Efficient Secure Dynamic Skyline Query Model.,2020,"Weiguo Wang, Hui Li, Yanguo Peng, Sourav S. Bhowmick, Peng Chen, Xiaofeng Chen, Jiangtao Cui",CoRR abs/2002.07511 ,CORR,Unranked
+57,Scaling Attributed Network Embedding to Massive Graphs.,2020,"Renchi Yang, Jieming Shi, Xiaokui Xiao, Yin Yang, Juncheng Liu, Sourav S. Bhowmick",CoRR abs/2009.00826 ,CORR,Unranked
+58,Mapping Entity Sets in News Archives Across Time.,2019,"Yijun Duan, Adam Jatowt, Sourav S. Bhowmick, Masatoshi Yoshikawa",Data Sci. Eng. 4: 208-222 ,DASE,Unranked
+59,On-demand recent personal tweets summarization on mobile devices.,2019,"Jin Yao Chin, Sourav S. Bhowmick, Adam Jatowt",J. Assoc. Inf. Sci. Technol. 70: 547-562 ,JASIS,Unranked
+60,Path Travel Time Estimation using Attribute-related Hybrid Trajectories Network.,2019,"Xi Lin, Yequan Wang, Xiaokui Xiao, Zengxiang Li, Sourav S. Bhowmick",CIKM 2019: 1973-1982,CIKM,A
+61,Document in Context of its Time (DICT): Providing Temporal Context to Support Analysis of Past Documents.,2019,"Adam Jatowt, Ricardo Campos, Sourav S. Bhowmick, Antoine Doucet",CIKM 2019: 2869-2872,CIKM,A
+62,Typicality-Based Across-Time Mapping of Entity Sets in Document Archives.,2019,"Yijun Duan, Adam Jatowt, Sourav S. Bhowmick, Masatoshi Yoshikawa",DASFAA  2019: 350-366,DASFAA,B
+63,We Don't Need No Education: From Building for Coders to Building for Users.,2019,Sourav S. Bhowmick,GRADES/NDA@SIGMOD/PODS 2019: 2:1,GRADES,Unranked
+64,An Indexing Framework for Efficient Visual Exploratory Subgraph Search in Graph Databases.,2019,"Chaohui Wang, Miao Xie, Sourav S. Bhowmick, Byron Choi, Xiaokui Xiao, Shuigeng Zhou",ICDE 2019: 1666-1669,ICDE,A*
+65,FGreat: Focused Graph Query Autocompletion.,2019,"Nathan Ng, Peipei Yi, Zhiwei Zhang, Byron Choi, Sourav S. Bhowmick, Jianliang Xu",ICDE 2019: 1956-1959,ICDE,A*
+66,KANDINSKY: Abstract Art-Inspired Visualization of Social Discussions.,2019,"Christina Lui, Sourav S. Bhowmick, Adam Jatowt",SIGIR 2019: 1345-1348,SIGIR,A*
+67,CATAPULT: Data-driven Selection of Canned Patterns for Efficient Visual Graph Query Formulation.,2019,"Kai Huang, Huey-Eng Chua, Sourav S. Bhowmick, Byron Choi, Shuigeng Zhou",SIGMOD Conference 2019: 900-917,SIGMOD,A*
+68,Efficient Estimation of Heat Kernel PageRank for Local Clustering.,2019,"Renchi Yang, Xiaokui Xiao, Zhewei Wei, Sourav S. Bhowmick, Jun Zhao, Rong-Hua Li",SIGMOD Conference 2019: 1339-1356,SIGMOD,A*
+69,NEURON: Query Execution Plan Meets Natural Language Processing For Augmenting DB Education.,2019,"Siyuan Liu, Sourav S. Bhowmick, Wanlu Zhang, Shu Wang, Wanyi Huang, Shafiq R. Joty",SIGMOD Conference 2019: 1953-1956,SIGMOD,A*
+70,ATAR: Aspect-Based Temporal Analog Retrieval System for Document Archives.,2019,"Yating Zhang, Adam Jatowt, Sourav S. Bhowmick, Yuji Matsumoto",WSDM 2019: 762-765,WSDM,A
+71,Visual Graph Querying.,2019,"Sourav S. Bhowmick, Byron Choi",Encyclopedia of Big Data Technologies 2019,BDT,Unranked
+72,Efficient Estimation of Heat Kernel PageRank for Local Clustering.,2019,"Renchi Yang, Xiaokui Xiao, Zhewei Wei, Sourav S. Bhowmick, Jun Zhao, Rong-Hua Li",CoRR abs/1904.02707 ,CORR,Unranked
+73,Homogeneous Network Embedding for Massive Graphs via Personalized PageRank.,2019,"Renchi Yang, Jieming Shi, Xiaokui Xiao, Sourav S. Bhowmick, Yin Yang",CoRR abs/1906.06826 ,CORR,Unranked
+74,DISCO: Influence Maximization Meets Network Embedding and Deep Learning.,2019,"Hui Li, Mengting Xu, Sourav S. Bhowmick, Changsheng Sun, Zhongyuan Jiang, Jiangtao Cui",CoRR abs/1906.07378 ,CORR,Unranked
+75,Human Interaction with Graphs: A Visual Querying Perspective.,2018,"Sourav S. Bhowmick, Byron Choi, Chengkai Li","Synthesis Lectures on Data Management, Morgan & Claypool Publishers 2018, ISBN 978-3-031-00733-0",SYNTHESIS-DTM,Unranked
+76,TROVE: a user-friendly tool for visualizing and analyzing cancer hallmarks in signaling networks.,2018,"Huey-Eng Chua, Sourav S. Bhowmick, Jie Zheng",Bioinform. 34: 314-316 ,BIOINFORMATICS,Unranked
+77,PANDA: A System for Partial Topology-based Search on Large Networks.,2018,"Miao Xie, Sourav S. Bhowmick, Hao Su, Gao Cong, Wook-Shin Han",Proc. VLDB Endow. 11: 1966-1969 ,PVLDB,Unranked
+78,DANTE: Data and Information Management Research at Nanyang Technological University.,2018,"Sourav S. Bhowmick, Xiaokui Xiao",SIGMOD Rec. 47: 67-72 ,SIGMOD,A*
+79,Every Word has its History: Interactive Exploration and Visualization of Word Sense Evolution.,2018,"Adam Jatowt, Ricardo Campos, Sourav S. Bhowmick, Nina Tahmasebi, Antoine Doucet",CIKM 2018: 1899-1902,CIKM,A
+80,SURGE: Continuous Detection of Bursty Regions over a Stream of Spatial Objects.,2018,"Kaiyu Feng, Tao Guo, Gao Cong, Sourav S. Bhowmick, Shuai Ma",ICDE 2018: 1292-1295,ICDE,A*
+81,Killing Two Birds With One Stone: Concurrent Ranking of Tags and Comments of Social Images.,2018,"Boon-Siew Seah, Aixin Sun, Sourav S. Bhowmick",SIGIR 2018: 937-940,SIGIR,A*
+82,Ranking Without Learning: Towards Historical Relevance-based Ranking of Social Images.,2018,"Min Min Chew, Sourav S. Bhowmick, Adam Jatowt",SIGIR 2018: 1133-1136,SIGIR,A*
+83,BOOMER: Blending Visual Formulation and Processing of P -Homomorphic Queries on Large Networks.,2018,"Yinglong Song, Huey-Eng Chua, Sourav S. Bhowmick, Byron Choi, Shuigeng Zhou",SIGMOD Conference 2018: 927-942,SIGMOD,A*
+84,PISTIS: A Conflict of Interest Declaration and Detection System for Peer Review Management.,2018,"Siyuan Wu, Leong Hou U, Sourav S. Bhowmick, Wolfgang Gatterbauer",SIGMOD Conference 2018: 1713-1716,SIGMOD,A*
+85,NEURON: An Interactive Natural Language Interface for Understanding Query Execution Plans in RDBMS.,2018,"Siyuan Liu, Sourav S. Bhowmick, Wanlu Zhang, Shu Wang, Wanyi Huang",CoRR abs/1805.05670 ,CORR,Unranked
+86,Summarizing Biological Networks.,2017,"Sourav S. Bhowmick, Boon-Siew Seah","Computational Biology 24, Springer 2017, ISBN 978-3-319-54620-9, pp. 1-142",CB,Unranked
+87,PICASSO: Exploratory Search of Connected Subgraph Substructures in Graph Databases.,2017,"Kai Huang, Sourav S. Bhowmick, Shuigeng Zhou, Byron Choi",Proc. VLDB Endow. 10: 1861-1864 ,PVLDB,Unranked
+88,Summarizing Static and Dynamic Big Graphs.,2017,"Arijit Khan, Sourav S. Bhowmick, Francesco Bonchi",Proc. VLDB Endow. 10: 1981-1984 ,PVLDB,Unranked
+89,VISUAL: Simulation of Visual Subgraph Query Formulation to Enable Automated Performance Benchmarking.,2017,"Sourav S. Bhowmick, Huey-Eng Chua, Byron Choi, Curtis E. Dyreson",IEEE Trans. Knowl. Data Eng. 29: 1765-1778 ,TKDE,Unranked
+90,PANDA: toward partial topology-based search on large networks in a single machine.,2017,"Miao Xie, Sourav S. Bhowmick, Gao Cong, Qing Wang",VLDB J. 26: 203-228 ,VLDB,A*
+91,AutoG: a visual query autocompletion framework for graph databases.,2017,"Peipei Yi, Byron Choi, Sourav S. Bhowmick, Jianliang Xu",VLDB J. 26: 347-372 ,VLDB,A*
+92,TINTIN: Exploiting Target Features for Signaling Network Similarity Computation and Ranking.,2017,"Huey-Eng Chua, Sourav S. Bhowmick, Lisa Tucker-Kellogg",BCB 2017: 340-345,BCB,Unranked
+93,Conflict of Interest Declaration and Detection System in Heterogeneous Networks.,2017,"Siyuan Wu, Leong Hou U, Sourav S. Bhowmick, Wolfgang Gatterbauer",CIKM 2017: 2383-2386,CIKM,A
+94,Plug-and-Play Queries for Temporal Data Sockets.,2017,"Curtis E. Dyreson, Sourav S. Bhowmick",FQAS 2017: 124-136,FQAS,C
+95,PINOCCHIO: Probabilistic Influence-Based Location Selection over Moving Objects.,2017,"Meng Wang, Hui Li, Jiangtao Cui, Ke Deng, Sourav S. Bhowmick, Zhenhua Dong",ICDE 2017: 21-22,ICDE,A*
+96,TOTEM: Personal Tweets Summarization on Mobile Devices.,2017,"Jin Yao Chin, Sourav S. Bhowmick, Adam Jatowt",SIGIR 2017: 1305-1308,SIGIR,A*
+97,ASTERIX: Ambiguity and Missing Element-Aware XML Keyword Search Engine.,2017,"Ba Quan Truong, Sourav S. Bhowmick, Curtis E. Dyreson, Hong Jing Khok",SIGIR 2017: 1317-1320,SIGIR,A*
+98,Graph Querying Meets HCI: State of the Art and Future Directions.,2017,"Sourav S. Bhowmick, Byron Choi, Chengkai Li",SIGMOD Conference 2017: 1731-1736,SIGMOD,A*
+99,Time is What Prevents Everything from Happening at Once: Propagation Time-conscious Influence Maximization.,2017,"Hui Li, Sourav S. Bhowmick, Jiangtao Cui, Jianfeng Ma",CoRR abs/1705.10977 ,CORR,Unranked
+100,SURGE: Continuous Detection of Bursty Regions Over a Stream of Spatial Objects.,2017,"Kaiyu Feng, Tao Guo, Gao Cong, Sourav S. Bhowmick, Shuai Ma",CoRR abs/1709.09287 ,CORR,Unranked
+101,Data-driven Visual Graph Query Interface Construction and Maintenance: Challenges and Opportunities.,2016,"Sourav S. Bhowmick, Byron Choi, Curtis E. Dyreson",Proc. VLDB Endow. 9: 984-992 ,PVLDB,Unranked
+102,AutoG: A Visual Query Autocompletion Framework for Graph Databases.,2016,"Peipei Yi, Byron Choi, Sourav S. Bhowmick, Jianliang Xu",Proc. VLDB Endow. 9: 1505-1508 ,PVLDB,Unranked
+103,Clustering and Summarizing Protein-Protein Interaction Networks: A Survey.,2016,"Sourav S. Bhowmick, Boon-Siew Seah",IEEE Trans. Knowl. Data Eng. 28: 638-658 ,TKDE,Unranked
+104,The Past is Not a Foreign Country: Detecting Semantically Similar Terms across Time.,2016,"Yating Zhang, Adam Jatowt, Sourav S. Bhowmick, Katsumi Tanaka",IEEE Trans. Knowl. Data Eng. 28: 2793-2807 ,TKDE,Unranked
+105,PINOCCHIO: Probabilistic Influence-Based Location Selection over Moving Objects.,2016,"Meng Wang, Hui Li, Jiangtao Cui, Ke Deng, Sourav S. Bhowmick, Zhenhua Dong",IEEE Trans. Knowl. Data Eng. 28: 3068-3082 ,TKDE,Unranked
+106,TAPESTRY: Network-centric Target Prioritization in Disease-related Signaling Networks.,2016,"Huey-Eng Chua, Sourav S. Bhowmick, Jie Zheng, Lisa Tucker-Kellogg",BCB 2016: 108-117,BCB,Unranked
+107,Predictive Modeling of Drug Effects on Signaling Pathways in Diverse Cancer Cell Lines.,2016,"Shital Kumar Mishra, Sourav S. Bhowmick, Huey-Eng Chua, Jie Zheng",BCB 2016: 200-209,BCB,Unranked
+108,Structure-preserving subgraph query services.,2016,"Zhe Fan, Byron Choi, Qian Chen, Jianliang Xu, Haibo Hu, Sourav S. Bhowmick",ICDE 2016: 1532-1533,ICDE,A*
+109,TENET: A Machine Learning-Based System for Target Characterization in Signaling Networks.,2016,"Huey-Eng Chua, Sourav S. Bhowmick, Lisa Tucker-Kellogg, C. Forbes Dewey Jr.",ICDM Workshops 2016: 1288-1291,ICDM,A*
+110,FacetsViewer: A Tool for Multi-faceted Decomposition of Complex Networks.,2016,"Boon-Siew Seah, Sourav S. Bhowmick, Huey-Eng Chua, Mengxuan Chen, C. Forbes Dewey Jr.",ICDM Workshops 2016: 1320-1323,ICDM,A*
+111,Towards Best Region Search for Data Exploration.,2016,"Kaiyu Feng, Gao Cong, Sourav S. Bhowmick, Wen-Chih Peng, Chunyan Miao",SIGMOD Conference 2016: 1055-1070,SIGMOD,A*
+112,DUALSIM: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine.,2016,"Hyeonji Kim, Juneyoung Lee, Sourav S. Bhowmick, Wook-Shin Han, Jeong-Hoon Lee, Seongyun Ko, Moath H. A. Jarrah",SIGMOD Conference 2016: 1231-1245,SIGMOD,A*
+113,TENET: topological feature-based target characterization in signalling networks.,2015,"Huey-Eng Chua, Sourav S. Bhowmick, Lisa Tucker-Kellogg, C. Forbes Dewey Jr.",Bioinform. 31: 3306-3314 ,BIOINFORMATICS,Unranked
+114,Computational cell fate modelling for discovery of rewiring in apoptotic network for enhanced cancer drug sensitivity.,2015,"Shital K. Mishra, Sourav S. Bhowmick, Huey-Eng Chua, Fan Zhang, Jie Zheng",BMC Syst. Biol. 9: S4 ,BMCSB,Unranked
+115,PRISM: Concept-preserving Summarization of Top-K Social Image Search Results.,2015,"Boon-Siew Seah, Sourav S. Bhowmick, Aixin Sun",Proc. VLDB Endow. 8: 1868-1871 ,PVLDB,Unranked
+116,Virtual eXist-db: Liberating Hierarchical Queries from the Shackles of Access Path Dependence.,2015,"Curtis E. Dyreson, Sourav S. Bhowmick, Ryan Grapp",Proc. VLDB Endow. 8: 1932-1935 ,PVLDB,Unranked
+117,Authenticated Subgraph Similarity Searchin Outsourced Graph Databases.,2015,"Yun Peng, Zhe Fan, Byron Choi, Jianliang Xu, Sourav S. Bhowmick",IEEE Trans. Knowl. Data Eng. 27: 1838-1860 ,TKDE,Unranked
+118,Structure-Preserving Subgraph Query Services.,2015,"Zhe Fan, Byron Choi, Qian Chen, Jianliang Xu, Haibo Hu, Sourav S. Bhowmick",IEEE Trans. Knowl. Data Eng. 27: 2275-2290 ,TKDE,Unranked
+119,Conformity-aware influence maximization in online social networks.,2015,"Hui Li, Sourav S. Bhowmick, Aixin Sun, Jiangtao Cui",VLDB J. 24: 117-141 ,VLDB,A*
+120,"Omnia Mutantur, Nihil Interit: Connecting Past with Present by Finding Corresponding Terms across Time.",2015,"Yating Zhang, Adam Jatowt, Sourav S. Bhowmick, Katsumi Tanaka",ACL  2015: 645-655,ACL,A*
+121,Interruption-Sensitive Empty Result Feedback: Rethinking the Visual Query Feedback Paradigm for Semistructured Data.,2015,"Sourav S. Bhowmick, Curtis E. Dyreson, Byron Choi, Min-Hwee Ang",CIKM 2015: 723-732,CIKM,A
+122,Asymmetric structure-preserving subgraph queries for large graphs.,2015,"Zhe Fan, Byron Choi, Jianliang Xu, Sourav S. Bhowmick",ICDE 2015: 339-350,ICDE,A*
+123,ViSual: An HCI-inspired simulator for blending visual subgraph query construction and processing.,2015,"Sourav S. Bhowmick, Huey-Eng Chua, Benji Thian, Byron Choi",ICDE 2015: 1480-1483,ICDE,A*
+124,PIGEON: Progress indicator for subgraph queries.,2015,"Xiaojing Xie, Zhe Fan, Byron Choi, Peipei Yi, Sourav S. Bhowmick, Shuigeng Zhou",ICDE 2015: 1492-1495,ICDE,A*
+125,DaVinci: Data-driven visual interface construction for subgraph search in graph databases.,2015,"Jinbo Zhang, Sourav S. Bhowmick, Hong H. Nguyen, Byron Choi, Feida Zhu",ICDE 2015: 1500-1503,ICDE,A*
+126,GetReal: Towards Realistic Selection of Influence Maximization Strategies in Competitive Networks.,2015,"Hui Li, Sourav S. Bhowmick, Jiangtao Cui, Yunjun Gao, Jianfeng Ma",SIGMOD Conference 2015: 1525-1537,SIGMOD,A*
+127,DualAligner: a dual alignment-based strategy to align protein interaction networks.,2014,"Boon-Siew Seah, Sourav S. Bhowmick, C. Forbes Dewey Jr.",Bioinform. 30: 2619-2626 ,BIOINFORMATICS,Unranked
+128,Affinity-driven blog cascade analysis and prediction.,2014,"Hui Li, Sourav S. Bhowmick, Aixin Sun, Jiangtao Cui",Data Min. Knowl. Discov. 28: 442-474 ,DATAMINE,Unranked
+129,Side-Effect Estimation: A Filtering Approach to the View Update Problem.,2014,"Yun Peng, Byron Choi, Jianliang Xu, Haibo Hu, Sourav S. Bhowmick",IEEE Trans. Knowl. Data Eng. 26: 2307-2322 ,TKDE,Unranked
+130,Towards Efficient Authenticated Subgraph Query Service in Outsourced Graph Databases.,2014,"Zhe Fan, Yun Peng, Byron Choi, Jianliang Xu, Sourav S. Bhowmick",IEEE Trans. Serv. Comput. 7: 696-713 ,TSC,Unranked
+131,QUBLE: towards blending interactive visual subgraph search queries on large networks.,2014,"Ho Hoang Hung, Sourav S. Bhowmick, Ba Quan Truong, Byron Choi, Shuigeng Zhou",VLDB J. 23: 401-426 ,VLDB,A*
+132,One feature doesn't fit all: characterizing topological features of targets in signaling networks.,2014,"Huey-Eng Chua, Sourav S. Bhowmick, Lisa Tucker-Kellogg",BCB 2014: 426-435,BCB,Unranked
+133,INGOT: Towards network-driven in silico combination therapy.,2014,"Sourav S. Bhowmick, Huey-Eng Chua, Jie Zheng",BigComp 2014: 34-39,BIGCOMP,Unranked
+134,DB ⋈ HCI: Towards Bridging the Chasm between Graph Data Management and HCI.,2014,Sourav S. Bhowmick,DEXA  2014: 1-11,DEXA,C
+135,PRISM: concept-preserving social image search results summarization.,2014,"Boon-Siew Seah, Sourav S. Bhowmick, Aixin Sun",SIGIR 2014: 737-746,SIGIR,A*
+136,In search of influential event organizers in online social networks.,2014,"Kaiyu Feng, Gao Cong, Sourav S. Bhowmick, Shuai Ma",SIGMOD Conference 2014: 63-74,SIGMOD,A*
+137,Querying virtual hierarchies using virtual prefix-based numbers.,2014,"Curtis E. Dyreson, Sourav S. Bhowmick, Ryan Grapp",SIGMOD Conference 2014: 791-802,SIGMOD,A*
+138,"Why not, WINE?",2014,"Sourav S. Bhowmick, Aixin Sun, Ba Quan Truong",WWW  2014: 83-86,WWW,A*
+139,Summarizing social image search results.,2014,"Boon-Siew Seah, Sourav S. Bhowmick, Aixin Sun",WWW  2014: 369-370,WWW,A*
+140,"Database Systems for Advanced Applications - 19th International Conference, DASFAA 2014, Bali, Indonesia, April 21-24, 2014. Proceedings, Part I.",2014,"Sourav S. Bhowmick, Curtis E. Dyreson, Christian S. Jensen, Mong-Li Lee, Agus Muliantara, Bernhard Thalheim","Lecture Notes in Computer Science 8421, Springer 2014, ISBN 978-3-319-05809-2 ",DASFAA,B
+141,"Database Systems for Advanced Applications - 19th International Conference, DASFAA 2014, Bali, Indonesia, April 21-24, 2014. Proceedings, Part II.",2014,"Sourav S. Bhowmick, Curtis E. Dyreson, Christian S. Jensen, Mong-Li Lee, Agus Muliantara, Bernhard Thalheim","Lecture Notes in Computer Science 8422, Springer 2014, ISBN 978-3-319-05812-2 ",DASFAA,B
+142,Stars on steroids: Fast evaluation of multi-source star twig queries in path materialization-based XML databases.,2013,"Erwin Leonardi, Sourav S. Bhowmick, Fengrong Li",Data Knowl. Eng. 88: 179-205 ,DKE,Unranked
+143,Incremental Maintenance of the Minimum Bisimulation of Cyclic Graphs.,2013,"Jintian Deng, Byron Choi, Jianliang Xu, Haibo Hu, Sourav S. Bhowmick",IEEE Trans. Knowl. Data Eng. 25: 2536-2550 ,TKDE,Unranked
+144,VOGUE: Towards A Visual Interaction-aware Graph Query Processing Framework.,2013,"Sourav S. Bhowmick, Byron Choi, Shuigeng Zhou",CIDR 2013,CIDR,A
+145,MustBlend: Blending Visual Multi-Source Twig Query Formulation and Query Processing in RDBMS.,2013,"Ba Quan Truong, Sourav S. Bhowmick",DASFAA  2013: 228-243,DASFAA,B
+146,CINEMA: conformity-aware greedy algorithm for influence maximization in online social networks.,2013,"Hui Li, Sourav S. Bhowmick, Aixin Sun",EDBT 2013: 323-334,EDBT,A
+147,"Why not, WINE?: towards answering why-not questions in social image search.",2013,"Sourav S. Bhowmick, Aixin Sun, Ba Quan Truong",ACM Multimedia 2013: 917-926,MM,Unranked
+148,MESSIAH: missing element-conscious SLCA nodes search in XML data.,2013,"Ba Quan Truong, Sourav S. Bhowmick, Curtis E. Dyreson, Aixin Sun",SIGMOD Conference 2013: 37-48,SIGMOD,A*
+149,QUBLE: blending visual subgraph query formulation with query processing on large networks.,2013,"Ho Hoang Hung, Sourav S. Bhowmick, Ba Quan Truong, Byron Choi, Shuigeng Zhou",SIGMOD Conference 2013: 1097-1100,SIGMOD,A*
+150,FACETS: multi-faceted functional decomposition of protein interaction networks.,2012,"Boon-Siew Seah, Sourav S. Bhowmick, C. Forbes Dewey Jr.",Bioinform. 28: 2624-2631 ,BIOINFORMATICS,Unranked
+151,FUSE: a profit maximization approach for functional summarization of biological networks.,2012,"Boon-Siew Seah, Sourav S. Bhowmick, C. Forbes Dewey Jr., Hanry Yu",BMC Bioinform. 13: S10 ,BMCBI,Unranked
+152,ANDES: efficient evaluation of NOT-twig queries in relational databases.,2012,"Kheng Hong Soh, Ba Quan Truong, Sourav S. Bhowmick",VLDB J. 21: 889-914 ,VLDB,A*
+153,STEROID: in silico heuristic target combination identification for disease-related signaling networks.,2012,"Huey-Eng Chua, Sourav S. Bhowmick, Lisa Tucker-Kellogg, C. Forbes Dewey Jr.",BCB 2012: 4-11,BCB,Unranked
+154,Efficient algorithms for generalized subgraph query processing.,2012,"Wenqing Lin, Xiaokui Xiao, James Cheng, Sourav S. Bhowmick",CIKM 2012: 325-334,CIKM,A
+155,Stars on Steroids: Fast Evaluation of Multi-source Star Twig Queries in RDBMS.,2012,"Erwin Leonardi, Sourav S. Bhowmick, Fengrong Li",DASFAA  2012: 110-125,DASFAA,B
+156,SINBAD: Towards Structure-Independent Querying of Common Neighbors in XML Databases.,2012,"Ba Quan Truong, Sourav S. Bhowmick, Curtis E. Dyreson",DASFAA  2012: 156-171,DASFAA,B
+157,"Storing, Querying, Summarizing, and Comparing Molecular Networks: The State-of-the-Art.",2012,"Sourav S. Bhowmick, Boon-Siew Seah",DASFAA  2012: 330-331,DASFAA,B
+158,Integrating historical noisy answers for improving data utility under differential privacy.,2012,"Shixi Chen, Shuigeng Zhou, Sourav S. Bhowmick",EDBT 2012: 62-73,EDBT,A
+159,PRAGUE: Towards Blending Practical Visual Subgraph Query Formulation and Query Processing.,2012,"Changjiu Jin, Sourav S. Bhowmick, Byron Choi, Shuigeng Zhou",ICDE 2012: 222-233,ICDE,A*
+160,Querying XML Data: As You Shape It.,2012,"Curtis E. Dyreson, Sourav S. Bhowmick",ICDE 2012: 642-653,ICDE,A*
+161,In silico identification of endo16 regulators in the sea urchin endomesoderm gene regulatory network.,2012,"Huey-Eng Chua, Sourav S. Bhowmick, Lisa Tucker-Kellogg, Qing Zhao, C. Forbes Dewey Jr., Hanry Yu",IHI 2012: 131-140,IHI,Unranked
+162,FUSE: a system for data-driven multi-level functional summarization of protein interaction networks.,2012,"Boon-Siew Seah, Sourav S. Bhowmick, C. Forbes Dewey Jr., Hanry Yu",IHI 2012: 847-850,IHI,Unranked
+163,PANI: an interactive data-driven tool for target prioritization in signaling networks.,2012,"Huey-Eng Chua, Sourav S. Bhowmick, Lisa Tucker-Kellogg, Yingqi Wang, C. Forbes Dewey Jr., Hanry Yu",IHI 2012: 851-854,IHI,Unranked
+164,Content is still king: the effect of neighbor voting schemes on tag relevance for social image retrieval.,2012,"Ba Quan Truong, Aixin Sun, Sourav S. Bhowmick",ICMR 2012: 9,MIR,Unranked
+165,CASIS: a system for concept-aware social image search.,2012,"Ba Quan Truong, Aixin Sun, Sourav S. Bhowmick",WWW  2012: 425-428,WWW,A*
+166,AffRank: Affinity-driven ranking of products in online social rating networks.,2011,"Hui Li, Sourav S. Bhowmick, Aixin Sun",J. Assoc. Inf. Sci. Technol. 62: 1345-1359 ,JASIS,Unranked
+167,Tag-based social image retrieval: An empirical evaluation.,2011,"Aixin Sun, Sourav S. Bhowmick, Khanh Tran Nam Nguyen, Ge Bai",J. Assoc. Inf. Sci. Technol. 62: 2364-2381 ,JASIS,Unranked
+168,Fuse: towards multi-level functional summarization of protein interaction networks.,2011,"Boon-Siew Seah, Sourav S. Bhowmick, C. Forbes Dewey Jr., Hanry Yu",BCB 2011: 2-11,BCB,Unranked
+169,Pani: a novel algorithm for fast discovery of putative target nodes in signaling networks.,2011,"Huey-Eng Chua, Qing Zhao, Sourav S. Bhowmick, C. Forbes Dewey Jr., Lisa Tucker-Kellogg, Hanry Yu",BCB 2011: 284-288,BCB,Unranked
+170,CASINO: towards conformity-aware social influence analysis in online social networks.,2011,"Hui Li, Sourav S. Bhowmick, Aixin Sun",CIKM 2011: 1007-1012,CIKM,A
+171,Managing Social Image Tags: Methods and Applications.,2011,"Aixin Sun, Sourav S. Bhowmick",DASFAA  2011: 463-464,DASFAA,B
+172,Efficient Evaluation of NOT-Twig Queries in Tree-Unaware Relational Databases.,2011,"Kheng Hong Soh, Sourav S. Bhowmick",DASFAA  2011: 511-527,DASFAA,B
+173,Optimizing Incremental Maintenance of Minimal Bisimulation of Cyclic Graphs.,2011,"Jintian Deng, Byron Choi, Jianliang Xu, Sourav S. Bhowmick",DASFAA  2011: 543-557,DASFAA,B
+174,Efficient maintenance of common keys in archives of continuous query results from deep websites.,2011,"Fajar Ardian, Sourav S. Bhowmick",ICDE 2011: 637-648,ICDE,A*
+175,Social image tag recommendation by concept matching.,2011,"Aixin Sun, Sourav S. Bhowmick, Jun-An Chong",ACM Multimedia 2011: 1181-1184,MM,Unranked
+176,GBLENDER: visual subgraph query formulation meets query processing.,2011,"Changjiu Jin, Sourav S. Bhowmick, Xiaokui Xiao, Byron Choi, Shuigeng Zhou",SIGMOD Conference 2011: 1327-1330,SIGMOD,A*
+177,Quantifying Visual-Representativeness of Social Image Tags Using Image Tag Clarity.,2011,"Aixin Sun, Sourav S. Bhowmick",Social Media Modeling and Computing 2011: 3-23,DAGLIB,Unranked
+178,Using XMorph to Transform XML Data.,2010,"Curtis E. Dyreson, Sourav S. Bhowmick, Kirankanth Mallampalli",Proc. VLDB Endow. 3: 1541-1544 ,PVLDB,Unranked
+179,iAVATAR: An Interactive Tool for Finding and Visualizing Visual-Representative Tags in Image Search.,2010,"Aixin Sun, Sourav S. Bhowmick, Yao Liu",Proc. VLDB Endow. 3: 1609-1612 ,PVLDB,Unranked
+180,Affinity-driven prediction and ranking of products in online product review sites.,2010,"Hui Li, Sourav S. Bhowmick, Aixin Sun",CIKM 2010: 1745-1748,CIKM,A
+181,Efficient Database-Driven Evaluation of Security Clearance for Federated Access Control of Dynamic XML Documents.,2010,"Erwin Leonardi, Sourav S. Bhowmick, Mizuho Iwaihara",DASFAA  2010: 299-306,DASFAA,B
+182,BIDEL: An XML-Based System for Effective Fast Change Detection of Genomic and Proteomic Data.,2010,"Song Yang, Sourav S. Bhowmick",DASFAA  2010: 472-476,DASFAA,B
+183,"XMorph: A shape-polymorphic, domain-specific XML data transformation language.",2010,"Curtis E. Dyreson, Sourav S. Bhowmick, Aswani Rao Jannu, Kirankanth Mallampalli, Shuohao Zhang",ICDE 2010: 844-847,ICDE,A*
+184,Quantifying tag representativeness of visual content of social images.,2010,"Aixin Sun, Sourav S. Bhowmick",ACM Multimedia 2010: 471-480,MM,Unranked
+185,The Steady States and Dynamics of Urokinase-mediated Plasmin Activation.,2010,"Lakshmi Venkatraman, Hanry Yu, Sourav S. Bhowmick, C. Forbes Dewey Jr., Lisa Tucker-Kellogg",Pacific Symposium on Biocomputing 2010: 190-199,PSB,National
+186,GBLENDER: towards blending visual query formulation and query processing in graph databases.,2010,"Changjiu Jin, Sourav S. Bhowmick, Xiaokui Xiao, James Cheng, Byron Choi",SIGMOD Conference 2010: 111-122,SIGMOD,A*
+187,COWES: Web user clustering based on evolutionary web sessions.,2009,"Ling Chen, Sourav S. Bhowmick, Wolfgang Nejdl",Data Knowl. Eng. 68: 867-885 ,DKE,Unranked
+188,NEAR-Miner: Mining Evolution Associations of Web Site Directories for Efficient Maintenance of Web Archives.,2009,"Ling Chen, Sourav S. Bhowmick, Wolfgang Nejdl",Proc. VLDB Endow. 2: 1150-1161 ,PVLDB,Unranked
+189,Blog cascade affinity: analysis and prediction.,2009,"Hui Li, Sourav S. Bhowmick, Aixin Sun",CIKM 2009: 1117-1126,CIKM,A
+190,Towards non-directional Xpath evaluation in a RDBMS.,2009,"Sourav S. Bhowmick, Curtis E. Dyreson, Erwin Leonardi, Zhifeng Ng",CIKM 2009: 1501-1504,CIKM,A
+191,On the Discovery of Conserved XML Query Patterns for Evolution-Conscious Caching.,2009,Sourav S. Bhowmick,DASFAA 2009: 527-542,DASFAA,B
+192,In the Search of NECTARs from Evolutionary Trees.,2009,"Ling Chen, Sourav S. Bhowmick",DASFAA 2009: 714-729,DASFAA,B
+193,XBLEND: Visual XML Query Formulation Meets Query Processing.,2009,"Zhou Yong, Sourav S. Bhowmick, Erwin Leonardi, Klarinda G. Widjanarko",ICDE 2009: 1535-1538,ICDE,A*
+194,Image tag clarity: in search of visual-representative tags for social images.,2009,"Aixin Sun, Sourav S. Bhowmick",WSM@MM 2009: 19-26,MM,Unranked
+195,"Database and Expert Systems Applications, 20th International Conference, DEXA 2009, Linz, Austria, August 31 - September 4, 2009. Proceedings.",2009,"Sourav S. Bhowmick, Josef Küng, Roland R. Wagner","Lecture Notes in Computer Science 5690, Springer 2009, ISBN 978-3-642-03572-2 ",DEXA,C
+196,Schema and web data management.,2008,"Sanjay Kumar Madria, Sourav S. Bhowmick",Data Knowl. Eng. 65: 175-176 ,DKE,Unranked
+197,An XML Schema integration and query mechanism system.,2008,"Sanjay Madria, Kalpdrum Passi, Sourav S. Bhowmick",Data Knowl. Eng. 65: 266-303 ,DKE,Unranked
+198,"Web Evolution Management: Detection, Monitoring, and Mining.",2008,"Sourav S. Bhowmick, Sanjay Madria",APWeb 2008: 39-40,APWEB,C
+199,Characterizing and predicting community members from evolutionary and heterogeneous networks.,2008,"Qiankun Zhao, Sourav S. Bhowmick, Xin Zheng, Kai Yi",CIKM 2008: 309-318,CIKM,A
+200,XML Data Integration Based on Content and Structure Similarity Using Keys.,2008,"Waraporn Viyanon, Sanjay Kumar Madria, Sourav S. Bhowmick",OTM Conferences  2008: 484-493,OTM,Unranked
+201,"Database and Expert Systems Applications, 19th International Conference, DEXA 2008, Turin, Italy, September 1-5, 2008. Proceedings.",2008,"Sourav S. Bhowmick, Josef Küng, Roland R. Wagner","Lecture Notes in Computer Science 5181, Springer 2008, ISBN 978-3-540-85653-5 ",DEXA,C
+202,Web Data and Schema Management.,2007,"Sourav S. Bhowmick, Sanjay Kumar Madria, Sharma Chakravarthy",Data Knowl. Eng. 60: 257-259 ,DKE,Unranked
+203,DTD-Diff: A change detection algorithm for DTDs.,2007,"Erwin Leonardi, Tran T. Hoai, Sourav S. Bhowmick, Sanjay Madria",Data Knowl. Eng. 61: 384-402 ,DKE,Unranked
+204,"Mapping, indexing and querying of MPEG-7 descriptors in RDBMS with IXMDB.",2007,"Yang Chu, Liang-Tien Chia, Sourav S. Bhowmick",Data Knowl. Eng. 63: 224-257 ,DKE,Unranked
+205,A transaction model and multiversion concurrency control for mobile database systems.,2007,"Sanjay Kumar Madria, Mohammed Baseer, Vijay Kumar, Sourav S. Bhowmick",Distributed Parallel Databases 22: 165-196 ,DPD,Unranked
+206,Efficient processing of XPath queries using indexes.,2007,"Sanjay Madria, Yan Chen, Kalpdrum Passi, Sourav S. Bhowmick",Inf. Syst. 32: 131-159 ,IS,Unranked
+207,Efficient evaluation of high-selective xml twig patterns with parent child edges in tree-unaware rdbms.,2007,"Sourav S. Bhowmick, Erwin Leonardi, Hongmei Sun",CIKM 2007: 673-682,CIKM,A
+208,BioDIFF: An Effective Fast Change Detection Algorithm for Biological Annotations.,2007,"Yang Song, Sourav S. Bhowmick, C. Forbes Dewey Jr.",DASFAA 2007: 275-287,DASFAA,B
+209,Efficient Support for Ordered XPath Processing in Tree-Unaware Commercial Relational Databases.,2007,"Boon-Siew Seah, Klarinda G. Widjanarko, Sourav S. Bhowmick, Byron Choi, Erwin Leonardi",DASFAA 2007: 793-806,DASFAA,B
+210,Efficient XML Query Processing in RDBMS Using GUI-Driven Prefetching in a Single-User Environment.,2007,"Sandeep Prakash, Sourav S. Bhowmick, Klarinda G. Widjanarko, C. Forbes Dewey Jr.",DASFAA 2007: 819-833,DASFAA,B
+211,Efficient Evaluation of Nearest Common Ancestor in XML Twig Queries Using Tree-Unaware RDBMS.,2007,"Klarinda G. Widjanarko, Erwin Leonardi, Sourav S. Bhowmick",DEXA 2007: 617-628,DEXA,C
+212,XANADUE: a system for detecting changes to XML data in tree-unaware relational databases.,2007,"Erwin Leonardi, Sourav S. Bhowmick",SIGMOD Conference 2007: 1137-1140,SIGMOD,A*
+213,Mirror site maintenance based on evolution associations of web directories.,2007,"Ling Chen, Sourav S. Bhowmick, Wolfgang Nejdl",WWW 2007: 1297-1298,WWW,A*
+214,Efficient recursive XML query processing using relational database systems.,2006,"Sandeep Prakash, Sourav S. Bhowmick, Sanjay Madria",Data Knowl. Eng. 58: 207-242 ,DKE,Unranked
+215,FRACTURE mining: Mining frequently and concurrently mutating structures from historical XML documents.,2006,"Ling Chen, Sourav S. Bhowmick, Liang-Tien Chia",Data Knowl. Eng. 59: 320-347 ,DKE,Unranked
+216,Xandy: A scalable change detection technique for ordered XML documents using relational databases.,2006,"Erwin Leonardi, Sourav S. Bhowmick",Data Knowl. Eng. 59: 476-507 ,DKE,Unranked
+217,XML structural delta mining: Issues and challenges.,2006,"Qiankun Zhao, Ling Chen, Sourav S. Bhowmick, Sanjay Madria",Data Knowl. Eng. 59: 627-651 ,DKE,Unranked
+218,COWES: Clustering Web Users Based on Historical Web Sessions.,2006,"Ling Chen, Sourav S. Bhowmick, Jinyan Li",DASFAA 2006: 541-556,DASFAA,B
+219,DTD-Diff: A Change Detection Algorithm for DTDs.,2006,"Erwin Leonardi, Tran T. Hoai, Sourav S. Bhowmick, Sanjay Madria",DASFAA 2006: 817-827,DASFAA,B
+220,A Tale of Two Approaches: Query Performance Study of XML Storage Strategies in Relational Databases.,2006,"Sandeep Prakash, Sourav S. Bhowmick",DEXA 2006: 149-160,DEXA,C
+221,Oxone: A Scalable Solution for Detecting Superior Quality Deltas on Ordered Large XML Documents.,2006,"Erwin Leonardi, Sourav S. Bhowmick",ER 2006: 196-211,ER,A
+222,PRIVATE-IYE: A Framework for Privacy Preserving Data Integration.,2006,"Sourav S. Bhowmick, Le Gruenwald, Mizuho Iwaihara, Somchai Chatvichienchai",ICDE Workshops 2006: 91,ICDE,A*
+223,"Every Click You Make, IWill Be Fetching It: Efficient XML Query Processing in RDMS Using GUI-driven Prefetching.",2006,"Sourav S. Bhowmick, Sandeep Prakash",ICDE 2006: 152,ICDE,A*
+224,Event detection from evolution of click-through data.,2006,"Qiankun Zhao, Tie-Yan Liu, Sourav S. Bhowmick, Wei-Ying Ma",KDD 2006: 484-493,KDD,A*
+225,Cleopatra: Evolutionary Pattern-Based Clustering of Web Usage Data.,2006,"Qiankun Zhao, Sourav S. Bhowmick, Le Gruenwald",PAKDD 2006: 323-333,PAKDD,B
+226,iWed: An Integrated Multigraph Cut-Based Approach for Detecting Events from a Website.,2006,"Qiankun Zhao, Sourav S. Bhowmick, Aixin Sun",PAKDD 2006: 351-360,PAKDD,B
+227,Mining Temporal Indirect Associations.,2006,"Ling Chen, Sourav S. Bhowmick, Jinyan Li",PAKDD 2006: 425-434,PAKDD,B
+228,Time-dependent semantic similarity measure of queries using historical click-through data.,2006,"Qiankun Zhao, Steven C. H. Hoi, Tie-Yan Liu, Sourav S. Bhowmick, Michael R. Lyu, Wei-Ying Ma",WWW 2006: 543-552,WWW,A*
+229,Research Issues in Web Structural Delta Mining.,2006,"Qiankun Zhao, Sourav S. Bhowmick, Sanjay Madria",Foundations and Novel Approaches in Data Mining 2006: 272-289,SCI,Unranked
+230,Bio2X: a rule-based approach for semi-automatic transformation of semi-structured biological data to XML.,2005,"Yang Song, Sourav S. Bhowmick, Sanjay Madria",Data Knowl. Eng. 52: 249-271 ,DKE,Unranked
+231,DEQUE: querying the deep web.,2005,"Denis Shestakov, Sourav S. Bhowmick, Ee-Peng Lim",Data Knowl. Eng. 52: 273-311 ,DKE,Unranked
+232,Biological Data Management (BIDM 2003).,2005,"Sourav S. Bhowmick, Hasan M. Jamil",Data Knowl. Eng. 53: 1-2 ,DKE,Unranked
+233,HW-STALKER: A machine learning-based system for transforming QURE-Pagelets to XML.,2005,"Vladimir Kovalev, Sourav S. Bhowmick, Sanjay Madria",Data Knowl. Eng. 54: 241-276 ,DKE,Unranked
+234,Mining conserved XML query paths for dynamic-conscious caching.,2005,"Qiankun Zhao, Sourav S. Bhowmick, Le Gruenwald",CIKM 2005: 219-220,CIKM,A
+235,WAM-Miner: in the search of web access motifs from historical web log data.,2005,"Qiankun Zhao, Sourav S. Bhowmick, Le Gruenwald",CIKM 2005: 421-428,CIKM,A
+236,Detecting changes on unordered XML documents using relational databases: a schema-conscious approach.,2005,"Erwin Leonardi, Sourav S. Bhowmick",CIKM 2005: 509-516,CIKM,A
+237,Xandy: Detecting Changes on Large Unordered XML Documents Using Relational Databases.,2005,"Erwin Leonardi, Sourav S. Bhowmick, Sanjay Madria",DASFAA 2005: 711-723,DASFAA,B
+238,FASST Mining: Discovering Frequently Changing Semantic Structure from Versions of Unordered XML Documents.,2005,"Qiankun Zhao, Sourav S. Bhowmick",DASFAA 2005: 724-735,DASFAA,B
+239,Mining Positive and Negative Association Rules from XML Query Patterns for Caching.,2005,"Ling Chen, Sourav S. Bhowmick, Liang-Tien Chia",DASFAA 2005: 736-747,DASFAA,B
+240,SM3+: An XML Database Solution for the Management of MPEG-7 Descriptions.,2005,"Yang Chu, Liang-Tien Chia, Sourav S. Bhowmick",DEXA 2005: 134-144,DEXA,C
+241,Detecting Semantically Correct Changes to Relevant Unordered Hidden Web Data.,2005,"Vladimir Kovalev, Sourav S. Bhowmick",DEXA 2005: 395-405,DEXA,C
+242,Detecting Changes to Hybrid XML Documents Using Relational Databases.,2005,"Erwin Leonardi, Sri L. Budiman, Sourav S. Bhowmick",DEXA 2005: 482-492,DEXA,C
+243,Event Composition and Detection in Data Stream Management Systems.,2005,"Mukesh K. Mohania, Dhruv Swamini, Shyam K. Gupta, Sourav S. Bhowmick, Tharam S. Dillon",DEXA 2005: 756-765,DEXA,C
+244,Web Data Management: A Warehouse Approach.,2004,"Sourav S. Bhowmick, Wee Keong Ng, Sanjay Kumar Madria","Springer 2004, ISBN 978-0-387-00175-3",SANJAYKUMARMADRIA.HTML,Unranked
+245,BioDIFF: an effective fast change detection algorithm for genomic and proteomic data.,2004,"Yang Song, Sourav S. Bhowmick",CIKM 2004: 146-147,CIKM,A
+246,Discovering frequently changing structures from historical structural deltas of unordered XML.,2004,"Qiankun Zhao, Sourav S. Bhowmick, Mukesh K. Mohania, Yahiko Kambayashi",CIKM 2004: 188-197,CIKM,A
+247,A Global-to-Local Rewriting Querying Mechanism Using Semantic Mapping for XML Schema Integration.,2004,"Kalpdrum Passi, Eric Chaudhry, Sanjay Madria, Sourav S. Bhowmick",CoopIS/DOA/ODBASE  2004: 927-944,COOPIS,Unranked
+248,DiffXML: Change Detection in XML Data.,2004,"Yan Chen, Sanjay Madria, Sourav S. Bhowmick",DASFAA 2004: 289-301,DASFAA,B
+249,Mining Maximal Frequently Changing Subtree Patterns from XML Documents.,2004,"Ling Chen, Sourav S. Bhowmick, Liang-Tien Chia",DaWaK 2004: 68-76,DAWAK,Unranked
+250,Discovering Pattern-Based Dynamic Structures from Versions of Unordered XML Documents.,2004,"Qiankun Zhao, Sourav S. Bhowmick, Sanjay Madria",DaWaK 2004: 77-86,DAWAK,Unranked
+251,SUCXENT: An Efficient Path-Based Approach to Store and Query XML Documents.,2004,"Sandeep Prakash, Sourav S. Bhowmick, Sanjay Madria",DEXA 2004: 285-295,DEXA,C
+252,Detecting Content Changes on Ordered XML Documents Using Relational Databases.,2004,"Erwin Leonardi, Sourav S. Bhowmick, T. S. Dharma, Sanjay Madria",DEXA 2004: 580-590,DEXA,C
+253,HW-STALKER: A Machine Learning-Based Approach to Transform Hidden Web Data to XML.,2004,"Vladimir Kovalev, Sourav S. Bhowmick, Sanjay Madria",DEXA 2004: 936-946,DEXA,C
+254,Efficient Recursive XML Query Processing in Relational Database Systems.,2004,"Sandeep Prakash, Sourav S. Bhowmick, Sanjay Madria",ER 2004: 493-510,ER,A
+255,"Looking at mapping, indexing & querying of MPEG-7 descriptors in RDBMS with SM3.",2004,"Yang Chu, Liang-Tien Chia, Sourav S. Bhowmick",MMDB 2004: 55-64,MMDB,Unranked
+256,VRules: an effective association-based classifier for videos.,2004,"Ling Chen, Sourav S. Bhowmick, Liang-Tien Chia",MMDB 2004: 85-93,MMDB,Unranked
+257,Mining Association Rules from Structural Deltas of Historical XML Documents.,2004,"Ling Chen, Sourav S. Bhowmick, Liang-Tien Chia",PAKDD 2004: 452-457,PAKDD,B
+258,Mining History of Changes to Web Access Patterns.,2004,"Qiankun Zhao, Sourav S. Bhowmick",PKDD 2004: 521-523,PKDD,Unranked
+259,Representation of Web Data in A Web Warehouse.,2003,"Sourav S. Bhowmick, Sanjay Madria, Wee Keong Ng",Comput. J. 46: 229-262 ,CJ,Unranked
+260,Constraint-driven join processing in a Web Warehouse.,2003,"Sourav S. Bhowmick, Wee Keong Ng, Sanjay Kumar Madria",Data Knowl. Eng. 45: 33-78 ,DKE,Unranked
+261,Formulating disjunctive coupling queries in a web warehouse.,2003,"Sourav S. Bhowmick, Ang Kho Kiong, Sanjay Madria",Data Knowl. Eng. 46: 1-40 ,DKE,Unranked
+262,Deriving and verifying statistical distribution of a hyperlink-based Web page quality metric.,2003,"Devanshu Dhyani, Sourav S. Bhowmick, Wee Keong Ng",Data Knowl. Eng. 46: 291-315 ,DKE,Unranked
+263,Detecting and Representing Relevant Web Deltas in WHOWEDA.,2003,"Sourav S. Bhowmick, Sanjay Kumar Madria, Wee Keong Ng",IEEE Trans. Knowl. Data Eng. 15: 423-441 ,TKDE,Unranked
+264,HyperThesis: the gRNA spell on the curse of bioinformatics applications integration.,2003,"Sourav S. Bhowmick, Vivek Vedagiri, Amey V. Laud",CIKM 2003: 402-409,CIKM,A
+265,Incremental Query Answering Using a Multi-layered Database Model in a Mobile Computing Environment.,2003,"Sanjay Kumar Madria, Yongjian Fu, Sourav S. Bhowmick",DEXA 2003: 350-359,DEXA,C
+266,Data Management in Metaboloinformatics: Issues and Challenges.,2003,"Sourav S. Bhowmick, Dadabhai T. Singh, Amey V. Laud",DEXA 2003: 392-402,DEXA,C
+267,Modelling and Predicting Web Page Accesses Using Markov Processes.,2003,"Devanshu Dhyani, Sourav S. Bhowmick, Wee Keong Ng",DEXA Workshops 2003: 332-336,DEXAW,Unranked
+268,Storing DTD-Conscious XML Data in XEDY.,2003,"Sourav S. Bhowmick, Tay Khim Wee, Erwin Leonardi, Sanjay Madria",EC-Web 2003: 270-280,ECWEB,Unranked
+269,VACXENE: A User-Friendly Visual Synthetic XML Generator.,2003,"Khoo Boon Tian, Sourav S. Bhowmick, Sanjay Madria",ER  2003: 355-365,ER,A
+270,AXIS: A XML Schema Integration System.,2003,"Bipin C. Sakamuri, Sanjay Madria, Kalpdrum Passi, Eric Chaudhry, Mukesh K. Mohania, Sourav S. Bhowmick",ER 2003: 576-578,ER,A
+271,"XomatiQ: Living With Genomes, Proteomes, Relations and a Little Bit of XML.",2003,"Sourav S. Bhowmick, Pedro Cruz, Amey V. Laud",ICDE 2003: 857-868,ICDE,A*
+272,A Multi-layered Database Model for Mobile Environment.,2003,"Sanjay Kumar Madria, Yongjian Fu, Sourav S. Bhowmick",Mobile Data Management 2003: 381-385,MDM,B
+273,A survey of Web metrics.,2002,"Devanshu Dhyani, Wee Keong Ng, Sourav S. Bhowmick",ACM Comput. Surv. 34: 469-503 ,CSUR,Unranked
+274,What can a web bag discover for you?,2002,"Sourav S. Bhowmick, Sanjay Madria, Wee Keong Ng",Data Knowl. Eng. 43: 79-119 ,DKE,Unranked
+275,Anatomy of the coupling query in a web warehouse.,2002,"Sourav S. Bhowmick, Wee Keong Ng, Sanjay Madria, Ee-Peng Lim",Inf. Softw. Technol. 44: 513-539 ,INFSOF,Unranked
+276,Mobile data and transaction management.,2002,"Sanjay Kumar Madria, Mukesh K. Mohania, Sourav S. Bhowmick, Bharat K. Bhargava",Inf. Sci. 141: 279-309 ,ISCI,Unranked
+277,A Multi-version Transaction Model to Improve Data Availability in Mobile Computing.,2002,"Sanjay Kumar Madria, Mohammed Baseer, Sourav S. Bhowmick",OTM 2002: 322-338,COOPIS,Unranked
+278,Constraint-Free Join Processing on Hyperlinked Web Data.,2002,"Sourav S. Bhowmick, Wee Keong Ng, Sanjay Madria, Mukesh K. Mohania",DaWaK 2002: 255-264,DAWAK,Unranked
+279,Deriving and Verifying Statistical Distribution of a Hyperlink-Based Web Page Quality Metric.,2002,"Devanshu Dhyani, Sourav S. Bhowmick, Wee Keong Ng",DEXA 2002: 19-28,DEXA,C
+280,Efficient Processing of XPath Queries Using Indexes.,2002,"Yan Chen, Sanjay Madria, Kalpdrum Passi, Sourav S. Bhowmick",DEXA 2002: 721-730,DEXA,C
+281,Web Informetrics: Extending Classical Informetrics to the Web.,2002,"Devanshu Dhyani, Sourav S. Bhowmick, Wee Keong Ng",DEXA Workshops 2002: 351-355,DEXAW,Unranked
+282,Controlling Web Query Execution in a Web Warehouse.,2002,"Sourav S. Bhowmick, Sanjay Madria",DEXA Workshops 2002: 805-809,DEXAW,Unranked
+283,Modelling and Predicting Web Page Accesses Using Burrell's Model.,2002,"Devanshu Dhyani, Sourav S. Bhowmick, Wee Keong Ng",EC-Web 2002: 172-181,ECWEB,Unranked
+284,A Model for XML Schema Integration.,2002,"Kalpdrum Passi, Louise Lane, Sanjay Madria, Bipin C. Sakamuri, Mukesh K. Mohania, Sourav S. Bhowmick",EC-Web 2002: 193-202,ECWEB,Unranked
+285,"The gRNA: A Highly Programmable Infrastructure for Prototyping, Developing and Deploying Genomics-Centric Applications.",2002,"Amey V. Laud, Sourav S. Bhowmick, Pedro Cruz, Dadabhai T. Singh, George Rajesh",VLDB 2002: 928-939,VLDB,A*
+286,Ranking of Web Data in a Web Warehouse.,2002,"Sanjay Kumar Madria, Sourav S. Bhowmick, Kalpdrum Passi",WISE Workshops 2002: 130-139,WISE,B
+287,WHOM: a data model and algebra for a web warehouse.,2001,Sourav S. Bhowmick,"Nanyang Technological University, Singapore, 2001",NAN,Unranked
+288,Schemas for web data: a reverse engineering approach.,2001,"Sourav S. Bhowmick, Wee Keong Ng, Sanjay Madria",Data Knowl. Eng. 39: 105-142 ,DKE,Unranked
+289,On Formulation of Disjunctive Coupling Queries in WHOWEDA.,2001,"Sourav S. Bhowmick, Wee Keong Ng, Sanjay Madria",DEXA 2001: 688-698,DEXA,C
+290,Imposing Disjunctive Constraints on Inter-document Structure.,2001,"Sourav S. Bhowmick, Wee Keong Ng, Sanjay Madria",DEXA 2001: 723-733,DEXA,C
+291,Data Visualization Operators for WHOWEDA.,2000,"Sourav S. Bhowmick, Sanjay Madria, Wee Keong Ng, Ee-Peng Lim",Comput. J. 43: 364-385 ,CJ,Unranked
+292,Cost-benefit analysis of web bag in a web warehouse: An analytical approach.,2000,"Sourav S. Bhowmick, Sanjay Madria, Wee Keong Ng, Ee-Peng Lim",World Wide Web 3: 165-184 ,WWW,A*
+293,Web Schemas in WHOMEDA.,2000,"Sourav S. Bhowmick, Wee Keong Ng, Sanjay Madria",DOLAP 2000: 17-24,DOLAP,C
+294,Detecting and Representing Relevant Web Deltas using Web Join.,2000,"Sourav S. Bhowmick, Sanjay Madria, Wee Keong Ng, Ee-Peng Lim",ICDCS 2000: 246-253,ICDCS,A
+295,Reducing Cognitive Overheads in a Web Warehouse Using Reverse-Osmosis.,2000,"Sourav S. Bhowmick, Sanjay Madria, Wee Keong Ng, Ee-Peng Lim",ICPADS 2000: 171-178,ICPADS,B
+296,Association Rules for Web Data Mining in WHOWEDA.,2000,"Sanjay Kumar Madria, Chris Raymond, Sourav S. Bhowmick, Mukesh K. Mohania",Kyoto International Conference on Digital Libraries 2000: 127-139,KYOTODL,Unranked
+297,An Architecture for XML Schema Integration.,2000,"Rajeev Agrawal, Mukesh K. Mohania, Yahiko Kambayashi, Sourav S. Bhowmick, Sanjay Kumar Madria",Kyoto International Conference on Digital Libraries 2000: 240-244,KYOTODL,Unranked
+298,Pi-Web Join in a Web Warehouse.,1999,"Sourav S. Bhowmick, Sanjay Kumar Madria, Wee Keong Ng, Ee-Peng Lim",DASFAA 1999: 255-262,DASFAA,B
+299,Research Issues in Web Data Mining.,1999,"Sanjay Kumar Madria, Sourav S. Bhowmick, Wee Keong Ng, Ee-Peng Lim",DaWaK 1999: 303-312,DAWAK,Unranked
+300,Algebraic Operations on Bags in a Web Warehouse.,1999,"Sourav S. Bhowmick, Sanjay Kumar Madria, Wee Keong Ng, Ee-Peng Lim",ICSC 1999: 63-72,ICSC,Unranked
+301,Cost-Benefit Analysis of Web Bag in a Web Warehouse.,1999,"Sourav S. Bhowmick, Sanjay Madria, Wee Keong Ng, Ee-Peng Lim",IDEAS 1999: 34-42,IDEAS,C
+302,Web Warehousing: An Algebra for Web Information.,1998,"Wee Keong Ng, Ee-Peng Lim, C.-T. Huang, Sourav S. Bhowmick, Fengqiong Qin",ADL 1998: 228-237,ADL,Unranked
+303,Join Processing in Web Databases.,1998,"Sourav S. Bhowmick, Wee Keong Ng, Ee-Peng Lim, Sanjay Kumar Madria",DEXA 1998: 647-657,DEXA,C
+304,Data Visualization in a Web Warehouse.,1998,"Sourav S. Bhowmick, Sanjay Kumar Madria, Wee Keong Ng, Ee-Peng Lim",ER Workshops 1998: 68-80,ER,A
+305,Information Coupling in Web Databases.,1998,"Sourav S. Bhowmick, Wee Keong Ng, Ee-Peng Lim",ER 1998: 92-106,ER,A
+306,Web Warehousing: Design and Issues.,1998,"Sourav S. Bhowmick, Sanjay Kumar Madria, Wee Keong Ng, Ee-Peng Lim",ER Workshops 1998: 93-104,ER,A
+307,Web Bags - Are They Useful in A Web Warehouse?,1998,"Sourav S. Bhowmick, Sanjay Kumar Madria, Wee Keong Ng, Ee-Peng Lim",FODO 1998: 210-220,FODO,Unranked

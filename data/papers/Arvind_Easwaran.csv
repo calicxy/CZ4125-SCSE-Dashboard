@@ -1,0 +1,155 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Design and analyses of functional mode changes for mixed-criticality systems.,2023,"Vijaya Kumar Sundar, Saravanan Ramanathan, Arvind Easwaran",Real Time Syst. 59: 69-121 ,RTS,Unranked
+1,Online Schedule Randomization to Mitigate Timing Attacks in 5G Periodic URLLC Communications.,2023,"Ankita Samaddar, Arvind Easwaran",ACM Trans. Sens. Networks 19: 93:1-93:26 ,TOSN,Unranked
+2,PAC-Based Formal Verification for Out-of-Distribution Data Detection.,2023,"Mohit Prashant, Arvind Easwaran",CoRR abs/2304.01592 ,CORR,Unranked
+3,Co-Design of Out-of-Distribution Detectors for Autonomous Emergency Braking Systems.,2023,"Michael Yuhas, Arvind Easwaran",CoRR abs/2307.13419 ,CORR,Unranked
+4,Efficient Out-of-Distribution Detection Using Latent Space of β-VAE for Cyber-Physical Systems.,2022,"Shreyas Ramakrishna, Zahra RahimiNasab, Gabor Karsai, Arvind Easwaran, Abhishek Dubey",ACM Trans. Cyber Phys. Syst. 6: 15:1-15:34 ,TCPS,Unranked
+5,Deadline-constrained Multi-resource Task Mapping and Allocation for Edge-Cloud Systems.,2022,"Chuanchao Gao, Aryaman Shaan, Arvind Easwaran",GLOBECOM 2022: 5037-5043,GLOBECOM,B
+6,Out of Distribution Reasoning by Weakly-Supervised Disentangled Logic Variational Autoencoder.,2022,"Zahra RahimiNasab, Michael Yuhas, Arvind Easwaran",ICSRS 2022: 169-178,ICSRS,Unranked
+7,PAC-Based Formal Verification for Out-of-Distribution Data Detection.,2022,"Mohit Prashant, Arvind Easwaran",ICSRS 2022: 300-309,ICSRS,Unranked
+8,Event-Driven Real-Time Multi-Objective Charging Schedule Optimization For Electric Vehicle Fleets.,2022,"Jose Peeterson Emerson Raja, Arvind Easwaran",ITSC 2022: 3283-3289,ITSC,Unranked
+9,Design Methodology for Deep Out-of-Distribution Detectors in Real-Time Cyber-Physical Systems.,2022,"Michael Yuhas, Daniel Jun Xian Ng, Arvind Easwaran",RTCSA 2022: 180-185,RTCSA,B
+10,Work-in-Progress: Deadline-Constrained Multi-Resource Allocation in Edge-Cloud System.,2022,"Chuanchao Gao, Arvind Easwaran",RTSS 2022: 503-506,RTSS,A*
+11,Behavioural cloning based RL agents for district energy management.,2022,"Sharath Ram Kumar, Arvind Easwaran, Benoit Delinchant, Remy Rigo-Mariani",BuildSys@SenSys 2022: 466-470,SENSYS,A*
+12,Deadline-constrained Multi-resource Task Mapping and Allocation for Edge-Cloud Systems.,2022,"Chuanchao Gao, Aryaman Shaan, Arvind Easwaran",CoRR abs/2206.05950 ,CORR,Unranked
+13,Design Methodology for Deep Out-of-Distribution Detectors in Real-Time Cyber-Physical Systems.,2022,"Michael Yuhas, Daniel Jun Xian Ng, Arvind Easwaran",CoRR abs/2207.14694 ,CORR,Unranked
+14,A Low-Cost Lane-Following Algorithm for Cyber-Physical Robots.,2022,"Archit Gupta, Arvind Easwaran",CoRR abs/2208.10765 ,CORR,Unranked
+15,Out of Distribution Reasoning by Weakly-Supervised Disentangled Logic Variational Autoencoder.,2022,"Zahra RahimiNasab, Michael Yuhas, Arvind Easwaran",CoRR abs/2210.09959 ,CORR,Unranked
+16,Demo Abstract: Real-Time Out-of-Distribution Detection on a Mobile Robot.,2022,"Michael Yuhas, Arvind Easwaran",CoRR abs/2211.11520 ,CORR,Unranked
+17,Online cycle detection for models with mode-dependent input and output dependencies.,2021,"HeeJong Park, Arvind Easwaran, Etienne Borde",J. Syst. Archit. 115: 102017 ,JSA,Unranked
+18,Special issue on design of embedded software and systems (SI: ICESS19).,2021,"Arvind Easwaran, Qi Zhu, Naijun Zhan",J. Syst. Archit. 116: 101973 ,JSA,Unranked
+19,Improving Variational Autoencoder based Out-of-Distribution Detection for Embedded Real-time Applications.,2021,"Yeli Feng, Daniel Jun Xian Ng, Arvind Easwaran",ACM Trans. Embed. Comput. Syst. 20: 95:1-95:26 ,TECS,Unranked
+20,An anomaly detection framework for digital twin driven cyber-physical systems.,2021,"Chuanchao Gao, HeeJong Park, Arvind Easwaran",ICCPS 2021: 44-54,ICCPS,Unranked
+21,Robust out-of-distribution motion detection and localization in autonomous CPS: wip abstract.,2021,"Yeli Feng, Arvind Easwaran",ICCPS 2021: 225-226,ICCPS,Unranked
+22,Monitoring Cumulative Cost Properties.,2021,"Omar I. Al-Bataineh, Daniel Jun Xian Ng, Arvind Easwaran",FormaliSE@ICSE 2021: 19-30,ICSE,A*
+23,Cluster-Based Network Time Synchronization for Resilience with Energy Efficiency.,2021,"Nitin Shivaraman, Patrick Schuster, Saravanan Ramanathan, Arvind Easwaran, Sebastian Steinhorst",RTSS 2021: 149-161,RTSS,A*
+24,A novel load distribution strategy for aggregators using IoT-enabled mobile devices.,2021,"Nitin Shivaraman, Jakob Fittler, Saravanan Ramanathan, Arvind Easwaran, Sebastian Steinhorst",SmartGridComm 2021: 301-307,SMARTGRIDCOMM,Unranked
+25,Online Cycle Detection for Models with Mode-Dependent Input and Output Dependencies.,2021,"HeeJong Park, Arvind Easwaran, Etienne Borde",CoRR abs/2102.01928 ,CORR,Unranked
+26,A Game-Theoretic Approach to Secure Estimation and Control for Cyber-Physical Systems with a Digital Twin.,2021,"Zhiheng Xu, Arvind Easwaran",CoRR abs/2102.02428 ,CORR,Unranked
+27,Challenges in Digital Twin Development for Cyber-Physical Production Systems.,2021,"HeeJong Park, Arvind Easwaran, Sidharta Andalam",CoRR abs/2102.03341 ,CORR,Unranked
+28,Monitoring Cumulative Cost Properties.,2021,"Omar I. Al-Bataineh, Daniel Jun Xian Ng, Arvind Easwaran",CoRR abs/2104.11474 ,CORR,Unranked
+29,Embedded out-of-distribution detection on an autonomous robot platform.,2021,"Michael Yuhas, Yeli Feng, Daniel Jun Xian Ng, Zahra RahimiNasab, Arvind Easwaran",CoRR abs/2106.15965 ,CORR,Unranked
+30,WiP Abstract : Robust Out-of-distribution Motion Detection and Localization in Autonomous CPS.,2021,"Yeli Feng, Arvind Easwaran",CoRR abs/2107.11736 ,CORR,Unranked
+31,Improving Variational Autoencoder based Out-of-Distribution Detection for Embedded Real-time Applications.,2021,"Yeli Feng, Daniel Jun Xian Ng, Arvind Easwaran",CoRR abs/2107.11750 ,CORR,Unranked
+32,Efficient Out-of-Distribution Detection Using Latent Space of β-VAE for Cyber-Physical Systems.,2021,"Shreyas Ramakrishna, Zahra RahimiNasab, Gabor Karsai, Arvind Easwaran, Abhishek Dubey",CoRR abs/2108.11800 ,CORR,Unranked
+33,Flow Network Models for Online Scheduling Real-Time Tasks on Multiprocessors.,2020,"Hyeonjoong Cho, Arvind Easwaran",IEEE Access 8: 172136-172151 ,ACCESS,Unranked
+34,A survey on time-sensitive resource allocation in the cloud continuum.,2020,"Saravanan Ramanathan, Nitin Shivaraman, Seima Suryasekaran, Arvind Easwaran, Etienne Borde, Sebastian Steinhorst",it Inf. Technol. 62: 241-255 ,IT,Unranked
+35,A schedule randomization policy to mitigate timing attacks in WirelessHART networks.,2020,"Ankita Samaddar, Arvind Easwaran, Rui Tan",Real Time Syst. 56: 452-489 ,RTS,Unranked
+36,Crossbar-Constrained Technology Mapping for ReRAM Based In-Memory Computing.,2020,"Debjyoti Bhattacharjee, Yaswanth Tavva, Arvind Easwaran, Anupam Chattopadhyay",IEEE Trans. Computers 69: 734-748 ,TC,Unranked
+37,PAC Model Checking of Black-Box Continuous-Time Dynamical Systems.,2020,"Bai Xue, Miaomiao Zhang, Arvind Easwaran, Qin Li",IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 39: 3944-3955 ,TCAD,Unranked
+38,A Scenario-Based Branch-and-Bound Approach for MES Scheduling in Urban Buildings.,2020,"Mainak Dan, Seshadhri Srinivasan, Suresh Sundaram, Arvind Easwaran, Luigi Glielmo",IEEE Trans. Ind. Informatics 16: 7510-7520 ,TII,Unranked
+39,Resilience Bounds of Network Clock Synchronization with Fault Correction.,2020,"Linshan Jiang, Rui Tan, Arvind Easwaran",ACM Trans. Sens. Networks 16: 38:1-38:30 ,TOSN,Unranked
+40,Scheduling Parallel Real-Time Tasks on the Minimum Number of Processors.,2020,"Hyeonjoong Cho, Chulgoo Kim, Joohyung Sun, Arvind Easwaran, Ju-Derk Park, Byeong-Cheol Choi",IEEE Trans. Parallel Distributed Syst. 31: 171-186 ,TPDS,Unranked
+41,"Blockchain, what time is it? Trustless Datetime Synchronization for IoT.",2020,"Emanuel Regnath, Nitin Shivaraman, Shanker Shreejith, Arvind Easwaran, Sebastian Steinhorst",COINS 2020: 1-6,COINS,Unranked
+42,Real-Time Energy Monitoring in IoT-enabled Mobile Devices.,2020,"Nitin Shivaraman, Seima Saki, Zhiwei Liu, Saravanan Ramanathan, Arvind Easwaran, Sebastian Steinhorst",DATE 2020: 991-994,DATE,B
+43,Efficient Multi-Class Out-of-Distribution Reasoning for Perception Based Networks: Work-in-Progress.,2020,"Shreyas Ramakrishna, Zahra RahimiNasab, Arvind Easwaran, Abhishek Dubey",EMSOFT 2020: 40-42,EMSOFT,Journal Published
+44,DeCoRIC: Decentralized Connected Resilient IoT Clustering.,2020,"Nitin Shivaraman, Saravanan Ramanathan, Shanker Shreejith, Arvind Easwaran, Sebastian Steinhorst",ICCCN 2020: 1-10,ICCCN,B
+45,A Game-Theoretic Approach to Secure Estimation and Control for Cyber-Physical Systems with a Digital Twin.,2020,"Zhiheng Xu, Arvind Easwaran",ICCPS 2020: 20-29,ICCPS,Unranked
+46,WiP Abstract: Mobility-based Load Balancing for IoT-enabled Devices in Smart Grids.,2020,"Nitin Shivaraman, Jakob Fittler, Saravanan Ramanathan, Arvind Easwaran, Sebastian Steinhorst",ICCPS 2020: 192-193,ICCPS,Unranked
+47,Poster Abstract: C-Sync: The Resilient Time Synchronization Protocol.,2020,"Nitin Shivaraman, Patrick Schuster, Saravanan Ramanathan, Arvind Easwaran, Sebastian Steinhorst",IPSN 2020: 333-334,IPSN,A*
+48,Authentication Protocol for Secure Automotive Systems: Benchmarking Post-Quantum Cryptography.,2020,"Prasanna Ravi, Vijaya Kumar Sundar, Anupam Chattopadhyay, Shivam Bhasin, Arvind Easwaran",ISCAS 2020: 1-5,ISCAS,Unranked
+49,Out-of-Distribution Detection in Multi-Label Datasets using Latent Space of β-VAE.,2020,"Vijaya Kumar Sundar, Shreyas Ramakrishna, Zahra RahimiNasab, Arvind Easwaran, Abhishek Dubey",SP  2020: 250-255,SP,A*
+50,A Scenario-based Branch-and-Bound Approach for MES Scheduling in Urban Buildings.,2020,"Mainak Dan, Seshadhri Srinivasan, Suresh Sundaram, Arvind Easwaran, Luigi Glielmo",CoRR abs/2003.03750 ,CORR,Unranked
+51,Efficient Schedulability Test for Dynamic-Priority Scheduling of Mixed-Criticality Real-Time Systems.,2020,"Xiaozhe Gu, Arvind Easwaran",CoRR abs/2003.05160 ,CORR,Unranked
+52,Multi-Rate Fluid Scheduling of Mixed-Criticality Systems on Multiprocessors.,2020,"Saravanan Ramanathan, Arvind Easwaran, Hyeonjoong Cho",CoRR abs/2003.05168 ,CORR,Unranked
+53,Combining Task-level and System-level Scheduling Modes for Mixed Criticality Systems.,2020,"Jalil Boudjadar, Saravanan Ramanathan, Arvind Easwaran, Ulrik Nyman",CoRR abs/2003.05442 ,CORR,Unranked
+54,Demand-based Scheduling of Mixed-Criticality Sporadic Tasks on One Processor.,2020,Arvind Easwaran,CoRR abs/2003.05444 ,CORR,Unranked
+55,Utilization Difference Based Partitioned Scheduling of Mixed-Criticality Systems.,2020,"Saravanan Ramanathan, Arvind Easwaran",CoRR abs/2003.05445 ,CORR,Unranked
+56,Dynamic Budget Management with Service Guarantees for Mixed-Criticality Systems.,2020,"Xiaozhe Gu, Arvind Easwaran",CoRR abs/2003.08364 ,CORR,Unranked
+57,Out-of-Distribution Detection in Multi-Label Datasets using Latent Space of β-VAE.,2020,"Vijaya Kumar Sundar, Shreyas Ramakrishna, Zahra RahimiNasab, Arvind Easwaran, Abhishek Dubey",CoRR abs/2003.08740 ,CORR,Unranked
+58,TiLA: Twin-in-the-Loop Architecture for Cyber-Physical Production Systems.,2020,"HeeJong Park, Arvind Easwaran, Sidharta Andalam",CoRR abs/2003.09370 ,CORR,Unranked
+59,Resource Efficient Isolation Mechanisms in Mixed-Criticality Scheduling.,2020,"Xiaozhe Gu, Arvind Easwaran, Kieu-My Phan, Insik Shin",CoRR abs/2004.02400 ,CORR,Unranked
+60,Optimal Virtual Cluster-based Multiprocessor Scheduling.,2020,"Arvind Easwaran, Insik Shin, Insup Lee",CoRR abs/2004.02439 ,CORR,Unranked
+61,Contract-based Hierarchical Resilience Management for Cyber-Physical Systems.,2020,"Mohammad Shihabul Haque, Daniel Jun Xian Ng, Arvind Easwaran, Karthik Thangamariappan",CoRR abs/2004.04441 ,CORR,Unranked
+62,Contract-based Methodology for Developing Resilient Cyber-Infrastructure in the Industry 4.0 Era.,2020,"Sidharta Andalam, Daniel Jun Xian Ng, Arvind Easwaran, Karthik Thangamariappan",CoRR abs/2004.04442 ,CORR,Unranked
+63,CLAIR: A Contract-based Framework for Developing Resilient CPS Architectures.,2020,"Sidharta Andalam, Daniel Jun Xian Ng, Arvind Easwaran, Karthik Thangamariappan",CoRR abs/2004.04444 ,CORR,Unranked
+64,Demo Abstract: Contract-based Hierarchical Resilience Framework for Cyber-Physical Systems.,2020,"Daniel Jun Xian Ng, Arvind Easwaran, Sidharta Andalam",CoRR abs/2004.04477 ,CORR,Unranked
+65,Automatic Generation of Hierarchical Contracts for Resilience in Cyber-Physical Systems.,2020,"Zhiheng Xu, Daniel Jun Xian Ng, Arvind Easwaran",CoRR abs/2004.05761 ,CORR,Unranked
+66,Managing Industrial Communication Delays with Software-Defined Networking.,2020,"Rutvij H. Jhaveri, Rui Tan, Arvind Easwaran, Sagar V. Ramani",CoRR abs/2004.06368 ,CORR,Unranked
+67,DeCoRIC: Decentralized Connected Resilient IoT Clustering.,2020,"Nitin Shivaraman, Saravanan Ramanathan, Shanker Shreejith, Arvind Easwaran, Sebastian Steinhorst",CoRR abs/2004.14072 ,CORR,Unranked
+68,A Survey on Time-Sensitive Resource Allocation in the Cloud Continuum.,2020,"Saravanan Ramanathan, Nitin Shivaraman, Seima Suryasekaran, Arvind Easwaran, Etienne Borde, Sebastian Steinhorst",CoRR abs/2004.14559 ,CORR,Unranked
+69,Real-Time Energy Monitoring in IoT-enabled Mobile Devices.,2020,"Nitin Shivaraman, Seima Saki, Zhiwei Liu, Saravanan Ramanathan, Arvind Easwaran, Sebastian Steinhorst",CoRR abs/2004.14804 ,CORR,Unranked
+70,Resilience Bounds of Network Clock Synchronization with Fault Correction.,2020,"Linshan Jiang, Rui Tan, Arvind Easwaran",CoRR abs/2006.15832 ,CORR,Unranked
+71,PAC Model Checking of Black-Box Continuous-Time Dynamical Systems.,2020,"Bai Xue, Miaomiao Zhang, Arvind Easwaran, Qin Li",CoRR abs/2007.10141 ,CORR,Unranked
+72,Flow Network-Based Real-Time Scheduling for Reducing Static Energy Consumption on Multiprocessors.,2019,"Joohyung Sun, Hyeonjoong Cho, Arvind Easwaran, Ju-Derk Park, Byeong-Cheol Choi",IEEE Access 7: 1330-1344 ,ACCESS,Unranked
+73,Contract-Based Methodology for Developing Resilient Cyber-Infrastructure in the Industry 4.0 Era.,2019,"Sidharta Andalam, Daniel Jun Xian Ng, Arvind Easwaran, Karthikeyan Thangamariappan",IEEE Embed. Syst. Lett. 11: 5-8 ,ESL,Unranked
+74,Guest Editor Introduction.,2019,Arvind Easwaran,IEEE Embed. Syst. Lett. 11: 33 ,ESL,Unranked
+75,Design of an online-tuned model based compound controller for a fully automated artificial pancreas.,2019,"Arpita Bhattacharjee, Arvind Easwaran, Melvin Khee-Shing Leow, Nam-Joon Cho",Medical Biol. Eng. Comput. 57: 1437-1449 ,MBEC,Unranked
+76,Dynamic budget management and budget reclamation for mixed-criticality systems.,2019,"Xiaozhe Gu, Arvind Easwaran",Real Time Syst. 55: 552-597 ,RTS,Unranked
+77,SlotSwapper: a schedule randomization protocol for real-time WirelessHART networks.,2019,"Ankita Samaddar, Arvind Easwaran, Rui Tan",SIGBED Rev. 16: 32-37 ,SIGBED,Unranked
+78,Combining Task-level and System-level Scheduling Modes for Mixed Criticality Systems.,2019,"Jalil Boudjadar, Saravanan Ramanathan, Arvind Easwaran, Ulrik Nyman",DS-RT 2019: 1-10,DSRT,Unranked
+79,TiLA: Twin-in-the-Loop Architecture for Cyber-Physical Production Systems.,2019,"HeeJong Park, Arvind Easwaran, Sidharta Andalam",ICCD 2019: 82-90,ICCD,Unranked
+80,Towards safe machine learning for CPS: infer uncertainty from training data.,2019,"Xiaozhe Gu, Arvind Easwaran",ICCPS 2019: 249-258,ICCPS,Unranked
+81,Contract-based hierarchical resilience framework for cyber-physical systems: demo abstract.,2019,"Daniel Jun Xian Ng, Arvind Easwaran, Sidharta Andalam",ICCPS 2019: 324-325,ICCPS,Unranked
+82,Probably Approximate Safety Verification of Hybrid Dynamical Systems.,2019,"Bai Xue, Martin Fränzle, Hengjun Zhao, Naijun Zhan, Arvind Easwaran",ICFEM 2019: 236-252,ICFEM,C
+83,A Practical Degradation Model for Mixed-Criticality Systems.,2019,"Vijaya Kumar Sundar, Arvind Easwaran",ISORC 2019: 171-180,ISORC,C
+84,Linearization based Safety Verification of a Glucose Control Protocol.,2019,"Ankita Samaddar, Zahra RahimiNasab, Arvind Easwaran, Ansuman Banerjee, Xue Bai",ISORC 2019: 221-228,ISORC,C
+85,Managing Industrial Communication Delays with Software-Defined Networking.,2019,"Rutvij H. Jhaveri, Rui Tan, Arvind Easwaran, Sagar V. Ramani",RTCSA 2019: 1-11,RTCSA,B
+86,Automatic Generation of Hierarchical Contracts for Resilience in Cyber-Physical Systems.,2019,"Zhiheng Xu, Daniel Jun Xian Ng, Arvind Easwaran",RTCSA 2019: 1-11,RTCSA,B
+87,Towards Safe Machine Learning for CPS: Infer Uncertainty from Training Data.,2019,"Xiaozhe Gu, Arvind Easwaran",CoRR abs/1909.04886 ,CORR,Unranked
+88,SlotSwapper: A Schedule Randomization protocol for Real-Time WirelessHART Networks.,2019,"Ankita Samaddar, Arvind Easwaran, Rui Tan",CoRR abs/1910.12000 ,CORR,Unranked
+89,Evaluation of an artificial pancreas in in silico patients with online-tuned internal model control.,2018,"Arpita Bhattacharjee, Arvind Easwaran, Melvin Khee-Shing Leow, Nam-Joon Cho",Biomed. Signal Process. Control. 41: 198-209 ,BSPC,Unranked
+90,Contract-Based Hierarchical Resilience Management for Cyber-Physical Systems.,2018,"Mohammad Shihabul Haque, Daniel Jun Xian Ng, Arvind Easwaran, Karthikeyan Thangamariappan",Computer 51: 56-65 ,COMPUTER,Unranked
+91,Multi-rate fluid scheduling of mixed-criticality systems on multiprocessors.,2018,"Saravanan Ramanathan, Arvind Easwaran, Hyeonjoong Cho",Real Time Syst. 54: 247-277 ,RTS,Unranked
+92,MC-Fluid: Multi-Core Fluid-Based Mixed-Criticality Scheduling.,2018,"Jaewoo Lee, Saravanan Ramanathan, Kieu-My Phan, Arvind Easwaran, Insik Shin, Insup Lee",IEEE Trans. Computers 67: 469-483 ,TC,Unranked
+93,Predictability and Performance Aware Replacement Policy PVISAM for Unified Shared Caches in Real-time Multicores.,2018,"Mohammad Shihabul Haque, Arvind Easwaran",IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 37: 2720-2731 ,TCAD,Unranked
+94,Towards Overhead-Free Interface Theory for Compositional Hierarchical Real-Time Systems.,2018,"Jin Hyun Kim, Kyong Hoon Kim, Arvind Easwaran, Insup Lee",IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 37: 2869-2880 ,TCAD,Unranked
+95,Efficient Schedulability Test for Dynamic-Priority Scheduling of Mixed-Criticality Real-Time Systems.,2018,"Xiaozhe Gu, Arvind Easwaran",ACM Trans. Embed. Comput. Syst. 17: 24:1-24:24 ,TECS,Unranked
+96,Challenges in Digital Twin Development for Cyber-Physical Production Systems.,2018,"HeeJong Park, Arvind Easwaran, Sidharta Andalam",CyPhy/WESE 2018: 28-48,CYPHY,Unranked
+97,Resilience Bounds of Sensing-Based Network Clock Synchronization.,2018,"Rui Tan, Linshan Jiang, Arvind Easwaran, Jothi Prasanna Shanmuga Sundaram",ICPADS 2018: 894-902,ICPADS,B
+98,Mixed-Criticality Scheduling on Multiprocessors with Service Guarantees.,2018,"Saravanan Ramanathan, Arvind Easwaran",ISORC 2018: 17-24,ISORC,C
+99,CLAIR: A Contract-Based Framework for Developing Resilient CPS Architectures.,2018,"Sidharta Andalam, Daniel Jun Xian Ng, Arvind Easwaran, Karthikeyan Thangamariappan",ISORC 2018: 33-41,ISORC,C
+100,A Self-Reconfiguring Cache Architecture to Improve Control Quality in Cyber-Physical Systems.,2018,"Mohammad Shihabul Haque, Sriram Vasudevan, Alamuri Sriram Nihar, Arvind Easwaran, Akash Kumar, Y. C. Tay",ISORC 2018: 116-123,ISORC,C
+101,Design and Analysis for Dual Priority Scheduling.,2018,"Xiaozhe Gu, Arvind Easwaran, Risat Pathan",ISORC 2018: 164-173,ISORC,C
+102,Resilience Bounds of Sensing-Based Network Clock Synchronization.,2018,"Rui Tan, Linshan Jiang, Arvind Easwaran, Jothi Prasanna Shanmuga Sundaram",CoRR abs/1809.03165 ,CORR,Unranked
+103,Crossbar-Constrained Technology Mapping for ReRAM based In-Memory Computing.,2018,"Debjyoti Bhattacharjee, Yaswanth Tavva, Arvind Easwaran, Anupam Chattopadhyay",CoRR abs/1809.08195 ,CORR,Unranked
+104,Flow Network Models for Online Scheduling Real-time Tasks on Multiprocessors.,2018,"Hyeonjoong Cho, Arvind Easwaran",CoRR abs/1810.08342 ,CORR,Unranked
+105,Reach-Avoid Verification for Nonlinear Systems Based on Boundary Analysis.,2017,"Bai Xue, Arvind Easwaran, Nam-Joon Cho, Martin Fränzle",IEEE Trans. Autom. Control. 62: 3518-3523 ,TAC,Unranked
+106,Underapproximating Backward Reachable Sets by Semialgebraic Sets.,2017,"Bai Xue, Zhikun She, Arvind Easwaran",IEEE Trans. Autom. Control. 62: 5185-5197 ,TAC,Unranked
+107,Global EDF Schedulability Analysis for Parallel Tasks on Multi-Core Platforms.,2017,"Hoon Sung Chwa, Jinkyu Lee, Jiyeon Lee, Kiew-My Phan, Arvind Easwaran, Insik Shin",IEEE Trans. Parallel Distributed Syst. 28: 1331-1345 ,TPDS,Unranked
+108,Area-constrained technology mapping for in-memory computing using ReRAM devices.,2017,"Debjyoti Bhattacharjee, Arvind Easwaran, Anupam Chattopadhyay",ASP-DAC 2017: 69-74,ASPDAC,C
+109,A systematic security analysis of real-time cyber-physical systems.,2017,"Arvind Easwaran, Anupam Chattopadhyay, Shivam Bhasin",ASP-DAC 2017: 206-213,ASPDAC,C
+110,Utilization difference based partitioned scheduling of mixed-criticality systems.,2017,"Saravanan Ramanathan, Arvind Easwaran",DATE 2017: 238-243,DATE,B
+111,Efficient decentralized active balancing strategy for smart battery cells.,2017,"Nitin Shivaraman, Arvind Easwaran, Sebastian Steinhorst",DATE 2017: 1522-1527,DATE,B
+112,Probabilistic analysis for mixed criticality systems using fixed priority preemptive scheduling.,2017,"Dorin Maxim, Robert I. Davis, Liliana Cucu-Grosjean, Arvind Easwaran",RTNS 2017: 237-246,RTNS,National
+113,Towards compositional mixed-criticality real-time scheduling in open systems: invited paper.,2016,"Jaewoo Lee, Hoon Sung Chwa, Arvind Easwaran, Insik Shin, Insup Lee",SIGBED Rev. 13: 49-51 ,SIGBED,Unranked
+114,Under-Approximating Backward Reachable Sets by Polytopes.,2016,"Bai Xue, Zhikun She, Arvind Easwaran",CAV  2016: 457-476,CAV,A*
+115,Mixed-Criticality Scheduling to Minimize Makespan.,2016,"Sanjoy K. Baruah, Arvind Easwaran, Zhishan Guo",FSTTCS 2016: 7:1-7:13,FSTTCS,Unranked
+116,WiP Abstract: A Novel Strategy for Active Cell Balancing.,2016,"Sriram Vasudevan, Nitin Shivaraman, Arvind Easwaran",ICCPS 2016: 36:1,ICCPS,Unranked
+117,Demo Abstract: Predictable SoC Architecture Based on COTS Multi-Core.,2016,"Nitin Shivaraman, Sriram Vasudevan, Arvind Easwaran",RTAS 2016: 69,RTAS,A
+118,Dynamic Budget Management with Service Guarantees for Mixed-Criticality Systems.,2016,"Xiaozhe Gu, Arvind Easwaran",RTSS 2016: 47-56,RTSS,A*
+119,Composition of Schedulability Analyses for Real-Time Multiprocessor Systems.,2015,"Jinkyu Lee, Kang G. Shin, Insik Shin, Arvind Easwaran",IEEE Trans. Computers 64: 941-954 ,TC,Unranked
+120,Resource Efficient Isolation Mechanisms in Mixed-Criticality Scheduling.,2015,"Xiaozhe Gu, Arvind Easwaran, Kieu-My Phan, Insik Shin",ECRTS 2015: 13-24,ECRTS,B
+121,MC-Fluid: Simplified and Optimally Quantified.,2015,"Sanjoy K. Baruah, Arvind Easwaran, Zhishan Guo",RTSS 2015: 327-337,RTSS,A*
+122,Contention-free executions for real-time multiprocessor scheduling.,2014,"Jinkyu Lee, Arvind Easwaran, Insik Shin",ACM Trans. Embed. Comput. Syst. 13: 69:1-69:25 ,TECS,Unranked
+123,Mapping Time-Critical Safety-Critical Cyber Physical Systems to Hybrid FPGAs.,2014,"Kizheppatt Vipin, Shanker Shreejith, Suhaib A. Fahmy, Arvind Easwaran",CPSNA 2014: 31-36,CPSNA,Unranked
+124,Message from the Conference Chairs.,2014,"Arvind Easwaran, Victor C. S. Lee, Joseph Kee-Yin Ng",CPSNA 2014: vii,CPSNA,Unranked
+125,MC-Fluid: Fluid Model-Based Mixed-Criticality Scheduling on Multiprocessors.,2014,"Jaewoo Lee, Kieu-My Phan, Xiaozhe Gu, Jiyeon Lee, Arvind Easwaran, Insik Shin, Insup Lee",RTSS 2014: 41-52,RTSS,A*
+126,Global EDF Schedulability Analysis for Synchronous Parallel Tasks on Multicore Platforms.,2013,"Hoon Sung Chwa, Jinkyu Lee, Kieu-My Phan, Arvind Easwaran, Insik Shin",ECRTS 2013: 25-34,ECRTS,B
+127,Demand-Based Scheduling of Mixed-Criticality Sporadic Tasks on One Processor.,2013,Arvind Easwaran,RTSS 2013: 78-87,RTSS,A*
+128,Welcome message.,2013,"Eduardo Tovar, Richard Zurawski, Roberto Passerone, Karl-Erik Årzén, Arvind Easwaran, Luca Santinelli",SIES 2013,SIES,Unranked
+129,Convex optimization framework for intermediate deadline assignment in soft and hard real-time distributed systems.,2012,"Jinkyu Lee, Insik Shin, Arvind Easwaran",J. Syst. Softw. 85: 2331-2339 ,JSS,Unranked
+130,Laxity dynamics and LLF schedulability analysis on multiprocessor platforms.,2012,"Jinkyu Lee, Arvind Easwaran, Insik Shin",Real Time Syst. 48: 716-749 ,RTS,Unranked
+131,Extending Task-level to Job-level Fixed Priority Assignment and Schedulability Analysis Using Pseudo-deadlines.,2012,"Hoon Sung Chwa, Hyoungbu Back, Sanjian Chen, Jinkyu Lee, Arvind Easwaran, Insik Shin, Insup Lee",RTSS 2012: 51-62,RTSS,A*
+132,Zero-laxity based real-time multiprocessor scheduling.,2011,"Jinkyu Lee, Arvind Easwaran, Insik Shin, Insup Lee",J. Syst. Softw. 84: 2324-2333 ,JSS,Unranked
+133,CARTS: a tool for compositional analysis of real-time systems.,2011,"Linh T. X. Phan, Jaewoo Lee, Arvind Easwaran, Vinay Ramaswamy, Sanjian Chen, Insup Lee, Oleg Sokolsky",SIGBED Rev. 8: 62-63 ,SIGBED,Unranked
+134,Maximizing Contention-Free Executions in Multiprocessor Scheduling.,2011,"Jinkyu Lee, Arvind Easwaran, Insik Shin",IEEE Real-Time and Embedded Technology and Applications Symposium 2011: 235-244,RTAS,A
+135,Response Time Analysis of COTS-Based Multicores Considering the Contention on the Shared Memory Bus.,2011,"Dakshina Dasari, Björn Andersson, Vincent Nélis, Stefan M. Petters, Arvind Easwaran, Jinkyu Lee",TrustCom 2011: 1068-1075,TRUSTCOM,Unranked
+136,Provably good multiprocessor scheduling with resource sharing.,2010,"Björn Andersson, Arvind Easwaran",Real Time Syst. 46: 153-159 ,RTS,Unranked
+137,Finding an upper bound on the increase in execution time due to contention on the memory bus in COTS-based multicore systems.,2010,"Björn Andersson, Arvind Easwaran, Jinkyu Lee",SIGBED Rev. 7: 4 ,SIGBED,Unranked
+138,Multiprocessor real-time scheduling considering concurrency and urgency.,2010,"Jinkyu Lee, Arvind Easwaran, Insik Shin, Insup Lee",SIGBED Rev. 7: 5 ,SIGBED,Unranked
+139,Online robust optimization framework for QoS guarantees in distributed soft real-time systems.,2010,"Jinkyu Lee, Insik Shin, Arvind Easwaran",EMSOFT 2010: 89-98,EMSOFT,Journal Published
+140,LLF Schedulability Analysis on Multiprocessor Platforms.,2010,"Jinkyu Lee, Arvind Easwaran, Insik Shin",RTSS 2010: 25-36,RTSS,A*
+141,Resource Sharing in Global Fixed-Priority Preemptive Multiprocessor Scheduling.,2010,"Arvind Easwaran, Björn Andersson",Scheduling 2010,DAGSTUHL,Unranked
+142,Optimal virtual cluster-based multiprocessor scheduling.,2009,"Arvind Easwaran, Insik Shin, Insup Lee",Real Time Syst. 43: 25-59 ,RTS,Unranked
+143,Scheduling Sporadic Tasks on Multiprocessors with Mutual Exclusion Constraints.,2009,"Arvind Easwaran, Björn Andersson",ICPP Workshops 2009: 50-57,ICPPW,Unranked
+144,A Compositional Scheduling Framework for Digital Avionics Systems.,2009,"Arvind Easwaran, Insup Lee, Oleg Sokolsky, Steve Vestal",RTCSA 2009: 371-380,RTCSA,B
+145,Resource Sharing in Global Fixed-Priority Preemptive Multiprocessor Scheduling.,2009,"Arvind Easwaran, Björn Andersson",RTSS 2009: 377-386,RTSS,A*
+146,Compositional schedulability analysis for cyber-physical systems.,2008,"Arvind Easwaran, Insup Lee",SIGBED Rev. 5: 6 ,SIGBED,Unranked
+147,Hierarchical Scheduling Framework for Virtual Clustering of Multiprocessors.,2008,"Insik Shin, Arvind Easwaran, Insup Lee",ECRTS 2008: 181-190,ECRTS,B
+148,Compositional Feasibility Analysis of Conditional Real-Time Task Models.,2008,"Madhukar Anand, Arvind Easwaran, Sebastian Fischmeister, Insup Lee",ISORC 2008: 391-398,ISORC,C
+149,Compositional Schedulability Analysis of Hierarchical Real-Time Systems.,2007,"Arvind Easwaran, Insup Lee, Insik Shin, Oleg Sokolsky",ISORC 2007: 274-281,ISORC,C
+150,Compositional Analysis Framework Using EDP Resource Models.,2007,"Arvind Easwaran, Madhukar Anand, Insup Lee",RTSS 2007: 129-138,RTSS,A*
+151,Incremental schedulability analysis of hierarchical real-time components.,2006,"Arvind Easwaran, Insik Shin, Oleg Sokolsky, Insup Lee",EMSOFT 2006: 272-281,EMSOFT,Journal Published
+152,Steering of Discrete Event Systems: Control Theory Approach.,2005,"Arvind Easwaran, Sampath Kannan, Oleg Sokolsky",RV@CAV 2005: 21-39,RV,B
+153,Simulation of Simultaneous Events in Regular Expressions for Run-Time Verification.,2004,"Usa Sammapun, Arvind Easwaran, Insup Lee, Oleg Sokolsky",RV@ETAPS 2004: 123-143,ENTCS,Unranked

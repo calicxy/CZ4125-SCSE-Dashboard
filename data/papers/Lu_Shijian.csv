@@ -1,0 +1,332 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Investigating Pose Representations and Motion Contexts Modeling for 3D Motion Prediction.,2023,"Zhenguang Liu, Shuang Wu, Shuyuan Jin, Shouling Ji, Qi Liu, Shijian Lu, Li Cheng",IEEE Trans. Pattern Anal. Mach. Intell. 45: 681-697 ,PAMI,Unranked
+1,Unsupervised Point Cloud Representation Learning With Deep Neural Networks: A Survey.,2023,"Aoran Xiao, Jiaxing Huang, Dayan Guan, Xiaoqin Zhang, Shijian Lu, Ling Shao",IEEE Trans. Pattern Anal. Mach. Intell. 45: 11321-11339 ,PAMI,Unranked
+2,Meta-DETR: Image-Level Few-Shot Detection With Inter-Class Correlation Exploitation.,2023,"Gongjie Zhang, Zhipeng Luo, Kaiwen Cui, Shijian Lu, Eric P. Xing",IEEE Trans. Pattern Anal. Mach. Intell. 45: 12832-12843 ,PAMI,Unranked
+3,Image-to-Character-to-Word Transformers for Accurate Scene Text Recognition.,2023,"Chuhui Xue, Jiaxing Huang, Wenqing Zhang, Shijian Lu, Changhu Wang, Song Bai",IEEE Trans. Pattern Anal. Mach. Intell. 45: 12908-12921 ,PAMI,Unranked
+4,Audio-driven talking face generation with diverse yet realistic facial animations.,2023,"Rongliang Wu, Yingchen Yu, Fangneng Zhan, Jiahui Zhang, Xiaoqin Zhang, Shijian Lu",Pattern Recognit. 144: 109865 ,PR,Unranked
+5,Cross-Domain Facial Expression Recognition via Contrastive Warm up and Complexity-Aware Self-Training.,2023,"Yingjian Li, Jiaxing Huang, Shijian Lu, Zheng Zhang, Guangming Lu",IEEE Trans. Image Process. 32: 5438-5450 ,TIP,Unranked
+6,Learning Disentangled Representation Implicitly Via Transformer for Occluded Person Re-Identification.,2023,"Mengxi Jia, Xinhua Cheng, Shijian Lu, Jian Zhang",IEEE Trans. Multim. 25: 1294-1305 ,TMM,Unranked
+7,Class-Independent Regularization for Learning with Noisy Labels.,2023,"Rumeng Yi, Dayan Guan, Yaping Huang, Shijian Lu",AAAI 2023: 3276-3284,AAAI,A*
+8,Face Transformer: Towards High Fidelity and Accurate Face Swapping.,2023,"Kaiwen Cui, Rongliang Wu, Fangneng Zhan, Shijian Lu",CVPR Workshops 2023: 668-677,CVPR,A*
+9,KD-DLGAN: Data Limited Image Generation via Knowledge Distillation.,2023,"Kaiwen Cui, Yingchen Yu, Fangneng Zhan, Shengcai Liao, Shijian Lu, Eric P. Xing",CVPR 2023: 3872-3882,CVPR,A*
+10,Towards Efficient Use of Multi-Scale Features in Transformer-Based Object Detectors.,2023,"Gongjie Zhang, Zhipeng Luo, Zichen Tian, Jingyi Zhang, Xiaoqin Zhang, Shijian Lu",CVPR 2023: 6206-6216,CVPR,A*
+11,StyleRF: Zero-Shot 3D Style Transfer of Neural Radiance Fields.,2023,"Kunhao Liu, Fangneng Zhan, Yiwen Chen, Jiahui Zhang, Yingchen Yu, Abdulmotaleb El-Saddik, Shijian Lu, Eric P. Xing",CVPR 2023: 8338-8348,CVPR,A*
+12,3D Semantic Segmentation in the Wild: Learning Generalized Models for Adverse-Condition Point Clouds.,2023,"Aoran Xiao, Jiaxing Huang, Weihao Xuan, Ruijie Ren, Kangcheng Liu, Dayan Guan, Abdulmotaleb El-Saddik, Shijian Lu, Eric P. Xing",CVPR 2023: 9382-9392,CVPR,A*
+13,FAC: 3D Representation Learning via Foreground Aware Feature Contrast.,2023,"Kangcheng Liu, Aoran Xiao, Xiaoqin Zhang, Shijian Lu, Ling Shao",CVPR 2023: 9476-9485,CVPR,A*
+14,UniDAformer: Unified Domain Adaptive Panoptic Segmentation Transformer via Hierarchical Mask Calibration.,2023,"Jingyi Zhang, Jiaxing Huang, Xiaoqin Zhang, Shijian Lu",CVPR 2023: 11227-11237,CVPR,A*
+15,Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger.,2023,"Yi Yu, Yufei Wang, Wenhan Yang, Shijian Lu, Yap-Peng Tan, Alex C. Kot",CVPR 2023: 12250-12259,CVPR,A*
+16,Regularized Vector Quantization for Tokenized Image Synthesis.,2023,"Jiahui Zhang, Fangneng Zhan, Christian Theobalt, Shijian Lu",CVPR 2023: 18467-18476,CVPR,A*
+17,DA-DETR: Domain Adaptive Detection Transformer with Information Fusion.,2023,"Jingyi Zhang, Jiaxing Huang, Zhipeng Luo, Gongjie Zhang, Xiaoqin Zhang, Shijian Lu",CVPR 2023: 23787-23798,CVPR,A*
+18,TransPillars: Coarse-to-Fine Aggregation for Multi-Frame 3D Object Detection.,2023,"Zhipeng Luo, Gongjie Zhang, Changqing Zhou, Tianrui Liu, Shijian Lu, Liang Pan",WACV 2023: 4219-4228,WACV,A
+19,Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger.,2023,"Yi Yu, Yufei Wang, Wenhan Yang, Shijian Lu, Yap-Peng Tan, Alex C. Kot",CoRR abs/2302.14677 ,CORR,Unranked
+20,FAC: 3D Representation Learning via Foreground Aware Feature Contrast.,2023,"Kangcheng Liu, Aoran Xiao, Xiaoqin Zhang, Shijian Lu, Ling Shao",CoRR abs/2303.06388 ,CORR,Unranked
+21,Regularized Vector Quantization for Tokenized Image Synthesis.,2023,"Jiahui Zhang, Fangneng Zhan, Christian Theobalt, Shijian Lu",CoRR abs/2303.06424 ,CORR,Unranked
+22,Modeling Continuous Motion for 3D Point Cloud Object Tracking.,2023,"Zhipeng Luo, Gongjie Zhang, Changqing Zhou, Zhonghua Wu, Qingyi Tao, Lewei Lu, Shijian Lu",CoRR abs/2303.07605 ,CORR,Unranked
+23,StyleRF: Zero-shot 3D Style Transfer of Neural Radiance Fields.,2023,"Kunhao Liu, Fangneng Zhan, Yiwen Chen, Jiahui Zhang, Yingchen Yu, Abdulmotaleb El-Saddik, Shijian Lu, Eric P. Xing",CoRR abs/2303.10598 ,CORR,Unranked
+24,KD-DLGAN: Data Limited Image Generation via Knowledge Distillation.,2023,"Kaiwen Cui, Yingchen Yu, Fangneng Zhan, Shengcai Liao, Shijian Lu, Eric P. Xing",CoRR abs/2303.17158 ,CORR,Unranked
+25,Vision-Language Models for Vision Tasks: A Survey.,2023,"Jingyi Zhang, Jiaxing Huang, Sheng Jin, Shijian Lu",CoRR abs/2304.00685 ,CORR,Unranked
+26,3D Semantic Segmentation in the Wild: Learning Generalized Models for Adverse-Condition Point Clouds.,2023,"Aoran Xiao, Jiaxing Huang, Weihao Xuan, Ruijie Ren, Kangcheng Liu, Dayan Guan, Abdulmotaleb El-Saddik, Shijian Lu, Eric P. Xing",CoRR abs/2304.00690 ,CORR,Unranked
+27,Face Transformer: Towards High Fidelity and Accurate Face Swapping.,2023,"Kaiwen Cui, Rongliang Wu, Fangneng Zhan, Shijian Lu",CoRR abs/2304.02530 ,CORR,Unranked
+28,Self-Supervised 3D Action Representation Learning with Skeleton Cloud Colorization.,2023,"Siyuan Yang, Jun Liu, Shijian Lu, Meng Hwa Er, Yongjian Hu, Alex C. Kot",CoRR abs/2304.08799 ,CORR,Unranked
+29,POCE: Pose-Controllable Expression Editing.,2023,"Rongliang Wu, Yingchen Yu, Fangneng Zhan, Jiahui Zhang, Shengcai Liao, Shijian Lu",CoRR abs/2304.08938 ,CORR,Unranked
+30,Audio-Driven Talking Face Generation with Diverse yet Realistic Facial Animations.,2023,"Rongliang Wu, Yingchen Yu, Fangneng Zhan, Jiahui Zhang, Xiaoqin Zhang, Shijian Lu",CoRR abs/2304.08945 ,CORR,Unranked
+31,3D Open-vocabulary Segmentation with Foundation Models.,2023,"Kunhao Liu, Fangneng Zhan, Jiahui Zhang, Muyu Xu, Yingchen Yu, Abdulmotaleb El-Saddik, Christian Theobalt, Eric P. Xing, Shijian Lu",CoRR abs/2305.14093 ,CORR,Unranked
+32,A Survey of Label-Efficient Deep Learning for 3D Point Clouds.,2023,"Aoran Xiao, Xiaoqin Zhang, Ling Shao, Shijian Lu",CoRR abs/2305.19812 ,CORR,Unranked
+33,Online Map Vectorization for Autonomous Driving: A Rasterization Perspective.,2023,"Gongjie Zhang, Jiahao Lin, Shuang Wu, Yilin Song, Zhipeng Luo, Yang Xue, Shijian Lu, Zuoguan Wang",CoRR abs/2306.10502 ,CORR,Unranked
+34,Prompt Ensemble Self-training for Open-Vocabulary Domain Adaptation.,2023,"Jiaxing Huang, Jingyi Zhang, Han Qiu, Sheng Jin, Shijian Lu",CoRR abs/2306.16658 ,CORR,Unranked
+35,One-Shot Action Recognition via Multi-Scale Spatial-Temporal Skeleton Matching.,2023,"Siyuan Yang, Jun Liu, Shijian Lu, Meng Hwa Er, Alex C. Kot",CoRR abs/2307.07286 ,CORR,Unranked
+36,WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields.,2023,"Muyu Xu, Fangneng Zhan, Jiahui Zhang, Yingchen Yu, Xiaoqin Zhang, Christian Theobalt, Ling Shao, Shijian Lu",CoRR abs/2308.04826 ,CORR,Unranked
+37,Black-box Unsupervised Domain Adaptation with Bi-directional Atkinson-Shiffrin Memory.,2023,"Jingyi Zhang, Jiaxing Huang, Xueying Jiang, Shijian Lu",CoRR abs/2308.13236 ,CORR,Unranked
+38,Pose-Free Neural Radiance Fields via Implicit Pose Regularization.,2023,"Jiahui Zhang, Fangneng Zhan, Yingchen Yu, Kunhao Liu, Rongliang Wu, Xiaoqin Zhang, Ling Shao, Shijian Lu",CoRR abs/2308.15049 ,CORR,Unranked
+39,Domain Generalization via Balancing Training Difficulty and Model Capability.,2023,"Xueying Jiang, Jiaxing Huang, Sheng Jin, Shijian Lu",CoRR abs/2309.00844 ,CORR,Unranked
+40,Bridging Semantic Gaps for Language-Supervised Semantic Segmentation.,2023,"Yun Xing, Jian Kang, Aoran Xiao, Jiahao Nie, Ling Shao, Shijian Lu",CoRR abs/2309.13505 ,CORR,Unranked
+41,Noise-Tolerant Unsupervised Adapter for Vision-Language Models.,2023,"Eman Ali, Dayan Guan, Shijian Lu, Abdulmotaleb Elsaddik",CoRR abs/2309.14928 ,CORR,Unranked
+42,AI-Generated Images as Data Source: The Dawn of Synthetic Era.,2023,"Zuhao Yang, Fangneng Zhan, Kunhao Liu, Muyu Xu, Shijian Lu",CoRR abs/2310.01830 ,CORR,Unranked
+43,GCDB-UNet: A novel robust cloud detection approach for remote sensing images.,2022,"Xian Li, Xiaofei Yang, Xutao Li, Shijian Lu, Yunming Ye, Yifang Ban",Knowl. Based Syst. 238: 107890 ,KBS,Unranked
+44,Multi-level adversarial network for domain adaptive semantic segmentation.,2022,"Jiaxing Huang, Dayan Guan, Aoran Xiao, Shijian Lu",Pattern Recognit. 123: 108384 ,PR,Unranked
+45,Detection and rectification of arbitrary shaped scene texts by using text keypoints and links.,2022,"Chuhui Xue, Shijian Lu, Steven C. H. Hoi",Pattern Recognit. 124: 108494 ,PR,Unranked
+46,Domain consistency regularization for unsupervised multi-source domain adaptive classification.,2022,"Zhipeng Luo, Xiaobing Zhang, Shijian Lu, Shuai Yi",Pattern Recognit. 132: 108955 ,PR,Unranked
+47,AppFuse: An Appearance Fusion Framework for Saliency Cues.,2022,"Koteswar Rao Jerripothula, Prerana Mukherjee, Jianfei Cai, Shijian Lu, Junsong Yuan",IEEE Trans. Circuits Syst. Video Technol. 32: 8261-8274 ,TCSV,Unranked
+48,GMLight: Lighting Estimation via Geometric Distribution Approximation.,2022,"Fangneng Zhan, Yingchen Yu, Changgong Zhang, Rongliang Wu, Wenbo Hu, Shijian Lu, Feiying Ma, Xuansong Xie, Ling Shao",IEEE Trans. Image Process. 31: 2268-2278 ,TIP,Unranked
+49,Self-Guided Adaptation: Progressive Representation Alignment for Domain Adaptive Object Detection.,2022,"Chong Zhang, Zongxian Li, Jingjing Liu, Peixi Peng, Qixiang Ye, Shijian Lu, Tie-Jun Huang, Yonghong Tian",IEEE Trans. Multim. 24: 2246-2258 ,TMM,Unranked
+50,Uncertainty-Aware Unsupervised Domain Adaptation in Object Detection.,2022,"Dayan Guan, Jiaxing Huang, Aoran Xiao, Shijian Lu, Yanpeng Cao",IEEE Trans. Multim. 24: 2502-2514 ,TMM,Unranked
+51,GenCo: Generative Co-training for Generative Adversarial Networks with Limited Data.,2022,"Kaiwen Cui, Jiaxing Huang, Zhipeng Luo, Gongjie Zhang, Fangneng Zhan, Shijian Lu",AAAI 2022: 499-507,AAAI,A*
+52,Transfer Learning from Synthetic to Real LiDAR Point Cloud for Semantic Segmentation.,2022,"Aoran Xiao, Jiaxing Huang, Dayan Guan, Fangneng Zhan, Shijian Lu",AAAI 2022: 2795-2803,AAAI,A*
+53,Accelerating DETR Convergence via Semantic-Aligned Matching.,2022,"Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Kaiwen Cui, Shijian Lu",CVPR 2022: 939-948,CVPR,A*
+54,Category Contrast for Unsupervised Domain Adaptation in Visual Tasks.,2022,"Jiaxing Huang, Dayan Guan, Aoran Xiao, Shijian Lu, Ling Shao",CVPR 2022: 1193-1204,CVPR,A*
+55,Fourier Document Restoration for Robust Document Dewarping and Recognition.,2022,"Chuhui Xue, Zichen Tian, Fangneng Zhan, Shijian Lu, Song Bai",CVPR 2022: 4563-4572,CVPR,A*
+56,PTTR: Relational 3D Point Cloud Object Tracking with Transformer.,2022,"Changqing Zhou, Zhipeng Luo, Yueru Luo, Tianrui Liu, Liang Pan, Zhongang Cai, Haiyu Zhao, Shijian Lu",CVPR 2022: 8521-8530,CVPR,A*
+57,Spectral Unsupervised Domain Adaptation for Visual Recognition.,2022,"Jingyi Zhang, Jiaxing Huang, Zichen Tian, Shijian Lu",CVPR 2022: 9819-9830,CVPR,A*
+58,Unbiased Subclass Regularization for Semi-Supervised Semantic Segmentation.,2022,"Dayan Guan, Jiaxing Huang, Aoran Xiao, Shijian Lu",CVPR 2022: 9958-9968,CVPR,A*
+59,Marginal Contrastive Correspondence for Guided Image Generation.,2022,"Fangneng Zhan, Yingchen Yu, Rongliang Wu, Jiahui Zhang, Shijian Lu, Changgong Zhang",CVPR 2022: 10653-10662,CVPR,A*
+60,Modulated Contrast for Versatile Image Synthesis.,2022,"Fangneng Zhan, Jiahui Zhang, Yingchen Yu, Rongliang Wu, Shijian Lu",CVPR 2022: 18259-18269,CVPR,A*
+61,Auto-regressive Image Synthesis with Integrated Quantization.,2022,"Fangneng Zhan, Yingchen Yu, Rongliang Wu, Jiahui Zhang, Kaiwen Cui, Changgong Zhang, Shijian Lu",ECCV  2022: 110-127,ECCV,A*
+62,Bi-level Feature Alignment for Versatile Image Translation and Manipulation.,2022,"Fangneng Zhan, Yingchen Yu, Rongliang Wu, Jiahui Zhang, Kaiwen Cui, Aoran Xiao, Shijian Lu, Chunyan Miao",ECCV  2022: 224-241,ECCV,A*
+63,Language Matters: A Weakly Supervised Vision-Language Pre-training Approach for Scene Text Detection and Spotting.,2022,"Chuhui Xue, Wenqing Zhang, Yu Hao, Shijian Lu, Philip H. S. Torr, Song Bai",ECCV  2022: 284-302,ECCV,A*
+64,Contextual Text Block Detection Towards Scene Text Understanding.,2022,"Chuhui Xue, Jiaxing Huang, Wenqing Zhang, Shijian Lu, Changhu Wang, Song Bai",ECCV  2022: 374-391,ECCV,A*
+65,Domain Adaptive Video Segmentation via Temporal Pseudo Supervision.,2022,"Yun Xing, Dayan Guan, Jiaxing Huang, Shijian Lu",ECCV  2022: 621-639,ECCV,A*
+66,Music-to-Dance Generation with Optimal Transport.,2022,"Shuang Wu, Shijian Lu, Li Cheng",IJCAI 2022: 4988-4994,IJCAI,A*
+67,D-LC-Nets: Robust Denoising and Loop Closing Networks for LiDAR SLAM in Complicated Circumstances with Noisy Point Clouds.,2022,"Kangcheng Liu, Aoran Xiao, Jiaxing Huang, Kaiwen Cui, Yun Xing, Shijian Lu",IROS 2022: 12212-12218,IROS,A
+68,Towards Counterfactual Image Manipulation via CLIP.,2022,"Yingchen Yu, Fangneng Zhan, Rongliang Wu, Jiahui Zhang, Shijian Lu, Miaomiao Cui, Xuansong Xie, Xian-Sheng Hua, Chunyan Miao",ACM Multimedia 2022: 3637-3645,MM,Unranked
+69,VMRF: View Matching Neural Radiance Fields.,2022,"Jiahui Zhang, Fangneng Zhan, Rongliang Wu, Yingchen Yu, Wenqing Zhang, Bai Song, Xiaoqin Zhang, Shijian Lu",ACM Multimedia 2022: 6579-6587,MM,Unranked
+70,Masked Generative Adversarial Networks are Data-Efficient Generation Learners.,2022,"Jiaxing Huang, Kaiwen Cui, Dayan Guan, Aoran Xiao, Fangneng Zhan, Shijian Lu, Shengcai Liao, Eric P. Xing",NeurIPS 2022,NIPS,Unranked
+71,PolarMix: A General Data Augmentation Technique for LiDAR Point Clouds.,2022,"Aoran Xiao, Jiaxing Huang, Dayan Guan, Kaiwen Cui, Shijian Lu, Ling Shao",NeurIPS 2022,NIPS,Unranked
+72,Dual Learning Music Composition and Dance Choreography.,2022,"Shuang Wu, Zhenguang Liu, Shijian Lu, Li Cheng",CoRR abs/2201.11999 ,CORR,Unranked
+73,Unsupervised Representation Learning for Point Clouds: A Survey.,2022,"Aoran Xiao, Jiaxing Huang, Dayan Guan, Shijian Lu",CoRR abs/2202.13589 ,CORR,Unranked
+74,Language Matters: A Weakly Supervised Pre-training Approach for Scene Text Detection and Spotting.,2022,"Chuhui Xue, Yu Hao, Shijian Lu, Philip H. S. Torr, Song Bai",CoRR abs/2203.03911 ,CORR,Unranked
+75,Accelerating DETR Convergence via Semantic-Aligned Matching.,2022,"Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Kaiwen Cui, Shijian Lu",CoRR abs/2203.06883 ,CORR,Unranked
+76,Modulated Contrast for Versatile Image Synthesis.,2022,"Fangneng Zhan, Jiahui Zhang, Yingchen Yu, Rongliang Wu, Shijian Lu",CoRR abs/2203.09333 ,CORR,Unranked
+77,Fourier Document Restoration for Robust Document Dewarping and Recognition.,2022,"Chuhui Xue, Zichen Tian, Fangneng Zhan, Shijian Lu, Song Bai",CoRR abs/2203.09910 ,CORR,Unranked
+78,Unbiased Subclass Regularization for Semi-Supervised Semantic Segmentation.,2022,"Dayan Guan, Jiaxing Huang, Aoran Xiao, Shijian Lu",CoRR abs/2203.10026 ,CORR,Unranked
+79,Marginal Contrastive Correspondence for Guided Image Generation.,2022,"Fangneng Zhan, Yingchen Yu, Rongliang Wu, Jiahui Zhang, Shijian Lu, Changgong Zhang",CoRR abs/2204.00442 ,CORR,Unranked
+80,Hierarchical Mask Calibration for Unified Domain Adaptive Panoptic Segmentation.,2022,"Jingyi Zhang, Jiaxing Huang, Shijian Lu",CoRR abs/2206.15083 ,CORR,Unranked
+81,Domain Adaptive Video Segmentation via Temporal Pseudo Supervision.,2022,"Yun Xing, Dayan Guan, Jiaxing Huang, Shijian Lu",CoRR abs/2207.02372 ,CORR,Unranked
+82,VMRF: View Matching Neural Radiance Fields.,2022,"Jiahui Zhang, Fangneng Zhan, Rongliang Wu, Yingchen Yu, Wenqing Zhang, Song Bai, Xiaoqin Zhang, Shijian Lu",CoRR abs/2207.02621 ,CORR,Unranked
+83,Towards Counterfactual Image Manipulation via CLIP.,2022,"Yingchen Yu, Fangneng Zhan, Rongliang Wu, Jiahui Zhang, Shijian Lu, Miaomiao Cui, Xuansong Xie, Xian-Sheng Hua, Chunyan Miao",CoRR abs/2207.02812 ,CORR,Unranked
+84,Auto-regressive Image Synthesis with Integrated Quantization.,2022,"Fangneng Zhan, Yingchen Yu, Rongliang Wu, Jiahui Zhang, Kaiwen Cui, Changgong Zhang, Shijian Lu",CoRR abs/2207.10776 ,CORR,Unranked
+85,Contextual Text Block Detection towards Scene Text Understanding.,2022,"Chuhui Xue, Jiaxing Huang, Shijian Lu, Changhu Wang, Song Bai",CoRR abs/2207.12955 ,CORR,Unranked
+86,Semantic-Aligned Matching for Enhanced DETR Convergence and Multi-Scale Feature Fusion.,2022,"Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Jiaxing Huang, Kaiwen Cui, Shijian Lu, Eric P. Xing",CoRR abs/2207.14172 ,CORR,Unranked
+87,Meta-DETR: Image-Level Few-Shot Detection with Inter-Class Correlation Exploitation.,2022,"Gongjie Zhang, Zhipeng Luo, Kaiwen Cui, Shijian Lu, Eric P. Xing",CoRR abs/2208.00219 ,CORR,Unranked
+88,PolarMix: A General Data Augmentation Technique for LiDAR Point Clouds.,2022,"Aoran Xiao, Jiaxing Huang, Dayan Guan, Kaiwen Cui, Shijian Lu, Ling Shao",CoRR abs/2208.00223 ,CORR,Unranked
+89,Latent Multi-Relation Reasoning for GAN-Prior based Image Super-Resolution.,2022,"Jiahui Zhang, Fangneng Zhan, Yingchen Yu, Rongliang Wu, Xiaoqin Zhang, Shijian Lu",CoRR abs/2208.02861 ,CORR,Unranked
+90,TransPillars: Coarse-to-Fine Aggregation for Multi-Frame 3D Object Detection.,2022,"Zhipeng Luo, Gongjie Zhang, Changqing Zhou, Tianrui Liu, Shijian Lu, Liang Pan",CoRR abs/2208.03141 ,CORR,Unranked
+91,Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer.,2022,"Zhipeng Luo, Changqing Zhou, Liang Pan, Gongjie Zhang, Tianrui Liu, Yueru Luo, Haiyu Zhao, Ziwei Liu, Shijian Lu",CoRR abs/2208.05216 ,CORR,Unranked
+92,Towards Efficient Use of Multi-Scale Features in Transformer-Based Object Detectors.,2022,"Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Zichen Tian, Jingyi Zhang, Shijian Lu",CoRR abs/2208.11356 ,CORR,Unranked
+93,Domain Adaptive Scene Text Detection via Subcategorization.,2022,"Zichen Tian, Chuhui Xue, Jingyi Zhang, Shijian Lu",CoRR abs/2212.00377 ,CORR,Unranked
+94,DETR4D: Direct Multi-View 3D Object Detection with Sparse Attention.,2022,"Zhipeng Luo, Changqing Zhou, Gongjie Zhang, Shijian Lu",CoRR abs/2212.07849 ,CORR,Unranked
+95,"The Evolution and Determinants of Interorganizational Coinvention Networks in New Energy Vehicles: Evidence from Shenzhen, China.",2021,"Jia Liu, Zhaohui Chong, Shijian Lu",Complex. 2021: 6665945:1-6665945:12 ,COMPLEXITY,Unranked
+96,Brain MRI super-resolution using coupled-projection residual network.,2021,"Chun-Mei Feng, Kai Wang, Shijian Lu, Yong Xu, Xuelong Li",Neurocomputing 456: 190-199 ,IJON,Unranked
+97,Scale variance minimization for unsupervised domain adaptation in image segmentation.,2021,"Dayan Guan, Jiaxing Huang, Shijian Lu, Aoran Xiao",Pattern Recognit. 112: 107764 ,PR,Unranked
+98,Single-Image Dehazing via Compositional Adversarial Network.,2021,"Hongyuan Zhu, Yi Cheng, Xi Peng, Joey Tianyi Zhou, Zhao Kang, Shijian Lu, Zhiwen Fang, Liyuan Li, Joo-Hwee Lim",IEEE Trans. Cybern. 51: 829-838 ,TCYB,Unranked
+99,PoT-GAN: Pose Transform GAN for Person Image Synthesis.,2021,"Tianjiao Li, Wei Zhang, Ran Song, Zhiheng Li, Jun Liu, Xiaolei Li, Shijian Lu",IEEE Trans. Image Process. 30: 7677-7688 ,TIP,Unranked
+100,Salient Object Detection by Fusing Local and Global Contexts.,2021,"Qinghua Ren, Shijian Lu, Jinxia Zhang, Renjie Hu",IEEE Trans. Multim. 23: 1442-1453 ,TMM,Unranked
+101,Part-aware Progressive Unsupervised Domain Adaptation for Person Re-Identification.,2021,"Fan Yang, Ke Yan, Shijian Lu, Huizhu Jia, Don Xie, Zongqiao Yu, Xiaowei Guo, Feiyue Huang, Wen Gao",IEEE Trans. Multim. 23: 1681-1695 ,TMM,Unranked
+102,Visual Navigation With Multiple Goals Based on Deep Reinforcement Learning.,2021,"Zhenhuan Rao, Yuechen Wu, Zifei Yang, Wei Zhang, Shijian Lu, Weizhi Lu, Zhengjun Zha",IEEE Trans. Neural Networks Learn. Syst. 32: 5445-5455 ,TNN,Unranked
+103,Matching on Sets: Conquer Occluded Person Re-identification Without Alignment.,2021,"Mengxi Jia, Xinhua Cheng, Yunpeng Zhai, Shijian Lu, Siwei Ma, Yonghong Tian, Jian Zhang",AAAI 2021: 1673-1681,AAAI,A*
+104,EMLight: Lighting Estimation via Spherical Distribution Approximation.,2021,"Fangneng Zhan, Changgong Zhang, Yingchen Yu, Yuan Chang, Shijian Lu, Feiying Ma, Xuansong Xie",AAAI 2021: 3287-3295,AAAI,A*
+105,FSDR: Frequency Space Domain Randomization for Domain Generalization.,2021,"Jiaxing Huang, Dayan Guan, Aoran Xiao, Shijian Lu",CVPR 2021: 6891-6902,CVPR,A*
+106,Cross-View Regularization for Domain Adaptive Panoptic Segmentation.,2021,"Jiaxing Huang, Dayan Guan, Aoran Xiao, Shijian Lu",CVPR 2021: 10133-10144,CVPR,A*
+107,Unbalanced Feature Transport for Exemplar-Based Image Translation.,2021,"Fangneng Zhan, Yingchen Yu, Kaiwen Cui, Gongjie Zhang, Shijian Lu, Jianxiong Pan, Changgong Zhang, Feiying Ma, Xuansong Xie, Chunyan Miao",CVPR 2021: 15028-15038,CVPR,A*
+108,Domain Adaptive Video Segmentation via Temporal Consistency Regularization.,2021,"Dayan Guan, Jiaxing Huang, Aoran Xiao, Shijian Lu",ICCV 2021: 8033-8044,ICCV,A*
+109,Unsupervised Domain Adaptive 3D Detection with Multi-Level Consistency.,2021,"Zhipeng Luo, Zhongang Cai, Changqing Zhou, Gongjie Zhang, Haiyu Zhao, Shuai Yi, Shijian Lu, Hongsheng Li, Shanghang Zhang, Ziwei Liu",ICCV 2021: 8846-8855,ICCV,A*
+110,RDA: Robust Domain Adaptation via Fourier Adversarial Attacking.,2021,"Jiaxing Huang, Dayan Guan, Aoran Xiao, Shijian Lu",ICCV 2021: 8968-8979,ICCV,A*
+111,Sparse Needlets for Lighting Estimation with Spherical Transport Loss.,2021,"Fangneng Zhan, Changgong Zhang, Wenbo Hu, Shijian Lu, Feiying Ma, Xuansong Xie, Ling Shao",ICCV 2021: 12810-12819,ICCV,A*
+112,Skeleton Cloud Colorization for Unsupervised 3D Action Representation Learning.,2021,"Siyuan Yang, Jun Liu, Shijian Lu, Meng Hwa Er, Alex C. Kot",ICCV 2021: 13403-13413,ICCV,A*
+113,WaveFill: A Wavelet-based Generation Network for Image Inpainting.,2021,"Yingchen Yu, Fangneng Zhan, Shijian Lu, Jianxiong Pan, Feiying Ma, Xuansong Xie, Chunyan Miao",ICCV 2021: 14094-14103,ICCV,A*
+114,Diverse Image Inpainting with Bidirectional and Autoregressive Transformers.,2021,"Yingchen Yu, Fangneng Zhan, Rongliang Wu, Jianxiong Pan, Kaiwen Cui, Shijian Lu, Feiying Ma, Xuansong Xie, Chunyan Miao",ACM Multimedia 2021: 69-78,MM,Unranked
+115,Dual Learning Music Composition and Dance Choreography.,2021,"Shuang Wu, Zhenguang Liu, Shijian Lu, Li Cheng",ACM Multimedia 2021: 3746-3754,MM,Unranked
+116,Model Adaptation: Historical Contrastive Learning for Unsupervised Domain Adaptation without Source Data.,2021,"Jiaxing Huang, Dayan Guan, Aoran Xiao, Shijian Lu",NeurIPS 2021: 3635-3649,NIPS,Unranked
+117,Defect-GAN: High-Fidelity Defect Synthesis for Automated Defect Inspection.,2021,"Gongjie Zhang, Kaiwen Cui, Tzu-Yi Hung, Shijian Lu",WACV 2021: 2523-2533,WACV,A
+118,PNPDet: Efficient Few-shot Detection without Forgetting via Plug-and-Play Sub-networks.,2021,"Gongjie Zhang, Kaiwen Cui, Rongliang Wu, Shijian Lu, Yonghong Tian",WACV 2021: 3822-3831,WACV,A
+119,GMLight: Lighting Estimation via Geometric Distribution Approximation.,2021,"Fangneng Zhan, Yingchen Yu, Rongliang Wu, Changgong Zhang, Shijian Lu, Ling Shao, Feiying Ma, Xuansong Xie",CoRR abs/2102.10244 ,CORR,Unranked
+120,Uncertainty-Aware Unsupervised Domain Adaptation in Object Detection.,2021,"Dayan Guan, Jiaxing Huang, Aoran Xiao, Shijian Lu, Yanpeng Cao",CoRR abs/2103.00236 ,CORR,Unranked
+121,FPS-Net: A Convolutional Fusion Network for Large-Scale LiDAR Point Cloud Segmentation.,2021,"Aoran Xiao, Xiaofei Yang, Shijian Lu, Dayan Guan, Jiaxing Huang",CoRR abs/2103.00738 ,CORR,Unranked
+122,Detection and Rectification of Arbitrary Shaped Scene Texts by using Text Keypoints and Links.,2021,"Chuhui Xue, Shijian Lu, Steven C. H. Hoi",CoRR abs/2103.00785 ,CORR,Unranked
+123,FSDR: Frequency Space Domain Randomization for Domain Generalization.,2021,"Jiaxing Huang, Dayan Guan, Aoran Xiao, Shijian Lu",CoRR abs/2103.02370 ,CORR,Unranked
+124,Cross-View Regularization for Domain Adaptive Panoptic Segmentation.,2021,"Jiaxing Huang, Dayan Guan, Aoran Xiao, Shijian Lu",CoRR abs/2103.02584 ,CORR,Unranked
+125,ICDAR2019 Competition on Scanned Receipt OCR and Information Extraction.,2021,"Zheng Huang, Kai Chen, Jianhua He, Xiang Bai, Dimosthenis Karatzas, Shijian Lu, C. V. Jawahar",CoRR abs/2103.10213 ,CORR,Unranked
+126,Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning.,2021,"Gongjie Zhang, Zhipeng Luo, Kaiwen Cui, Shijian Lu",CoRR abs/2103.11731 ,CORR,Unranked
+127,MLAN: Multi-Level Adversarial Network for Domain Adaptive Semantic Segmentation.,2021,"Jiaxing Huang, Dayan Guan, Shijian Lu, Aoran Xiao",CoRR abs/2103.12991 ,CORR,Unranked
+128,Defect-GAN: High-Fidelity Defect Synthesis for Automated Defect Inspection.,2021,"Gongjie Zhang, Kaiwen Cui, Tzu-Yi Hung, Shijian Lu",CoRR abs/2103.15158 ,CORR,Unranked
+129,DA-DETR: Domain Adaptive Detection Transformer by Hybrid Attention.,2021,"Jingyi Zhang, Jiaxing Huang, Zhipeng Luo, Gongjie Zhang, Shijian Lu",CoRR abs/2103.17084 ,CORR,Unranked
+130,Diverse Image Inpainting with Bidirectional and Autoregressive Transformers.,2021,"Yingchen Yu, Fangneng Zhan, Rongliang Wu, Jianxiong Pan, Kaiwen Cui, Shijian Lu, Feiying Ma, Xuansong Xie, Chunyan Miao",CoRR abs/2104.12335 ,CORR,Unranked
+131,I2C2W: Image-to-Character-to-Word Transformers for Accurate Scene Text Recognition.,2021,"Chuhui Xue, Shijian Lu, Song Bai, Wenqing Zhang, Changhu Wang",CoRR abs/2105.08383 ,CORR,Unranked
+132,Semi-Supervised Domain Adaptation via Adaptive and Progressive Feature Alignment.,2021,"Jiaxing Huang, Dayan Guan, Aoran Xiao, Shijian Lu",CoRR abs/2106.02845 ,CORR,Unranked
+133,RDA: Robust Domain Adaptation via Fourier Adversarial Attacking.,2021,"Jiaxing Huang, Dayan Guan, Aoran Xiao, Shijian Lu",CoRR abs/2106.02874 ,CORR,Unranked
+134,Category Contrast for Unsupervised Domain Adaptation in Visual Tasks.,2021,"Jiaxing Huang, Dayan Guan, Aoran Xiao, Shijian Lu, Ling Shao",CoRR abs/2106.02885 ,CORR,Unranked
+135,Spectral Unsupervised Domain Adaptation for Visual Recognition.,2021,"Jingyi Zhang, Jiaxing Huang, Shijian Lu",CoRR abs/2106.06112 ,CORR,Unranked
+136,Domain Consistency Regularization for Unsupervised Multi-source Domain Adaptive Classification.,2021,"Zhipeng Luo, Xiaobing Zhang, Shijian Lu, Shuai Yi",CoRR abs/2106.08590 ,CORR,Unranked
+137,Unbalanced Feature Transport for Exemplar-based Image Translation.,2021,"Fangneng Zhan, Yingchen Yu, Kaiwen Cui, Gongjie Zhang, Shijian Lu, Jianxiong Pan, Changgong Zhang, Feiying Ma, Xuansong Xie, Chunyan Miao",CoRR abs/2106.10482 ,CORR,Unranked
+138,Sparse Needlets for Lighting Estimation with Spherical Transport Loss.,2021,"Fangneng Zhan, Changgong Zhang, Wenbo Hu, Shijian Lu, Feiying Ma, Xuansong Xie, Ling Shao",CoRR abs/2106.13090 ,CORR,Unranked
+139,Blind Image Super-Resolution via Contrastive Representation Learning.,2021,"Jiahui Zhang, Shijian Lu, Fangneng Zhan, Yingchen Yu",CoRR abs/2107.00708 ,CORR,Unranked
+140,Learning Disentangled Representation Implicitly via Transformer for Occluded Person Re-Identification.,2021,"Mengxi Jia, Xinhua Cheng, Shijian Lu, Jian Zhang",CoRR abs/2107.02380 ,CORR,Unranked
+141,Bi-level Feature Alignment for Versatile Image Translation and Manipulation.,2021,"Fangneng Zhan, Yingchen Yu, Rongliang Wu, Kaiwen Cui, Aoran Xiao, Shijian Lu, Ling Shao",CoRR abs/2107.03021 ,CORR,Unranked
+142,FBC-GAN: Diverse and Flexible Image Synthesis via Foreground-Background Composition.,2021,"Kaiwen Cui, Gongjie Zhang, Fangneng Zhan, Jiaxing Huang, Shijian Lu",CoRR abs/2107.03166 ,CORR,Unranked
+143,SynLiDAR: Learning From Synthetic LiDAR Sequential Point Cloud for Semantic Segmentation.,2021,"Aoran Xiao, Jiaxing Huang, Dayan Guan, Fangneng Zhan, Shijian Lu",CoRR abs/2107.05399 ,CORR,Unranked
+144,Domain Adaptive Video Segmentation via Temporal Consistency Regularization.,2021,"Dayan Guan, Jiaxing Huang, Aoran Xiao, Shijian Lu",CoRR abs/2107.11004 ,CORR,Unranked
+145,WaveFill: A Wavelet-based Generation Network for Image Inpainting.,2021,"Yingchen Yu, Fangneng Zhan, Shijian Lu, Jianxiong Pan, Feiying Ma, Xuansong Xie, Chunyan Miao",CoRR abs/2107.11027 ,CORR,Unranked
+146,Unsupervised Domain Adaptive 3D Detection with Multi-Level Consistency.,2021,"Zhipeng Luo, Zhongang Cai, Changqing Zhou, Gongjie Zhang, Haiyu Zhao, Shuai Yi, Shijian Lu, Hongsheng Li, Shanghang Zhang, Ziwei Liu",CoRR abs/2107.11355 ,CORR,Unranked
+147,Skeleton Cloud Colorization for Unsupervised 3D Action Representation Learning.,2021,"Siyuan Yang, Jun Liu, Shijian Lu, Meng Hwa Er, Alex C. Kot",CoRR abs/2108.01959 ,CORR,Unranked
+148,GenCo: Generative Co-training on Data-Limited Image Generation.,2021,"Kaiwen Cui, Jiaxing Huang, Zhipeng Luo, Gongjie Zhang, Fangneng Zhan, Shijian Lu",CoRR abs/2110.01254 ,CORR,Unranked
+149,Model Adaptation: Historical Contrastive Learning for Unsupervised Domain Adaptation without Source Data.,2021,"Jiaxing Huang, Dayan Guan, Aoran Xiao, Shijian Lu",CoRR abs/2110.03374 ,CORR,Unranked
+150,Music-to-Dance Generation with Optimal Transport.,2021,"Shuang Wu, Shijian Lu, Li Cheng",CoRR abs/2112.01806 ,CORR,Unranked
+151,PTTR: Relational 3D Point Cloud Object Tracking with Transformer.,2021,"Changqing Zhou, Zhipeng Luo, Yueru Luo, Tianrui Liu, Liang Pan, Zhongang Cai, Haiyu Zhao, Shijian Lu",CoRR abs/2112.02857 ,CORR,Unranked
+152,Multimodal Image Synthesis and Editing: A Survey.,2021,"Fangneng Zhan, Yingchen Yu, Rongliang Wu, Jiahui Zhang, Shijian Lu",CoRR abs/2112.13592 ,CORR,Unranked
+153,Investigating Pose Representations and Motion Contexts Modeling for 3D Motion Prediction.,2021,"Zhenguang Liu, Shuang Wu, Shuyuan Jin, Shouling Ji, Qi Liu, Shijian Lu, Li Cheng",CoRR abs/2112.15012 ,CORR,Unranked
+154,Synergistic 2D/3D Convolutional Neural Network for Hyperspectral Image Classification.,2020,"Xiaofei Yang, Xiaofeng Zhang, Yunming Ye, Raymond Y. K. Lau, Shijian Lu, Xutao Li, Xiaohui Huang",Remote. Sens. 12: 2033 ,REMOTESENSING,Unranked
+155,Adversarial Image Composition with Auxiliary Illumination.,2020,"Fangneng Zhan, Shijian Lu, Changgong Zhang, Feiying Ma, Xuansong Xie",ACCV  2020: 234-250,ACCV,B
+156,RF-GAN: A Light and Reconfigurable Network for Unpaired Image-to-Image Translation.,2020,"Ali Köksal, Shijian Lu",ACCV  2020: 542-559,ACCV,B
+157,Cascade EF-GAN: Progressive Facial Expression Editing With Local Focuses.,2020,"Rongliang Wu, Gongjie Zhang, Shijian Lu, Tao Chen",CVPR 2020: 5020-5029,CVPR,A*
+158,Suppressing Uncertainties for Large-Scale Facial Expression Recognition.,2020,"Kai Wang, Xiaojiang Peng, Jianfei Yang, Shijian Lu, Yu Qiao",CVPR 2020: 6896-6905,CVPR,A*
+159,AD-Cluster: Augmented Discriminative Clustering for Domain Adaptive Person Re-Identification.,2020,"Yunpeng Zhai, Shijian Lu, Qixiang Ye, Xuebo Shan, Jie Chen, Rongrong Ji, Yonghong Tian",CVPR 2020: 9018-9027,CVPR,A*
+160,AMLN: Adversarial-Based Mutual Learning Network for Online Knowledge Distillation.,2020,"Xiaobing Zhang, Shijian Lu, Haigang Gong, Zhipeng Luo, Ming Liu",ECCV  2020: 158-173,ECCV,A*
+161,Multiple Expert Brainstorming for Domain Adaptive Person Re-Identification.,2020,"Yunpeng Zhai, Qixiang Ye, Shijian Lu, Mengxi Jia, Rongrong Ji, Yonghong Tian",ECCV  2020: 594-611,ECCV,A*
+162,Contextual-Relation Consistent Domain Adaptation for Semantic Segmentation.,2020,"Jiaxing Huang, Shijian Lu, Dayan Guan, Xiaobing Zhang",ECCV  2020: 705-722,ECCV,A*
+163,Collaborative Learning of Gesture Recognition and 3D Hand Pose Estimation with Multi-order Feature Analysis.,2020,"Siyuan Yang, Jun Liu, Shijian Lu, Meng Hwa Er, Alex C. Kot",ECCV  2020: 769-786,ECCV,A*
+164,LEED: Label-Free Expression Editing via Disentanglement.,2020,"Rongliang Wu, Shijian Lu",ECCV  2020: 781-798,ECCV,A*
+165,Training Lightweight yet Competent Network via Transferring Complementary Features.,2020,"Xiaobing Zhang, Shijian Lu, Haigang Gong, Minghui Liu, Ming Liu",ICONIP  2020: 571-579,ICONIP,B
+166,A Similarity Inference Metric for RGB-Infrared Cross-Modality Person Re-identification.,2020,"Mengxi Jia, Yunpeng Zhai, Shijian Lu, Siwei Ma, Jian Zhang",IJCAI 2020: 1026-1032,IJCAI,A*
+167,Suppressing Uncertainties for Large-Scale Facial Expression Recognition.,2020,"Kai Wang, Xiaojiang Peng, Jianfei Yang, Shijian Lu, Yu Qiao",CoRR abs/2002.10392 ,CORR,Unranked
+168,Cascade EF-GAN: Progressive Facial Expression Editing with Local Focuses.,2020,"Rongliang Wu, Gongjie Zhang, Shijian Lu, Tao Chen",CoRR abs/2003.05905 ,CORR,Unranked
+169,Self-Guided Adaptation: Progressive Representation Alignment for Domain Adaptive Object Detection.,2020,"Zongxian Li, Qixiang Ye, Chong Zhang, Jingjing Liu, Shijian Lu, Yonghong Tian",CoRR abs/2003.08777 ,CORR,Unranked
+170,AD-Cluster: Augmented Discriminative Clustering for Domain Adaptive Person Re-identification.,2020,"Yunpeng Zhai, Shijian Lu, Qixiang Ye, Xuebo Shan, Jie Chen, Rongrong Ji, Yonghong Tian",CoRR abs/2004.08787 ,CORR,Unranked
+171,A Similarity Inference Metric for RGB-Infrared Cross-Modality Person Re-identification.,2020,"Mengxi Jia, Yunpeng Zhai, Shijian Lu, Siwei Ma, Jian Zhang",CoRR abs/2007.01504 ,CORR,Unranked
+172,Multiple Expert Brainstorming for Domain Adaptive Person Re-identification.,2020,"Yunpeng Zhai, Qixiang Ye, Shijian Lu, Mengxi Jia, Rongrong Ji, Yonghong Tian",CoRR abs/2007.01546 ,CORR,Unranked
+173,Contextual-Relation Consistent Domain Adaptation for Semantic Segmentation.,2020,"Jiaxing Huang, Shijian Lu, Dayan Guan, Xiaobing Zhang",CoRR abs/2007.02424 ,CORR,Unranked
+174,LEED: Label-Free Expression Editing via Disentanglement.,2020,"Rongliang Wu, Shijian Lu",CoRR abs/2007.08971 ,CORR,Unranked
+175,Adversarial Image Composition with Auxiliary Illumination.,2020,"Fangneng Zhan, Shijian Lu, Changgong Zhang, Feiying Ma, Xuansong Xie",CoRR abs/2009.08255 ,CORR,Unranked
+176,EMLight: Lighting Estimation via Spherical Distribution Approximation.,2020,"Fangneng Zhan, Changgong Zhang, Yingchen Yu, Yuan Chang, Shijian Lu, Feiying Ma, Xuansong Xie",CoRR abs/2012.11116 ,CORR,Unranked
+177,Attention driven person re-identification.,2019,"Fan Yang, Ke Yan, Shijian Lu, Huizhu Jia, Xiaodong Xie, Wen Gao",Pattern Recognit. 86: 143-155 ,PR,Unranked
+178,A pooling based scene text proposal technique for scene text reading in the wild.,2019,"Dinh Nguyen Van, Shijian Lu, Shangxuan Tian, Nizar Ouarti, Mounir Mokhtari",Pattern Recognit. 87: 118-129 ,PR,Unranked
+179,CAD-Net: A Context-Aware Detection Network for Objects in Remote Sensing Imagery.,2019,"Gongjie Zhang, Shijian Lu, Wei Zhang",IEEE Trans. Geosci. Remote. Sens. 57: 10015-10024 ,TGRS,Unranked
+180,SS-HCNN: Semi-Supervised Hierarchical Convolutional Neural Network for Image Classification.,2019,"Tao Chen, Shijian Lu, Jiayuan Fan",IEEE Trans. Image Process. 28: 2389-2398 ,TIP,Unranked
+181,ESIR: End-To-End Scene Text Recognition via Iterative Image Rectification.,2019,"Fangneng Zhan, Shijian Lu",CVPR 2019: 2059-2068,CVPR,A*
+182,Spatial Fusion GAN for Image Synthesis.,2019,"Fangneng Zhan, Hongyuan Zhu, Shijian Lu",CVPR 2019: 3653-3662,CVPR,A*
+183,Towards Natural and Accurate Future Motion Prediction of Humans and Animals.,2019,"Zhenguang Liu, Shuang Wu, Shuyuan Jin, Qi Liu, Shijian Lu, Roger Zimmermann, Li Cheng",CVPR 2019: 10004-10012,CVPR,A*
+184,GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition.,2019,"Fangneng Zhan, Chuhui Xue, Shijian Lu",ICCV 2019: 9104-9114,ICCV,A*
+185,ICDAR2019 Competition on Scanned Receipt OCR and Information Extraction.,2019,"Zheng Huang, Kai Chen, Jianhua He, Xiang Bai, Dimosthenis Karatzas, Shijian Lu, C. V. Jawahar",ICDAR 2019: 1516-1520,ICDAR,A
+186,ICDAR 2019 Robust Reading Challenge on Reading Chinese Text on Signboard.,2019,"Rui Zhang, Mingkun Yang, Xiang Bai, Baoguang Shi, Dimosthenis Karatzas, Shijian Lu, C. V. Jawahar, Yongsheng Zhou, Qianyi Jiang, Qi Song, Nan Li, Kai Zhou, Lei Wang, Dong Wang, Minghui Liao",ICDAR 2019: 1577-1581,ICDAR,A
+187,Exploring the Task Cooperation in Multi-goal Visual Navigation.,2019,"Yuechen Wu, Zhenhuan Rao, Wei Zhang, Shijian Lu, Weizhi Lu, Zheng-Jun Zha",IJCAI 2019: 609-615,IJCAI,A*
+188,MSR: Multi-Scale Shape Regression for Scene Text Detection.,2019,"Chuhui Xue, Shijian Lu, Wei Zhang",IJCAI 2019: 989-995,IJCAI,A*
+189,MSR: Multi-Scale Shape Regression for Scene Text Detection.,2019,"Chuhui Xue, Shijian Lu, Wei Zhang",CoRR abs/1901.02596 ,CORR,Unranked
+190,CAD-Net: A Context-Aware Detection Network for Objects in Remote Sensing Imagery.,2019,"Gongjie Zhang, Shijian Lu, Wei Zhang",CoRR abs/1903.00857 ,CORR,Unranked
+191,Coupled-Projection Residual Network for MRI Super-Resolution.,2019,"Chun-Mei Feng, Kai Wang, Shijian Lu, Yong Xu, Heng Kong, Ling Shao",CoRR abs/1907.05598 ,CORR,Unranked
+192,GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition.,2019,"Fangneng Zhan, Chuhui Xue, Shijian Lu",CoRR abs/1907.09653 ,CORR,Unranked
+193,Spatial-Aware GAN for Unsupervised Person Re-identification.,2019,"Fangneng Zhan, Shijian Lu, Aoran Xiao",CoRR abs/1911.11312 ,CORR,Unranked
+194,ICDAR 2019 Robust Reading Challenge on Reading Chinese Text on Signboard.,2019,"Xi Liu, Rui Zhang, Yongsheng Zhou, Qianyi Jiang, Qi Song, Nan Li, Kai Zhou, Lei Wang, Dong Wang, Minghui Liao, Mingkun Yang, Xiang Bai, Baoguang Shi, Dimosthenis Karatzas, Shijian Lu, C. V. Jawahar",CoRR abs/1912.09641 ,CORR,Unranked
+195,CCUS evaluation and simulation in a Chinese oil field.,2018,"Shijian Lu, Dongya Zhao, Wenhao Cui, Zhaomin Li, Quanmin Zhu",Int. J. Simul. Process. Model. 13: 228-237 ,IJSPM,Unranked
+196,S-CNN: Subcategory-Aware Convolutional Networks for Object Detection.,2018,"Tao Chen, Shijian Lu, Jiayuan Fan",IEEE Trans. Pattern Anal. Mach. Intell. 40: 2522-2528 ,PAMI,Unranked
+197,Superpixel Guided Deep-Sparse-Representation Learning for Hyperspectral Image Classification.,2018,"Jiayuan Fan, Tao Chen, Shijian Lu",IEEE Trans. Circuits Syst. Video Technol. 28: 3163-3173 ,TCSV,Unranked
+198,Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes.,2018,"Fangneng Zhan, Shijian Lu, Chuhui Xue",ECCV  2018: 257-273,ECCV,A*
+199,Accurate Scene Text Detection Through Border Semantics Awareness and Bootstrapping.,2018,"Chuhui Xue, Shijian Lu, Fangneng Zhan",ECCV  2018: 370-387,ECCV,A*
+200,Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes.,2018,"Fangneng Zhan, Shijian Lu, Chuhui Xue",CoRR abs/1807.03021 ,CORR,Unranked
+201,Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping.,2018,"Chuhui Xue, Shijian Lu, Fangneng Zhan",CoRR abs/1807.03547 ,CORR,Unranked
+202,Attention Driven Person Re-identification.,2018,"Fan Yang, Ke Yan, Shijian Lu, Huizhu Jia, Xiaodong Xie, Wen Gao",CoRR abs/1810.05866 ,CORR,Unranked
+203,A pooling based scene text proposal technique for scene text reading in the wild.,2018,"Dinh Nguyen Van, Shijian Lu, Shangxuan Tian, Nizar Ouarti, Mounir Mokhtari",CoRR abs/1811.10003 ,CORR,Unranked
+204,ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification.,2018,"Fangneng Zhan, Shijian Lu",CoRR abs/1812.05824 ,CORR,Unranked
+205,Spatial Fusion GAN for Image Synthesis.,2018,"Fangneng Zhan, Hongyuan Zhu, Shijian Lu",CoRR abs/1812.05840 ,CORR,Unranked
+206,Accurate HEp-2 cell classification based on sparse bag of words coding.,2017,"Shahab Ensafi, Shijian Lu, Ashraf A. Kassim, Chew Lim Tan",Comput. Medical Imaging Graph. 57: 40-49 ,CMIG,Unranked
+207,The research of net carbon reduction model for CCS-EOR projects and cases study.,2017,"Shijian Lu, Hang Liu, Dongya Zhao, Quanmin Zhu",Int. J. Simul. Process. Model. 12: 401-407 ,IJSPM,Unranked
+208,Accurate recognition of words in scenes without character segmentation using recurrent neural network.,2017,"Bolan Su, Shijian Lu",Pattern Recognit. 63: 397-405 ,PR,Unranked
+209,Robust Vehicle Detection and Viewpoint Estimation With Soft Discriminative Mixture Model.,2017,"Tao Chen, Shijian Lu",IEEE Trans. Circuits Syst. Video Technol. 27: 394-403 ,TCSV,Unranked
+210,Object-Level Motion Detection From Moving Cameras.,2017,"Tao Chen, Shijian Lu",IEEE Trans. Circuits Syst. Video Technol. 27: 2333-2343 ,TCSV,Unranked
+211,Unsupervised Feature Learning for Land-Use Scene Recognition.,2017,"Jiayuan Fan, Tao Chen, Shijian Lu",IEEE Trans. Geosci. Remote. Sens. 55: 2250-2261 ,TGRS,Unranked
+212,Subcategory-Aware Feature Selection and SVM Optimization for Automatic Aerial Image-Based Oil Spill Inspection.,2017,"Tao Chen, Shijian Lu",IEEE Trans. Geosci. Remote. Sens. 55: 5264-5273 ,TGRS,Unranked
+213,WeText: Scene Text Detection under Weak Supervision.,2017,"Shangxuan Tian, Shijian Lu, Chongshou Li",ICCV 2017: 1501-1509,ICCV,A*
+214,TORNADO: A Spatio-Temporal Convolutional Regression Network for Video Action Proposal.,2017,"Hongyuan Zhu, Romain Vial, Shijian Lu",ICCV 2017: 5814-5822,ICCV,A*
+215,Max-Pooling Based Scene Text Proposal for Scene Text Detection.,2017,"Dinh Nguyen Van, Shijian Lu, Xiang Bai, Nizar Ouarti, Mounir Mokhtari",ICDAR 2017: 1295-1300,ICDAR,A
+216,ICDAR2017 Competition on Reading Chinese Text in the Wild (RCTW-17).,2017,"Baoguang Shi, Cong Yao, Minghui Liao, Mingkun Yang, Pei Xu, Linyan Cui, Serge J. Belongie, Shijian Lu, Xiang Bai",ICDAR 2017: 1429-1434,ICDAR,A
+217,An integrated approach to visual attention modelling using spatial-temporal saliency and objectness.,2017,"Jean-Baptiste Weibel, Hui Li Tan, Shijian Lu",ICIP 2017: 440-444,ICIP,B
+218,Wordfence: Text detection in natural images with border awareness.,2017,"Andrei Polzounov, Artsiom Ablavatski, Sergio Escalera, Shijian Lu, Jianfei Cai",ICIP 2017: 1222-1226,ICIP,B
+219,Search video action proposal with recurrent and static YOLO.,2017,"Romain Vial, Hongyuan Zhu, Yonghong Tian, Shijian Lu",ICIP 2017: 2035-2039,ICIP,B
+220,Saliency-based change detection for aerial and remote sensing imageries.,2017,"Hui Li Tan, Shijian Lu",ICIP 2017: 3730-3734,ICIP,B
+221,Enriched Deep Recurrent Visual Attention Model for Multiple Object Recognition.,2017,"Artsiom Ablavatski, Shijian Lu, Jianfei Cai",WACV 2017: 971-978,WACV,A
+222,Text-Edge-Box: An Object Proposal Approach for Scene Texts Localization.,2017,"Dinh Nguyen, Shijian Lu, Nizar Ouarti, Mounir Mokhtari",WACV 2017: 1296-1305,WACV,A
+223,WordFence: Text Detection in Natural Images with Border Awareness.,2017,"Andrei Polzounov, Artsiom Ablavatski, Sergio Escalera, Shijian Lu, Jianfei Cai",CoRR abs/1705.05483 ,CORR,Unranked
+224,Enriched Deep Recurrent Visual Attention Model for Multiple Object Recognition.,2017,"Artsiom Ablavatski, Shijian Lu, Jianfei Cai",CoRR abs/1706.03581 ,CORR,Unranked
+225,YoTube: Searching Action Proposal via Recurrent and Static Regression Networks.,2017,"Hongyuan Zhu, Romain Vial, Shijian Lu, Yonghong Tian, Xianbin Cao",CoRR abs/1706.08218 ,CORR,Unranked
+226,ICDAR2017 Competition on Reading Chinese Text in the Wild (RCTW-17).,2017,"Baoguang Shi, Cong Yao, Minghui Liao, Mingkun Yang, Pei Xu, Linyan Cui, Serge J. Belongie, Shijian Lu, Xiang Bai",CoRR abs/1708.09585 ,CORR,Unranked
+227,WeText: Scene Text Detection under Weak Supervision.,2017,"Shangxuan Tian, Shijian Lu, Chongshou Li",CoRR abs/1710.04826 ,CORR,Unranked
+228,Modelling and evaluating CCUS: a survey.,2016,"Qunhong Tian, Dongya Zhao, Zhaomin Li, Jian Zhang, Qingfang Li, Haili Liu, Shijian Lu",Int. J. Comput. Appl. Technol. 53: 1-12 ,IJCAT,Unranked
+229,Beyond pixels: A comprehensive survey from bottom-up to semantic image segmentation and cosegmentation.,2016,"Hongyuan Zhu, Fanman Meng, Jianfei Cai, Shijian Lu",J. Vis. Commun. Image Represent. 34: 12-27 ,JVCIR,Unranked
+230,Multilingual scene character recognition with co-occurrence of histogram of oriented gradients.,2016,"Shangxuan Tian, Ujjwal Bhattacharya, Shijian Lu, Bolan Su, Qingqing Wang, Xiaohua Wei, Yue Lu, Chew Lim Tan",Pattern Recognit. 51: 125-134 ,PR,Unranked
+231,Accurate HEp-2 cell classification based on Sparse Coding of Superpixels.,2016,"Shahab Ensafi, Shijian Lu, Ashraf A. Kassim, Chew Lim Tan",Pattern Recognit. Lett. 82: 64-71 ,PRL,Unranked
+232,Multiple Human Identification and Cosegmentation: A Human-Oriented CRF Approach With Poselets.,2016,"Hongyuan Zhu, Jiangbo Lu, Jianfei Cai, Jianmin Zheng, Shijian Lu, Nadia Magnenat-Thalmann",IEEE Trans. Multim. 18: 1516-1530 ,TMM,Unranked
+233,Accurate and Efficient Traffic Sign Detection Using Discriminative AdaBoost and Support Vector Regression.,2016,"Tao Chen, Shijian Lu",IEEE Trans. Veh. Technol. 65: 4006-4015 ,TVT,Unranked
+234,Discriminative Multi-modal Feature Fusion for RGBD Indoor Scene Recognition.,2016,"Hongyuan Zhu, Jean-Baptiste Weibel, Shijian Lu",CVPR 2016: 2969-2976,CVPR,A*
+235,Classification of HEp-2 cells using distributed dictionary learning.,2016,"Sadaf Monajemi, Shahab Ensafi, Shijian Lu, Ashraf A. Kassim, Chew Lim Tan, Saeid Sanei, Sim Heng Ong",EUSIPCO 2016: 1163-1167,EUSIPCO,Unranked
+236,Text Flow: A Unified Text Detection System in Natural Scene Images.,2016,"Shangxuan Tian, Yifeng Pan, Chang Huang, Shijian Lu, Kai Yu, Chew Lim Tan",CoRR abs/1604.06877 ,CORR,Unranked
+237,Scene text extraction based on edges and support vector regression.,2015,"Shijian Lu, Tao Chen, Shangxuan Tian, Joo-Hwee Lim, Chew Lim Tan",Int. J. Document Anal. Recognit. 18: 125-135 ,IJDAR,Unranked
+238,Context-aware vocabulary tree for mobile landmark recognition.,2015,"Tao Chen, Shijian Lu, Jiayuan Fan",J. Vis. Commun. Image Represent. 30: 289-298 ,JVCIR,Unranked
+239,Diagnosing state-of-the-art object proposal methods.,2015,"Hongyuan Zhu, Shijian Lu, Jianfei Cai, Guangqing Lee",BMVC 2015: 11.1-11.12,BMVC,A
+240,Text Flow: A Unified Text Detection System in Natural Scene Images.,2015,"Shangxuan Tian, Yifeng Pan, Chang Huang, Shijian Lu, Kai Yu, Chew Lim Tan",ICCV 2015: 4651-4659,ICCV,A*
+241,Robust text segmentation using graph cut.,2015,"Shangxuan Tian, Shijian Lu, Bolan Su, Chew Lim Tan",ICDAR 2015: 331-335,ICDAR,A
+242,Segmented handwritten text recognition with recurrent neural network classifiers.,2015,"Bolan Su, Xi Zhang, Shijian Lu, Chew Lim Tan",ICDAR 2015: 386-390,ICDAR,A
+243,ICDAR 2015 competition on Robust Reading.,2015,"Dimosthenis Karatzas, Lluis Gomez-Bigorda, Anguelos Nicolaou, Suman K. Ghosh, Andrew D. Bagdanov, Masakazu Iwamura, Jiri Matas, Lukás Neumann, Vijay Ramaseshan Chandrasekhar, Shijian Lu, Faisal Shafait, Seiichi Uchida, Ernest Valveny",ICDAR 2015: 1156-1160,ICDAR,A
+244,DPM revisited: Utilizing root-part spatial distribution for vehicle viewpoint estimation.,2015,"Tao Chen, Shijian Lu",ICIP 2015: 2169-2173,ICIP,B
+245,Context-aware lane marking detection on urban roads.,2015,"Tao Chen, Shijian Lu",ICIP 2015: 2557-2561,ICIP,B
+246,Sparse non-parametric Bayesian model for HEP-2 cell image classification.,2015,"Shahab Ensafi, Shijian Lu, Ashraf A. Kassim, Chew Lim Tan",ISBI 2015: 679-682,ISBI,Unranked
+247,Multimodal Dictionary Learning and Joint Sparse Representation for HEp-2 Cell Classification.,2015,"Ali Taalimi, Shahab Ensafi, Hairong Qi, Shijian Lu, Ashraf A. Kassim, Chew Lim Tan",MICCAI  2015: 308-315,MICCAI,A
+248,Detection of high-grade atypia nuclei in breast cancer imaging.,2015,"Henri Noël, Ludovic Roux, Shijian Lu, Thomas Boudier",Medical Imaging: Digital Pathology 2015: 94200R,MIDP,Unranked
+249,Vegetation coverage detection from very high resolution satellite imagery.,2015,"Jiayuan Fan, Tao Chen, Shijian Lu",VCIP 2015: 1-4,VCIP,C
+250,Beyond Pixels: A Comprehensive Survey from Bottom-up to Semantic Image Segmentation and Cosegmentation.,2015,"Hongyuan Zhu, Fanman Meng, Jianfei Cai, Shijian Lu",CoRR abs/1502.00717 ,CORR,Unranked
+251,Diagnosing State-Of-The-Art Object Proposal Methods.,2015,"Hongyuan Zhu, Shijian Lu, Jianfei Cai, Guangqing Lee",CoRR abs/1507.04512 ,CORR,Unranked
+252,An engineering-economic model for CO2 pipeline transportation in China.,2014,"Dongya Zhao, Jian Zhang, Zhaomin Li, Qingfang Li, Haili Liu, Shijian Lu",Int. J. Comput. Appl. Technol. 49: 60-68 ,IJCAT,Unranked
+253,Robust and Efficient Saliency Modeling from Image Co-Occurrence Histograms.,2014,"Shijian Lu, Cheston Tan, Joo-Hwee Lim",IEEE Trans. Pattern Anal. Mach. Intell. 36: 195-201 ,PAMI,Unranked
+254,Accurate Scene Text Recognition Based on Recurrent Neural Network.,2014,"Bolan Su, Shijian Lu",ACCV  2014: 35-48,ACCV,B
+255,Search Guided Saliency.,2014,"Shijian Lu, Byung-Uck Kim, Nicolas Loménie, Joo-Hwee Lim, Jianfei Cai",ACCV Workshops  2014: 443-456,ACCV,B
+256,3D reconstruction of neurons in electron microscopy images.,2014,"Shahab Ensafi, Shijian Lu, Ashraf A. Kassim, Chew Lim Tan",EMBC 2014: 6732-6735,EMBC,Unranked
+257,Context-aware codebook learning for mobile landmark recognition.,2014,"Tao Chen, Jiayuan Fan, Shijian Lu",ICIP 2014: 3963-3967,ICIP,B
+258,A Bag of Words Based Approach for Classification of HEp-2 Cell Images.,2014,"Shahab Ensafi, Shijian Lu, Ashraf A. Kassim, Chew Lim Tan",I3A@ICPR 2014: 29-32,ICPR,B
+259,Scene Text Segmentation with Multi-level Maximally Stable Extremal Regions.,2014,"Shangxuan Tian, Shijian Lu, Bolan Su, Chew Lim Tan",ICPR 2014: 2703-2708,ICPR,B
+260,Character Recognition in Natural Scenes Using Convolutional Co-occurrence HOG.,2014,"Bolan Su, Shijian Lu, Shangxuan Tian, Joo-Hwee Lim, Chew Lim Tan",ICPR 2014: 2926-2931,ICPR,B
+261,Automated Prediction of Glasgow Outcome Scale for Traumatic Brain Injury.,2014,"Bolan Su, Thien Anh Dinh, Abhinit Kumar Ambastha, Tianxia Gong, Tomi Silander, Shijian Lu, C. C. Tchoyoson Lim, Boon Chuan Pang, Cheng Kiang Lee, Tze-Yun Leong, Chew Lim Tan",ICPR 2014: 3245-3250,ICPR,B
+262,Automatic CAD System for HEp-2 Cell Image Classification.,2014,"Shahab Ensafi, Shijian Lu, Ashraf A. Kassim, Chew Lim Tan",ICPR 2014: 3321-3326,ICPR,B
+263,A System for Parking Lot Marking Detection.,2014,"Bolan Su, Shijian Lu",PCM 2014: 268-273,PCM,Unranked
+264,Gradient Vector Flow and Grouping-Based Method for Arbitrarily Oriented Scene Text Detection in Video Images.,2013,"Palaiahnakote Shivakumara, Trung Quy Phan, Shijian Lu, Chew Lim Tan",IEEE Trans. Circuits Syst. Video Technol. 23: 1729-1739 ,TCSV,Unranked
+265,Robust Document Image Binarization Technique for Degraded Document Images.,2013,"Bolan Su, Shijian Lu, Chew Lim Tan",IEEE Trans. Image Process. 22: 1408-1417 ,TIP,Unranked
+266,Adaptive picture-in-picture technology based on visual saliency.,2013,"Shijian Lu, Byung-Uck Kim, Nicolas Loménie, Joo-Hwee Lim",APSIPA 2013: 1-4,APSIPA,Unranked
+267,Self Learning Classification for Degraded Document Images by Sparse Representation.,2013,"Bolan Su, Shangxuan Tian, Shijian Lu, Thien Anh Dinh, Chew Lim Tan",ICDAR 2013: 155-159,ICDAR,A
+268,Scene Text Recognition Using Co-occurrence of Histogram of Oriented Gradients.,2013,"Shangxuan Tian, Shijian Lu, Bolan Su, Chew Lim Tan",ICDAR 2013: 912-916,ICDAR,A
+269,Multioriented Video Scene Text Detection Through Bayesian Classification and Boundary Growing.,2012,"Palaiahnakote Shivakumara, Rushi Padhuman Sreedhar, Trung Quy Phan, Shijian Lu, Chew Lim Tan",IEEE Trans. Circuits Syst. Video Technol. 22: 1227-1235 ,TCSV,Unranked
+270,Visual Attention is Attracted by Text Features Even in Scenes without Text.,2012,"Hsueh-Cheng Wang, Shijian Lu, Joo-Hwee Lim, Marc Pomplun",CogSci 2012,COGSCI,Unranked
+271,New Spatial-Gradient-Features for Video Script Identification.,2012,"Danni Zhao, Palaiahnakote Shivakumara, Shijian Lu, Chew Lim Tan",Document Analysis Systems 2012: 38-42,DAS,B
+272,An Effective Staff Detection and Removal Technique for Musical Documents.,2012,"Bolan Su, Shijian Lu, Umapada Pal, Chew Lim Tan",Document Analysis Systems 2012: 160-164,DAS,B
+273,Saliency Modeling from Image Histograms.,2012,"Shijian Lu, Joo-Hwee Lim",ECCV  2012: 321-332,ECCV,A*
+274,Character extraction in web image for text recognition.,2012,"Bolan Su, Shijian Lu, Trung Quy Phan, Chew Lim Tan",ICPR 2012: 3042-3045,ICPR,B
+275,A learning framework for degraded document image binarization using Markov Random Field.,2012,"Bolan Su, Shijian Lu, Chew Lim Tan",ICPR 2012: 3200-3203,ICPR,B
+276,Autonomous Viewpoint Control from Saliency.,2012,"Shijian Lu, Joo-Hwee Lim",Living Machines 2012: 373-374,LM,Unranked
+277,Restoration of motion blurred document images.,2012,"Bolan Su, Shijian Lu, Chew Lim Tan",SAC 2012: 767-770,SAC,B
+278,Restoration of motion blurred document images.,2012,"Bolan Su, Shijian Lu, Chew Lim Tan",SAC 2012: 767-770,SAC,Multiconference
+279,Automatic Optic Disc Detection From Retinal Images by a Line Operator.,2011,"Shijian Lu, Joo-Hwee Lim",IEEE Trans. Biomed. Eng. 58: 88-94 ,TBE,Unranked
+280,Accurate and Efficient Optic Disc Detection and Segmentation by a Circular Transformation.,2011,Shijian Lu,IEEE Trans. Medical Imaging 30: 2126-2133 ,TMI,Unranked
+281,Combination of Document Image Binarization Techniques.,2011,"Bolan Su, Shijian Lu, Chew Lim Tan",ICDAR 2011: 22-26,ICDAR,A
+282,Video Character Recognition through Hierarchical Classification.,2011,"Palaiahnakote Shivakumara, Trung Quy Phan, Shijian Lu, Chew Lim Tan",ICDAR 2011: 131-135,ICDAR,A
+283,A New Fourier-Moments Based Video Word and Character Extraction Method for Recognition.,2011,"Deepak Rajendran, Palaiahnakote Shivakumara, Bolan Su, Shijian Lu, Chew Lim Tan",ICDAR 2011: 1165-1169,ICDAR,A
+284,Video Script Identification Based on Text Lines.,2011,"Trung Quy Phan, Palaiahnakote Shivakumara, Zhang Ding, Shijian Lu, Chew Lim Tan",ICDAR 2011: 1240-1244,ICDAR,A
+285,Blurred image region detection and classification.,2011,"Bolan Su, Shijian Lu, Chew Lim Tan",ACM Multimedia 2011: 1397-1400,MM,Unranked
+286,Document image binarization using background estimation and stroke edges.,2010,"Shijian Lu, Bolan Su, Chew Lim Tan",Int. J. Document Anal. Recognit. 13: 303-314 ,IJDAR,Unranked
+287,Identification of scripts and orientations of degraded document images.,2010,"Shijian Lu, Linlin Li, Chew Lim Tan",Pattern Anal. Appl. 13: 469-475 ,PAA,Unranked
+288,Automated Layer Segmentation of Optical Coherence Tomography Images.,2010,"Shijian Lu, Carol Yim-lui Cheung, Jiang Liu, Joo-Hwee Lim, Christopher Kai-shun Leung, Tien Yin Wong",IEEE Trans. Biomed. Eng. 57: 2605-2608 ,TBE,Unranked
+289,Binarization of historical document images using the local maximum and minimum.,2010,"Bolan Su, Shijian Lu, Chew Lim Tan",Document Analysis Systems 2010: 159-166,DAS,B
+290,Automatic optic disc detection through background estimation.,2010,"Shijian Lu, Joo-Hwee Lim",ICIP 2010: 833-836,ICIP,B
+291,Automatic macula detection from retinal images by a line operator.,2010,"Shijian Lu, Joo-Hwee Lim",ICIP 2010: 4073-4076,ICIP,B
+292,A Self-Training Learning Document Binarization Framework.,2010,"Bolan Su, Shijian Lu, Chew Lim Tan",ICPR 2010: 3187-3190,ICPR,B
+293,Automatic classification of pathological myopia in retinal fundus images using PAMELA.,2010,"Jiang Liu, Damon Wing Kee Wong, Ngan Meng Tan, Zhuo Zhang, Shijian Lu, Joo-Hwee Lim, Huiqi Li, Seang Mei Saw, Louis Tong, Tien Yin Wong",Medical Imaging: Computer-Aided Diagnosis 2010: 76240G,MICAD,Unranked
+294,Classification of left and right eye retinal images.,2010,"Ngan Meng Tan, Jiang Liu, Damon Wing Kee Wong, Zhuo Zhang, Shijian Lu, Joo-Hwee Lim, Huiqi Li, Tien Yin Wong",Medical Imaging: Computer-Aided Diagnosis 2010: 762438,MICAD,Unranked
+295,Enhancement of optic cup detection through an improved vessel kink detection framework.,2010,"Damon Wing Kee Wong, Jiang Liu, Ngan Meng Tan, Zhuo Zhang, Shijian Lu, Joo-Hwee Lim, Huiqi Li, Tien Yin Wong",Medical Imaging: Computer-Aided Diagnosis 2010: 762439,MICAD,Unranked
+296,Automatic optic disc segmentation based on image brightness and contrast.,2010,"Shijian Lu, Jiang Liu, Joo-Hwee Lim, Zhuo Zhang, Ngan Meng Tan, Damon Wing Kee Wong, Huiqi Li, Tien Yin Wong",Medical Imaging: Image Processing 2010: 76234J,MIIP,Unranked
+297,Harvesting discourse strategies for rapid prototyping of tailored information delivery systems.,2010,"Shijian Lu, Cécile Paris",VINCI 2010: 17,VINCI,C
+298,Computerized Systems for Cataract Grading.,2009,"Huiqi Li, Joo-Hwee Lim, Jiang Liu, Damon Wing Kee Wong, Ngan Meng Tan, Shijian Lu, Zhuo Zhang, Tien Yin Wong",BMEI 2009: 1-4,BMEI,Unranked
+299,Neuro-Retinal Optic Cup Detection in Glaucoma Diagnosis.,2009,"Zhuo Zhang, Jiang Liu, Damon Wing Kee Wong, Ngan Meng Tan, Joo-Hwee Lim, Shijian Lu, Huiqi Li, Ziyang Liang, Tien Yin Wong",BMEI 2009: 1-4,BMEI,Unranked
+300,Photometric correction of retinal images by polynomial interpolation.,2009,"Jiang Liu, Shijian Lu, Joo-Hwee Lim, Zhuo Zhang, Ngan Meng Tan, Damon Wing Kee Wong, Huiqi Li, Tien Yin Wong",ICIP 2009: 3893-3896,ICIP,B
+301,Script and Language Identification in Noisy and Degraded Document Images.,2008,"Shijian Lu, Chew Lim Tan",IEEE Trans. Pattern Anal. Mach. Intell. 30: 14-24 ,PAMI,Unranked
+302,Document Image Retrieval through Word Shape Coding.,2008,"Shijian Lu, Linlin Li, Chew Lim Tan",IEEE Trans. Pattern Anal. Mach. Intell. 30: 1913-1918 ,PAMI,Unranked
+303,Retrieval of machine-printed Latin documents through Word Shape Coding.,2008,"Shijian Lu, Chew Lim Tan",Pattern Recognit. 41: 1799-1809 ,PR,Unranked
+304,Subject-independent brain computer interface through boosting.,2008,"Shijian Lu, Cuntai Guan, Haihong Zhang",ICPR 2008: 1-4,ICPR,B
+305,Learning adaptive subject-independent P300 models for EEG-based brain-computer interfaces.,2008,"Shijian Lu, Cuntai Guan, Haihong Zhang",IJCNN 2008: 2461-2465,IJCNN,B
+306,Specifying documents in an adaptive hypermedia generation environment: an authoring tool prototype.,2007,"Shijian Lu, Cécile Paris",Int. J. Learn. Technol. 3: 324-340 ,IJLT,Unranked
+307,Thresholding of badly illuminated document images through photometric correction.,2007,"Shijian Lu, Chew Lim Tan",ACM Symposium on Document Engineering 2007: 3-8,DOCENG,Unranked
+308,A Figure Image Processing System.,2007,"Linlin Li, Shijian Lu, Chew Lim Tan",GREC 2007: 191-201,GREC,Unranked
+309,Keyword Spotting and Retrieval of Document Images Captured by a Digital Camera.,2007,"Shijian Lu, Chew Lim Tan",ICDAR 2007: 994-998,ICDAR,A
+310,Information Access Efficiency: A Measure and Case Study.,2006,"Shijian Lu, Cécile Paris",Aust. J. Intell. Inf. Process. Syst. 9: 57-63 ,AJIIPS,Unranked
+311,A partition approach for the restoration of camera images of planar and curled document.,2006,"Shijian Lu, Ben M. Chen, Chi Chung Ko",Image Vis. Comput. 24: 837-848 ,IVC,Unranked
+312,Script and Language Identification in Degraded and Distorted Document Images.,2006,"Shijian Lu, Chew Lim Tan",AAAI 2006: 769-774,AAAI,A*
+313,Language Identification in Degraded and Distorted Document Images.,2006,"Shijian Lu, Chew Lim Tan, Weihua Huang",Document Analysis Systems 2006: 232-242,DAS,B
+314,The Restoration of Camera Documents Through Image Segmentation.,2006,"Shijian Lu, Chew Lim Tan",Document Analysis Systems 2006: 484-495,DAS,B
+315,Document Flattening through Grid Modeling and Regularization.,2006,"Shijian Lu, Chew Lim Tan",ICPR  2006: 971-974,ICPR,B
+316,Camera Text Recognition based on Perspective Invariants.,2006,"Shijian Lu, Chew Lim Tan",ICPR  2006: 1042-1045,ICPR,B
+317,Automatic document orientation detection and categorization through document vectorization.,2006,"Shijian Lu, Chew Lim Tan",ACM Multimedia 2006: 113-116,MM,Unranked
+318,Perspective rectification of document images using fuzzy set and morphological operations.,2005,"Shijian Lu, Ben M. Chen, Chi Chung Ko",Image Vis. Comput. 23: 541-553 ,IVC,Unranked
+319,A Novel Approach for Web-based Data Input Panel Design.,2005,"Xinyong Zhang, Xiangshi Ren, Shijian Lu",CIT 2005: 853-857,IEEECIT,Unranked
+320,Myriad: An Architecture for Contextualized Information Retrieval and Delivery.,2004,"Cécile Paris, Mingfang Wu, Keith Vander Linden, Matthew Post, Shijian Lu",AH 2004: 205-214,AH,Unranked
+321,Document image rectification using fuzzy sets and morphological operators.,2004,"Shijian Lu, Ben M. Chen, Chi Chung Ko",ICIP 2004: 2877-2880,ICIP,B
+322,Generating UML diagrams from task models.,2003,"Shijian Lu, Cécile Paris, Keith Vander Linden, Nathalie Colineau",CHINZ 2003: 9-14,CHINZ,Unranked
+323,Automated knowledge acquisition for instructional text generation.,2002,"Cécile Paris, Keith Vander Linden, Shijian Lu",SIGDOC 2002: 142-151,SIGDOC,Unranked
+324,Generating Personal Travel Guides from Discourse Plans.,2000,"Ross Wilkinson, Shijian Lu, François Paradis, Cécile Paris, Stephen Wan, Mingfang Wu",AH 2000: 392-395,AH,Unranked
+325,Automatic Acquisition of Task Models from Object Oriented Design Specifications: A Case Study.,1999,"Shijian Lu, Cécile Paris",ECOOP Workshops 1999: 281-282,ECOOPW,Unranked
+326,"Incorporating work, process and task analysis into commercial and industrial object-oriented systems development.",1998,"John Artim, Mark van Harmelen, Keith Butler, Jan Gulliksen, Austin Henderson, Srdjan Kovacevic, Shijian Lu, Scott Overmyer, Ray Reaux, Dave Roberts, Jean-Claude Tarby, Keith Vander Linden",ACM SIGCHI Bull. 30: 33-36 ,SIGCHI,Unranked
+327,Toward the Automatic Construction of Task Models from Object-Oriented Diagrams.,1998,"Shijian Lu, Cécile Paris, Keith Vander Linden",EHCI 1998: 169-189,EHCI,Unranked
+328,The Visualisation of Web Usage.,1998,"R. Spence, Stéphane Chatty, Henrik Bærbak Christensen, Kenneth P. Fishkin, Lorraine Johnston, Nicole de Koning, Shijian Lu, Laurence Nigay, Ricardo Orosco, Jean Scholtz",EHCI 1998: 351-361,EHCI,Unranked
+329,Groupware Support Tools for Collaborative Software Engineering.,1997,"Ian Gorton, Igor T. Hawryszkiewycz, Kenny Ragoonaden, Charles Chung, Shijian Lu, Guneet Randhawa",HICSS  1997: 157-166,HICSS,Unranked
+330,A Distributed Multimedia News Archive Service for Interactive Television.,1997,"Ian Gorton, Toong Shoon Chan, Shijian Lu, Charles Chung",HICSS  1997: 219-228,HICSS,Unranked

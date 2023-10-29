@@ -1,0 +1,316 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Classifying ambiguous identities in hidden-role Stochastic games with multi-agent reinforcement learning.,2023,"Shijie Han, Siyuan Li, Bo An, Wei Zhao, Peng Liu",Auton. Agents Multi Agent Syst. 37: 35 ,AAMAS,A*
+1,Effective Interpretable Policy Distillation via Critical Experience Point Identification.,2023,"Xiao Liu, Shuyang Liu, Bo An, Yang Gao, Shangdong Yang, Wenbin Li",IEEE Intell. Syst. 38: 28-36 ,EXPERT,Unranked
+2,Multi-agent dueling Q-learning with mean field and value decomposition.,2023,"Shifei Ding, Wei Du, Ling Ding, Lili Guo, Jian Zhang, Bo An",Pattern Recognit. 139: 109436 ,PR,Unranked
+3,Reinforcement Learning for Quantitative Trading.,2023,"Shuo Sun, Rundong Wang, Bo An",ACM Trans. Intell. Syst. Technol. 14: 44:1-44:29 ,TIST,Unranked
+4,Multiple-Instance Learning From Unlabeled Bags With Pairwise Similarity.,2023,"Lei Feng, Senlin Shu, Yuzhou Cao, Lue Tao, Hongxin Wei, Tao Xiang, Bo An, Gang Niu",IEEE Trans. Knowl. Data Eng. 35: 11599-11609 ,TKDE,Unranked
+5,PRUDEX-Compass: Towards Systematic Evaluation of Reinforcement Learning in Financial Markets.,2023,"Shuo Sun, Molei Qin, Xinrun Wang, Bo An",Trans. Mach. Learn. Res. 2023 ,TMLR,Unranked
+6,An Efficient Deep Reinforcement Learning Algorithm for Solving Imperfect Information Extensive-Form Games.,2023,"Linjian Meng, Zhenxing Ge, Pinzhuo Tian, Bo An, Yang Gao",AAAI 2023: 5823-5831,AAAI,A*
+7,Partial-Label Regression.,2023,"Xin Cheng, Deng-Bao Wang, Lei Feng, Min-Ling Zhang, Bo An",AAAI 2023: 7140-7147,AAAI,A*
+8,Solving Large-Scale Pursuit-Evasion Games Using Pre-trained Strategies.,2023,"Shuxin Li, Xinrun Wang, Youzhi Zhang, Wanqi Xue, Jakub Cerný, Bo An",AAAI 2023: 11586-11594,AAAI,A*
+9,Consistent Complementary-Label Learning via Order-Preserving Losses.,2023,"Shuqi Liu, Yuzhou Cao, Qiaozhen Zhang, Lei Feng, Bo An",AISTATS 2023: 8734-8748,AISTATS,A
+10,Structural Credit Assignment-Guided Coordinated MCTS: An Efficient and Scalable Method for Online Multiagent Planning.,2023,"Qian Che, Wanyuan Wang, Fengchen Wang, Tianchi Qiao, Xiang Liu, Jiuchuan Jiang, Bo An, Yichuan Jiang",AAMAS 2023: 543-551,ATAL,Unranked
+11,Off-Beat Multi-Agent Reinforcement Learning.,2023,"Wei Qiu, Weixun Wang, Rundong Wang, Bo An, Yujing Hu, Svetlana Obraztsova, Zinovi Rabinovich, Jianye Hao, Yingfeng Chen, Changjie Fan",AAMAS 2023: 2424-2426,ATAL,Unranked
+12,A Learning Approach to Complex Contagion Influence Maximization.,2023,"Haipeng Chen, Bryan Wilder, Wei Qiu, Bo An, Eric Rice, Milind Tambe",AAMAS 2023: 2622-2624,ATAL,Unranked
+13,Finding Optimal Nash Equilibria in Multiplayer Games via Correlation Plans.,2023,"Youzhi Zhang, Bo An, V. S. Subrahmanian",AAMAS 2023: 2712-2714,ATAL,Unranked
+14,RPM: Generalizable Multi-Agent Policies for Multi-Agent Reinforcement Learning.,2023,"Wei Qiu, Xiao Ma, Bo An, Svetlana Obraztsova, Shuicheng Yan, Zhongwen Xu",ICLR 2023,ICLR,A*
+15,Population-size-Aware Policy Optimization for Mean-Field Games.,2023,"Pengdeng Li, Xinrun Wang, Shuxin Li, Hau Chan, Bo An",ICLR 2023,ICLR,A*
+16,ResAct: Reinforcing Long-term Engagement in Sequential Recommendation with Residual Actor.,2023,"Wanqi Xue, Qingpeng Cai, Ruohan Zhan, Dong Zheng, Peng Jiang, Kun Gai, Bo An",ICLR 2023,ICLR,A*
+17,Weakly Supervised Regression with Interval Targets.,2023,"Xin Cheng, Yuzhou Cao, Ximing Li, Bo An, Lei Feng",ICML 2023: 5428-5448,ICML,A*
+18,Mitigating Memorization of Noisy Labels by Clipping the Model Prediction.,2023,"Hongxin Wei, Huiping Zhuang, Renchunzi Xie, Lei Feng, Gang Niu, Bo An, Yixuan Li",ICML 2023: 36868-36886,ICML,A*
+19,Controlling Type Confounding in Ad Hoc Teamwork with Instance-wise Teammate Feedback Rectification.,2023,"Dong Xing, Pengjie Gu, Qian Zheng, Xinrun Wang, Shanqi Liu, Longtao Zheng, Bo An, Gang Pan",ICML 2023: 38272-38285,ICML,A*
+20,Exploring Leximin Principle for Fair Core-Selecting Combinatorial Auctions: Payment Rule Design and Implementation.,2023,"Hao Cheng, Shufeng Kong, Yanchen Deng, Caihua Liu, Xiaohu Wu, Bo An, Chongjun Wang",IJCAI 2023: 2581-2588,IJCAI,A*
+21,Complex Contagion Influence Maximization: A Reinforcement Learning Approach.,2023,"Haipeng Chen, Bryan Wilder, Wei Qiu, Bo An, Eric Rice, Milind Tambe",IJCAI 2023: 5531-5540,IJCAI,A*
+22,Mastering Stock Markets with Efficient Mixture of Diversified Trading Experts.,2023,"Shuo Sun, Xinrun Wang, Wanqi Xue, Xiaoxuan Lou, Bo An",KDD 2023: 2109-2119,KDD,A*
+23,PrefRec: Recommender Systems with Human Preferences for Reinforcing Long-term User Engagement.,2023,"Wanqi Xue, Qingpeng Cai, Zhenghai Xue, Shuo Sun, Shuchang Liu, Dong Zheng, Peng Jiang, Kun Gai, Bo An",KDD 2023: 2874-2884,KDD,A*
+24,"Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2023, London, United Kingdom, 29 May 2023 - 2 June 2023.",2023,"Noa Agmon, Bo An, Alessandro Ricci, William Yeoh","ACM 2023, ISBN 978-1-4503-9432-1 ",ATAL,Unranked
+25,Reinforcement Learning from Diverse Human Preferences.,2023,"Wanqi Xue, Bo An, Shuicheng Yan, Zhongwen Xu",CoRR abs/2301.11774 ,CORR,Unranked
+26,PRUDEX-Compass: Towards Systematic Evaluation of Reinforcement Learning in Financial Markets.,2023,"Shuo Sun, Molei Qin, Xinrun Wang, Bo An",CoRR abs/2302.00586 ,CORR,Unranked
+27,Population-size-Aware Policy Optimization for Mean-Field Games.,2023,"Pengdeng Li, Xinrun Wang, Shuxin Li, Hau Chan, Bo An",CoRR abs/2302.03364 ,CORR,Unranked
+28,Towards Skilled Population Curriculum for Multi-Agent Reinforcement Learning.,2023,"Rundong Wang, Longtao Zheng, Wei Qiu, Bowei He, Bo An, Zinovi Rabinovich, Yujing Hu, Yingfeng Chen, Tangjie Lv, Changjie Fan",CoRR abs/2302.03429 ,CORR,Unranked
+29,On the Importance of Feature Separability in Predicting Out-Of-Distribution Error.,2023,"Renchunzi Xie, Hongxin Wei, Yuzhou Cao, Lei Feng, Bo An",CoRR abs/2303.15488 ,CORR,Unranked
+30,State Regularized Policy Optimization on Data with Dynamics Shift.,2023,"Zhenghai Xue, Qingpeng Cai, Shuchang Liu, Dong Zheng, Peng Jiang, Kun Gai, Bo An",CoRR abs/2306.03552 ,CORR,Unranked
+31,Synapse: Leveraging Few-Shot Exemplars for Human-Level Computer Control.,2023,"Longtao Zheng, Rundong Wang, Bo An",CoRR abs/2306.07863 ,CORR,Unranked
+32,Partial-Label Regression.,2023,"Xin Cheng, Deng-Bao Wang, Lei Feng, Min-Ling Zhang, Bo An",CoRR abs/2306.08968 ,CORR,Unranked
+33,Weakly Supervised Regression with Interval Targets.,2023,"Xin Cheng, Yuzhou Cao, Ximing Li, Bo An, Lei Feng",CoRR abs/2306.10458 ,CORR,Unranked
+34,Controlling Type Confounding in Ad Hoc Teamwork with Instance-wise Teammate Feedback Rectification.,2023,"Dong Xing, Pengjie Gu, Qian Zheng, Xinrun Wang, Shanqi Liu, Longtao Zheng, Bo An, Gang Pan",CoRR abs/2306.10944 ,CORR,Unranked
+35,IMM: An Imitative Reinforcement Learning Approach with Predictive Representation Learning for Automatic Market Making.,2023,"Hui Niu, Siyuan Li, Jiahao Zheng, Zhouchi Lin, Jian Li, Jian Guo, Bo An",CoRR abs/2308.08918 ,CORR,Unranked
+36,Efficient Last-iterate Convergence Algorithms in Solving Games.,2023,"Linjian Meng, Zhenxing Ge, Wenbin Li, Bo An, Yang Gao",CoRR abs/2308.11256 ,CORR,Unranked
+37,Market-GAN: Adding Control to Financial Market Data Generation with Semantic Context.,2023,"Haochong Xia, Shuo Sun, Xinrun Wang, Bo An",CoRR abs/2309.07708 ,CORR,Unranked
+38,AdaRec: Adaptive Sequential Recommendation for Reinforcing Long-term User Engagement.,2023,"Zhenghai Xue, Qingpeng Cai, Tianyou Zuo, Bin Yang, Lantao Hu, Peng Jiang, Kun Gai, Bo An",CoRR abs/2310.03984 ,CORR,Unranked
+39,Deep Reinforcement Learning for Quantitative Trading: Challenges and Opportunities.,2022,"Bo An, Shuo Sun, Rundong Wang",IEEE Intell. Syst. 37: 23-26 ,EXPERT,Unranked
+40,Planning sequential interventions to tackle depression in large uncertain social networks using deep reinforcement learning.,2022,"Aye Phyu Phyu Aung, Senthilnath Jayavelu, Xiaoli Li, Bo An",Neurocomputing 481: 182-192 ,IJON,Unranked
+41,Regularized Matrix Factorization for Multilabel Learning With Missing Labels.,2022,"Lei Feng, Jun Huang, Senlin Shu, Bo An",IEEE Trans. Cybern. 52: 3710-3721 ,TCYB,Unranked
+42,SemiNLL: A Framework of Noisy-Label Learning by Semi-Supervised Learning.,2022,"Zhuowei Wang, Jing Jiang, Bo Han, Lei Feng, Bo An, Gang Niu, Guodong Long",Trans. Mach. Learn. Res. 2022 ,TMLR,Unranked
+43,Batch Crowdsourcing for Complex Tasks Based on Distributed Team Formation in E-Markets.,2022,"Jiuchuan Jiang, Kai Di, Bo An, Yichuan Jiang, Zhan Bu, Jie Cao",IEEE Trans. Parallel Distributed Syst. 33: 3600-3615 ,TPDS,Unranked
+44,NSGZero: Efficiently Learning Non-exploitable Policy in Large-Scale Network Security Games with Neural Monte Carlo Tree Search.,2022,"Wanqi Xue, Bo An, Chai Kiat Yeo",AAAI 2022: 4646-4653,AAAI,A*
+45,GearNet: Stepwise Dual Learning for Weakly Supervised Domain Adaptation.,2022,"Renchunzi Xie, Hongxin Wei, Lei Feng, Bo An",AAAI 2022: 8717-8725,AAAI,A*
+46,Pretrained Cost Model for Distributed Constraint Optimization Problems.,2022,"Yanchen Deng, Shufeng Kong, Bo An",AAAI 2022: 9331-9340,AAAI,A*
+47,Online Collective Multiagent Planning by Offline Policy Reuse with Applications to City-Scale Mobility-on-Demand Systems.,2022,"Wanyuan Wang, Gerong Wu, Weiwei Wu, Yichuan Jiang, Bo An",AAMAS 2022: 1364-1372,ATAL,Unranked
+48,Mis-spoke or mis-lead: Achieving Robustness in Multi-Agent Communicative Reinforcement Learning.,2022,"Wanqi Xue, Wei Qiu, Bo An, Zinovi Rabinovich, Svetlana Obraztsova, Chai Kiat Yeo",AAMAS 2022: 1418-1426,ATAL,Unranked
+49,DeepScalper: A Risk-Aware Reinforcement Learning Framework to Capture Fleeting Intraday Trading Opportunities.,2022,"Shuo Sun, Wanqi Xue, Rundong Wang, Xu He, Junlei Zhu, Jian Li, Bo An",CIKM 2022: 1858-1867,CIKM,A
+50,Multi-Faceted Hierarchical Multi-Task Learning for Recommender Systems.,2022,"Junning Liu, Xinjian Li, Bo An, Zijie Xia, Xu Wang",CIKM 2022: 3332-3341,CIKM,A
+51,DO-GAN: A Double Oracle Framework for Generative Adversarial Networks.,2022,"Aye Phyu Phyu Aung, Xinrun Wang, Runsheng Yu, Bo An, Senthilnath Jayavelu, Xiaoli Li",CVPR 2022: 11265-11274,CVPR,A*
+52,A Flexi Partner Selection Model for the Emergence of Cooperation in N-person Social Dilemmas.,2022,"Tu Gu, Bo An",DAI 2022: 15-28,DAI2,Unranked
+53,Online Ad Hoc Teamwork under Partial Observability.,2022,"Pengjie Gu, Mengchen Zhao, Jianye Hao, Bo An",ICLR 2022,ICLR,A*
+54,Learning Pseudometric-based Action Representations for Offline Reinforcement Learning.,2022,"Pengjie Gu, Mengchen Zhao, Chen Chen, Dong Li, Jianye Hao, Bo An",ICML 2022: 7902-7918,ICML,A*
+55,Open-Sampling: Exploring Out-of-Distribution data for Re-balancing Long-tailed datasets.,2022,"Hongxin Wei, Lue Tao, Renchunzi Xie, Lei Feng, Bo An",ICML 2022: 23615-23630,ICML,A*
+56,Mitigating Neural Network Overconfidence with Logit Normalization.,2022,"Hongxin Wei, Renchunzi Xie, Hao Cheng, Lei Feng, Bo An, Yixuan Li",ICML 2022: 23631-23644,ICML,A*
+57,Correlation-Based Algorithm for Team-Maxmin Equilibrium in Multiplayer Extensive-Form Games.,2022,"Youzhi Zhang, Bo An, V. S. Subrahmanian",IJCAI 2022: 606-612,IJCAI,A*
+58,L2E: Learning to Exploit Your Opponent.,2022,"Zhe Wu, Kai Li, Hang Xu, Yifan Zang, Bo An, Junliang Xing",IJCNN 2022: 1-8,IJCNN,B
+59,Generalizing Consistent Multi-Class Classification with Rejection to be Compatible with Arbitrary Losses.,2022,"Yuzhou Cao, Tianchi Cai, Lei Feng, Lihong Gu, Jinjie Gu, Bo An, Gang Niu, Masashi Sugiyama",NeurIPS 2022,NIPS,Unranked
+60,Deep Attentive Belief Propagation: Integrating Reasoning and Learning for Solving Constraint Optimization Problems.,2022,"Yanchen Deng, Shufeng Kong, Caihua Liu, Bo An",NeurIPS 2022,NIPS,Unranked
+61,"Alleviating ""Posterior Collapse"" in Deep Topic Models via Policy Gradient.",2022,"Yewen Li, Chaojie Wang, Zhibin Duan, Dongsheng Wang, Bo Chen, Bo An, Mingyuan Zhou",NeurIPS 2022,NIPS,Unranked
+62,Out-of-Distribution Detection with An Adaptive Likelihood Ratio on Informative Hierarchical VAE.,2022,"Yewen Li, Chaojie Wang, Xiaobo Xia, Tongliang Liu, Xin Miao, Bo An",NeurIPS 2022,NIPS,Unranked
+63,Quantal Correlated Equilibrium in Normal Form Games.,2022,"Jakub Cerný, Bo An, Allan N. Zhang",EC 2022: 210-239,SIGECOM,Unranked
+64,"Intelligent Information Processing XI - 12th IFIP TC 12 International Conference, IIP 2022, Qingdao, China, May 27-30, 2022, Proceedings.",2022,"Zhongzhi Shi, Jean-Daniel Zucker, Bo An","IFIP Advances in Information and Communication Technology 643, Springer 2022, ISBN 978-3-031-03947-8 ",IIP,Unranked
+65,GearNet: Stepwise Dual Learning for Weakly Supervised Domain Adaptation.,2022,"Renchunzi Xie, Hongxin Wei, Lei Feng, Bo An",CoRR abs/2201.06001 ,CORR,Unranked
+66,NSGZero: Efficiently Learning Non-Exploitable Policy in Large-Scale Network Security Games with Neural Monte Carlo Tree Search.,2022,"Wanqi Xue, Bo An, Chai Kiat Yeo",CoRR abs/2201.07224 ,CORR,Unranked
+67,DeepScalper: A Risk-Aware Deep Reinforcement Learning Framework for Intraday Trading with Micro-level Market Embedding.,2022,"Shuo Sun, Rundong Wang, Xu He, Junlei Zhu, Jian Li, Bo An",CoRR abs/2201.09058 ,CORR,Unranked
+68,A Unified Perspective on Deep Equilibrium Finding.,2022,"Xinrun Wang, Jakub Cerný, Shuxin Li, Chang Yang, Zhuyun Yin, Hau Chan, Bo An",CoRR abs/2204.04930 ,CORR,Unranked
+69,Mitigating Neural Network Overconfidence with Logit Normalization.,2022,"Hongxin Wei, Renchunzi Xie, Hao Cheng, Lei Feng, Bo An, Yixuan Li",CoRR abs/2205.09310 ,CORR,Unranked
+70,Off-Beat Multi-Agent Reinforcement Learning.,2022,"Wei Qiu, Weixun Wang, Rundong Wang, Bo An, Yujing Hu, Svetlana Obraztsova, Zinovi Rabinovich, Jianye Hao, Yingfeng Chen, Changjie Fan",CoRR abs/2205.13718 ,CORR,Unranked
+71,ResAct: Reinforcing Long-term Engagement in Sequential Recommendation with Residual Actor.,2022,"Wanqi Xue, Qingpeng Cai, Ruohan Zhan, Dong Zheng, Peng Jiang, Bo An",CoRR abs/2206.02620 ,CORR,Unranked
+72,Open-Sampling: Exploring Out-of-Distribution data for Re-balancing Long-tailed datasets.,2022,"Hongxin Wei, Lue Tao, Renchunzi Xie, Lei Feng, Bo An",CoRR abs/2206.08802 ,CORR,Unranked
+73,Offline Equilibrium Finding.,2022,"Shuxin Li, Xinrun Wang, Jakub Cerný, Youzhi Zhang, Hau Chan, Bo An",CoRR abs/2207.05285 ,CORR,Unranked
+74,Quantitative Stock Investment by Routing Uncertainty-Aware Trading Experts: A Multi-Task Learning Approach.,2022,"Shuo Sun, Rundong Wang, Bo An",CoRR abs/2207.07578 ,CORR,Unranked
+75,Deep Attentive Belief Propagation: Integrating Reasoning and Learning for Solving Constraint Optimization Problems.,2022,"Yanchen Deng, Shufeng Kong, Caihua Liu, Bo An",CoRR abs/2209.12000 ,CORR,Unranked
+76,RPM: Generalizable Behaviors for Multi-Agent Reinforcement Learning.,2022,"Wei Qiu, Xiao Ma, Bo An, Svetlana Obraztsova, Shuicheng Yan, Zhongwen Xu",CoRR abs/2210.09646 ,CORR,Unranked
+77,PrefRec: Preference-based Recommender Systems for Reinforcing Long-term User Engagement.,2022,"Wanqi Xue, Qingpeng Cai, Zhenghai Xue, Shuo Sun, Shuchang Liu, Dong Zheng, Peng Jiang, Bo An",CoRR abs/2212.02779 ,CORR,Unranked
+78,Logit Clipping for Robust Learning against Label Noise.,2022,"Hongxin Wei, Huiping Zhuang, Renchunzi Xie, Lei Feng, Gang Niu, Bo An, Yixuan Li",CoRR abs/2212.04055 ,CORR,Unranked
+79,Electric vehicle charging strategy study and the application on charging station placement.,2021,"Yanhai Xiong, Bo An, Sarit Kraus",Auton. Agents Multi Agent Syst. 35: 3 ,AAMAS,A*
+80,Utility distribution matters: enabling fast belief propagation for multi-agent optimization with dense local utility function.,2021,"Yanchen Deng, Bo An",Auton. Agents Multi Agent Syst. 35: 24 ,AAMAS,A*
+81,Orientational variable-length strip covering problem: A branch-and-price-based algorithm.,2021,"Xiaoxuan Hu, Waiming Zhu, Huawei Ma, Bo An, Yanling Zhi, Yi Wu",Eur. J. Oper. Res. 289: 254-269 ,EOR,Unranked
+82,Embedding-Augmented Generalized Matrix Factorization for Recommendation With Implicit Feedback.,2021,"Lei Feng, Hongxin Wei, Qingyu Guo, Zhuoyi Lin, Bo An",IEEE Intell. Syst. 36: 32-41 ,EXPERT,Unranked
+83,Toward Efficient City-Scale Patrol Planning Using Decomposition and Grafting.,2021,"Wanyuan Wang, Zichen Dong, Bo An, Yichuan Jiang",IEEE Trans. Intell. Transp. Syst. 22: 747-757 ,TITS,Unranked
+84,Group-Oriented Task Allocation for Crowdsourcing in Social Networks.,2021,"Jiuchuan Jiang, Bo An, Yichuan Jiang, Chenyan Zhang, Zhan Bu, Jie Cao",IEEE Trans. Syst. Man Cybern. Syst. 51: 4417-4432 ,TSMC,Unranked
+85,Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management.,2021,"Rundong Wang, Hongxin Wei, Bo An, Zhouyan Feng, Jun Yao",AAAI 2021: 626-633,AAAI,A*
+86,Computing Quantal Stackelberg Equilibrium in Extensive-Form Games.,2021,"Jakub Cerný, Viliam Lisý, Branislav Bosanský, Bo An",AAAI 2021: 5260-5268,AAAI,A*
+87,Complexity and Algorithms for Exploiting Quantal Opponents in Large Two-Player Games.,2021,"David Milec, Jakub Cerný, Viliam Lisý, Bo An",AAAI 2021: 5575-5583,AAAI,A*
+88,Computing Ex Ante Coordinated Team-Maxmin Equilibria in Zero-Sum Multiplayer Extensive-Form Games.,2021,"Youzhi Zhang, Bo An, Jakub Cerný",AAAI 2021: 5813-5821,AAAI,A*
+89,Personalized Adaptive Meta Learning for Cold-start User Preference Prediction.,2021,"Runsheng Yu, Yu Gong, Xu He, Yu Zhu, Qingwen Liu, Wenwu Ou, Bo An",AAAI 2021: 10772-10780,AAAI,A*
+90,Learning from Similarity-Confidence Data.,2021,"Yuzhou Cao, Lei Feng, Yitian Xu, Bo An, Gang Niu, Masashi Sugiyama",ICML 2021: 1272-1282,ICML,A*
+91,Pointwise Binary Classification with Pairwise Confidence Comparisons.,2021,"Lei Feng, Senlin Shu, Nan Lu, Bo Han, Miao Xu, Gang Niu, Bo An, Masashi Sugiyama",ICML 2021: 3252-3262,ICML,A*
+92,Neural Regret-Matching for Distributed Constraint Optimization Problems.,2021,"Yanchen Deng, Runsheng Yu, Xinrun Wang, Bo An",IJCAI 2021: 146-153,IJCAI,A*
+93,CFR-MIX: Solving Imperfect Information Extensive-Form Games with Combinatorial Action Space.,2021,"Shuxin Li, Youzhi Zhang, Xinrun Wang, Wanqi Xue, Bo An",IJCAI 2021: 3663-3669,IJCAI,A*
+94,Solving Large-Scale Extensive-Form Network Security Games via Neural Fictitious Self-Play.,2021,"Wanqi Xue, Youzhi Zhang, Shuxin Li, Xinrun Wang, Bo An, Chai Kiat Yeo",IJCAI 2021: 3713-3720,IJCAI,A*
+95,Multiple-Instance Learning from Similar and Dissimilar Bags.,2021,"Lei Feng, Senlin Shu, Yuzhou Cao, Lue Tao, Hongxin Wei, Tao Xiang, Bo An, Gang Niu",KDD 2021: 374-382,KDD,A*
+96,Open-set Label Noise Can Improve Robustness Against Inherent Label Noise.,2021,"Hongxin Wei, Lue Tao, Renchunzi Xie, Bo An",NeurIPS 2021: 7978-7992,NIPS,Unranked
+97,RMIX: Learning Risk-Sensitive Policies for Cooperative Reinforcement Learning Agents.,2021,"Wei Qiu, Xinrun Wang, Runsheng Yu, Rundong Wang, Xu He, Bo An, Svetlana Obraztsova, Zinovi Rabinovich",NeurIPS 2021: 23049-23062,NIPS,Unranked
+98,Contingency-aware influence maximization: A reinforcement learning approach.,2021,"Haipeng Chen, Wei Qiu, Han-Ching Ou, Bo An, Milind Tambe",UAI 2021: 1535-1545,UAI,A
+99,Learning from Similarity-Confidence Data.,2021,"Yuzhou Cao, Lei Feng, Yitian Xu, Bo An, Gang Niu, Masashi Sugiyama",CoRR abs/2102.06879 ,CORR,Unranked
+100,RMIX: Learning Risk-Sensitive Policies for Cooperative Reinforcement Learning Agents.,2021,"Wei Qiu, Xinrun Wang, Runsheng Yu, Xu He, Rundong Wang, Bo An, Svetlana Obraztsova, Zinovi Rabinovich",CoRR abs/2102.08159 ,CORR,Unranked
+101,DO-GAN: A Double Oracle Framework for Generative Adversarial Networks.,2021,"Aye Phyu Phyu Aung, Xinrun Wang, Runsheng Yu, Bo An, Senthilnath Jayavelu, Xiaoli Li",CoRR abs/2102.08577 ,CORR,Unranked
+102,L2E: Learning to Exploit Your Opponent.,2021,"Zhe Wu, Kai Li, Enmin Zhao, Hang Xu, Meng Zhang, Haobo Fu, Bo An, Junliang Xing",CoRR abs/2102.09381 ,CORR,Unranked
+103,CFR-MIX: Solving Imperfect Information Extensive-Form Games with Combinatorial Action Space.,2021,"Shuxin Li, Youzhi Zhang, Xinrun Wang, Wanqi Xue, Bo An",CoRR abs/2105.08440 ,CORR,Unranked
+104,Solving Large-Scale Extensive-Form Network Security Games via Neural Fictitious Self-Play.,2021,"Wanqi Xue, Youzhi Zhang, Shuxin Li, Xinrun Wang, Bo An, Chai Kiat Yeo",CoRR abs/2106.00897 ,CORR,Unranked
+105,On the Robustness of Average Losses for Partial-Label Learning.,2021,"Jiaqi Lv, Lei Feng, Miao Xu, Bo An, Gang Niu, Xin Geng, Masashi Sugiyama",CoRR abs/2106.06152 ,CORR,Unranked
+106,Contingency-Aware Influence Maximization: A Reinforcement Learning Approach.,2021,"Haipeng Chen, Wei Qiu, Han-Ching Ou, Bo An, Milind Tambe",CoRR abs/2106.07039 ,CORR,Unranked
+107,Multi-Class Classification from Single-Class Data with Confidences.,2021,"Yuzhou Cao, Lei Feng, Senlin Shu, Yitian Xu, Bo An, Gang Niu, Masashi Sugiyama",CoRR abs/2106.08864 ,CORR,Unranked
+108,Open-set Label Noise Can Improve Robustness Against Inherent Label Noise.,2021,"Hongxin Wei, Lue Tao, Renchunzi Xie, Bo An",CoRR abs/2106.10891 ,CORR,Unranked
+109,Mis-spoke or mis-lead: Achieving Robustness in Multi-Agent Communicative Reinforcement Learning.,2021,"Wanqi Xue, Wei Qiu, Bo An, Zinovi Rabinovich, Svetlana Obraztsova, Chai Kiat Yeo",CoRR abs/2108.03803 ,CORR,Unranked
+110,Reinforcement Learning for Quantitative Trading.,2021,"Shuo Sun, Rundong Wang, Bo An",CoRR abs/2109.13851 ,CORR,Unranked
+111,"Cooperation, Retaliation and Forgiveness in Revision Games.",2021,"Dong Hao, Qi Shi, Jinyan Su, Bo An",CoRR abs/2112.02271 ,CORR,Unranked
+112,Pretrained Cost Model for Distributed Constraint Optimization Problems.,2021,"Yanchen Deng, Shufeng Kong, Bo An",CoRR abs/2112.04187 ,CORR,Unranked
+113,Optimal Spot-Checking for Improving the Evaluation Quality of Crowdsourcing: Application to Peer Grading Systems.,2020,"Wanyuan Wang, Bo An, Yichuan Jiang",IEEE Trans. Comput. Soc. Syst. 7: 940-955 ,TCSS,Unranked
+114,Randomized Security Patrolling for Link Flooding Attack Detection.,2020,"Xiaobo Ma, Bo An, Mengchen Zhao, Xiapu Luo, Lei Xue, Zhenhua Li, Tony T. N. Miu, Xiaohong Guan",IEEE Trans. Dependable Secur. Comput. 17: 795-812 ,TDSC,Unranked
+115,Context-Aware Reliable Crowdsourcing in Social Networks.,2020,"Jiuchuan Jiang, Bo An, Yichuan Jiang, Donghui Lin",IEEE Trans. Syst. Man Cybern. Syst. 50: 617-632 ,TSMC,Unranked
+116,Computing Team-Maxmin Equilibria in Zero-Sum Multiplayer Extensive-Form Games.,2020,"Youzhi Zhang, Bo An",AAAI 2020: 2318-2325,AAAI,A*
+117,We Mind Your Well-Being: Preventing Depression in Uncertain Social Networks by Sequential Interventions.,2020,"Aye Phyu Phyu Aung, Xinrun Wang, Bo An, Xiaoli Li",ICAPS 2020: 499-507,AIPS,Unranked
+118,Combating Noisy Labels by Agreement: A Joint Training Method with Co-Regularization.,2020,"Hongxin Wei, Lei Feng, Xiangyu Chen, Bo An",CVPR 2020: 13723-13732,CVPR,A*
+119,Context-Aware Multi-agent Coordination with Loose Couplings and Repeated Interaction.,2020,"Feifei Lin, Xu He, Bo An",DAI 2020: 103-125,DAI2,Unranked
+120,Battery Management for Automated Warehouses via Deep Reinforcement Learning.,2020,"Yanchen Deng, Bo An, Zongmin Qiu, Liuxi Li, Yong Wang, Yinghui Xu",DAI 2020: 126-139,DAI2,Unranked
+121,User detection of threats with different security measures.,2020,"Yoav Ben Yaakov, Joachim Meyer, Xinrun Wang, Bo An",ICHMS 2020: 1-6,ICHMS,Unranked
+122,Learning Expensive Coordination: An Event-Based Deep RL Approach.,2020,"Zhenyu Shi, Runsheng Yu, Xinrun Wang, Rundong Wang, Youzhi Zhang, Hanjiang Lai, Bo An",ICLR 2020,ICLR,A*
+123,Learning with Multiple Complementary Labels.,2020,"Lei Feng, Takuo Kaneko, Bo Han, Gang Niu, Bo An, Masashi Sugiyama",ICML 2020: 3072-3081,ICML,A*
+124,Learning Efficient Multi-agent Communication: An Information Bottleneck Approach.,2020,"Rundong Wang, Xu He, Runsheng Yu, Wei Qiu, Bo An, Zinovi Rabinovich",ICML 2020: 9908-9918,ICML,A*
+125,Converging to Team-Maxmin Equilibria in Zero-Sum Multiplayer Games.,2020,"Youzhi Zhang, Bo An",ICML 2020: 11033-11043,ICML,A*
+126,Speeding Up Incomplete GDL-based Algorithms for Multi-agent Optimization with Dense Local Utilities.,2020,"Yanchen Deng, Bo An",IJCAI 2020: 31-38,IJCAI,A*
+127,Dinkelbach-Type Algorithm for Computing Quantal Stackelberg Equilibrium.,2020,"Jakub Cerný, Viliam Lisý, Branislav Bosanský, Bo An",IJCAI 2020: 246-253,IJCAI,A*
+128,Can Cross Entropy Loss Be Robust to Label Noise?,2020,"Lei Feng, Senlin Shu, Zhuoyi Lin, Fengmao Lv, Li Li, Bo An",IJCAI 2020: 2206-2212,IJCAI,A*
+129,I²HRL: Interactive Influence-based Hierarchical Reinforcement Learning.,2020,"Rundong Wang, Runsheng Yu, Bo An, Zinovi Rabinovich",IJCAI 2020: 3131-3138,IJCAI,A*
+130,Provably Consistent Partial-Label Learning.,2020,"Lei Feng, Jiaqi Lv, Bo Han, Miao Xu, Gang Niu, Xin Geng, Bo An, Masashi Sugiyama",NeurIPS 2020,NIPS,Unranked
+131,Contextual User Browsing Bandits for Large-Scale Online Mobile Recommendation.,2020,"Xu He, Bo An, Yanghua Li, Haikai Chen, Qingyu Guo, Xin Li, Zhirong Wang",RecSys 2020: 63-72,RECSYS,Unranked
+132,Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication.,2020,"Xu He, Bo An, Yanghua Li, Haikai Chen, Rundong Wang, Xinrun Wang, Runsheng Yu, Xin Li, Zhirong Wang",RecSys 2020: 210-219,RECSYS,Unranked
+133,Finite State Machines Play Extensive-Form Games.,2020,"Jakub Cerný, Branislav Bosanský, Bo An",EC 2020: 509-533,SIGECOM,Unranked
+134,Learning Behaviors with Uncertain Human Feedback.,2020,"Xu He, Haipeng Chen, Bo An",UAI 2020: 131-140,UAI,A
+135,"Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems, AAMAS '20, Auckland, New Zealand, May 9-13, 2020.",2020,"Amal El Fallah Seghrouchni, Gita Sukthankar, Bo An, Neil Yorke-Smith","International Foundation for Autonomous Agents and Multiagent Systems 2020, ISBN 978-1-4503-7518-4 ",ATAL,Unranked
+136,Combating noisy labels by agreement: A joint training method with co-regularization.,2020,"Hongxin Wei, Lei Feng, Xiangyu Chen, Bo An",CoRR abs/2003.02752 ,CORR,Unranked
+137,Learning Behaviors with Uncertain Human Feedback.,2020,"Xu He, Haipeng Chen, Bo An",CoRR abs/2006.04201 ,CORR,Unranked
+138,Provably Consistent Partial-Label Learning.,2020,"Lei Feng, Jiaqi Lv, Bo Han, Miao Xu, Gang Niu, Xin Geng, Bo An, Masashi Sugiyama",CoRR abs/2007.08929 ,CORR,Unranked
+139,Contextual User Browsing Bandits for Large-Scale Online Mobile Recommendation.,2020,"Xu He, Bo An, Yanghua Li, Haikai Chen, Qingyu Guo, Xin Li, Zhirong Wang",CoRR abs/2008.09368 ,CORR,Unranked
+140,Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication.,2020,"Xu He, Bo An, Yanghua Li, Haikai Chen, Rundong Wang, Xinrun Wang, Runsheng Yu, Xin Li, Zhirong Wang",CoRR abs/2008.09369 ,CORR,Unranked
+141,Computing Ex Ante Coordinated Team-Maxmin Equilibria in Zero-Sum Multiplayer Extensive-Form Games.,2020,"Youzhi Zhang, Bo An",CoRR abs/2009.12629 ,CORR,Unranked
+142,Complexity and Algorithms for Exploiting Quantal Opponents in Large Two-Player Games.,2020,"David Milec, Jakub Cerný, Viliam Lisý, Bo An",CoRR abs/2009.14521 ,CORR,Unranked
+143,Pointwise Binary Classification with Pairwise Confidence Comparisons.,2020,"Lei Feng, Senlin Shu, Nan Lu, Bo Han, Miao Xu, Gang Niu, Bo An, Masashi Sugiyama",CoRR abs/2010.01875 ,CORR,Unranked
+144,SemiNLL: A Framework of Noisy-Label Learning by Semi-Supervised Learning.,2020,"Zhuowei Wang, Jing Jiang, Bo Han, Lei Feng, Bo An, Gang Niu, Guodong Long",CoRR abs/2012.00925 ,CORR,Unranked
+145,Efficient Reservoir Management through Deep Reinforcement Learning.,2020,"Xinrun Wang, Tarun Nair, Haoyang Li, Yuh Sheng Reuben Wong, Nachiket Kelkar, Srinivas Vaidyanathan, Rajat Nayak, Bo An, Jagdish Krishnaswamy, Milind Tambe",CoRR abs/2012.03822 ,CORR,Unranked
+146,MetaInfoNet: Learning Task-Guided Information for Sample Reweighting.,2020,"Hongxin Wei, Lei Feng, Rundong Wang, Bo An",CoRR abs/2012.05273 ,CORR,Unranked
+147,Personalized Adaptive Meta Learning for Cold-start User Preference Prediction.,2020,"Runsheng Yu, Yu Gong, Xu He, Bo An, Yu Zhu, Qingwen Liu, Wenwu Ou",CoRR abs/2012.11842 ,CORR,Unranked
+148,Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management.,2020,"Rundong Wang, Hongxin Wei, Bo An, Zhouyan Feng, Jun Yao",CoRR abs/2012.12620 ,CORR,Unranked
+149,A branch and price algorithm for EOS constellation imaging and downloading integrated scheduling problem.,2019,"Xiaoxuan Hu, Waiming Zhu, Bo An, Peng Jin, Wei Xia",Comput. Oper. Res. 104: 74-89 ,COR,Unranked
+150,Protecting internet infrastructure against link flooding attacks: A techno-economic perspective.,2019,"Xiaobo Ma, Jianfeng Li, Yajuan Tang, Bo An, Xiaohong Guan",Inf. Sci. 479: 486-502 ,ISCI,Unranked
+151,Competitive Cloud Pricing for Long-Term Revenue Maximization.,2019,"Jiang Rong, Tao Qin, Bo An",J. Comput. Sci. Technol. 34: 645-656 ,JCST,Unranked
+152,Strategic Social Team Crowdsourcing: Forming a Team of Truthful Workers for Crowdsourcing in Social Networks.,2019,"Wanyuan Wang, Zhanpeng He, Peng Shi, Weiwei Wu, Yichuan Jiang, Bo An, Zhifeng Hao, Bing Chen",IEEE Trans. Mob. Comput. 18: 1419-1432 ,TMC,Unranked
+153,Batch Allocation for Tasks with Overlapping Skill Requirements in Crowdsourcing.,2019,"Jiuchuan Jiang, Bo An, Yichuan Jiang, Peng Shi, Zhan Bu, Jie Cao",IEEE Trans. Parallel Distributed Syst. 30: 1722-1737 ,TPDS,Unranked
+154,A Memetic Approach for Sequential Security Games on a Plane with Moving Targets.,2019,"Jan Karwowski, Jacek Mandziuk, Adam Zychowski, Filip Grajek, Bo An",AAAI 2019: 970-977,AAAI,A*
+155,Optimal Interdiction of Urban Criminals with the Aid of Real-Time Information.,2019,"Youzhi Zhang, Qingyu Guo, Bo An, Long Tran-Thanh, Nicholas R. Jennings",AAAI 2019: 1262-1269,AAAI,A*
+156,On the Inducibility of Stackelberg Equilibrium for Security Games.,2019,"Qingyu Guo, Jiarui Gan, Fei Fang, Long Tran-Thanh, Milind Tambe, Bo An",AAAI 2019: 2020-2028,AAAI,A*
+157,Partial Label Learning with Self-Guided Retraining.,2019,"Lei Feng, Bo An",AAAI 2019: 3542-3549,AAAI,A*
+158,Collaboration Based Multi-Label Learning.,2019,"Lei Feng, Bo An, Shuo He",AAAI 2019: 3550-3557,AAAI,A*
+159,Competitive Bridge Bidding with Deep Neural Networks.,2019,"Jiang Rong, Tao Qin, Bo An",AAMAS 2019: 16-24,ATAL,Unranked
+160,Efficient City-Scale Patrolling Using Decomposition and Grafting.,2019,"Wanyuan Wang, Zichen Dong, Bo An, Yichuan Jiang",AAMAS 2019: 2259-2261,ATAL,Unranked
+161,Choosing Protection: User Investments in Security Measures for Cyber Risk Management.,2019,"Yoav Ben Yaakov, Xinrun Wang, Joachim Meyer, Bo An",GameSec 2019: 33-44,GAMESEC,Unranked
+162,When Players Affect Target Values: Modeling and Solving Dynamic Partially Observable Security Games.,2019,"Xinrun Wang, Milind Tambe, Branislav Bosanský, Bo An",GameSec 2019: 542-562,GAMESEC,Unranked
+163,InBEDE: Integrating Contextual Bandit with TD Learning for Joint Pricing and Dispatch of Ride-Hailing Platforms.,2019,"Haipeng Chen, Yan Jiao, Zhiwei (Tony) Qin, Xiaocheng Tang, Hao Li, Bo An, Hongtu Zhu, Jieping Ye",ICDM 2019: 61-70,ICDM,A*
+164,Partial Label Learning by Semantic Difference Maximization.,2019,"Lei Feng, Bo An",IJCAI 2019: 2294-2300,IJCAI,A*
+165,Dynamic Electronic Toll Collection via Multi-Agent Deep Reinforcement Learning with Edge-Based Graph Convolutional Networks.,2019,"Wei Qiu, Haipeng Chen, Bo An",IJCAI 2019: 4568-4574,IJCAI,A*
+166,Who Should Pay the Cost: A Game-theoretic Model for Government Subsidized Investments to Improve National Cybersecurity.,2019,"Xinrun Wang, Bo An, Hau Chan",IJCAI 2019: 6020-6027,IJCAI,A*
+167,Manipulating a Learning Defender and Ways to Counteract.,2019,"Jiarui Gan, Qingyu Guo, Long Tran-Thanh, Bo An, Michael J. Wooldridge",NeurIPS 2019: 8272-8281,NIPS,Unranked
+168,Social Cost Guarantees in Smart Route Guidance.,2019,"Paolo Serafino, Carmine Ventre, Long Tran-Thanh, Jie Zhang, Bo An, Nick R. Jennings",PRICAI  2019: 482-495,PRICAI,B
+169,Securing the Deep Fraud Detector in Large-Scale E-Commerce Platform via Adversarial Machine Learning Approach.,2019,"Qingyu Guo, Zhao Li, Bo An, Pengrui Hui, Jiaming Huang, Long Zhang, Mengchen Zhao",WWW 2019: 616-626,WWW,A*
+170,Partial Label Learning with Self-Guided Retraining.,2019,"Lei Feng, Bo An",CoRR abs/1902.03045 ,CORR,Unranked
+171,Collaboration based Multi-Label Learning.,2019,"Lei Feng, Bo An, Shuo He",CoRR abs/1902.03047 ,CORR,Unranked
+172,Competitive Bridge Bidding with Deep Neural Networks.,2019,"Jiang Rong, Tao Qin, Bo An",CoRR abs/1903.00900 ,CORR,Unranked
+173,Manipulating a Learning Defender and Ways to Counteract.,2019,"Jiarui Gan, Qingyu Guo, Long Tran-Thanh, Bo An, Michael J. Wooldridge",CoRR abs/1905.11759 ,CORR,Unranked
+174,Social Cost Guarantees in Smart Route Guidance.,2019,"Paolo Serafino, Carmine Ventre, Long Tran-Thanh, Jie Zhang, Bo An, Nick R. Jennings",CoRR abs/1906.06617 ,CORR,Unranked
+175,Learning Efficient Multi-agent Communication: An Information Bottleneck Approach.,2019,"Rundong Wang, Xu He, Runsheng Yu, Wei Qiu, Bo An, Zinovi Rabinovich",CoRR abs/1911.06992 ,CORR,Unranked
+176,Inducing Cooperation via Team Regret Minimization based Multi-Agent Deep Reinforcement Learning.,2019,"Runsheng Yu, Zhenyu Shi, Xinrun Wang, Rundong Wang, Buhong Liu, Xinwen Hou, Hanjiang Lai, Bo An",CoRR abs/1911.07712 ,CORR,Unranked
+177,Learning from Multiple Complementary Labels.,2019,"Lei Feng, Bo An",CoRR abs/1912.12927 ,CORR,Unranked
+178,Optimal defense against election control by deleting voter groups.,2018,"Yue Yin, Yevgeniy Vorobeychik, Bo An, Noam Hazon",Artif. Intell. 259: 32-51 ,AI,Australasian B
+179,"Predicting Human Decision-Making: From Prediction to Action, Ariel Rosenfeld, Sarit Kraus. Morgan & Claypool Publishers (2018).",2018,Bo An,Artif. Intell. 263: 1-2 ,AI,Australasian B
+180,Camera Placement Based on Vehicle Traffic for Better City Security Surveillance.,2018,"Xiaobo Ma, Yihui He, Xiapu Luo, Jianfeng Li, Mengchen Zhao, Bo An, Xiaohong Guan",IEEE Intell. Syst. 33: 49-61 ,EXPERT,Unranked
+181,Active learning with confidence-based answers for crowdsourcing labeling tasks.,2018,"Jinhua Song, Hao Wang, Yang Gao, Bo An",Knowl. Based Syst. 159: 244-258 ,KBS,Unranked
+182,Understanding Crowdsourcing Systems from a Multiagent Perspective and Approach.,2018,"Jiuchuan Jiang, Bo An, Yichuan Jiang, Donghui Lin, Zhan Bu, Jie Cao, Zhifeng Hao",ACM Trans. Auton. Adapt. Syst. 13: 8:1-8:32 ,TAAS,Unranked
+183,ACM TIST Special Issue on Urban Intelligence.,2018,"Bo An, Nicholas R. Jennings, Zhenhui Jessie Li",ACM Trans. Intell. Syst. Technol. 9: 23:1-23:4 ,TIST,Unranked
+184,Optimal Electric Vehicle Fast Charging Station Placement Based on Game Theoretical Framework.,2018,"Yanhai Xiong, Jiarui Gan, Bo An, Chunyan Miao, Ana L. C. Bazzan",IEEE Trans. Intell. Transp. Syst. 19: 2493-2504 ,TITS,Unranked
+185,Catching Captain Jack: Efficient Time and Space Dependent Patrols to Combat Oil-Siphoning in International Waters.,2018,"Xinrun Wang, Bo An, Martin Strobel, Fookwai Kong",AAAI 2018: 208-215,AAAI,A*
+186,DyETC: Dynamic Electronic Toll Collection for Traffic Congestion Alleviation.,2018,"Haipeng Chen, Bo An, Guni Sharon, Josiah P. Hanna, Peter Stone, Chunyan Miao, Yeng Chai Soh",AAAI 2018: 757-765,AAAI,A*
+187,Optimal Spot-Checking for Improving Evaluation Accuracy of Peer Grading Systems.,2018,"Wanyuan Wang, Bo An, Yichuan Jiang",AAAI 2018: 833-840,AAAI,A*
+188,Data Poisoning Attacks on Multi-Task Relationship Learning.,2018,"Mengchen Zhao, Bo An, Yaodong Yu, Sulin Liu, Sinno Jialin Pan",AAAI 2018: 2628-2635,AAAI,A*
+189,Dynamic Pricing for Reusable Resources in Competitive Market With Stochastic Demand.,2018,"Jiang Rong, Tao Qin, Bo An",AAAI 2018: 4718-4726,AAAI,A*
+190,HogRider: Champion Agent of Microsoft Malmo Collaborative AI Challenge.,2018,"Yanhai Xiong, Haipeng Chen, Mengchen Zhao, Bo An",AAAI 2018: 4767-4775,AAAI,A*
+191,Equilibrium Refinement in Security Games with Arbitrary Scheduling Constraints.,2018,"Kai Wang, Qingyu Guo, Phebe Vayanos, Milind Tambe, Bo An",AAMAS 2018: 919-927,ATAL,Unranked
+192,Inducible Equilibrium for Security Games.,2018,"Qingyu Guo, Jiarui Gan, Fei Fang, Long Tran-Thanh, Milind Tambe, Bo An",AAMAS 2018: 1947-1949,ATAL,Unranked
+193,Leveraging Latent Label Distributions for Partial Label Learning.,2018,"Lei Feng, Bo An",IJCAI 2018: 2107-2113,IJCAI,A*
+194,Impression Allocation for Combating Fraud in E-commerce Via Deep Reinforcement Learning with Action Norm Penalty.,2018,"Mengchen Zhao, Zhao Li, Bo An, Haifeng Lu, Yifan Yang, Chen Chu",IJCAI 2018: 3940-3946,IJCAI,A*
+195,Stackelberg Security Games: Looking Beyond a Decade of Success.,2018,"Arunesh Sinha, Fei Fang, Bo An, Christopher Kiekintveld, Milind Tambe",IJCAI 2018: 5494-5501,IJCAI,A*
+196,"Advances in Practical Applications of Agents, Multi-Agent Systems, and Complexity: The PAAMS Collection - 16th International Conference, PAAMS 2018, Toledo, Spain, June 20-22, 2018, Proceedings.",2018,"Yves Demazeau, Bo An, Javier Bajo, Antonio Fernández-Caballero","Lecture Notes in Computer Science 10978, Springer 2018, ISBN 978-3-319-94579-8 ",PAAMS,National
+197,On the Inducibility of Stackelberg Equilibrium for Security Games.,2018,"Qingyu Guo, Jiarui Gan, Fei Fang, Long Tran-Thanh, Milind Tambe, Bo An",CoRR abs/1811.03823 ,CORR,Unranked
+198,Human-computer negotiation in a three player market setting.,2017,"Galit Haim, Ya'akov (Kobi) Gal, Bo An, Sarit Kraus",Artif. Intell. 246: 34-52 ,AI,Australasian B
+199,PAWS - A Deployed Game-Theoretic Application to Combat Poaching.,2017,"Fei Fang, Thanh Hong Nguyen, Rob Pickles, Wai Y. Lam, Gopalasamy R. Clements, Bo An, Amandeep Singh, Brian C. Schwedock, Milind Tambe, Andrew Lemieux",AI Mag. 38: 23-36 ,AIM,Unranked
+200,Artificial Intelligence Research in Singapore: Assisting the Development of a Smart Nation.,2017,"Pradeep Varakantham, Bo An, Bryan Low, Jie Zhang",AI Mag. 38: 102-105 ,AIM,Unranked
+201,Game-Theoretic Considerations for Optimizing Taxi System Efficiency.,2017,"Jiarui Gan, Bo An",IEEE Intell. Syst. 32: 46-52 ,EXPERT,Unranked
+202,Measuring the social influences of scientist groups based on multiple types of collaboration relations.,2017,"Jiuchuan Jiang, Peng Shi, Bo An, Jianyong Yu, Chongjun Wang",Inf. Process. Manag. 53: 1-20 ,IPM,Unranked
+203,Workload Factoring and Resource Sharing via Joint Vertical and Horizontal Cloud Federation Networks.,2017,"Haipeng Chen, Bo An, Dusit Niyato, Yeng Chai Soh, Chunyan Miao",IEEE J. Sel. Areas Commun. 35: 557-570 ,JSAC,Unranked
+204,Toward Efficient Team Formation for Crowdsourcing in Noncooperative Social Networks.,2017,"Wanyuan Wang, Jiuchuan Jiang, Bo An, Yichuan Jiang, Bing Chen",IEEE Trans. Cybern. 47: 4208-4222 ,TCYB,Unranked
+205,Data-Driven Frequency-Based Airline Profit Maximization.,2017,"Bo An, Haipeng Chen, Noseong Park, V. S. Subrahmanian",ACM Trans. Intell. Syst. Technol. 8: 61:1-61:28 ,TIST,Unranked
+206,POI2Vec: Geographical Latent Representation for Predicting Future Visitors.,2017,"Shanshan Feng, Gao Cong, Bo An, Yeow Meng Chee",AAAI 2017: 102-108,AAAI,A*
+207,Security Games on a Plane.,2017,"Jiarui Gan, Bo An, Yevgeniy Vorobeychik, Brian Gauch",AAAI 2017: 530-536,AAAI,A*
+208,Strategic Information Revelation and Commitment in Security Games.,2017,"Qingyu Guo, Bo An, Branislav Bosanský, Christopher Kiekintveld",AAAI Workshops 2017,AAAI,A*
+209,Optimal Personalized Defense Strategy Against Man-In-The-Middle Attack.,2017,"Xiaohong Li, Shuxin Li, Jianye Hao, Zhiyong Feng, Bo An",AAAI 2017: 593-599,AAAI,A*
+210,Revenue Maximization for Finitely Repeated Ad Auctions.,2017,"Jiang Rong, Tao Qin, Bo An, Tie-Yan Liu",AAAI 2017: 663-669,AAAI,A*
+211,Stop Nuclear Smuggling Through Efficient Container Inspection.,2017,"Xinrun Wang, Qingyu Guo, Bo An",AAMAS 2017: 669-677,ATAL,Unranked
+212,Pricing Optimization for Selling Reusable Resources.,2017,"Jiang Rong, Tao Qin, Bo An, Tie-Yan Liu",AAMAS 2017: 1719-1721,ATAL,Unranked
+213,Nash Equilibrium and Decentralized Pricing for QoS Aware Service Composition in Cloud Computing Environments.,2017,"Li Pan, Bo An, Shijun Liu, Lizhen Cui",ICWS 2017: 154-163,ICWS,A
+214,Playing Repeated Network Interdiction Games with Semi-Bandit Feedback.,2017,"Qingyu Guo, Bo An, Long Tran-Thanh",IJCAI 2017: 3682-3690,IJCAI,A*
+215,Comparing Strategic Secrecy and Stackelberg Commitment in Security Games.,2017,"Qingyu Guo, Bo An, Branislav Bosanský, Christopher Kiekintveld",IJCAI 2017: 3691-3699,IJCAI,A*
+216,Defending Against Man-In-The-Middle Attack in Repeated Games.,2017,"Shuxin Li, Xiaohong Li, Jianye Hao, Bo An, Zhiyong Feng, Kangjie Chen, Chengwei Zhang",IJCAI 2017: 3742-3748,IJCAI,A*
+217,Optimal Escape Interdiction on Transportation Networks.,2017,"Youzhi Zhang, Bo An, Long Tran-Thanh, Zhen Wang, Jiarui Gan, Nicholas R. Jennings",IJCAI 2017: 3936-3944,IJCAI,A*
+218,Efficient Label Contamination Attacks Against Black-Box Learning Models.,2017,"Mengchen Zhao, Bo An, Wei Gao, Teng Zhang",IJCAI 2017: 3945-3951,IJCAI,A*
+219,Game Theoretic Analysis of Security and Sustainability.,2017,Bo An,IJCAI 2017: 5111-5115,IJCAI,A*
+220,"Decision and Game Theory for Security - 8th International Conference, GameSec 2017, Vienna, Austria, October 23-25, 2017, Proceedings.",2017,"Stefan Rass, Bo An, Christopher Kiekintveld, Fei Fang, Stefan Schauer","Lecture Notes in Computer Science 10575, Springer 2017, ISBN 978-3-319-68710-0 ",GAMESEC,Unranked
+221,"PRIMA 2017: Principles and Practice of Multi-Agent Systems - 20th International Conference, Nice, France, October 30 - November 3, 2017, Proceedings.",2017,"Bo An, Ana L. C. Bazzan, João Leite, Serena Villata, Leendert W. N. van der Torre","Lecture Notes in Computer Science 10621, Springer 2017, ISBN 978-3-319-69130-5 ",PRIMA,B
+222,Vehicle Traffic Driven Camera Placement for Better Metropolis Security Surveillance.,2017,"Xiaobo Ma, Yihui He, Xiapu Luo, Jianfeng Li, Mengchen Zhao, Bo An, Xiaohong Guan",CoRR abs/1705.08508 ,CORR,Unranked
+223,A simulation framework for measuring robustness of incentive mechanisms and its implementation in reputation systems.,2016,"Yuan Liu, Jie Zhang, Bo An, Sandip Sen",Auton. Agents Multi Agent Syst. 30: 581-600 ,AAMAS,A*
+224,Alternating-offers bargaining in one-to-many and many-to-many settings.,2016,"Bo An, Nicola Gatti, Victor R. Lesser",Ann. Math. Artif. Intell. 77: 67-103 ,AMAI,Unranked
+225,Recent advances in Support Vector Machines.,2016,"Shifei Ding, Zhongzhi Shi, Dacheng Tao, Bo An",Neurocomputing 211: 1-3 ,IJON,Unranked
+226,Computing Optimal Monitoring Strategy for Detecting Terrorist Plots.,2016,"Zhen Wang, Yue Yin, Bo An",AAAI 2016: 637-643,AAAI,A*
+227,Optimizing Personalized Email Filtering Thresholds to Mitigate Sequential Spear Phishing Attacks.,2016,"Mengchen Zhao, Bo An, Christopher Kiekintveld",AAAI 2016: 658-665,AAAI,A*
+228,Efficient Average Reward Reinforcement Learning Using Constant Shifting Values.,2016,"Shangdong Yang, Yang Gao, Bo An, Hao Wang, Xingguo Chen",AAAI 2016: 2258-2264,AAAI,A*
+229,Deploying PAWS: Field Optimization of the Protection Assistant for Wildlife Security.,2016,"Fei Fang, Thanh Hong Nguyen, Rob Pickles, Wai Y. Lam, Gopalasamy R. Clements, Bo An, Amandeep Singh, Milind Tambe, Andrew Lemieux",AAAI 2016: 3966-3973,AAAI,A*
+230,Deploying PAWS to Combat Poaching: Game-Theoretic Patrolling in Areas with Complex Terrain (Demonstration).,2016,"Fei Fang, Thanh Hong Nguyen, Rob Pickles, Wai Y. Lam, Gopalasamy R. Clements, Bo An, Amandeep Singh, Milind Tambe",AAAI 2016: 4355-4356,AAAI,A*
+231,Coalitional Security Games.,2016,"Qingyu Guo, Bo An, Yevgeniy Vorobeychik, Long Tran-Thanh, Jiarui Gan, Chunyan Miao",AAMAS 2016: 159-167,ATAL,Unranked
+232,Measuring the Distance Between Finite Markov Decision Processes.,2016,"Jinhua Song, Yang Gao, Hao Wang, Bo An",AAMAS 2016: 468-476,ATAL,Unranked
+233,Optimal Pricing for Efficient Electric Vehicle Charging Station Management.,2016,"Yanhai Xiong, Jiarui Gan, Bo An, Chunyan Miao, Yeng Chai Soh",AAMAS 2016: 749-757,ATAL,Unranked
+234,Optimal Sample Size for Adword Auctions: (Extended Abstract).,2016,"Jiang Rong, Tao Qin, Bo An, Tie-Yan Liu",AAMAS 2016: 1459-1460,ATAL,Unranked
+235,Modeling Bounded Rationality for Sponsored Search Auctions.,2016,"Jiang Rong, Tao Qin, Bo An, Tie-Yan Liu",ECAI 2016: 515-523,ECAI,A
+236,Efficient Resource Allocation for Protecting Coral Reef Ecosystems.,2016,"Yue Yin, Bo An",IJCAI 2016: 531-537,IJCAI,A*
+237,Optimally Protecting Elections.,2016,"Yue Yin, Yevgeniy Vorobeychik, Bo An, Noam Hazon",IJCAI 2016: 538-545,IJCAI,A*
+238,Optimal Interdiction of Illegal Network Flow.,2016,"Qingyu Guo, Bo An, Yair Zick, Chunyan Miao",IJCAI 2016: 2507-2513,IJCAI,A*
+239,MAP: Frequency-Based Maximization of Airline Profits based on an Ensemble Forecasting Approach.,2016,"Bo An, Haipeng Chen, Noseong Park, V. S. Subrahmanian",KDD 2016: 421-430,KDD,A*
+240,Multiagent Reinforcement Learning With Unshared Value Functions.,2015,"Yujing Hu, Yang Gao, Bo An",IEEE Trans. Cybern. 45: 647-662 ,TCYB,Unranked
+241,Accelerating Multiagent Reinforcement Learning by Equilibrium Transfer.,2015,"Yujing Hu, Yang Gao, Bo An",IEEE Trans. Cybern. 45: 1289-1302 ,TCYB,Unranked
+242,Game Theoretic Considerations for Optimizing Efficiency of Taxi Systems.,2015,"Jiarui Gan, Bo An",AAAI Workshop: Computational Sustainability 2015,AAAI,A*
+243,Security Games with Protection Externalities.,2015,"Jiarui Gan, Bo An, Yevgeniy Vorobeychik",AAAI 2015: 914-920,AAAI,A*
+244,Optimizing Efficiency of Taxi Systems: Scaling-up and Handling Arbitrary Constraints.,2015,"Jiarui Gan, Bo An, Chunyan Miao",AAMAS 2015: 523-531,ATAL,Unranked
+245,Learning in Multi-agent Systems with Sparse Interactions by Knowledge Transfer and Game Abstraction.,2015,"Yujing Hu, Yang Gao, Bo An",AAMAS 2015: 753-761,ATAL,Unranked
+246,Computing Quantal Response Equilibrium for Sponsored Search Auctions.,2015,"Jiang Rong, Tao Qin, Bo An",AAMAS 2015: 1803-1804,ATAL,Unranked
+247,Modeling Learner's Emotions with PAD.,2015,"Matthias Chan Yong Shun, Miao-Chun Yan, Bo An, Cyril Leung",ICALT 2015: 49-51,ICALT,B
+248,Learning Personality Modeling for Regulating Learning Feedback.,2015,"Matthias Chan Yong Shun, Miao-Chun Yan, Zhiqi Shen, Bo An",ICALT 2015: 355-357,ICALT,B
+249,Computing Optimal Mixed Strategies for Security Games with Dynamic Payoffs.,2015,"Yue Yin, Haifeng Xu, Jiarui Gan, Bo An, Albert Xin Jiang",IJCAI 2015: 681-688,IJCAI,A*
+250,Optimal Electric Vehicle Charging Station Placement.,2015,"Yanhai Xiong, Jiarui Gan, Bo An, Chunyan Miao, Ana L. C. Bazzan",IJCAI 2015: 2662-2668,IJCAI,A*
+251,"Agents and Data Mining Interaction - 10th International Workshop, ADMI 2014, Paris, France, May 5-9, 2014, Revised Selected Papers.",2015,"Longbing Cao, Yifeng Zeng, Bo An, Andreas L. Symeonidis, Vladimir Gorodetsky, Frans Coenen, Philip S. Yu","Lecture Notes in Computer Science 9145, Springer 2015, ISBN 978-3-319-20229-7 ",ADMI,Unranked
+252,An extended study on multi-objective security games.,2014,"Matthew Brown, Bo An, Christopher Kiekintveld, Fernando Ordóñez, Milind Tambe",Auton. Agents Multi Agent Syst. 28: 31-71 ,AAMAS,A*
+253,Filtering trust opinions through reinforcement learning.,2014,"Han Yu, Zhiqi Shen, Chunyan Miao, Bo An, Cyril Leung",Decis. Support Syst. 66: 102-113 ,DSS,Unranked
+254,Regret-Based Optimization and Preference Elicitation for Stackelberg Security Games with Uncertainty.,2014,"Thanh Hong Nguyen, Amulya Yadav, Bo An, Milind Tambe, Craig Boutilier",AAAI 2014: 756-762,AAAI,A*
+255,Game-Theoretic Resource Allocation for Protecting Large Public Events.,2014,"Yue Yin, Bo An, Manish Jain",AAAI 2014: 826-834,AAAI,A*
+256,Computing Solutions in Infinite-Horizon Discounted Adversarial Patrolling Games.,2014,"Yevgeniy Vorobeychik, Bo An, Milind Tambe, Satinder Singh",ICAPS 2014,AIPS,Unranked
+257,Reputation-aware task allocation for human trustees.,2014,"Han Yu, Chunyan Miao, Bo An, Zhiqi Shen, Cyril Leung",AAMAS 2014: 357-364,ATAL,Unranked
+258,A practical robustness measure of incentive mechanisms.,2014,"Yuan Liu, Jie Zhang, Bo An, Sandip Sen",AAMAS 2014: 1379-1380,ATAL,Unranked
+259,Modeling curiosity for virtual learning companions.,2014,"Qiong Wu, Chunyan Miao, Bo An",AAMAS 2014: 1401-1402,ATAL,Unranked
+260,An efficient algorithm for taxi system optimization.,2014,"Jiarui Gan, Bo An, Chunyan Miao",AAMAS 2014: 1465-1466,ATAL,Unranked
+261,Dynamic allocation of security resources for protecting public events.,2014,"Yue Yin, Bo An, Manish Jain",AAMAS 2014: 1473-1474,ATAL,Unranked
+262,Human-Computer Negotiation in Three-Player Market Settings.,2014,"Galit Haim, Ya'akov (Kobi) Gal, Sarit Kraus, Bo An",ECAI 2014: 417-422,ECAI,A
+263,A New Paradigm for the Study of Corruption in Different Cultures.,2014,"Ya'akov (Kobi) Gal, Avi Rosenfeld, Sarit Kraus, Michele Gelfand, Bo An, Jun Lin",SBP 2014: 261-268,SBP,Unranked
+264,Bilateral bargaining with one-sided uncertain reserve prices.,2013,"Bo An, Nicola Gatti, Victor R. Lesser",Auton. Agents Multi Agent Syst. 26: 420-455 ,AAMAS,A*
+265,A Deployed Quantal Response-Based Patrol Planning System for the U.S. Coast Guard.,2013,"Bo An, Fernando Ordóñez, Milind Tambe, Eric Shieh, Rong Yang, Craig Baldwin, Joseph DiRenzo, Kathryn Moretti, Ben Maule, Garrett Meyer",Interfaces 43: 400-420 ,INTERFACES,Unranked
+266,Security games with surveillance cost and optimal timing of attack execution.,2013,"Bo An, Matthew Brown, Yevgeniy Vorobeychik, Milind Tambe",AAMAS 2013: 223-230,ATAL,Unranked
+267,A reputation-aware decision-making approach for improving the efficiency of crowdsourcing systems.,2013,"Han Yu, Zhiqi Shen, Chunyan Miao, Bo An",AAMAS 2013: 1315-1316,ATAL,Unranked
+268,A Reputation Management Approach for Resource Constrained Trustee Agents.,2013,"Han Yu, Chunyan Miao, Bo An, Cyril Leung, Victor R. Lesser",IJCAI 2013: 418-424,IJCAI,A*
+269,Optimal Pricing for Improving Efficiency of Taxi Systems.,2013,"Jiarui Gan, Bo An, Haizhong Wang, Xiaoming Sun, Zhongzhi Shi",IJCAI 2013: 2811-2818,IJCAI,A*
+270,Security Games Applied to Real-World: Research Contributions and Challenges.,2013,"Manish Jain, Bo An, Milind Tambe",Moving Target Defense 2013: 15-39,AIS,Unranked
+271,"An Overview of Recent Application Trends at the AAMAS Conference: Security, Sustainability and Safety.",2012,"Manish Jain, Bo An, Milind Tambe",AI Mag. 33: 14-28 ,AIM,Unranked
+272,Reports of the AAAI 2012 Spring Symposia.,2012,"Harith Alani, Bo An, Manish Jain, Takashi Kido, George Dimitri Konidaris, William F. Lawless, David L. Martin, Caroline Pantofaru, Donald A. Sofge, Keiki Takadama, Milind Tambe, Tomas Vitvar",AI Mag. 33: 109-114 ,AIM,Unranked
+273,PROTECT - A Deployed Game Theoretic System for Strategic Security Allocation for the United States Coast Guard.,2012,"Bo An, Eric Shieh, Milind Tambe, Rong Yang, Craig Baldwin, Joseph DiRenzo, Ben Maule, Garrett Meyer",AI Mag. 33: 96-110 ,AIM,Unranked
+274,Security Games with Limited Surveillance.,2012,"Bo An, David Kempe, Christopher Kiekintveld, Eric Shieh, Satinder Singh, Milind Tambe, Yevgeniy Vorobeychik",AAAI 2012: 1241-1248,AAAI,A*
+275,PROTECT: An Application of Computational Game Theory for the Security of the Ports of the United States.,2012,"Eric Anyung Shieh, Bo An, Rong Yang, Milind Tambe, Craig Baldwin, Joseph DiRenzo, Ben Maule, Garrett Meyer",AAAI 2012: 2173-2179,AAAI,A*
+276,Security Games with Limited Surveillance: An Initial Report.,2012,"Bo An, David Kempe, Christopher Kiekintveld, Eric Anyung Shieh, Satinder Singh, Milind Tambe, Yevgeniy Vorobeychik","AAAI Spring Symposium: Game Theory for Security, Sustainability, and Health 2012",AAAISS,Unranked
+277,Getting Started on a Real-World Challenge Problem in Computational Game Theory and Beyond.,2012,"Milind Tambe, Bo An","AAAI Spring Symposium: AI, The Fundamental Social Aggregation Challenge 2012",AAAISS,Unranked
+278,Game Theory for Security: A Real-World Challenge Problem for Multiagent Systems and Beyond.,2012,"Milind Tambe, Bo An","AAAI Spring Symposium: Game Theory for Security, Sustainability, and Health 2012",AAAISS,Unranked
+279,Adversarial Patrolling Games.,2012,"Yevgeniy Vorobeychik, Bo An, Milind Tambe","AAAI Spring Symposium: Game Theory for Security, Sustainability, and Health 2012",AAAISS,Unranked
+280,PROTECT: a deployed game theoretic system to protect the ports of the United States.,2012,"Eric Shieh, Bo An, Rong Yang, Milind Tambe, Craig Baldwin, Joseph DiRenzo, Ben Maule, Garrett Meyer",AAMAS 2012: 13-20,ATAL,Unranked
+281,Multi-objective optimization for security games.,2012,"Matthew Brown, Bo An, Christopher Kiekintveld, Fernando Ordóñez, Milind Tambe",AAMAS 2012: 863-870,ATAL,Unranked
+282,Adversarial patrolling games.,2012,"Yevgeniy Vorobeychik, Bo An, Milind Tambe",AAMAS 2012: 1307-1308,ATAL,Unranked
+283,Challenges and Opportunities for Trust Management in Crowdsourcing.,2012,"Han Yu, Zhiqi Shen, Chunyan Miao, Bo An",IAT 2012: 486-493,IAT,Unranked
+284,An Adaptive Witness Selection Method for Reputation-Based Trust Models.,2012,"Han Yu, Zhiqi Shen, Bo An",PRIMA 2012: 184-198,PRIMA,B
+285,Yushu: A Heuristic-Based Agent for Automated Negotiating Competition.,2012,"Bo An, Victor R. Lesser",New Trends in Agent-Based Complex Automated Negotiations 2012: 145-149,SCI,Unranked
+286,Strategic agents for multi-resource negotiation.,2011,"Bo An, Victor R. Lesser, Kwang Mong Sim",Auton. Agents Multi Agent Syst. 23: 114-153 ,AAMAS,A*
+287,GUARDS and PROTECT: next generation applications of security games.,2011,"Bo An, James Pita, Eric Anyung Shieh, Milind Tambe, Christopher Kiekintveld, Janusz Marecki",SIGecom Exch. 10: 31-34 ,SIGECOM,Unranked
+288,Refinement of Strong Stackelberg Equilibria in Security Games.,2011,"Bo An, Milind Tambe, Fernando Ordóñez, Eric Anyung Shieh, Christopher Kiekintveld",AAAI 2011: 587-593,AAAI,A*
+289,Mixed-Initiative Optimization in Security Games: A Preliminary Report.,2011,"Bo An, Manish Jain, Milind Tambe, Christopher Kiekintveld",AAAI Spring Symposium: Help Me Help You: Bridging the Gaps in Human-Agent Collaboration 2011,AAAISS,Unranked
+290,Agent-mediated multi-step optimization for resource allocation in distributed sensor networks.,2011,"Bo An, Victor R. Lesser, David Westbrook, Michael Zink",AAMAS 2011: 609-616,ATAL,Unranked
+291,Negotiation over decommitment penalty.,2011,"Bo An, Victor R. Lesser",AAMAS 2011: 1101-1102,ATAL,Unranked
+292,Game Theory for Security: An Important Challenge for Multiagent Systems.,2011,"Bo An, Milind Tambe",EUMAS 2011: 17-30,EUMAS,C
+293,Characterizing Contract-Based Multiagent Resource Allocation in Networks.,2010,"Bo An, Victor R. Lesser",IEEE Trans. Syst. Man Cybern. Part B 40: 575-586 ,TSMC,Unranked
+294,Automated negotiation with decommitment for dynamic resource allocation in cloud computing.,2010,"Bo An, Victor R. Lesser, David E. Irwin, Michael Zink",AAMAS 2010: 981-988,ATAL,Unranked
+295,Searching for pure strategy equilibria in bilateral bargaining with one-sided uncertainty.,2010,"Bo An, Nicola Gatti, Victor R. Lesser",AAMAS 2010: 1607-1608,ATAL,Unranked
+296,Multi-Agent Asynchronous Negotiation Based on Time-Delay.,2010,"Lianggui Tang, Bo An",LSMS/ICSEE  2010: 256-269,LSMS,Unranked
+297,Evolving Best-Response Strategies for Market-Driven Agents Using Aggregative Fitness GA.,2009,"Kwang Mong Sim, Bo An",IEEE Trans. Syst. Man Cybern. Part C 39: 284-298 ,TSMC,Unranked
+298,Bilateral Bargaining with One-Sided Two-Type Uncertainty.,2009,"Bo An, Nicola Gatti, Victor R. Lesser",IAT 2009: 403-410,IAT,Unranked
+299,Extending Alternating-Offers Bargaining in One-to-Many and Many-to-Many Settings.,2009,"Bo An, Nicola Gatti, Victor R. Lesser",IAT 2009: 423-426,IAT,Unranked
+300,Heuristics for negotiation schedules in multi-plan optimization.,2008,"Bo An, Fred Douglis, Fan Ye",AAMAS  2008: 551-558,ATAL,Unranked
+301,Decommitment in multi-resource negotiation.,2008,"Bo An, Victor R. Lesser, Kwang Mong Sim",AAMAS  2008: 1553-1556,ATAL,Unranked
+302,Algorithms for Transitive Dependence-Based Coalition Formation.,2007,"Bo An, Zhiqi Shen, Chunyan Miao, Daijie Cheng",IEEE Trans. Ind. Informatics 3: 234-245 ,TII,Unranked
+303,Evolving the best-response strategy to decide when to make a proposal.,2007,"Bo An, Kwang Mong Sim, Victor R. Lesser",IEEE Congress on Evolutionary Computation 2007: 1035-1042,CEC,B
+304,An Application of Automated Negotiation to Distributed Task Allocation.,2007,"Michael Krainin, Bo An, Victor R. Lesser",IAT 2007: 138-145,IAT,Unranked
+305,Market Based Resource Allocation with Incomplete Information.,2007,"Bo An, Chunyan Miao, Zhiqi Shen",IJCAI 2007: 1193-1198,IJCAI,A*
+306,An Agent Reinforcement Learning Model Based on Neural Networks.,2007,"Lianggui Tang, Bo An, Daijie Cheng",LSMS  2007: 117-127,LSMS,Unranked
+307,Fuzzy cognitive maps for dynamic grid service negotiation.,2006,"Chunyan Miao, Jianshu Weng, Angela Goh, Zhiqi Shen, Bo An",Multiagent Grid Syst. 2: 101-114 ,MAGS,Unranked
+308,Continuous-Time Negotiation Mechanism for Software Agents.,2006,"Bo An, Kwang Mong Sim, Liang Gui Tang, Shuang Qing Li, Dai Jie Cheng",IEEE Trans. Syst. Man Cybern. Part B 36: 1261-1272 ,TSMC,Unranked
+309,A Coalition Formation Framework Based on Transitive Dependence.,2005,"Bo An, Chunyan Miao, Daijie Cheng",IEICE Trans. Inf. Syst. 88-D: 2672-2680 ,IEICET,Unranked
+310,Transitive Dependence Based Formation of Virtual Organizations.,2005,"Bo An, Chunyan Miao, Zhiqi Shen, Yuan Miao, Daijie Cheng",CIS  2005: 375-380,CIS,C
+311,Transitive Dependence Based Formation of Virtual Organizations.,2005,"Bo An, Chunyan Miao, Zhiqi Shen, Yuan Miao, Daijie Cheng",CIS  2005: 375-380,CIS,National
+312,Toward Transitive Dependence in MAS.,2005,"Bo An, Chunyan Miao, Lianggui Tang, Shuangqing Li, Daijie Cheng",IDEAL 2005: 486-493,IDEAL,C
+313,A Transitive Dependence Based Social Reasoning Mechanism for Coalition Formation.,2005,"Bo An, Chunyan Miao, Lianggui Tang, Shuangqing Li, Daijie Cheng",IDEAL 2005: 507-514,IDEAL,C
+314,A Negotiation Strategy based on Uncompromising Degree.,2004,"Bo An, Lianggui Tang, Shuangqing Li, Daijie Cheng",IAT 2004: 357-360,IAT,Unranked

@@ -1,0 +1,144 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,"The Impact of a Number of Samples on Unsupervised Feature Extraction, Based on Deep Learning for Detection Defects in Printed Circuit Boards.",2022,"Ihar Volkau, Abdul Mujeeb, Wenting Dai, Marius Erdt, Alexei Sourin",Future Internet 14: 8 ,FI,Unranked
+1,Self-supervised pairing image clustering for automated quality control.,2022,"Wenting Dai, Marius Erdt, Alexei Sourin",Vis. Comput. 38: 1181-1194 ,VC,Unranked
+2,Feasibility Study on Interactive Geometry Sonification.,2022,"Hanqin Wang, Alexei Sourin",CW 2022: 159-162,CW,C
+3,Making Shapes with Mathematics.,2022,Alexei Sourin,CW 2022: 175-176,CW,C
+4,"International Conference on Cyberworlds, CW 2022, Kanazawa, Japan, September 27-29, 2022.",2022,"Yuriko Takeshima, Alexei Sourin, Haoran Xie, Christophe Rosenberger, Olga Sourina, Kazunori Miyata","IEEE 2022, ISBN 978-1-6654-6814-5 ",CW,C
+5,Making Images with Mathematics.,2021,Alexei Sourin,"Undergraduate Topics in Computer Science, Springer 2021, ISBN 978-3-030-69834-8, pp. 1-244",UTCS,Unranked
+6,Detection and segmentation of image anomalies based on unsupervised defect reparation.,2021,"Wenting Dai, Marius Erdt, Alexei Sourin",Vis. Comput. 37: 3093-3102 ,VC,Unranked
+7,Anomaly Detection and Segmentation Based on Defect Repaired Image Resynthesis.,2021,"Wenting Dai, Marius Erdt, Alexei Sourin",CW 2021: 109-112,CW,C
+8,Virtual Assembling Using Hand Tracking with Leap Motion Controller.,2021,"Siyi Mu, Alexei Sourin",CW 2021: 121-124,CW,C
+9,Application of Generative Adversarial Networks and Latent Space Exploration in Music Visualisation.,2021,"Haziq Yusoff bin Abdul Wahab, Alexei Sourin",CW 2021: 125-128,CW,C
+10,Generation of Music With Dynamics Using Deep Convolutional Generative Adversarial Network.,2021,"Raymond Kwan How Toh, Alexei Sourin",CW 2021: 137-140,CW,C
+11,"International Conference on Cyberworlds, CW 2021, Caen, France, September 28-30, 2021.",2021,"Alexei Sourin, Christophe Rosenberger, Olga Sourina","IEEE 2021, ISBN 978-1-6654-4065-3 ",CW,C
+12,Soldering defect detection in automatic optical inspection.,2020,"Wenting Dai, Abdul Mujeeb, Marius Erdt, Alexei Sourin",Adv. Eng. Informatics 43: 101004 ,AEI,Unranked
+13,Interactive visual labelling versus active learning: an experimental comparison.,2020,"Mohammad Chegini, Jürgen Bernard, Jian Cui, Fatemeh Chegini, Alexei Sourin, Keith Andrews, Tobias Schreck",Frontiers Inf. Technol. Electron. Eng. 21: 524-535 ,JZUSC,Unranked
+14,Self-supervised Pairing Image Clustering and Its Application in Cyber Manufacturing.,2020,"Wenting Dai, Yutao Jiao, Marius Erdt, Alexei Sourin",CW 2020: 25-32,CW,C
+15,Generation of Irregular Music Patterns With Deep Learning.,2020,"Zi Jun Kan, Alexei Sourin",CW 2020: 188-195,CW,C
+16,"International Conference on Cyberworlds, CW 2020, Caen, France, September 29 - October 1, 2020.",2020,"Alexei Sourin, Christophe Charrier, Christophe Rosenberger, Olga Sourina","IEEE 2020, ISBN 978-1-7281-6497-7 ",CW,C
+17,Transactions on Computational Science XXXVI - Special Issue on Cyberworlds and Cybersecurity.,2020,"Marina L. Gavrilova, C. J. Kenneth Tan, Alexei Sourin","Lecture Notes in Computer Science 12060, Springer 2020, ISBN 978-3-662-61363-4 ",TCOS,Unranked
+18,One class based feature learning approach for defect detection using deep autoencoders.,2019,"Abdul Mujeeb, Wenting Dai, Marius Erdt, Alexei Sourin",Adv. Eng. Informatics 42 ,AEI,Unranked
+19,"Interactive labelling of a multivariate dataset for supervised machine learning using linked visualisations, clustering, and active learning.",2019,"Mohammad Chegini, Jürgen Bernard, Philip Berger, Alexei Sourin, Keith Andrews, Tobias Schreck",Vis. Informatics 3: 9-17 ,VI,Unranked
+20,Music in the Air with Leap Motion Controller.,2019,Alexei Sourin,CW 2019: 57-60,CW,C
+21,Detection Defect in Printed Circuit Boards using Unsupervised Feature Extraction Upon Transfer Learning.,2019,"Ihar Volkau, Abdul Mujeeb, Wenting Dai, Marius Erdt, Alexei Sourin",CW 2019: 101-108,CW,C
+22,Eye-Tracking Based Adaptive Parallel Coordinates.,2019,"Mohammad Chegini, Keith Andrews, Tobias Schreck, Alexei Sourin",SIGGRAPH Asia Posters 2019: 44:1-44:2,SIGGRAPHA,Unranked
+23,Interactive rendering of translucent materials under area lights using voxels and Poisson disk samples.,2018,"Ming Di Koa, Henry Johan, Alexei Sourin",Comput. Graph. 71: 101-112 ,CG,Unranked
+24,Mid-air interaction with optical tracking for 3D modeling.,2018,"Jian Cui, Alexei Sourin",Comput. Graph. 74: 1-11 ,CG,Unranked
+25,Interactive Cutting of Thin Deformable Objects.,2018,"Bin Weng, Alexei Sourin",Symmetry 10: 17 ,SYMMETRY,Unranked
+26,Tangible Video Communication over the Internet.,2018,"Song Guo, Alexei Sourin",CGI 2018: 253-260,CGI,C
+27,Towards Asynchronous Video-Haptic Interaction in Cyberspace.,2018,"Song Guo, Alexei Sourin",CW 2018: 160-163,CW,C
+28,Towards Automatic Optical Inspection of Soldering Defects.,2018,"Wenting Dai, Abdul Mujeeb, Marius Erdt, Alexei Sourin",CW 2018: 375-382,CW,C
+29,Unsupervised Surface Defect Detection Using Deep Autoencoders and Data Augmentation.,2018,"Abdul Mujeeb, Wenting Dai, Marius Erdt, Alexei Sourin",CW 2018: 391-398,CW,C
+30,"2018 International Conference on Cyberworlds, CW 2018, Singapore, October 3-5, 2018.",2018,"Alexei Sourin, Olga Sourina, Christophe Rosenberger, Marius Erdt","IEEE 2018, ISBN 978-1-5386-7315-7 ",CW,C
+31,Transactions on Computational Science XXXII - Special Issue on Cybersecurity and Biometrics.,2018,"Marina L. Gavrilova, C. J. Kenneth Tan, Alexei Sourin","Lecture Notes in Computer Science 10830, Springer 2018, ISBN 978-3-662-56671-8 ",TCOS,Unranked
+32,Foreword to the Special Issue on 2016 International Conference on Cyberworlds (CYBERWORLDS 2016).,2017,"Issei Fujishiro, Alexei Sourin",Comput. Graph. 64: 1-2 ,CG,Unranked
+33,Procedural modeling of architecture with round geometry.,2017,"Johannes Edelsbrunner, Sven Havemann, Alexei Sourin, Dieter W. Fellner",Comput. Graph. 64: 14-25 ,CG,Unranked
+34,Interactive screenspace fragment rendering for direct illumination from area lights using gradient aware subdivision and radial basis function interpolation.,2017,"Ming Di Koa, Henry Johan, Alexei Sourin",Comput. Graph. 64: 37-50 ,CG,Unranked
+35,Tangible images of real life scenes.,2017,"Xingzi Zhang, Michael Goesele, Alexei Sourin",Comput. Graph. 64: 62-73 ,CG,Unranked
+36,Adding a sense of touch to online shopping: does it really help?,2017,"Xingzi Zhang, Ningshuang Chen, Alexei Sourin",CGI 2017: 23:1-23:6,CGI,C
+37,Voxel-Based Interactive Rendering of Translucent Materials under Area Lights Using Sparse Samples.,2017,"Ming Di Koa, Henry Johan, Alexei Sourin",CW 2017: 56-63,CW,C
+38,Interactive shape modeling using leap motion controller.,2017,"Jian Cui, Alexei Sourin",SIGGRAPH Asia Technical Briefs 2017: 3:1-3:4,SIGGRAPHA,Unranked
+39,Transactions on Computational Science XXX - Special Issue on Cyberworlds and Cybersecurity.,2017,"Marina L. Gavrilova, C. J. Kenneth Tan, Alexei Sourin","Lecture Notes in Computer Science 10560, Springer 2017, ISBN 978-3-662-56005-1 ",TCOS,Unranked
+40,Constructive Roofs from Solid Building Primitives.,2016,"Johannes Edelsbrunner, Ulrich Krispel, Sven Havemann, Alexei Sourin, Dieter W. Fellner",Trans. Comput. Sci. 26: 17-40 ,TCOS,Unranked
+41,Problems of Human-Computer Interaction in Cyberworlds.,2016,"Alexei Sourin, Rae A. Earnshaw, Marina L. Gavrilova, Olga Sourina",Trans. Comput. Sci. 28: 1-22 ,TCOS,Unranked
+42,Preface to the special section on Cyberworlds 2015.,2016,Alexei Sourin,Vis. Comput. 32: 1291-1292 ,VC,Unranked
+43,Real-time haptic interaction with RGBD video streams.,2016,"Shahzad Rasool, Alexei Sourin",Vis. Comput. 32: 1311-1321 ,VC,Unranked
+44,Understanding People's Mental Models of Mid-Air Interaction for Virtual Assembly and Shape Modeling.,2016,"Jian Cui, Arjan Kuijper, Dieter W. Fellner, Alexei Sourin",CASA 2016: 139-146,CA,Unranked
+45,Exploration of Natural Free-Hand Interaction for Shape Modeling Using Leap Motion Controller.,2016,"Jian Cui, Arjan Kuijper, Alexei Sourin",CW 2016: 41-48,CW,C
+46,Haptic Interaction with a Polygon Mesh Reconstructed from Images.,2016,"Xingzi Zhang, Michael Goesele, Alexei Sourin",CW 2016: 49-56,CW,C
+47,Interactive Screenspace Stream-Compaction Fragment Rendering of Direct Illumination from Area Lights.,2016,"Ming Di Koa, Henry Johan, Alexei Sourin",CW 2016: 57-64,CW,C
+48,Procedural Modeling of Round Building Geometry.,2016,"Johannes Edelsbrunner, Sven Havemann, Alexei Sourin, Dieter W. Fellner",CW 2016: 81-88,CW,C
+49,Mid-Air Gestures for Virtual Modeling with Leap Motion.,2016,"Jian Cui, Dieter W. Fellner, Arjan Kuijper, Alexei Sourin",HCI  2016: 221-230,HCI,National
+50,Assessing haptic video interaction with neurocognitive tools.,2016,"Shahzad Rasool, Xiyuan Hou, Yisi Liu, Alexei Sourin, Olga Sourina",SMC 2016: 3057-3062,SMC,B
+51,"2016 International Conference on Cyberworlds, CW 2016, Chongqing, China, September 28-30, 2016.",2016,Alexei Sourin,"IEEE Computer Society 2016, ISBN 978-1-5090-2303-5 ",CW,C
+52,Transactions on Computational Science XXVI - Special Issue on Cyberworlds and Cybersecurity.,2016,"Marina L. Gavrilova, C. J. Kenneth Tan, Andrés Iglesias, Mikio Shinya, Akemi Gálvez, Alexei Sourin","Lecture Notes in Computer Science 9550, Springer 2016, ISBN 978-3-662-49246-8 ",TCOS,Unranked
+53,Transactions on Computational Science XXVIII - Special Issue on Cyberworlds and Cybersecurity.,2016,"Marina L. Gavrilova, C. J. Kenneth Tan, Alexei Sourin","Lecture Notes in Computer Science 9590, Springer 2016, ISBN 978-3-662-53089-4 ",TCOS,Unranked
+54,Image-inspired haptic interaction.,2015,"Xingzi Zhang, Alexei Sourin",Comput. Animat. Virtual Worlds 26: 311-319 ,JVCA,Unranked
+55,Haptic Interaction with Video Streams Containing Depth Data.,2015,"Shahzad Rasool, Alexei Sourin",CW 2015: 173-180,CW,C
+56,Image-Driven Haptic Rendering.,2014,"Shahzad Rasool, Alexei Sourin",Trans. Comput. Sci. 23: 58-77 ,TCOS,Unranked
+57,Multisensory Experience with Images.,2014,"Kan Chen, Xingzi Zhang, Shahzad Rasool, Henry Johan, Alexei Sourin",CW 2014: 55-62,CW,C
+58,Constructive Roof Geometry.,2014,"Johannes Edelsbrunner, Ulrich Krispel, Sven Havemann, Alexei Sourin, Dieter W. Fellner",CW 2014: 63-70,CW,C
+59,Feasibility Study on Free Hand Geometric Modelling Using Leap Motion in VRML/X3D.,2014,"Jian Cui, Alexei Sourin",CW 2014: 389-392,CW,C
+60,Modeling arthroscopic camera with haptic devices in image-based virtual environments.,2014,"Shahzad Rasool, Alexei Sourin, Vladimir Pestrikov, Fareed Kagda",HAPTICS 2014: 403-408,HAPTICS,Unranked
+61,Virtual Knee Arthroscopy Using Haptic Devices and Real Surgical Images.,2014,"Shahzad Rasool, Alexei Sourin, Vladimir Pestrikov, Fareed Kagda",HCI  2014: 436-447,HCI,National
+62,Image-Based Virtual Palpation.,2013,"Shamima Yasmin, Alexei Sourin",Trans. Comput. Sci. 18: 61-80 ,TCOS,Unranked
+63,Preface to special issue on Cyberworlds 2011.,2013,"Marina L. Gavrilova, Alexei Sourin",Vis. Comput. 29: 97-98 ,VC,Unranked
+64,Image-driven virtual simulation of arthroscopy.,2013,"Shahzad Rasool, Alexei Sourin",Vis. Comput. 29: 333-344 ,VC,Unranked
+65,Interactive free-form shape modeling in cyberworlds.,2013,"Danbo Lai, Alexei Sourin",Vis. Comput. 29: 1027-1037 ,VC,Unranked
+66,Towards Making Panoramic Images in Virtual Arthroscopy.,2013,"Vladimir Pestrikov, Alexei Sourin",CW 2013: 48-51,CW,C
+67,Image-Driven Haptic Rendering in Virtual Environments.,2013,"Shahzad Rasool, Alexei Sourin",CW 2013: 286-293,CW,C
+68,Image-driven Haptic Simulation of Arthroscopic Surgery.,2013,"Shahzad Rasool, Alexei Sourin, Fareed Kagda",MMVR 2013: 337-343,MMVR,Unranked
+69,Towards hand-eye coordination training in virtual knee arthroscopy.,2013,"Shahzad Rasool, Alexei Sourin, Pingjun Xia, Bin Weng, Fareed Kagda",VRST 2013: 17-26,VRST,A
+70,Function-Based Single and Dual Point Haptic Interaction in Cyberworlds.,2012,"Lei Wei, Alexei Sourin, Zoran Najdovski, Saeid Nahavandi",Trans. Comput. Sci. 16: 1-16 ,TCOS,Unranked
+71,Interactive Visualization of Mathematics in 3D Web.,2012,"Danbo Lai, Alexei Sourin",CW 2012: 122-129,CW,C
+72,Virtual Palpation for Medical Training in Cyberworlds.,2012,"Shamima Yasmin, Alexei Sourin",CW 2012: 207-214,CW,C
+73,Haptic Editing of MRI Brain Data.,2012,"Alexei Sourin, Shamima Yasmin",MMVR 2012: 490-496,MMVR,Unranked
+74,Design and implementation of a haptics-based virtual venepuncture simulation and training system.,2012,"Pingjun Xia, Alexei Sourin",VRCAI 2012: 25-30,VRCAI,Unranked
+75,A new approach to virtual palpation.,2012,"Shamima Yasmin, Alexei Sourin",VRCAI 2012: 203-212,VRCAI,Unranked
+76,"2012 International Conference on Cyberworlds, Darmstadt, Germany, September 25-27, 2012.",2012,"Arjan Kuijper, Alexei Sourin","IEEE Computer Society 2012, ISBN 978-1-4673-2736-7 ",CW,C
+77,Reconstructing Multiresolution Mesh for Web Visualization Based on PDE Resampling.,2011,"Ming-Yong Pang, Yun Sheng, Alexei Sourin, Gabriela González Castro, Hassan Ugail",Trans. Comput. Sci. 12: 36-55 ,TCOS,Unranked
+78,Special issue on Cyberworlds 2010.,2011,"Alexei Sourin, Daniel Thalmann, Olga Sourina",Vis. Comput. 27: 249-250 ,VC,Unranked
+79,Function-based approach to mixed haptic effects rendering.,2011,"Lei Wei, Alexei Sourin",Vis. Comput. 27: 321-332 ,VC,Unranked
+80,Function-Based Haptic Interaction in Cyberworlds.,2011,"Lei Wei, Alexei Sourin",CW 2011: 217-221,CW,C
+81,Tangible images.,2011,"Shahzad Rasool, Alexei Sourin",SIGGRAPH Asia Sketches 2011: 41:1-41:2,SIGGRAPHA,Unranked
+82,Haptic interaction with 2D images.,2011,"Shahzad Rasool, Alexei Sourin",VRCAI 2011: 13-22,VRCAI,Unranked
+83,Visual immersive mathematics in 3D web.,2011,"Danbo Lai, Alexei Sourin",VRCAI 2011: 519-526,VRCAI,Unranked
+84,Transactions on Computational Science XII - Special Issue on Cyberworlds.,2011,"Marina L. Gavrilova, Chih Jeng Kenneth Tan, Alexei Sourin, Olga Sourina","Lecture Notes in Computer Science 6670, Springer 2011, ISBN 978-3-642-22335-8 ",TCOS,Unranked
+85,Constructing Subdivision Connectivity Mesh via PDE Parameterization.,2010,"Mingyong Pang, Alexei Sourin, Zhigeng Pan",Int. J. Virtual Real. 9: 13-19 ,IJVR,Unranked
+86,A PDE method for patchwise approximation of large polygon meshes.,2010,"Yun Sheng, Alexei Sourin, Gabriela González Castro, Hassan Ugail",Vis. Comput. 26: 975-984 ,VC,Unranked
+87,Haptic Rendering of Mixed Haptic Effects.,2010,"Lei Wei, Alexei Sourin",CW 2010: 38-45,CW,C
+88,Towards Tangible Images and Video in Cyberworlds-Function-Based Approach.,2010,"Shahzad Rasool, Alexei Sourin",CW 2010: 92-96,CW,C
+89,Automatic Reconstruction and Web Visualization of Complex PDE Shapes.,2010,"Ming-Yong Pang, Yun Sheng, Alexei Sourin, Gabriela González Castro, Hassan Ugail",CW 2010: 97-104,CW,C
+90,Setting Cyber-Instructors in Cyberspace.,2010,"Leon Ho Chiau Wai, Alexei Sourin",CW 2010: 314-318,CW,C
+91,A Framework for Visual and Haptic Collaboration in Shared Virtual Spaces.,2010,"Lei Wei, Alexei Sourin, Herbert Stocker",ISVC  2010: 564-573,ISVC,National
+92,"2010 International Conference on CyberWorlds, Singapore, October 20-22, 2010.",2010,"Alexei Sourin, Olga Sourina","IEEE Computer Society 2010, ISBN 978-0-7695-4215-7 ",CW,C
+93,Interactive surface-guided segmentation of brain MRI data.,2009,"Konstantin Levinski, Alexei Sourin, Vitali Zagorodnov",Comput. Biol. Medicine 39: 1153-1160 ,CBM,Unranked
+94,Visual Immersive Haptic Mathematics in Shared Virtual Spaces.,2009,"Alexei Sourin, Olga Sourina, Lei Wei, Paul Gagnon",Trans. Comput. Sci. 3: 1-19 ,TCOS,Unranked
+95,Visual immersive haptic mathematics.,2009,"Alexei Sourin, Lei Wei",Virtual Real. 13: 221-234 ,VR,A*
+96,3D Visualization and Segmentation of Brain MRI Data.,2009,"Konstantin Levinski, Alexei Sourin, Vitali Zagorodnov",GRAPP 2009: 111-118,GRAPP,Unranked
+97,EEG Data Driven Animation and Its Application.,2009,"Olga Sourina, Alexei Sourin, Vladimir Kulish",MIRAGE 2009: 380-388,MIRAGE,Unranked
+98,Function-based haptic collaboration in X3D.,2009,"Lei Wei, Alexei Sourin, Herbert Stocker",Web3D 2009: 15-23,VRML,Unranked
+99,Collaboration in 3D Shared Spaces Using X3D and VRML.,2009,"Lei Wei, Alexei Sourin, Herbert Stocker",CW 2009: 36-42,CW,C
+100,Towards a Definition of Virtual Objects Using Partial Differential Equations.,2009,"Hassan Ugail, Gabriela González Castro, Alexei Sourin, Olga Sourina",CW 2009: 138-145,CW,C
+101,Function-based visualization and haptic rendering in shared virtual spaces.,2008,"Lei Wei, Alexei Sourin, Olga Sourina",Vis. Comput. 24: 871-880 ,VC,Unranked
+102,Partial Differential Equations for Function Based Geometry Modelling within Visual Cyberworlds.,2008,"Hassan Ugail, Alexei Sourin",CW 2008: 224-231,CW,C
+103,Visual immersive haptic rendering on the web.,2008,"Alexei Sourin, Lei Wei",VRCAI 2008,VRCAI,Unranked
+104,Interactive function-based shape modelling.,2007,"Konstantin Levinski, Alexei Sourin",Comput. Graph. 31: 66-76 ,CG,Unranked
+105,Editorial.,2007,"Daniel Thalmann, Alexei Sourin",Vis. Comput. 23: 297-298 ,VC,Unranked
+106,Function-Based Haptic Interaction in Cyberworlds.,2007,"Lei Wei, Alexei Sourin, Olga Sourina",CW 2007: 225-232,CW,C
+107,Physically based hydraulic erosion simulation on graphics processing unit.,2007,"Nguyen Hoang Anh, Alexei Sourin, Parimal Aswani",GRAPHITE 2007: 257-264,GRAPHITE,Unranked
+108,"2007 International Conference on Cyberworlds, CW 2007, Hannover, Germany, October 24-26, 2007.",2007,"Franz-Erich Wolter, Alexei Sourin","IEEE Computer Society 2007, ISBN 978-0-7695-3005-5 ",CW,C
+109,Human electroencephalograms seen as fractal time series: Mathematical analysis and visualization.,2006,"Vladimir Kulish, Alexei Sourin, Olga Sourina",Comput. Biol. Medicine 36: 291-302 ,CBM,Unranked
+110,Function-based shape modelling extension of the Virtual Reality Modelling Language.,2006,"Qi Liu, Alexei Sourin",Comput. Graph. 30: 629-645 ,CG,Unranked
+111,Cyber-Learning in Cyberworlds.,2006,"Alexei Sourin, Olga Sourina, Ekaterina Prasolova-Førland",J. Cases Inf. Technol. 8: 55-70 ,JCIT-IGI,Unranked
+112,Function-defined shape metamorphoses in visual cyberworlds.,2006,"Qi Liu, Alexei Sourin",Vis. Comput. 22: 977-990 ,VC,Unranked
+113,Cybercampuses: design issues and future directions.,2006,"Ekaterina Prasolova-Førland, Alexei Sourin, Olga Sourina",Vis. Comput. 22: 1015-1028 ,VC,Unranked
+114,Interactive Grid-based Free-Form Shape Modeling.,2006,"Anthony S. K. Chong, Konstantin Levinski, Alexei Sourin",CCGRID 2006: 253-256,CCGRID,B
+115,Hybrid Function-Based Shape Modeling and Web Visualization.,2006,Alexei Sourin,CW 2006: 12-13,CW,C
+116,Grid-based computer animation rendering.,2006,"Anthony S. K. Chong, Alexei Sourin, Konstantin Levinski",GRAPHITE 2006: 39-47,GRAPHITE,Unranked
+117,Function-based shape modeling and visualization in X3D.,2006,"Qi Liu, Alexei Sourin",Web3D 2006: 131-141,VRML,Unranked
+118,Function-based Time-dependent Shape Modeling on the Web.,2005,"Qi Liu, Alexei Sourin",CW 2005: 35-42,CW,C
+119,Place Metaphors in Educational Cyberworlds: a Virtual Campus Case Study.,2005,"Ekaterina Prasolova-Førland, Alexei Sourin, Olga Sourina",CW 2005: 221-228,CW,C
+120,Function-defined shape metamorphoses in VRML.,2005,"Qi Liu, Alexei Sourin",GRAPHITE 2005: 339-346,GRAPHITE,Unranked
+121,From a Small Formula to Cyberworlds.,2005,Alexei Sourin,ICCSA  2005: 983-992,ICCSA,C
+122,From a Small Formula to Cyberworlds.,2005,Alexei Sourin,ICCSA  2005: 983-992,ICCSA,C
+123,Function-based representation of complex geometry and appearance.,2005,"Qi Liu, Alexei Sourin",Web3D 2005: 123-134,VRML,Unranked
+124,Guest editor's introduction.,2004,"Seah Hock Soon, Alexei Sourin",Comput. Graph. 28: 465-466 ,CG,Unranked
+125,Nanyang Technological University Virtual Campus.,2004,Alexei Sourin,IEEE Computer Graphics and Applications 24: 6-8 ,CGA,Unranked
+126,Interactive Function-Based Shape Modeling for Cyberworlds.,2004,"Konstantin Levinski, Alexei Sourin",CW 2004: 54-61,CW,C
+127,Analytically-Defined Collaborative Shape Modeling in VRML.,2004,"Qi Liu, Alexei Sourin",CW 2004: 70-77,CW,C
+128,Web Visualization of Function-Defined Shapes.,2003,"Alexei Sourin, Lai Feng Min, Konstantin Levinski",ICCSA  2003: 428-437,ICCSA,C
+129,Web Visualization of Function-Defined Shapes.,2003,"Alexei Sourin, Lai Feng Min, Konstantin Levinski",ICCSA  2003: 428-437,ICCSA,C
+130,Function-Based 3D Web Visualization.,2002,"Lai Feng Min, Alexei Sourin, Konstantin Levinski",CW 2002: 428-438,CW,C
+131,Interactive Function-Based Artistic Shape Modeling.,2002,"Konstantin Levinski, Alexei Sourin",CW 2002: 521-530,CW,C
+132,Function-defined shape node for VRML.,2002,"Lai Feng Min, Alexei Sourin",Eurographics  2002,EUROGRAPHICS,Unranked
+133,Interactive Polygonisation for Function-based Modelling.,2002,"Alexei Sourin, Konstantin Levinski",Eurographics  2002,EUROGRAPHICS,Unranked
+134,Synthetic carving using implicit surface primitives.,2001,"Alexander A. Pasko, Vladimir V. Savchenko, Alexei Sourin",Comput. Aided Des. 33: 379-388 ,CAD,Unranked
+135,Functionally based virtual embossing.,2001,Alexei Sourin,Vis. Comput. 17: 258-271 ,VC,Unranked
+136,Functionally based virtual computer art.,2001,Alexei Sourin,SI3D 2001: 77-84,SI3D,Unranked
+137,Orthopaedic Surgery Simulation.,1999,"Olga Sourina, Alexei Sourin",Applied Informatics 1999: 234-237,APPINF,Unranked
+138,Volume Modelling: Representations and Advanced Operations.,1998,"Vladimir V. Savchenko, Alexander A. Pasko, Alexei Sourin, Tosiyasu L. Kunii",Computer Graphics International 1998: 4-13,CGI,C
+139,Using real functions with application to hair modelling.,1996,"Alexei Sourin, Alexander A. Pasko, Vladimir V. Savchenko",Comput. Graph. 20: 11-19 ,CG,Unranked
+140,Function Representation for Sweeping by a Moving Solid.,1996,"Alexei Sourin, Alexander A. Pasko",IEEE Trans. Vis. Comput. Graph. 2: 11-18 ,TVCG,Unranked
+141,"Function representation in geometric modeling: concepts, implementation and applications.",1995,"Alexander A. Pasko, Valery Adzhiev, Alexei Sourin, Vladimir V. Savchenko",Vis. Comput. 11: 429-446 ,VC,Unranked
+142,Function representation for sweeping by a moving solid.,1995,"Alexei Sourin, Alexander A. Pasko",Symposium on Solid Modeling and Applications 1995: 383-391,SMA,Unranked

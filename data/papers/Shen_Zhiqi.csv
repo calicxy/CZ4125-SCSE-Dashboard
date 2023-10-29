@@ -1,0 +1,199 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Reversing skin cancer adversarial examples by multiscale diffusive and denoising aggregation mechanism.,2023,"Yongwei Wang, Yuan Li, Zhiqi Shen, Yuhui Qiao",Comput. Biol. Medicine 164: 107310 ,CBM,Unranked
+1,Dynamic Multi-Objective Optimization Framework With Interactive Evolution for Sequential Recommendation.,2023,"Wei Zhou, Yong Liu, Min Li, Yu Wang, Zhiqi Shen, Liang Feng, Zexuan Zhu",IEEE Trans. Emerg. Top. Comput. Intell. 7: 1228-1241 ,TETCI,Unranked
+2,Next POI Recommendation with Dynamic Graph and Explicit Dependency.,2023,"Feiyu Yin, Yong Liu, Zhiqi Shen, Lisi Chen, Shuo Shang, Peng Han",AAAI 2023: 4827-4834,AAAI,A*
+3,MHCCL: Masked Hierarchical Cluster-Wise Contrastive Learning for Multivariate Time Series.,2023,"Qianwen Meng, Hangwei Qian, Yong Liu, Lizhen Cui, Yonghui Xu, Zhiqi Shen",AAAI 2023: 9153-9161,AAAI,A*
+4,Revisiting Item Promotion in GNN-Based Collaborative Filtering: A Masked Targeted Topological Attack Perspective.,2023,"Yongwei Wang, Yong Liu, Zhiqi Shen",AAAI 2023: 15206-15214,AAAI,A*
+5,A Teachable Agent to Enhance Elderly's Ikigai.,2023,"Ping Chen, Xinjia Yu, Sufang Lim, Zhiqi Shen",AAMAS 2023: 2319-2321,ATAL,Unranked
+6,Capturing Popularity Trends: A Simplistic Non-Personalized Approach for Enhanced Item Recommendation.,2023,"Jiazheng Jing, Yinan Zhang, Xin Zhou, Zhiqi Shen",CIKM 2023: 1014-1024,CIKM,A
+7,Dual Graph Multitask Framework for Imbalanced Delivery Time Estimation.,2023,"Lei Zhang, Mingliang Wang, Xin Zhou, Xingyu Wu, Yiming Cao, Yonghui Xu, Lizhen Cui, Zhiqi Shen",DASFAA  2023: 606-618,DASFAA,B
+8,Enhancing Dyadic Relations with Homogeneous Graphs for Multimodal Recommendation.,2023,"Hongyu Zhou, Xin Zhou, Lingzi Zhang, Zhiqi Shen",ECAI 2023: 3123-3130,ECAI,A
+9,Delivery Time Prediction Using Large-Scale Graph Structure Learning Based on Quantile Regression.,2023,"Lei Zhang, Xin Zhou, Zhiwei Zeng, Yiming Cao, Yonghui Xu, Mingliang Wang, Xingyu Wu, Yong Liu, Lizhen Cui, Zhiqi Shen",ICDE 2023: 3403-3416,ICDE,A*
+10,Federated Learning for Personalized Image Aesthetics Assessment.,2023,"Zhiwei Xiong, Han Yu, Zhiqi Shen",ICME 2023: 336-341,ICMCS,Unranked
+11,CSP-RM: Reputation Management Decision Support for Crowdsourcing Service Providers.,2023,"Shipeng Wang, Qingzhong Li, Lizhen Cui, Yali Jiang, Zhiqi Shen, Han Yu",ICWS 2023: 161-169,ICWS,A
+12,Inductive Graph Transformer for Delivery Time Estimation.,2023,"Xin Zhou, Jinglong Wang, Yong Liu, Xingyu Wu, Zhiqi Shen, Cyril Leung",WSDM 2023: 679-687,WSDM,A
+13,Enhancing Dyadic Relations with Homogeneous Graphs for Multimodal Recommendation.,2023,"Hongyu Zhou, Xin Zhou, Zhiqi Shen",CoRR abs/2301.12097 ,CORR,Unranked
+14,"A Comprehensive Survey on Multimodal Recommender Systems: Taxonomy, Evaluation, and Future Directions.",2023,"Hongyu Zhou, Xin Zhou, Zhiwei Zeng, Lingzi Zhang, Zhiqi Shen",CoRR abs/2302.04473 ,CORR,Unranked
+15,Dual Graph Multitask Framework for Imbalanced Delivery Time Estimation.,2023,"Lei Zhang, Mingliang Wang, Xin Zhou, Xingyu Wu, Yiming Cao, Yonghui Xu, Lizhen Cui, Zhiqi Shen",CoRR abs/2302.07429 ,CORR,Unranked
+16,Multimodal Pre-training Framework for Sequential Recommendation via Contrastive Learning.,2023,"Lingzi Zhang, Xin Zhou, Zhiqi Shen",CoRR abs/2303.11879 ,CORR,Unranked
+17,StarNet: Style-Aware 3D Point Cloud Generation.,2023,"Yunfan Zhang, Hao Wang, Guosheng Lin, Vun Chan Hua Nicholas, Zhiqi Shen, Chunyan Miao",CoRR abs/2303.15805 ,CORR,Unranked
+18,Unifying gradient regularization for Heterogeneous Graph Neural Networks.,2023,"Xiao Yang, Xuejiao Zhao, Zhiqi Shen",CoRR abs/2305.15811 ,CORR,Unranked
+19,Unsupervised Representation Learning for Time Series: A Review.,2023,"Qianwen Meng, Hangwei Qian, Yong Liu, Yonghui Xu, Zhiqi Shen, Lizhen Cui",CoRR abs/2308.01578 ,CORR,Unranked
+20,Capturing Popularity Trends: A Simplistic Non-Personalized Approach for Enhanced Item Recommendation.,2023,"Jiazheng Jing, Yinan Zhang, Xin Zhou, Zhiqi Shen",CoRR abs/2308.08799 ,CORR,Unranked
+21,Image Aesthetics Assessment via Learnable Queries.,2023,"Zhiwei Xiong, Yunfan Zhang, Zhiqi Shen, Peiran Ren, Han Yu",CoRR abs/2309.02861 ,CORR,Unranked
+22,SAER: Sentiment-Opinion Alignment Explainable Recommendation.,2022,"Xiaoning Zong, Yong Liu, Yonghui Xu, Yixin Zhang, Zhiqi Shen, Yonghua Yang, Lizhen Cui",DASFAA  2022: 315-322,DASFAA,B
+23,Revisiting Item Promotion in GNN-based Collaborative Filtering: A Masked Targeted Topological Attack Perspective.,2022,"Yongwei Wang, Yong Liu, Zhiqi Shen",CoRR abs/2208.09979 ,CORR,Unranked
+24,Inductive Graph Transformer for Delivery Time Estimation.,2022,"Xin Zhou, Jinglong Wang, Yong Liu, Xingyu Wu, Zhiqi Shen, Cyril Leung",CoRR abs/2211.02863 ,CORR,Unranked
+25,MHCCL: Masked Hierarchical Cluster-wise Contrastive Learning for Multivariate Time Series.,2022,"Qianwen Meng, Hangwei Qian, Yong Liu, Yonghui Xu, Zhiqi Shen, Lizhen Cui",CoRR abs/2212.01141 ,CORR,Unranked
+26,Towards AI-Empowered Crowdsourcing.,2022,"Shipeng Wang, Qingzhong Li, Lizhen Cui, Zhongmin Yan, Yonghui Xu, Zhuan Shi, Zhiqi Shen, Han Yu",CoRR abs/2212.14676 ,CORR,Unranked
+27,Ping Pong: An Exergame for Cognitive Inhibition Training.,2021,"Hao Zhang, Zhiqi Shen, Siyuan Liu, Dazhong Yuan, Chunyan Miao",Int. J. Hum. Comput. Interact. 37: 1104-1115 ,IJHCI,Unranked
+28,Noise-Resistant Deep Metric Learning With Ranking-Based Instance Selection.,2021,"Chang Liu, Han Yu, Boyang Li, Zhiqi Shen, Zhanning Gao, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",CVPR 2021: 6811-6820,CVPR,A*
+29,Coaching Older Adults in Health Games: A Goal Oriented Modelling Approach.,2021,"Zhengxiang Pan, Yaming Zhang, Hao Zhang, Zhiqi Shen",HCI  2021: 424-442,HCI,National
+30,A Serious Mobile Game for Neurodegenerative Diseases Rehabilitation and Risk Estimation.,2021,"Huiguo Zhang, Yonghui Xu, Jun Lin, Weiming Li, Zhiqi Shen",ICCSE 2021: 103-107,ICCSE,Unranked
+31,Diversity-Promoting Deep Reinforcement Learning for Interactive Recommendation.,2021,"Yong Liu, Zhiqi Shen, Yinan Zhang, Lizhen Cui",ICCSE 2021: 132-139,ICCSE,Unranked
+32,Enhancing Viewing Experience of Generated Visual Storylines for Promotional Videos.,2021,"Chang Liu, Han Yu, Zhiqi Shen, Ian Dixon, Yingxue Yu, Zhanning Gao, Pan Wang, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",ICME 2021: 1-6,ICMCS,Unranked
+33,Goal Modelling for Deep Reinforcement Learning Agents.,2021,"Jonathan Leung, Zhiqi Shen, Zhiwei Zeng, Chunyan Miao",ECML/PKDD  2021: 271-286,PKDD,Unranked
+34,Noise-resistant Deep Metric Learning with Ranking-based Instance Selection.,2021,"Chang Liu, Han Yu, Boyang Li, Zhiqi Shen, Zhanning Gao, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",CoRR abs/2103.16047 ,CORR,Unranked
+35,Noise-Resistant Deep Metric Learning with Probabilistic Instance Filtering.,2021,"Chang Liu, Han Yu, Boyang Li, Zhiqi Shen, Zhanning Gao, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",CoRR abs/2108.01431 ,CORR,Unranked
+36,Generating Engaging Promotional Videos for E-commerce Platforms (Student Abstract).,2020,"Chang Liu, Han Yu, Yi Dong, Zhiqi Shen, Yingxue Yu, Ian Dixon, Zhanning Gao, Pan Wang, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",AAAI 2020: 13865-13866,AAAI,A*
+37,Explainable and Contextual Preferences based Decision Making with Assumption-based Argumentation for Diagnostics and Prognostics of Alzheimer's Disease.,2020,"Zhiwei Zeng, Zhiqi Shen, Jing Jih Chin, Cyril Leung, Yu Wang, Ying Chi, Chunyan Miao",AAMAS 2020: 2071-2073,ATAL,Unranked
+38,An AI-empowered Visual Storyline Generator.,2020,"Chang Liu, Zhao Yong Lim, Han Yu, Zhiqi Shen, Ian Dixon, Zhanning Gao, Pan Wang, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",IJCAI 2020: 5267-5269,IJCAI,A*
+39,A Gamified Assessment Platform for Predicting the Risk of Dementia +Parkinson's disease (DPD) Co-Morbidity.,2020,"Zhiwei Zeng, Hongchao Jiang, Yanci Zhang, Zhiqi Shen, Jun Ji, Martin J. McKeown, Jing Jih Chin, Cyril Leung, Chunyan Miao",IJCAI 2020: 5297-5299,IJCAI,A*
+40,Explainable and Argumentation-based Decision Making with Qualitative Preferences for Diagnostics and Prognostics of Alzheimer's Disease.,2020,"Zhiwei Zeng, Zhiqi Shen, Benny Toh Hsiang Tan, Jing Jih Chin, Cyril Leung, Yu Wang, Ying Chi, Chunyan Miao",KR 2020: 816-826,KR,A*
+41,Dealing with Label Quality Disparity in Federated Learning.,2020,"Yiqiang Chen, Xiaodong Yang, Xin Qin, Han Yu, Piu Chan, Zhiqi Shen",Federated Learning 2020: 108-121,LNCS,Unranked
+42,FOCUS: Dealing with Label Quality Disparity in Federated Learning.,2020,"Yiqiang Chen, Xiaodong Yang, Xin Qin, Han Yu, Biao Chen, Zhiqi Shen",CoRR abs/2001.11359 ,CORR,Unranked
+43,Computing Argumentative Explanations in Bipolar Argumentation Frameworks.,2019,"Zhiwei Zeng, Chunyan Miao, Cyril Leung, Zhiqi Shen, Jing Jih Chin",AAAI 2019: 10079-10080,AAAI,A*
+44,Ethically Aligned Multi-agent Coordination to Enhance Social Welfare.,2019,"Han Yu, Zhiqi Shen, Lizhen Cui, Yongqing Zheng, Victor R. Lesser",AAMAS 2019: 2300-2302,ATAL,Unranked
+45,Towards Age-friendly Exergame Design: The Role of Familiarity.,2019,"Hao Zhang, Qiong Wu, Chunyan Miao, Zhiqi Shen, Cyril Leung",CHI PLAY 2019: 45-57,CHIPLAY,Unranked
+46,Generating Persuasive Visual Storylines for Promotional Videos.,2019,"Chang Liu, Yi Dong, Han Yu, Zhiqi Shen, Zhanning Gao, Pan Wang, Changgong Zhang, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",CIKM 2019: 901-910,CIKM,A
+47,The Effect of Familiarity on Older Adults' Engagement in Exergames.,2019,"Hao Zhang, Chunyan Miao, Qiong Wu, Xuehong Tao, Zhiqi Shen",HCI  2019: 277-288,HCI,National
+48,Goal-Oriented Modelling for Virtual Assistants.,2019,"Jonathan Leung, Zhiqi Shen, Chunyan Miao",ICA 2019: 73-76,ICA2,Unranked
+49,Personalized Video Summarization with Idiom Adaptation.,2019,"Yi Dong, Chang Liu, Zhiqi Shen, Han Yu, Zhanning Gao, Pan Wang, Changgong Zhang, Peiran Ren, Xuansong Xie",ACM Multimedia 2019: 1041-1043,MM,Unranked
+50,Domain Specific and Idiom Adaptive Video Summarization.,2019,"Yi Dong, Chang Liu, Zhiqi Shen, Zhanning Gao, Pan Wang, Changgong Zhang, Peiran Ren, Xuansong Xie, Han Yu, Qingming Huang",MMAsia 2019: 49:1-49:6,MMASIA,Unranked
+51,Generating Persuasive Visual Storylines for Promotional Videos.,2019,"Chang Liu, Yi Dong, Han Yu, Zhiqi Shen, Zhanning Gao, Pan Wang, Changgong Zhang, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",CoRR abs/1908.11588 ,CORR,Unranked
+52,Dynamic Generation of Internet of Things Organizational Structures Through Evolutionary Computing.,2018,"Zhiqi Shen, Han Yu, Ling Yu, Chunyan Miao, Yiqiang Chen, Victor R. Lesser",IEEE Internet Things J. 5: 943-954 ,IOTJ,Unranked
+53,Usability Analysis of the Novel Functions to Assist the Senior Customers in Online Shopping.,2018,"Xinjia Yu, Lei Meng, Xiaohai Tian, Simon Fauvel, Bo Huang, Yunqing Guan, Zhiqi Shen, Chunyan Miao, Cyril Leung",HCI  2018: 173-185,HCI,National
+54,Pumpkin Garden: A Mobile Game Platform for Monitoring Parkinson's Disease Symptoms.,2018,"Siyuan Liu, Chunyan Miao, Martin J. McKeown, Jun Ji, Zhiqi Shen, Cyril Leung",HCI  2018: 546-560,HCI,National
+55,Blockchain and IoT based Food Traceability for Smart Agriculture.,2018,"Jun Lin, Zhiqi Shen, Anting Zhang, Yueting Chai",ICCSE 2018: 3:1-3:6,ICCSE,Unranked
+56,Towards Long-term Tracking and Detection of Early Dementia: A Computerized Cognitive Test Battery with Gamification.,2018,"Zhiwei Zeng, Simon Fauvel, Benny Toh Hsiang Tan, Di Wang, Yang Qiu, Pamela Chew Oi Khuan, Cyril Leung, Zhiqi Shen, Jing Jih Chin",ICCSE 2018: 30:1-30:10,ICCSE,Unranked
+57,Building Ethics into Artificial Intelligence.,2018,"Han Yu, Zhiqi Shen, Chunyan Miao, Cyril Leung, Victor R. Lesser, Qiang Yang",IJCAI 2018: 5527-5533,IJCAI,A*
+58,A Two-Stage Incremental Update Method for Fall Detection with Wearable Device.,2018,"Jianfei Shen, Yiqiang Chen, Zhiqi Shen, Siyuan Liu",SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI 2018: 364-371,UIC,C
+59,Balanced Distribution Adaptation for Transfer Learning.,2018,"Jindong Wang, Yiqiang Chen, Shuji Hao, Wenjie Feng, Zhiqi Shen",CoRR abs/1807.00516 ,CORR,Unranked
+60,Building Ethics into Artificial Intelligence.,2018,"Han Yu, Zhiqi Shen, Chunyan Miao, Cyril Leung, Victor R. Lesser, Qiang Yang",CoRR abs/1812.02953 ,CORR,Unranked
+61,Video-based human heart rate measurement using joint blind source separation.,2017,"Huan Qi, Zhenyu Guo, Xun Chen, Zhiqi Shen, Z. Jane Wang",Biomed. Signal Process. Control. 31: 309-320 ,BSPC,Unranked
+62,A social influence based trust model for recommender systems.,2017,"Jian-Ping Mei, Han Yu, Zhiqi Shen, Chunyan Miao",Intell. Data Anal. 21: 263-277 ,IDA,B
+63,Novel Functional Technologies for Age-Friendly E-commerce.,2017,"Xiaohai Tian, Lei Meng, Siyuan Liu, Zhiqi Shen, Eng Siong Chng, Cyril Leung, Frank Guan, Chunyan Miao",HCI  2017: 150-158,HCI,National
+64,Efficient scheduling in crowdsourcing based on workers' mood.,2017,"Han Yu, Zhiqi Shen, Simon Fauvel, Lizhen Cui",ICA 2017: 121-126,ICA2,Unranked
+65,Using Blockchain Technology to Build Trust in Sharing LoRaWAN IoT.,2017,"Jun Lin, Zhiqi Shen, Chunyan Miao",ICCSE 2017: 38-43,ICCSE,Unranked
+66,Compressing Trajectory for Trajectory Indexing.,2017,"Kaiyu Feng, Zhiqi Shen",ICCSE 2017: 68-71,ICCSE,Unranked
+67,"Towards Age-friendly E-commerce Through Crowd-Improved Speech Recognition, Multimodal Search, and Personalized Speech Feedback.",2017,"Lei Meng, Nguyen Quy Hy, Xiaohai Tian, Zhiqi Shen, Eng Siong Chng, Frank Yunqing Guan, Chunyan Miao, Cyril Leung",ICCSE 2017: 127-135,ICCSE,Unranked
+68,Balanced Distribution Adaptation for Transfer Learning.,2017,"Jindong Wang, Yiqiang Chen, Shuji Hao, Wenjie Feng, Zhiqi Shen",ICDM 2017: 1129-1134,ICDM,A*
+69,Robust unobtrusive fall detection using infrared array sensors.,2017,"Xiuyi Fan, Huiguo Zhang, Cyril Leung, Zhiqi Shen",MFI 2017: 194-199,MFI,Unranked
+70,Balancing quality and budget considerations in mobile crowdsourcing.,2016,"Chunyan Miao, Han Yu, Zhiqi Shen, Cyril Leung",Decis. Support Syst. 90: 56-64 ,DSS,Unranked
+71,Infusing Human Factors into Algorithmic Crowdsourcing.,2016,"Han Yu, Chunyan Miao, Zhiqi Shen, Jun Lin, Cyril Leung, Qiang Yang",AAAI 2016: 4062-4064,AAAI,A*
+72,Multi-Agent System Development MADE Easy.,2016,"Zhiqi Shen, Han Yu, Chunyan Miao, Siyao Li, Yiqiang Chen",AAAI 2016: 4391-4392,AAAI,A*
+73,Productive Aging through Intelligent Personalized Crowdsourcing.,2016,"Han Yu, Chunyan Miao, Siyuan Liu, Zhengxiang Pan, Nur Syahidah Bte Khalid, Zhiqi Shen, Cyril Leung",AAAI 2016: 4405-,AAAI,A*
+74,A Kinect-based Interactive Game to Improve the Cognitive Inhibition of the Elderly: (Demonstration).,2016,"Siyuan Liu, Zhiqi Shen, Han Yu, Han Lin, Zhengjin Guo, Zhengxiang Pan, Chunyan Miao, Cyril Leung",AAMAS 2016: 1479-1481,ATAL,Unranked
+75,An FCM-based Personalized Affective Model for Agile Software Development.,2016,"Wenjing He, Jun Lin, Xinjia Yu, Zhiqi Shen, Chunyan Miao",SEKE 2016: 75-80,SEKE,C
+76,Heterogeneous Data Driven Manifold Regularization Model for Fingerprint Calibration Reduction.,2016,"Xinlong Jiang, Yiqiang Chen, Junfa Liu, Yang Gu, Lisha Hu, Zhiqi Shen",UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld 2016: 74-81,UIC,C
+77,Less Annotation on Personalized Activity Recognition Using Context Data.,2016,"Lisha Hu, Yiqiang Chen, Shuangquan Wang, Jindong Wang, Jianfei Shen, Xinlong Jiang, Zhiqi Shen",UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld 2016: 327-332,UIC,C
+78,Efficient Task Sub-Delegation for Crowdsourcing.,2015,"Han Yu, Chunyan Miao, Zhiqi Shen, Cyril Leung, Yiqiang Chen, Qiang Yang",AAAI 2015: 1305-1312,AAAI,A*
+79,Teachable Agents with Intrinsic Motivation.,2015,"Ailiya Borjigin, Chunyan Miao, Sufang Lim, Siyao Li, Zhiqi Shen",AIED 2015: 34-43,AIED,A
+80,Empirical Analysis of Reputation-aware Task Delegation by Humans from a Multi-agent Game.,2015,"Han Yu, Han Lin, Sufang Lim, Jun Lin, Zhiqi Shen, Chunyan Miao",AAMAS 2015: 1687-1688,ATAL,Unranked
+81,Quality and Budget Aware Task Allocation for Spatial Crowdsourcing.,2015,"Han Yu, Chunyan Miao, Zhiqi Shen, Cyril Leung",AAMAS 2015: 1689-1690,ATAL,Unranked
+82,An Affective Agent for Studying Composite Emotions.,2015,"Jun Lin, Han Yu, Chunyan Miao, Zhiqi Shen",AAMAS 2015: 1947-1948,ATAL,Unranked
+83,Skill Assessment Using Behavior Data in Virtual World.,2015,"Ailiya Borjigin, Chunyan Miao, Zhiqi Shen, Zhiwei Zeng",EDM 2015: 570-571,EDM,B
+84,Learning Personality Modeling for Regulating Learning Feedback.,2015,"Matthias Chan Yong Shun, Miao-Chun Yan, Zhiqi Shen, Bo An",ICALT 2015: 355-357,ICALT,B
+85,An Evolutionary Framework for Multi-agent Organizations.,2015,"Boyang Li, Han Yu, Zhiqi Shen, Lizhen Cui, Victor R. Lesser",WI-IAT  2015: 35-38,WEBI,Unranked
+86,An Agent-Based Game Platform for Exercising People's Prospective Memory.,2015,"Han Lin, Jinghua Hou, Han Yu, Zhiqi Shen, Chunyan Miao",WI-IAT  2015: 235-236,WEBI,Unranked
+87,Active Aging in the Workplace and the Role of Intelligent Technologies.,2015,"Qizhen Yang, Zhiqi Shen",WI-IAT  2015: 391-394,WEBI,Unranked
+88,Filtering trust opinions through reinforcement learning.,2014,"Han Yu, Zhiqi Shen, Chunyan Miao, Bo An, Cyril Leung",Decis. Support Syst. 66: 102-113 ,DSS,Unranked
+89,"Comparing the learning effectiveness of BP, ELM, I-ELM, and SVM for corporate credit ratings.",2014,"Haoming Zhong, Chunyan Miao, Zhiqi Shen, Yuhong Feng",Neurocomputing 128: 285-295 ,IJON,Unranked
+90,Reputation-aware task allocation for human trustees.,2014,"Han Yu, Chunyan Miao, Bo An, Zhiqi Shen, Cyril Leung",AAMAS 2014: 357-364,ATAL,Unranked
+91,A multi-agent game for studying human decision-making.,2014,"Han Yu, Xinjia Yu, Sufang Lim, Jun Lin, Zhiqi Shen, Chunyan Miao",AAMAS 2014: 1661-1662,ATAL,Unranked
+92,An agent-based game for the predictive diagnosis of parkinson's disease.,2014,"Yundong Cai, Zhiqi Shen, Siyuan Liu, Han Yu, Xiaogang Han, Jun Ji, Martin J. McKeown, Cyril Leung, Chunyan Miao",AAMAS 2014: 1663-1664,ATAL,Unranked
+93,Collaborative medical diagnosis through Fuzzy Petri Net based agent argumentation.,2014,"Xuehong Tao, Yuan Miao, Yanchun Zhang, Zhiqi Shen",FUZZ-IEEE 2014: 1197-1204,FUZZIEEE,Unranked
+94,A fuzzy logic based Parkinson's Disease risk predictor.,2014,"Siyuan Liu, Zhiqi Shen, Martin J. McKeown, Cyril Leung, Chunyan Miao",FUZZ-IEEE 2014: 1624-1631,FUZZIEEE,Unranked
+95,Persuasive Teachable Agent with Goal Net.,2014,"Sufang Lim, Ailiya, Chunyan Miao, Zhiqi Shen",ICALT 2014: 461-463,ICALT,B
+96,Physiological parameter monitoring of drivers based on video data and independent vector analysis.,2014,"Zhenyu Guo, Z. Jane Wang, Zhiqi Shen",ICASSP 2014: 4374-4378,ICASSP,Unranked
+97,Studying task allocation decisions of novice agile teams with data from agile project management tools.,2014,"Jun Lin, Han Yu, Zhiqi Shen, Chunyan Miao",ASE 2014: 689-694,KBSE,Unranked
+98,A Social Trust Model Considering Trustees' Influence.,2014,"Jian-Ping Mei, Han Yu, Yong Liu, Zhiqi Shen, Chunyan Miao",PRIMA 2014: 357-364,PRIMA,B
+99,Using goal net to model user stories in agile software development.,2014,"Jun Lin, Han Yu, Zhiqi Shen, Chunyan Miao",SNPD 2014: 1-6,SNPD,C
+100,Identifying Talented Software Engineering Students through Data-driven Skill Assessment.,2014,"Jun Lin, Han Yu, Zhiqi Shen",CoRR abs/1411.6197 ,CORR,Unranked
+101,An Empirical Analysis of Task Allocation in Scrum-based Agile Programming.,2014,"Jun Lin, Han Yu, Zhiqi Shen",CoRR abs/1411.6201 ,CORR,Unranked
+102,An Evolutionary Approach for Optimizing Hierarchical Multi-Agent System Organization.,2014,"Zhiqi Shen, Ling Yu, Han Yu",CoRR abs/1411.6202 ,CORR,Unranked
+103,Designing Socially Intelligent Virtual Companions.,2014,"Han Yu, Zhiqi Shen, Qiong Wu, Chunyan Miao",CoRR abs/1411.7090 ,CORR,Unranked
+104,A Survey of Multi-Agent Trust Management Systems.,2013,"Han Yu, Zhiqi Shen, Cyril Leung, Chunyan Miao, Victor R. Lesser",IEEE Access 1: 35-50 ,ACCESS,Unranked
+105,Adaptive goal selection for agents in dynamic environments.,2013,"Huiliang Zhang, Xudong Luo, Chunyan Miao, Zhiqi Shen, Jin You",Knowl. Inf. Syst. 37: 665-692 ,KAIS,Unranked
+106,Bringing reputation-awareness into crowdsourcing.,2013,"Han Yu, Zhiqi Shen, Cyril Leung",ICICS 2013: 1-5,IEEEICICS,Unranked
+107,The innovative application of learning companions in virtual singapura.,2013,"Qiong Wu, Xiaogang Han, Han Yu, Zhiqi Shen, Chunyan Miao",AAMAS 2013: 1171-1172,ATAL,Unranked
+108,A reputation-aware decision-making approach for improving the efficiency of crowdsourcing systems.,2013,"Han Yu, Zhiqi Shen, Chunyan Miao, Bo An",AAMAS 2013: 1315-1316,ATAL,Unranked
+109,Internet of Things Based Data Driven Storytelling for Supporting Social Connections.,2013,"Qiong Wu, Zhiqi Shen, Cyril Leung, Huiguo Zhang, Ailiya, Yundong Cai, Chunyan Miao",GreenCom/iThings/CPScom 2013: 383-390,GREENCOM,Unranked
+110,From Internet of Things to Internet of Agents.,2013,"Han Yu, Zhiqi Shen, Cyril Leung",GreenCom/iThings/CPScom 2013: 1054-1057,GREENCOM,Unranked
+111,Persuasive Teachable Agent User Modeling.,2013,"Sufang Lim, Matthias Chan, Ailiya, Chunyan Miao, Zhiqi Shen",ICALT 2013: 307-308,ICALT,B
+112,The Design of Persuasive Teachable Agent.,2013,"Sufang Lim, Ailiya, Chunyan Miao, Zhiqi Shen",ICALT 2013: 382-384,ICALT,B
+113,Kemnad: a Knowledge Engineering Methodology for Negotiating Agent Development.,2012,"Xudong Luo, Chunyan Miao, Nicholas R. Jennings, Minghua He, Zhiqi Shen, Minjie Zhang",Comput. Intell. 28: 51-105 ,CI,Unranked
+114,Learning-by-Teaching: Designing Teachable Agents with Intrinsic Motivation.,2012,"Guopeng Zhao, Ailiya, Zhiqi Shen",J. Educ. Technol. Soc. 15: 62-74 ,ETS,Unranked
+115,A curious learning companion in Virtual Learning Environment.,2012,"Qiong Wu, Chunyan Miao, Zhiqi Shen",FUZZ-IEEE 2012: 1-8,FUZZIEEE,Unranked
+116,Challenges and Opportunities for Trust Management in Crowdsourcing.,2012,"Han Yu, Zhiqi Shen, Chunyan Miao, Bo An",IAT 2012: 486-493,IAT,Unranked
+117,"Towards an Integrated Design of Digital Library and Virtual Museum in the Heritage Preservation of the Chinese ""Qipao"".",2012,"Yin Leng Theng, Lynette Ying Qin Goh, Natalie Lee-San Pang, Yundong Cai, Sufang Lim, Chunyan Miao, Zhiqi Shen, Gladys Sau-Mei Theng",ICADL 2012: 342-343,ICADL,Unranked
+118,Authoring Educational Games through Affective Teachable Agent.,2012,"Ailiya, Chunyan Miao, Zhiqi Shen",ICALT 2012: 102-104,ICALT,B
+119,An Adaptive Witness Selection Method for Reputation-Based Trust Models.,2012,"Han Yu, Zhiqi Shen, Bo An",PRIMA 2012: 184-198,PRIMA,B
+120,A probabilistic fuzzy approach to modeling nonlinear systems.,2011,"Hengjie Song, Chunyan Miao, Zhiqi Shen, Roel Wuyts, Maja D'Hondt, Francky Catthoor",Neurocomputing 74: 1008-1025 ,IJON,Unranked
+121,An Extension to Fuzzy Cognitive Maps for Classification and Prediction.,2011,"Hengjie J. Song, Chunyan Miao, Roel Wuyts, Zhiqi Shen, Maja D'Hondt, Francky Catthoor",IEEE Trans. Fuzzy Syst. 19: 116-135 ,TFS,Unranked
+122,Trust-based web service selection in virtual communities.,2011,"Zhiqi Shen, Han Yu, Chunyan Miao, Jianshu Weng",Web Intell. Agent Syst. 9: 227-238 ,WIAS,Unranked
+123,Local Sensitive Frontier Analysis based facial expression recognition.,2011,"Chao Wang, Zhiqi Shen",ICICS 2011: 1-4,IEEEICICS,Unranked
+124,Generating True Relevance Labels in Chinese Search Engine Using Clickthrough Data.,2011,"Hengjie Song, Chunyan Miao, Zhiqi Shen",AAAI 2011: 1230-1236,AAAI,A*
+125,Learning by Playing in Agent-Oriented Virtual Learning Environment.,2011,"Yundong Cai, Zhiqi Shen",AEGS 2011: 79-93,AEGS,Unranked
+126,A simple curious agent to help people be curious.,2011,"Han Yu, Zhiqi Shen, Chunyan Miao, Ah-Hwee Tan",AAMAS 2011: 1159-1160,ATAL,Unranked
+127,Genetic algorithm aided optimization of hierarchical multiagent system organization.,2011,"Ling Yu, Zhiqi Shen, Chunyan Miao, Victor R. Lesser",AAMAS 2011: 1169-1170,ATAL,Unranked
+128,Train Fuzzy Cognitive Maps by gradient residual algorithm.,2011,"Huiliang Zhang, Zhiqi Shen, Chunyan Miao",FUZZ-IEEE 2011: 1815-1821,FUZZIEEE,Unranked
+129,Affective Teachable Agent in VLE: A Goal Oriented Approach.,2011,"Ailiya, Zhiqi Shen, Chunyan Miao",ICALT 2011: 110-114,ICALT,B
+130,Agent-Oriented Methodology for Interactive Storytelling (AOMIS).,2011,"Yundong Cai, Zhiqi Shen, Chunyan Miao",ICIDS 2011: 25-30,ICIDS,C
+131,Slideshow: Gesture-aware PPT presentation.,2011,"Yiqiang Chen, Mingjie Liu, Junfa Liu, Zhiqi Shen, Wei Pan",ICME 2011: 1-4,ICMCS,Unranked
+132,Agent-based simulation of economic sustainability in waste-to-material recovery.,2011,"Q. Z. Yang, Y. Z. Sheng, Zhiqi Shen",IEEM 2011: 1150-1154,IEEM,Unranked
+133,Cross-People Mobile-Phone Based Activity Recognition.,2011,"Zhongtang Zhao, Yiqiang Chen, Junfa Liu, Zhiqi Shen, Mingjie Liu",IJCAI 2011: 2545-2550,IJCAI,A*
+134,Creating an Immersive Game World with Evolutionary Fuzzy Cognitive Maps.,2010,"Yundong Cai, Chunyan Miao, Ah-Hwee Tan, Zhiqi Shen, Boyang Li",IEEE Computer Graphics and Applications 30: 58-70 ,CGA,Unranked
+135,Resource Allocation in MU-OFDM Cognitive Radio Systems with Partial Channel State Information.,2010,"Dong Huang, Zhiqi Shen, Chunyan Miao, Cyril Leung",EURASIP J. Wirel. Commun. Netw. 2010 ,EJWCN,Unranked
+136,Resource Allocation in a Cognitive Radio System with Imperfect Channel State Estimation.,2010,"Tao Qin, Cyril Leung, Chunyan Miao, Zhiqi Shen",J. Electr. Comput. Eng. 2010: 419430:1-419430:5 ,JECE,Unranked
+137,Design of fuzzy cognitive maps using neural networks for predicting chaotic time series.,2010,"Hengjie Song, Chunyan Miao, Zhiqi Shen, Roel Wuyts, Maja D'Hondt, Francky Catthoor",Neural Networks 23: 1264-1275 ,NN,Unranked
+138,A Survey of Trust and Reputation Management Systems in Wireless Communications.,2010,"Han Yu, Zhiqi Shen, Chunyan Miao, Cyril Leung, Dusit Niyato",Proc. IEEE 98: 1755-1772 ,PIEEE,Unranked
+139,An Emotional Agent in Virtual Learning Environment.,2010,"Ailiya, Zhiqi Shen, Chunyan Miao",Trans. Edutainment 4: 22-33 ,TEDU,Unranked
+140,Transformation of Cognitive Maps.,2010,"Yuan Miao, Chunyan Miao, Xuehong Tao, Zhiqi Shen, Zhi-Qiang Liu",IEEE Trans. Fuzzy Syst. 18: 114-124 ,TFS,Unranked
+141,Implementation of Fuzzy Cognitive Maps Based on Fuzzy Neural Network and Application in Prediction of Time Series.,2010,"Hengjie Song, Chunyan Miao, Roel Wuyts, Zhiqi Shen, Francky Catthoor",IEEE Trans. Fuzzy Syst. 18: 233-250 ,TFS,Unranked
+142,Credibility: How Agents Can Handle Unfair Third-Party Testimonies in Computational Trust Models.,2010,"Jianshu Weng, Zhiqi Shen, Chunyan Miao, Angela Eck Soong Goh, Cyril Leung",IEEE Trans. Knowl. Data Eng. 22: 1286-1298 ,TKDE,Unranked
+143,Folksonomy-Based Ontological User Interest Profile Modeling and Its Application in Personalized Search.,2010,"Xiaogang Han, Zhiqi Shen, Chunyan Miao, Xudong Luo",AMT 2010: 34-46,AMT,Unranked
+144,Predicting Responsiveness of BDI Agent.,2010,"Huiliang Zhang, Zhiqi Shen, Shell-Ying Huang, Chunyan Miao",ECAI 2010: 647-652,ECAI,A
+145,An emotion aware agent platform for interactive storytelling and gaming.,2010,"Zhiqi Shen, Chunyan Miao, Liang Zhang, Han Yu, Mark J. Chavez",Future Play 2010: 257-258,FPLAY,Unranked
+146,How Fast Can a BDI Agent Respond?,2010,"Huiliang Zhang, Chunyan Miao, Shell-Ying Huang, Zhiqi Shen, Xudong Luo",IAT 2010: 189-196,IAT,Unranked
+147,Motivated Learning for Goal Selection in Goal Nets.,2010,"Huiliang Zhang, Zhiqi Shen, Chunyan Miao, Xudong Luo",IAT 2010: 252-255,IAT,Unranked
+148,DIRACT: Agent-Based Interactive Storytelling.,2010,"Yundong Cai, Zhiqi Shen, Chunyan Miao, Ah-Hwee Tan",IAT 2010: 273-276,IAT,Unranked
+149,Agents as intelligent user interfaces for the net generation.,2010,"Han Yu, Yundong Cai, Zhiqi Shen, Xuehong Tao, Chunyan Miao",IUI 2010: 429-430,IUI,A
+150,Optimization of Multiple Related Negotiation through Multi-Negotiation Network.,2010,"Fenghui Ren, Minjie Zhang, Chunyan Miao, Zhiqi Shen",KSEM 2010: 174-185,KSEM,C
+151,A fuzzy neural network with fuzzy impact grades.,2009,"Hengjie Song, Chunyan Miao, Zhiqi Shen, Yuan Miao, Bu-Sung Lee",Neurocomputing 72: 3098-3122 ,IJON,Unranked
+152,Fitness landscape analysis for resource allocation in multiuser OFDM based cognitive radio systems.,2009,"Dong Huang, Zhiqi Shen, Chunyan Miao, Cyril Leung",ACM SIGMOBILE Mob. Comput. Commun. Rev. 13: 26-36 ,SIGMOBILE,Unranked
+153,Towards a trust aware cognitive radio architecture.,2009,"Tao Qin, Han Yu, Cyril Leung, Zhiqi Shen, Chunyan Miao",ACM SIGMOBILE Mob. Comput. Commun. Rev. 13: 86-95 ,SIGMOBILE,Unranked
+154,Modeling Believable Virtual Characters with Evolutionary Fuzzy Cognitive Maps in Interactive Storytelling.,2009,"Yundong Cai, Chunyan Miao, Ah-Hwee Tan, Zhiqi Shen",AAAI Spring Symposium: Intelligent Narrative Technologies II 2009: 5-11,AAAISS,Unranked
+155,Evolutionary organizational search.,2009,"Boyang Li, Han Yu, Zhiqi Shen, Chunyan Miao",AAMAS  2009: 1329-1330,ATAL,Unranked
+156,Emotional agent in serious game (DINO).,2009,"Huiliang Zhang, Zhiqi Shen, Xuehong Tao, Chunyan Miao, B. Li, Ailiya, Yundong Cai",AAMAS  2009: 1385-1386,ATAL,Unranked
+157,Enabling Goal Oriented Action Planning with Goal Net.,2009,"Huiliang Zhang, Zhiqi Shen, Chunyan Miao",IAT 2009: 271-274,IAT,Unranked
+158,ELM-Based Intelligent Resource Selection for Grid Scheduling.,2009,"Guopeng Zhao, Zhiqi Shen, Chunyan Miao",ICMLA 2009: 398-403,ICMLA,C
+159,A Fast and Intelligent Resource Allocation Service for Service-Oriented Grid.,2009,"Guopeng Zhao, Zhiqi Shen, Chunyan Miao",ICPADS 2009: 804-809,ICPADS,B
+160,An Efficient Task Allocation Protocol for P2P Multi-agent Systems.,2009,"Dayong Ye, Quan Bai, Minjie Zhang, Khin Than Win, Zhiqi Shen",ISPA 2009: 11-18,ISPA,C
+161,A Market-Based Multi-Issue Negotiation Model Considering Multiple Preferences in Dynamic E-Marketplaces.,2009,"Fenghui Ren, Minjie Zhang, Chunyan Miao, Zhiqi Shen",PRIMA 2009: 1-16,PRIMA,B
+162,A goal-oriented development tool to automate the incorporation of intelligent agents into interactive digital media applications.,2008,"Han Yu, Zhiqi Shen, Chunyan Miao",Comput. Entertain. 6: 24:1-24:15 ,CIE,Unranked
+163,Temporal fuzzy cognitive maps.,2008,"Haoming Zhong, Chunyan Miao, Zhiqi Shen, Yuhong Feng",FUZZ-IEEE 2008: 1831-1840,FUZZIEEE,Unranked
+164,Context modeling with Evolutionary Fuzzy Cognitive Map in interactive storytelling.,2008,"Yundong Cai, Chunyan Miao, Ah-Hwee Tan, Zhiqi Shen",FUZZ-IEEE 2008: 2320-2325,FUZZIEEE,Unranked
+165,Research into Learning in an Intelligent Agent Augmented Multi-user Virtual Environment.,2008,"Michael J. Jacobson, Chunyan Miao, Beaumie Kim, Zhiqi Shen, Mark J. Chavez",Web Intelligence/IAT Workshops 2008: 348-351,IAT,Unranked
+166,ELM-Based Agents for Grid Resource Selection.,2008,"Guopeng Zhao, Zhiqi Shen, Ailiya, Chunyan Miao",IAT 2008: 385-388,IAT,Unranked
+167,Transforming Learning through Agent Augmented Virtual World.,2008,"Han Yu, Zhiqi Shen, ChorPing Low, Chunyan Miao",ICALT 2008: 933-937,ICALT,B
+168,Enhanced Extreme Learning Machine with stacked generalization.,2008,"Guopeng Zhao, Zhiqi Shen, Chunyan Miao, Robert K. L. Gay",IJCNN 2008: 1191-1198,IJCNN,B
+169,Algorithms for Transitive Dependence-Based Coalition Formation.,2007,"Bo An, Zhiqi Shen, Chunyan Miao, Daijie Cheng",IEEE Trans. Ind. Informatics 3: 234-245 ,TII,Unranked
+170,S-MADE: Interactive Storytelling Architecture through Goal Execution and Decomposition.,2007,"Yundong Cai, Zhiqi Shen, Chunyan Miao, Ah-Hwee Tan",AAAI Fall Symposium: Intelligent Narrative Technologies 2007: 17-20,AAAIFS,Unranked
+171,A Hybrid of Plot-Based and Character-Based Interactive Storytelling.,2007,"Yundong Cai, Chunyan Miao, Ah-Hwee Tan, Zhiqi Shen",Edutainment 2007: 260-273,EDUTAINMENT,Unranked
+172,A service based multi-agent system design tool for modelling integrated manufacturing and service systems.,2007,"Han Yu, Zhiqi Shen, Chunyan Miao, Jing Wen, Qizhen Yang",ETFA 2007: 149-154,ETFA,Unranked
+173,Fuzzy cognitive map learning based on multi-objectiveparticle swarm optimization.,2007,"Hengjie Song, Chunyan Miao, Zhiqi Shen",GECCO 2007: 339,GECCO,A
+174,Intelligent Software Agent Design Tool Using Goal Net Methodology.,2007,"Han Yu, Zhiqi Shen, Chunyan Miao",IAT 2007: 43-46,IAT,Unranked
+175,Market Based Resource Allocation with Incomplete Information.,2007,"Bo An, Chunyan Miao, Zhiqi Shen",IJCAI 2007: 1193-1198,IJCAI,A*
+176,The Multi-Agent Data Collection in HLA-Based Simulation System.,2007,"Hengjie Song, Zhiqi Shen, Chunyan Miao, Ah-Hwee Tan, Guopeng Zhao",PADS 2007: 61-69,PADS,B
+177,Goal-Oriented Methodology for Agent System Development.,2006,"Zhiqi Shen, Chunyan Miao, Robert K. L. Gay, Dongtao Li",IEICE Trans. Inf. Syst. 89-D: 1413-1420 ,IEICET,Unranked
+178,Fuzzy cognitive maps for dynamic grid service negotiation.,2006,"Chunyan Miao, Jianshu Weng, Angela Goh, Zhiqi Shen, Bo An",Multiagent Grid Syst. 2: 101-114 ,MAGS,Unranked
+179,Fuzzy cognitive goal net for interactive storytelling plot design.,2006,"Yundong Cai, Chunyan Miao, Ah-Hwee Tan, Zhiqi Shen",Advances in Computer Entertainment Technology 2006: 56,ACMACE,Unranked
+180,Trust-based agent community for collaborative recommendation.,2006,"Jianshu Weng, Chunyan Miao, Angela Goh, Zhiqi Shen, Robert K. L. Gay",AAMAS 2006: 1260-1262,ATAL,Unranked
+181,A Goal-oriented Approach to Goal Selection and Action Selection.,2006,"Zhiqi Shen, Chunyan Miao, Yuan Miao, Xuehong Tao, Robert K. L. Gay",FUZZ-IEEE 2006: 114-121,FUZZIEEE,Unranked
+182,Probabilistic Fuzzy Cognitive Map.,2006,"Hengjie Song, Zhiqi Shen, Chunyan Miao, Zhi-Qiang Liu, Yuan Miao",FUZZ-IEEE 2006: 1221-1228,FUZZIEEE,Unranked
+183,"The Equivalence of Cognitive Map, Fuzzy Cognitive Map and Multi Value Fuzzy Cognitive Map.",2006,"Yuan Miao, Xuehong Tao, Zhiqi Shen, Zhi-Qiang Liu, Chunyan Miao",FUZZ-IEEE 2006: 1872-1878,FUZZIEEE,Unranked
+184,Interest Based Negotiation Automation.,2006,"Xuehong Tao, Yuan Miao, Zhiqi Shen, Chunyan Miao, Nicola Yelland",ICIC  2006: 211-222,ICIC,Unranked
+185,Transitive Dependence Based Formation of Virtual Organizations.,2005,"Bo An, Chunyan Miao, Zhiqi Shen, Yuan Miao, Daijie Cheng",CIS  2005: 375-380,CIS,C
+186,Transitive Dependence Based Formation of Virtual Organizations.,2005,"Bo An, Chunyan Miao, Zhiqi Shen, Yuan Miao, Daijie Cheng",CIS  2005: 375-380,CIS,National
+187,Goal Net Agent Framework for Web Service Integration.,2005,"Chong Sean Kuay, Zhiqi Shen, Robert K. L. Gay, Chunyan Miao","Web Technologies, Applications, and Services 2005: 117-122",IASTEDWTAS,Unranked
+188,Goal-oriented Methodology for Agent System Development.,2005,"Zhiqi Shen, Dongtao Li, Chunyan Miao, Robert K. L. Gay, Yuan Miao",IAT 2005: 95-101,IAT,Unranked
+189,Actionable Knowledge Model for GUI Regression Testing.,2005,"Zunliang Yin, Chunyan Miao, Zhiqi Shen, Yuan Miao",IAT 2005: 165-168,IAT,Unranked
+190,A Goal Oriented e-Learning Agent System.,2005,"Dongtao Li, Zhiqi Shen, Yuan Miao, Chunyan Miao, Robert K. L. Gay",KES  2005: 664-670,KES,B
+191,Agent mediated Grid services in E-learning.,2004,"Zhiqi Shen, Chunyan Miao, Angela Goh, Robert K. L. Gay",CCGRID 2004: 210-211,CCGRID,B
+192,Goal Autonomous Agent Architecture.,2004,"Zhiqi Shen, Robert K. L. Gay, Yuan Miao, Chunyan Miao",COMPSAC Workshops 2004: 45-46,COMPSAC,B
+193,Goal Oriented Modeling for Intelligent Software Agents.,2004,"Zhiqi Shen, Chunyan Miao, Xuehong Tao, Robert K. L. Gay",IAT 2004: 540-543,IAT,Unranked
+194,Goal oriented modeling for agent mediated e-learning grid.,2004,"Zhiqi Shen, Robert K. L. Gay, Chunyan Miao, Q. Wang",ICARCV 2004: 2280-2285,ICARCV,C
+195,"Simplification, Merging and Division of Fuzzy Cognitive Maps.",2002,"Yuan Miao, Zhi-Qiang Liu, Xuehong Tao, Zhiqi Shen, Chun Wen Li",Int. J. Comput. Intell. Appl. 2: 185-208 ,IJCIA,Unranked
+196,Goal-Based Modeling for Intelligent Business Forecasting Agents.,2002,"Zhiqi Shen, Robert K. L. Gay, Chunyan Miao",FSKD 2002: 534-538,FSKD,Unranked
+197,A Framework for Multi-agent Reasoning and Coordination.,2000,"Chunyan Miao, Yuan Miao, Angela Goh, Zhiqi Shen",Artificial Intelligence and Soft Computing 2000: 156-162,ASC,Unranked

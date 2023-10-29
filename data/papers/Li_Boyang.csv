@@ -1,0 +1,18 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Modular Robots for Enabling Operations in Unstructured Extreme Environments.,2022,"Mohammed E. Sayed, Jamie O. Roberts, Karen Donaldson, Stephen T. Mahon, Faiz Iqbal, Boyang Li, Santiago Franco Aixela, Georgios Mastorakis, Emil T. Jonasson, Markus P. Nemitz, Sara Bernardini, Adam A. Stokes",Adv. Intell. Syst. 4 ,AISY,Unranked
+1,A Novel Multispectral Line Segment Matching Method Based on Phase Congruency and Multiple Local Homographies.,2022,"Haochen Hu, Boyang Li, Wenyu Yang, Chih-Yung Wen",Remote. Sens. 14: 3857 ,REMOTESENSING,Unranked
+2,UAV Path Planning for Complete Structural Inspection using Mixed Viewpoint Generation.,2022,"Ho Wang Tong, Boyang Li, Hailong Huang, Chih-Yung Wen",ICARCV 2022: 727-732,ICARCV,C
+3,Quadrotor Tail-sitter UAV Flight Log.,2022,"Bailun Jiang, Boyang Li","IEEE DataPort, 2022",2529.HTML,Unranked
+4,Image-Based Visual Servoing of Rotorcrafts to Planar Visual Targets of Arbitrary Orientation.,2021,"Jianan Li, Hui Xie, Kin Huat Low, Jianwen Yong, Boyang Li",IEEE Robotics Autom. Lett. 6: 7861-7868 ,RAL,Unranked
+5,Learning-Based Autonomous UAV System for Electrical and Mechanical (E&M) Device Inspection.,2021,"Yurong Feng, Kwaiwa Tse, Shengyang Chen, Chih-Yung Wen, Boyang Li",Sensors 21: 1385 ,SENSORS,Unranked
+6,Dynamic Object Tracking on Autonomous UAV System for Surveillance Applications.,2021,"Li-Yu Lo, Chi Hao Yiu, Yu Tang, An-Shik Yang, Boyang Li, Chih-Yung Wen",Sensors 21: 7888 ,SENSORS,Unranked
+7,Reasoning Operational Decisions for Robots via Time Series Causal Inference.,2021,"Yu Cao, Boyang Li, Qian Li, Adam A. Stokes, David M. Ingram, Aristides E. Kiprakis",ICRA 2021: 6124-6131,ICRA,A*
+8,A Nonlinear Model Predictive Controller for Remotely Operated Underwater Vehicles With Disturbance Rejection.,2020,"Yu Cao, Boyang Li, Qian Li, Adam A. Stokes, David M. Ingram, Aristides E. Kiprakis",IEEE Access 8: 158622-158634 ,ACCESS,Unranked
+9,System Identification and Control for a Tail-Sitter Unmanned Aerial Vehicle in the Cruise Flight.,2020,"Weifeng Zhou, Shengyang Chen, Ching-Wei Chang, Chih-Yung Wen, Chih-Keng Chen, Boyang Li",IEEE Access 8: 218348-218359 ,ACCESS,Unranked
+10,Experimental Force Data of a Restrained ROV under Waves and Current.,2020,"Roman Gabl, Thomas Davey, Yu Cao, Qian Li, Boyang Li, Kyle L. Walker, Francesco Giorgio Serchi, Simona Aracri, Aristides E. Kiprakis, Adam A. Stokes, David M. Ingram",Data 5: 57 ,DATA,C
+11,An Actuator Allocation Method for a Variable-Pitch Propeller System of Quadrotor-Based UAVs.,2020,"Ching-Wei Chang, Shengyang Chen, Chih-Yung Wen, Boyang Li",Sensors 20: 5651 ,SENSORS,Unranked
+12,Model-Aided Wind Estimation Method for a Tail-Sitter Aircraft.,2020,"Jingxuan Sun, Boyang Li, Chih-Yung Wen, Chih-Keng Chen",IEEE Trans. Aerosp. Electron. Syst. 56: 1262-1278 ,TAES,Unranked
+13,End-to-End UAV Simulation for Visual SLAM and Navigation.,2020,"Shengyang Chen, Han Chen, Weifeng Zhou, Chih-Yung Wen, Boyang Li",CoRR abs/2012.00298 ,CORR,Unranked
+14,Development of Model Predictive Controller for a Tail-Sitter VTOL UAV in Hover Flight.,2018,"Boyang Li, Weifeng Zhou, Jingxuan Sun, Chih-Yung Wen, Chih-Keng Chen",Sensors 18: 2859 ,SENSORS,Unranked
+15,Development and Testing of a Two-UAV Communication Relay System.,2016,"Boyang Li, Yifan Jiang, Jingxuan Sun, Lingfeng Cai, Chih-Yung Wen",Sensors 16: 1696 ,SENSORS,Unranked
+16,A Camera-Based Target Detection and Positioning UAV System for Search and Rescue (SAR) Purposes.,2016,"Jingxuan Sun, Boyang Li, Yifan Jiang, Chih-Yung Wen",Sensors 16: 1778 ,SENSORS,Unranked

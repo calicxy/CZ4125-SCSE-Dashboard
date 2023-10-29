@@ -1,0 +1,130 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Asking Clarifying Questions: To benefit or to disturb users in Web search?,2023,"Jie Zou, Aixin Sun, Cheng Long, Mohammad Aliannejadi, Evangelos Kanoulas",Inf. Process. Manag. 60: 103176 ,IPM,Unranked
+1,HRL4EC: Hierarchical reinforcement learning for multi-mode epidemic control.,2023,"Xinqi Du, Hechang Chen, Bo Yang, Cheng Long, Songwei Zhao",Inf. Sci. 640: 119065 ,ISCI,Unranked
+2,Maximum k-Biplex Search on Bipartite Graphs: A Symmetric-BK Branching Approach.,2023,"Kaiqiang Yu, Cheng Long",Proc. ACM Manag. Data 1: 49:1-49:26 ,PACMMOD,Unranked
+3,The RLR-Tree: A Reinforcement Learning Based R-Tree for Spatial Data.,2023,"Tu Gu, Kaiyu Feng, Gao Cong, Cheng Long, Zheng Wang, Sheng Wang",Proc. ACM Manag. Data 1: 63:1-63:26 ,PACMMOD,Unranked
+4,T-FSM: A Task-Based System for Massively Parallel Frequent Subgraph Pattern Mining from a Big Graph.,2023,"Lyuheng Yuan, Da Yan, Wenwen Qu, Saugat Adhikari, Jalal Khalil, Cheng Long, Xiaoling Wang",Proc. ACM Manag. Data 1: 74:1-74:26 ,PACMMOD,Unranked
+5,High-Dimensional Approximate Nearest Neighbor Search: with Reliable and Efficient Distance Comparison Operations.,2023,"Jianyang Gao, Cheng Long",Proc. ACM Manag. Data 1: 137:1-137:27 ,PACMMOD,Unranked
+6,Towards Pointsets Representation Learning via Self-Supervised Learning and Set Augmentation.,2023,"Pattaramanee Arsomngern, Cheng Long, Supasorn Suwajanakorn, Sarana Nutanong",IEEE Trans. Pattern Anal. Mach. Intell. 45: 1201-1216 ,PAMI,Unranked
+7,Towards Designing and Learning Piecewise Space-Filling Curves.,2023,"Jiangneng Li, Zheng Wang, Gao Cong, Cheng Long, Han Mao Kiah, Bin Cui",Proc. VLDB Endow. 16: 2158-2171 ,PVLDB,Unranked
+8,Road Extraction With Satellite Images and Partial Road Maps.,2023,"Qianxiong Xu, Cheng Long, Liang Yu, Chen Zhang",IEEE Trans. Geosci. Remote. Sens. 61: 1-14 ,TGRS,Unranked
+9,Summarizing User-item Matrix By Group Utility Maximization.,2023,"Yongjie Wang, Ke Wang, Cheng Long, Chunyan Miao",ACM Trans. Knowl. Discov. Data 17: 86:1-86:22 ,TKDD,Unranked
+10,Road Network Representation Learning: A Dual Graph-based Approach.,2023,"Liang Zhang, Cheng Long",ACM Trans. Knowl. Discov. Data 17: 121:1-121:25 ,TKDD,Unranked
+11,On Efficient Large Maximal Biplex Discovery.,2023,"Kaiqiang Yu, Cheng Long, Deepak P, Tanmoy Chakraborty",IEEE Trans. Knowl. Data Eng. 35: 824-829 ,TKDE,Unranked
+12,Cost-Aware and Distance-Constrained Collective Spatial Keyword Query.,2023,"Harry Kai-Ho Chan, Shengxin Liu, Cheng Long, Raymond Chi-Wing Wong",IEEE Trans. Knowl. Data Eng. 35: 1324-1336 ,TKDE,Unranked
+13,Filling Delivery Time Automatically Based on Couriers' Trajectories.,2023,"Sijie Ruan, Xi Fu, Cheng Long, Zi Xiong, Jie Bao, Ruiyuan Li, Yiheng Chen, Shengnan Wu, Yu Zheng",IEEE Trans. Knowl. Data Eng. 35: 1528-1540 ,TKDE,Unranked
+14,k-Pleased Querying.,2023,"Zitong Chen, Ada Wai-Chee Fu, Cheng Long, Yang Wu",IEEE Trans. Knowl. Data Eng. 35: 4003-4017 ,TKDE,Unranked
+15,Similar Sports Play Retrieval With Deep Reinforcement Learning.,2023,"Zheng Wang, Cheng Long, Gao Cong",IEEE Trans. Knowl. Data Eng. 35: 4253-4266 ,TKDE,Unranked
+16,Region Embedding With Intra and Inter-View Contrastive Learning.,2023,"Liang Zhang, Cheng Long, Gao Cong",IEEE Trans. Knowl. Data Eng. 35: 9031-9036 ,TKDE,Unranked
+17,Single-Site Perishable Inventory Management Under Uncertainties: A Deep Reinforcement Learning Approach.,2023,"Kaixin Wang, Cheng Long, Darrell Joshua Ong, Jie Zhang, Xue-Ming Yuan",IEEE Trans. Knowl. Data Eng. 35: 10807-10813 ,TKDE,Unranked
+18,Deep Graph Structural Infomax.,2023,"Wenting Zhao, Gongping Xu, Zhen Cui, Siqiang Luo, Cheng Long, Tong Zhang",AAAI 2023: 4920-4928,AAAI,A*
+19,Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning.,2023,"Qianru Zhang, Zheng Wang, Cheng Long, Chao Huang, Siu-Ming Yiu, Yiding Liu, Gao Cong, Jieming Shi",ICDE 2023: 246-258,ICDE,A*
+20,Reinforcement Learning Enhanced Weighted Sampling for Accurate Subgraph Counting on Fully Dynamic Graph Streams.,2023,"Kaixin Wang, Cheng Long, Da Yan, Jie Zhang, H. V. Jagadish",ICDE 2023: 1084-1097,ICDE,A*
+21,Most Probable Densest Subgraphs.,2023,"Arkaprava Saha, Xiangyu Ke, Arijit Khan, Cheng Long",ICDE 2023: 1447-1460,ICDE,A*
+22,High-Dimensional Approximate Nearest Neighbor Search: with Reliable and Efficient Distance Comparison Operations.,2023,"Jianyang Gao, Cheng Long",CoRR abs/2303.09855 ,CORR,Unranked
+23,Road Extraction with Satellite Images and Partial Road Maps.,2023,"Qianxiong Xu, Cheng Long, Liang Yu, Chen Zhang",CoRR abs/2303.12394 ,CORR,Unranked
+24,Road Network Representation Learning: A Dual Graph based Approach.,2023,"Liang Zhang, Cheng Long",CoRR abs/2304.07298 ,CORR,Unranked
+25,Fast Maximal Quasi-clique Enumeration: A Pruning and Branching Co-Design Approach.,2023,"Kaiqiang Yu, Cheng Long",CoRR abs/2305.14047 ,CORR,Unranked
+26,OpenSiteRec: An Open Dataset for Site Recommendation.,2023,"Xinhang Li, Xiangyu Zhao, Yejing Wang, Yu Liu, Yong Li, Cheng Long, Yong Zhang, Chunxiao Xing",CoRR abs/2307.00856 ,CORR,Unranked
+27,Self-Calibrated Cross Attention Network for Few-Shot Segmentation.,2023,"Qianxiong Xu, Wenting Zhao, Guosheng Lin, Cheng Long",CoRR abs/2308.09294 ,CORR,Unranked
+28,MSRAformer: Multiscale spatial reverse attention network for polyp segmentation.,2022,"Cong Wu, Cheng Long, Shijun Li, Junjie Yang, Fagang Jiang, Ran Zhou",Comput. Biol. Medicine 151: 106274 ,CBM,Unranked
+29,GNSS TEC-Based Earthquake Ionospheric Perturbation Detection Using a Novel Deep Learning Framework.,2022,"Pan Xiong, Cheng Long, Huiyu Zhou, Xuemin Zhang, Xuhui Shen",IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens. 15: 4248-4263 ,STAEORS,Unranked
+30,Towards Secure and Efficient Equality Conjunction Search Over Outsourced Databases.,2022,"Weipeng Lin, Ke Wang, Zhilin Zhang, Ada Wai-Chee Fu, Raymond Chi-Wing Wong, Cheng Long, Chunyan Miao",IEEE Trans. Cloud Comput. 10: 1445-1461 ,TCC,A
+31,TriATNE: Tripartite Adversarial Training for Network Embeddings.,2022,"Qi-dong Liu, Cheng Long, Jie Zhang, Mingliang Xu, Pei Lv",IEEE Trans. Cybern. 52: 9634-9645 ,TCYB,Unranked
+32,Mining Order-preserving Submatrices under Data Uncertainty: A Possible-world Approach and Efficient Approximation Methods.,2022,"Ji Cheng, Da Yan, Wenwen Qu, Xiaotian Hao, Cheng Long, Wilfred Ng, Xiaoling Wang",ACM Trans. Database Syst. 47: 7:1-7:57 ,TODS,Unranked
+33,Proximity Queries on Terrain Surface.,2022,"Victor Junqiu Wei, Raymond Chi-Wing Wong, Cheng Long, David M. Mount, Hanan Samet",ACM Trans. Database Syst. 47: 15:1-15:59 ,TODS,Unranked
+34,Multi-scale Progressive Gated Transformer for Physiological Signal Classification.,2022,"Wei Zhou, Hao Wang, Yiling Zhang, Cheng Long, Yan Yang, Dongjie Wang",ACML 2022: 1293-1308,ACML,Unranked
+35,On Inferring User Socioeconomic Status with Mobility Records.,2022,"Zheng Wang, Mingrui Liu, Cheng Long, Qianru Zhang, Jiangneng Li, Chunyan Miao",IEEE Big Data 2022: 646-655,BIGDATACONF,Unranked
+36,Traffic Speed Imputation with Spatio-Temporal Attentions and Cycle-Perceptual Training.,2022,"Qianxiong Xu, Sijie Ruan, Cheng Long, Liang Yu, Chen Zhang",CIKM 2022: 2280-2289,CIKM,A
+37,On Efficient Large Maximal Biplex Discovery (Extended abstract).,2022,"Kaiqiang Yu, Cheng Long, Deepak P, Tanmoy Chakraborty",ICDE 2022: 1483-1484,ICDE,A*
+38,Cost-Aware and Distance-Constrained Collective Spatial Keyword Query (Extended Abstract).,2022,"Harry Kai-Ho Chan, Shengxin Liu, Cheng Long, Raymond Chi-Wing Wong",ICDE 2022: 1505-1506,ICDE,A*
+39,k-Pleased Querying (Extended Abstract).,2022,"Zitong Chen, Ada Wai-Chee Fu, Cheng Long, Yang Wu",ICDE 2022: 1557-1558,ICDE,A*
+40,Maximal Directed Quasi -Clique Mining.,2022,"Guimu Guo, Da Yan, Lyuheng Yuan, Jalal Khalil, Cheng Long, Zhe Jiang, Yang Zhou",ICDE 2022: 1900-1913,ICDE,A*
+41,Discovering Actual Delivery Locations from Mis-Annotated Couriers' Trajectories.,2022,"Sijie Ruan, Cheng Long, Xiaodu Yang, Tianfu He, Ruiyuan Li, Jie Bao, Yiheng Chen, Shengnan Wu, Jiangtao Cui, Yu Zheng",ICDE 2022: 3241-3253,ICDE,A*
+42,A Study of Shape Modeling Against Noise.,2022,"Cheng Long, Adrian Barbu",ICIP 2022: 611-615,ICIP,B
+43,A Survey on Neural Open Information Extraction: Current Status and Future Directions.,2022,"Shaowen Zhou, Bowen Yu, Aixin Sun, Cheng Long, Jingyang Li, Jian Sun",IJCAI 2022: 5694-5701,IJCAI,A*
+44,Service Time Prediction for Delivery Tasks via Spatial Meta-Learning.,2022,"Sijie Ruan, Cheng Long, Zhipeng Ma, Jie Bao, Tianfu He, Ruiyuan Li, Yiheng Chen, Shengnan Wu, Yu Zheng",KDD 2022: 3829-3837,KDD,A*
+45,A Matching Based Spatial Crowdsourcing Framework for Egalitarian Task Assignment.,2022,"Ramneek Kaur, Vikram Goyal, Venkata M. V. Gunturi, Cheng Long",MDM 2022: 185-187,MDM,B
+46,Modeling Trajectories with Multi-task Learning.,2022,"Kaijun Liu, Sijie Ruan, Qianxiong Xu, Cheng Long, Nan Xiao, Nan Hu, Liang Yu, Sinno Jialin Pan",MDM 2022: 208-213,MDM,B
+47,On Predicting and Generating a Good Break Shot in Billiards Sports.,2022,"Qianru Zhang, Zheng Wang, Cheng Long, Siu-Ming Yiu",SDM 2022: 109-117,SDM,A
+48,Improving Conversational Recommender Systems via Transformer-based Sequential Modelling.,2022,"Jie Zou, Evangelos Kanoulas, Pengjie Ren, Zhaochun Ren, Aixin Sun, Cheng Long",SIGIR 2022: 2319-2324,SIGIR,A*
+49,Efficient Algorithms for Maximal k-Biplex Enumeration.,2022,"Kaiqiang Yu, Cheng Long, Shengxin Liu, Da Yan",SIGMOD Conference 2022: 860-873,SIGMOD,A*
+50,Prototype Feature Extraction for Multi-task Learning.,2022,"Shen Xin, Yuhang Jiao, Cheng Long, Yuguang Wang, Xiaowei Wang, Sen Yang, Ji Liu, Jie Zhang",WWW 2022: 2472-2481,WWW,A*
+51,Points-of-Interest Relationship Inference with Spatial-enriched Graph Neural Networks.,2022,"Yile Chen, Xiucheng Li, Gao Cong, Cheng Long, Zhifeng Bao, Shang Liu, Wanli Gu, Fuzheng Zhang",CoRR abs/2202.13686 ,CORR,Unranked
+52,A Survey on Neural Open Information Extraction: Current Status and Future Directions.,2022,"Shaowen Zhou, Bowen Yu, Aixin Sun, Cheng Long, Jingyang Li, Jian Sun",CoRR abs/2205.11725 ,CORR,Unranked
+53,Maximum k-Biplex Search on Bipartite Graphs: A Symmetric-BK Branching Approach.,2022,"Kaiqiang Yu, Cheng Long",CoRR abs/2208.13207 ,CORR,Unranked
+54,Reinforcement Learning Enhanced Weighted Sampling for Accurate Subgraph Counting on Fully Dynamic Graph Streams.,2022,"Kaixin Wang, Cheng Long, Da Yan, Jie Zhang, H. V. Jagadish",CoRR abs/2211.06793 ,CORR,Unranked
+55,On Inferring User Socioeconomic Status with Mobility Records.,2022,"Zheng Wang, Mingrui Liu, Cheng Long, Qianru Zhang, Jiangneng Li, Chunyan Miao",CoRR abs/2211.08200 ,CORR,Unranked
+56,Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning.,2022,"Qianru Zhang, Zheng Wang, Cheng Long, Chao Huang, Siu-Ming Yiu, Yiding Liu, Gao Cong, Jieming Shi",CoRR abs/2211.08415 ,CORR,Unranked
+57,Region Embedding with Intra and Inter-View Contrastive Learning.,2022,"Liang Zhang, Cheng Long, Gao Cong",CoRR abs/2211.08975 ,CORR,Unranked
+58,Most Probable Densest Subgraphs.,2022,"Arkaprava Saha, Xiangyu Ke, Arijit Khan, Cheng Long",CoRR abs/2212.08820 ,CORR,Unranked
+59,Data Science for Fake News - Surveys and Perspectives.,2021,"Deepak P, Tanmoy Chakraborty, Cheng Long, Santhosh Kumar G","The Information Retrieval Series 42, Springer 2021, ISBN 978-3-030-62695-2, pp. 1-302",IRS,Unranked
+60,Few-shot fine-grained classification with Spatial Attentive Comparison.,2021,"Xiaoqian Ruan, Guosheng Lin, Cheng Long, Shengli Lu",Knowl. Based Syst. 218: 106840 ,KBS,Unranked
+61,Points-of-Interest Relationship Inference with Spatial-enriched Graph Neural Networks.,2021,"Yile Chen, Xiucheng Li, Gao Cong, Cheng Long, Zhifeng Bao, Shang Liu, Wanli Gu, Fuzheng Zhang",Proc. VLDB Endow. 15: 504-512 ,PVLDB,Unranked
+62,Adaptive Event-Triggered Strategy for Economic Dispatch in Uncertain Communication Networks.,2021,"Ying Wan, Cheng Long, Ruilong Deng, Guanghui Wen, Xinghuo Yu",IEEE Trans. Control. Netw. Syst. 8: 1881-1891 ,TCNS,Unranked
+63,Distributed Event-Based Control for Thermostatically Controlled Loads Under Hybrid Cyber Attacks.,2021,"Ying Wan, Cheng Long, Ruilong Deng, Guanghui Wen, Xinghuo Yu, Tingwen Huang",IEEE Trans. Cybern. 51: 5314-5327 ,TCYB,Unranked
+64,Robust Road Network Representation Learning: When Traffic Patterns Meet Traveling Semantics.,2021,"Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long, Yiding Liu, Arun Kumar Chandran, Richard Ellison",CIKM 2021: 211-220,CIKM,A
+65,Trajectory Simplification with Reinforcement Learning.,2021,"Zheng Wang, Cheng Long, Gao Cong",ICDE 2021: 684-695,ICDE,A*
+66,Self-Supervised Deep Metric Learning for Pointsets.,2021,"Pattaramanee Arsomngern, Cheng Long, Supasorn Suwajanakorn, Sarana Nutanong",ICDE 2021: 2171-2176,ICDE,A*
+67,ATNN: Adversarial Two-Tower Neural Network for New Item's Popularity Prediction in E-commerce.,2021,"Shen Xin, Zhao Li, Pengcheng Zou, Cheng Long, Jie Zhang, Jiajun Bu, Jingren Zhou",ICDE 2021: 2499-2510,ICDE,A*
+68,Summarizing User-Item Matrix By Group Utility Maximization.,2021,"Yongjie Wang, Ke Wang, Cheng Long, Chunyan Miao",ICDM 2021: 1409-1414,ICDM,A*
+69,Coordinate Attention Residual Deformable U-Net for Vessel Segmentation.,2021,"Cong Wu, Xiao Liu, Shijun Li, Cheng Long",ICONIP  2021: 345-356,ICONIP,B
+70,Predicting Autism Spectrum Disorder from Brain Imaging Data by Graph Convolutional Network.,2021,"Yueen Ma, Da Yan, Cheng Long, D. Rangaprakash, Gopikrishna Deshpande",IJCNN 2021: 1-8,IJCNN,B
+71,Error-Bounded Online Trajectory Simplification with Multi-Agent Reinforcement Learning.,2021,"Zheng Wang, Cheng Long, Gao Cong, Qianru Zhang",KDD 2021: 1758-1768,KDD,A*
+72,Adaptive Holding for Online Bottleneck Matching with Delays.,2021,"Kaixin Wang, Cheng Long, Yongxin Tong, Jie Zhang, Yi Xu",SDM 2021: 235-243,SDM,A
+73,Towards advancing the earthquake forecasting by machine learning of satellite data.,2021,"Pan Xiong, Lei Tong, Kun Zhang, Xuhui Shen, Roberto Battiston, Dimitar Ouzounov, Roberto Iuppa, Danny Crookes, Cheng Long, Huiyu Zhou",CoRR abs/2102.04334 ,CORR,Unranked
+74,The RLR-Tree: A Reinforcement Learning Based R-Tree for Spatial Data.,2021,"Tu Gu, Kaiyu Feng, Gao Cong, Cheng Long, Zheng Wang, Sheng Wang",CoRR abs/2103.04541 ,CORR,Unranked
+75,Efficient Algorithms for Maximal k-Biplex Enumeration.,2021,"Kaiqiang Yu, Cheng Long, Shengxin Liu, Da Yan",CoRR abs/2112.14414 ,CORR,Unranked
+76,On optimal preference diffusion over social networks.,2020,"Cheng Long, Anhua Chen, Pakawadee Pengcharoen, Raymond Chi-Wing Wong",Inf. Syst. 88 ,IS,Unranked
+77,A Robust Indoor Mobile Localization Algorithm for Wireless Sensor Network in Mixed LOS/NLOS Environments.,2020,"Ou Yong Kang, Cheng Long",J. Sensors 2020: 8854389:1-8854389:16 ,JS,Unranked
+78,Efficient and Effective Similar Subtrajectory Search with Deep Reinforcement Learning.,2020,"Zheng Wang, Cheng Long, Gao Cong, Yiding Liu",Proc. VLDB Endow. 13: 2312-2325 ,PVLDB,Unranked
+79,Identification of Electromagnetic Pre-Earthquake Perturbations from the DEMETER Data by Machine Learning.,2020,"Pan Xiong, Cheng Long, Huiyu Zhou, Roberto Battiston, Xuemin Zhang, Xuhui Shen",Remote. Sens. 12: 3643 ,REMOTESENSING,Unranked
+80,Learning Network Representations With Different Order Structural Information.,2020,"Qi-dong Liu, Xin Zhou, Cheng Long, Jie Zhang, Mingliang Xu",IEEE Trans. Comput. Soc. Syst. 7: 907-914 ,TCSS,Unranked
+81,On Nearby-Fit Spatial Keyword Queries.,2020,"Victor Junqiu Wei, Raymond Chi-Wing Wong, Cheng Long, Pan Hui",IEEE Trans. Knowl. Data Eng. 32: 2198-2212 ,TKDE,Unranked
+82,Learning to Generate Maps from Trajectories.,2020,"Sijie Ruan, Cheng Long, Jie Bao, Chunyang Li, Zisheng Yu, Ruiyuan Li, Yuxuan Liang, Tianfu He, Yu Zheng",AAAI 2020: 890-897,AAAI,A*
+83,LSimRank: Node Similarity in a Labeled Graph.,2020,"Yang Wu, Ada Wai-Chee Fu, Cheng Long, Zitong Chen",APWeb/WAIM  2020: 127-144,APWEB,C
+84,Generating Full Spatiotemporal Vehicular Paths: A Data Fusion Approach.,2020,"Nan Xiao, Nan Hu, Liang Yu, Cheng Long",CIKM 2020: 2837-2844,CIKM,A
+85,Multi-Channel Sellers Traffic Allocation in Large-scale E-commerce Promotion.,2020,"Shen Xin, Yizhou Ye, Martin Ester, Cheng Long, Jie Zhang, Zhao Li, Kaiying Yuan, Yanghua Li",CIKM 2020: 2845-2852,CIKM,A
+86,Unsupervised Fake News Detection: A Graph-based Approach.,2020,"Siva Charan Reddy Gangireddy, Deepak P, Cheng Long, Tanmoy Chakraborty",HT 2020: 75-83,HT,Unranked
+87,On Nearby-Fit Spatial Keyword Queries (Extended Abstract).,2020,"Victor Junqiu Wei, Raymond Chi-Wing Wong, Cheng Long, Pan Hui",ICDE 2020: 2024-2025,ICDE,A*
+88,Interaction-aware Kalman Neural Networks for Trajectory Prediction.,2020,"Ce Ju, Zheng Wang, Cheng Long, Xiaoyu Zhang, Dong Eui Chang",IV 2020: 1793-1800,IVS,Unranked
+89,Doing in One Go: Delivery Time Inference Based on Couriers' Trajectories.,2020,"Sijie Ruan, Zi Xiong, Cheng Long, Yiheng Chen, Jie Bao, Tianfu He, Ruiyuan Li, Shengnan Wu, Zhongyuan Jiang, Yu Zheng",KDD 2020: 2813-2821,KDD,A*
+90,Lane Extraction and Quality Evaluation: A Hough Transform Based Approach.,2020,"Xingyao Wang, Da Yan, Ke Chen, Yancong Deng, Cheng Long, Kunlin Zhang, Sibo Yan",MIPR 2020: 7-12,MIPR,Unranked
+91,Architecture-Intact Oracle for Fastest Path and Time Queries on Dynamic Spatial Networks.,2020,"Victor Junqiu Wei, Raymond Chi-Wing Wong, Cheng Long",SIGMOD Conference 2020: 1841-1856,SIGMOD,A*
+92,Context-aware Deep Model for Joint Mobility and Time Prediction.,2020,"Yile Chen, Cheng Long, Gao Cong, Chenliang Li",WSDM 2020: 106-114,WSDM,A
+93,Efficient and Effective Similar Subtrajectory Search with Deep Reinforcement Learning.,2020,"Zheng Wang, Cheng Long, Gao Cong, Yiding Liu",CoRR abs/2003.02542 ,CORR,Unranked
+94,Multimode process monitoring based on robust dictionary learning with application to aluminium electrolysis process.,2019,"Chunhua Yang, Longfei Zhou, Keke Huang, Hongquan Ji, Cheng Long, Xiaofang Chen, Yongfang Xie",Neurocomputing 332: 305-319 ,IJON,Unranked
+95,Class Indistinguishability for Outsourcing Equality Conjunction Search.,2019,"Weipeng Lin, Ke Wang, Zhilin Zhang, Ada Wai-Chee Fu, Raymond Chi-Wing Wong, Cheng Long",CLOUD 2019: 253-270,CLOUD2,Unranked
+96,Adaptive Dynamic Bipartite Graph Matching: A Reinforcement Learning Approach.,2019,"Yansheng Wang, Yongxin Tong, Cheng Long, Pan Xu, Ke Xu, Weifeng Lv",ICDE 2019: 1478-1489,ICDE,A*
+97,Fraction-Score: A New Support Measure for Co-location Pattern Mining.,2019,"Harry Kai-Ho Chan, Cheng Long, Da Yan, Raymond Chi-Wing Wong",ICDE 2019: 1514-1525,ICDE,A*
+98,On Generalizing Collective Spatial Keyword Queries (Extended Abstract).,2019,"Harry Kai-Ho Chan, Cheng Long, Raymond Chi-Wing Wong",ICDE 2019: 2115-2116,ICDE,A*
+99,Lightweight Fault Tolerance in Pregel-Like Systems.,2019,"Da Yan, James Cheng, Hongzhi Chen, Cheng Long, Purushotham V. Bangalore",ICPP 2019: 69:1-69:10,ICPP,B
+100,Effective and Efficient Sports Play Retrieval with Deep Representation Learning.,2019,"Zheng Wang, Cheng Long, Gao Cong, Ce Ju",KDD 2019: 499-509,KDD,A*
+101,Interaction-aware Kalman Neural Networks for Trajectory Prediction.,2019,"Ce Ju, Zheng Wang, Cheng Long, Xiaoyu Zhang, Gao Cong, Dong Eui Chang",CoRR abs/1902.10928 ,CORR,Unranked
+102,Profit Maximization with Sufficient Customer Satisfactions.,2018,"Cheng Long, Raymond Chi-Wing Wong, Victor Junqiu Wei",ACM Trans. Knowl. Discov. Data 12: 19:1-19:34 ,TKDD,Unranked
+103,On Generalizing Collective Spatial Keyword Queries.,2018,"Harry Kai-Ho Chan, Cheng Long, Raymond Chi-Wing Wong",IEEE Trans. Knowl. Data Eng. 30: 1712-1726 ,TKDE,Unranked
+104,Fast Identification of Interesting Spatial Regions with Applications in Human Development Research.,2018,"Carl Duffy, Deepak P, Cheng Long, M. Satish Kumar, Amit Thorat, Amaresh Dubey",DEXA  2018: 408-416,DEXA,C
+105,Counting Edges with Target Labels in Online Social Networks via Random Walk.,2018,"Yang Wu, Cheng Long, Ada Wai-Chee Fu, Zitong Chen",EDBT 2018: 217-228,EDBT,A
+106,Efficient k-Regret Query Algorithm with Restriction-free Bound for any Dimensionality.,2018,"Min Xie, Raymond Chi-Wing Wong, Jian Li, Cheng Long, Ashwin Lall",SIGMOD Conference 2018: 959-974,SIGMOD,A*
+107,Spatial Matching Problems.,2018,"Cheng Long, Raymond Chi-Wing Wong",Encyclopedia of Database Systems  2018,DB,Unranked
+108,Representation Learning for Spatial Graphs.,2018,"Zheng Wang, Ce Ju, Gao Cong, Cheng Long",CoRR abs/1812.06668 ,CORR,Unranked
+109,Counting Edges and Triangles in Online Social Networks via Random Walk.,2017,"Yang Wu, Cheng Long, Ada Wai-Chee Fu, Zitong Chen",APWeb/WAIM  2017: 346-361,APWEB,C
+110,Practical method of power network topology analysis based on switch classification.,2017,"Cheng Long, Dahai You, Li Dai, Zhen Mei, Guoyan Chen, Guojun Lu, Yong Wang",CCECE 2017: 1-5,CCECE,Unranked
+111,Distance Oracle on Terrain Surface.,2017,"Victor Junqiu Wei, Raymond Chi-Wing Wong, Cheng Long, David M. Mount",SIGMOD Conference 2017: 1211-1226,SIGMOD,A*
+112,Inherent-Cost Aware Collective Spatial Keyword Queries.,2017,"Harry Kai-Ho Chan, Cheng Long, Raymond Chi-Wing Wong",SSTD 2017: 357-375,SSD,Unranked
+113,Optimal Worst-Case Matching.,2017,"Cheng Long, Raymond Chi-Wing Wong",Encyclopedia of GIS 2017: 1511-1522,GIS,Unranked
+114,Optimal Location Queries in Road Networks.,2015,"Zitong Chen, Yubao Liu, Raymond Chi-Wing Wong, Jiamin Xiong, Ganglin Mai, Cheng Long",ACM Trans. Database Syst. 40: 17:1-17:41 ,TODS,Unranked
+115,Trend-MC: A Melody Composer by Constructing from Frequent Trend-Based Patterns.,2015,"Cheng Long, Raymond Chi-Wing Wong, Raymond Ka Wai Sze",ICDM Workshops 2015: 1628-1631,ICDM,A*
+116,Viral marketing for dedicated customers.,2014,"Cheng Long, Raymond Chi-Wing Wong",Inf. Syst. 46: 1-23 ,IS,Unranked
+117,Terrain-Toolkit: A Multi-Functional Tool for Terrain Data.,2014,"Qi Wang, Manohar Kaul, Cheng Long, Raymond Chi-Wing Wong",Proc. VLDB Endow. 7: 1645-1648 ,PVLDB,Unranked
+118,Trajectory Simplification: On Minimizing the Direction-based Error.,2014,"Cheng Long, Raymond Chi-Wing Wong, H. V. Jagadish",Proc. VLDB Endow. 8: 49-60 ,PVLDB,Unranked
+119,Visual-VM: A Social Network Visualization Tool for Viral Marketing.,2014,"Cheng Long, Raymond Chi-Wing Wong",ICDM Workshops 2014: 1223-1226,ICDM,A*
+120,A New Framework for Traffic Anomaly Detection.,2014,"Jinsong Lan, Cheng Long, Raymond Chi-Wing Wong, Youyang Chen, Yanjie Fu, Danhuai Guo, Shuguang Liu, Yong Ge, Yuanchun Zhou, Jianhui Li",SDM 2014: 875-883,SDM,A
+121,Hypersphere dominance: an optimal approach.,2014,"Cheng Long, Raymond Chi-Wing Wong, Bin Zhang, Min Xie",SIGMOD Conference 2014: 111-122,SIGMOD,A*
+122,Efficient algorithms for optimal location queries in road networks.,2014,"Zitong Chen, Yubao Liu, Raymond Chi-Wing Wong, Jiamin Xiong, Ganglin Mai, Cheng Long",SIGMOD Conference 2014: 123-134,SIGMOD,A*
+123,Direction-Preserving Trajectory Simplification.,2013,"Cheng Long, Raymond Chi-Wing Wong, H. V. Jagadish",Proc. VLDB Endow. 6: 949-960 ,PVLDB,Unranked
+124,T-Music: A melody composer based on frequent pattern mining.,2013,"Cheng Long, Raymond Chi-Wing Wong, Raymond Ka Wai Sze",ICDE 2013: 1332-1335,ICDE,A*
+125,On Good and Fair Paper-Reviewer Assignment.,2013,"Cheng Long, Raymond Chi-Wing Wong, Yu Peng, Liangliang Ye",ICDM 2013: 1145-1150,ICDM,A*
+126,Collective spatial keyword queries: a distance owner-driven approach.,2013,"Cheng Long, Raymond Chi-Wing Wong, Ke Wang, Ada Wai-Chee Fu",SIGMOD Conference 2013: 689-700,SIGMOD,A*
+127,On optimal worst-case matching.,2013,"Cheng Long, Raymond Chi-Wing Wong, Philip S. Yu, Minhao Jiang",SIGMOD Conference 2013: 845-856,SIGMOD,A*
+128,Minimizing Seed Set for Viral Marketing.,2011,"Cheng Long, Raymond Chi-Wing Wong",ICDM 2011: 427-436,ICDM,A*

@@ -1,0 +1,247 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Dynamic portfolio rebalancing with lag-optimised trading indicators using SeroFAM and genetic algorithms.,2023,"Leon Lai Xiang Yeo, Qi Cao, Chai Quek",Expert Syst. Appl. 216: 119440 ,ESWA,Unranked
+1,VDPC: Variational density peak clustering algorithm.,2023,"Yizhang Wang, Di Wang, You Zhou, Xiaofeng Zhang, Chai Quek",Inf. Sci. 621: 627-651 ,ISCI,Unranked
+2,Poisoning the Well: Can We Simultaneously Attack a Group of Learning Agents?,2023,"Ridhima Bector, Hang Xu, Abhay Aradhya, Chai Quek, Zinovi Rabinovich",IJCAI 2023: 3470-3478,IJCAI,A*
+3,An embedded deep fuzzy association model for learning and explanation.,2022,"Xie Chen, Deepu Rajan, Dilip K. Prasad, Chai Quek",Appl. Soft Comput. 131: 109738 ,ASC,Unranked
+4,Hierarchical Reinforcement Learning: A Comprehensive Survey.,2022,"Shubham Pateria, Budhitama Subagdja, Ah-Hwee Tan, Chai Quek",ACM Comput. Surv. 54: 109:1-109:35 ,CSUR,Unranked
+5,Representation recovery via L1-norm minimization with corrupted data.,2022,"Woon Huei Chai, Shen-Shyang Ho, Hiok Chai Quek",Inf. Sci. 595: 395-426 ,ISCI,Unranked
+6,Emotionally charged text classification with deep learning and sentiment semantic.,2022,"Jeow Li Huan, Arif Ahmed Sekh, Chai Quek, Dilip K. Prasad",Neural Comput. Appl. 34: 2341-2351 ,NCA,B
+7,Dynamic portfolio rebalancing through reinforcement learning.,2022,"Qing Yang Eddy Lim, Qi Cao, Chai Quek",Neural Comput. Appl. 34: 7125-7139 ,NCA,B
+8,Who are the 'silent spreaders'?: contact tracing in spatio-temporal memory models.,2022,"Yue Hu, Budhitama Subagdja, Ah-Hwee Tan, Chai Quek, Quanjun Yin",Neural Comput. Appl. 34: 14859-14879 ,NCA,B
+9,A Novel Quasi-Newton Method for Composite Convex Minimization.,2022,"Woon Huei Chai, Shen-Shyang Ho, Hiok Chai Quek",Pattern Recognit. 122: 108281 ,PR,Unranked
+10,EEG-Video Emotion-Based Summarization: Learning With EEG Auxiliary Signals.,2022,"Wai-Cheong Lincoln Lew, Di Wang, Kai Keng Ang, Joo-Hwee Lim, Chai Quek, Ah-Hwee Tan",IEEE Trans. Affect. Comput. 13: 1827-1839 ,TAFFCO,Unranked
+11,End-to-End Hierarchical Reinforcement Learning With Integrated Subgoal Discovery.,2022,"Shubham Pateria, Budhitama Subagdja, Ah-Hwee Tan, Chai Quek",IEEE Trans. Neural Networks Learn. Syst. 33: 7778-7790 ,TNN,Unranked
+12,VDPC: Variational Density Peak Clustering Algorithm.,2022,"Yizhang Wang, Di Wang, You Zhou, Xiaofeng Zhang, Chai Quek",CoRR abs/2201.00641 ,CORR,Unranked
+13,Motivation detection using EEG signal analysis by residual-in-residual convolutional neural network.,2021,"Soham Chattopadhyay, Laila Zary, Chai Quek, Dilip K. Prasad",Expert Syst. Appl. 184: 115548 ,ESWA,Unranked
+14,An interpretable Neural Fuzzy Hammerstein-Wiener network for stock price prediction.,2021,"Xie Chen, Deepu Rajan, Chai Quek",Inf. Sci. 577: 324-335 ,ISCI,Unranked
+15,RS-HeRR: a rough set-based Hebbian rule reduction neuro-fuzzy system.,2021,"Feng Liu, Arif Ahmed Sekh, Chai Quek, Geok See Ng, Dilip K. Prasad",Neural Comput. Appl. 33: 1123-1137 ,NCA,B
+16,seMLP: Self-evolving Multi-layer Perceptron in Stock Trading Decision Making.,2021,"Seow Wen Jun, Arif Ahmed Sekh, Chai Quek, Dilip K. Prasad",SN Comput. Sci. 2: 111 ,SNCS,Unranked
+17,IT2-GSETSK: An evolving interval Type-II TSK fuzzy neural system for online modeling of noisy data.,2020,"Mohammad Ashrafi, Dilip K. Prasad, Chai Quek",Neurocomputing 407: 1-11 ,IJON,Unranked
+18,Assessment of the Efficacy of EEG-Based MI-BCI With Visual Feedback and EEG Correlates of Mental Fatigue for Upper-Limb Stroke Rehabilitation.,2020,"Ruyi Foong, Ning Tang, Effie Chew, Karen Sui Geok Chua, Kai Keng Ang, Chai Quek, Cuntai Guan, Kok Soon Phua, Christopher Wee Keong Kuah, Deshmukh Arun Vishwanath, Lester Hon Lum Yam, Deshan Kumar Rajeswaran",IEEE Trans. Biomed. Eng. 67: 786-795 ,TBE,Unranked
+19,Are Object Detection Assessment Criteria Ready for Maritime Computer Vision?,2020,"Dilip K. Prasad, Huixu Dong, Deepu Rajan, Chai Quek",IEEE Trans. Intell. Transp. Syst. 21: 5295-5304 ,TITS,Unranked
+20,A Deep Hybrid Fuzzy Neural Hammerstein-Wiener Network for Stock Price Prediction.,2020,"Xie Chen, Deepu Rajan, Chai Quek",ICAIIC 2020: 288-293,ICAIIC,Unranked
+21,Recurrent Self-evolving Takagi-Sugeno-Kan Fuzzy Neural Network (RST-FNN) Based Type-2 Diabetic Modeling.,2020,"Quah En Zhe, Arif Ahmed Sekh, Chai Quek, Dilip K. Prasad",IFIP TC12 ICIS 2020: 125-136,ICIS2,Unranked
+22,GEMM-eMFIS (FRI/E): A Novel General Episodic Memory Mechanism For Fuzzy Neural Networks.,2020,"Sheng Wei Pang, Chai Quek, Dilip K. Prasad",IJCNN 2020: 1-8,IJCNN,B
+23,Object Detection in a Maritime Environment: Performance Evaluation of Background Subtraction Methods.,2019,"Dilip K. Prasad, Chandrashekar Krishna Prasath, Deepu Rajan, Lily Rachmawati, Eshan Rajabally, Chai Quek",IEEE Trans. Intell. Transp. Syst. 20: 1787-1802 ,TITS,Unranked
+24,Evolutionary Based ICA With Reference for EEG μ Rhythm Extraction.,2018,"Swathi Kavuri Sri, Kalyana C. Veluvolu, Hiok Chai Quek",IEEE Access 6: 19702-19713 ,ACCESS,Unranked
+25,PIE-RSPOP: A brain-inspired pseudo-incremental ensemble rough set pseudo-outer product fuzzy neural network.,2018,"Aparna Ramesh Iyer, Dilip K. Prasad, Hiok Chai Quek",Expert Syst. Appl. 95: 172-189 ,ESWA,Unranked
+26,Sentiment analysis using EEG activities for suicidology.,2018,"Dilip K. Prasad, Shijie Liu, Shen-Hsing Annabel Chen, Chai Quek",Expert Syst. Appl. 103: 206-217 ,ESWA,Unranked
+27,An interpretable neural fuzzy inference system for predictions of underpricing in initial public offerings.,2018,"Di Wang, Xiaolin Qian, Chai Quek, Ah-Hwee Tan, Chunyan Miao, Xiaofeng Zhang, Geok See Ng, You Zhou",Neurocomputing 319: 102-117 ,IJON,Unranked
+28,Water level forecasting using neuro-fuzzy models with local learning.,2018,"Phuoc Khac-Tien Nguyen, Lloyd Hock Chye Chua, Amin Talei, Hiok Chai Quek",Neural Comput. Appl. 30: 1877-1887 ,NCA,B
+29,Rainfall-runoff Modelling in a Semi-urbanized Catchment using Self-adaptive Fuzzy Inference Network.,2018,"Tak Kwin Chang, Amin Talei, Chai Quek",IJCCI 2018: 86-97,IJCCI,C
+30,Are object detection assessment criteria ready for maritime computer vision?,2018,"Dilip K. Prasad, Deepu Rajan, Chai Quek",CoRR abs/1809.04659 ,CORR,Unranked
+31,Curvature-based method for determining the number of clusters.,2017,"Yaqian Zhang, Jacek Mandziuk, Hiok Chai Quek, Wooi-Boon Goh",Inf. Sci. 415: 414-428 ,ISCI,Unranked
+32,Video Processing From Electro-Optical Sensors for Object Detection and Tracking in a Maritime Environment: A Survey.,2017,"Dilip K. Prasad, Deepu Rajan, Lily Rachmawati, Eshan Rajabally, Chai Quek",IEEE Trans. Intell. Transp. Syst. 18: 1993-2016 ,TITS,Unranked
+33,Correlation of reaction time and EEG log bandpower from dry frontal electrodes in a passive fatigue driving simulation experiment.,2017,"Ruyi Foong, Kai Keng Ang, Chai Quek",EMBC 2017: 2482-2485,EMBC,Unranked
+34,A fast sparse reconstruction approach for high resolution image-based object surface anomaly detection.,2017,"Woon Huei Chai, Shen-Shyang Ho, Chi-Keong Goh, Liang-Tien Chia, Hiok Chai Quek",MVA 2017: 13-16,MVA,National
+35,Leveraging the trade-off between accuracy and interpretability in a hybrid intelligent system.,2017,"Di Wang, Chai Quek, Ah-Hwee Tan, Chunyan Miao, Geok See Ng, You Zhou",SPAC 2017: 55-60,SPAC,Unranked
+36,MSCM-LiFe: Multi-scale cross modal linear feature for horizon detection in maritime images.,2017,"Dilip K. Prasad, Deepu Rajan, Chandrashekar Krishna Prasath, Lily Rachmawati, Eshan Rajabally, Chai Quek",CoRR abs/1701.08378 ,CORR,Unranked
+37,Maritime situational awareness using adaptive multi-sensor management under hazy conditions.,2017,"Dilip K. Prasad, Chandrashekar Krishna Prasath, Deepu Rajan, Lily Rachmawati, Eshan Rajabally, Chai Quek",CoRR abs/1702.00754 ,CORR,Unranked
+38,Bank failure prediction using an accurate and interpretable neural fuzzy inference system.,2016,"Di Wang, Chai Quek, Geok See Ng",AI Commun. 29: 477-495 ,AICOM,Unranked
+39,ieRSPOP: A novel incremental rough set-based pseudo outer-product with ensemble learning.,2016,"Ronald Tor Das, Kai Keng Ang, Chai Quek",Appl. Soft Comput. 46: 170-186 ,ASC,Unranked
+40,Rough-fuzzy rule interpolation.,2016,"Chengyuan Chen, Neil Mac Parthaláin, Ying Li, Chris J. Price, Chai Quek, Qiang Shen",Inf. Sci. 351: 1-17 ,ISCI,Unranked
+41,Challenges in video based object detection in maritime scenario using computer vision.,2016,"Dilip K. Prasad, Chandrashekar Krishna Prasath, Deepu Rajan, Lily Rachmawati, Eshan Rajabally, Chai Quek",CoRR abs/1608.01079 ,CORR,Unranked
+42,Video Processing from Electro-optical Sensors for Object Detection and Tracking in Maritime Environment: A Survey.,2016,"Dilip K. Prasad, Deepu Rajan, Lily Rachmawati, Eshan Rajabally, Chai Quek",CoRR abs/1611.05842 ,CORR,Unranked
+43,Dynamic screening of autistic children in various mental states using pattern of connectivity between brain regions.,2015,"Reza Khosrowabadi, Chai Quek, Kai Keng Ang, Abdul Wahab, Shen-Hsing Annabel Chen",Appl. Soft Comput. 32: 335-346 ,ASC,Unranked
+44,GSETSK: a generic self-evolving TSK fuzzy neural network with a novel Hebbian-based rule reduction approach.,2015,"Ngoc Nam Nguyen, Weigui Jair Zhou, Chai Quek",Appl. Soft Comput. 35: 29-42 ,ASC,Unranked
+45,An analysis on driver drowsiness based on reaction time and EEG band power.,2015,"Ruyi Foong, Kai Keng Ang, Chai Quek, Cuntai Guan, Aung Aung Phyo Wai",EMBC 2015: 7982-7985,EMBC,Unranked
+46,Trading model: Self reorganizing Fuzzy Associative Machine - forecasted MACD-Histogram (SeroFAM-fMACDH).,2015,"Javan Tan, Weigui Jair Zhou, Chai Quek",IJCNN 2015: 1-8,IJCNN,B
+47,FIE-FCMAC: A novel fuzzy cerebellum model articulation controller (FCMAC) using fuzzy interpolation and extrapolation technique.,2015,"Weigui Jair Zhou, Douglas Leslie Maskell, Chai Quek",IJCNN 2015: 1-8,IJCNN,B
+48,Ovarian cancer diagnosis using a hybrid intelligent system with simple yet convincing rules.,2014,"Di Wang, Chai Quek, Geok See Ng",Appl. Soft Comput. 20: 25-39 ,ASC,Unranked
+49,Mutual information-based optimization of sparse spatio-spectral filters in brain-computer interface.,2014,"Mahnaz Arvaneh, Cuntai Guan, Kai Keng Ang, Chai Quek",Neural Comput. Appl. 25: 625-634 ,NCA,B
+50,Backward Fuzzy Rule Interpolation.,2014,"Shangzhu Jin, Ren Diao, Chai Quek, Qiang Shen",IEEE Trans. Fuzzy Syst. 22: 1682-1698 ,TFS,Unranked
+51,DEB: Definite Error Bounded Tangent Estimator for Digital Curves.,2014,"Dilip K. Prasad, Maylor K. H. Leung, Chai Quek, Michael S. Brown",IEEE Trans. Image Process. 23: 4297-4310 ,TIP,Unranked
+52,ERNN: A Biologically Inspired Feedforward Neural Network to Discriminate Emotion From EEG Signal.,2014,"Reza Khosrowabadi, Chai Quek, Kai Keng Ang, Abdul Wahab",IEEE Trans. Neural Networks Learn. Syst. 25: 609-620 ,TNN,Unranked
+53,eT2FIS: An Evolving Type-2 Neural Fuzzy Inference System.,2013,"Sau Wai Tung, Chai Quek, Cuntai Guan",Inf. Sci. 220: 124-148 ,ISCI,Unranked
+54,EEG Data Space Adaptation to Reduce Intersession Nonstationarity in Brain-Computer Interface.,2013,"Mahnaz Arvaneh, Cuntai Guan, Kai Keng Ang, Chai Quek",Neural Comput. 25: 2146-2171 ,NECO,Unranked
+55,"ElliFit: An unconstrained, non-iterative, least squares based geometric Ellipse Fitting method.",2013,"Dilip K. Prasad, Maylor K. H. Leung, Chai Quek",Pattern Recognit. 46: 1449-1465 ,PR,Unranked
+56,Optimizing Spatial Filters by Minimizing Within-Class Dissimilarities in Electroencephalogram-Based Brain-Computer Interface.,2013,"Mahnaz Arvaneh, Cuntai Guan, Kai Keng Ang, Chai Quek",IEEE Trans. Neural Networks Learn. Syst. 24: 610-619 ,TNN,Unranked
+57,Comparison of error bounds for non-parametric dominant point detection.,2013,"Dilip K. Prasad, Chai Quek",ICICS 2013: 1-5,IEEEICICS,Unranked
+58,Scale and move transformation-based fuzzy rule interpolation with interval type-2 fuzzy sets.,2013,"Chengyuan Chen, Chai Quek, Qiang Shen",FUZZ-IEEE 2013,FUZZIEEE,Unranked
+59,Backward fuzzy rule interpolation with multiple missing values.,2013,"Shangzhu Jin, Ren Diao, Chai Quek, Qiang Shen",FUZZ-IEEE 2013,FUZZIEEE,Unranked
+60,Towards dynamic fuzzy rule interpolation.,2013,"Nitin Naik, Ren Diao, Chai Quek, Qiang Shen",FUZZ-IEEE 2013: 1-7,FUZZIEEE,Unranked
+61,Fuzzy interpolation and extrapolation using shift ratio and overall weight measurement based on areas of fuzzy sets.,2013,"Weigui Jair Zhou, Douglas Leslie Maskell, Chai Quek",UKCI 2013: 46-53,UKCI,Unranked
+62,"Applied Neural Intelligence to Modeling, Control, and Management of Human Systems and Environments.",2012,"Toly Chen, Pagavathi Balasubramaniam, Hiok Chai Quek, Yi-Chi Wang",Appl. Comput. Intell. Soft Comput. 2012: 595041:1-595041:2 ,ACISC,Unranked
+63,Supervised Pseudo Self-Evolving Cerebellar algorithm for generating fuzzy membership functions.,2012,"Kai Keng Ang, Chai Quek",Expert Syst. Appl. 39: 2279-2287 ,ESWA,Unranked
+64,Cultural dependency analysis for understanding speech emotion.,2012,"Norhaslinda Kamaruddin, Abdul Wahab, Chai Quek",Expert Syst. Appl. 39: 5115-5133 ,ESWA,Unranked
+65,A novel brain-inspired neuro-fuzzy hybrid system for artificial ventilation modeling.,2012,"Geok See Ng, F. Liu, Tsee Foong Loh, Chai Quek",Expert Syst. Appl. 39: 11808-11817 ,ESWA,Unranked
+66,SoHyFIS-Yager: A self-organizing Yager based Hybrid neural Fuzzy Inference System.,2012,"Sau Wai Tung, Chai Quek, Cuntai Guan",Expert Syst. Appl. 39: 12759-12771 ,ESWA,Unranked
+67,A novel framework for making dominant point detection methods non-parametric.,2012,"Dilip K. Prasad, Maylor K. H. Leung, Chai Quek, Siu-Yeung Cho",Image Vis. Comput. 30: 843-859 ,IVC,Unranked
+68,ARPOP: An Appetitive Reward-Based Pseudo-Outer-Product Neural Fuzzy Inference System Inspired From the Operant Conditioning of Feeding Behavior in Aplysia.,2012,"Eng-Yeow Cheu, Chai Quek, See-Kiong Ng",IEEE Trans. Neural Networks Learn. Syst. 23: 317-329 ,TNN,Unranked
+69,Omitting the intra-session calibration in EEG-based brain computer interface used for stroke rehabilitation.,2012,"Mahnaz Arvaneh, Cuntai Guan, Kai Keng Ang, Chai Quek",EMBC 2012: 4124-4127,EMBC,Unranked
+70,Multi-frequency band common spatial pattern with sparse optimization in Brain-Computer Interface.,2012,"Mahnaz Arvaneh, Cuntai Guan, Kai Keng Ang, Chai Quek",ICASSP 2012: 2541-2544,ICASSP,Unranked
+71,A Precise Ellipse Fitting Method for Noisy Data.,2012,"Dilip K. Prasad, Chai Quek, Maylor K. H. Leung",ICIAR  2012: 253-260,ICIAR,C
+72,A Non-heuristic Dominant Point Detection Based on Suppression of Break Points.,2012,"Dilip K. Prasad, Chai Quek, Maylor K. H. Leung",ICIAR  2012: 269-276,ICIAR,C
+73,Robust EEG channel selection across sessions in brain-computer interface involving stroke patients.,2012,"Mahnaz Arvaneh, Cuntai Guan, Kai Keng Ang, Chai Quek",IJCNN 2012: 1-6,IJCNN,B
+74,Fuzzy associative learning of feature dependency for time series forecasting.,2012,"Eng-Yeow Cheu, Kelvin Sim, See-Kiong Ng, Chai Quek",IJCNN 2012: 1-7,IJCNN,B
+75,Self-reorganizing TSK fuzzy inference system with BCM theory of meta-plasticity.,2012,"Biju Joseph Jacob, Eng-Yeow Cheu, Javan Tan, Chai Quek",IJCNN 2012: 1-8,IJCNN,B
+76,Traffic prediction using a Generic Self-Evolving Takagi-Sugeno-Kang (GSETSK) fuzzy neural network.,2012,"Ngoc Nam Nguyen, Chai Quek, Eng-Yeow Cheu",IJCNN 2012: 1-7,IJCNN,B
+77,Traffic modeling and identification using a Self-adaptive Fuzzy Inference Network.,2012,"Sau Wai Tung, Chai Quek, Cuntai Guan",IJCNN 2012: 1-7,IJCNN,B
+78,Financial volatility trading using a self-organising neural-fuzzy semantic network and option straddle-based approach.,2011,"Whye Loon Tung, Chai Quek",Expert Syst. Appl. 38: 4668-4688 ,ESWA,Unranked
+79,Stock trading with cycles: A financial application of ANFIS and reinforcement learning.,2011,"Zhiyong Tan, Chai Quek, Philip Y. K. Cheng",Expert Syst. Appl. 38: 4741-4755 ,ESWA,Unranked
+80,Decision support system based on hierarchical co-evolutionary fuzzy approach: A case study in detecting gamma ray signals.,2011,"Haoming Huang, Michel Pasquier, Hiok Chai Quek",Expert Syst. Appl. 38: 10719-10729 ,ESWA,Unranked
+81,RFCMAC: A novel reduced localized neuro-fuzzy system approach to knowledge extraction.,2011,"Richard Jayadi Oentaryo, Michel Pasquier, Chai Quek",Expert Syst. Appl. 38: 12066-12084 ,ESWA,Unranked
+82,A Novel Fuzzy Associative Memory Architecture for Stock Market Prediction and Trading.,2011,"Chai Quek, Zaiyi Guo, Douglas L. Maskell",Int. J. Fuzzy Syst. Appl. 1: 61-78 ,IJFSA,Unranked
+83,Optimizing the Channel Selection and Classification Accuracy in EEG-Based BCI.,2011,"Mahnaz Arvaneh, Cuntai Guan, Kai Keng Ang, Chai Quek",IEEE Trans. Biomed. Eng. 58: 1865-1873 ,TBE,Unranked
+84,SaFIN: A Self-Adaptive Fuzzy Inference Network.,2011,"Sau Wai Tung, Chai Quek, Cuntai Guan",IEEE Trans. Neural Networks 22: 1928-1940 ,TNN,Unranked
+85,A parameter independent line fitting method.,2011,"Dilip K. Prasad, Hiok Chai Quek, Maylor Karhang Leung, Siu-Yeung Cho",ACPR 2011: 441-445,ACPR,Unranked
+86,FAPOP: Feature analysis enhanced pseudo outer-product fuzzy rule identification system.,2011,"Sau Wai Tung, Chai Quek, Cuntai Guan",FUZZ-IEEE 2011: 1530-1537,FUZZIEEE,Unranked
+87,Evolving ensemble of fuzzy models.,2011,"Eng-Yeow Cheu, Chai Quek, See-Kiong Ng",FUZZ-IEEE 2011: 2668-2675,FUZZIEEE,Unranked
+88,Spatially sparsed Common Spatial Pattern to improve BCI performance.,2011,"Mahnaz Arvaneh, Cuntai Guan, Kai Keng Ang, Hiok Chai Quek",ICASSP 2011: 2412-2415,ICASSP,Unranked
+89,A Brain-Computer Interface for classifying EEG correlates of chronic mental stress.,2011,"Reza Khosrowabadi, Chai Quek, Kai Keng Ang, Sau Wai Tung, Michel Heijnen",IJCNN 2011: 757-762,IJCNN,B
+90,A novel brain-inspired neural cognitive approach to SARS thermal image analysis.,2010,"Chai Quek, W. Irawan, E. Y. K. Ng",Expert Syst. Appl. 37: 3040-3054 ,ESWA,Unranked
+91,A novel application of a neuro-fuzzy computational technique in event-based rainfall-runoff modeling.,2010,"Amin Talei, Lloyd Hock Chye Chua, Chai Quek",Expert Syst. Appl. 37: 7456-7468 ,ESWA,Unranked
+92,eFSM: a novel online neural-fuzzy semantic memory model.,2010,"Whye Loon Tung, Chai Quek",IEEE Trans. Neural Networks 21: 136-157 ,TNN,Unranked
+93,PSECMAC intelligent insulin schedule for diabetic blood glucose management under nonmeal announcement.,2010,"Sintiani Dewi Teddy, Chai Quek, Edmund Ming-Kit Lai, Ali Cinar",IEEE Trans. Neural Networks 21: 361-380 ,TNN,Unranked
+94,A BCM theory of meta-plasticity for online self-reorganizing fuzzy-associative learning.,2010,"Javan Tan, Chai Quek",IEEE Trans. Neural Networks 21: 985-1003 ,TNN,Unranked
+95,EpiList II: Closing the Loop in the Development of Generic Cognitive Skills.,2010,"Ghee Ming Goh, Chai Quek, Douglas L. Maskell",IEEE Trans. Syst. Man Cybern. Part A 40: 676-685 ,TSMC,Unranked
+96,A synergy of econometrics and computational methods (GARCH-RNFS) for volatility forecasting.,2010,"Ronald Tor Das, Kai Keng Ang, Chai Quek",IEEE Congress on Evolutionary Computation 2010: 1-8,CEC,B
+97,An evolving Mamdani-Takagi-Sugeno based neural-fuzzy inference system with improved interpretability-accuracy.,2010,"Weng Luen Ho, Whye Loon Tung, Chai Quek",FUZZ-IEEE 2010: 1-8,FUZZIEEE,Unranked
+98,EEG-based Emotion Recognition Using Self-Organizing Map for Boundary Detection.,2010,"Reza Khosrowabadi, Hiok Chai Quek, Abdul Wahab, Kai Keng Ang",ICPR 2010: 4242-4245,ICPR,B
+99,Time series forecasting with appetitive reward-based pseudo-outer-product fuzzy neural network.,2010,"Eng-Yeow Cheu, Chai Quek, See-Kiong Ng",IJCNN 2010: 1-8,IJCNN,B
+100,Stock price prediction using Generic Self-Evolving Takagi-Sugeno-Kang (GSETSK) fuzzy neural network.,2010,"Ngoc Nam Nguyen, Chai Quek",IJCNN 2010: 1-8,IJCNN,B
+101,The dynamic emotion recognition system based on functional connectivity of brain regions.,2010,"Reza Khosrowabadi, Michel Heijnen, Abdul Wahab, Hiok Chai Quek",Intelligent Vehicles Symposium 2010: 377-381,IVS,Unranked
+102,Online Self-reorganizing Neuro-fuzzy Reasoning in Interval-Forecasting for Financial Time-Series.,2010,"Javan Tan, Chai Quek",PRICAI 2010: 523-534,PRICAI,B
+103,An Evolving Type-2 Neural Fuzzy Inference System.,2010,"Sau Wai Tung, Chai Quek, Cuntai Guan",PRICAI 2010: 535-546,PRICAI,B
+104,Brain-Inspired Evolving Neuro-Fuzzy System for Financial Forecasting and Trading of the S&P500 Index.,2010,"Weng Luen Ho, Whye Loon Tung, Chai Quek",PRICAI 2010: 601-607,PRICAI,B
+105,A novel neuro-cognitive approach to modeling traffic control and flow based on fuzzy neural techniques.,2009,"Y. Chong, Hiok Chai Quek, P. Loh",Expert Syst. Appl. 36: 4788-4803 ,ESWA,Unranked
+106,HebbR2-Taffic: A novel application of neuro-fuzzy network for visual based traffic monitoring system.,2009,"Siu-Yeung Cho, Chai Quek, Shao-Xiong Seah, Chin-Hui Chong",Expert Syst. Appl. 36: 6343-6356 ,ESWA,Unranked
+107,A novel associative memory approach to speech enhancement in a vehicular environment.,2009,"Abdul Wahab, Hiok Chai Quek",Expert Syst. Appl. 36: 12120-12130 ,ESWA,Unranked
+108,A novel self-organizing fuzzy rule-based system for modelling traffic flow behaviour.,2009,"Chai Quek, Michel Pasquier, Bernard Boon Seng Lim",Expert Syst. Appl. 36: 12167-12178 ,ESWA,Unranked
+109,Investment portfolio balancing: application of a generic self-organizing fuzzy neural network (GenSoFNN).,2009,"Chai Quek, Kin Choong Yow, Philip Y. K. Cheng, C. C. Tan",Intell. Syst. Account. Finance Manag. 16: 147-164 ,ISAFM,Unranked
+110,A novel fuzzy neural approach to data reconstruction and failure prediction.,2009,"Chai Quek, Ruowei Zhou, C. H. Lee",Intell. Syst. Account. Finance Manag. 16: 165-187 ,ISAFM,Unranked
+111,Neuro-fuzzy icu ventilator patients modeling.,2009,"Abdul Wahab, Chai Quek, A. H. Luah",J. Comput. Methods Sci. Eng. 9: 159-167 ,JCMSE,Unranked
+112,Financial Market Trading System With a Hierarchical Coevolutionary Fuzzy Predictive Model.,2009,"Haoming Huang, Michel Pasquier, Chai Quek",IEEE Trans. Evol. Comput. 13: 56-70 ,TEC,Unranked
+113,Driving Profile Modeling and Recognition Based on Soft Computing Approach.,2009,"Abdul Wahab, Chai Quek, Chin Keong Tan, Kazuya Takeda",IEEE Trans. Neural Networks 20: 563-582 ,TNN,Unranked
+114,A Novel Blood Glucose Regulation Using TSK0-FCMAC: A Fuzzy CMAC Based on the Zero-Ordered TSK Fuzzy Inference Scheme.,2009,"Chan Wai Ting, Chai Quek",IEEE Trans. Neural Networks 20: 856-871 ,TNN,Unranked
+115,Fuzzy Associative Conjuncted Maps Network.,2009,"Hanlin Goh, Joo-Hwee Lim, Chai Quek",IEEE Trans. Neural Networks 20: 1302-1319 ,TNN,Unranked
+116,R-POPTVR: A Novel Reinforcement-Based POPTVR Fuzzy Neural Network for Pattern Classification.,2009,"Wing-Cheong Wong, Siu-Yeung Cho, Chai Quek",IEEE Trans. Neural Networks 20: 1740-1755 ,TNN,Unranked
+117,Learning from an ensemble of Receptive Fields.,2009,"Hanlin Goh, Joo Hwe Lim, Chai Quek",IEEE ICCI 2009: 86-93,IEEEICCI,Unranked
+118,An Interval type-2 Neural Fuzzy Inference System based on Piaget's action-cognitive paradigm.,2009,"Eng-Yeow Cheu, See-Kiong Ng, Hiok Chai Quek",IEEE Congress on Evolutionary Computation 2009: 925-932,CEC,B
+119,A hypothalamic and piagetian fuzzy inference system: HtPFIS.,2009,"Eng-Yeow Cheu, See-Kiong Ng, Chai Quek",FUZZ-IEEE 2009: 1-6,FUZZIEEE,Unranked
+120,RSFCMAC: A novel rough set-based rule reduction approach for fuzzy CMAC architecture with yager-inference-scheme.,2009,"Ngoc Nam Nguyen, Chai Quek",FUZZ-IEEE 2009: 13-18,FUZZIEEE,Unranked
+121,ACPOP: Ambiguity correction-based pseudo-outer-product fuzzy rule identification algorithm.,2009,"Javan Tan, Chai Quek",FUZZ-IEEE 2009: 74-79,FUZZIEEE,Unranked
+122,T2-HyFIS-yager: Type 2 hybrid neural fuzzy inference system realizing yager inference.,2009,"Sau Wai Tung, Chai Quek, Cuntai Guan",FUZZ-IEEE 2009: 80-85,FUZZIEEE,Unranked
+123,A mamdani-takagi-sugeno based linguistic neural-fuzzy inference system for improved interpretability-accuracy representation.,2009,"Whye Loon Tung, Chai Quek",FUZZ-IEEE 2009: 367-372,FUZZIEEE,Unranked
+124,Rough Set-Based Neuro-Fuzzy System.,2009,"Kai Keng Ang, Chai Quek",Encyclopedia of Artificial Intelligence 2009: 1396-1403,AI,Australasian B
+125,Maximizing winning trades using a novel RSPOP fuzzy neural network intelligent stock trading system.,2008,"Andy Tan, Hiok Chai Quek, Kin Choong Yow",Appl. Intell. 29: 116-128 ,APIN,Unranked
+126,A novel recurrent neural network-based prediction system for option trading and hedging.,2008,"Chai Quek, Michel Pasquier, Neha Kumar",Appl. Intell. 29: 138-151 ,APIN,Unranked
+127,Ovarian cancer diagnosis with complementary learning fuzzy neural network.,2008,"Tuan Zea Tan, Chai Quek, Geok See Ng, Khalil Razvi",Artif. Intell. Medicine 43: 207-222 ,ARTMED,Unranked
+128,FCMAC-EWS: A bank failure early warning system based on a novel localized pattern learning and semantically associative fuzzy neural network.,2008,"Geok See Ng, Chai Quek, H. Jiang",Expert Syst. Appl. 34: 989-1003 ,ESWA,Unranked
+129,A nature inspired Ying-Yang approach for intelligent decision support in bank solvency analysis.,2008,"Minh Nhut Nguyen, Daming Shi, Chai Quek",Expert Syst. Appl. 34: 2576-2587 ,ESWA,Unranked
+130,GenSoFNN-Yager: A novel brain-inspired generic self-organizing neuro-fuzzy system realizing Yager inference.,2008,"Richard Jayadi Oentaryo, Michel Pasquier, Chai Quek",Expert Syst. Appl. 35: 1825-1840 ,ESWA,Unranked
+131,A cerebellar associative memory approach to option pricing and arbitrage trading.,2008,"Sintiani Dewi Teddy, Edmund Ming-Kit Lai, Hiok Chai Quek",Neurocomputing 71: 3303-3315 ,IJON,Unranked
+132,A Novel Biologically and Psychologically Inspired Fuzzy Decision Support System: Hierarchical Complementary Learning.,2008,"Tuan Zea Tan, Geok See Ng, Chai Quek",IEEE ACM Trans. Comput. Biol. Bioinform. 5: 67-79 ,TCBB,Unranked
+133,DCT-Yager FNN: A Novel Yager-Based Fuzzy Neural Network With the Discrete Clustering Technique.,2008,"A. Singh, Hiok Chai Quek, Siu-Yeung Cho",IEEE Trans. Neural Networks 19: 625-644 ,TNN,Unranked
+134,PSECMAC: A Novel Self-Organizing Multiresolution Associative Memory Architecture.,2008,"Sintiani Dewi Teddy, Chai Quek, Edmund Ming-Kit Lai",IEEE Trans. Neural Networks 19: 689-712 ,TNN,Unranked
+135,Application of a hierarchical coevolutionary fuzzy system for financial prediction and trading.,2008,"Haoming Huang, Michel Pasquier, Chai Quek",IEEE Congress on Evolutionary Computation 2008: 1252-1259,CEC,B
+136,A novel hybrid intelligent system: Genetic algorithm and rough set incorporated neural fuzzy inference system.,2008,"Di Wang, Geok See Ng, Chai Quek",IEEE Congress on Evolutionary Computation 2008: 2546-2553,CEC,B
+137,An adaptive fuzzy semantic memory model based on the computational principles of the human hippocampus.,2008,"Whye Loon Tung, Chai Quek",FUZZ-IEEE 2008: 1667-1674,FUZZIEEE,Unranked
+138,Adaptive control of infusion pump for Type-I diabetes control using a self-tuning regulator.,2008,"William Goh, Michel Pasquier, Chai Quek",ICARCV 2008: 1379-1384,ICARCV,C
+139,HyFIS-Yager-gDIC: A Self-organizing Hybrid Neural Fuzzy Inference System Realizing Yager Inference.,2008,"Sau Wai Tung, Chai Quek, Cuntai Guan",ICONIP  2008: 1137-1145,ICONIP,B
+140,TNFIS: Tree-based neural fuzzy inference system.,2008,"Eng-Yeow Cheu, Hiok Chai Quek, See-Kiong Ng",IJCNN 2008: 398-405,IJCNN,B
+141,A memory-based reinforcement learning algorithm for partially observable Markovian decision processes.,2008,"Lei Zheng, Siu-Yeung Cho, Chai Quek",IJCNN 2008: 800-805,IJCNN,B
+142,Learning associations of conjuncted fuzzy sets for data prediction.,2008,"Hanlin Goh, Joo-Hwee Lim, Chai Quek",IJCNN 2008: 1515-1522,IJCNN,B
+143,Adaptive training schema in Mamdani-type neuro-fuzzy models for data-analysis in dynamic system forecasting.,2008,"Wi-Meng Tan, Hiok Chai Quek",IJCNN 2008: 1733-1738,IJCNN,B
+144,Improving tractability of Clinical Decision Support system.,2008,"Tuan Zea Tan, Geok See Ng, Chai Quek",IJCNN 2008: 1997-2002,IJCNN,B
+145,Neuro-Fuzzy ICU Ventilator Patients Modeling.,2008,"Abdul Wahab, Hiok Chai Quek, A. H. Luah",SEDE 2008: 91-96,SEDE,Unranked
+146,Predicting the Impact of Anticipatory Action on U.S. Stock Market - An Event Study Using ANFIS (a neural fuzzy model).,2007,"Philip Y. K. Cheng, Hiok Chai Quek, M. L. Mah",Comput. Intell. 23: 117-141 ,CI,Unranked
+147,Biological Brain-Inspired Genetic Complementary Learning for Stock Market and Bank Failure Prediction.,2007,"Tuan Zea Tan, Chai Quek, Geok See Ng",Comput. Intell. 23: 236-261 ,CI,Unranked
+148,A novel cognitive interpretation of breast cancer thermography with complementary learning fuzzy neural memory structure.,2007,"Tuan Zea Tan, Chai Quek, Geok See Ng, E. Y. K. Ng",Expert Syst. Appl. 33: 652-666 ,ESWA,Unranked
+149,RLDDE: A novel reinforcement learning-based dimension and delay estimator for neural networks in time series prediction.,2007,"F. Liu, Geok See Ng, Chai Quek",Neurocomputing 70: 1331-1341 ,IJON,Unranked
+150,A brain-inspired fuzzy semantic memory model for learning and reasoning with uncertainty.,2007,"W. L. Tung, Chai Quek",Neural Comput. Appl. 16: 559-569 ,NCA,B
+151,A Novel Generic Hebbian Ordering-Based Fuzzy Rule Base Reduction Approach to Mamdani Neuro-Fuzzy System.,2007,"Feng Liu, Chai Quek, Geok See Ng",Neural Comput. 19: 1656-1680 ,NECO,Unranked
+152,Product Demand Forecasting with a Novel Fuzzy CMAC.,2007,"Daming Shi, Hiok Chai Quek, R. Tilani, Jiacai Fu",Neural Process. Lett. 25: 63-78 ,NPL,Unranked
+153,MCES: A Novel Monte Carlo Evaluative Selection Approach for Objective Feature Selections.,2007,"Kian Hong Quah, Chai Quek",IEEE Trans. Neural Networks 18: 431-448 ,TNN,Unranked
+154,Hierarchically Clustered Adaptive Quantization CMAC and Its Learning Convergence.,2007,"Sintiani Dewi Teddy, Edmund Ming-Kit Lai, Chai Quek",IEEE Trans. Neural Networks 18: 1658-1682 ,TNN,Unranked
+155,EpiList: An Intelligent Tutoring System Shell for Implicit Development of Generic Cognitive Skills That Support Bottom-Up Knowledge Construction.,2007,"Ghee Ming Goh, Hiok Chai Quek",IEEE Trans. Syst. Man Cybern. Part A 37: 58-71 ,TSMC,Unranked
+156,Predicting impact of news on stock price: An evaluation of neuro fuzzy systems.,2007,"Hiok Chai Quek, Philip Y. K. Cheng, A. Jain",IEEE Congress on Evolutionary Computation 2007: 1226-1233,CEC,B
+157,Type-2 GA-TSK fuzzy neural network.,2007,"Alvin Cai, Chai Quek, Douglas L. Maskell",IEEE Congress on Evolutionary Computation 2007: 1578-1585,CEC,B
+158,MNFS-FPM: A novel memetic neuro-fuzzy system based financial portfolio management.,2007,"Ernest Lumanpauw, Michel Pasquier, Chai Quek",IEEE Congress on Evolutionary Computation 2007: 2554-2561,CEC,B
+159,A foreign exchange portfolio management mechanism based on fuzzy neural networks.,2007,"Shuo Yao, Michel Pasquier, Chai Quek",IEEE Congress on Evolutionary Computation 2007: 2576-2583,CEC,B
+160,A computational intelligence system based on memory consolidation model.,2007,"Geok See Ng, Chai Quek",IEEE Congress on Evolutionary Computation 2007: 2630-2635,CEC,B
+161,A personalized approach to insulin regulation using brain-inspired neural sematic memory in diabetic glucose control.,2007,"H. K. Phee, W. L. Tung, Chai Quek",IEEE Congress on Evolutionary Computation 2007: 2644-2651,CEC,B
+162,Speech emotion recognition using auditory cortex.,2007,"Abdul Wahab, Chai Quek, Sussan De",IEEE Congress on Evolutionary Computation 2007: 2658-2664,CEC,B
+163,HiCEFS - A hierarchical coevolutionary approach for the dynamic generation of fuzzy system.,2007,"Haoming Huang, Michel Pasquier, Chai Quek",IEEE Congress on Evolutionary Computation 2007: 3426-3433,CEC,B
+164,Complementary Learning Fuzzy Neural Network: An Approach to Imbalanced Dataset.,2007,"Tuan Zea Tan, Geok See Ng, Chai Quek",IJCNN 2007: 2306-2311,IJCNN,B
+165,Complementary Decision Making System for Aiding Medical Image Diagnosis.,2007,"Tuan Zea Tan, Geok See Ng, Chai Quek",IJCNN 2007: 2324-2329,IJCNN,B
+166,Maximum reward reinforcement learning: A non-cumulative reward criterion.,2006,"Kian Hong Quah, Hiok Chai Quek",Expert Syst. Appl. 31: 351-359 ,ESWA,Unranked
+167,Structure and learning algorithms of a nonsingleton input fuzzy neural network based on the approximate analogical reasoning schema.,2006,"Hiok Chai Quek, Ruowei Zhou",Fuzzy Sets Syst. 157: 1814-1831 ,FSS,Unranked
+168,POP-TRAFFIC: a novel fuzzy neural approach to road traffic analysis and prediction.,2006,"Chai Quek, Michel Pasquier, Bernard Boon Seng Lim",IEEE Trans. Intell. Transp. Syst. 7: 133-146 ,TITS,Unranked
+169,Stock Trading Using RSPOP: A Novel Rough Set-Based Neuro-Fuzzy Approach.,2006,"Kai Keng Ang, Chai Quek",IEEE Trans. Neural Networks 17: 1301-1315 ,TNN,Unranked
+170,FCMAC-Yager: A Novel Yager-Inference-Scheme-Based Fuzzy CMAC.,2006,"J. Sim, W. L. Tung, Chai Quek",IEEE Trans. Neural Networks 17: 1394-1410 ,TNN,Unranked
+171,FITSK: online local learning with generic fuzzy input Takagi-Sugeno-Kang fuzzy framework for nonlinear system estimation.,2006,"Kian Hong Quah, Hiok Chai Quek",IEEE Trans. Syst. Man Cybern. Part B 36: 166-178 ,TSMC,Unranked
+172,FCMAC-BYY: Fuzzy CMAC Using Bayesian Ying-Yang Learning.,2006,"Minh Nhut Nguyen, Daming Shi, Chai Quek",IEEE Trans. Syst. Man Cybern. Part B 36: 1180-1190 ,TSMC,Unranked
+173,A Modified Generalized RBF Model with EM-based Learning Algorithm for Medical Applications.,2006,"Li Ma, Abdul Wahab, Chai Quek",CBMS 2006: 291-296,CBMS,Unranked
+174,Model Reference Adaptive Control on Glucose for the Treatment of Diabetes Mellitus.,2006,"Abdul Wahab, Y. K. Kong, Hiok Chai Quek",CBMS 2006: 315-320,CBMS,Unranked
+175,Genetic Complementary Learning for Translation Initialization Sites Prediction.,2006,"Tuan Zea Tan, Geok See Ng, Chai Quek",IEEE Congress on Evolutionary Computation 2006: 259-266,CEC,B
+176,A Brain Inspired Fuzzy Neuro-predictor for Bank Failure Analysis.,2006,"Chee H. Lee, Chai Quek, Douglas L. Maskell",IEEE Congress on Evolutionary Computation 2006: 2163-2170,CEC,B
+177,FCMAC-AARS: A Novel FNN Architecture for Stock Market Prediction and Trading.,2006,"Zaiyi Guo, Chai Quek, Douglas L. Maskell",IEEE Congress on Evolutionary Computation 2006: 2375-2381,CEC,B
+178,Ovarian Cancer Diagnosis Using Fuzzy Neural Networks Empowered By Evolutionary Clustering Technique.,2006,"Di Wang, Geok See Ng, Chai Quek",IEEE Congress on Evolutionary Computation 2006: 2764-2770,CEC,B
+179,Optimally Evolving Irregular-Shaped Membership Functions for Fuzzy Systems.,2006,"Haoming Huang, Michel Pasquier, Chai Quek",IEEE Congress on Evolutionary Computation 2006: 3309-3316,CEC,B
+180,A Hippocampal-inspired Self-Organising Learning Memory Model with Analogical Reasoning for Decision Support.,2006,"Whye Loon Tung, Chai Quek",FUZZ-IEEE 2006: 1154-1161,FUZZIEEE,Unranked
+181,A Modified Generalized RBF Model with EM-based Learning Algorithm.,2006,"Li Ma, Abdul Wahab, Chai Quek",IC-AI 2006: 262-270,ICAI,Unranked
+182,Speaker Verification System based on the Cerebellum Architecture.,2006,"Abdul Wahab, Mathias Dharmawirya, Chai Quek",IC-AI 2006: 271-277,ICAI,Unranked
+183,Ovarian Cancer Prognosis by Hemostasis and Complementary Learning.,2006,"Tuan Zea Tan, Geok See Ng, Hiok Chai Quek, Stephen C. L. Koh",ICONIP  2006: 145-154,ICONIP,B
+184,A Neuropsychologically-Inspired Computational Approach to the Generalization of Cerebellar Learning.,2006,"Sintiani Dewi Teddy, Edmund Ming-Kit Lai, Hiok Chai Quek",ICONIP  2006: 155-164,ICONIP,B
+185,A Brain-Inspired Cerebellar Associative Memory Approach to Option Pricing and Arbitrage Trading.,2006,"Sintiani Dewi Teddy, Edmund Ming-Kit Lai, Hiok Chai Quek",ICONIP  2006: 370-379,ICONIP,B
+186,Traffic Prediction Using Ying-Yang Fuzzy Cerebellar Model Articulation Controller.,2006,"Minh Nhut Nguyen, Daming Shi, Chai Quek, Geok See Ng",ICPR  2006: 258-261,ICPR,B
+187,Rough set-based neuro-fuzzy system.,2006,"Kai Keng Ang, Chai Quek",IJCNN 2006: 742-749,IJCNN,B
+188,A Novel Recurrent Neural Network Based Prediction System for Trading.,2006,"Chai Quek, Michel Pasquier, Neha Kumar",IJCNN 2006: 2090-2097,IJCNN,B
+189,Artificial Ventilation Modeling using Neuro-Fuzzy Hybrid System.,2006,"Feng Liu, Geok See Ng, Chai Quek, Tsee Foong Loh",IJCNN 2006: 2859-2864,IJCNN,B
+190,Clinical Diagnosis Using Proteomics and Complementary Learning.,2006,"Tuan Zea Tan, Chai Quek, Geok See Ng",IJCNN 2006: 2865-2872,IJCNN,B
+191,Digital Modulation Classification using Fuzzy Neural Networks.,2006,"Wenbo Zong, Edmund Ming-Kit Lai, Chai Quek",Chance Discoveries in Real World Decision Making 2006: 101-116,SCI,Unranked
+192,Chance Discovery using Complementary Learning Fuzzy Neural Network.,2006,"Tuan Zea Tan, Chai Quek, Geok See Ng",Chance Discoveries in Real World Decision Making 2006: 117-134,SCI,Unranked
+193,A NeuroCognitive Approach to Decision-Making in Chance Discovery.,2006,"W. L. Tung, Chai Quek",Chance Discoveries in Real World Decision Making 2006: 231-250,SCI,Unranked
+194,GenSo-FDSS: a neural-fuzzy decision support system for pediatric ALL cancer subtype identification using gene expression data.,2005,"W. L. Tung, Hiok Chai Quek",Artif. Intell. Medicine 33: 61-88 ,ARTMED,Unranked
+195,POP-Yager: A novel self-organizing fuzzy neural network based on the Yager inference.,2005,"Hiok Chai Quek, A. Singh",Expert Syst. Appl. 29: 229-242 ,ESWA,Unranked
+196,GA-TSKfnn: Parameters tuning of fuzzy neural network using genetic algorithms.,2005,"A. M. Tang, Hiok Chai Quek, Geok See Ng",Expert Syst. Appl. 29: 769-781 ,ESWA,Unranked
+197,RSPOP: Rough Set-Based Pseudo Outer-Product Fuzzy Rule Identification Algorithm.,2005,"Kai Keng Ang, Hiok Chai Quek",Neural Comput. 17: 205-243 ,NECO,Unranked
+198,Ovarian cancer diagnosis by hippocampus and neocortex-inspired learning memory structures.,2005,"Tuan Zea Tan, Hiok Chai Quek, Geok See Ng",Neural Networks 18: 818-825 ,NN,Unranked
+199,Reinforcement learning combined with a fuzzy adaptive learning control network (FALCON-R) for pattern classification.,2005,"Kian Hong Quah, Hiok Chai Quek, Graham Leedham",Pattern Recognit. 38: 513-526 ,PR,Unranked
+200,A New Algorithm for Order-Independent Clustering.,2005,"Li Ma, Abdul Wahab, Chai Quek",CAINE 2005: 344-349,CAINE,C
+201,Stock trading using PSEC and RSPOP: a novel evolving rough set-based neuro-fuzzy approach.,2005,"Kai Keng Ang, Chai Quek",Congress on Evolutionary Computation 2005: 1032-1039,CEC,B
+202,Maximizing winning trades using a rough set based other-product (RSPOP) fuzzy neural network intelligent stock trading system.,2005,"Andy Tan, Chai Quek",Congress on Evolutionary Computation 2005: 2076-2083,CEC,B
+203,GenSo-OPATS: a brain-inspired dynamically evolving option pricing model and arbitrage trading system.,2005,"Whye Loon Tung, Chai Quek",Congress on Evolutionary Computation 2005: 2429-2436,CEC,B
+204,Brain-inspired genetic complementary learning for stock market prediction.,2005,"Tuan Zea Tan, Chai Quek, Geok See Ng",Congress on Evolutionary Computation 2005: 2653-2660,CEC,B
+205,Predicting the impact of anticipatory action on US stock market - an event study using ANFIS (a neural fuzzy model).,2005,"Philip Y. K. Cheng, M. L. Mah, Chai Quek",Congress on Evolutionary Computation 2005: 2669-2676,CEC,B
+206,EpiList II: Explicit Instructions for Development of Generic Cognitive Skills.,2005,"Ghee Ming Goh, Chai Quek",ICCE 2005: 116-123,ICCE,C
+207,Self-Organizing Gaussian Fuzzy CMAC with Truth Value Restriction.,2005,"Minh Nhut Nguyen, Daming Shi, Chai Quek",ICITA  2005: 185-190,ICITA,Australasian C
+208,Fingerprint Minutia Recognition with Fuzzy Neural Network.,2005,"Guang Yang, Daming Shi, Chai Quek",ISNN  2005: 165-170,ISNN,C
+209,GenSo-EWS: a novel neural-fuzzy based early warning system for predicting bank failures.,2004,"W. L. Tung, Hiok Chai Quek, Philip Y. K. Cheng",Neural Networks 17: 567-587 ,NN,Unranked
+210,Novel Self-Organizing Takagi Sugeno Kang Fuzzy Neural Networks Based on ART-like Clustering.,2004,"Di Wang, Chai Quek, Geok See Ng",Neural Process. Lett. 20: 39-51 ,NPL,Unranked
+211,Noise Spectra Modeling Based on Fuzzy Neural Networks.,2004,"Abdul Wahab, Hiok Chai Quek, Geok See Ng, Eng Chong Tan",Neural Parallel Sci. Comput. 12: 123-134 ,NPSC,Unranked
+212,Falcon: neural fuzzy control and decision systems using FKP and PFKP clustering algorithms.,2004,"W. L. Tung, Chai Quek",IEEE Trans. Syst. Man Cybern. Part B 34: 686-695 ,TSMC,Unranked
+213,Modified discrete clustering technique: a novel approach to represent membership functions of fuzzy sets.,2004,"Yantao Zheng, Chai Quek, Geok See Ng",ICARCV 2004: 2023-2028,ICARCV,C
+214,CMAC with Fuzzy Logic Reasoning.,2004,"Daming Shi, Atul Harkisanka, Hiok Chai Quek",ICONIP 2004: 898-903,ICONIP,B
+215,POPFNN-CRI(S): pseudo outer product based fuzzy neural network using the compositional rule of inference and singleton fuzzifier.,2003,"Kai Keng Ang, Hiok Chai Quek, Michel Pasquier",IEEE Trans. Syst. Man Cybern. Part B 33: 838-849 ,TSMC,Unranked
+216,MCMAC-CVT: a novel on-line associative memory based CVT transmission control system.,2002,"Kai Keng Ang, Hiok Chai Quek, Abdul Wahab",Neural Networks 15: 219-236 ,NN,Unranked
+217,Antiforgery: a novel pseudo-outer product based fuzzy neural network driven signature verification system.,2002,"Hiok Chai Quek, Ruowei Zhou",Pattern Recognit. Lett. 23: 1795-1816 ,PRL,Unranked
+218,GenSoFNN: a generic self-organizing fuzzy neural network.,2002,"Whye Loon Tung, Hiok Chai Quek",IEEE Trans. Neural Networks 13: 1075-1086 ,TNN,Unranked
+219,Fuzzylot II: a novel soft computing approach to the realisation of autonomous driving manoeuvres for intelligent vehicles.,2002,"Michel Pasquier, Chai Quek, W. L. Tung, D. Chen, T. M. Yep",ICARCV 2002: 746-751,ICARCV,C
+220,DIC: A Novel Discrete Incremental Clustering Technique for the Derivation of Fuzzy Membership Functions.,2002,"W. L. Tung, Hiok Chai Quek",PRICAI 2002: 178-187,PRICAI,B
+221,BackPOLE: Back Propagation Based on Objective Learning Errors.,2002,"W. L. Tung, Hiok Chai Quek",PRICAI 2002: 265-274,PRICAI,B
+222,FuzzyDrive: A Fuzzy Rule-Based Auto Pilot System.,2002,"W. L. Tung, Hiok Chai Quek",PRICAI 2002: 601,PRICAI,B
+223,Pseudo-outer product based fuzzy neural network fingerprint verification system.,2001,"Hiok Chai Quek, K. B. Tan, Vijay K. Sagar",Neural Networks 14: 305-323 ,NN,Unranked
+224,Fuzzylot: a novel self-organising fuzzy-neural rule-based pilot system for automated vehicles.,2001,"Michel Pasquier, Hiok Chai Quek, Mary Toh",Neural Networks 14: 1099-1112 ,NN,Unranked
+225,The POP learning algorithms: reducing work in identifying fuzzy rules.,2001,"Hiok Chai Quek, Ruowei Zhou",Neural Networks 14: 1431-1445 ,NN,Unranked
+226,A novel approach to the derivation of fuzzy membership functions using the Falcon-MART architecture.,2001,"Hiok Chai Quek, W. L. Tung",Pattern Recognit. Lett. 22: 941-958 ,PRL,Unranked
+227,Discrete Clustering Technique for Automatic Derivation of Fuzzy Membership.,2001,"Hiok Chai Quek, Abdul Wahab",IS 2001: 92-95,ISCAICIS,Unranked
+228,Low-Cost Stereo Microphone Neural-Network Amplitude Spectral Subtraction.,2001,"Abdul Wahab, Hiok Chai Quek, Eng Chong Tan",IS 2001: 118-121,ISCAICIS,Unranked
+229,Issues in the performance measurement of constraint-satisfaction techniques.,2000,"J. C. Tay, Hiok Chai Quek",Artif. Intell. Eng. 14: 281-294 ,AEI,Unranked
+230,"Improved MCMAC with momentum, neighborhood, and averaged trapezoidal output.",2000,"Kai Keng Ang, Hiok Chai Quek",IEEE Trans. Syst. Man Cybern. Part B 30: 491-500 ,TSMC,Unranked
+231,POPFNN-AAR(S): a pseudo outer-product based fuzzy neural network.,1999,"Hiok Chai Quek, Ruowei Zhou",IEEE Trans. Syst. Man Cybern. Part B 29: 859-870 ,TSMC,Unranked
+232,TAP: a software architecture for an inquiry dialogue-based tutoring system.,1998,"Lung-Hsiang Wong, Hiok Chai Quek, Chee-Kit Looi",IEEE Trans. Syst. Man Cybern. Part A 28: 315-325 ,TSMC,Unranked
+233,"CSL (Part I): Modelling General N-ary, Logical CSPs.",1997,"J. C. Tay, S. Y. Huang, Hiok Chai Quek",ICTAI 1997: 414-421,ICTAI,B
+234,"CSL (Part II): Modelling General N-ary, Logical CSPs.",1997,"J. C. Tay, S. Y. Huang, Hiok Chai Quek",ICTAI 1997: 422-429,ICTAI,B
+235,Realisation of neural network controllers in integrated process supervision.,1996,"Hiok Chai Quek, P. W. Ng",Artif. Intell. Eng. 10: 135-142 ,AEI,Unranked
+236,POPFNN: A Pseudo Outer-product Based Fuzzy Neural Network.,1996,"Ruowei Zhou, Hiok Chai Quek",Neural Networks 9: 1569-1581 ,NN,Unranked
+237,DCBAM: A discrete chainable bidirectional associative memory.,1996,"Ruowei Zhou, Hiok Chai Quek",Pattern Recognit. Lett. 17: 985-999 ,PRL,Unranked
+238,An automatic fuzzy neural network driven signature verification system.,1996,"Ruowei Zhou, Chai Quek",ICNN 1996: 1034-1039,ICNN,Unranked
+239,A pseudo outer-product based fuzzy neural network and its rule-identification algorithm.,1996,"Ruowei Zhou, Chai Quek",ICNN 1996: 1156-1161,ICNN,Unranked
+240,Issues in Computerizing the Inquiry Dialoue Planning Process.,1996,"Lung-Hsiang Wong, Chee-Kit Looi, Hiok Chai Quek",Intelligent Tutoring Systems 1996: 252-260,ITS,B
+241,A novel single-pass thinning algorithm and an effective set of performance criteria.,1995,"Ruowei Zhou, Hiok Chai Quek, Geok See Ng",Pattern Recognit. Lett. 16: 1267-1275 ,PRL,Unranked
+242,Integrated Process Supervision: A Structured Approach to Expert Control.,1995,"Hiok Chai Quek, P. W. Ng, Michel Pasquier",EPIA 1995: 323-334,EPIA,National
+243,A pseudo outer-product based fuzzy neural network.,1995,"Ruowei Zhou, Chai Quek",ICNN 1995: 957-962,ICNN,Unranked
+244,The application of artificial intelligence techniques to the integrated control of complex dynamic physical systems.,1990,Hiok Chai Quek,"Heriot-Watt University, Edinburgh, UK, 1990",NAN,Unranked
+245,Coping with Complexity in Physical System Modelling.,1990,"Roy Leitch, Mark Eric Wiegand, Hiok Chai Quek",AI Commun. 3: 48-57 ,AICOM,Unranked

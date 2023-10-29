@@ -1,0 +1,190 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,A contrastive learning framework for Event Detection via semantic type prototype representation modelling.,2023,"Anran Hao, Anh Tuan Luu, Siu Cheung Hui, Jian Su",Neurocomputing 556: 126613 ,IJON,Unranked
+1,DML-PL: Deep metric learning based pseudo-labeling framework for class imbalanced semi-supervised learning.,2023,"Mi Yan, Siu Cheung Hui, Ning Li",Inf. Sci. 626: 641-657 ,ISCI,Unranked
+2,Multi-view entity type overdependency reduction for event argument extraction.,2023,"Jing Xu, Dandan Song, Siu Cheung Hui, Fei Li, Hao Wang",Knowl. Based Syst. 265: 110375 ,KBS,Unranked
+3,Dialogue State Distillation Network with Inter-slot Contrastive Learning for Dialogue State Tracking.,2023,"Jing Xu, Dandan Song, Chong Liu, Siu Cheung Hui, Fei Li, Qiang Ju, Xiaonan He, Jian Xie",AAAI 2023: 13834-13842,AAAI,A*
+4,GranCATs: Cross-Lingual Enhancement through Granularity-Specific Contrastive Adapters.,2023,"Meizhen Liu, Jiakai He, Xu Guo, Jianye Chen, Siu Cheung Hui, Fengyu Zhou",CIKM 2023: 1461-1471,CIKM,A
+5,Dialogue State Distillation Network with Inter-Slot Contrastive Learning for Dialogue State Tracking.,2023,"Jing Xu, Dandan Song, Chong Liu, Siu Cheung Hui, Fei Li, Qiang Ju, Xiaonan He, Jian Xie",CoRR abs/2302.08220 ,CORR,Unranked
+6,A Multimodal Data-driven Framework for Anxiety Screening.,2023,"Haimiao Mo, Shuai Ding, Siu Cheung Hui",CoRR abs/2303.09041 ,CORR,Unranked
+7,Semantic Pivoting Model for Effective Event Detection.,2022,"Anran Hao, Siu Cheung Hui, Jian Su",ACIIDS  2022: 534-546,ACIIDS,B
+8,EvidenceNet: Evidence Fusion Network for Fact Verification.,2022,"Zhendong Chen, Siu Cheung Hui, Fuzhen Zhuang, Lejian Liao, Fei Li, Meihuizi Jia, Jiaqi Li",WWW 2022: 2636-2645,WWW,A*
+9,Machine Learning for Food Review and Recommendation.,2022,"Tan Khang Le, Siu Cheung Hui",CoRR abs/2201.10978 ,CORR,Unranked
+10,Semantic Pivoting Model for Effective Event Detection.,2022,"Anran Hao, Siu Cheung Hui, Jian Su",CoRR abs/2211.00709 ,CORR,Unranked
+11,A segment enhanced span-based model for nested named entity recognition.,2021,"Fei Li, Zheng Wang, Siu Cheung Hui, Lejian Liao, Xinhua Zhu, Heyan Huang",Neurocomputing 465: 26-37 ,IJON,Unranked
+12,Modularized Interaction Network for Named Entity Recognition.,2021,"Fei Li, Zheng Wang, Siu Cheung Hui, Lejian Liao, Dandan Song, Jing Xu, Guoxiu He, Meihuizi Jia",ACL/IJCNLP  2021: 200-209,ACL,A*
+13,Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters.,2021,"Aston Zhang, Yi Tay, Shuai Zhang, Alvin Chan, Anh Tuan Luu, Siu Cheung Hui, Jie Fu",ICLR 2021,ICLR,A*
+14,Gated Character-aware Convolutional Neural Network for Effective Automated Essay Scoring.,2021,"Huanyu Bai, Zhilin Huang, Anran Hao, Siu Cheung Hui",WI/IAT 2021: 351-359,WEBI,Unranked
+15,Effective Named Entity Recognition with Boundary-aware Bidirectional Neural Networks.,2021,"Fei Li, Zheng Wang, Siu Cheung Hui, Lejian Liao, Dandan Song, Jing Xu",WWW 2021: 1695-1703,WWW,A*
+16,Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters.,2021,"Aston Zhang, Yi Tay, Shuai Zhang, Alvin Chan, Anh Tuan Luu, Siu Cheung Hui, Jie Fu",CoRR abs/2102.08597 ,CORR,Unranked
+17,Holographic Factorization Machines for Recommendation.,2019,"Yi Tay, Shuai Zhang, Anh Tuan Luu, Siu Cheung Hui, Lina Yao, Tran Dang Quang Vinh",AAAI 2019: 5143-5150,AAAI,A*
+18,Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks.,2019,"Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, Shuai Zhang, Shuohang Wang, Jie Fu, Siu Cheung Hui",ACL  2019: 1494-1503,ACL,A*
+19,Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives.,2019,"Yi Tay, Shuohang Wang, Anh Tuan Luu, Jie Fu, Minh C. Phan, Xingdi Yuan, Jinfeng Rao, Siu Cheung Hui, Aston Zhang",ACL  2019: 4922-4931,ACL,A*
+20,Collecting and Analyzing Multidimensional Data with Local Differential Privacy.,2019,"Ning Wang, Xiaokui Xiao, Yin Yang, Jun Zhao, Siu Cheung Hui, Hyejin Shin, Junbum Shin, Ge Yu",ICDE 2019: 638-649,ICDE,A*
+21,Compositional De-Attention Networks.,2019,"Yi Tay, Anh Tuan Luu, Aston Zhang, Shuohang Wang, Siu Cheung Hui",NeurIPS 2019: 6132-6142,NIPS,Unranked
+22,Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives.,2019,"Yi Tay, Shuohang Wang, Luu Anh Tuan, Jie Fu, Minh C. Phan, Xingdi Yuan, Jinfeng Rao, Siu Cheung Hui, Aston Zhang",CoRR abs/1905.10847 ,CORR,Unranked
+23,Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks.,2019,"Yi Tay, Aston Zhang, Luu Anh Tuan, Jinfeng Rao, Shuai Zhang, Shuohang Wang, Jie Fu, Siu Cheung Hui",CoRR abs/1906.04393 ,CORR,Unranked
+24,Collecting and Analyzing Multidimensional Data with Local Differential Privacy.,2019,"Ning Wang, Xiaokui Xiao, Yin Yang, Jun Zhao, Siu Cheung Hui, Hyejin Shin, Junbum Shin, Ge Yu",CoRR abs/1907.00782 ,CORR,Unranked
+25,Personalized question recommendation for English grammar learning.,2018,"Lanting Fang, Luu Anh Tuan, Siu Cheung Hui, Lenan Wu",Expert Syst. J. Knowl. Eng. 35 ,ES,Unranked
+26,Syntactic based approach for grammar question retrieval.,2018,"Lanting Fang, Luu Anh Tuan, Siu Cheung Hui, Lenan Wu",Inf. Process. Manag. 54: 184-202 ,IPM,Unranked
+27,Cross Temporal Recurrent Networks for Ranking Question Answer Pairs.,2018,"Yi Tay, Luu Anh Tuan, Siu Cheung Hui",AAAI 2018: 5512-5519,AAAI,A*
+28,SkipFlow: Incorporating Neural Coherence Features for End-to-End Automatic Text Scoring.,2018,"Yi Tay, Minh C. Phan, Luu Anh Tuan, Siu Cheung Hui",AAAI 2018: 5948-5955,AAAI,A*
+29,Learning to Attend via Word-Aspect Associative Fusion for Aspect-Based Sentiment Analysis.,2018,"Yi Tay, Luu Anh Tuan, Siu Cheung Hui",AAAI 2018: 5956-5963,AAAI,A*
+30,Reasoning with Sarcasm by Reading In-Between.,2018,"Yi Tay, Anh Tuan Luu, Siu Cheung Hui, Jian Su",ACL  2018: 1010-1020,ACL,A*
+31,Privacy Protection for Flexible Parametric Survival Models.,2018,"Thông T. Nguyên, Siu Cheung Hui",CIKM 2018: 1273-1282,CIKM,A
+32,"Compare, Compress and Propagate: Enhancing Neural Architectures with Alignment Factorization for Natural Language Inference.",2018,"Yi Tay, Anh Tuan Luu, Siu Cheung Hui",EMNLP 2018: 1565-1575,EMNLP,A*
+33,Multi-Granular Sequence Encoding via Dilated Compositional Units for Reading Comprehension.,2018,"Yi Tay, Anh Tuan Luu, Siu Cheung Hui",EMNLP 2018: 2141-2151,EMNLP,A*
+34,Attentive Gated Lexicon Reader with Contrastive Contextual Co-Attention for Sentiment Classification.,2018,"Yi Tay, Anh Tuan Luu, Siu Cheung Hui, Jian Su",EMNLP 2018: 3443-3453,EMNLP,A*
+35,Co-Stack Residual Affinity Networks with Multi-level Attention Refinement for Matching Text Sequences.,2018,"Yi Tay, Anh Tuan Luu, Siu Cheung Hui",EMNLP 2018: 4492-4502,EMNLP,A*
+36,Bayesian Inference for Survival Analysis in Private Setting.,2018,"Tan Thong Nguyen, Siu Cheung Hui",ICBK 2018: 314-321,ICBK,Unranked
+37,CoupleNet: Paying Attention to Couples with Coupled Attention for Relationship Recommendation.,2018,"Yi Tay, Luu Anh Tuan, Siu Cheung Hui",ICWSM 2018: 415-424,ICWSM,A
+38,Hermitian Co-Attention Networks for Text Matching in Asymmetrical Domains.,2018,"Yi Tay, Anh Tuan Luu, Siu Cheung Hui",IJCAI 2018: 4425-4431,IJCAI,A*
+39,Multi-Cast Attention Networks.,2018,"Yi Tay, Luu Anh Tuan, Siu Cheung Hui",KDD 2018: 2299-2308,KDD,A*
+40,Multi-Pointer Co-Attention Networks for Recommendation.,2018,"Yi Tay, Anh Tuan Luu, Siu Cheung Hui",KDD 2018: 2309-2318,KDD,A*
+41,Recurrently Controlled Recurrent Networks.,2018,"Yi Tay, Anh Tuan Luu, Siu Cheung Hui",NeurIPS 2018: 4736-4748,NIPS,Unranked
+42,Densely Connected Attention Propagation for Reading Comprehension.,2018,"Yi Tay, Anh Tuan Luu, Siu Cheung Hui, Jian Su",NeurIPS 2018: 4911-4922,NIPS,Unranked
+43,Hyperbolic Representation Learning for Fast and Efficient Neural Question Answering.,2018,"Yi Tay, Luu Anh Tuan, Siu Cheung Hui",WSDM 2018: 583-591,WSDM,A
+44,Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking.,2018,"Yi Tay, Luu Anh Tuan, Siu Cheung Hui",WWW 2018: 729-739,WWW,A*
+45,A Compare-Propagate Architecture with Alignment Factorization for Natural Language Inference.,2018,"Yi Tay, Luu Anh Tuan, Siu Cheung Hui",CoRR abs/1801.00102 ,CORR,Unranked
+46,Multi-Pointer Co-Attention Networks for Recommendation.,2018,"Yi Tay, Luu Anh Tuan, Siu Cheung Hui",CoRR abs/1801.09251 ,CORR,Unranked
+47,Multi-range Reasoning for Machine Comprehension.,2018,"Yi Tay, Luu Anh Tuan, Siu Cheung Hui",CoRR abs/1803.09074 ,CORR,Unranked
+48,Reasoning with Sarcasm by Reading In-between.,2018,"Yi Tay, Luu Anh Tuan, Siu Cheung Hui, Jian Su",CoRR abs/1805.02856 ,CORR,Unranked
+49,CoupleNet: Paying Attention to Couples with Coupled Attention for Relationship Recommendation.,2018,"Yi Tay, Anh Tuan Luu, Siu Cheung Hui",CoRR abs/1805.11535 ,CORR,Unranked
+50,Multi-Cast Attention Networks for Retrieval-based Question Answering and Response Prediction.,2018,"Yi Tay, Luu Anh Tuan, Siu Cheung Hui",CoRR abs/1806.00778 ,CORR,Unranked
+51,Co-Stack Residual Affinity Networks with Multi-level Attention Refinement for Matching Text Sequences.,2018,"Yi Tay, Luu Anh Tuan, Siu Cheung Hui",CoRR abs/1810.02938 ,CORR,Unranked
+52,Densely Connected Attention Propagation for Reading Comprehension.,2018,"Yi Tay, Luu Anh Tuan, Siu Cheung Hui, Jian Su",CoRR abs/1811.04210 ,CORR,Unranked
+53,Recurrently Controlled Recurrent Networks.,2018,"Yi Tay, Luu Anh Tuan, Siu Cheung Hui",CoRR abs/1811.09786 ,CORR,Unranked
+54,Submodular Memetic Approximation for Multiobjective Parallel Test Paper Generation.,2017,"Minh Luan Nguyen, Siu Cheung Hui, Alvis Cheuk M. Fong",IEEE Trans. Cybern. 47: 1562-1575 ,TCYB,Unranked
+55,Non-Parametric Estimation of Multiple Embeddings for Link Prediction on Dynamic Knowledge Graphs.,2017,"Yi Tay, Anh Tuan Luu, Siu Cheung Hui",AAAI 2017: 1243-1249,AAAI,A*
+56,Dyadic Memory Networks for Aspect-based Sentiment Analysis.,2017,"Yi Tay, Luu Anh Tuan, Siu Cheung Hui",CIKM 2017: 107-116,CIKM,A
+57,Multi-Task Neural Network for Non-discrete Attribute Prediction in Knowledge Graphs.,2017,"Yi Tay, Luu Anh Tuan, Minh C. Phan, Siu Cheung Hui",CIKM 2017: 1029-1038,CIKM,A
+58,Differentially Private Regression for Discrete-Time Survival Analysis.,2017,"Thông T. Nguyên, Siu Cheung Hui",CIKM 2017: 1199-1208,CIKM,A
+59,A Syntactic Parse-Key Tree-Based Approach for English Grammar Question Retrieval.,2017,"Lanting Fang, Anh Tuan Luu, Lenan Wu, Siu Cheung Hui",NLDB 2017: 353-365,NLDB,C
+60,Learning to Rank Question Answer Pairs with Holographic Dual LSTM Architecture.,2017,"Yi Tay, Minh C. Phan, Anh Tuan Luu, Siu Cheung Hui",SIGIR 2017: 695-704,SIGIR,A*
+61,Privacy-Preserving Mechanisms for Parametric Survival Analysis with Weibull Distribution.,2017,"Thông T. Nguyên, Siu Cheung Hui",TrustCom/BigDataSE/ICESS 2017: 456-463,TRUSTCOM,Unranked
+62,Random Semantic Tensor Ensemble for Scalable Knowledge Graph Link Prediction.,2017,"Yi Tay, Anh Tuan Luu, Siu Cheung Hui, Falk Brauer",WSDM 2017: 751-760,WSDM,A
+63,Translational Recommender Networks.,2017,"Yi Tay, Anh Tuan Luu, Siu Cheung Hui",CoRR abs/1707.05176 ,CORR,Unranked
+64,Learning to Rank Question Answer Pairs with Holographic Dual LSTM Architecture.,2017,"Yi Tay, Cong-Minh Phan, Anh Tuan Luu, Siu Cheung Hui",CoRR abs/1707.06372 ,CORR,Unranked
+65,Enabling Efficient Question Answer Retrieval via Hyperbolic Neural Networks.,2017,"Yi Tay, Anh Tuan Luu, Siu Cheung Hui",CoRR abs/1707.07847 ,CORR,Unranked
+66,Privacy-Preserving Mechanisms for Parametric Survival Analysis with Weibull Distribution.,2017,"Thông T. Nguyên, Siu Cheung Hui",CoRR abs/1708.04517 ,CORR,Unranked
+67,Multi-task Neural Network for Non-discrete Attribute Prediction in Knowledge Graphs.,2017,"Yi Tay, Anh Tuan Luu, Minh C. Phan, Siu Cheung Hui",CoRR abs/1708.04828 ,CORR,Unranked
+68,Differentially Private Regression for Discrete-Time Survival Analysis.,2017,"Thông T. Nguyên, Siu Cheung Hui",CoRR abs/1708.07436 ,CORR,Unranked
+69,SkipFlow: Incorporating Neural Coherence Features for End-to-End Automatic Text Scoring.,2017,"Yi Tay, Minh C. Phan, Luu Anh Tuan, Siu Cheung Hui",CoRR abs/1711.04981 ,CORR,Unranked
+70,Cross Temporal Recurrent Networks for Ranking Question Answer Pairs.,2017,"Yi Tay, Luu Anh Tuan, Siu Cheung Hui",CoRR abs/1711.07656 ,CORR,Unranked
+71,Learning to Attend via Word-Aspect Associative Fusion for Aspect-based Sentiment Analysis.,2017,"Yi Tay, Anh Tuan Luu, Siu Cheung Hui",CoRR abs/1712.05403 ,CORR,Unranked
+72,Utilizing Temporal Information for Taxonomy Construction.,2016,"Anh Tuan Luu, Siu Cheung Hui, See-Kiong Ng",Trans. Assoc. Comput. Linguistics 4: 551-564 ,TACL,Unranked
+73,Learning Term Embeddings for Taxonomic Relation Identification Using Dynamic Weighting Neural Network.,2016,"Anh Tuan Luu, Yi Tay, Siu Cheung Hui, See-Kiong Ng",EMNLP 2016: 403-413,EMNLP,A*
+74,Collecting and Analyzing Data from Smart Device Users with Local Differential Privacy.,2016,"Thông T. Nguyên, Xiaokui Xiao, Yin Yang, Siu Cheung Hui, Hyejin Shin, Junbum Shin",CoRR abs/1606.05053 ,CORR,Unranked
+75,A lattice-based approach for chemical structural retrieval.,2015,"Peng Tang, Siu Cheung Hui, Alvis Cheuk M. Fong",Eng. Appl. Artif. Intell. 39: 215-222 ,EAAI,Unranked
+76,Collective Biobjective Optimization Algorithm for Parallel Test Paper Generation.,2015,"Minh Luan Nguyen, Siu Cheung Hui, Alvis Cheuk Ming Fong",IJCAI 2015: 418-424,IJCAI,A*
+77,Connected Bond Recognition for Handwritten Chemical Skeletal Structural Formulas.,2014,"Peng Tang, Siu Cheung Hui, Chi-Wing Fu",ICFHR 2014: 122-127,ICFHR,B
+78,Chemical Symbol Feature Set for Handwritten Chemical Symbol Recognition.,2014,"Peng Tang, Siu Cheung Hui, Chi-Wing Fu",S+SSPR 2014: 312-322,SSPR,B
+79,Supervised term weighting centroid-based classifiers for text categorization.,2013,"Tam T. Nguyen, Kuiyu Chang, Siu Cheung Hui",Knowl. Inf. Syst. 35: 61-85 ,KAIS,Unranked
+80,Large-Scale Multiobjective Static Test Generation for Web-Based Testing with Integer Programming.,2013,"Minh Luan Nguyen, Siu Cheung Hui, Alvis Cheuk M. Fong",IEEE Trans. Learn. Technol. 6: 46-59 ,TLT,Unranked
+81,Online chemical symbol recognition for handwritten chemical expression recognition.,2013,"Peng Tang, Siu Cheung Hui, Chi-Wing Fu",ICIS 2013: 535-540,ACISICIS,Unranked
+82,A Progressive Structural Analysis Approach for Handwritten Chemical Formula Recognition.,2013,"Peng Tang, Siu Cheung Hui, Chi-Wing Fu",ICDAR 2013: 359-363,ICDAR,A
+83,Probabilistic Equivalence Verification Approach for Automatic Mathematical Solution Assessment.,2013,"Minh Luan Nguyen, Siu Cheung Hui, Alvis Cheuk M. Fong",IJCAI 2013: 2028-2034,IJCAI,A*
+84,A lattice-based approach for mathematical search using Formal Concept Analysis.,2012,"Tam T. Nguyen, Siu Cheung Hui, Kuiyu Chang",Expert Syst. Appl. 39: 5820-5828 ,ESWA,Unranked
+85,Divide-and-conquer memetic algorithm for online multi-objective test paper generation.,2012,"Minh Luan Nguyen, Siu Cheung Hui, Alvis Cheuk M. Fong",Memetic Comput. 4: 33-47 ,MEMETIC,Unranked
+86,Generation of Personalized Ontology Based on Consumer Emotion and Behavior Analysis.,2012,"Alvis Cheuk M. Fong, Baoyao Zhou, Siu Cheung Hui, Jie Tang, Guan Y. Hong",IEEE Trans. Affect. Comput. 3: 152-164 ,TAFFCO,Unranked
+87,A math-aware search engine for math question answering system.,2012,"Tam T. Nguyen, Kuiyu Chang, Siu Cheung Hui",CIKM 2012: 724-733,CIKM,A
+88,Two-View Online Learning.,2012,"Tam T. Nguyen, Kuiyu Chang, Siu Cheung Hui",PAKDD  2012: 74-85,PAKDD,B
+89,Adaptive Two-View Online Learning for Math Topic Classification.,2012,"Tam T. Nguyen, Kuiyu Chang, Siu Cheung Hui",ECML/PKDD  2012: 794-809,PKDD,Unranked
+90,Web-Based Mathematics Testing with Automatic Assessment.,2012,"Minh Luan Nguyen, Siu Cheung Hui, Alvis Cheuk M. Fong",PRICAI 2012: 347-358,PRICAI,B
+91,Content-Based Collaborative Filtering for Question Difficulty Calibration.,2012,"Minh Luan Nguyen, Siu Cheung Hui, Alvis Cheuk M. Fong",PRICAI 2012: 359-371,PRICAI,B
+92,Functional Feature Extraction and Chemical Retrieval.,2012,"Peng Tang, Siu Cheung Hui, Gao Cong",SSDBM 2012: 507-525,SSDBM,B
+93,Web content recommender system based on consumer behavior modeling.,2011,"Alvis Cheuk M. Fong, Baoyao Zhou, Siu Cheung Hui, Guan Y. Hong, TheAnh Do",IEEE Trans. Consumer Electron. 57: 962-969 ,TCE,Unranked
+94,Online structural analysis for handwritten chemical expression recognition.,2011,"Peng Tang, Siu Cheung Hui, Chi-Wing Fu",ICICS 2011: 1-5,IEEEICICS,Unranked
+95,A Divide-and-Conquer Tabu Search Approach for Online Test Paper Generation.,2011,"Minh Luan Nguyen, Siu Cheung Hui, Alvis Cheuk M. Fong",Australasian Conference on Artificial Intelligence 2011: 717-726,AUSAI,Unranked
+96,An efficient multi-objective optimization approach for Online Test Paper Generation.,2011,"Minh Luan Nguyen, Siu Cheung Hui, Alvis Cheuk M. Fong",MCDM 2011: 182-189,CIMCDM,Unranked
+97,Word Cloud Model for Text Categorization.,2011,"Tam T. Nguyen, Kuiyu Chang, Siu Cheung Hui",ICDM 2011: 487-496,ICDM,A*
+98,Distribution-Aware Online Classifiers.,2011,"Tam T. Nguyen, Kuiyu Chang, Siu Cheung Hui",IJCAI 2011: 1427-1432,IJCAI,A*
+99,Supervised term weighting for sentiment analysis.,2011,"Tam T. Nguyen, Kuiyu Chang, Siu Cheung Hui",ISI 2011: 89-94,ISI,C
+100,Towards a web-based progressive handwriting recognition environment for mathematical problem solving.,2010,"Ba-Quy Vuong, Yulan He, Siu Cheung Hui",Expert Syst. Appl. 37: 886-893 ,ESWA,Unranked
+101,Exploring ant-based algorithms for gene expression data analysis.,2009,"Yulan He, Siu Cheung Hui",Artif. Intell. Medicine 47: 105-119 ,ARTMED,Unranked
+102,Automatic summary assessment for intelligent tutoring systems.,2009,"Yulan He, Siu Cheung Hui, Thanh Tho Quan",Comput. Educ. 53: 890-899 ,CE,Unranked
+103,XFighter: an intelligent web content filtering system.,2009,"Alvis Cheuk M. Fong, Siu Cheung Hui, Pui Y. Lee",Kybernetes 38: 1541-1555 ,KYBERNETES,Unranked
+104,Associative Classification With Artificial Immune System.,2009,"Tien Dung Do, Siu Cheung Hui, Alvis Cheuk M. Fong, Bernard Fong",IEEE Trans. Evol. Comput. 13: 217-228 ,TEC,Unranked
+105,An Effective Clustering-based Approach for Conceptual Association Rules Mining.,2009,"Thanh Tho Quan, Linh N. Ngo, Siu Cheung Hui",RIVF 2009: 1-7,RIVF,Unranked
+106,Progressive structural analysis for dynamic recognition of on-line handwritten mathematical expressions.,2008,"Ba-Quy Vuong, Siu Cheung Hui, Yulan He",Pattern Recognit. Lett. 29: 647-655 ,PRL,Unranked
+107,"Erratum to ""Progressive structural analysis for dynamic recognition of on-line handwritten mathematical expressions"" [Pattern Recognition Letters 29 (5) (2008) 647-655].",2008,"Ba-Quy Vuong, Siu Cheung Hui, Yulan He",Pattern Recognit. Lett. 29: 1454 ,PRL,Unranked
+108,Ontology-Based Natural Query Retrieval Using Conceptual Graphs.,2008,"Thanh Tho Quan, Siu Cheung Hui",PRICAI 2008: 309-320,PRICAI,B
+109,Computational methods for Traditional Chinese Medicine: A survey.,2007,"Suryani Lukman, Yulan He, Siu Cheung Hui",Comput. Methods Programs Biomed. 88: 283-294 ,CMPB,Unranked
+110,A citation-based document retrieval system for finding research expertise.,2007,"Thanh Tho Quan, Siu Cheung Hui, Alvis Cheuk M. Fong",Inf. Process. Manag. 43: 248-264 ,IPM,Unranked
+111,A scholarly semantic web system for advanced search functions.,2007,"Thanh Tho Quan, Alvis Cheuk M. Fong, Siu Cheung Hui",Online Inf. Rev. 31: 353-364 ,OIR,Unranked
+112,Palmprint Verification for Controlling Access to Shared Computing Resources.,2007,"Maylor K. H. Leung, Alvis Cheuk M. Fong, Siu Cheung Hui",IEEE Pervasive Comput. 6: 40-47 ,PERVASIVE,Unranked
+113,Ontology-Based Fuzzy Retrieval for Digital Library.,2007,"Thanh Tho Quan, Siu Cheung Hui, Tru Hoang Cao",ICADL 2007: 95-98,ICADL,Unranked
+114,Enhancing Mobile Web Access Using Intelligent Recommendations.,2006,"Baoyao Zhou, Siu Cheung Hui, Kuiyu Chang",IEEE Intell. Syst. 21: 28-34 ,EXPERT,Unranked
+115,Efficient sequential access pattern mining for web recommendations.,2006,"Baoyao Zhou, Siu Cheung Hui, Alvis Cheuk M. Fong",Int. J. Knowl. Based Intell. Eng. Syst. 10: 155-168 ,KES,B
+116,A virtual electronic trading system for business-to-business e-commerce.,2006,"Alvis Cheuk M. Fong, Siu Cheung Hui",Kybernetes 35: 865-879 ,KYBERNETES,Unranked
+117,Structural analysis of chat messages for topic detection.,2006,"Haichao Dong, Siu Cheung Hui, Yulan He",Online Inf. Rev. 30: 496-516 ,OIR,Unranked
+118,Automatic fuzzy ontology generation for semantic help-desk support.,2006,"Thanh Tho Quan, Siu Cheung Hui, Alvis Cheuk M. Fong",IEEE Trans. Ind. Informatics 2: 155-164 ,TII,Unranked
+119,Automatic Fuzzy Ontology Generation for Semantic Web.,2006,"Thanh Tho Quan, Siu Cheung Hui, Alvis Cheuk M. Fong, Tru Hoang Cao",IEEE Trans. Knowl. Data Eng. 18: 842-856 ,TKDE,Unranked
+120,A Novel Ant-Based Clustering Approach for Document Clustering.,2006,"Yulan He, Siu Cheung Hui, Yongxiang Sim",AIRS 2006: 537-544,AIRS,C
+121,An Effective Approach for Periodic Web Personalization.,2006,"Baoyao Zhou, Siu Cheung Hui, Alvis Cheuk M. Fong",Web Intelligence 2006: 284-292,WEBI,Unranked
+122,A Web Usage Lattice Based Mining Approach for Intelligent Web Personalization.,2005,"Baoyao Zhou, Siu Cheung Hui, Alvis Cheuk M. Fong",Int. J. Web Inf. Syst. 1: 137-145 ,IJWIS,Unranked
+123,An intelligent categorization engine for bilingual web content filtering.,2005,"Pui Y. Lee, Siu Cheung Hui, Alvis Cheuk M. Fong",IEEE Trans. Multim. 7: 1183-1190 ,TMM,Unranked
+124,Automatic Timetabling Using Artificial Immune System.,2005,"Yulan He, Siu Cheung Hui, Edmund Ming-Kit Lai",AAIM 2005: 55-65,AAIM,C
+125,Associative Classification with Prediction Confidence.,2005,"Tien Dung Do, Siu Cheung Hui, Alvis Cheuk M. Fong",ICMLC 2005: 199-208,ICMLC,National
+126,Artificial Immune System for Associative Classification.,2005,"Tien Dung Do, Siu Cheung Hui, Alvis Cheuk M. Fong",ICNC  2005: 849-858,ICNC,National
+127,Mining Class Association Rules with Artificial Immune System.,2005,"Tien Dung Do, Siu Cheung Hui, Alvis Cheuk M. Fong",KES  2005: 94-100,KES,B
+128,Discovering and Visualizing Temporal-Based Web Access Behavior.,2005,"Baoyao Zhou, Siu Cheung Hui, Alvis Cheuk M. Fong",Web Intelligence 2005: 297-300,WEBI,Unranked
+129,Towards a BioAPI compliant face verification system.,2004,"X. Yuan, Siu Cheung Hui, Maylor K. H. Leung, Yongsheng Gao",Comput. Stand. Interfaces 26: 289-299 ,CSI,Unranked
+130,On-Demand Learning for a Wireless Campus.,2004,"Alvis Cheuk M. Fong, Siu Cheung Hui, C. T. Lui",IEEE Multim. 11: 50-60 ,IEEEMM,Unranked
+131,Shared-Storage Auction Ensures Data Availability.,2004,"Hady Wirawan Lauw, Siu Cheung Hui, Edmund Ming-Kit Lai",IEEE Internet Comput. 8: 22-28 ,INTERNET,Unranked
+132,Document retrieval from a citation database using conceptual clustering and co-word analysis.,2004,"Siu Cheung Hui, Alvis Cheuk M. Fong",Online Inf. Rev. 28: 22-32 ,OIR,Unranked
+133,CS-Mine: An Efficient WAP-Tree Mining for Web Access Patterns.,2004,"Baoyao Zhou, Siu Cheung Hui, Alvis Cheuk M. Fong",APWeb 2004: 523-532,APWEB,C
+134,A Fuzzy FCA-based Approach to Conceptual Clustering for Automatic Generation of Concept Hierarchy on Uncertainty Data.,2004,"Thanh Tho Quan, Siu Cheung Hui, Tru Hoang Cao",CLA 2004,CLA,Unranked
+135,Mining Association Rules Using Relative Confidence.,2004,"Tien Dung Do, Siu Cheung Hui, Alvis Cheuk M. Fong",IDEAL 2004: 306-313,IDEAL,C
+136,A Formal Concept Analysis Approach for Web Usage Mining.,2004,"Baoyao Zhou, Siu Cheung Hui, Kuiyu Chang",Intelligent Information Processing 2004: 437-440,IFIP12,Unranked
+137,An Efficient Approach for Mining Periodic Sequential Access Patterns.,2004,"Baoyao Zhou, Siu Cheung Hui, Alvis Cheuk M. Fong",PRICAI 2004: 485-494,PRICAI,B
+138,Automatic Generation of Ontology for Scholarly Semantic Web.,2004,"Thanh Tho Quan, Siu Cheung Hui, Alvis Cheuk M. Fong, Tru Hoang Cao",ISWC 2004: 726-740,SEMWEB,Unranked
+139,Monitoring scientific publications over the WWW.,2003,"Le Vu Ho, Siu Cheung Hui, Alvis Cheuk M. Fong",Electron. Libr. 21: 110-116 ,EL,Unranked
+140,Citation-Based Retrieval for Scholarly Publications.,2003,"Yulan He, Siu Cheung Hui, Alvis Cheuk M. Fong",IEEE Intell. Syst. 18: 58-65 ,EXPERT,Unranked
+141,A structural and content-based analysis for Web filtering.,2003,"Pui Y. Lee, Siu Cheung Hui, Alvis Cheuk M. Fong",Internet Res. 13: 27-37 ,INTR,Unranked
+142,Remote Video Monitoring Over the WWW.,2003,"Siu Cheung Hui, F. Wang",Multim. Tools Appl. 21: 173-195 ,MTA,Unranked
+143,A Multi-View Facial Analysis Technique for Identity Authentication.,2003,"Yongsheng Gao, Siu Cheung Hui, Alvis Cheuk M. Fong",IEEE Pervasive Comput. 2: 38-45 ,PERVASIVE,Unranked
+144,Facial expression recognition from line-based caricatures.,2003,"Yongsheng Gao, Maylor K. H. Leung, Siu Cheung Hui, M. W. Tananda",IEEE Trans. Syst. Man Cybern. Part A 33: 407-412 ,TSMC,Unranked
+145,A Web Mining Approach for Finding Expertise in Research Areas.,2003,"Thanh Tho Quan, Siu Cheung Hui, Alvis Cheuk M. Fong",CW 2003: 310-317,CW,C
+146,Intelligent Content-Based Retrieval for P2P Networks.,2003,"Maxim Rodionov, Siu Cheung Hui",CW 2003: 318-325,CW,C
+147,Mining Frequent Itemsets with Category-Based Constraints.,2003,"Tien Dung Do, Siu Cheung Hui, Alvis Cheuk M. Fong",Discovery Science 2003: 76-86,DIS,A
+148,Mining Multiple Clustering Data for Knowledge Discovery.,2003,"Thanh Tho Quan, Siu Cheung Hui, Alvis Cheuk M. Fong",Discovery Science 2003: 452-459,DIS,A
+149,Web Mining for Identifying Research Trends.,2003,"Thanh Tho Quan, Siu Cheung Hui, Alvis Cheuk M. Fong",ICADL 2003: 290-301,ICADL,Unranked
+150,Mining a Web Citation Database for Document Clustering.,2002,"Yulan He, Siu Cheung Hui, Alvis Cheuk M. Fong",Appl. Artif. Intell. 16: 283-302 ,AAI,Unranked
+151,Web Information Monitoring for Competitive Intelligence.,2002,"Bing Tan, Schubert Foo, Siu Cheung Hui",Cybern. Syst. 33: 225-251 ,CAS,Unranked
+152,Neural Networks for Web Content Filtering.,2002,"Pui Y. Lee, Siu Cheung Hui, Alvis Cheuk M. Fong",IEEE Intell. Syst. 17: 48-57 ,EXPERT,Unranked
+153,Web-based intelligent helpdesk-support environment.,2002,"Schubert Foo, Siu Cheung Hui, Peng-Chor Leong",Int. J. Syst. Sci. 33: 389-402 ,IJSYSC,Unranked
+154,Mining a Web Citation Database for author co-citation analysis.,2002,"Yulan He, Siu Cheung Hui",Inf. Process. Manag. 38: 491-508 ,IPM,Unranked
+155,Effective techniques for automatic extraction of Web publications.,2002,"Alvis Cheuk M. Fong, Siu Cheung Hui, Le Vu Ho",Online Inf. Rev. 26: 4-18 ,OIR,Unranked
+156,Motion analysis for face capturing.,2002,"X. Yuan, Siu Cheung Hui, Maylor K. H. Leung, Yongsheng Gao",ICARCV 2002: 491-496,ICARCV,C
+157,An adaptive protocol for real-time fax communications over Internet.,2001,"Chai Kiat Yeo, Siu Cheung Hui, Ing Yann Soon, Bu-Sung Lee",Comput. Commun. 24: 1134-1146 ,COMCOM,Unranked
+158,Towards an open protocol for secure online presence notification.,2001,"Alvis Cheuk M. Fong, Siu Cheung Hui, Chiew Tong Lau",Comput. Stand. Interfaces 23: 311-324 ,CSI,Unranked
+159,Wireless messaging services for mobile users.,2001,"David Hua Min Tan, Siu Cheung Hui, Chiew Tong Lau",J. Netw. Comput. Appl. 24: 151-166 ,JNCA,Unranked
+160,A unified messaging system on the Internet.,2001,"Chai Kiat Yeo, Siu Cheung Hui, Ing Yann Soon, Chiew Tong Lau",Microprocess. Microsystems 24: 523-530 ,MAM,Unranked
+161,Web information monitoring: an analysis of Web page updates.,2001,"Bing Tan, Schubert Foo, Siu Cheung Hui",Online Inf. Rev. 25: 6-19 ,OIR,Unranked
+162,IQCM: a robust and efficient multimedia data recovery mechanism.,2001,"Alvis Cheuk M. Fong, Siu Cheung Hui",IEEE Trans. Consumer Electron. 47: 831-837 ,TCE,Unranked
+163,Content-based video sequence interpretation.,2001,"Alvis Cheuk M. Fong, Siu Cheung Hui, Maylor K. H. Leung",IEEE Trans. Consumer Electron. 47: 873-879 ,TCE,Unranked
+164,Data mining for customer service support.,2000,"Siu Cheung Hui, G. Jha",Inf. Manag. 38: 1-13 ,IAM,Unranked
+165,A web-based Internet Java Phone for real-time voice communication.,2000,"Kia Ming Phua, Siu Cheung Hui, Chai Kiat Yeo",World Wide Web 3: 193-203 ,WWW,A*
+166,Towards a Unified Messaging Environment over the Internet.,1999,"Leonard Chong, Siu Cheung Hui, Chai Kiat Yeo",Cybern. Syst. 30: 533-549 ,CAS,Unranked
+167,Security considerations in the delivery of Web-based applications: a case study.,1999,"Schubert Foo, Peng-Chor Leong, Siu Cheung Hui, Shigong Liu",Inf. Manag. Comput. Secur. 7: 40-50 ,IMCS,Unranked
+168,Enhancing the quality of low bit-rate real-time Internet communication services.,1999,"Schubert Foo, Siu Cheung Hui, See Wai Yip",Internet Res. 9: 212-224 ,INTR,Unranked
+169,Design of an Internet fax and voice gateway.,1999,"Schubert Foo, Chai Kiat Yeo, Siu Cheung Hui, D. H. Xue",Microprocess. Microsystems 22: 395-402 ,MAM,Unranked
+170,RTFaxing: Internet Real-Time Faxing System.,1999,"Siu Cheung Hui, Chai Kiat Yeo, K. Jin",Netw. Inf. Syst. J. 2: 323-344 ,NIS,Unranked
+171,Supporting Real-Time Faxing over the Internet.,1999,"K. Jin, Siu Cheung Hui, Chai Kiat Yeo",ICSC 1999: 264-273,ICSC,Unranked
+172,A Hybrid Case-Based Reasoning and Neural Network Approach to Online Intelligent Fault Diagnosis.,1999,"G. Jha, Siu Cheung Hui, Schubert Foo",IIA/SOCO 1999,ICSCCD,Unranked
+173,Information Filtering of on-line News Using Dynamic Abstract Generation.,1998,"Siu Cheung Hui, Angela Goh",Cybern. Syst. 29: 577-591 ,CAS,Unranked
+174,A dynamic IP addressing system for Internet telephony applications.,1998,"Siu Cheung Hui, Schubert Foo",Comput. Commun. 21: 254-266 ,COMCOM,Unranked
+175,Towards a standards-based Internet telephony system.,1998,"Siu Cheung Hui, Schubert Foo",Comput. Stand. Interfaces 19: 89-103 ,CSI,Unranked
+176,A framework for evaluating Internet telephony systems.,1998,"Schubert Foo, Siu Cheung Hui",Internet Res. 8: 14-25 ,INTR,Unranked
+177,Enhancing the quality of Internet voice communication for Internet telephony systems.,1998,"K. V. Chin, Siu Cheung Hui, Schubert Foo",J. Netw. Comput. Appl. 21: 203-218 ,JNCA,Unranked
+178,A WWW-Assisted Fax System for Internet Fax-to-Fax Communication.,1998,"L. S. K. Chong, Siu Cheung Hui, Chai Kiat Yeo, Schubert Foo",World Wide Web 1: 209-219 ,WWW,A*
+179,Data Mining for Risk Analysis and Targeted Marketing.,1998,"G. Jha, Siu Cheung Hui",PRICAI 1998: 158-169,PRICAI,B
+180,Approaches for resolving dynamic IP addressing.,1997,"Schubert Foo, Siu Cheung Hui, See Wai Yip, Yulan He",Internet Res. 7: 208-216 ,INTR,Unranked
+181,System architectural design for delivering video mail over the World-Wide-Web.,1997,"Schubert Foo, Siu Cheung Hui",J. Comput. Sci. Technol. 12: 372-384 ,JCST,Unranked
+182,A telephone adapter for Internet telephony systems.,1997,"Schubert Foo, Chai Kiat Yeo, Siu Cheung Hui",Microprocess. Microsystems 21: 213-221 ,MAM,Unranked
+183,Cursive word reference line detection.,1997,"Jiren Wang, Maylor K. H. Leung, Siu Cheung Hui",Pattern Recognit. 30: 503-511 ,PR,Unranked
+184,Class based contextual logic for DOOD.,1996,"Jose Kolencheril Raphel, Siu Cheung Hui, Angela Goh",J. Comput. Sci. Technol. 11: 161-170 ,JCST,Unranked
+185,Coupling Object Orientation & Deduction - A Modelling Perspective.,1996,"E. Ravindran, Siu Cheung Hui",ASIAN 1996: 355-356,ASIAN,Unranked
+186,A syntactic business form classifier.,1995,"Antoine Ting, Maylor K. H. Leung, Siu Cheung Hui, Kai-Yun Chan",ICDAR 1995: 301-304,ICDAR,A
+187,A Multimedia Information System For IC Failure Analysis.,1993,"Siu Cheung Hui, Angela Goh, L. H. Lau",Comput. J. 36: 97-105 ,CJ,Unranked
+188,CLOG: A Class-Based Logic Language for Object-Oriented Databases.,1993,"Siu Cheung Hui, Angela Goh, Jose Kolencheril Raphel",ISOTAS 1993: 356-370,ISOTAS,Unranked

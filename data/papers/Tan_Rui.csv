@@ -1,0 +1,198 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,A multi-source data-driven model of lake water level based on variational modal decomposition and external factors with optimized bi-directional long short-term memory neural network.,2023,"Rui Tan, Yuan Hu, Zhaocai Wang",Environ. Model. Softw. 167: 105766 ,ENVSOFT,Unranked
+1,TouchKey: Touch to Generate Symmetric Keys by Skin Electric Potentials Induced by Powerline Radiation.,2023,"Yuchen Miao, Chaojie Gu, Zhenyu Yan, Sze Yiu Chau, Rui Tan, Qi Lin, Wen Hu, Shibo He, Jiming Chen",Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 7: 70:1-70:21 ,IMWUT,Unranked
+2,"Correction to ""Privacy-Preserving Blockchain-Based Federated Learning for IoT Devices"".",2023,"Yang Zhao, Jun Zhao, Linshan Jiang, Rui Tan, Dusit Niyato, Zengxiang Li, Lingjuan Lyu, Yingbo Liu",IEEE Internet Things J. 10: 973 ,IOTJ,Unranked
+3,Identification of Rubber Plantations in Southwestern China Based on Multi-Source Remote Sensing Data and Phenology Windows.,2023,"Guokun Chen, Zicheng Liu, Qingke Wen, Rui Tan, Yiwen Wang, Jingjing Zhao, Junxin Feng",Remote. Sens. 15: 1228 ,REMOTESENSING,Unranked
+4,Touch-to-Access Device Authentication For Indoor Smart Objects.,2023,"Zhenyu Yan, Qun Song, Rui Tan",IEEE Trans. Mob. Comput. 22: 1185-1197 ,TMC,Unranked
+5,Configuration-Adaptive Wireless Visual Sensing System With Deep Reinforcement Learning.,2023,"Siyuan Zhou, Duc Van Le, Rui Tan, Joy Qiping Yang, Daren Ho",IEEE Trans. Mob. Comput. 22: 5078-5091 ,TMC,Unranked
+6,Physics-directed Data Augmentation for Deep Model Transfer to Specific Sensor.,2023,"Wenjie Luo, Zhenyu Yan, Qun Song, Rui Tan",ACM Trans. Sens. Networks 19: 21:1-21:30 ,TOSN,Unranked
+7,LMAC: Efficient Carrier-Sense Multiple Access for LoRa.,2023,"Amalinda Gamage, Jansen Christian Liando, Chaojie Gu, Rui Tan, Mo Li, Olivier Seller",ACM Trans. Sens. Networks 19: 44:1-44:27 ,TOSN,Unranked
+8,Towards Efficient Personalized Driver Behavior Modeling with Machine Unlearning.,2023,"Qun Song, Rui Tan, Jianping Wang",CPS-IoT Week Workshops 2023: 31-36,CPSWEEK,Unranked
+9,Physics-Informed Machine Learning Model Generalization in AIoT: Opportunites and Challenges.,2023,"Rui Tan, Wenjie Luo",CPS-IoT Week Workshops 2023: 170-176,CPSWEEK,Unranked
+10,Susceptibility of Autonomous Driving Agents to Learning-Based Action-Space Attacks.,2023,"Yuting Wu, Xin Lou, Pengfei Zhou, Rui Tan, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer",DSN-W 2023: 76-83,DSN,A
+11,Uncertainty-Encoded Multi-Modal Fusion for Robust Object Detection in Autonomous Driving.,2023,"Yang Lou, Qun Song, Qian Xu, Rui Tan, Jianping Wang",ECAI 2023: 1593-1600,ECAI,A
+12,Phyllis: Physics-Informed Lifelong Reinforcement Learning for Data Center Cooling Control.,2023,"Ruihang Wang, Zhiwei Cao, Xin Zhou, Yonggang Wen, Rui Tan",e-Energy 2023: 114-126,EENERGY,Unranked
+13,BubCam: A Vision System for Automated Quality Inspection at Manufacturing Lines.,2023,"Jiale Chen, Duc Van Le, Rui Tan, Daren Ho",ICCPS 2023: 12-21,ICCPS,Unranked
+14,Effects of Learning-Based Action-Space Attacks on Autonomous Driving Agents.,2023,"Yuting Wu, Xin Lou, Pengfei Zhou, Rui Tan, Zbigniew Kalbarczyk, Ravishankar K. Iyer",ICCPS 2023: 239-240,ICCPS,Unranked
+15,Interpersonal Distance Tracking with mmWave Radar and IMUs.,2023,"Yimin Dai, Xian Shuai, Rui Tan, Guoliang Xing",IPSN 2023: 123-135,IPSN,A*
+16,Practically Adopting Human Activity Recognition.,2023,"Huatao Xu, Pengfei Zhou, Rui Tan, Mo Li",MobiCom 2023: 85:1-85:15,MOBICOM,A*
+17,Interpersonal Distance Tracking with mmWave Radar and IMUs.,2023,"Yimin Dai, Xian Shuai, Rui Tan, Guoliang Xing",CoRR abs/2303.12798 ,CORR,Unranked
+18,Uncertainty-Encoded Multi-Modal Fusion for Robust Object Detection in Autonomous Driving.,2023,"Yang Lou, Qun Song, Qian Xu, Rui Tan, Jianping Wang",CoRR abs/2307.16121 ,CORR,Unranked
+19,A data-assisted first-principle approach to modeling server outlet temperature in air free-cooled data centers.,2022,"Yingbo Liu, Duc Van Le, Rui Tan",Future Gener. Comput. Syst. 129: 225-235 ,FGCS,Unranked
+20,ILLOC: In-Hall Localization with Standard LoRaWAN Uplink Frames.,2022,"Dongfang Guo, Chaojie Gu, Linshan Jiang, Wenjie Luo, Rui Tan",Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 6: 13:1-13:26 ,IMWUT,Unranked
+21,Special issue on neural computing and applications 2021.,2022,"Kai Liu, Jingjing Cao, Yimin Yang, Wun-She Yap, Rui Tan, Zenghui Wang",Neural Comput. Appl. 34: 16169-16171 ,NCA,B
+22,DSSM: A Deep Neural Network with Spectrum Separable Module for Multi-Spectral Remote Sensing Image Segmentation.,2022,"Hongming Zhu, Rui Tan, Letong Han, Hongfei Fan, Zeju Wang, Bowen Du, Sicong Liu, Qin Liu",Remote. Sens. 14: 818 ,REMOTESENSING,Unranked
+23,LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications.,2022,"Huatao Xu, Pengfei Zhou, Rui Tan, Mo Li, Guobin Shen",GetMobile Mob. Comput. Commun. 26: 39-42 ,SIGMOBILE,Unranked
+24,Real-Time Cooling Power Attribution for Co-Located Data Center Rooms with Distinct Temperatures and Humidities.,2022,"Rongrong Wang, Duc Van Le, Rui Tan, Yew-Wah Wong",ACM Trans. Cyber Phys. Syst. 6: 7:1-7:28 ,TCPS,Unranked
+25,DeepMTD: Moving Target Defense for Deep Visual Sensing against Adversarial Examples.,2022,"Qun Song, Zhenyu Yan, Rui Tan",ACM Trans. Sens. Networks 18: 5:1-5:32 ,TOSN,Unranked
+26,Attack-aware Synchronization-free Data Timestamping in LoRaWAN.,2022,"Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang",ACM Trans. Sens. Networks 18: 10:1-10:31 ,TOSN,Unranked
+27,"Vulnerability Analysis, Robustness Verification, and Mitigation Strategy for Machine Learning-Based Power System Stability Assessment Model Under Adversarial Examples.",2022,"Chao Ren, Xiaoning Du, Yan Xu, Qun Song, Yang Liu, Rui Tan",IEEE Trans. Smart Grid 13: 1622-1632 ,TSG,Unranked
+28,"Air Free-Cooled Tropical Data Center: Design, Evaluation, and Learned Lessons.",2022,"Duc Van Le, Yingbo Liu, Rongrong Wang, Rui Tan, Lek Heng Ngoh",IEEE Trans. Sustain. Comput. 7: 579-594 ,TSUSC,Unranked
+29,Sardino: Ultra-Fast Dynamic Ensemble for Secure Visual Sensing at Mobile Edge.,2022,"Qun Song, Zhenyu Yan, Wenjie Luo, Rui Tan",EWSN 2022: 24-35,EWSN,B
+30,Toward Physics-Guided Safe Deep Reinforcement Learning for Green Data Center Cooling Control.,2022,"Ruihang Wang, Xinyi Zhang, Xin Zhou, Yonggang Wen, Rui Tan",ICCPS 2022: 159-169,ICCPS,Unranked
+31,Demo Abstract: 3D Simultaneous localization and Mapping with Power Network Electromagnetic Radiation.,2022,"Rongrong Wang, Zhenyu Yan, Yuting Wu, Rui Tan, Chris Xiaoxuan Lu",IPSN 2022: 491-492,IPSN,A*
+32,Telesonar: Robocall Alarm System by Detecting Echo Channel and Breath Timing.,2022,"Zhenyu Yan, Rui Tan, Qun Song, Chris Xiaoxuan Lu",SenSys 2022: 61-74,SENSYS,A*
+33,PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference.,2022,"Linshan Jiang, Qun Song, Rui Tan, Mo Li",SenSys 2022: 164-178,SENSYS,A*
+34,Indoor Smartphone SLAM with Learned Echoic Location Features.,2022,"Wenjie Luo, Qun Song, Zhenyu Yan, Rui Tan, Guosheng Lin",SenSys 2022: 489-503,SENSYS,A*
+35,Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation.,2022,"Nicholas Lim, Bryan Hooi, See-Kiong Ng, Yong Liang Goh, Renrong Weng, Rui Tan",SIGIR 2022: 1133-1143,SIGIR,A*
+36,Sardino: Ultra-Fast Dynamic Ensemble for Secure Visual Sensing at Mobile Edge.,2022,"Qun Song, Zhenyu Yan, Wenjie Luo, Rui Tan",CoRR abs/2204.08189 ,CORR,Unranked
+37,Indoor Smartphone SLAM with Learned Echoic Location Features.,2022,"Wenjie Luo, Qun Song, Zhenyu Yan, Rui Tan, Guosheng Lin",CoRR abs/2210.08493 ,CORR,Unranked
+38,Holographic-Type Communication for Digital Twin: A Learning-based Auction Approach.,2022,"Xiuyu Zhang, Minrui Xu, Rui Tan, Dusit Niyato",CoRR abs/2211.01016 ,CORR,Unranked
+39,PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference.,2022,"Linshan Jiang, Qun Song, Rui Tan, Mo Li",CoRR abs/2211.06716 ,CORR,Unranked
+40,A Partial Hierarchical Model for Online Low-Resolution Wear Particle Images Classification.,2021,"Xuxu Guo, Rui Tan, Mingyang Yang, Xinrong He, Jia Guo, Suli Fan, Junnan Hu, Taohong Zhang, Aziguli Wulamu",Comput. Intell. Neurosci. 2021: 6630247:1-6630247:10 ,CIN,Unranked
+41,Fast Detection of Deceptive Reviews by Combining the Time Series and Machine Learning.,2021,"Minjuan Zhong, Zhenjin Li, Shengzong Liu, Bo Yang, Rui Tan, Xilong Qu",Complex. 2021: 9923374:1-9923374:11 ,COMPLEXITY,Unranked
+42,Privacy-Preserving Blockchain-Based Federated Learning for IoT Devices.,2021,"Yang Zhao, Jun Zhao, Linshan Jiang, Rui Tan, Dusit Niyato, Zengxiang Li, Lingjuan Lyu, Yingbo Liu",IEEE Internet Things J. 8: 1817-1829 ,IOTJ,Unranked
+43,Joint IT-Facility Optimization for Green Data Centers via Deep Reinforcement Learning.,2021,"Xin Zhou, Ruihang Wang, Yonggang Wen, Rui Tan",IEEE Netw. 35: 255-262 ,NETWORK,Unranked
+44,Hybrid Attention Based Residual Network for Pansharpening.,2021,"Qin Liu, Letong Han, Rui Tan, Hongfei Fan, Weiqi Li, Hongming Zhu, Bowen Du, Sicong Liu",Remote. Sens. 13: 1962 ,REMOTESENSING,Unranked
+45,On Lightweight Privacy-preserving Collaborative Learning for Internet of Things by Independent Random Projections.,2021,"Linshan Jiang, Rui Tan, Xin Lou, Guosheng Lin",ACM Trans. Internet Things 2: 11:1-11:32 ,TIOT,Unranked
+46,Deep Reinforcement Learning for Tropical Air Free-cooled Data Center Control.,2021,"Duc Van Le, Rongrong Wang, Yingbo Liu, Rui Tan, Yew-Wah Wong, Yonggang Wen",ACM Trans. Sens. Networks 17: 24:1-24:28 ,TOSN,Unranked
+47,Learning-Based Simultaneous Detection and Characterization of Time Delay Attack in Cyber-Physical Systems.,2021,"Prakhar Ganesh, Xin Lou, Yao Chen, Rui Tan, David K. Y. Yau, Deming Chen, Marianne Winslett",IEEE Trans. Smart Grid 12: 3581-3593 ,TSG,Unranked
+48,Mixed Numerology Interference Recognition Approach for 5G NR.,2021,"Fan Wu, Rui Tan, Cong Zhang, Wenhao Fan, Xi Chen, Dusit Niyato, Yuan'an Liu",IEEE Wirel. Commun. Lett. 10: 2135-2139 ,WCL,Unranked
+49,Understanding Credibility of Adversarial Examples against Smart Grid: A Case Study for Voltage Stability Assessment.,2021,"Qun Song, Rui Tan, Chao Ren, Yan Xu",e-Energy 2021: 95-106,EENERGY,Unranked
+50,Split Convolutional Neural Networks for Distributed Inference on Concurrent IoT Sensors.,2021,"Jiale Chen, Duc Van Le, Rui Tan, Daren Ho",ICPADS 2021: 66-73,ICPADS,B
+51,An Electromagnetic Covert Channel based on Neural Network Architecture.,2021,"Chaojie Gu, Jiale Chen, Rui Tan, Linshan Jiang",ICPADS 2021: 177-184,ICPADS,B
+52,Dynamic Analysis of a Coupled Aquaculture Ship and Cage Mooring System in Deep Sea.,2021,"Pengchao Wang, Rui Tan, Yan He",ICRAI 2021: 130-135,ICRAI,Unranked
+53,PhyAug: Physics-Directed Data Augmentation for Deep Sensing Model Transfer in Cyber-Physical Systems.,2021,"Wenjie Luo, Zhenyu Yan, Qun Song, Rui Tan",IPSN 2021: 31-46,IPSN,A*
+54,Improving Quality Control with Industrial AIoT at HP Factories: Experiences and Learned Lessons.,2021,"Joy Qiping Yang, Siyuan Zhou, Duc Van Le, Daren Ho, Rui Tan",SECON 2021: 1-9,SECON,B
+55,EFCam: Configuration-Adaptive Fog-Assisted Wireless Cameras with Reinforcement Learning.,2021,"Siyuan Zhou, Duc Van Le, Joy Qiping Yang, Rui Tan, Daren Ho",SECON 2021: 1-9,SECON,B
+56,LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications.,2021,"Huatao Xu, Pengfei Zhou, Rui Tan, Mo Li, Guobin Shen",SenSys 2021: 220-233,SENSYS,A*
+57,Infrastructure-Free Smartphone Indoor Localization Using Room Acoustic Responses.,2021,"Dongfang Guo, Wenjie Luo, Chaojie Gu, Yuting Wu, Qun Song, Zhenyu Yan, Rui Tan",SenSys 2021: 343-344,SENSYS,A*
+58,When LoRa Meets EMR: Electromagnetic Covert Channels Can Be Super Resilient.,2021,"Cheng Shen, Tian Liu, Jun Huang, Rui Tan",SP 2021: 1304-1317,SP,A*
+59,Origin-Aware Next Destination Recommendation with Personalized Preference Attention.,2021,"Nicholas Lim, Bryan Hooi, See-Kiong Ng, Xueou Wang, Yong Liang Goh, Renrong Weng, Rui Tan",WSDM 2021: 382-390,WSDM,A
+60,PhyAug: Physics-Directed Data Augmentation for Deep Sensing Model Transfer in Cyber-Physical Systems.,2021,"Wenjie Luo, Zhenyu Yan, Qun Song, Rui Tan",CoRR abs/2104.01160 ,CORR,Unranked
+61,Attack-Aware Synchronization-Free Data Timestamping in LoRaWAN.,2021,"Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang",CoRR abs/2107.04833 ,CORR,Unranked
+62,Lightweight and Unobtrusive Data Obfuscation at IoT Edge for Remote Inference.,2020,"Dixing Xu, Mengyao Zheng, Linshan Jiang, Chaojie Gu, Rui Tan, Peng Cheng",IEEE Internet Things J. 7: 9540-9551 ,IOTJ,Unranked
+63,Covert Device Association Among Colluding Apps via Edge Processor Workload.,2020,"Hangtai Li, Yingbo Liu, Rui Tan",IEEE Internet Things J. 7: 10763-10772 ,IOTJ,Unranked
+64,Assessing and Mitigating Impact of Time Delay Attack: Case Studies for Power Grid Controls.,2020,"Xin Lou, Cuong Tran, Rui Tan, David K. Y. Yau, Zbigniew T. Kalbarczyk, Ambarish Kumar Banerjee, Prakhar Ganesh",IEEE J. Sel. Areas Commun. 38: 141-155 ,JSAC,Unranked
+65,A schedule randomization policy to mitigate timing attacks in WirelessHART networks.,2020,"Ankita Samaddar, Arvind Easwaran, Rui Tan",Real Time Syst. 56: 452-489 ,RTS,Unranked
+66,Stealthy Actuator Signal Attacks in Stochastic Control Systems: Performance and Limitations.,2020,"Chongrong Fang, Yifei Qi, Jiming Chen, Rui Tan, Wei Xing Zheng",IEEE Trans. Autom. Control. 65: 3927-3934 ,TAC,Unranked
+67,Cost and Pricing of Differential Privacy in Demand Reporting for Smart Grids.,2020,"Xin Lou, David K. Y. Yau, Rui Tan, Peng Cheng",IEEE Trans. Netw. Sci. Eng. 7: 2037-2051 ,TNSE,Unranked
+68,Resilience Bounds of Network Clock Synchronization with Fault Correction.,2020,"Linshan Jiang, Rui Tan, Arvind Easwaran",ACM Trans. Sens. Networks 16: 38:1-38:30 ,TOSN,Unranked
+69,Efficient Compute-Intensive Job Allocation in Data Centers via Deep Reinforcement Learning.,2020,"Deliang Yi, Xin Zhou, Yonggang Wen, Rui Tan",IEEE Trans. Parallel Distributed Syst. 31: 1474-1485 ,TPDS,Unranked
+70,Moving Target Defense Approach to Detecting Stuxnet-Like Attacks.,2020,"Jue Tian, Rui Tan, Xiaohong Guan, Zhanbo Xu, Ting Liu",IEEE Trans. Smart Grid 11: 291-300 ,TSG,Unranked
+71,Attack-Aware Data Timestamping in Low-Power Synchronization-Free LoRaWAN.,2020,"Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang",ICDCS 2020: 100-110,ICDCS,A
+72,LMAC: efficient carrier-sense multiple access for LoRa.,2020,"Amalinda Gamage, Jansen Christian Liando, Chaojie Gu, Rui Tan, Mo Li",MobiCom 2020: 43:1-43:13,MOBICOM,A*
+73,Experiences and Learned Lessons from an Air Free-Cooled Tropical Data Center Testbed.,2020,"Duc Van Le, Yingbo Liu, Rongrong Wang, Rui Tan, Lek Heng Ngoh",BuildSys@SenSys 2020: 160-169,SENSYS,A*
+74,Real-Time Cooling Power Attribution for Co-Located Data Center Rooms with Distinct Temperatures.,2020,"Rongrong Wang, Duc Van Le, Rui Tan, Yew-Wah Wong, Yonggang Wen",BuildSys@SenSys 2020: 190-199,SENSYS,A*
+75,Kalibre: Knowledge-based Neural Surrogate Model Calibration for Data Center Digital Twins.,2020,"Ruihang Wang, Xin Zhou, Linsen Dong, Yonggang Wen, Rui Tan, Li Chen, Guan Wang, Feng Zeng",BuildSys@SenSys 2020: 200-209,SENSYS,A*
+76,Covert Association of Applications on Edge Devices by Processor Workload.,2020,"Hangtai Li, Yingbo Liu, Rui Tan",CoRR abs/2001.01204 ,CORR,Unranked
+77,Toward Automated Calibration of Data Center Digital Twins: A Neural Surrogate Approach.,2020,"Ruihang Wang, Yuanlong Li, Linsen Dong, Xin Zhou, Yonggang Wen, Rui Tan, Li Chen, Guan Wang, Feng Zeng",CoRR abs/2001.10681 ,CORR,Unranked
+78,Real-time QoS Routing Scheme in SDN-based Robotic Cyber-Physical Systems.,2020,"Rutvij H. Jhaveri, Rui Tan, Sagar V. Ramani",CoRR abs/2004.04466 ,CORR,Unranked
+79,Managing Industrial Communication Delays with Software-Defined Networking.,2020,"Rutvij H. Jhaveri, Rui Tan, Arvind Easwaran, Sagar V. Ramani",CoRR abs/2004.06368 ,CORR,Unranked
+80,Resilience Bounds of Network Clock Synchronization with Fault Correction.,2020,"Linshan Jiang, Rui Tan, Arvind Easwaran",CoRR abs/2006.15832 ,CORR,Unranked
+81,Origin-Aware Next Destination Recommendation with Personalized Preference Attention.,2020,"Nicholas Lim, Bryan Hooi, See-Kiong Ng, Xueou Wang, Yong Liang Goh, Renrong Weng, Rui Tan",CoRR abs/2012.01915 ,CORR,Unranked
+82,Deep Reinforcement Learning for Tropical Air Free-Cooled Data Center Control.,2020,"Duc Van Le, Rongrong Wang, Yingbo Liu, Rui Tan, Yew-Wah Wong, Yonggang Wen",CoRR abs/2012.06834 ,CORR,Unranked
+83,On Lightweight Privacy-Preserving Collaborative Learning for Internet of Things by Independent Random Projections.,2020,"Linshan Jiang, Rui Tan, Xin Lou, Guosheng Lin",CoRR abs/2012.07626 ,CORR,Unranked
+84,Sliding-Mode Control With Multipower Approaching Law for DC-Link Voltage of Z-Source Photovoltaic Inverters.,2019,"Yan Chen, Rui Tan, Yong Zheng, Zhiyang Zhou",IEEE Access 7: 133812-133821 ,ACCESS,Unranked
+85,SlotSwapper: a schedule randomization protocol for real-time WirelessHART networks.,2019,"Ankita Samaddar, Arvind Easwaran, Rui Tan",SIGBED Rev. 16: 32-37 ,SIGBED,Unranked
+86,Resilient Clock Synchronization Using Power Grid Voltage.,2019,"Dima Rabadi, Rui Tan, David K. Y. Yau, Sreejaya Viswanathan, Hao Zheng, Peng Cheng",ACM Trans. Cyber Phys. Syst. 3: 31:1-31:26 ,TCPS,Unranked
+87,Streaming High-Definition Real-Time Video to Mobile Devices with Partially Reliable Transfer.,2019,"Jiyan Wu, Rui Tan, Ming Wang",IEEE Trans. Mob. Comput. 18: 458-472 ,TMC,Unranked
+88,Wearables Clock Synchronization Using Skin Electric Potentials.,2019,"Zhenyu Yan, Rui Tan, Yang Li, Jun Huang",IEEE Trans. Mob. Comput. 18: 2984-2998 ,TMC,Unranked
+89,Energy-Efficient Multipath TCP for Quality-Guaranteed Video Over Heterogeneous Wireless Networks.,2019,"Jiyan Wu, Rui Tan, Ming Wang",IEEE Trans. Multim. 21: 1593-1608 ,TMM,Unranked
+90,One-Hop Out-of-Band Control Planes for Multi-Hop Wireless Sensor Networks.,2019,"Chaojie Gu, Rui Tan, Xin Lou",ACM Trans. Sens. Networks 15: 40:1-40:29 ,TOSN,Unranked
+91,Enhanced Hidden Moving Target Defense in Smart Grids.,2019,"Jue Tian, Rui Tan, Xiaohong Guan, Ting Liu",IEEE Trans. Smart Grid 10: 2208-2223 ,TSG,Unranked
+92,Performance and Resilience of Cyber-Physical Control Systems With Reactive Attack Mitigation.,2019,"Subhash Lakshminarayana, Jabir Shabbir Karachiwala, Zhan-Teng Teo, Rui Tan, David K. Y. Yau",IEEE Trans. Smart Grid 10: 6640-6654 ,TSG,Unranked
+93,Differentially Private Collaborative Learning for the IoT Edge.,2019,"Linshan Jiang, Xin Lou, Rui Tan, Jun Zhao",EWSN 2019: 341-346,EWSN,B
+94,LoRa-Based Localization: Opportunities and Challenges.,2019,"Chaojie Gu, Linshan Jiang, Rui Tan",EWSN 2019: 413-418,EWSN,B
+95,Session details: Poster.,2019,Rui Tan,EWSN 2019,EWSN,B
+96,ICU Mortality Prediction Based on Key Risk Factors Identification.,2019,"Rui Tan, Shuai Ding, Jinxin Pan, Yan Qiu",HIS 2019: 89-97,HIS2,Unranked
+97,Assessing and mitigating impact of time delay attack: a case study for power grid frequency control.,2019,"Xin Lou, Cuong Tran, Rui Tan, David K. Y. Yau, Zbigniew T. Kalbarczyk",ICCPS 2019: 207-216,ICCPS,Unranked
+98,Toward Efficient Compute-Intensive Job Allocation for Green Data Centers: A Deep Reinforcement Learning Approach.,2019,"Deliang Yi, Xin Zhou, Yonggang Wen, Rui Tan",ICDCS 2019: 634-644,ICDCS,A
+99,On lightweight privacy-preserving collaborative learning for internet-of-things objects.,2019,"Linshan Jiang, Rui Tan, Xin Lou, Guosheng Lin",IoTDI 2019: 70-81,IOTDI,Unranked
+100,SoftLoRa - a LoRa-based platform for accurate and secure timing: poster abstract.,2019,"Chaojie Gu, Rui Tan, Jun Huang",IPSN 2019: 309-310,IPSN,A*
+101,Towards Touch-to-Access Device Authentication Using Induced Body Electric Potentials.,2019,"Zhenyu Yan, Qun Song, Rui Tan, Yang Li, Adams Wai-Kin Kong",MobiCom 2019: 23:1-23:16,MOBICOM,A*
+102,Managing Industrial Communication Delays with Software-Defined Networking.,2019,"Rutvij H. Jhaveri, Rui Tan, Arvind Easwaran, Sagar V. Ramani",RTCSA 2019: 1-11,RTCSA,B
+103,Moving target defense for embedded deep visual sensing against adversarial examples.,2019,"Qun Song, Zhenyu Yan, Rui Tan",SenSys 2019: 124-137,SENSYS,A*
+104,Control of Air Free-Cooled Data Centers in Tropics via Deep Reinforcement Learning.,2019,"Duc Van Le, Yingbo Liu, Rongrong Wang, Rui Tan, Yew-Wah Wong, Yonggang Wen",BuildSys@SenSys 2019: 306-315,SENSYS,A*
+105,Learning-Based Time Delay Attack Characterization for Cyber-Physical Systems.,2019,"Xin Lou, Cuong Tran, David K. Y. Yau, Rui Tan, Hong Wei Ng, Tom Zhengjia Fu, Marianne Winslett",SmartGridComm 2019: 1-6,SMARTGRIDCOMM,Unranked
+106,On Lightweight Privacy-Preserving Collaborative Learning for IoT Objects.,2019,"Linshan Jiang, Rui Tan, Xin Lou, Guosheng Lin",CoRR abs/1902.05197 ,CORR,Unranked
+107,Towards Touch-to-Access Device Authentication Using Induced Body Electric Potentials.,2019,"Zhenyu Yan, Qun Song, Rui Tan, Yang Li, Adams Wai-Kin Kong",CoRR abs/1902.07057 ,CORR,Unranked
+108,Performance and Resilience of Cyber-Physical Control Systems with Reactive Attack Mitigation.,2019,"Subhash Lakshminarayana, Jabir Shabbir Karachiwala, Zhan-Teng Teo, Rui Tan, David K. Y. Yau",CoRR abs/1904.09445 ,CORR,Unranked
+109,Secure Data Timestamping in Synchronization-Free LoRaWAN.,2019,"Chaojie Gu, Rui Tan, Jun Huang",CoRR abs/1905.01679 ,CORR,Unranked
+110,Moving Target Defense for Deep Visual Sensing against Adversarial Examples.,2019,"Qun Song, Zhenyu Yan, Rui Tan",CoRR abs/1905.13148 ,CORR,Unranked
+111,"Mobile Edge Computing, Blockchain and Reputation-based Crowdsourcing IoT Federated Learning: A Secure, Decentralized and Privacy-preserving System.",2019,"Yang Zhao, Jun Zhao, Linshan Jiang, Rui Tan, Dusit Niyato",CoRR abs/1906.10893 ,CORR,Unranked
+112,Challenges of Privacy-Preserving Machine Learning in IoT.,2019,"Mengyao Zheng, Dixing Xu, Linshan Jiang, Chaojie Gu, Rui Tan, Peng Cheng",CoRR abs/1909.09804 ,CORR,Unranked
+113,SlotSwapper: A Schedule Randomization protocol for Real-Time WirelessHART Networks.,2019,"Ankita Samaddar, Arvind Easwaran, Rui Tan",CoRR abs/1910.12000 ,CORR,Unranked
+114,Lightweight and Unobtrusive Privacy Preservation for Remote Inference via Edge Data Obfuscation.,2019,"Dixing Xu, Mengyao Zheng, Linshan Jiang, Chaojie Gu, Rui Tan, Peng Cheng",CoRR abs/1912.09859 ,CORR,Unranked
+115,Deep Room Recognition Using Inaudible Echos.,2018,"Qun Song, Chaojie Gu, Rui Tan",Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2: 135:1-135:28 ,IMWUT,Unranked
+116,Modeling and Detecting False Data Injection Attacks against Railway Traction Power Systems.,2018,"Subhash Lakshminarayana, Zhan-Teng Teo, Rui Tan, David K. Y. Yau",ACM Trans. Cyber Phys. Syst. 2: 28:1-28:29 ,TCPS,Unranked
+117,Exploiting Electrical Grid for Accurate and Secure Clock Synchronization.,2018,"Sreejaya Viswanathan, Rui Tan, David K. Y. Yau",ACM Trans. Sens. Networks 14: 12:1-12:32 ,TOSN,Unranked
+118,Natural Timestamps in Powerline Electromagnetic Radiation.,2018,"Yang Li, Rui Tan, David K. Y. Yau",ACM Trans. Sens. Networks 14: 13:1-13:30 ,TOSN,Unranked
+119,Resilience Bounds of Sensing-Based Network Clock Synchronization.,2018,"Rui Tan, Linshan Jiang, Arvind Easwaran, Jothi Prasanna Shanmuga Sundaram",ICPADS 2018: 894-902,ICPADS,B
+120,One-Hop Out-of-Band Control Planes for Low-Power Multi-Hop Wireless Networks.,2018,"Chaojie Gu, Rui Tan, Xin Lou, Dusit Niyato",INFOCOM 2018: 1187-1195,INFOCOM,A*
+121,Simultaneous Localization and Mapping with Power Network Electromagnetic Field.,2018,"Chris Xiaoxuan Lu, Yang Li, Peijun Zhao, Changhao Chen, Linhai Xie, Hongkai Wen, Rui Tan, Niki Trigoni",MobiCom 2018: 607-622,MOBICOM,A*
+122,Detecting Wireless Spy Cameras Via Stimulating and Probing.,2018,"Tian Liu, Ziyu Liu, Jun Huang, Rui Tan, Zhen Tan",MobiSys 2018: 243-255,MOBISYS,Unranked
+123,A testbed and data yields for studying data center energy efficiency and reliability.,2018,"Duc Van Le, Yingbo Liu, Rongrong Wang, Rui Tan, Lek Heng Ngoh",DATA@SenSys 2018: 17-18,SENSYS,A*
+124,Deep Room Recognition Using Inaudible Echos.,2018,"Qun Song, Chaojie Gu, Rui Tan",CoRR abs/1809.00531 ,CORR,Unranked
+125,Resilience Bounds of Sensing-Based Network Clock Synchronization.,2018,"Rui Tan, Linshan Jiang, Arvind Easwaran, Jothi Prasanna Shanmuga Sundaram",CoRR abs/1809.03165 ,CORR,Unranked
+126,LoRa-Based Localization: Opportunities and Challenges.,2018,"Chaojie Gu, Linshan Jiang, Rui Tan",CoRR abs/1812.11481 ,CORR,Unranked
+127,Collaborative Load Management with Safety Assurance in Smart Grids.,2017,"Rui Tan, Hoang Hai Nguyen, David K. Y. Yau",ACM Trans. Cyber Phys. Syst. 1: 12:1-12:27 ,TCPS,Unranked
+128,Modeling and Mitigating Impact of False Data Injection Attacks on Automatic Generation Control.,2017,"Rui Tan, Hoang Hai Nguyen, Yi Shyh Eddy Foo, David K. Y. Yau, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Hoay Beng Gooi",IEEE Trans. Inf. Forensics Secur. 12: 1609-1624 ,TIFS,Unranked
+129,ORBIT: A Platform for Smartphone-Based Data-Intensive Sensing Applications.,2017,"Mohammad-Mahdi Moazzami, Dennis E. Phillips, Rui Tan, Guoliang Xing",IEEE Trans. Mob. Comput. 16: 801-815 ,TMC,Unranked
+130,A Joint Data Compression and Encryption Approach for Wireless Energy Auditing Networks.,2017,"Rui Tan, Sheng-Yuan Chiu, Hoang Hai Nguyen, David K. Y. Yau, Deokwoo Jung",ACM Trans. Sens. Networks 13: 9:1-9:32 ,TOSN,Unranked
+131,Unsupervised Residential Power Usage Monitoring Using a Wireless Sensor Network.,2017,"Rui Tan, Dennis E. Phillips, Mohammad-Mahdi Moazzami, Guoliang Xing, Jinzhu Chen",ACM Trans. Sens. Networks 13: 20:1-20:28 ,TOSN,Unranked
+132,Opportunities and challenges of TV media in the big data era.,2017,"Chunjie Zhang, Wenqian Shang, Weiguo Lin, Yongan Li, Rui Tan",ICIS 2017: 551-553,ACISICIS,Unranked
+133,The reply and development strategy of cable TV industry in the era of big data.,2017,"Junjie Huang, Wenqian Shang, Weiguo Lin, Yongan Li, Rui Tan",ICIS 2017: 563-567,ACISICIS,Unranked
+134,Radio and television operators cloud computing infrastructure research system.,2017,"Chunjie Zhang, Wenqian Shang, Weiguo Lin, Yongan Li, Rui Tan",ICIS 2017: 679-681,ACISICIS,Unranked
+135,Analysis on radio and television development.,2017,"Yinan Yuwen, Jianxiang Cao, Weiguo Lin, Yongan Li, Rui Tan",ICIS 2017: 699-701,ACISICIS,Unranked
+136,Taming Asymmetric Network Delays for Clock Synchronization Using Power Grid Voltage.,2017,"Dima Rabadi, Rui Tan, David K. Y. Yau, Sreejaya Viswanathan",AsiaCCS 2017: 874-886,CCS,A*
+137,Hidden Moving Target Defense in Smart Grids.,2017,"Jue Tian, Rui Tan, Xiaohong Guan, Ting Liu",SPSR-SG@CPSWeek 2017: 21-26,CPSWEEK,Unranked
+138,Optimal Attack against Cyber-Physical Control Systems with Reactive Attack Mitigation.,2017,"Subhash Lakshminarayana, Zhan-Teng Teo, David K. Y. Yau, Rui Tan",e-Energy 2017: 179-190,EENERGY,Unranked
+139,Cost of differential privacy in demand reporting for smart grid economic dispatch.,2017,"Xin Lou, Rui Tan, David K. Y. Yau, Peng Cheng",INFOCOM 2017: 1-9,INFOCOM,A*
+140,Natural timestamping using powerline electromagnetic radiation.,2017,"Yang Li, Rui Tan, David K. Y. Yau",IPSN 2017: 55-66,IPSN,A*
+141,Natural timestamping using electrical power grid: demo abstract.,2017,"Sreejaya Viswanathan, Yang Li, Rui Tan",IPSN 2017: 269-270,IPSN,A*
+142,Application-Layer Clock Synchronization for Wearables Using Skin Electric Potentials Induced by Powerline Radiation.,2017,"Zhenyu Yan, Yang Li, Rui Tan, Jun Huang",SenSys 2017: 10:1-10:14,SENSYS,A*
+143,Optimal Attack against Cyber-Physical Control Systems with Reactive Attack Mitigation.,2017,"Subhash Lakshminarayana, Zhan-Teng Teo, David K. Y. Yau, Rui Tan",CoRR abs/1706.01628 ,CORR,Unranked
+144,Modeling and Detecting False Data Injection Attacks against Railway Traction Power Systems.,2017,"Subhash Lakshminarayana, Zhan-Teng Teo, Rui Tan, David K. Y. Yau",CoRR abs/1709.07574 ,CORR,Unranked
+145,Application-Layer Clock Synchronization for Wearables Using Skin Electric Potentials Induced by Powerline Radiation.,2017,"Zhenyu Yan, Yang Li, Rui Tan, Jun Huang",CoRR abs/1709.08296 ,CORR,Unranked
+146,One-Hop Out-of-Band Control Planes for Low-Power Multi-Hop Wireless Networks.,2017,"Chaojie Gu, Rui Tan, Xin Lou, Dusit Niyato",CoRR abs/1712.06056 ,CORR,Unranked
+147,Monitoring Aquatic Debris Using Smartphone-Based Robots.,2016,"Yu Wang, Rui Tan, Guoliang Xing, Jianxun Wang, Xiaobo Tan, Xiaoming Liu, Xiangmao Chang",IEEE Trans. Mob. Comput. 15: 1412-1426 ,TMC,Unranked
+148,Energy-Efficient Aquatic Environment Monitoring Using Smartphone-Based Robots.,2016,"Yu Wang, Rui Tan, Guoliang Xing, Jianxun Wang, Xiaobo Tan, Xiaoming Liu",ACM Trans. Sens. Networks 12: 25:1-25:28 ,TOSN,Unranked
+149,A Simulation Study on Smart Grid Resilience under Software-Defined Networking Controller Failures.,2016,"Uttam Ghosh, Xinshu Dong, Rui Tan, Zbigniew Kalbarczyk, David K. Y. Yau, Ravishankar K. Iyer",CPSS@AsiaCCS 2016: 52-58,CCS,A*
+150,On False Data Injection Attacks Against Railway Traction Power Systems.,2016,"Subhash Lakshminarayana, Zhan-Teng Teo, Rui Tan, David K. Y. Yau, Pablo Arboleya",DSN 2016: 383-394,DSN,A
+151,Optimal False Data Injection Attack against Automatic Generation Control in Power Grids.,2016,"Rui Tan, Hoang Hai Nguyen, Yi Shyh Eddy Foo, Xinshu Dong, David K. Y. Yau, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer, Hoay Beng Gooi",ICCPS 2016: 2:1-2:10,ICCPS,Unranked
+152,On applying fault detectors against false data injection attacks in cyber-physical control systems.,2016,"Quyen Dinh Vu, Rui Tan, David K. Y. Yau",INFOCOM 2016: 1-9,INFOCOM,A*
+153,Poster: Taming Asymmetric Delays for Network Time Protocol Using Electric Grid Frequency.,2016,"Dima Rabadi, Rui Tan, David K. Y. Yau, Sreejaya Viswanathan",MobiSys  2016: 73,MOBISYS,Unranked
+154,Exploiting Power Grid for Accurate and Secure Clock Synchronization in Industrial IoT.,2016,"Sreejaya Viswanathan, Rui Tan, David K. Y. Yau",RTSS 2016: 146-156,RTSS,A*
+155,Impact of integrity attacks on real-time pricing in smart grids.,2016,"Rui Tan, Varun Badrinath Krishna, David K. Y. Yau, Zbigniew T. Kalbarczyk",CoRR abs/1602.02860 ,CORR,Unranked
+156,Integrity Attacks on Real-Time Pricing in Electric Power Grids.,2015,"Rui Tan, Varun Badrinath Krishna, David K. Y. Yau, Zbigniew T. Kalbarczyk",ACM Trans. Inf. Syst. Secur. 18: 5:1-5:33 ,TISSEC,Unranked
+157,A Sensor System for High-Fidelity Temperature Distribution Forecasting in Data Centers.,2015,"Jinzhu Chen, Rui Tan, Yu Wang, Guoliang Xing, Xiaorui Wang, Xiaodong Wang, Bill Punch, Dirk Colbry",ACM Trans. Sens. Networks 11: 30:1-30:25 ,TOSN,Unranked
+158,Software-Defined Networking for Smart Grid Resilience: Opportunities and Challenges.,2015,"Xinshu Dong, Hui Lin, Rui Tan, Ravishankar K. Iyer, Zbigniew T. Kalbarczyk",CPSS@ASIACSS 2015: 61-68,CCS,A*
+159,ORBIT: a smartphone-based platform for data-intensive embedded sensing applications.,2015,"Mohammad-Mahdi Moazzami, Dennis E. Phillips, Rui Tan, Guoliang Xing",IPSN 2015: 83-94,IPSN,A*
+160,Samba: a smartphone-based robot system for energy-efficient aquatic environment monitoring.,2015,"Yu Wang, Rui Tan, Guoliang Xing, Jianxun Wang, Xiaobo Tan, Xiaoming Liu",IPSN 2015: 262-273,IPSN,A*
+161,JICE: Joint data compression and encryption for wireless energy auditing networks.,2015,"Sheng-Yuan Chiu, Hoang Hai Nguyen, Rui Tan, David K. Y. Yau, Deokwoo Jung",SECON 2015: 453-461,SECON,B
+162,Profiling Aquatic Diffusion Process UsingRobotic Sensor Networks.,2014,"Yu Wang, Rui Tan, Guoliang Xing, Jianxun Wang, Xiaobo Tan",IEEE Trans. Mob. Comput. 13: 880-893 ,TMC,Unranked
+163,Spatiotemporal Aquatic Field Reconstruction Using Cyber-Physical Robotic Sensor Systems.,2014,"Yu Wang, Rui Tan, Guoliang Xing, Xiaobo Tan, Jianxun Wang, Ruogu Zhou",ACM Trans. Sens. Networks 10: 57:1-57:27 ,TOSN,Unranked
+164,Battery capacity planning for grid-connected solar photovoltaic systems.,2014,"Binbin Chen, Kian Hoong Kwan, Rui Tan",APSIPA 2014: 1-5,APSIPA,Unranked
+165,Safety-assured collaborative load management in smart grids.,2014,"Hoang Hai Nguyen, Rui Tan, David K. Y. Yau",ICCPS 2014: 151-162,ICCPS,Unranked
+166,Aquatic debris monitoring using smartphone-based robotic sensors.,2014,"Yu Wang, Rui Tan, Guoliang Xing, Jianxun Wang, Xiaobo Tan, Xiaoming Liu, Xiangmao Chang",IPSN 2014: 13-24,IPSN,A*
+167,PTEC: A System for Predictive Thermal and Energy Control in Data Centers.,2014,"Jinzhu Chen, Rui Tan, Guoliang Xing, Xiaorui Wang",RTSS 2014: 218-227,RTSS,A*
+168,Fast and reliable prediction of domain-peptide binding affinity using coarse-grained structure models.,2013,"Feifei Tian, Rui Tan, Tailin Guo, Peng Zhou, Li Yang",Biosyst. 113: 40-49 ,BIOSYSTEMS,Unranked
+169,cellXpress: a fast and user-friendly software platform for profiling cellular phenotypes.,2013,"Danai Laksameethanasan, Rui Tan, Geraldine Toh, Lit-Hsin Loo",BMC Bioinform. 14: S4 ,BMCBI,Unranked
+170,Fusion-based volcanic earthquake detection and timing in wireless sensor networks.,2013,"Rui Tan, Guoliang Xing, Jinzhu Chen, Wen-Zhan Song, Renjie Huang",ACM Trans. Sens. Networks 9: 17:1-17:25 ,TOSN,Unranked
+171,System-level calibration for data fusion in wireless sensor networks.,2013,"Rui Tan, Guoliang Xing, Zhaohui Yuan, Xue Liu, Jianguo Yao",ACM Trans. Sens. Networks 9: 28:1-28:27 ,TOSN,Unranked
+172,Impact of integrity attacks on real-time pricing in smart grids.,2013,"Rui Tan, Varun Badrinath Krishna, David K. Y. Yau, Zbigniew Kalbarczyk",CCS 2013: 439-450,CCS,A*
+173,Volcanic earthquake timing using wireless sensor networks.,2013,"Guojin Liu, Rui Tan, Ruogu Zhou, Guoliang Xing, Wen-Zhan Song, Jonathan M. Lees",IPSN 2013: 91-102,IPSN,A*
+174,Go with the flow: toward workflow-oriented security assessment.,2013,"Binbin Chen, Zbigniew Kalbarczyk, David M. Nicol, William H. Sanders, Rui Tan, William G. Temple, Nils Ole Tippenhauer, An Hoa Vu, David K. Y. Yau",NSPW 2013: 65-76,NSPW,C
+175,Supero: A sensor system for unsupervised residential power usage monitoring.,2013,"Dennis E. Phillips, Rui Tan, Mohammad-Mahdi Moazzami, Guoliang Xing, Jinzhu Chen, David K. Y. Yau",PerCom 2013: 66-75,PERCOM,A*
+176,Adaptive calibration for fusion-based cyber-physical systems.,2012,"Rui Tan, Guoliang Xing, Xue Liu, Jianguo Yao, Zhaohui Yuan",ACM Trans. Embed. Comput. Syst. 11: 80:1-80:25 ,TECS,Unranked
+177,Exploiting Data Fusion to Improve the Coverage of Wireless Sensor Networks.,2012,"Rui Tan, Guoliang Xing, Benyuan Liu, Jianping Wang, Xiaohua Jia",IEEE/ACM Trans. Netw. 20: 450-462 ,TON,Unranked
+178,Fidelity-Aware Utilization Control for Cyber-Physical Surveillance Systems.,2012,"Jinzhu Chen, Rui Tan, Guoliang Xing, Xiaorui Wang, Xing Fu",IEEE Trans. Parallel Distributed Syst. 23: 1739-1751 ,TPDS,Unranked
+179,Accuracy-aware aquatic diffusion process profiling using robotic sensor networks.,2012,"Yu Wang, Rui Tan, Guoliang Xing, Jianxun Wang, Xiaobo Tan",IPSN 2012: 281-292,IPSN,A*
+180,Spatiotemporal Aquatic Field Reconstruction Using Robotic Sensor Swarm.,2012,"Yu Wang, Rui Tan, Guoliang Xing, Xiaobo Tan, Jianxun Wang, Ruogu Zhou",RTSS 2012: 205-214,RTSS,A*
+181,A High-Fidelity Temperature Distribution Forecasting System for Data Centers.,2012,"Jinzhu Chen, Rui Tan, Yu Wang, Guoliang Xing, Xiaorui Wang, Xiaodong Wang, Bill Punch, Dirk Colbry",RTSS 2012: 215-224,RTSS,A*
+182,Sensor Placement Algorithms for Fusion-Based Surveillance Networks.,2011,"Xiangmao Chang, Rui Tan, Guoliang Xing, Zhaohui Yuan, Chenyang Lu, Yixin Chen, Yixian Yang",IEEE Trans. Parallel Distributed Syst. 22: 1407-1414 ,TPDS,Unranked
+183,Performance Analysis of Real-Time Detection in Fusion-Based Sensor Networks.,2011,"Rui Tan, Guoliang Xing, Jianping Wang, Benyuan Liu",IEEE Trans. Parallel Distributed Syst. 22: 1564-1577 ,TPDS,Unranked
+184,Exploiting Reactive Mobility for Collaborative Target Detection in Wireless Sensor Networks.,2010,"Rui Tan, Guoliang Xing, Jianping Wang, Hing-Cheung So",IEEE Trans. Mob. Comput. 9: 317-332 ,TMC,Unranked
+185,Mobile Scheduling for Spatiotemporal Detection in Wireless Sensor Networks.,2010,"Guoliang Xing, Jianping Wang, Zhaohui Yuan, Rui Tan, Limin Sun, Qingfeng Huang, Xiaohua Jia, Hing-Cheung So",IEEE Trans. Parallel Distributed Syst. 21: 1851-1866 ,TPDS,Unranked
+186,Mobile element assisted cooperative localization for wireless sensor networks with obstacles.,2010,"Hongyang Chen, Qingjiang Shi, Rui Tan, H. Vincent Poor, Kaoru Sezaki",IEEE Trans. Wirel. Commun. 9: 956-963 ,TWC,Unranked
+187,Adaptive Calibration for Fusion-based Wireless Sensor Networks.,2010,"Rui Tan, Guoliang Xing, Xue Liu, Jianguo Yao, Zhaohui Yuan",INFOCOM 2010: 2124-2132,INFOCOM,A*
+188,Analysis of Quality of Surveillance in fusion-based sensor networks.,2010,"Rui Tan, Guoliang Xing, Xunteng Xu, Jianping Wang",PerCom Workshops 2010: 37-42,PERCOM,A*
+189,Fidelity-Aware Utilization Control for Cyber-Physical Surveillance Systems.,2010,"Jinzhu Chen, Rui Tan, Guoliang Xing, Xiaorui Wang, Xing Fu",RTSS 2010: 117-126,RTSS,A*
+190,System-Level Calibration for Fusion-Based Wireless Sensor Networks.,2010,"Rui Tan, Guoliang Xing, Zhaohui Yuan, Xue Liu, Jianguo Yao",RTSS 2010: 215-224,RTSS,A*
+191,Quality-Driven Volcanic Earthquake Detection Using Wireless Sensor Networks.,2010,"Rui Tan, Guoliang Xing, Jinzhu Chen, Wen-Zhan Song, Renjie Huang",RTSS 2010: 271-280,RTSS,A*
+192,Data fusion improves the coverage of wireless sensor networks.,2009,"Guoliang Xing, Rui Tan, Benyuan Liu, Jianping Wang, Xiaohua Jia, Chih-Wei Yi",MobiCom 2009: 157-168,MOBICOM,A*
+193,Impact of Data Fusion on Real-Time Detection in Sensor Networks.,2009,"Rui Tan, Guoliang Xing, Benyuan Liu, Jianping Wang",RTSS 2009: 323-332,RTSS,A*
+194,Collaborative Target Detection in Wireless Sensor Networks with Reactive Mobility.,2008,"Rui Tan, Guoliang Xing, Jianping Wang, Hing-Cheung So",IWQoS 2008: 150-159,IWQOS,Unranked
+195,Fast Sensor Placement Algorithms for Fusion-Based Target Detection.,2008,"Zhaohui Yuan, Rui Tan, Guoliang Xing, Chenyang Lu, Yixin Chen, Jianping Wang",RTSS 2008: 103-112,RTSS,A*
+196,Traffic Video Segmentation Using Adaptive-K Gaussian Mixture Model.,2006,"Rui Tan, Hong Huo, Jin Qian, Tao Fang",IWICPAS 2006: 125-134,IWICPAS,Unranked

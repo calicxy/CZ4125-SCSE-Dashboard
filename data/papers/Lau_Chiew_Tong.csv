@@ -1,0 +1,115 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,MIGPerf: A Comprehensive Benchmark for Deep Learning Training and Inference Workloads on Multi-Instance GPUs.,2023,"Huaizheng Zhang, Yuanming Li, Wencong Xiao, Yizheng Huang, Xing Di, Jianxiong Yin, Simon See, Yong Luo, Chiew Tong Lau, Yang You",CoRR abs/2301.00407 ,CORR,Unranked
+1,Active-Learning-as-a-Service: An Efficient MLOps System for Data-Centric AI.,2022,"Yizheng Huang, Huaizheng Zhang, Yuanming Li, Chiew Tong Lau, Yang You",CoRR abs/2207.09109 ,CORR,Unranked
+2,MG-Join: A Scalable Join for Massively Parallel Multi-GPU Architectures.,2021,"Johns Paul, Shengliang Lu, Bingsheng He, Chiew Tong Lau",SIGMOD Conference 2021: 1413-1425,SIGMOD,A*
+3,Classification of Travel Patterns Including Wandering Based on Bi-directional Long Short-Term Memory Networks.,2021,"Nhu Khue Vuong, Yong Liu, Syin Chan, Chiew Tong Lau, Zhenghua Chen, Min Wu, Xiaoli Li",Generalization with Deep Learning 2021: 279-301,COLLECTIONS,Unranked
+4,Revisiting hash join on graphics processors: a decade later.,2020,"Johns Paul, Bingsheng He, Shengliang Lu, Chiew Tong Lau",Distributed Parallel Databases 38: 771-793 ,DPD,Unranked
+5,Improving Execution Efficiency of Just-in-time Compilation based Query Processing on GPUs.,2020,"Johns Paul, Bingsheng He, Shengliang Lu, Chiew Tong Lau",Proc. VLDB Endow. 14: 202-214 ,PVLDB,Unranked
+6,Deep learning with long short-term memory networks for classification of dementia related travel patterns.,2020,"Nhu Khue Vuong, Yong Liu, Syin Chan, Chiew Tong Lau, Zhenghua Chen, Min Wu, Xiaoli Li",EMBC 2020: 5563-5566,EMBC,Unranked
+7,Revisiting Hash Join on Graphics Processors: A Decade Later.,2019,"Johns Paul, Bingsheng He, Shengliang Lu, Chiew Tong Lau",ICDE Workshops 2019: 294-299,ICDE,A*
+8,GPU-Based Hardware Platforms.,2019,"Johns Paul, Bingsheng He, Chiew Tong Lau",Encyclopedia of Big Data Technologies 2019,BDT,Unranked
+9,Search and Query Accelerators.,2019,"Johns Paul, Bingsheng He, Chiew Tong Lau",Encyclopedia of Big Data Technologies 2019,BDT,Unranked
+10,Power spectrum entropy based detection and mitigation of low-rate DoS attacks.,2018,"Zhaomin Chen, Chai Kiat Yeo, Bu-Sung Lee, Chiew Tong Lau",Comput. Networks 136: 80-94 ,CN,National
+11,Leveraging social media news to predict stock index movement using RNN-boost.,2018,"Weiling Chen, Chai Kiat Yeo, Chiew Tong Lau, Bu-Sung Lee",Data Knowl. Eng. 118: 14-24 ,DKE,Unranked
+12,Evolutionary multi-objective optimization based ensemble autoencoders for image outlier detection.,2018,"Zhaomin Chen, Chai Kiat Yeo, Bu-Sung Lee, Chiew Tong Lau, Yaochu Jin",Neurocomputing 309: 192-200 ,IJON,Unranked
+13,Many-core needs fine-grained scheduling: A case study of query processing on Intel Xeon Phi processors.,2018,"Xuntao Cheng, Bingsheng He, Mian Lu, Chiew Tong Lau",J. Parallel Distributed Comput. 120: 395-404 ,JPDC,Unranked
+14,Unsupervised rumor detection based on users' behaviors using neural networks.,2018,"Weiling Chen, Yan Zhang, Chai Kiat Yeo, Chiew Tong Lau, Bu-Sung Lee",Pattern Recognit. Lett. 105: 226-233 ,PRL,Unranked
+15,Query Processing on OpenCL-Based FPGAs: Challenges and Opportunities.,2018,"Johns Paul, Bingsheng He, Chiew Tong Lau",ICPADS 2018: 937-945,ICPADS,B
+16,Exploiting Behavioral Differences to Detect Fake Ne.,2018,"Weiling Chen, Chenyan Yang, Gibson Cheng, Yan Zhang, Chai Kiat Yeo, Chiew Tong Lau, Bu-Sung Lee",UEMCON 2018: 879-884,UEMCOM,Unranked
+17,Autoencoder-based network anomaly detection.,2018,"Zhaomin Chen, Chai Kiat Yeo, Bu-Sung Lee, Chiew Tong Lau",WTS 2018: 1-5,WTS,Unranked
+18,Detection of network anomalies using Improved-MSPCA with sketches.,2017,"Zhaomin Chen, Chai Kiat Yeo, Bu-Sung Lee, Chiew Tong Lau",Comput. Secur. 65: 314-328 ,COMPSEC,Unranked
+19,A Declarative Optimization Engine for Resource Provisioning of Scientific Workflows in Geo-Distributed Clouds.,2017,"Amelie Chi Zhou, Bingsheng He, Xuntao Cheng, Chiew Tong Lau",IEEE Trans. Parallel Distributed Syst. 28: 647-661 ,TPDS,Unranked
+20,A Study of Main-Memory Hash Joins on Many-core Processor: A Case with Intel Knights Landing Architecture.,2017,"Xuntao Cheng, Bingsheng He, Xiaoli Du, Chiew Tong Lau",CIKM 2017: 657-666,CIKM,A
+21,A Framework of Real-time Wandering Management for Person with Dementia.,2017,"Ashish Kumar, Maode Ma, Chiew Tong Lau, Syin Chan",ICCMS 2017: 146-150,ICCMS,Unranked
+22,Multi-objective Optimizations in Geo-Distributed Data Analytics Systems.,2017,"Zhaojie Niu, Bingsheng He, Amelie Chi Zhou, Chiew Tong Lau",ICPADS 2017: 519-528,ICPADS,B
+23,A novel anomaly detection system using feature-based MSPCA with sketch.,2017,"Zhaomin Chen, Chai Kiat Yeo, Bu-Sung Lee, Chiew Tong Lau",WOCC 2017: 1-6,WOCC,Unranked
+24,Performance evaluation of cyber reconnaissance tools.,2016,"Ha-Thanh Le, Peter Loh, Chiew Tong Lau",Int. J. Inf. Priv. Secur. Integr. 2: 177-196 ,IJIPSI,Unranked
+25,A unified grid-based wandering pattern detection algorithm.,2016,"Ashish Kumar, Chiew Tong Lau, Syin Chan, Maode Ma, William D. Kearns",EMBC 2016: 5401-5404,EMBC,Unranked
+26,Efficient Query Processing on Many-core Architectures: A Case Study with Intel Xeon Phi Processor.,2016,"Xuntao Cheng, Bingsheng He, Mian Lu, Chiew Tong Lau, Huynh Phung Huynh, Rick Siow Mong Goh",SIGMOD Conference 2016: 2081-2084,SIGMOD,A*
+27,A Channel Allocation Based Self-Coexistence Scheme for Homogeneous Ad-Hoc Networks.,2015,"Vishram Mishra, Chiew Tong Lau, Syin Chan",IEEE Wirel. Commun. Lett. 4: 545-548 ,WCL,Unranked
+28,Energy-Efficient Query Processing on Embedded CPU-GPU Architectures.,2015,"Xuntao Cheng, Bingsheng He, Chiew Tong Lau",DaMoN 2015: 10:1-10:7,DAMON,Unranked
+29,Preliminary results of using inertial sensors to detect dementia- related wandering patterns.,2015,"Nhu Khue Vuong, Syin Chan, Chiew Tong Lau, Stephen Yew Wei Chan, Philip Lin Kiat Yap, S. H. Annabel Chen",EMBC 2015: 3703-3706,EMBC,Unranked
+30,A Declarative Optimization Engine for Resource Provisioning of Scientific Workflows in IaaS Clouds.,2015,"Amelie Chi Zhou, Bingsheng He, Xuntao Cheng, Chiew Tong Lau",HPDC 2015: 223-234,HPDC,A
+31,A MSPCA based intrusion detection algorithm tor detection of DDoS attack.,2015,"Zhaomin Chen, Chai Kiat Yeo, Francis Bu-Sung Lee, Chiew Tong Lau",ICCC 2015: 1-5,ICCCHINA,Unranked
+32,TQCR-media access control: two-level quality of service provisioning media access control protocol for cognitive radio network.,2014,"Vishram Mishra, Chiew Tong Lau, Syin Chan, Jimson Mathew",IET Networks 3: 74-81 ,IET-NET,Unranked
+33,A Long-Term Reference Frame for Hierarchical B-Picture-Based Video Coding.,2014,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",IEEE Trans. Circuits Syst. Video Technol. 24: 1729-1742 ,TCSV,Unranked
+34,Video coding with dynamic background.,2013,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",EURASIP J. Adv. Signal Process. 2013: 11 ,EJASP,Unranked
+35,Pattern-based video coding with dynamic background modeling.,2013,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",EURASIP J. Adv. Signal Process. 2013: 138 ,EJASP,Unranked
+36,Energy Aware Spectrum Decision Framework for Cognitive Radio Network: A Spectrum Decision Framework for Cognitive Radio Network with Energy Awareness.,2013,"Vishram Mishra, Chiew Tong Lau, Syin Chan, Jimson Mathew",J. Low Power Electron. 9: 313-321 ,JOLPE,Unranked
+37,Reconfigurable Channel Selection Technique for Cognitive Radio Network With Heterogeneous Primary Bands.,2013,"Vishram Mishra, Chiew Tong Lau, Syin Chan",IEEE Trans. Veh. Technol. 62: 3942-3952 ,TVT,Unranked
+38,Deterministic time pattern based channel selection in cognitive Radio network.,2013,"Vishram Mishra, Chiew Tong Lau, Syin Chen",ICOIN 2013: 169-174,ICOIN,Unranked
+39,Distributed contention based MAC protocol for cognitive radio networks with QoS provisioning.,2013,"Vishram Mishra, Chiew Tong Lau, Syin Chan",ICON 2013: 1-6,ICON,Unranked
+40,QoS provisioning self co-existence protocol for cognitive radio ad-hoc networks.,2013,"Vishram Mishra, Chiew Tong Lau, Syin Chan",ICON 2013: 1-6,ICON,Unranked
+41,A QoS provisioning MAC protocol for Cognitive Radio Network.,2013,"Vishram Mishra, Chiew Tong Lau, Syin Chan",ICSPCS 2013: 1-8,ICSPCS,Unranked
+42,On the exact expression for single-stage CSMA/CA's idle period distribution.,2012,"Raymond J. Jayabal, Chiew Tong Lau",Comput. Math. Appl. 64: 1343-1351 ,CMA,Unranked
+43,Multi-user Interference and Cross Correlation Effects of Spline Multiwavelet based Cognitive Radio Network.,2012,"Mathew Manju, A. Benjamin Premkumar, Chiew Tong Lau",J. Commun. 7: 701-711 ,JCM,Unranked
+44,Low-Complexity Video Coding Based on Two-Dimensional Singular Value Decomposition.,2012,"Zhouye Gu, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau",IEEE Trans. Image Process. 21: 674-687 ,TIP,Unranked
+45,Mode-Dependent Templates and Scan Order for H.264/AVC-Based Intra Lossless Coding.,2012,"Zhouye Gu, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau, Ming-Ting Sun",IEEE Trans. Image Process. 21: 4106-4116 ,TIP,Unranked
+46,Rotated Orthogonal Transform (ROT) for Motion-Compensation Residual Coding.,2012,"Zhouye Gu, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau",IEEE Trans. Image Process. 21: 4770-4781 ,TIP,Unranked
+47,Bottom-Up Saliency Detection Model Based on Human Visual Sensitivity and Amplitude Spectrum.,2012,"Yuming Fang, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau, Zhenzhong Chen, Chia-Wen Lin",IEEE Trans. Multim. 14: 187-198 ,TMM,Unranked
+48,Robust Image Coding Based Upon Compressive Sensing.,2012,"Chenwei Deng, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau",IEEE Trans. Multim. 14: 278-290 ,TMM,Unranked
+49,An extended information PF for wideband acoustic source tracking using a distributed AVS array.,2012,"Xionghu Zhong, A. Benjamin Premkumar, Chiew Tong Lau",EUSIPCO 2012: 1319-1323,EUSIPCO,Unranked
+50,QoS based spectrum decision framework for cognitive radio networks.,2012,"Vishram Mishra, Chiew Tong Lau, Syin Chan",ICON 2012: 18-23,ICON,Unranked
+51,Energy Aware Spectrum Decision Framework for Cognitive Radio Networks.,2012,"Vishram Mishra, Chiew Tong Lau, Syin Chan, Ashish Kumar",ISED 2012: 309-313,ISED,Unranked
+52,The Idle Period Distribution for CSMA/CA Networks for Spectrum Sensing Applications.,2012,"Raymond J. Jayabal, Chiew Tong Lau",VTC Spring 2012: 1-5,VTC,B
+53,A Throughput Model for CSMA/CA with a Cross-Layer Payload-Dropping Optimization.,2012,"Raymond J. Jayabal, Chiew Tong Lau",VTC Spring 2012: 1-5,VTC,B
+54,"Performance analysis, parameter selection and extensions to H.264/AVC FRExt for high resolution video coding.",2011,"Chenwei Deng, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau, Ming-Ting Sun",J. Vis. Commun. Image Represent. 22: 749-759 ,JVCIR,Unranked
+55,Explore and Model Better I-Frames for Video Coding.,2011,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",IEEE Trans. Circuits Syst. Video Technol. 21: 1242-1254 ,TCSV,Unranked
+56,Direct Intermode Selection for H.264 Video Coding Using Phase Correlation.,2011,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",IEEE Trans. Image Process. 20: 461-473 ,TIP,Unranked
+57,A visual attention model combining top-down and bottom-up mechanisms for salient object detection.,2011,"Yuming Fang, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",ICASSP 2011: 1293-1296,ICASSP,Unranked
+58,McFIS in hierarchical bipredictve pictures-based video coding for referencing the stable area in a scene.,2011,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",ICIP 2011: 3521-3524,ICIP,B
+59,Multi-modality likelihood based particle filtering for 2-D direction of arrival tracking using a single acoustic vector sensor.,2011,"Xionghu Zhong, A. Benjamin Premkumar, A. S. Madhukumar, Chiew Tong Lau",ICME 2011: 1-6,ICMCS,Unranked
+60,MAC Protocol for Two Level QoS Support in Cognitive Radio Network.,2011,"Vishram Mishra, Chiew Tong Lau, Syin Chan, Jimson Mathew",ISED 2011: 296-301,ISED,Unranked
+61,Adaptive Orthogonal Transform for Motion Compensation Residual in Video Compression.,2011,"Zhouye Gu, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau",MMM  2011: 40-50,MMM,B
+62,Bottom-Up Saliency Detection Model Based on Amplitude Spectrum.,2011,"Yuming Fang, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau, Chia-Wen Lin",MMM  2011: 370-380,MMM,B
+63,Feasibility study of a real-time wandering detection algorithm for dementia patients.,2011,"Nhu Khue Vuong, Syin Chan, Chiew Tong Lau, K. M. Lau",MobileHealth@MobiHoc 2011: 11,MOBIHOC,A
+64,A Generalization of Shift-Window Approach for UWB ISI Reduction.,2010,"Wilson-Chandra Tjhi, Chiew Tong Lau, A. Benjamin Premkumar",IEEE Commun. Lett. 14: 602-604 ,ICL,Unranked
+65,Video coding using the most common frame in scene.,2010,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",ICASSP 2010: 734-737,ICASSP,Unranked
+66,Two dimensional Singular Value Decomposition (2D-SVD) based video coding.,2010,"Zhouye Gu, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau, Manoranjan Paul",ICIP 2010: 181-184,ICIP,B
+67,Comparison between H.264/AVC and Motion jpeg2000 for super-high definition video coding.,2010,"Chenwei Deng, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau, Manoranjan Paul",ICIP 2010: 2037-2040,ICIP,B
+68,Pattern based video coding with uncovered background.,2010,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",ICIP 2010: 2065-2068,ICIP,B
+69,Robust image compression based on compressive sensing.,2010,"Chenwei Deng, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau",ICME 2010: 462-467,ICMCS,Unranked
+70,A Study on the impact of spectral variability in brain-computer interface.,2010,"Kavitha P. Thomas, Cuntai Guan, Chiew Tong Lau, A. Prasad Vinod",ISCAS 2010: 1189-1192,ISCAS,Unranked
+71,McFIS: Better I-frame for video coding.,2010,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",ISCAS 2010: 2171-2174,ISCAS,Unranked
+72,Multiple Access Scheme for Multi User Cognitive Radio Based on Wavelet Transforms.,2010,"Mathew Manju, A. Benjamin Premkumar, Chiew Tong Lau",VTC Spring 2010: 1-5,VTC,B
+73,Traffic scheduling mechanism based on graph theory for Power Saving mode of IEEE 802.11 distributed coordinator function.,2009,"M. H. Ye, Chiew Tong Lau, A. Benjamin Premkumar",Int. J. Ad Hoc Ubiquitous Comput. 4: 84-94 ,IJAHUC,Unranked
+74,A New Discriminative Common Spatial Pattern Method for Motor Imagery Brain-Computer Interfaces.,2009,"Kavitha P. Thomas, Cuntai Guan, Chiew Tong Lau, A. Prasad Vinod, Kai Keng Ang",IEEE Trans. Biomed. Eng. 56: 2730-2733 ,TBE,Unranked
+75,Discriminative FilterBank Selection and EEG Information Fusion for Brain Computer Interface.,2009,"Kavitha P. Thomas, Cuntai Guan, Chiew Tong Lau, A. Prasad Vinod",ISCAS 2009: 1469-1472,ISCAS,Unranked
+76,Improving WLAN VoIP Capacity Through Service Differentiation.,2008,"Deyun Gao, Jianfei Cai, Chuan Heng Foh, Chiew Tong Lau, King Ngi Ngan",IEEE Trans. Veh. Technol. 57: 465-474 ,TVT,Unranked
+77,Pulse Based Adaptive Carrier Waveform Generation for Cognitive Radio Applications.,2008,"Mathew Manju, A. Benjamin Premkumar, Chiew Tong Lau",CrownCom 2008: 1-6,CROWNCOM,Unranked
+78,Mitigating Co-Channel Interference in CSMA/CA Networks via a Cell-Delimited Payload Retention Scheme.,2008,"Raymond J. Jayabal, Chiew Tong Lau",ICOIN 2008: 1-5,ICOIN,Unranked
+79,A Novel Selective Transmitted Reference Transceiver for High Data Rate UWB.,2008,"Wilson-Chandra Tjhi, Chiew Tong Lau, A. Benjamin Premkumar",VTC Spring 2008: 464-467,VTC,B
+80,An Adaptive Waveform Generation Technique for Cognitive Radio.,2008,"Mathew Manju, A. Benjamin Premkumar, Chiew Tong Lau",VTC Spring 2008: 1291-1295,VTC,B
+81,A Payload-Dropping CSMA/CA Protocol for Improving Spatial Reuse of Wireless Local and Personal Area Networks.,2008,"Raymond J. Jayabal, Chiew Tong Lau",WCNC 2008: 1622-1627,WCNC,B
+82,Semi-Markov Modeling for Bandwidth Sharing of TCP Connections with Asymmetric AIMD Congestion Control.,2007,"Cheng Peng Fu, Chuan Heng Foh, Chiew Tong Lau, Zhihong Man, Bu-Sung Lee",GLOBECOM 2007: 2014-2018,GLOBECOM,B
+83,Modeling Hop Length Distributions for Reactive Routing Protocols in One Dimensional MANETs.,2007,"Chuan Heng Foh, Juki Wirawan Tantra, Jianfei Cai, Chiew Tong Lau, Cheng Peng Fu",ICC 2007: 3882-3886,ICC,Unranked
+84,Performance of Different UWB Pulse Shapes Under High Data Rate Indoor Channel.,2007,"Wilson-Chandra Tjhi, Chiew Tong Lau, A. Benjamin Premkumar",WCNC 2007: 1751-1756,WCNC,B
+85,An Enhancement of TFRC over Wireless Networks.,2007,"Bin Zhou, Cheng Peng Fu, Chiew Tong Lau, Chuan Heng Foh",WCNC 2007: 3019-3024,WCNC,B
+86,A Power-Efficient Access Point Operation for Infrastructure Basic Service Set in IEEE 802.11 MAC Protocol.,2006,"Ye Ming Hua, Chiew Tong Lau, A. Benjamin Premkumar",EURASIP J. Wirel. Commun. Netw. 2006 ,EJWCN,Unranked
+87,An enhancement of TCP Veno over light-load wireless networks.,2006,"Bin Zhou, Cheng Peng Fu, Ke Zhang, Chiew Tong Lau, Chuan Heng Foh",IEEE Commun. Lett. 10: 441-443 ,ICL,Unranked
+88,A Simple Throughput Model for TCP Veno.,2006,"Bin Zhou, Cheng Peng Fu, Dah-Ming Chiu, Chiew Tong Lau, Lek Heng Ngoh",ICC 2006: 5395-5400,ICC,Unranked
+89,DSR with Non-Optimal Route Suppression for MANETs.,2006,"Boon-Chong Seet, Bu-Sung Lee, Chiew Tong Lau",CoRR abs/cs/0605134 ,CORR,Unranked
+90,A modified power saving mode in IEEE 802.11 distributed coordinator function.,2005,"Minghua Ye, Chiew Tong Lau, A. Benjamin Premkumar",Comput. Commun. 28: 1214-1224 ,COMCOM,Unranked
+91,A Mobile System of Super-Peers Using City Buses.,2005,"Boon-Chong Seet, Chiew Tong Lau, Wen-Jing Hsu, Bu-Sung Lee",PerCom Workshops 2005: 80-85,PERCOM,A*
+92,Multi-Home Region Location Service for Wireless Ad Hoc Networks: An Adaptive Demand-Driven Approach.,2005,"Boon-Chong Seet, Yan Pan, Wen-Jing Hsu, Chiew Tong Lau",WONS 2005: 258-263,WONS,Unranked
+93,New implementation techniques of an efficient MPEG advanced audio coder.,2004,"Evelyn Kurniawati, Chiew Tong Lau, A. Benjamin Premkumar, Javed Absar, Sapna George",IEEE Trans. Consumer Electron. 50: 655-665 ,TCE,Unranked
+94,Dynamics comparison of TCP Veno and Reno.,2004,"C. L. Zhang, Cheng Peng Fu, Ma-Tit Yap, Chuan Heng Foh, K. K. Wong, Chiew Tong Lau, M. K. Lai",GLOBECOM 2004: 1329-1333,GLOBECOM,B
+95,Low-complexity filter bank channelizer for wideband receivers using minimum adder multiplier blocks.,2004,"A. Prasad Vinod, Edmund Ming-Kit Lai, Annamalai Benjamin Premkumar, Chiew Tong Lau",ICC 2004: 2699-2703,ICC,Unranked
+96,An epidemiology-inspired approach for modeling broadcast route discovery in wireless ad hoc networks.,2004,"Boon-Chong Seet, Bu-Sung Lee, Chiew Tong Lau",ICON 2004: 535-539,ICON,Unranked
+97,Optimization method for designing filter bank channelizer of a software defined radio using vertical common subexpression elimination.,2004,"A. Prasad Vinod, Edmund Ming-Kit Lai, A. Benjamin Premkumar, Chiew Tong Lau",ISCAS  2004: 437-440,ISCAS,Unranked
+98,On optimizing route discovery of topology-based on-demand routing protocols for ad hoc networks.,2003,"Boon-Chong Seet, Bu-Sung Lee, Chiew Tong Lau",J. Commun. Networks 5: 266-274 ,JCN,Unranked
+99,Hardware efficient FIR filter implementation using subfilters for digital receivers.,2003,"Achutavarrier Prasad Vinod, Edmund Ming-Kit Lai, Annamalai Benjamin Premkumar, Chiew Tong Lau",ISSPA  2003: 263-266,ISSPA,Unranked
+100,A reconfigurable multi-standard channelizer using QMF trees for software radio receivers.,2003,"A. Prasad Vinod, Edmund Ming-Kit Lai, A. Benjamin Premkumar, Chiew Tong Lau",PIMRC 2003: 119-123,PIMRC,B
+101,MAC units for matched filters in DS-CDMA systems.,2002,"A. Benjamin Premkumar, A. S. Madhukumar, Chiew Tong Lau",IEEE Trans. Broadcast. 48: 52-57 ,TBC,Unranked
+102,Single transform perceptual audio encoder.,2002,"Evelyn Kurniawati, Javed Absar, Sapna George, Chiew Tong Lau, A. Benjamin Premkumar",DSP 2002: 599-602,ICDSP,Unranked
+103,An investigation into different masking behaviours resulting from estimation of tonality index.,2002,"Evelyn Kurniawati, Javed Absar, Sapna George, Chiew Tong Lau, A. Benjamin Premkumar",DSP 2002: 1035-1038,ICDSP,Unranked
+104,Towards an open protocol for secure online presence notification.,2001,"Alvis Cheuk M. Fong, Siu Cheung Hui, Chiew Tong Lau",Comput. Stand. Interfaces 23: 311-324 ,CSI,Unranked
+105,Wireless messaging services for mobile users.,2001,"David Hua Min Tan, Siu Cheung Hui, Chiew Tong Lau",J. Netw. Comput. Appl. 24: 151-166 ,JNCA,Unranked
+106,A unified messaging system on the Internet.,2001,"Chai Kiat Yeo, Siu Cheung Hui, Ing Yann Soon, Chiew Tong Lau",Microprocess. Microsystems 24: 523-530 ,MAM,Unranked
+107,Study of a Unicast Query Mechanism for Dynamic Source Routing in Mobile ad Hoc Networks.,2001,"Boon-Chong Seet, Bu-Sung Lee, Chiew Tong Lau",ICN  2001: 168-176,ICN,Unranked
+108,Novel approach to the design of weighted minimax quadrature mirror filters.,2001,"A. Prasad Vinod, A. Benjamin Premkumar, Chiew Tong Lau",ISSPA 2001: 33-35,ISSPA,Unranked
+109,Power LAN MIB for management of intelligent telecommunication equipment.,2000,"Bu-Sung Lee, Chiew Tong Lau, Nicholas C. H. Vun",J. Netw. Comput. Appl. 23: 143-154 ,JNCA,Unranked
+110,Lossless compression of multispectral satellite images.,1999,"Chai Kiat Yeo, Ing Yann Soon, Chiew Tong Lau",J. Commun. Networks 1: 226-230 ,JCN,Unranked
+111,Capture models for mobile packet radio networks.,1992,"Chiew Tong Lau, Cyril Leung",IEEE Trans. Commun. 40: 917-925 ,TCOM,Unranked
+112,Antenna selection in a multisector packet radio system.,1991,"Chiew Tong Lau, Cyril Leung",IEEE Trans. Commun. 39: 1709-1718 ,TCOM,Unranked
+113,Performance Analysis of a Memory ARQ Scheme with Soft Decision Detectors.,1986,"Chiew Tong Lau, Cyril Leung",IEEE Trans. Commun. 34: 827-832 ,TCOM,Unranked

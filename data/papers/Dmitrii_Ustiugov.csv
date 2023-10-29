@@ -1,0 +1,18 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Enabling In-Vitro Serverless Systems Research.,2023,"Dmitrii Ustiugov, Dohyun Park, Lazar Cvetkovic, Mihajlo Djokic, Hongyu Hè, Boris Grot, Ana Klimovic",WORDS@SOSP 2023: 1-7,WORDS2,Unranked
+1,"Proceedings of the 1st Workshop on SErverless Systems, Applications and MEthodologies, SESAME 2023, Rome, Italy, 8 May 2023.",2023,"Dmitrii Ustiugov, Rodrigo Bruno, Pedro Fonseca, Boris Grot, Antonio Barbalace",ACM 2023 ,SESAME,Unranked
+2,Expedited Data Transfers for Serverless Clouds.,2023,"Dmitrii Ustiugov, Shyam Jesalpura, Mert Bora Alper, Michal Baczun, Rustem Feyzkhanov, Edouard Bugnion, Boris Grot, Marios Kogias",CoRR abs/2309.14821 ,CORR,Unranked
+3,Lukewarm serverless functions: characterization and optimization.,2022,"David Schall, Artemiy Margaritov, Dmitrii Ustiugov, Andreas Sandberg, Boris Grot",ISCA 2022: 757-770,ISCA,A*
+4,PTEMagnet: fine-grained physical memory reservation for faster page walks in public clouds.,2021,"Artemiy Margaritov, Dmitrii Ustiugov, Amna Shahab, Boris Grot",ASPLOS 2021: 211-223,ASPLOS,A*
+5,"Benchmarking, analysis, and optimization of serverless function snapshots.",2021,"Dmitrii Ustiugov, Plamen Petrov, Marios Kogias, Edouard Bugnion, Boris Grot",ASPLOS 2021: 559-572,ASPLOS,A*
+6,Analyzing Tail Latency in Serverless Clouds with STeLLAR.,2021,"Dmitrii Ustiugov, Theodor Amariucai, Boris Grot",IISWC 2021: 51-62,IISWC,Unranked
+7,"Benchmarking, Analysis, and Optimization of Serverless Function Snapshots.",2021,"Dmitrii Ustiugov, Plamen Petrov, Marios Kogias, Edouard Bugnion, Boris Grot",CoRR abs/2101.09355 ,CORR,Unranked
+8,Bankrupt Covert Channel: Turning Network Predictability into Vulnerability.,2020,"Dmitrii Ustiugov, Plamen Petrov, M. R. Siavash Katebzadeh, Boris Grot",WOOT @ USENIX Security Symposium 2020,WOOT,Unranked
+9,Bankrupt Covert Channel: Turning Network Predictability into Vulnerability.,2020,"Dmitrii Ustiugov, Plamen Petrov, M. R. Siavash Katebzadeh, Boris Grot",CoRR abs/2006.03854 ,CORR,Unranked
+10,Prefetched Address Translation.,2019,"Artemiy Margaritov, Dmitrii Ustiugov, Edouard Bugnion, Boris Grot",MICRO 2019: 1023-1036,MICRO,Unranked
+11,Algorithm/Architecture Co-Design for Near-Memory Processing.,2018,"Mario Drumond, Alexandros Daglis, Nooshin Sadat Mirzadeh, Dmitrii Ustiugov, Javier Picorel, Babak Falsafi, Boris Grot, Dionisios N. Pnevmatikatos",ACM SIGOPS Oper. Syst. Rev. 52: 109-122 ,SIGOPS,Unranked
+12,Mitigating Load Imbalance in Distributed Data Serving with Rack-Scale Memory Pooling.,2018,"Stanko Novakovic, Alexandros Daglis, Dmitrii Ustiugov, Edouard Bugnion, Babak Falsafi, Boris Grot",ACM Trans. Comput. Syst. 36: 6:1-6:37 ,TOCS,Unranked
+13,Design guidelines for high-performance SCM hierarchies.,2018,"Dmitrii Ustiugov, Alexandros Daglis, Javier Picorel, Mark Sutherland, Edouard Bugnion, Babak Falsafi, Dionisios N. Pnevmatikatos",MEMSYS 2018: 3-16,MEMSYS,Unranked
+14,Storage-Class Memory Hierarchies for Scale-Out Servers.,2018,"Dmitrii Ustiugov, Alexandros Daglis, Javier Picorel, Mark Sutherland, Edouard Bugnion, Babak Falsafi, Dionisios N. Pnevmatikatos",CoRR abs/1801.06726 ,CORR,Unranked
+15,The Mondrian Data Engine.,2017,"Mario Drumond, Alexandros Daglis, Nooshin Sadat Mirzadeh, Dmitrii Ustiugov, Javier Picorel, Babak Falsafi, Boris Grot, Dionisios N. Pnevmatikatos",ISCA 2017: 639-651,ISCA,A*
+16,SABRes: Atomic object reads for in-memory rack-scale computing.,2016,"Alexandros Daglis, Dmitrii Ustiugov, Stanko Novakovic, Edouard Bugnion, Babak Falsafi, Boris Grot",MICRO 2016: 6:1-6:13,MICRO,Unranked

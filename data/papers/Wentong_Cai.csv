@@ -1,0 +1,373 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Digital-Twin Consistency Checking Based on Observed Timed Events With Unobservable Transitions in Smart Manufacturing.,2023,"Moon Gi Seok, Wen Jun Tan, Wentong Cai, Daejin Park",IEEE Trans. Ind. Informatics 19: 6208-6219 ,TII,Unranked
+1,Crowd-Level Abnormal Behavior Detection via Multi-Scale Motion Consistency Learning.,2023,"Linbo Luo, Yuanjing Li, Haiyan Yin, Shangwei Xie, Ruimin Hu, Wentong Cai",AAAI 2023: 8984-8992,AAAI,A*
+2,Minimising Task Tardiness for Multi-Agent Pickup and Delivery.,2023,"Saravanan Ramanathan, Yihao Liu, Xueyan Tang, Wentong Cai, Jingning Li",AAMAS 2023: 2349-2351,ATAL,Unranked
+3,Characterization of Pedestrian Contact Interaction Trajectories.,2023,"Jaeyoung Kwak, Michael Harold Lees, Wentong Cai",ICCS  2023: 18-32,ICCS,Multiconference
+4,Towards a Performance-Aware Partitioning Algorithm for Cloud-Based Microscopic Vehicle Traffic Simulations.,2023,"Anibal Siguenza-Torres, Wentong Cai, Alois Knoll",SIGSIM-PADS 2023: 44-45,PADS,B
+5,Equipment-centric Data-driven Reliability Assessment of Complex Manufacturing Systems.,2023,"Jonas Friederich, Wentong Cai, Boon Ping Gan, Sanja Lazarova-Molnar",SIGSIM-PADS 2023: 62-72,PADS,B
+6,Automatic Model Generation and Data Assimilation Framework for Cyber-Physical Production Systems.,2023,"Wen Jun Tan, Moon Gi Seok, Wentong Cai",SIGSIM-PADS 2023: 73-83,PADS,B
+7,Research on the collaboration of service selection and resource scheduling for IoT simulation workflows.,2022,"Feng Li, T. Warren Liao, Wentong Cai",Adv. Eng. Informatics 52: 101528 ,AEI,Unranked
+8,E2T-CVL: An Efficient and Error-Tolerant Approach for Collaborative Vehicle Localization.,2022,"Xiangting Hou, Linbo Luo, Wentong Cai, Bin Guo",IEEE Internet Things J. 9: 3481-3494 ,IOTJ,Unranked
+9,A wholistic optimization of containerized workflow scheduling and deployment in the cloud-edge environment.,2022,"Feng Li, Wen Jun Tan, Wentong Cai",Simul. Model. Pract. Theory 118: 102521 ,SIMPRA,Unranked
+10,Distribution-Based Weights Estimation for Map Matching Algorithms.,2022,"Xiangting Hou, Linbo Luo, Wentong Cai",IEEE Syst. J. 16: 4256-4266 ,SJ,Unranked
+11,Why They Escape: Mining Prioritized Fuzzy Decision Rule in Crowd Evacuation.,2022,"Linbo Luo, Baodan Zhang, Bin Guo, Jinghui Zhong, Wentong Cai",IEEE Trans. Intell. Transp. Syst. 23: 19456-19470 ,TITS,Unranked
+12,Data-driven Crowd Modeling Techniques: A Survey.,2022,"Jinghui Zhong, Dongrui Li, Zhixing Huang, Chengyu Lu, Wentong Cai",ACM Trans. Model. Comput. Simul. 32: 4:1-4:33 ,TOMACS,Unranked
+13,Dynamic Data-driven Microscopic Traffic Simulation using Jointly Trained Physics-guided Long Short-Term Memory.,2022,"Htet Naing, Wentong Cai, Nan Hu, Tiantian Wu, Liang Yu",ACM Trans. Model. Comput. Simul. 32: 28:1-28:27 ,TOMACS,Unranked
+14,"SPIDER: An Effective, Efficient and Robust Load Scheduler for Real-time Split Frame Rendering.",2022,"Bingzheng Ma, Ziqiang Zhang, Yusen Li, Wentong Cai, Gang Wang, Xiaoguang Liu",IPDPS 2022: 672-682,IPPS,Unranked
+15,Dynamic Car-following Model Calibration with Deep Reinforcement Learning.,2022,"Htet Naing, Wentong Cai, Tiantian Wu, Liang Yu",ITSC 2022: 959-966,ITSC,Unranked
+16,"Improving Scalability, Sustainability and Availability via Workload Distribution in Edge-Cloud Gaming.",2022,"Iryanto Jaya, Yusen Li, Wentong Cai",ACM Multimedia 2022: 2987-2995,MM,Unranked
+17,A Data-Driven Approach for Pedestrian Intention Prediction in Large Public Places.,2022,"Bo Zhang, Jinghui Zhong, Wentong Cai",SIGSIM-PADS 2022: 33-36,PADS,B
+18,Hyperparameter Tunning in Simulation-based Optimization for Adaptive Digital-Twin Abstraction Control of Smart Manufacturing System.,2022,"Moon Gi Seok, Wen Jun Tan, Boyi Su, Wentong Cai",SIGSIM-PADS 2022: 61-68,PADS,B
+19,Advanced Tutorial: Parallel and Distributed Methods for Scalable Discrete Simulation.,2022,"Philipp Andelfinger, Wentong Cai",WSC 2022: 268-282,WSC,C
+20,Simulation-Based Analysis of Evacuation Elevator Allocation for a Multi-Level Hospital Emergency Department.,2022,"Boyi Su, Jaeyoung Kwak, Ahmad Reza Pourghaderi, Michael Harold Lees, Kenneth B. K. Tan, Shin Yi Loo, Ivan S. Y. Chua, Joy L. J. Quah, Wentong Cai, Marcus Eng Hock Ong",WSC 2022: 358-369,WSC,C
+21,Forecasting with Visibility Using Privacy Preserving Federated Learning.,2022,"Bo Zhang, Wen Jun Tan, Wentong Cai, Allan N. Zhang",WSC 2022: 2687-2698,WSC,C
+22,Multi-objective Optimization of Clustering-based Scheduling for Multi-workflow On Clouds Considering Fairness.,2022,"Feng Li, Wen Jun Tan, Wentong Cai",CoRR abs/2205.11173 ,CORR,Unranked
+23,Crowd-level Abnormal Behavior Detection via Multi-scale Motion Consistency Learning.,2022,"Linbo Luo, Yuanjing Li, Haiyan Yin, Shangwei Xie, Ruimin Hu, Wentong Cai",CoRR abs/2212.00501 ,CORR,Unranked
+24,Computer Science Methods for Effective and Sustainable Simulation Studies (Dagstuhl Seminar 22401).,2022,"Wentong Cai, Christopher D. Carothers, David M. Nicol, Adelinde M. Uhrmacher",Dagstuhl Reports 12: 1-60 ,DAGSTUHL-REPORTS,Unranked
+25,Hierarchical Aggregation/Disaggregation for Adaptive Abstraction-Level Conversion in Digital Twin-Based Smart Semiconductor Manufacturing.,2021,"Moon Gi Seok, Wentong Cai, Daejin Park",IEEE Access 9: 71145-71158 ,ACCESS,Unranked
+26,Transitioning Spiking Neural Network Simulators to Heterogeneous Hardware.,2021,"Quang Anh Pham Nguyen, Philipp Andelfinger, Wen Jun Tan, Wentong Cai, Alois C. Knoll",ACM Trans. Model. Comput. Simul. 31: 9:1-9:26 ,TOMACS,Unranked
+27,Towards Minimizing Resource Usage With QoS Guarantee in Cloud Gaming.,2021,"Yusen Li, Changjian Zhao, Xueyan Tang, Wentong Cai, Xiaoguang Liu, Gang Wang, Xiaoli Gong",IEEE Trans. Parallel Distributed Syst. 32: 426-440 ,TPDS,Unranked
+28,OptCL: A Middleware to Optimise Performance for High Performance Domain-Specific Languages on Heterogeneous Platforms.,2021,"Jiajian Xiao, Philipp Andelfinger, Wentong Cai, David Eckhoff, Alois C. Knoll",ICA3PP  2021: 772-791,ICA3PP,C
+29,Minimizing Play Request Rejection through Workload Splitting in Edge-Cloud Gaming.,2021,"Iryanto Jaya, Yusen Li, Wentong Cai",ICPADS 2021: 819-826,ICPADS,B
+30,A New Double Rank-based Multi-workflow Scheduling with Multi-objective Optimization in Cloud Environments.,2021,"Feng Li, Moon Gi Seok, Wentong Cai",IPDPS Workshops 2021: 36-45,IPPS,Unranked
+31,Data-driven Microscopic Traffic Modelling and Simulation using Dynamic LSTM.,2021,"Htet Naing, Wentong Cai, Nan Hu, Tiantian Wu, Liang Yu",SIGSIM-PADS 2021: 1-12,PADS,B
+32,Causality and Consistency of State Update Schemes in Synchronous Agent-based Simulations.,2021,"Wen Jun Tan, Philipp Andelfinger, David Eckhoff, Wentong Cai, Alois C. Knoll",SIGSIM-PADS 2021: 57-68,PADS,B
+33,A Parallel Hierarchical Sort-based Interest Matching Algorithm.,2021,"Wenjie Tang, Yiping Yao, Feng Zhu, Bin Chen, Wentong Cai",SIGSIM-PADS 2021: 107-118,PADS,B
+34,Hot Area Targeting Dead Reckoning for Distributed Virtual Environments.,2021,"Youfu Chen, Wentong Cai, Elvis S. Liu",SIGSIM-PADS 2021: 129-137,PADS,B
+35,Bayesian-based Absolute Positions Estimation for the Nearby Vehicles through Vehicle-to-Vehicle Communications.,2021,"Xiangting Hou, Linbo Luo, Wentong Cai",SMC 2021: 1663-1668,SMC,B
+36,Multi-Agent Pickup and Delivery with Task Deadlines.,2021,"Xiaohu Wu, Yihao Liu, Xueyan Tang, Wentong Cai, Funing Bai, Gilbert Khonstantine, Guopeng Zhao",SOCS 2021: 206-208,SOCS,Unranked
+37,Multi-Agent Pickup and Delivery with Task Deadlines.,2021,"Xiaohu Wu, Yihao Liu, Xueyan Tang, Wentong Cai, Funing Bai, Gilbert Khonstantine, Guopeng Zhao",WI/IAT 2021: 360-367,WEBI,Unranked
+38,A Model-based Analysis of Evacuation Strategies in Hospital Emergency Departments.,2021,"Boyi Su, Jaeyoung Kwak, Ahmadreza Pourghaderi, Michael Harold Lees, Kenneth B. K. Tan, Shin Yi Loo, Ivan S. Y. Chua, Joy L. J. Quah, Wentong Cai, Marcus Eng Hock Ong",WSC 2021: 1-12,WSC,C
+39,Time-Efficient and High-Quality Graph Partitioning for Graph Dynamic Scaling.,2021,"Masatoshi Hanai, Nikos Tziritas, Toyotaro Suzumura, Wentong Cai, Georgios Theodoropoulos",CoRR abs/2101.07026 ,CORR,Unranked
+40,Adaptive Abstraction-Level Conversion Framework for Accelerated Discrete-Event Simulation in Smart Semiconductor Manufacturing.,2020,"Moon Gi Seok, Wentong Cai, Hessam S. Sarjoughian, Daejin Park",IEEE Access 8: 165247-165262 ,ACCESS,Unranked
+41,OpenABLext: An automatic code generation framework for agent-based simulations on CPU-GPU-FPGA heterogeneous platforms.,2020,"Jiajian Xiao, Philipp Andelfinger, Wentong Cai, Paul Richmond, Alois C. Knoll, David Eckhoff",Concurr. Comput. Pract. Exp. 32 ,CONCURRENCY,Unranked
+42,Structural-aware simulation analysis of supply chain resilience.,2020,"Wen Jun Tan, Wentong Cai, Allan N. Zhang",Int. J. Prod. Res. 58: 5175-5195 ,IJPR,Unranked
+43,Incremental route inference from low-sampling GPS data: An opportunistic approach to online map matching.,2020,"Linbo Luo, Xiangting Hou, Wentong Cai, Bin Guo",Inf. Sci. 512: 1407-1423 ,ISCI,Unranked
+44,A passenger model for simulating boarding and alighting in spatially confined transportation scenarios.,2020,"Boyi Su, Philipp Andelfinger, Jaeyoung Kwak, David Eckhoff, Henriette Cornet, Goran Marinkovic, Wentong Cai, Alois C. Knoll",J. Comput. Sci. 45: 101173 ,JOCS,Unranked
+45,An alternative approach for collaborative simulation execution on a CPU+GPU hybrid system.,2020,"Wenjie Tang, Wentong Cai, Yiping Yao, Xiao Song, Feng Zhu",Simul. 96 ,SIMULATION,Unranked
+46,A fast parallel genetic programming framework with adaptively weighted primitives for symbolic regression.,2020,"Zhixing Huang, Jinghui Zhong, Liang Feng, Yi Mei, Wentong Cai",Soft Comput. 24: 7523-7539 ,SOCO,Unranked
+47,Multitask Scheduling in Consideration of Fuzzy Uncertainty of Multiple Criteria in Service-Oriented Manufacturing.,2020,"Feng Li, T. Warren Liao, Wentong Cai, Lin Zhang",IEEE Trans. Fuzzy Syst. 28: 2759-2771 ,TFS,Unranked
+48,Fidelity and Performance of State Fast-forwarding in Microscopic Traffic Simulations.,2020,"Philipp Andelfinger, Yadong Xu, David Eckhoff, Wentong Cai, Alois C. Knoll",ACM Trans. Model. Comput. Simul. 30: 10:1-10:26 ,TOMACS,Unranked
+49,Multifactorial Genetic Programming for Symbolic Regression Problems.,2020,"Jinghui Zhong, Liang Feng, Wentong Cai, Yew-Soon Ong",IEEE Trans. Syst. Man Cybern. Syst. 50: 4492-4505 ,TSMC,Unranked
+50,Modeling Helping Behavior in Emergency Evacuations Using Volunteer's Dilemma Game.,2020,"Jaeyoung Kwak, Michael Harold Lees, Wentong Cai, Marcus Eng Hock Ong",ICCS  2020: 513-523,ICCS,Multiconference
+51,Risk-Based AED Placement - Singapore Case.,2020,"Ivan Derevitskii, Nikita Kogtikov, Michael Harold Lees, Wentong Cai, Marcus Eng Hock Ong",ICCS  2020: 577-590,ICCS,Multiconference
+52,Rendering Server Allocation for MMORPG Players in Cloud Gaming.,2020,"Iryanto Jaya, Wentong Cai, Yusen Li",ICPP 2020: 66:1-66:11,ICPP,B
+53,Fast-Forwarding of Vehicle Clusters in Microscopic Traffic Simulations.,2020,"Philipp Andelfinger, David Eckhoff, Wentong Cai, Alois C. Knoll",SIGSIM-PADS 2020: 63-66,PADS,B
+54,Runtime Abstraction-Level Conversion of Discrete-Event Wafer-fabrication Models for Simulation Acceleration.,2020,"Moon Gi Seok, Chew Wye Chan, Wentong Cai, Hessam S. Sarjoughian, Daejin Park",SIGSIM-PADS 2020: 83-92,PADS,B
+55,Pedal to the Bare Metal: Road Traffic Simulation on FPGAs Using High-Level Synthesis.,2020,"Jiajian Xiao, Görkem Kilinç, Philipp Andelfinger, David Eckhoff, Wentong Cai, Alois C. Knoll",SIGSIM-PADS 2020: 117-121,PADS,B
+56,Automatical Guardrail Design of Subway Stations through Multi-objective Evolutionary Algorithm.,2020,"Tiantian Cheng, Jinghui Zhong, Wentong Cai",SMC 2020: 2438-2445,SMC,B
+57,Evaluation of Guidance Systems at Dynamic Public Transport Hubs Using Crowd Simulation.,2020,"Michael Wagner, Henriette Cornet, David Eckhoff, Philipp Andelfinger, Wentong Cai, Alois C. Knoll",WSC 2020: 123-134,WSC,C
+58,Multi-Thread State Update Schemes for Microscopic Traffic Simulation.,2020,"Wen Jun Tan, Philipp Andelfinger, Wentong Cai, Alois C. Knoll, Yadong Xu, David Eckhoff",WSC 2020: 182-193,WSC,C
+59,Towards Situation Aware Dispatching in a Dynamic and Complex Manufacturing Environment.,2020,"Chew Wye Chan, Boon Ping Gan, Wentong Cai",WSC 2020: 528-539,WSC,C
+60,A Survey on Agent-based Simulation Using Hardware Accelerators.,2019,"Jiajian Xiao, Philipp Andelfinger, David Eckhoff, Wentong Cai, Alois C. Knoll",ACM Comput. Surv. 51: 131:1-131:35 ,CSUR,Unranked
+61,A graph-based model to measure structural redundancy for supply chain resilience.,2019,"Wen Jun Tan, Allan N. Zhang, Wentong Cai",Int. J. Prod. Res. 57: 6385-6404 ,IJPR,Unranked
+62,A data-driven path planning model for crowd capacity analysis.,2019,"Singkuang Tan, Nan Hu, Wentong Cai",J. Comput. Sci. 34: 66-79 ,JOCS,Unranked
+63,Distributed Edge Partitioning for Trillion-edge Graphs.,2019,"Masatoshi Hanai, Toyotaro Suzumura, Wen Jun Tan, Elvis S. Liu, Georgios Theodoropoulos, Wentong Cai",Proc. VLDB Endow. 12: 2379-2392 ,PVLDB,Unranked
+64,Efficient Parallel Simulation over Large-scale Social Contact Networks.,2019,"Yulin Wu, Wentong Cai, Zengxiang Li, Wen Jun Tan, Xiangting Hou",ACM Trans. Model. Comput. Simul. 29: 10:1-10:25 ,TOMACS,Unranked
+65,Resource-Efficient Index Shard Replication in Large Scale Search Engines.,2019,"Yusen Li, Xueyan Tang, Wentong Cai, Jiancong Tong, Xiaoguang Liu, Gang Wang",IEEE Trans. Parallel Distributed Syst. 30: 2820-2835 ,TPDS,Unranked
+66,Efficient closeness centrality computation in time-evolving graphs.,2019,"Peng Ni, Masatoshi Hanai, Wen Jun Tan, Wentong Cai",ASONAM 2019: 378-385,ASUNAM,Unranked
+67,Advancing Automatic Code Generation for Agent-Based Simulations on Heterogeneous Hardware.,2019,"Jiajian Xiao, Philipp Andelfinger, Wentong Cai, Paul Richmond, Alois C. Knoll, David Eckhoff",Euro-Par Workshops 2019: 308-319,EUROPAR,Unranked
+68,GAugur: Quantifying Performance Interference of Colocated Games for Improving Resource Utilization in Cloud Gaming.,2019,"Yusen Li, Chuxu Shan, Ruobing Chen, Xueyan Tang, Wentong Cai, Shanjiang Tang, Xiaoguang Liu, Gang Wang, Xiaoli Gong, Ying Zhang",HPDC 2019: 231-242,HPDC,A
+69,An Agent-Based Model for Evaluating the Boarding and Alighting Efficiency of Autonomous Public Transport Vehicles.,2019,"Boyi Su, Philipp Andelfinger, David Eckhoff, Henriette Cornet, Goran Marinkovic, Wentong Cai, Alois C. Knoll",ICCS  2019: 534-547,ICCS,Multiconference
+70,Transitioning Spiking Neural Network Simulators to Heterogeneous Hardware.,2019,"Quang Anh Pham Nguyen, Philipp Andelfinger, Wentong Cai, Alois C. Knoll",SIGSIM-PADS 2019: 115-126,PADS,B
+71,From Effects to Causes: Reversible Simulation and Reverse Exploration of Microscopic Traffic Models.,2019,"Philipp Andelfinger, Jordan Ivanchev, David Eckhoff, Wentong Cai, Alois C. Knoll",SIGSIM-PADS 2019: 173-184,PADS,B
+72,"Methods and Applications for Modeling and Simulation of Complex Systems - 19th Asia Simulation Conference, AsiaSim 2019, Singapore, October 30 - November 1, 2019, Proceedings.",2019,"Gary Tan, Axel Lehmann, Yong Meng Teo, Wentong Cai","Communications in Computer and Information Science 1094, Springer 2019, ISBN 978-981-15-1077-9 ",ASIASIM,Unranked
+73,Distributed Edge Partitioning for Trillion-edge Graphs.,2019,"Masatoshi Hanai, Toyotaro Suzumura, Wen Jun Tan, Elvis S. Liu, Georgios Theodoropoulos, Wentong Cai",CoRR abs/1908.05855 ,CORR,Unranked
+74,Guide them through: An automatic crowd control framework using multi-objective genetic programming.,2018,"Nan Hu, Jinghui Zhong, Joey Tianyi Zhou, Suiping Zhou, Wentong Cai, Christopher P. Monterola",Appl. Soft Comput. 66: 90-103 ,ASC,Unranked
+75,CLUST: Simulating Realistic Crowd Behaviour by Mining Pattern from Crowd Videos.,2018,"Mingbi Zhao, Wentong Cai, Stephen John Turner",Comput. Graph. Forum 37: 184-201 ,CGF,Unranked
+76,ProactiveCrowd: Modelling Proactive Steering Behaviours for Agent-Based Crowd Simulation.,2018,"Linbo Luo, Cheng Chai, Jianfeng Ma, Suiping Zhou, Wentong Cai",Comput. Graph. Forum 37: 375-388 ,CGF,Unranked
+77,The Server Allocation Problem for Session-Based Multiplayer Cloud Gaming.,2018,"Yunhua Deng, Yusen Li, Ronald Seet, Xueyan Tang, Wentong Cai",IEEE Trans. Multim. 20: 1233-1245 ,TMM,Unranked
+78,A Role-Dependent Data-Driven Approach for High-Density Crowd Behavior Modeling.,2018,"Mingbi Zhao, Jinghui Zhong, Wentong Cai",ACM Trans. Model. Comput. Simul. 28: 28:1-28:25 ,TOMACS,Unranked
+79,Cost-Efficient Server Provisioning for Cloud Gaming.,2018,"Yusen Li, Yunhua Deng, Xueyan Tang, Wentong Cai, Xiaoguang Liu, Gang Wang",ACM Trans. Multim. Comput. Commun. Appl. 14: 55:1-55:22 ,TOMCCAP,Unranked
+80,Exploring Execution Schemes for Agent-Based Traffic Simulation on Heterogeneous Hardware.,2018,"Jiajian Xiao, Philipp Andelfinger, David Eckhoff, Wentong Cai, Alois C. Knoll",DS-RT 2018: 243-252,DSRT,Unranked
+81,Data-Driven Agent-Based Simulation for Pedestrian Capacity Analysis.,2018,"Singkuang Tan, Nan Hu, Wentong Cai",ICCS  2018: 103-116,ICCS,Multiconference
+82,Concurrent Hybrid Breadth-First-Search on Distributed PowerGraph for Skewed Graphs.,2018,"Zengxiang Li, Shen Ren, Sifei Lu, Jiachun Guo, Wentong Cai, Qin Zheng, Rick Siow Mong Goh",ICPADS 2018: 160-169,ICPADS,B
+83,Index Shard Replication Strategies for Improving Resource Utilization in Large Scale Search Engines.,2018,"Yusen Li, Xueyan Tang, Wentong Cai, Jiancong Tong, Xiaoguang Liu, Gang Wang, Chuansong Gao, Xuan Cao, Guanhui Geng, Minghui Li",ICPP 2018: 84:1-84:10,ICPP,B
+84,Optimizing Agent-Based Simulations for the GPU.,2018,"Pham Nguyen Quang Anh, Rui Fan, Wentong Cai",HPCS 2018: 171-179,IEEEHPCS,Unranked
+85,Fast-Forwarding Agent States to Accelerate Microscopic Traffic Simulations.,2018,"Philipp Andelfinger, Yadong Xu, Wentong Cai, David Eckhoff, Alois C. Knoll",SIGSIM-PADS 2018: 113-124,PADS,B
+86,Evaluation of Conflict Resolution Methods for Agent-Based Simulations on the GPU.,2018,"Mingyu Yang, Philipp Andelfinger, Wentong Cai, Alois C. Knoll",SIGSIM-PADS 2018: 129-132,PADS,B
+87,Fast Online Map Matching for Recovering Travelling Routes from Low-Sampling GPS Data.,2018,"Xiangting Hou, Linbo Luo, Wentong Cai, Masatoshi Hanai",SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI 2018: 917-924,UIC,C
+88,Model Preemption based on Dynamic Analysis of simulation Data to Accelerate Traffic light Timing optimisation.,2018,"Philipp Andelfinger, Sajeev Udayakumar, Wentong Cai, David Eckhoff, Alois C. Knoll",WSC 2018: 652-663,WSC,C
+89,Dynamic Data Driven Application Systems: Research Challenges and Opportunities.,2018,"Richard Fujimoto, Joseph Barjis, Erik Blasch, Wentong Cai, Dong Jin, Seunghan Lee, Young-Jun Son",WSC 2018: 664-678,WSC,C
+90,Incremental calibration of Seat Selection Preferences in Agent-based simulations of Public transport Scenarios.,2018,"Philipp Andelfinger, Yihao Chen, Boyi Su, Wentong Cai, Daniel Zehe, David Eckhoff, Alois C. Knoll",WSC 2018: 833-844,WSC,C
+91,A Survey on Agent-based Simulation using Hardware Accelerators.,2018,"Jiajian Xiao, Philipp Andelfinger, David Eckhoff, Wentong Cai, Alois C. Knoll",CoRR abs/1807.01014 ,CORR,Unranked
+92,Automatic model construction for the behavior of human crowds.,2017,"Jinghui Zhong, Wentong Cai, Michael Lees, Linbo Luo",Appl. Soft Comput. 56: 368-378 ,ASC,Unranked
+93,Sampling-based adaptive bounding evolutionary algorithm for continuous optimization problems.,2017,"Linbo Luo, Xiangting Hou, Jinghui Zhong, Wentong Cai, Jianfeng Ma",Inf. Sci. 382-383: 216-233 ,ISCI,Unranked
+94,Introduction to the special issue on data-driven and large-scale distributed simulations.,2017,"Wentong Cai, Heiko Aydt",J. Simulation 11: 193 ,JOS,Unranked
+95,Design and Evaluation of a Data-Driven Scenario Generation Framework for Game-Based Training.,2017,"Linbo Luo, Haiyan Yin, Wentong Cai, Jinghui Zhong, Michael Lees",IEEE Trans. Comput. Intell. AI Games 9: 213-226 ,TCIAIG,Unranked
+96,Relaxing Synchronization in Parallel Agent-Based Road Traffic Simulation.,2017,"Yadong Xu, Wentong Cai, Heiko Aydt, Michael Lees, Daniel Zehe",ACM Trans. Model. Comput. Simul. 27: 14 ,TOMACS,Unranked
+97,Cloning Agent-Based Simulation.,2017,"Xiaosong Li, Wentong Cai, Stephen John Turner",ACM Trans. Model. Comput. Simul. 27: 15 ,TOMACS,Unranked
+98,Competitiveness of Dynamic Bin Packing for Online Cloud Server Allocation.,2017,"Runtian Ren, Xueyan Tang, Yusen Li, Wentong Cai",IEEE/ACM Trans. Netw. 25: 1324-1331 ,TON,Unranked
+99,Reducing Synchronization Overhead with Computation Replication in Parallel Agent-Based Road Traffic Simulation.,2017,"Yadong Xu, Vaisagh Viswanathan, Wentong Cai",IEEE Trans. Parallel Distributed Syst. 28: 3286-3297 ,TPDS,Unranked
+100,Minimizing Cost in IaaS Clouds Via Scheduled Instance Reservation.,2017,"Qiushi Wang, Ming Ming Tan, Xueyan Tang, Wentong Cai",ICDCS 2017: 1565-1574,ICDCS,A
+101,Optimize the FP-Tree Based Graph Edge Weight Computation on Multi-core MapReduce Clusters.,2017,"Yuhong Feng, Meihong Guo, Kezhong Lu, Zhong Ming, Haoming Zhong, Wentong Cai, Zengxiang Li",ICPADS 2017: 400-409,ICPADS,B
+102,Parallel Algorithm for Single-Source Earliest-Arrival Problem in Temporal Graphs.,2017,"Peng Ni, Masatoshi Hanai, Wen Jun Tan, Chen Wang, Wentong Cai",ICPP 2017: 493-502,ICPP,B
+103,On Server Provisioning for Cloud Gaming.,2017,"Yusen Li, Yunhua Deng, Xueyan Tang, Wentong Cai, Xiaoguang Liu, Gang Wang",ACM Multimedia 2017: 492-500,MM,Unranked
+104,Efficient Parallel Simulation over Social Contact Network with Skewed Degree Distribution.,2017,"Yulin Wu, Xiangting Hou, Wen Jun Tan, Zengxiang Li, Wentong Cai",SIGSIM-PADS 2017: 65-75,PADS,B
+105,A Graph Partitioning Algorithm for Parallel Agent-Based Road Traffic Simulation.,2017,"Yadong Xu, Wentong Cai, David Eckhoff, Suraj Nair, Alois C. Knoll",SIGSIM-PADS 2017: 209-219,PADS,B
+106,Integration design of supply chain hybrid simulation.,2017,"Wen Jun Tan, Wentong Cai, Allan NengSheng Zhang",WSC 2017: 493-504,WSC,C
+107,Surrogate assisted calibration framework for crowd model calibration.,2017,"Wenchao Yi, Jinghui Zhong, Singkuang Tan, Wentong Cai, Nan Hu",WSC 2017: 1216-1227,WSC,C
+108,"Proceedings of the 2017 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation, SIGSIM-PADS 2017, Singapore, May 24-26, 2017.",2017,"Wentong Cai, Yong Meng Teo, Philip A. Wilsey, Kevin Jin","ACM 2017, ISBN 978-1-4503-4489-0 ",PADS,B
+109,Learning behavior patterns from video for agent-based crowd modeling and simulation.,2016,"Jinghui Zhong, Wentong Cai, Linbo Luo, Mingbi Zhao",Auton. Agents Multi Agent Syst. 30: 990-1019 ,AAMAS,A*
+110,IBED: Combining IBEA and DE for optimal feature selection in software product line engineering.,2016,"Yinxing Xue, Jinghui Zhong, Tian Huat Tan, Yang Liu, Wentong Cai, Manman Chen, Jun Sun",Appl. Soft Comput. 49: 1215-1231 ,ASC,Unranked
+111,Supporting efficient execution of continuous space agent-based simulation on GPU.,2016,"Xiaosong Li, Wentong Cai, Stephen John Turner",Concurr. Comput. Pract. Exp. 28: 3313-3332 ,CONCURRENCY,Unranked
+112,Transparent three-phase Byzantine fault tolerance for parallel and distributed simulations.,2016,"Zengxiang Li, Wentong Cai, Stephen John Turner, Zheng Qin, Rick Siow Mong Goh",Simul. Model. Pract. Theory 60: 90-107 ,SIMPRA,Unranked
+113,Self-Learning Gene Expression Programming.,2016,"Jinghui Zhong, Yew-Soon Ong, Wentong Cai",IEEE Trans. Evol. Comput. 20: 65-80 ,TEC,Unranked
+114,Dynamic Bin Packing for On-Demand Cloud Resource Allocation.,2016,"Yusen Li, Xueyan Tang, Wentong Cai",IEEE Trans. Parallel Distributed Syst. 27: 157-170 ,TPDS,Unranked
+115,A Hyper-Heuristic Framework for Agent-Based Crowd Modeling and Simulation: (Extended Abstract).,2016,"Jinghui Zhong, Wentong Cai",AAMAS 2016: 1331-1332,ATAL,Unranked
+116,Adaptive resilient strategies for supply chain networks.,2016,"Wen Jun Tan, Wentong Cai, Zhengping Li",IEEE BigData 2016: 3779-3784,BIGDATACONF,Unranked
+117,RA2: Predicting Simulation Execution Time for Cloud-Based Design Space Explorations.,2016,"Ta Nguyen Binh Duong, Jinghui Zhong, Wentong Cai, Zengxiang Li, Suiping Zhou",DS-RT 2016: 120-127,DSRT,Unranked
+118,Traffic State Estimation Using Floating Car Data.,2016,"Abhinav Sunderrajan, Vaisagh Viswanathan, Wentong Cai, Alois C. Knoll",ICCS 2016: 2008-2018,ICCS,Multiconference
+119,On First Fit Bin Packing for Online Cloud Server Allocation.,2016,"Xueyan Tang, Yusen Li, Runtian Ren, Wentong Cai",IPDPS 2016: 323-332,IPPS,Unranked
+120,Predicting the duration of non-recurring road incidents by cluster-specific models.,2016,"Banishree Ghosh, Muhammad Tayyab Asif, Justin Dauwels, Wentong Cai, Hongliang Guo, Ulrich Fastenrath",ITSC 2016: 1522-1527,ITSC,Unranked
+121,Server Allocation for Multiplayer Cloud Gaming.,2016,"Yunhua Deng, Yusen Li, Xueyan Tang, Wentong Cai",ACM Multimedia 2016: 918-927,MM,Unranked
+122,Online Data Extraction for Large-Scale Agent-Based Simulations.,2016,"Daniel Zehe, Vaisagh Viswanathan, Wentong Cai, Alois C. Knoll",SIGSIM-PADS 2016: 69-78,PADS,B
+123,A Role-dependent Data-driven Approach for High Density Crowd Behavior Modeling.,2016,"Mingbi Zhao, Jinghui Zhong, Wentong Cai",SIGSIM-PADS 2016: 89-97,PADS,B
+124,Fairness-aware Update Schedules for Improving Consistency in Multi-server Distributed Virtual Environments.,2016,"Yusen Li, Yunhua Deng, Wentong Cai, Xueyan Tang",SimuTools 2016: 1-8,SIMUTOOLS,Unranked
+125,Data driven Adaptive Traffic simulation of an expressway.,2016,"Abhinav Sunderrajan, Vaisagh Viswanathan, Wentong Cai, Alois C. Knoll",WSC 2016: 1194-1205,WSC,C
+126,Density-based evolutionary framework for crowd model calibration.,2015,"Jinghui Zhong, Nan Hu, Wentong Cai, Michael Lees, Linbo Luo",J. Comput. Sci. 6: 11-22 ,JOCS,Unranked
+127,Differential evolution with sensitivity analysis and the Powell's method for crowd model calibration.,2015,"Jinghui Zhong, Wentong Cai",J. Comput. Sci. 9: 26-32 ,JOCS,Unranked
+128,Evolving agent-based models using self-adaptive complexification.,2015,"Michael Wagner, Wentong Cai, Michael Harold Lees, Heiko Aydt",J. Comput. Sci. 10: 351-359 ,JOCS,Unranked
+129,SEMSim Cloud Service: Large-scale urban systems simulation in the cloud.,2015,"Daniel Zehe, Alois C. Knoll, Wentong Cai, Heiko Aydt",Simul. Model. Pract. Theory 58: 157-171 ,SIMPRA,Unranked
+130,A review of interactive narrative systems and technologies: a training perspective.,2015,"Linbo Luo, Wentong Cai, Suiping Zhou, Michael Lees, Haiyan Yin",Simul. 91: 126-147 ,SIMULATION,Unranked
+131,Play Request Dispatching for Efficient Virtual Machine Usage in Cloud Gaming.,2015,"Yusen Li, Xueyan Tang, Wentong Cai",IEEE Trans. Circuits Syst. Video Technol. 25: 2052-2063 ,TCSV,Unranked
+132,Adaptive Resource Provisioning Mechanism in VEEs for Improving Performance of HLA-Based Simulations.,2015,"Zengxiang Li, Wentong Cai, Stephen John Turner, Xiaorong Li, Ta Nguyen Binh Duong, Rick Siow Mong Goh",ACM Trans. Model. Comput. Simul. 26: 1:1-1:25 ,TOMACS,Unranked
+133,Consistency-Aware Zone Mapping and Client Assignment in Multi-Server Distributed Virtual Environments.,2015,"Yusen Li, Wentong Cai",IEEE Trans. Parallel Distributed Syst. 26: 1570-1579 ,TPDS,Unranked
+134,Learning Behavior Patterns from Video: A Data-driven Framework for Agent-based Crowd Modeling.,2015,"Jinghui Zhong, Wentong Cai, Linbo Luo, Haiyan Yin",AAMAS 2015: 801-809,ATAL,Unranked
+135,A data-driven approach for online adaptation of game difficulty.,2015,"Haiyan Yin, Linbo Luo, Wentong Cai, Yew-Soon Ong, Jinghui Zhong",CIG 2015: 146-153,CIG,Unranked
+136,Evaluation of Crowd Models in Low Density Scenarios Using Real-World Crowd Data.,2015,"Mingbi Zhao, Wentong Cai, Stephen John Turner",DS-RT 2015: 1-9,DSRT,Unranked
+137,Hadoop Job Scheduling with Dynamic Task Splitting.,2015,"YongLiang Xu, Wentong Cai",ICCCRI 2015: 120-129,ICCCRI,Unranked
+138,DEPART: Dynamic Route Planning in Stochastic Time-Dependent Public Transit Networks.,2015,"Peng Ni, Hoang Tam Vo, Daniel Dahlmeier, Wentong Cai, Jordan Ivanchev, Heiko Aydt",ITSC 2015: 1672-1677,ITSC,Unranked
+139,MASTER: Multi-platform Application Streaming Toolkits for Elastic Resources.,2015,"Yusen Li, Yunhua Deng, Ronald Seet, Xueyan Tang, Wentong Cai",ACM Multimedia 2015: 805-806,MM,Unranked
+140,Cloning Agent-based Simulation on GPU.,2015,"Xiaosong Li, Wentong Cai, Stephen John Turner",SIGSIM-PADS 2015: 173-182,PADS,B
+141,An Asynchronous Synchronization Strategy for Parallel Large-scale Agent-based Traffic Simulations.,2015,"Yadong Xu, Wentong Cai, Heiko Aydt, Michael Lees, Daniel Zehe",SIGSIM-PADS 2015: 259-269,PADS,B
+142,Traffic Simulation Performance Optimization through Multi-Resolution Modeling of Road Segments.,2015,"Daniel Zehe, David Grotzky, Heiko Aydt, Wentong Cai, Alois C. Knoll",SIGSIM-PADS 2015: 281-288,PADS,B
+143,Data-Driven Dynamic Adaptation Framework for Multi-agent Training Game.,2015,"Haiyan Yin, Linbo Luo, Wentong Cai, Jinghui Zhong",WI-IAT  2015: 308-311,WEBI,Unranked
+144,Tutorial on a modeling and simulation cloud service.,2015,"Daniel Zehe, Wentong Cai, Alois C. Knoll, Heiko Aydt",WSC 2015: 103-114,WSC,C
+145,Crowd evacuation planning using cartesian genetic programming and agent-based crowd modeling.,2015,"Jinghui Zhong, Wentong Cai, Linbo Luo",WSC 2015: 127-138,WSC,C
+146,Design of supply chain topology to mitigate demand and supply risks.,2015,"Wen Jun Tan, Zhengping Li, Wentong Cai",WSC 2015: 230-241,WSC,C
+147,"Special Issue: Recent Advances in Parallel and Distributed Systems, ICPADS 2012 Selected Papers.",2014,"Xueyan Tang, Wentong Cai, Rick Siow Mong Goh",Future Gener. Comput. Syst. 30: 169 ,FGCS,Unranked
+148,Update schedules for improving consistency in multi-server distributed virtual environments.,2014,"Yusen Li, Wentong Cai",J. Netw. Comput. Appl. 41: 263-273 ,JNCA,Unranked
+149,Dynamic specialization for symbiotic simulation-based operational decision support using the evolutionary computing modelling language (ECML).,2014,"Heiko Aydt, Wentong Cai, Stephen John Turner",J. Simulation 8: 105-114 ,JOS,Unranked
+150,Towards a data-driven approach to scenario generation for serious games.,2014,"Linbo Luo, Haiyan Yin, Wentong Cai, Michael Lees, Nasri Bin Othman, Suiping Zhou",Comput. Animat. Virtual Worlds 25: 395-404 ,JVCA,Unranked
+151,Un-identical federate replication structure for improving performance of HLA-based simulations.,2014,"Zengxiang Li, Wentong Cai, Stephen John Turner",Simul. Model. Pract. Theory 48: 112-128 ,SIMPRA,Unranked
+152,Automatic rule identification for agent-based crowd models through gene expression programming.,2014,"Jinghui Zhong, Linbo Luo, Wentong Cai, Michael Lees",AAMAS 2014: 1125-1132,ATAL,Unranked
+153,OMTiR: Open Market for Trading Idle Cloud Resources.,2014,"Murat Karakus, Zengxiang Li, Wentong Cai, Ta Nguyen Binh Duong",CloudCom 2014: 719-722,CLOUDCOM,Unranked
+154,Efficient Neighbor Searching for Agent-Based Simulation on GPU.,2014,"Xiaosong Li, Wentong Cai, Stephen John Turner",DS-RT 2014: 87-96,DSRT,Unranked
+155,Evolving Agent-based Models Using Complexification Approach.,2014,"Michael Wagner, Wentong Cai, Michael Harold Lees, Heiko Aydt",ICCS 2014: 310-321,ICCS,Multiconference
+156,Analysing the Effectiveness of Wearable Wireless Sensors in Controlling Crowd Disasters.,2014,"Teo Yu Hui Angela, Vaisagh Viswanathan T., Michael Lees, Wentong Cai",ICCS 2014: 1590-1599,ICCS,Multiconference
+157,Let's depart together: Efficient play request dispatching in cloud gaming.,2014,"Yusen Li, Xueyan Tang, Wentong Cai",NETGAMES 2014: 1-6,NETGAMES,Unranked
+158,Hierarchical resource management for enhancing performance of large-scale simulations on data centers.,2014,"Zengxiang Li, Xiaorong Li, Long Wang, Wentong Cai",SIGSIM-PADS 2014: 187-196,PADS,B
+159,On dynamic bin packing for resource allocation in the cloud.,2014,"Yusen Li, Xueyan Tang, Wentong Cai",SPAA 2014: 2-11,SPAA,B
+160,Ea-based evacuation planning using agent-based crowd simulation.,2014,"Jinghui Zhong, Wentong Cai, Linbo Luo, Michael Lees",WSC 2014: 395-406,WSC,C
+161,Map stream: initializing what-if analyses for real-time symbiotic traffic simulations.,2014,"Abhinav Sunderrajan, Heiko Aydt, Wentong Cai, Alois C. Knoll",WSC 2014: 2896-2906,WSC,C
+162,Efficient graph-based dynamic load-balancing for parallel large-scale agent-based traffic simulation.,2014,"Yadong Xu, Wentong Cai, Heiko Aydt, Michael Lees",WSC 2014: 3483-3494,WSC,C
+163,Interactive scenario generation for mission-based virtual training.,2013,"Linbo Luo, Haiyan Yin, Wentong Cai, Michael Lees, Suiping Zhou",Comput. Animat. Virtual Worlds 24: 345-354 ,JVCA,Unranked
+164,Compensatory dead-reckoning-based update scheduling for distributed virtual environments.,2013,"Zengxiang Li, Xueyan Tang, Wentong Cai, Xiaorong Li",Simul. 89: 1272-1287 ,SIMULATION,Unranked
+165,Mission-Based Scenario Modeling and Generation for Virtual Training.,2013,"Linbo Luo, Haiyan Yin, Jinghui Zhong, Wentong Cai, Michael Lees, Suiping Zhou",AIIDE 2013,AIIDE,Unranked
+166,A Data-Driven Crowd Simulation Model Based on Clustering and Classification.,2013,"Mingbi Zhao, Stephen John Turner, Wentong Cai",DS-RT 2013: 125-134,DSRT,Unranked
+167,vTRUST: A Formal Modeling and Verification Framework for Virtualization Systems.,2013,"Jianan Hao, Yang Liu, Wentong Cai, Guangdong Bai, Jun Sun",ICFEM 2013: 329-346,ICFEM,C
+168,Application Layer Multicast in P2P Distributed Interactive Applications.,2013,"Yusen Li, Wentong Cai, Xueyan Tang",ICPADS 2013: 396-403,ICPADS,B
+169,GPU accelerated three-stage execution model for event-parallel simulation.,2013,"Xiaosong Li, Wentong Cai, Stephen John Turner",SIGSIM-PADS 2013: 57-66,PADS,B
+170,Hierarchical interest management for distributed virtual environments.,2013,"Ke Pan, Xueyan Tang, Wentong Cai, Suiping Zhou, Hanying Zheng",SIGSIM-PADS 2013: 137-146,PADS,B
+171,Accelerating optimistic HLA-based simulations in virtual execution environments.,2013,"Zengxiang Li, Xiaorong Li, Ta Nguyen Binh Duong, Wentong Cai, Stephen John Turner",SIGSIM-PADS 2013: 211-220,PADS,B
+172,Grand challenges in modeling and simulation: expanding our horizons.,2013,"Simon J. E. Taylor, Osman Balci, Wentong Cai, Margaret L. Loper, David M. Nicol, George F. Riley",SIGSIM-PADS 2013: 403-408,PADS,B
+173,Spatial indexing in agent-based crowd simulation.,2013,"Nasri Bin Othman, Linbo Luo, Wentong Cai, Michael Lees",SimuTools 2013: 92-100,SIMUTOOLS,Unranked
+174,Emergence by strategy: Flocking boids and their fitness in relation to model complexity.,2013,"Michael Wagner, Wentong Cai, Michael Harold Lees",WSC 2013: 1479-1490,WSC,C
+175,"6th International ICST Conference on Simulation Tools and Techniques, SimuTools '13, Cannes, France, March 6-8, 2013.",2013,"Jan Himmelspach, Kurt Vanmechelen, Wentong Cai","ICST/ACM 2013, ISBN 978-1-4503-2464-9 ",SIMUTOOLS,Unranked
+176,Loss-aware DR-based update scheduling for improving consistency in DVEs.,2012,"Zengxiang Li, Wentong Cai, Xueyan Tang, Suiping Zhou",J. Simulation 6: 164-178 ,JOS,Unranked
+177,Evolving Optimal and Diversified Military Operational Plans for Computational Red Teaming.,2012,"Fanchao Zeng, James Decraene, Malcolm Yoke Hean Low, Suiping Zhou, Wentong Cai",IEEE Syst. J. 6: 499-509 ,SJ,Unranked
+178,Interactivity-Constrained Server Provisioning in Large-Scale Distributed Virtual Environments.,2012,"Ta Nguyen Binh Duong, Thang Nguyen, Suiping Zhou, Xueyan Tang, Wentong Cai, Rassul Ayani",IEEE Trans. Parallel Distributed Syst. 23: 304-312 ,TPDS,Unranked
+179,Simulation-based optimization of StarCraft tactical AI through evolutionary computation.,2012,"Nasri Bin Othman, James Decraene, Wentong Cai, Nan Hu, Malcolm Yoke Hean Low, Alexandre Gouaillard",CIG 2012: 394-401,CIG,Unranked
+180,QoS-Aware Revenue-Cost Optimization for Latency-Sensitive Services in IaaS Clouds.,2012,"Ta Nguyen Binh Duong, Xiaorong Li, Rick Siow Mong Goh, Xueyan Tang, Wentong Cai",DS-RT 2012: 11-18,DSRT,Unranked
+181,Consistency-aware Partitioning Algorithm in Multi-server Distributed Virtual Environments.,2012,"Yusen Li, Wentong Cai",IPDPS 2012: 798-807,IPPS,Unranked
+182,Fair and Efficient Dead Reckoning-Based Update Dissemination for Distributed Virtual Environments.,2012,"Zengxiang Li, Xueyan Tang, Wentong Cai, Stephen John Turner",PADS 2012: 13-22,PADS,B
+183,Measuring Information Exposure Attacks on Interest Management.,2012,"Jianan Hao, Wentong Cai",PADS 2012: 133-144,PADS,B
+184,Enhancement of Collaborative Interest Management Mechanism for P2P Networked Virtual Environment.,2012,"Cheng Liu, Wentong Cai",PADS 2012: 145-154,PADS,B
+185,Effective crowd control through adaptive evolution of agent-based simulation models.,2012,"Nan Hu, James Decraene, Wentong Cai",WSC 2012: 213:1-213:12,WSC,C
+186,Grid-based partitioning for large-scale distributed agent-based crowd simulation.,2012,"Yongwei Wang, Michael Lees, Wentong Cai",WSC 2012: 241:1-241:12,WSC,C
+187,Multi-objective zone mapping in large-scale distributed virtual environments.,2011,"Ta Nguyen Binh Duong, Suiping Zhou, Wentong Cai, Xueyan Tang, Rassul Ayani",J. Netw. Comput. Appl. 34: 551-561 ,JNCA,Unranked
+188,HumDPM: A Decision Process Model for Modeling Human-Like Behaviors in Time-Critical and Uncertain Situations.,2011,"Linbo Luo, Suiping Zhou, Wentong Cai, Michael Lees, Malcolm Yoke Hean Low, Kabilen Sornum",Trans. Comput. Sci. 12: 206-230 ,TCOS,Unranked
+189,Toward an Evolutionary Computing Modeling Language.,2011,"Heiko Aydt, Stephen John Turner, Wentong Cai, Malcolm Yoke Hean Low, Yew-Soon Ong, Rassul Ayani",IEEE Trans. Evol. Comput. 15: 230-247 ,TEC,Unranked
+190,A dynamic sort-based DDM matching algorithm for HLA applications.,2011,"Ke Pan, Stephen John Turner, Wentong Cai, Zengxiang Li",ACM Trans. Model. Comput. Simul. 21: 17:1-17:17 ,TOMACS,Unranked
+191,Studies on Pareto-based multi-objective competitive coevolutionary dynamics.,2011,"Fanchao Zeng, James Decraene, Malcolm Yoke Hean Low, Wentong Cai, Philip Hingston",IEEE Congress on Evolutionary Computation 2011: 2383-2390,CEC,B
+192,High-dimensional objective-based data farming.,2011,"Fanchao Zeng, James Decraene, Malcolm Yoke Hean Low, Wentong Cai, Philip Hingston, Suiping Zhou",CISDA 2011: 80-87,CISDA,Unranked
+193,Determining Optimal Update Period for Minimizing Inconsistency in Multi-server Distributed Virtual Environments.,2011,"Yusen Li, Wentong Cai",DS-RT 2011: 126-133,DSRT,Unranked
+194,A Computational Model of Emotions for Agent-Based Crowds in Serious Games.,2011,"Heiko Aydt, Michael Lees, Linbo Luo, Wentong Cai, Malcolm Yoke Hean Low, Kabilen Kadirvelen Sornum",IAT 2011: 72-80,IAT,Unranked
+195,Dead Reckoning-Based Update Scheduling against Message Loss for Improving Consistency in DVEs.,2011,"Zengxiang Li, Wentong Cai, Xueyan Tang, Suiping Zhou",PADS 2011: 1-9,PADS,B
+196,Collaborative Interest Management for Peer-to-Peer Networked Virtual Environment.,2011,"Cheng Liu, Wentong Cai",PADS 2011: 1-10,PADS,B
+197,A virtualization-based approach for zone migration in distributed virtual environments.,2011,"Duong Nguyen Binh Ta, Thang Nguyen, Tran Nguyen, Nguyen Do, Xueyan Tang, Wentong Cai, Suiping Zhou",SimuTools 2011: 249-256,SIMUTOOLS,Unranked
+198,Trusted Block as a Service: Towards Sensitive Applications on the Cloud.,2011,"Jianan Hao, Wentong Cai",TrustCom 2011: 73-82,TRUSTCOM,Unranked
+199,Symbiotic simulation for optimisation of tool operations in semiconductor manufacturing.,2011,"Heiko Aydt, Stephen John Turner, Wentong Cai, Boon-Ping Gan",WSC 2011: 2093-2104,WSC,C
+200,Synchronization in federation community networks.,2010,"Dan Chen, Stephen John Turner, Wentong Cai, Georgios K. Theodoropoulos, Muzhou Xiong, Michael Lees",J. Parallel Distributed Comput. 70: 144-159 ,JPDC,Unranked
+201,Crowd modeling and simulation technologies.,2010,"Suiping Zhou, Dan Chen, Wentong Cai, Linbo Luo, Malcolm Yoke Hean Low, Feng Tian, Victor Su-Han Tay, Darren Wee Sze Ong, Benjamin D. Hamilton",ACM Trans. Model. Comput. Simul. 20: 20:1-20:35 ,TOMACS,Unranked
+202,Analysis of an efficient rule-based motion planning system for simulating human crowds.,2010,"Muzhou Xiong, Michael Lees, Wentong Cai, Suiping Zhou, Malcolm Yoke Hean Low",Vis. Comput. 26: 367-383 ,VC,Unranked
+203,A Framework for Performance Evaluation of Large-scale Interactive Distributed Virtual Environments.,2010,"Duong Nguyen Binh Ta, Thang Nguyen, Suiping Zhou, Xueyan Tang, Wentong Cai, Rassul Ayani",CIT 2010: 2744-2751,IEEECIT,Unranked
+204,Consistency Aware Dead Reckoning Threshold Tuning with Server Assistance in Client-Server-Based DVEs.,2010,"Yusen Li, Wentong Cai",CIT 2010: 2925-2932,IEEECIT,Unranked
+205,Autonomous Bee Colony Optimization for multi-objective function.,2010,"Fanchao Zeng, James Decraene, Malcolm Yoke Hean Low, Philip Hingston, Wentong Cai, Suiping Zhou, Mahinthan Chandramohan",IEEE Congress on Evolutionary Computation 2010: 1-8,CEC,B
+206,Modeling Human-Like Decision Making for Virtual Agents in Time-Critical Situations.,2010,"Linbo Luo, Suiping Zhou, Wentong Cai, Michael Lees, Malcolm Yoke Hean Low",CW 2010: 360-367,CW,C
+207,A Three-Phases Byzantine Fault Tolerance Mechanism for HLA-Based Simulation.,2010,"Zengxiang Li, Wentong Cai, Stephen John Turner, Ke Pan",DS-RT 2010: 149-158,DSRT,Unranked
+208,Evolving agent-based simulations in the clouds.,2010,"James Decraene, Yong Yong Cheng, Malcolm Yoke Hean Low, Suiping Zhou, Wentong Cai, Chwee Seng Choo",IWACI 2010: 244-249,ICACI,Unranked
+209,Automated modeling and analysis of agent-based simulations using the CASE framework.,2010,"James Decraene, Malcolm Yoke Hean Low, Fanchao Zeng, Suiping Zhou, Wentong Cai",ICARCV 2010: 346-351,ICARCV,C
+210,A systematic approach for rapid 3D reconstruction from photosets.,2010,"Hoai Nam Le Tran, Kabilen Sornum, Hock Soon Seah, Wentong Cai, Malcolm Yoke Hean Low, Suiping Zhou, Michael Lees",ICARCV 2010: 1167-1174,ICARCV,C
+211,A hybrid Interest Management mechanism for peer-to-peer Networked Virtual Environments.,2010,"Ke Pan, Wentong Cai, Xueyan Tang, Suiping Zhou, Stephen John Turner",IPDPS 2010: 1-12,IPPS,Unranked
+212,Federate Fault Tolerance in HLA-Based Simulation.,2010,"Zengxiang Li, Wentong Cai, Stephen John Turner, Ke Pan",PADS 2010: 3-12,PADS,B
+213,QoS-Aware Server Provisioning for Large-Scale Distributed Virtual Environments.,2010,"Duong Nguyen Binh Ta, Suiping Zhou, Wentong Cai, Xueyan Tang, Rassul Ayani",PADS 2010: 23-30,PADS,B
+214,Consistency aware update schedule in multi-server Distributed Virtual Environments.,2010,"Yusen Li, Wentong Cai",SimuTools 2010: 3,SIMUTOOLS,Unranked
+215,A framework of intelligent environment with smart-active objects (IESAO) for flexible and efficient crowd simulation.,2010,"Anson Yuanxi Liang, Malcolm Yoke Hean Low, Michael Harold Lees, Wentong Cai, Suiping Zhou",SpringSim 2010: 19,SPRINGSIM,Unranked
+216,Research advances in automated red teaming.,2010,"James Decraene, Fanchao Zeng, Malcolm Yoke Hean Low, Suiping Zhou, Wentong Cai",SpringSim 2010: 47,SPRINGSIM,Unranked
+217,A replication structure for efficient and fault-tolerant parallel and distributed simulations.,2010,"Zengxiang Li, Wentong Cai, Stephen John Turner, Ke Pan",SpringSim 2010: 151,SPRINGSIM,Unranked
+218,Hybrid modelling of crowd simulation.,2010,"Muzhou Xiong, Michael Lees, Wentong Cai, Suiping Zhou, Malcolm Yoke Hean Low",ICCS 2010: 57-65,PROCEDIA,Unranked
+219,DynaSched: a dynamic Web service scheduling and deployment framework for data-intensive Grid workflows.,2010,"Shayan Shahand, Stephen John Turner, Wentong Cai, Maryam Khademi Hedayat",ICCS 2010: 593-602,PROCEDIA,Unranked
+220,A dynamic admission control scheme to manage contention on shared computing resources.,2009,"Percival Xavier, Wentong Cai, Bu-Sung Lee",Concurr. Comput. Pract. Exp. 21: 133-158 ,CONCURRENCY,Unranked
+221,A Hybrid HLA Time Management Algorithm Based on Both Conditional and Unconditional Information.,2009,"Ke Pan, Stephen John Turner, Wentong Cai, Zengxiang Li",Simul. 85: 559-573 ,SIMULATION,Unranked
+222,Multi-user Gaming on the Grid Using a Service Oriented HLA RTI.,2009,"Ke Pan, Stephen John Turner, Wentong Cai, Zengxiang Li",DS-RT 2009: 48-56,DSRT,Unranked
+223,Toward a Generic Framework for Modeling Human Behaviors in Crowd Simulation.,2009,"Linbo Luo, Suiping Zhou, Wentong Cai, Malcolm Yoke Hean Low, Michael Lees",IAT 2009: 275-278,IAT,Unranked
+224,Splitting Overlay Network for Peer-to-Peer-based Massively Multiplayer Online Games.,2009,"Cheng Liu, Wentong Cai",IICS 2009: 157-168,IICS,Unranked
+225,Distributed Execution of Workflow Using Parallel Partitioning.,2009,"Maryam Khademi Hedayat, Wentong Cai, Stephen John Turner, Shayan Shahand",ISPA 2009: 106-112,ISPA,C
+226,Symbiotic Simulation Model Validation for Radiation Detection Applications.,2009,"Heiko Aydt, Stephen John Turner, Wentong Cai, Malcolm Yoke Hean Low, Rassul Ayani",PADS 2009: 11-18,PADS,B
+227,Communication-Efficient Support for Spatial Filtering of State Updates in Distributed Virtual Environments.,2009,"Xueyan Tang, Wentong Cai",PADS 2009: 129-136,PADS,B
+228,Efficient Zone Mapping Algorithms for Distributed Virtual Environments.,2009,"Ta Nguyen Binh Duong, Suiping Zhou, Wentong Cai, Xueyan Tang, Rassul Ayani",PADS 2009: 137-144,PADS,B
+229,A framework of evaluating partitioning mechanisms for agent-based simulation systems.,2009,"Yongwei Wang, Wentong Cai, Malcolm Yoke Hean Low, Suiping Zhou, Feng Tian, Linbo Luo, Darren Wee Sze Ong, Benjamin D. Hamilton",SpringSim 2009,SPRINGSIM,Unranked
+230,A case study of multi-resolution modeling for crowd simulation.,2009,"Muzhou Xiong, Wentong Cai, Suiping Zhou, Malcolm Yoke Hean Low, Feng Tian, Dan Chen, Darren Wee Sze Ong, Benjamin D. Hamilton",SpringSim 2009,SPRINGSIM,Unranked
+231,A Rule-Based Motion Planning for Crowd Simulation.,2009,"Muzhou Xiong, Michael Lees, Wentong Cai, Suiping Zhou, Malcolm Yoke Hean Low",CW 2009: 88-95,CW,C
+232,Implementation of Data Distribution Management Services in a Service Oriented HLA RTI.,2009,"Ke Pan, Stephen John Turner, Wentong Cai, Zengxiang Li",WSC 2009: 1027-1038,WSC,C
+233,Cluster based Partitioning for Agent-based Crowd Simulations.,2009,"Yongwei Wang, Michael Lees, Wentong Cai, Suiping Zhou, Malcolm Yoke Hean Low",WSC 2009: 1047-1058,WSC,C
+234,Research Issues in Symbiotic Simulation.,2009,"Heiko Aydt, Stephen John Turner, Wentong Cai, Malcolm Yoke Hean Low",WSC 2009: 1213-1222,WSC,C
+235,An Agent-Based Generic Framework for Symbiotic Simulation Systems.,2009,"Stephen John Turner, Wentong Cai, Malcolm Yoke Hean Low, Heiko Aydt",Multi-Agent Systems 2009: 357-387,COLLECTIONS,Unranked
+236,"13th IEEE/ACM International Symposium on Distributed Simulation and Real Time Applications, Singapore, 25-28 October 2009.",2009,"Stephen John Turner, David J. Roberts, Wentong Cai, Abdulmotaleb El-Saddik","IEEE Computer Society 2009, ISBN 978-0-7695-3868-6 ",DSRT,Unranked
+237,Large scale agent-based simulation on the grid.,2008,"Dan Chen, Georgios K. Theodoropoulos, Stephen John Turner, Wentong Cai, Rob Minson, Yi Zhang",Future Gener. Comput. Syst. 24: 658-671 ,FGCS,Unranked
+238,A decoupled federate architecture for high level architecture-based distributed simulation.,2008,"Dan Chen, Stephen John Turner, Wentong Cai, Muzhou Xiong",J. Parallel Distributed Comput. 68: 1487-1503 ,JPDC,Unranked
+239,Execution coordination in mobile agent-based distributed job workflow execution.,2008,"Yuhong Feng, Wentong Cai",J. Syst. Archit. 54: 944-956 ,JSA,Unranked
+240,Agent-based human behavior modeling for crowd simulation.,2008,"Linbo Luo, Suiping Zhou, Wentong Cai, Malcolm Yoke Hean Low, Feng Tian, Yongwei Wang, Xian Xiao, Dan Chen",Comput. Animat. Virtual Worlds 19: 271-281 ,JVCA,Unranked
+241,Towards Fault-tolerant HLA-based Distributed Simulations.,2008,"Dan Chen, Stephen John Turner, Wentong Cai",Simul. 84: 493-509 ,SIMULATION,Unranked
+242,Shared Variable Management in SOAr-DSGrid.,2008,"Xinjun Chen, Wentong Cai, Stephen John Turner, Yong Wang",Asia International Conference on Modelling and Simulation 2008: 154-161,ASIAMS,Unranked
+243,Network-Aware Server Placement for Highly Interactive Distributed Virtual Environments.,2008,"Duong Nguyen Binh Ta, Suiping Zhou, Wentong Cai, Xueyan Tang, Rassul Ayani",DS-RT 2008: 95-102,DSRT,Unranked
+244,Symbiotic Simulation Control in Semiconductor Manufacturing.,2008,"Heiko Aydt, Stephen John Turner, Wentong Cai, Malcolm Yoke Hean Low, Peter Lendermann, Boon-Ping Gan",ICCS  2008: 26-35,ICCS,Multiconference
+245,Symbiotic Simulation Systems: An Extended Definition Motivated by Symbiosis in Biology.,2008,"Heiko Aydt, Stephen John Turner, Wentong Cai, Malcolm Yoke Hean Low",PADS 2008: 109-116,PADS,B
+246,A Hybrid HLA Time Management Algorithm Based on Both Conditional and Unconditional Information.,2008,"Ke Pan, Stephen John Turner, Wentong Cai, Zengxiang Li",PADS 2008: 203-211,PADS,B
+247,Preventive what-if analysis in symbiotic simulation.,2008,"Heiko Aydt, Stephen John Turner, Wentong Cai, Malcolm Yoke Hean Low, Peter Lendermann, Boon-Ping Gan, Rassul Ayani",WSC 2008: 750-758,WSC,C
+248,Improving performance by replicating simulations with alternative synchronization approaches.,2008,"Zengxiang Li, Wentong Cai, Stephen John Turner, Ke Pan",WSC 2008: 1112-1120,WSC,C
+249,An integrated and adaptive decision-support framework for high-tech manufacturing and service networks.,2007,"Peter Lendermann, Stephen John Turner, Malcolm Y. H. Low, Boon Ping Gan, Nirupam Julka, Lai Peng Chan, Wentong Cai, Loo Hay Lee, Ek Peng Chew, Suyan Teng, Leon F. McGinnis",J. Simulation 1: 69-79 ,JOS,Unranked
+250,Dynamic partner identification in mobile agent-based distributed job workflow execution.,2007,"Yuhong Feng, Wentong Cai, Jiannong Cao",J. Parallel Distributed Comput. 67: 1137-1154 ,JPDC,Unranked
+251,A secure information service for monitoring large scale grids.,2007,"Wei Jie, Wentong Cai, Lizhe Wang, Rob Procter",Parallel Comput. 33: 572-591 ,PC,Unranked
+252,Flexible State Update Mechanism for Large-Scale Distributed Wargame Simulations.,2007,"Suiping Zhou, Wentong Cai, Stephen John Turner, Junhu Wei, Wenbo Zong",Simul. 83: 707-719 ,SIMULATION,Unranked
+253,Critical causal order of events in distributed virtual environments.,2007,"Suiping Zhou, Wentong Cai, Stephen John Turner, Bu-Sung Lee, Junhu Wei",ACM Trans. Multim. Comput. Commun. Appl. 3: 15 ,TOMCCAP,Unranked
+254,Federate Migration in a Service Oriented HLA RTI.,2007,"Zengxiang Li, Wentong Cai, Stephen John Turner, Ke Pan",DS-RT 2007: 113-121,DSRT,Unranked
+255,Provenance Provisioning in Mobile Agent-Based Distributed Job Workflow Execution.,2007,"Yuhong Feng, Wentong Cai",International Conference on Computational Science  2007: 398-405,ICCS,Multiconference
+256,A Service Oriented HLA RTI on the Grid.,2007,"Ke Pan, Stephen John Turner, Wentong Cai, Zengxiang Li",ICWS 2007: 984-992,ICWS,A
+257,An Efficient Sort-Based DDM Matching Algorithm for HLA Applications with a Large Spatial Environment.,2007,"Ke Pan, Stephen John Turner, Wentong Cai, Zengxiang Li",PADS 2007: 70-82,PADS,B
+258,Time management in a service-oriented architecture for distributed simulation on the grid.,2007,"Yong Wang, Stephen John Turner, Wentong Cai, Xinjun Chen",SCSC 2007: 392-399,SCSC,C
+259,Shared State Synchronization for HLA-Based Distributed Simulation.,2006,"Malcolm Yoke Hean Low, Boon-Ping Gan, Junhu Wei, Xiaoguang Wang, Stephen John Turner, Wentong Cai",Simul. 82: 511-521 ,SIMULATION,Unranked
+260,Workload management of cooperatively federated computing clusters.,2006,"Percival Xavier, Wentong Cai, Bu-Sung Lee",J. Supercomput. 36: 309-322 ,TJS,Unranked
+261,Transparent adaptation of single-user applications for multi-user real-time collaboration.,2006,"Chengzheng Sun, Steven Xia, David Sun, David Chen, Haifeng Shen, Wentong Cai",ACM Trans. Comput. Hum. Interact. 13: 531-582 ,TOCHI,Unranked
+262,Large Scale Distributed Simulation on the Grid.,2006,"Georgios Theodoropoulos, Yi Zhang, Dan Chen, Rob Minson, Stephen John Turner, Wentong Cai, Yong Xie, Brian Logan",CCGRID 2006: 63,CCGRID,B
+263,Architecture Model for Information Service in Large Scale Grid Environments.,2006,"Wei Jie, Terence Hung, Stephen John Turner, Wentong Cai",CCGRID 2006: 107-114,CCGRID,B
+264,Adaptive Policing for Token-Exchange Based Management of Shared Computing Resources.,2006,"Percival Xavier, Wentong Cai, Bu-Sung Lee",CCGRID 2006: 617-624,CCGRID,B
+265,SOAr-DSGrid: Service-Oriented Architecture for Distributed Simulation on the Grid.,2006,"Xinjun Chen, Wentong Cai, Stephen John Turner, Yong Wang",PADS 2006: 65-73,PADS,B
+266,A Generic Symbiotic Simulation Framework.,2006,"Shell-Ying Huang, Wentong Cai, Stephen John Turner, Wen-Jing Hsu, Suiping Zhou, Malcolm Yoke Hean Low, Richard Fujimoto, Rassul Ayani",PADS 2006: 131,PADS,B
+267,A Framework for Robust HLA-based Distributed Simulations.,2006,"Dan Chen, Stephen John Turner, Wentong Cai",PADS 2006: 183-192,PADS,B
+268,Federate migration in HLA-based simulation.,2005,"Wentong Cai, Zijing Yuan, Malcolm Yoke Hean Low, Stephen John Turner",Future Gener. Comput. Syst. 21: 87-95 ,FGCS,Unranked
+269,A peer-to-peer approach to task scheduling in computation grid.,2005,"Jiannong Cao, Oscar M. K. Kwong, Xianbing Wang, Wentong Cai",Int. J. Grid Util. Comput. 1: 13-21 ,IJGUC,Unranked
+270,Information Management for Computational Grids.,2005,"Wei Jie, Tianyi Zang, Terence Hung, Stephen John Turner, Wentong Cai",Int. J. Web Serv. Res. 2: 69-82 ,JWSR,Unranked
+271,A Hybrid Analysis of an Optimization Approach for Cluster Applications.,2005,"Ming Zhu, Wentong Cai, Bu-Sung Lee, Xudong Wu",J. Supercomput. 32: 191-215 ,TJS,Unranked
+272,"An Information Service for Grid Virtual Organization: Architecture, Implementation and Evaluation.",2005,"Wei Jie, Terence Hung, Wentong Cai",J. Supercomput. 34: 273-290 ,TJS,Unranked
+273,An alternative time management mechanism for distributed simulations.,2005,"Wentong Cai, Stephen John Turner, Bu-Sung Lee, Junlan Zhou",ACM Trans. Model. Comput. Simul. 15: 109-137 ,TOMACS,Unranked
+274,Algorithms for HLA-based distributed simulation cloning.,2005,"Dan Chen, Stephen John Turner, Wentong Cai, Boon-Ping Gan, Malcolm Yoke Hean Low",ACM Trans. Model. Comput. Simul. 15: 316-345 ,TOMACS,Unranked
+275,Performance Evaluation of a Bandwidth Requirements Reduction Technique Based on Timely State Update.,2005,"Wentong Cai, Stephen John Turner, Suiping Zhou, Junhu Wei, Wenbo Zong",Annual Simulation Symposium 2005: 225-232,ANSS,Unranked
+276,Employing economics to achieve fairness in usage policing of cooperatively shared computing resources.,2005,"Percival Xavier, Wentong Cai, Bu-Sung Lee",CCGRID 2005: 326-333,CCGRID,B
+277,Design and implementation of an efficient multi-cluster GridRPC system.,2005,"Quoc-Thuan Ho, Wentong Cai, Yew-Soon Ong",CCGRID 2005: 358-365,CCGRID,B
+278,Communication Partner Identification in Distributed Job Workflow Execution over the Grid.,2005,"Yuhong Feng, Wentong Cai, Jiannong Cao",ICDCS Workshops 2005: 587-593,ICDCSW,Unranked
+279,Servicing Provisioning for HLA-Based Distributed Simulation on the Grid.,2005,"Yong Xie, Yong Meng Teo, Wentong Cai, Stephen John Turner",PADS 2005: 282-291,PADS,B
+280,An integrated and adaptive decision-support framework for high-tech manufacturing and service networks.,2005,"Peter Lendermann, Malcolm Y. H. Low, Boon-Ping Gan, Nirupam Julka, Lai Peng Chan, Loo Hay Lee, Simon J. E. Taylor, Stephen John Turner, Wentong Cai, Xiaoguang Wang, Terence Hung, Leon F. McGinnis, Stephen J. Buckley",WSC 2005: 2052-2062,WSC,C
+281,Characterization and delivery of directly coupled causal messages in distributed systems.,2004,"Yi Zeng, Wentong Cai, Stephen John Turner, Suiping Zhou, Bu-Sung Lee",Future Gener. Comput. Syst. 20: 171-178 ,FGCS,Unranked
+282,A prototype of distributed molecular visualization on computational grids.,2004,"Huabing Zhu, Tony Kai Yun Chan, Lizhe Wang, Wentong Cai, Simon See",Future Gener. Comput. Syst. 20: 727-737 ,FGCS,Unranked
+283,Models and Heuristics for Resource Co-reservation for Parallel Tasks in Computational Grids.,2004,"Lizhe Wang, Wentong Cai, Simon See, Wei Jie",Neural Parallel Sci. Comput. 12: 261-288 ,NPSC,Unranked
+284,Key Messaging on SOME-Bus clusters.,2004,"Ming Zhu, Constantine Katsinis, Wentong Cai, Bu-Sung Lee",Parallel Comput. 30: 947-971 ,PC,Unranked
+285,Time-space consistency in large-scale distributed virtual environments.,2004,"Suiping Zhou, Wentong Cai, Bu-Sung Lee, Stephen John Turner",ACM Trans. Model. Comput. Simul. 14: 31-47 ,TOMACS,Unranked
+286,Multiplayer internet gaming with VRML: a relook.,2004,"Peter K. K. Loh, S. Phong, Wentong Cai, Tony Kai Yun Chan",Advances in Computer Entertainment Technology 2004: 140-147,ACMACE,Unranked
+287,Grid Services and Service Discovery for HLA-Based Distributed Simulation.,2004,"Wenbo Zong, Yong Wang, Wentong Cai, Stephen John Turner",DS-RT 2004: 116-124,DSRT,Unranked
+288,HLA-Based Distributed Simulation Cloning.,2004,"Dan Chen, Stephen John Turner, Boon-Ping Gan, Wentong Cai",DS-RT 2004: 244-247,DSRT,Unranked
+289,Federate Migration in HLA-Based Simulation.,2004,"Zijing Yuan, Wentong Cai, Yoke-Hean Low, Stephen John Turner",International Conference on Computational Science 2004: 856-864,ICCS,Multiconference
+290,The Design and Implementation of An OGSA-based Grid Information Service.,2004,"Tianyi Zang, Wei Jie, Terence Hung, Zhou Lei, Stephen John Turner, Wentong Cai",ICWS 2004: 566-,ICWS,A
+291,MCCF: A Distributed Grid Job Workflow Execution Framework.,2004,"Yuhong Feng, Wentong Cai",ISPA 2004: 274-279,ISPA,C
+292,Managing Irregular Workloads of Cooperatively Shared Computing Clusters.,2004,"Percival Xavier, Wentong Cai, Bu-Sung Lee",ISPA 2004: 625-634,ISPA,C
+293,Batch Based Cancellation: A Rollback Optimal Cancellation Scheme in Time Warp Simulations.,2004,"Yi Zeng, Wentong Cai, Stephen John Turner",PADS 2004: 78-86,PADS,B
+294,A Utility Model for Timely State Update in Distributed Wargame Simulations.,2004,"Suiping Zhou, Stephen John Turner, Wentong Cai, Hanfeng Zhao, Xiaolin Pang",PADS 2004: 105-111,PADS,B
+295,"GAD Kit - A Toolkit for ""Gridifying"" Applications.",2004,"Quoc-Thuan Ho, Yew-Soon Ong, Wentong Cai, Hee-Khiang Ng, Bu-Sung Lee",PDCAT 2004: 868-871,PDCAT,C
+296,Incremental HLA-Based Distributed Simulation Cloning.,2004,"Dan Chen, Stephen John Turner, Wentong Cai, Boon-Ping Gan, Malcolm Yoke Hean Low",WSC 2004: 386-394,WSC,C
+297,"Parallel and Distributed Computing: Applications and Technologies, 5th International Conference, PDCAT 2004, Singapore, December 8-10, 2004, Proceedings.",2004,"Kim-Meow Liew, Hong Shen, Simon See, Wentong Cai, Pingzhi Fan, Susumu Horiguchi","Lecture Notes in Computer Science 3320, Springer 2004, ISBN 3-540-24013-6 ",PDCAT,C
+298,Key Message Approach to Optimize Communication of Parallel Applications on Clusters.,2003,"Ming Zhu, Wentong Cai, Bu-Sung Lee",Clust. Comput. 6: 253-265 ,CLUSTER,B
+299,Performance Analysis of a Myrinet-Based Cluster.,2003,"Teddy Surya Gunawan, Wentong Cai",Clust. Comput. 6: 299-313 ,CLUSTER,B
+300,Alternative Solutions for Distributed Simulation Cloning.,2003,"Dan Chen, Stephen John Turner, Boon-Ping Gan, Wentong Cai, Junhu Wei, Nirupam Julka",Simul. 79: 299-315 ,SIMULATION,Unranked
+301,Design and Development of a Cluster Gateway for Cluster-based HLA Distributed Virtual Simulation Environments.,2003,"Dan Chen, Bu-Sung Lee, Wentong Cai, Stephen John Turner",Annual Simulation Symposium 2003: 193-200,ANSS,Unranked
+302,Evaluating Alternative Solutions for Cloning in Distributed Simulation.,2003,"Dan Chen, Boon-Ping Gan, Nirupam Julka, Stephen John Turner, Wentong Cai, Junhu Wei",Annual Simulation Symposium 2003: 201-208,ANSS,Unranked
+303,Improving Data Filtering Accuracy in Hierarchical Federations.,2003,"Li Liu, Wentong Cai, Stephen John Turner, Guangya Li",Annual Simulation Symposium 2003: 209-215,ANSS,Unranked
+304,Resource Co-allocation for Parallel Tasks in Computational Grids.,2003,"Lizhe Wang, Wentong Cai, Bu-Sung Lee, Simon See, Wei Jie",CLADE 2003: 88,CLADE,Unranked
+305,A Consistency Model for Evaluating Distributed Virtual Environments.,2003,"Suiping Zhou, Wentong Cai, Stephen John Turner, Hanfeng Zhao",CW 2003: 85-91,CW,C
+306,DPBP: A Sort-First Parallel Rendering Algorithm for Distributed Rendering Environments.,2003,"Huabing Zhu, Kai-Yun Chan, Lizhe Wang, Wentong Cai, Simon See",CW 2003: 214-220,CW,C
+307,A Framework for Executing Parallel Simulation Using RTI.,2003,"Zijing Yuan, Wentong Cai, Malcolm Y. H. Low",DS-RT 2003: 12-19,DSRT,Unranked
+308,"""Gridifying"" Aerodynamic Design Problem Using GridRPC.",2003,"Quoc-Thuan Ho, Yew-Soon Ong, Wentong Cai",GCC  2003: 83-90,GCC,Unranked
+309,Distributed Information Management System for Grid Computing.,2003,"Liping Niu, Xiaojie Yuan, Wentong Cai",GCC  2003: 168-171,GCC,Unranked
+310,A Peer-to-Peer Approach to Task Scheduling in Computation Grid.,2003,"Jiannong Cao, Oscar M. K. Kwong, Xianbing Wang, Wentong Cai",GCC  2003: 316-323,GCC,Unranked
+311,A Simulation Study of Job Workflow Execution Models over the Grid.,2003,"Yuhong Feng, Wentong Cai, Jiannong Cao",GCC  2003: 935-943,GCC,Unranked
+312,A Decentralized Hierarchical Scheduler for a Grid-Based Clearinghouse.,2003,"Percival Xavier, Bu-Sung Lee, Wentong Cai",IPDPS 2003: 269,IPPS,Unranked
+313,A Distributed Rendering Environment for Massive Data on Computational Grids.,2003,"Huabing Zhu, Lizhe Wang, Kai-Yun Chan, Wentong Cai, Simon See",Peer-to-Peer Computing 2003: 176-183,P2P,Unranked
+314,Implementation of Federation Management Services over Federation Community Networks.,2003,"Wentong Cai, Guangya Li, Stephen John Turner, Bu-Sung Lee, Li Liu",PADS 2003: 50-60,PADS,B
+315,Resource Co-Allocation for Meta-Task in Computational Grids.,2003,"Lizhe Wang, Wentong Cai, Bu-Sung Lee, Simon See, Wei Jie",PDPTA 2003: 36-42,PDPTA,National
+316,A Grid Computing Infrastructure Based on OGSA.,2003,"Zhou Lei, Tianyi Zang, Wei Jie, Wentong Cai, Lizhe Wang",PDPTA 2003: 145-150,PDPTA,National
+317,A Web Services Based Grid Performance Data Management Framework.,2003,"Tianyi Zang, Zhou Lei, Wei Jie, Wentong Cai, Lizhe Wang",PDPTA 2003: 157-163,PDPTA,National
+318,Distributed simulation and manufacturing: synchronization and management of shared state in HLA-based distributed simulation.,2003,"Boon-Ping Gan, Malcolm Yoke Hean Low, Junhu Wei, Xiaoguang Wang, Stephen John Turner, Wentong Cai",WSC 2003: 847-854,WSC,C
+319,Parallel distributed simulation and modeling methods: causal order based time warp: a tradeoff of optimism.,2003,"Yi Zeng, Wentong Cai, Stephen John Turner",WSC 2003: 855-863,WSC,C
+320,POEMS: A Parallel Object-oriented Environment for Multi-computer Systems.,2002,"Wei Jie, Wentong Cai, Stephen John Turner",Comput. J. 45: 540-560 ,CJ,Unranked
+321,Causal Order Delivery in a Multicast Environment: An Improved Algorithm.,2002,"Wentong Cai, Bu-Sung Lee, Junlan Zhou",J. Parallel Distributed Comput. 62: 111-131 ,JPDC,Unranked
+322,Time-minimal tiling when rise is larger than zero.,2002,"Jingling Xue, Wentong Cai",Parallel Comput. 28: 915-939 ,PC,Unranked
+323,A Load Management System for Running HLA-Based Distributed Simulations over the Grid.,2002,"Wentong Cai, Stephen John Turner, Hanfeng Zhao",DS-RT 2002: 7-14,DSRT,Unranked
+324,Automatic Construction of Hierarchical Federations Architecture.,2002,"Wentong Cai, Guangya Li, Stephen John Turner, Bu-Sung Lee, Li Liu",DS-RT 2002: 50-58,DSRT,Unranked
+325,Capturing Causality by Compressed Vector Clock in Real-Time Group Editors.,2002,"Chengzheng Sun, Wentong Cai",IPDPS 2002,IPPS,Unranked
+326,Critical causality in distributed virtual environments.,2002,"Suiping Zhou, Wentong Cai, Stephen John Turner, Francis B. S. Lee",PADS 2002: 53-59,PADS,B
+327,A scalable architecture for supporting interactive games on the internet.,2002,"Wentong Cai, Percival Xavier, Stephen John Turner, Bu-Sung Lee",PADS 2002: 60-67,PADS,B
+328,A Parallel Object-oriented Environment for Cluster Computing.,2002,"Wei Jie, Wentong Cai, Stephen John Turner, Wai Keong Chong",PDPTA 2002: 1948-1954,PDPTA,National
+329,JBSP: A BSP Programming Library in Java.,2001,"Yan Gu, Bu-Sung Lee, Wentong Cai",J. Parallel Distributed Comput. 61: 1126-1142 ,JPDC,Unranked
+330,The Development of Conservative Superstep Protocols for Shared Memory Multiprocessor Systems.,2001,"Boon-Ping Gan, Yoke-Hean Low, Wentong Cai, Stephen John Turner, Sanjay Jain, Wen-Jing Hsu, Shell-Ying Huang",Scalable Comput. Pract. Exp. 4 ,SCPE,Unranked
+331,Comparison of Network Protocol and Architecture for Distributed Virtual Simulation Environment.,2001,"Bu-Sung Lee, Wentong Cai, Stephen John Turner, Jit-Beng Koh",ACM SIGOPS Oper. Syst. Rev. 35: 30-42 ,SIGOPS,Unranked
+332,Parallel Federates - An Architecture for Hybrid Distributed Simulation.,2001,"Zhengrong Ji, Boon-Ping Gan, Stephen John Turner, Wentong Cai",DS-RT 2001: 97-104,DSRT,Unranked
+333,Dynamic Load-Balancing in a Data Parallel Object-Oriented System.,2001,"Wei Jie, Wentong Cai, Stephen John Turner",ICPADS 2001: 279-288,ICPADS,B
+334,Dynamic Load-balancing Using Prediction in a Parallel Object-oriented System.,2001,"Wei Jie, Wentong Cai, Stephen John Turner",IPDPS 2001: 76,IPPS,Unranked
+335,Hierarchical federations: an architecture for information hiding.,2001,"Wentong Cai, Stephen John Turner, Boon-Ping Gan",Workshop on Parallel and Distributed Simulation 2001: 67-74,PADS,B
+336,A causality based time management mechanism for federated simulation.,2001,"Bu-Sung Lee, Wentong Cai, Junlan Zhou",Workshop on Parallel and Distributed Simulation 2001: 83-90,PADS,B
+337,A parallel object-oriented manufacturing simulation language.,2001,"Ye Zhang, Wentong Cai, Stephen John Turner",Workshop on Parallel and Distributed Simulation 2001: 101-108,PADS,B
+338,Managing event traces for a web front-end to a parallel simulation.,2001,"Boon-Ping Gan, Li Liu, Zhengrong Ji, Stephen John Turner, Wentong Cai",WSC 2001: 637-644,WSC,C
+339,Adapting a Supply-Chain Simulation for HLA.,2000,"Stephen John Turner, Wentong Cai, Boon-Ping Gan",DS-RT 2000: 71-78,DSRT,Unranked
+340,Parallel discrete event simulation of manufacturing systems using parsec.,2000,"Ye Zhang, Wentong Cai, Stephen John Turner",ESM 2000: 296-301,ESM,Unranked
+341,Implementation Lessons of Performance Prediction Tool for Parallel Conservative Simulation (Research Note).,2000,"Chu-Cheow Lim, Yoke-Hean Low, Boon-Ping Gan, Wentong Cai",Euro-Par 2000: 189-193,EUROPAR,Unranked
+342,Performance Evaluation of a Communication Optimization Model in Network-Based Parallel Computing.,2000,"Ming Zhu, Wentong Cai, Bu-Sung Lee",ICPP Workshops 2000: 411-420,ICPPW,Unranked
+343,Load balancing for conservative simulation on shared memory multiprocessor systems.,2000,"Boon-Ping Gan, Yoke-Hean Low, Sanjay Jain, Stephen John Turner, Wentong Cai, Wen-Jing Hsu, Shell-Ying Huang",PADS 2000: 139-146,PADS,B
+344,Manufacturing sypply chain management: distributed supply chain simulation across enterprise boundaries.,2000,"Boon-Ping Gan, Li Liu, Sanjay Jain, Stephen John Turner, Wentong Cai, Wen-Jing Hsu",WSC 2000: 1245-1251,WSC,C
+345,Effects of topology and buffering on a processor farm.,1999,"Peter Kok Keong Loh, Wentong Cai",Microprocess. Microsystems 22: 363-372 ,MAM,Unranked
+346,Interlock avoidance in transparent and dynamic parallel program instrumentation using logical clocks.,1999,"Wentong Cai, Kang Zhang, Stephen John Turner, Chengzheng Sun",Parallel Comput. 25: 569-591 ,PC,Unranked
+347,Performance Evaluation of JPVM.,1999,"Bu-Sung Lee, Yan Gu, Wentong Cai, Alfred Heng",Parallel Process. Lett. 9: 401-410 ,PPL,Unranked
+348,Evaluation of Java Thread Performance on Two Different Multithhreaded Kernels.,1999,"Yan Gu, Bu-Sung Lee, Wentong Cai",ACM SIGOPS Oper. Syst. Rev. 33: 34-46 ,SIGOPS,Unranked
+349,Survey of Languages and Runtime Libraries for Parallel Discrete-Event Simulation.,1999,"Yoke-Hean Low, Chu-Cheow Lim, Wentong Cai, Shell-Ying Huang, Wen-Jing Hsu, Sanjay Jain, Stephen John Turner",Simul. 72: 170-186 ,SIMULATION,Unranked
+350,Performance Analysis of Packet Bundling Techniques in DIS.,1999,"Lawrence A. H. Liang, Wentong Cai, Bu-Sung Lee, Stephen John Turner",DIS-RT 1999: 75-,DSRT,Unranked
+351,Parallel and Distributed Simulation - Introduction.,1999,"Wentong Cai, Yong Meng Teo",HICSS 1999,HICSS,Unranked
+352,A Parallelism Analyzer Algorithm for a Conservative Super-Step Simulation Protocol.,1999,"Chu-Cheow Lim, Yoke-Hean Low, Wentong Cai",HICSS 1999,HICSS,Unranked
+353,Key Message Algorithm: A Communication Optimization Algorithm in Cluster-Based Parallel Computing.,1999,"Ming Zhu, Wentong Cai, Bu-Sung Lee",IWCC 1999: 121-,IWCC,Unranked
+354,An Auto-Adaptive Dead Reckoning Algorithm for Distributed Interactive Simulation.,1999,"Wentong Cai, Francis B. S. Lee, L. Chen",Workshop on Parallel and Distributed Simulation 1999: 82-89,PADS,B
+355,Performance Prediction Tools for Parallel Discrete-Event Simulation.,1999,"Chu-Cheow Lim, Yoke-Hean Low, Boon-Ping Gan, Sanjay Jain, Wentong Cai, Wen-Jing Hsu, Shell-Ying Huang",Workshop on Parallel and Distributed Simulation 1999: 148-155,PADS,B
+356,File allocation with balanced response time in a distributed multi-server information system.,1998,"Wentong Cai, Bu-Sung Lee",Inf. Softw. Technol. 40: 27-35 ,INFSOF,Unranked
+357,An Empirical Comparison of Runtime Systems for Conservative Parallel Simulation.,1998,"Chu-Cheow Lim, Yoke-Hean Low, Wentong Cai, Wen-Jing Hsu, Shell-Ying Huang, Stephen John Turner",IPPS/SPDP Workshops 1998: 123-134,IPPS,Unranked
+358,A Methodology for Automating the Parallelization of Manufacturing Simulations.,1998,"Stephen John Turner, Wentong Cai, Chu-Cheow Lim, Yoke-Hean Low, Wen-Jing Hsu, Shell-Ying Huang",Workshop on Parallel and Distributed Simulation 1998: 126-133,PADS,B
+359,A Simulation Study of Dynamic Load Balancing for Network-based Parallel Processing.,1997,"Wentong Cai, Bu-Sung Lee, Alfred Heng, Li Zhu",ISPAN 1997: 383-389,ISPAN,Unranked
+360,Dag Consistent Parallel Simulation: A Predictable and Robust Conservative Algorithm.,1997,"Wentong Cai, Emmanuelle Letertre, Stephen John Turner",Workshop on Parallel and Distributed Simulation 1997: 178-181,PADS,B
+361,How network topology affects dynamic loading balancing.,1996,"Peter Kok Keong Loh, Wen-Jing Hsu, Wentong Cai, Nadarajah Sriskanthan",IEEE Parallel Distributed Technol. Syst. Appl. 4: 25-35 ,IEEECC,Unranked
+362,Task Scheduling Facility for PVM.,1996,"Bu-Sung Lee, Alfred Heng, Wentong Cai, Tai-Ann Tan",Parallel Process. Lett. 6: 563-574 ,PPL,Unranked
+363,Benchmarking IBM SP1 system for SPMD programming.,1996,"Wentong Cai, Alfred Heng, Peter J. Varman",ICPADS 1996: 430-,ICPADS,B
+364,Performance of Task Allocation Algorithms in a Distributed Computing Environment.,1996,"Bu-Sung Lee, Wentong Cai, Alfred Heng, Seow Woon Tai",PDPTA 1996: 1323-1333,PDPTA,National
+365,A Cost Calculus for Parallel Functional Programming.,1995,"David B. Skillicorn, Wentong Cai",J. Parallel Distributed Comput. 28: 65-83 ,JPDC,Unranked
+366,Calculating Recurrences Using the Bird-Meertens Formalism.,1995,"Wentong Cai, David B. Skillicorn",Parallel Process. Lett. 5: 179-190 ,PPL,Unranked
+367,VPE: A Visual Programming Environment for Parallel Processing.,1995,"Hung-Khoon Tan, Wentong Cai, Stephen John Turner",Parallel and Distributed Computing and Systems 1995: 359-362,PDPCS,Unranked
+368,An Approach to the Run-Time Monitoring of Parallel Programs.,1994,"Wentong Cai, Stephen John Turner",Comput. J. 37: 333-345 ,CJ,Unranked
+369,Efficient Parallel Algorithms for Tree Accumulations.,1994,"Jeremy Gibbons, Wentong Cai, David B. Skillicorn",Sci. Comput. Program. 23: 1-18 ,SCP,Unranked
+370,Graphical Views of the Behavior of Parallel Programs.,1993,"Wentong Cai, Wendy J. Milne, Stephen John Turner",J. Parallel Distributed Comput. 18: 223-230 ,JPDC,Unranked
+371,Parallel program monitoring : the logical clock approach and its deadlock avoidance.,1990,Wentong Cai,"University of Exeter, Devon, UK, 1990",NAN,Unranked

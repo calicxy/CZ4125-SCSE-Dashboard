@@ -1,0 +1,146 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Clustered Task-Aware Meta-Learning by Learning From Learning Paths.,2023,"Danni Peng, Sinno Jialin Pan",IEEE Trans. Pattern Anal. Mach. Intell. 45: 9426-9438 ,PAMI,Unranked
+1,Bidirectional Generative Framework for Cross-domain Aspect-based Sentiment Analysis.,2023,"Yue Deng, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing",ACL  2023: 12272-12285,ACL,A*
+2,Distribution-Regularized Federated Learning on Non-IID Data.,2023,"Yansheng Wang, Yongxin Tong, Zimu Zhou, Ruisheng Zhang, Sinno Jialin Pan, Lixin Fan, Qiang Yang",ICDE 2023: 2113-2125,ICDE,A*
+3,Pruning via Sparsity-indexed ODE: a Continuous Sparsity Viewpoint.,2023,"Zhanfeng Mo, Haosen Shi, Sinno Jialin Pan",ICML 2023: 25018-25036,ICML,A*
+4,"Trustworthy Machine Learning: Robustness, Generalization, and Interpretability.",2023,"Jindong Wang, Haoliang Li, Haohan Wang, Sinno Jialin Pan, Xing Xie",KDD 2023: 5827-5828,KDD,A*
+5,A Tutorial on Domain Generalization.,2023,"Jindong Wang, Haoliang Li, Sinno Jialin Pan, Xing Xie",WSDM 2023: 1236-1239,WSDM,A
+6,Bidirectional Generative Framework for Cross-domain Aspect-based Sentiment Analysis.,2023,"Yue Deng, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing",CoRR abs/2305.09509 ,CORR,Unranked
+7,Sentiment Analysis in the Era of Large Language Models: A Reality Check.,2023,"Wenxuan Zhang, Yue Deng, Bing Liu, Sinno Jialin Pan, Lidong Bing",CoRR abs/2305.15005 ,CORR,Unranked
+8,Multilingual Jailbreak Challenges in Large Language Models.,2023,"Yue Deng, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing",CoRR abs/2310.06474 ,CORR,Unranked
+9,Semantic-Discriminative Mixup for Generalizable Sensor-based Cross-domain Activity Recognition.,2022,"Wang Lu, Jindong Wang, Yiqiang Chen, Sinno Jialin Pan, Chunyu Hu, Xin Qin",Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 6: 65:1-65:19 ,IMWUT,Unranked
+10,On Acceleration for Convex Composite Minimization with Noise-Corrupted Gradients and Approximate Proximal Mapping.,2022,"Qiang Zhou, Sinno Jialin Pan",J. Mach. Learn. Res. 23: 223:1-223:59 ,JMLR,Unranked
+11,Deep Inductive Logic Reasoning for Multi-Hop Reading Comprehension.,2022,"Wenya Wang, Sinno Jialin Pan",ACL  2022: 4999-5009,ACL,A*
+12,Learning Generalizable Representations for Reinforcement Learning via Adaptive Meta-learner of Behavioral Similarities.,2022,"Jianda Chen, Sinno Jialin Pan",ICLR 2022,ICLR,A*
+13,Modeling Trajectories with Multi-task Learning.,2022,"Kaijun Liu, Sijie Ruan, Qianxiong Xu, Cheng Long, Nan Xiao, Nan Hu, Liang Yu, Sinno Jialin Pan",MDM 2022: 208-213,MDM,B
+14,Domain Confused Contrastive Learning for Unsupervised Domain Adaptation.,2022,"Quanyu Long, Tianze Luo, Wenya Wang, Sinno Jialin Pan",NAACL-HLT 2022: 2982-2995,NAACL,A
+15,Learning Representations via a Robust Behavioral Metric for Deep Reinforcement Learning.,2022,"Jianda Chen, Sinno Jialin Pan",NeurIPS 2022,NIPS,Unranked
+16,Convergence Analysis of Linear Coupling with Inexact Proximal Operator.,2022,"Qiang Zhou, Sinno Jialin Pan",UAI 2022: 2394-2403,UAI,A
+17,Semantic-Discriminative Mixup for Generalizable Sensor-based Cross-domain Activity Recognition.,2022,"Wang Lu, Jindong Wang, Yiqiang Chen, Sinno Jialin Pan, Chunyu Hu, Xin Qin",CoRR abs/2206.06629 ,CORR,Unranked
+18,Domain Confused Contrastive Learning for Unsupervised Domain Adaptation.,2022,"Quanyu Long, Tianze Luo, Wenya Wang, Sinno Jialin Pan",CoRR abs/2207.04564 ,CORR,Unranked
+19,Learning Gradient-based Mixup towards Flatter Minima for Domain Generalization.,2022,"Danni Peng, Sinno Jialin Pan",CoRR abs/2209.14742 ,CORR,Unranked
+20,Fast Graph Generation via Spectral Diffusion.,2022,"Tianze Luo, Zhanfeng Mo, Sinno Jialin Pan",CoRR abs/2211.08892 ,CORR,Unranked
+21,Learning Generalizable Representations for Reinforcement Learning via Adaptive Meta-learner of Behavioral Similarities.,2022,"Jianda Chen, Sinno Jialin Pan",CoRR abs/2212.13088 ,CORR,Unranked
+22,Weakly-supervised sensor-based activity segmentation and recognition via learning from distributions.,2021,"Hangwei Qian, Sinno Jialin Pan, Chunyan Miao",Artif. Intell. 292: 103429 ,AI,Australasian B
+23,Variational Deep Logic Network for Joint Inference of Entities and Relations.,2021,"Wenya Wang, Sinno Jialin Pan",Comput. Linguistics 47: 775-812 ,COLING,B
+24,Weakly-Supervised Cross-Domain Road Scene Segmentation via Multi-Level Curriculum Adaptation.,2021,"Fengmao Lv, Guosheng Lin, Peng Liu, Guowu Yang, Sinno Jialin Pan, Lixin Duan",IEEE Trans. Circuits Syst. Video Technol. 31: 3493-3503 ,TCSV,Unranked
+25,Towards Faster Deep Collaborative Filtering via Hierarchical Decision Networks.,2021,"Yu Chen, Sinno Jialin Pan",AAAI 2021: 4001-4009,AAAI,A*
+26,Sequential Generative Exploration Model for Partially Observable Reinforcement Learning.,2021,"Haiyan Yin, Jianda Chen, Sinno Jialin Pan, Sebastian Tschiatschek",AAAI 2021: 10700-10708,AAAI,A*
+27,Latent Independent Excitation for Generalizable Sensor-based Cross-Person Activity Recognition.,2021,"Hangwei Qian, Sinno Jialin Pan, Chunyan Miao",AAAI 2021: 11921-11929,AAAI,A*
+28,AdaRNN: Adaptive Learning and Forecasting of Time Series.,2021,"Yuntao Du, Jindong Wang, Wenjie Feng, Sinno Jialin Pan, Tao Qin, Renjun Xu, Chongjun Wang",CIKM 2021: 402-411,CIKM,A
+29,EnhanceNet: Plugin Neural Networks for Enhancing Correlated Time Series Forecasting.,2021,"Razvan-Gabriel Cirstea, Tung Kieu, Chenjuan Guo, Bin Yang, Sinno Jialin Pan",ICDE 2021: 1739-1750,ICDE,A*
+30,Mitigating Performance Saturation in Neural Marked Point Processes: Architectures and Loss Functions.,2021,"Tianbo Li, Tianze Luo, Yiping Ke, Sinno Jialin Pan",KDD 2021: 986-994,KDD,A*
+31,Learning an Adaptive Meta Model-Generator for Incrementally Updating Recommender Systems.,2021,"Danni Peng, Sinno Jialin Pan, Jie Zhang, Anxiang Zeng",RecSys 2021: 411-421,RECSYS,Unranked
+32,Mitigating Performance Saturation in Neural Marked Point Processes: Architectures and Loss Functions.,2021,"Tianbo Li, Tianze Luo, Yiping Ke, Sinno Jialin Pan",CoRR abs/2107.03354 ,CORR,Unranked
+33,AdaRNN: Adaptive Learning and Forecasting of Time Series.,2021,"Yuntao Du, Jindong Wang, Wenjie Feng, Sinno Jialin Pan, Tao Qin, Renjun Xu, Chongjun Wang",CoRR abs/2108.04443 ,CORR,Unranked
+34,Learning an Adaptive Meta Model-Generator for Incrementally Updating Recommender Systems.,2021,"Danni Peng, Sinno Jialin Pan, Jie Zhang, Anxiang Zeng",CoRR abs/2111.04282 ,CORR,Unranked
+35,Communication-efficient distributed multi-task learning with matrix sparsity regularization.,2020,"Qiang Zhou, Yu Chen, Sinno Jialin Pan",Mach. Learn. 109: 569-601 ,ML,Unranked
+36,Heterogeneous Domain Adaptation via Nonlinear Matrix Factorization.,2020,"Haoliang Li, Sinno Jialin Pan, Shiqi Wang, Alex C. Kot",IEEE Trans. Neural Networks Learn. Syst. 31: 984-996 ,TNN,Unranked
+37,Transfer Value Iteration Networks.,2020,"Junyi Shen, Hankz Hankui Zhuo, Jin Xu, Bin Zhong, Sinno Jialin Pan",AAAI 2020: 5676-5683,AAAI,A*
+38,Integrating Deep Learning with Logic Fusion for Information Extraction.,2020,"Wenya Wang, Sinno Jialin Pan",AAAI 2020: 9225-9232,AAAI,A*
+39,Deep Weighted MaxSAT for Aspect-based Opinion Extraction.,2020,"Meixi Wu, Wenya Wang, Sinno Jialin Pan",EMNLP  2020: 5618-5628,EMNLP,A*
+40,Communication-Efficient Distributed PCA by Riemannian Optimization.,2020,"Long-Kai Huang, Sinno Jialin Pan",ICML 2020: 4465-4474,ICML,A*
+41,Storage Efficient and Dynamic Flexible Runtime Channel Pruning via Deep Reinforcement Learning.,2020,"Jianda Chen, Shangyu Chen, Sinno Jialin Pan",NeurIPS 2020,NIPS,Unranked
+42,"Proceedings of The 12th Asian Conference on Machine Learning, ACML 2020, 18-20 November 2020, Bangkok, Thailand.",2020,"Sinno Jialin Pan, Masashi Sugiyama","Proceedings of Machine Learning Research 129, PMLR 2020 ",ACML,Unranked
+43,"Advances in Knowledge Discovery and Data Mining - 24th Pacific-Asia Conference, PAKDD 2020, Singapore, May 11-14, 2020, Proceedings, Part I.",2020,"Hady W. Lauw, Raymond Chi-Wing Wong, Alexandros Ntoulas, Ee-Peng Lim, See-Kiong Ng, Sinno Jialin Pan","Lecture Notes in Computer Science 12084, Springer 2020, ISBN 978-3-030-47425-6 ",PAKDD,B
+44,"Advances in Knowledge Discovery and Data Mining - 24th Pacific-Asia Conference, PAKDD 2020, Singapore, May 11-14, 2020, Proceedings, Part II.",2020,"Hady W. Lauw, Raymond Chi-Wing Wong, Alexandros Ntoulas, Ee-Peng Lim, See-Kiong Ng, Sinno Jialin Pan","Lecture Notes in Computer Science 12085, Springer 2020, ISBN 978-3-030-47435-5 ",PAKDD,B
+45,Reinforcement Learning with Efficient Active Feature Acquisition.,2020,"Haiyan Yin, Yingzhen Li, Sinno Jialin Pan, Cheng Zhang, Sebastian Tschiatschek",CoRR abs/2011.00825 ,CORR,Unranked
+46,A deep learning framework for Hybrid Heterogeneous Transfer Learning.,2019,"Joey Tianyi Zhou, Sinno Jialin Pan, Ivor W. Tsang",Artif. Intell. 275: 310-328 ,AI,Australasian B
+47,Syntactically Meaningful and Transferable Recursive Neural Networks for Aspect and Opinion Extraction.,2019,"Wenya Wang, Sinno Jialin Pan",Comput. Linguistics 45: 705-736 ,COLING,B
+48,Multi-class Heterogeneous Domain Adaptation.,2019,"Joey Tianyi Zhou, Ivor W. Tsang, Sinno Jialin Pan, Mingkui Tan",J. Mach. Learn. Res. 20: 57:1-57:31 ,JMLR,Unranked
+49,Learning-Based Outdoor Localization Exploiting Crowd-Labeled WiFi Hotspots.,2019,"Jin Wang, Jun Luo, Sinno Jialin Pan, Aixin Sun",IEEE Trans. Mob. Comput. 18: 896-909 ,TMC,Unranked
+50,Deep Neural Network Quantization via Layer-Wise Optimization Using Limited Training Data.,2019,"Shangyu Chen, Wenya Wang, Sinno Jialin Pan",AAAI 2019: 3329-3336,AAAI,A*
+51,Transferable Interactive Memory Network for Domain Adaptation in Fine-Grained Opinion Extraction.,2019,"Wenya Wang, Sinno Jialin Pan",AAAI 2019: 7192-7199,AAAI,A*
+52,Distribution-Based Semi-Supervised Learning for Activity Recognition.,2019,"Hangwei Qian, Sinno Jialin Pan, Chunyan Miao",AAAI 2019: 7699-7706,AAAI,A*
+53,Heterogeneous Transfer Learning via Deep Matrix Completion with Adversarial Kernel Embedding.,2019,"Haoliang Li, Sinno Jialin Pan, Renjie Wan, Alex C. Kot",AAAI 2019: 8602-8609,AAAI,A*
+54,Accelerate Learning of Deep Hashing With Gradient Attention.,2019,"Long-Kai Huang, Jianda Chen, Sinno Jialin Pan",ICCV 2019: 5270-5279,ICCV,A*
+55,Cooperative Pruning in Cross-Domain Deep Neural Network Compression.,2019,"Shangyu Chen, Wenya Wang, Sinno Jialin Pan",IJCAI 2019: 2102-2108,IJCAI,A*
+56,A Novel Distribution-Embedded Neural Network for Sensor-Based Activity Recognition.,2019,"Hangwei Qian, Sinno Jialin Pan, Bingshui Da, Chunyan Miao",IJCAI 2019: 5614-5620,IJCAI,A*
+57,MetaQuant: Learning to Quantize by Learning to Penetrate Non-differentiable Quantization.,2019,"Shangyu Chen, Wenya Wang, Sinno Jialin Pan",NeurIPS 2019: 3918-3928,NIPS,Unranked
+58,Transfer Value Iteration Networks.,2019,"Junyi Shen, Hankz Hankui Zhuo, Jin Xu, Bin Zhong, Sinno Jialin Pan",CoRR abs/1911.05701 ,CORR,Unranked
+59,Integrating Deep Learning with Logic Fusion for Information Extraction.,2019,"Wenya Wang, Sinno Jialin Pan",CoRR abs/1912.03041 ,CORR,Unranked
+60,Memory networks for fine-grained opinion mining.,2018,"Wenya Wang, Sinno Jialin Pan, Daniel Dahlmeier",Artif. Intell. 265: 1-17 ,AI,Australasian B
+61,Counting via LED sensing: Inferring occupancy using lighting infrastructure.,2018,"Yanbing Yang, Jun Luo, Jie Hao, Sinno Jialin Pan",Pervasive Mob. Comput. 45: 35-54 ,PERCOM,A*
+62,Analysis With Histogram of Connectivity: For Automated Evaluation of Piping Layout.,2018,"Wei-Chian Tan, I-Ming Chen, Sinno Jialin Pan, Hoon Kiang Tan",IEEE Trans Autom. Sci. Eng. 15: 381-392 ,TASE,National
+63,Supervised Representation Learning with Double Encoding-Layer Autoencoder for Transfer Learning.,2018,"Fuzhen Zhuang, Xiaohu Cheng, Ping Luo, Sinno Jialin Pan, Qing He",ACM Trans. Intell. Syst. Technol. 9: 16:1-16:17 ,TIST,Unranked
+64,Data Poisoning Attacks on Multi-Task Relationship Learning.,2018,"Mengchen Zhao, Bo An, Yaodong Yu, Sulin Liu, Sinno Jialin Pan",AAAI 2018: 2628-2635,AAAI,A*
+65,SC2Net: Sparse LSTMs for Sparse Coding.,2018,"Joey Tianyi Zhou, Kai Di, Jiawei Du, Xi Peng, Hao Yang, Sinno Jialin Pan, Ivor W. Tsang, Yong Liu, Zheng Qin, Rick Siow Mong Goh",AAAI 2018: 4588-4595,AAAI,A*
+66,Sensor-Based Activity Recognition via Learning From Distributions.,2018,"Hangwei Qian, Sinno Jialin Pan, Chunyan Miao",AAAI 2018: 6262-6269,AAAI,A*
+67,Recursive Neural Structural Correspondence Network for Cross-domain Aspect and Opinion Co-Extraction.,2018,"Wenya Wang, Sinno Jialin Pan",ACL  2018: 2171-2181,ACL,A*
+68,Transfer Learning with PipNet: For Automated Visual Analysis of Piping Design.,2018,"Wei-Chian Tan, I-Ming Chen, Dimitrios Pantazis, Sinno Jialin Pan",CASE 2018: 1296-1301,CASE,Unranked
+69,Domain Generalization With Adversarial Feature Learning.,2018,"Haoliang Li, Sinno Jialin Pan, Shiqi Wang, Alex C. Kot",CVPR 2018: 5400-5409,CVPR,A*
+70,Domain Adaptive Semantic Segmentation Through Structure Enhancement.,2018,"Fengmao Lv, Qing Lian, Guowu Yang, Guosheng Lin, Sinno Jialin Pan, Lixin Duan",ECCV Workshops  2018: 172-179,ECCV,A*
+71,Hashing over Predicted Future Frames for Informed Exploration of Deep Reinforcement Learning.,2018,"Haiyan Yin, Jianda Chen, Sinno Jialin Pan",IJCAI 2018: 3026-3032,IJCAI,A*
+72,Transition-based Adversarial Network for Cross-lingual Aspect Extraction.,2018,"Wenya Wang, Sinno Jialin Pan",IJCAI 2018: 4475-4481,IJCAI,A*
+73,A unified framework of active transfer learning for cross-system recommendation.,2017,"Lili Zhao, Sinno Jialin Pan, Qiang Yang",Artif. Intell. 245: 38-55 ,AI,Australasian B
+74,A Unified Framework for Metric Transfer Learning.,2017,"Yonghui Xu, Sinno Jialin Pan, Hui Xiong, Qingyao Wu, Ronghua Luo, Huaqing Min, Hengjie Song",IEEE Trans. Knowl. Data Eng. 29: 1158-1171 ,TKDE,Unranked
+75,Knowledge Transfer for Deep Reinforcement Learning with Hierarchical Experience Replay.,2017,"Haiyan Yin, Sinno Jialin Pan",AAAI 2017: 1640-1646,AAAI,A*
+76,Distant Domain Transfer Learning.,2017,"Ben Tan, Yu Zhang, Sinno Jialin Pan, Qiang Yang",AAAI 2017: 2604-2610,AAAI,A*
+77,Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms.,2017,"Wenya Wang, Sinno Jialin Pan, Daniel Dahlmeier, Xiaokui Xiao",AAAI 2017: 3316-3322,AAAI,A*
+78,Adaptive Group Sparse Multi-task Learning via Trace Lasso.,2017,"Sulin Liu, Sinno Jialin Pan",IJCAI 2017: 2358-2364,IJCAI,A*
+79,WOLoc: WiFi-only outdoor localization using crowdsensed hotspot labels.,2017,"Jin Wang, Nicholas Tan, Jun Luo, Sinno Jialin Pan",INFOCOM 2017: 1-9,INFOCOM,A*
+80,Distributed Multi-Task Relationship Learning.,2017,"Sulin Liu, Sinno Jialin Pan, Qirong Ho",KDD 2017: 937-946,KDD,A*
+81,Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon.,2017,"Xin Dong, Shangyu Chen, Sinno Jialin Pan",NIPS 2017: 4857-4867,NIPS,Unranked
+82,CeilingSee: Device-free occupancy inference through lighting infrastructure based LED sensing.,2017,"Yanbing Yang, Jie Hao, Jun Luo, Sinno Jialin Pan",PerCom 2017: 247-256,PERCOM,A*
+83,Communication-Efficient Distributed Primal-Dual Algorithm for Saddle Point Problem.,2017,"Yaodong Yu, Sulin Liu, Sinno Jialin Pan",UAI 2017,UAI,A
+84,Multi-task Coupled Attentions for Category-specific Aspect and Opinion Terms Co-extraction.,2017,"Wenya Wang, Sinno Jialin Pan, Daniel Dahlmeier",CoRR abs/1702.01776 ,CORR,Unranked
+85,Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon.,2017,"Xin Dong, Shangyu Chen, Sinno Jialin Pan",CoRR abs/1705.07565 ,CORR,Unranked
+86,Hashing Over Predicted Future Frames for Informed Exploration of Deep Reinforcement Learning.,2017,"Haiyan Yin, Sinno Jialin Pan",CoRR abs/1707.00524 ,CORR,Unranked
+87,HYDRA: Massively Compositional Model for Cross-Project Defect Prediction.,2016,"Xin Xia, David Lo, Sinno Jialin Pan, Nachiappan Nagappan, Xinyu Wang",IEEE Trans. Software Eng. 42: 977-998 ,TSE,Unranked
+88,Transfer Learning for Cross-Language Text Categorization through Active Correspondences Construction.,2016,"Joey Tianyi Zhou, Sinno Jialin Pan, Ivor W. Tsang, Shen-Shyang Ho",AAAI 2016: 2400-2406,AAAI,A*
+89,Automated design evaluation on layout of Piping and Instrumentation Diagram using Histogram of Connectivity.,2016,"Wei-Chian Tan, I-Ming Chen, Sinno Jialin Pan, Hoon Kiang Tan",CASE 2016: 1295-1300,CASE,Unranked
+90,Ensemble of Anchor Adapters for Transfer Learning.,2016,"Fuzhen Zhuang, Ping Luo, Sinno Jialin Pan, Hui Xiong, Qing He",CIKM 2016: 2335-2340,CIKM,A
+91,Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis.,2016,"Wenya Wang, Sinno Jialin Pan, Daniel Dahlmeier, Xiaokui Xiao",EMNLP 2016: 616-626,EMNLP,A*
+92,Class-Wise Supervised Hashing with Label Embedding and Active Bits.,2016,"Long-Kai Huang, Sinno Jialin Pan",IJCAI 2016: 1585-1591,IJCAI,A*
+93,Transfer Hashing with Privileged Information.,2016,"Joey Tianyi Zhou, Xinxing Xu, Sinno Jialin Pan, Ivor W. Tsang, Zheng Qin, Rick Siow Mong Goh",IJCAI 2016: 2414-2420,IJCAI,A*
+94,Collaborative Evolution for User Profiling in Recommender Systems.,2016,"Zhongqi Lu, Sinno Jialin Pan, Yong Li, Jie Jiang, Qiang Yang",IJCAI 2016: 3804-3810,IJCAI,A*
+95,Matrix Factorization+ for Movie Recommendation.,2016,"Lili Zhao, Zhongqi Lu, Sinno Jialin Pan, Qiang Yang",IJCAI 2016: 3945-3951,IJCAI,A*
+96,Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis.,2016,"Wenya Wang, Sinno Jialin Pan, Daniel Dahlmeier, Xiaokui Xiao",CoRR abs/1603.06679 ,CORR,Unranked
+97,Transfer Hashing with Privileged Information.,2016,"Joey Tianyi Zhou, Xinxing Xu, Sinno Jialin Pan, Ivor W. Tsang, Zheng Qin, Rick Siow Mong Goh",CoRR abs/1605.04034 ,CORR,Unranked
+98,Distributed Multi-task Relationship Learning.,2016,"Sulin Liu, Sinno Jialin Pan, Qirong Ho",CoRR abs/1612.04022 ,CORR,Unranked
+99,Heterogeneous Multi-task Semantic Feature Learning for Classification.,2015,"Xin Jin, Fuzhen Zhuang, Sinno Jialin Pan, Changying Du, Ping Luo, Qing He",CIKM 2015: 1847-1850,CIKM,A
+100,Short and Sparse Text Topic Modeling via Self-Aggregation.,2015,"Xiaojun Quan, Chunyu Kit, Yong Ge, Sinno Jialin Pan",IJCAI 2015: 2270-2276,IJCAI,A*
+101,Supervised Representation Learning: Transfer Learning with Deep Autoencoders.,2015,"Fuzhen Zhuang, Xiaohu Cheng, Ping Luo, Sinno Jialin Pan, Qing He",IJCAI 2015: 4119-4125,IJCAI,A*
+102,The Pareto Principle Is Everywhere: Finding Informative Sentences for Opinion Summarization Through Leader Detection.,2015,"Linhong Zhu, Sheng Gao, Sinno Jialin Pan, Haizhou Li, Dingxiong Deng, Cyrus Shahabi",Recommendation and Search in Social Networks 2015: 165-187,LNSN,Unranked
+103,Extended Spectral Regression for efficient scene recognition.,2014,"Liyuan Li, Weixun Goh, Joo-Hwee Lim, Sinno Jialin Pan",Pattern Recognit. 47: 2940-2951 ,PR,Unranked
+104,Adaptation Regularization: A General Framework for Transfer Learning.,2014,"Mingsheng Long, Jianmin Wang, Guiguang Ding, Sinno Jialin Pan, Philip S. Yu",IEEE Trans. Knowl. Data Eng. 26: 1076-1089 ,TKDE,Unranked
+105,Semi-supervised Domain Adaptation on Manifolds.,2014,"Li Cheng, Sinno Jialin Pan",IEEE Trans. Neural Networks Learn. Syst. 25: 2240-2249 ,TNN,Unranked
+106,Source Free Transfer Learning for Text Classification.,2014,"Zhongqi Lu, Yin Zhu, Sinno Jialin Pan, Evan Wei Xiang, Yujing Wang, Qiang Yang",AAAI 2014: 122-128,AAAI,A*
+107,Hybrid Heterogeneous Transfer Learning through Deep Learning.,2014,"Joey Tianyi Zhou, Sinno Jialin Pan, Ivor W. Tsang, Yan Yan",AAAI 2014: 2213-2220,AAAI,A*
+108,Heterogeneous Domain Adaptation for Multiple Classes.,2014,"Joey Tianyi Zhou, Ivor W. Tsang, Sinno Jialin Pan, Mingkui Tan",AISTATS 2014: 1095-1103,AISTATS,A
+109,Exploiting Social Relations and Sentiment for Stock Prediction.,2014,"Jianfeng Si, Arjun Mukherjee, Bing Liu, Sinno Jialin Pan, Qing Li, Huayi Li",EMNLP 2014: 1139-1145,EMNLP,A*
+110,Riemannian Pursuit for Big Matrix Recovery.,2014,"Mingkui Tan, Ivor W. Tsang, Li Wang, Bart Vandereycken, Sinno Jialin Pan",ICML 2014: 1539-1547,ICML,A*
+111,Transfer Learning with Multiple Sources via Consensus Regularized Autoencoders.,2014,"Fuzhen Zhuang, Xiaohu Cheng, Sinno Jialin Pan, Wenchao Yu, Qing He, Zhongzhi Shi",ECML/PKDD  2014: 417-431,PKDD,Unranked
+112,Transfer Learning.,2014,Sinno Jialin Pan,Data Classification: Algorithms and Applications 2014: 537-570,COLLECTIONS,Unranked
+113,Transfer joint embedding for cross-domain named entity recognition.,2013,"Sinno Jialin Pan, Zhiqiang Toh, Jian Su",ACM Trans. Inf. Syst. 31: 7 ,TOIS,Unranked
+114,Active Transfer Learning for Cross-System Recommendation.,2013,"Lili Zhao, Sinno Jialin Pan, Evan Wei Xiang, Erheng Zhong, Zhongqi Lu, Qiang Yang",AAAI 2013: 1205-1211,AAAI,A*
+115,Graph-based informative-sentence selection for opinion summarization.,2013,"Linhong Zhu, Sheng Gao, Sinno Jialin Pan, Haizhou Li, Dingxiong Deng, Cyrus Shahabi",ASONAM 2013: 408-412,ASUNAM,Unranked
+116,Predicting user activity level in social networks.,2013,"Yin Zhu, Erheng Zhong, Sinno Jialin Pan, Xiao Wang, Minzhe Zhou, Qiang Yang",CIKM 2013: 159-168,CIKM,A
+117,Transfer defect learning.,2013,"Jaechang Nam, Sinno Jialin Pan, Sunghun Kim",ICSE 2013: 382-391,ICSE,A*
+118,"Transfer learning with applications on text, sensors and images.",2013,Sinno Jialin Pan,MLIS@IJCAI 2013: 7,IJCAI,A*
+119,Tracking Mobile Users in Wireless Networks via Semi-Supervised Colocalization.,2012,"Jeffrey Junfeng Pan, Sinno Jialin Pan, Jie Yin, Lionel M. Ni, Qiang Yang",IEEE Trans. Pattern Anal. Mach. Intell. 34: 587-600 ,PAMI,Unranked
+120,Cross-Domain Co-Extraction of Sentiment and Topic Lexicons.,2012,"Fangtao Li, Sinno Jialin Pan, Ou Jin, Qiang Yang, Xiaoyan Zhu",ACL  2012: 410-419,ACL,A*
+121,Multi-domain active learning for text classification.,2012,"Lianghao Li, Xiaoming Jin, Sinno Jialin Pan, Jian-Tao Sun",KDD 2012: 1086-1094,KDD,A*
+122,Multi-view Positive and Unlabeled Learning.,2012,"Joey Tianyi Zhou, Sinno Jialin Pan, Qi Mao, Ivor W. Tsang",ACML 2012: 555-570,JMLR,Unranked
+123,Multitask Learning for Protein Subcellular Location Prediction.,2011,"Qian Xu, Sinno Jialin Pan, Hannah Hong Xue, Qiang Yang",IEEE ACM Trans. Comput. Biol. Bioinform. 8: 748-759 ,TCBB,Unranked
+124,Domain Adaptation via Transfer Component Analysis.,2011,"Sinno Jialin Pan, Ivor W. Tsang, James T. Kwok, Qiang Yang",IEEE Trans. Neural Networks 22: 199-210 ,TNN,Unranked
+125,Heterogeneous Transfer Learning for Image Classification.,2011,"Yin Zhu, Yuqiang Chen, Zhongqi Lu, Sinno Jialin Pan, Gui-Rong Xue, Yong Yu, Qiang Yang",AAAI 2011: 1304-1309,AAAI,A*
+126,Artificial neural network based intracranial pressure mean forecast algorithm for medical decision support.,2011,"Feng Zhang, Mengling Feng, Sinno Jialin Pan, Liang Yu Loy, Wenyuan Guo, Zhuo Zhang, Pei Loon Chin, Cuntai Guan, Nicolas Kon Kam King, Beng Ti Ang",EMBC 2011: 7111-7114,EMBC,Unranked
+127,Source-Selection-Free Transfer Learning.,2011,"Evan Wei Xiang, Sinno Jialin Pan, Weike Pan, Jian Su, Qiang Yang",IJCAI 2011: 2355-2360,IJCAI,A*
+128,A Unified Event Coreference Resolution by Integrating Multiple Resolvers.,2011,"Bin Chen, Jian Su, Sinno Jialin Pan, Chew Lim Tan",IJCNLP 2011: 102-110,IJCNLP,B
+129,A Survey on Transfer Learning.,2010,"Sinno Jialin Pan, Qiang Yang",IEEE Trans. Knowl. Data Eng. 22: 1345-1359 ,TKDE,Unranked
+130,Adaptive Transfer Learning.,2010,"Bin Cao, Sinno Jialin Pan, Yu Zhang, Dit-Yan Yeung, Qiang Yang",AAAI 2010: 407-412,AAAI,A*
+131,Cross-domain sentiment classification via spectral feature alignment.,2010,"Sinno Jialin Pan, Xiaochuan Ni, Jian-Tao Sun, Qiang Yang, Zheng Chen",WWW 2010: 751-760,WWW,A*
+132,Knowledge Transfer among Heterogeneous Information Networks.,2009,"Evan Wei Xiang, Nathan Nan Liu, Sinno Jialin Pan, Qiang Yang",ICDM Workshops 2009: 429-434,ICDM,A*
+133,Domain Adaptation via Transfer Component Analysis.,2009,"Sinno Jialin Pan, Ivor W. Tsang, James T. Kwok, Qiang Yang",IJCAI 2009: 1187-1192,IJCAI,A*
+134,Estimating Location Using Wi-Fi.,2008,"Qiang Yang, Sinno Jialin Pan, Vincent Wenchen Zheng",IEEE Intell. Syst. 23: 8-13 ,EXPERT,Unranked
+135,Transfer Learning via Dimensionality Reduction.,2008,"Sinno Jialin Pan, James T. Kwok, Qiang Yang",AAAI 2008: 677-682,AAAI,A*
+136,Transferring Localization Models across Space.,2008,"Sinno Jialin Pan, Dou Shen, Qiang Yang, James T. Kwok",AAAI 2008: 1383-1388,AAAI,A*
+137,Transferring Multi-device Localization Models using Latent Multi-task Learning.,2008,"Vincent Wenchen Zheng, Sinno Jialin Pan, Qiang Yang, Jeffrey Junfeng Pan",AAAI 2008: 1427-1432,AAAI,A*
+138,Real world activity recognition with multiple goals.,2008,"Derek Hao Hu, Sinno Jialin Pan, Vincent Wenchen Zheng, Nathan Nan Liu, Qiang Yang",UbiComp 2008: 30-39,HUC,Unranked
+139,Digital Wall: A Power-efficient Solution for Location-based Data Sharing.,2008,"Jeffrey Junfeng Pan, Sinno Jialin Pan, Vincent Wenchen Zheng, Qiang Yang",PerCom 2008: 645-650,PERCOM,A*
+140,Mining competent case bases for case-based reasoning.,2007,"Rong Pan, Qiang Yang, Sinno Jialin Pan",Artif. Intell. 171: 1039-1068 ,AI,Australasian B
+141,Online Co-Localization in Indoor Wireless Networks by Dimension Reduction.,2007,"Jeffrey Junfeng Pan, Qiang Yang, Sinno Jialin Pan",AAAI 2007: 1102-1107,AAAI,A*
+142,Adaptive Localization in a Dynamic WiFi Environment through Multi-view Learning.,2007,"Sinno Jialin Pan, James T. Kwok, Qiang Yang, Jeffrey Junfeng Pan",AAAI 2007: 1108-1113,AAAI,A*
+143,Domain-constrained semi-supervised mining of tracking models in sensor networks.,2007,"Rong Pan, Junhui Zhao, Vincent Wenchen Zheng, Jeffrey Junfeng Pan, Dou Shen, Sinno Jialin Pan, Qiang Yang",KDD 2007: 1023-1027,KDD,A*
+144,Preprocessing Time Series Data for Classification with Application to CRM.,2005,"Yiming Yang, Qiang Yang, Wei Lu, Sinno Jialin Pan, Rong Pan, Chenhui Lu, Lei Li, Zhenxing Qin",Australian Conference on Artificial Intelligence 2005: 133-142,AUSAI,Unranked

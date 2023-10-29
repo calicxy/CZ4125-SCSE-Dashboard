@@ -1,0 +1,245 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Dynamic spectrum access for Internet-of-Things with hierarchical federated deep reinforcement learning.,2023,"Songbo Zhang, Kwok-Yan Lam, Bowen Shen, Li Wang, Feng Li",Ad Hoc Networks 149: 103257 ,ADHOC,Unranked
+1,SPoFC: A framework for stream data aggregation with local differential privacy.,2023,"Mengmeng Yang, Kwok-Yan Lam, Tianqing Zhu, Chenghua Tang",Concurr. Comput. Pract. Exp. 35 ,CONCURRENCY,Unranked
+2,Deep reinforcement learning based scheduling strategy for federated learning in sensor-cloud systems.,2023,"Tinghao Zhang, Kwok-Yan Lam, Jun Zhao",Future Gener. Comput. Syst. 144: 219-229 ,FGCS,Unranked
+3,Understanding Security in Smart City Domains From the ANT-Centric Perspective.,2023,"Jiani Fan, Wenzhuo Yang, Ziyao Liu, Jiawen Kang, Dusit Niyato, Kwok-Yan Lam, Hongyang Du",IEEE Internet Things J. 10: 11199-11223 ,IOTJ,Unranked
+4,BitAnalysis: A Visualization System for Bitcoin Wallet Investigation.,2023,"Yujing Sun, Hao Xiong, Siu Ming Yiu, Kwok-Yan Lam",IEEE Trans. Big Data 9: 621-636 ,TBD,Unranked
+5,Differentially Private Distributed Frequency Estimation.,2023,"Mengmeng Yang, Ivan Tjuawinata, Kwok-Yan Lam, Tianqing Zhu, Jun Zhao",IEEE Trans. Dependable Secur. Comput. 20: 3910-3926 ,TDSC,Unranked
+6,Efficient Dropout-Resilient Aggregation for Privacy-Preserving Machine Learning.,2023,"Ziyao Liu, Jiale Guo, Kwok-Yan Lam, Jun Zhao",IEEE Trans. Inf. Forensics Secur. 18: 1839-1854 ,TIFS,Unranked
+7,Asymmetric Modality Translation for Face Presentation Attack Detection.,2023,"Zhi Li, Haoliang Li, Xin Luo, Yongjian Hu, Kwok-Yan Lam, Alex C. Kot",IEEE Trans. Multim. 25: 62-76 ,TMM,Unranked
+8,Reputation-based power allocation for NOMA cognitive radio networks.,2023,"Feng Li, Zhongming Sun, Kwok-Yan Lam, Songbo Zhang, Lianzhong Sun, Li Wang",Wirel. Networks 29: 449-457 ,WINET,Unranked
+9,Dynamic spectrum optimization for Internet-of-Things with social distance model.,2023,"Feng Li, Songbo Zhang, Kwok-Yan Lam, Xin Liu, Li Wang",Wirel. Networks 29: 2825-2832 ,WINET,Unranked
+10,Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting.,2023,"Chen Chen, Yufei Wang, Aixin Sun, Bing Li, Kwok-Yan Lam",ACL  2023: 11489-11503,ACL,A*
+11,A Practical Intrusion Detection System Trained on Ambiguously Labeled Data for Enhancing IIoT Security.,2023,"Wenzhuo Yang, Zhaowei Chu, Jiani Fan, Ziyao Liu, Kwok-Yan Lam",CPSS@AsiaCCS 2023: 14-23,CPSS,Unranked
+12,Applying Large Language Models for Enhancing Contract Drafting.,2023,"Kwok-Yan Lam, Victor C. W. Cheng, Zee Kin Yeong",LegalAIIA@ICAIL 2023: 70-80,ICAIL,C
+13,Differentiated Security in the Age of Cognitive Internet of Things (CIoT).,2023,"Jiani Fan, Kwok-Yan Lam, Dusit Niyato",ICDCS 2023: 965-966,ICDCS,A
+14,UAV aided Metaverse over Wireless Communications: A Reinforcement Learning Approach.,2023,"Peiyuan Si, Wenhan Yu, Jun Zhao, Kwok-Yan Lam, Qing Yang",CoRR abs/2301.01474 ,CORR,Unranked
+15,A Hybrid Framework of Reinforcement Learning and Convex Optimization for UAV-Based Autonomous Metaverse Data Collection.,2023,"Peiyuan Si, Liangxin Qian, Jun Zhao, Kwok-Yan Lam",CoRR abs/2305.18481 ,CORR,Unranked
+16,Spear or Shield: Leveraging Generative AI to Tackle Security Threats of Intelligent Network Services.,2023,"Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Kwok-Yan Lam, Yuguang Fang, Yonghui Li",CoRR abs/2306.02384 ,CORR,Unranked
+17,Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting.,2023,"Chen Chen, Yufei Wang, Aixin Sun, Bing Li, Kwok-Yan Lam",CoRR abs/2307.01709 ,CORR,Unranked
+18,Separate-and-Aggregate: A Transformer-based Patch Refinement Model for Knowledge Graph Completion.,2023,"Chen Chen, Yufei Wang, Yang Zhang, Quan Z. Sheng, Kwok-Yan Lam",CoRR abs/2307.05627 ,CORR,Unranked
+19,User Assignment and Resource Allocation for Hierarchical Federated Learning over Wireless Networks.,2023,"Tinghao Zhang, Kwok-Yan Lam, Jun Zhao",CoRR abs/2309.09253 ,CORR,Unranked
+20,UAV-assisted Semantic Communication with Hybrid Action Reinforcement Learning.,2023,"Peiyuan Si, Jun Zhao, Kwok-Yan Lam, Qing Yang",CoRR abs/2309.16713 ,CORR,Unranked
+21,A Survey on Conflict Detection in IoT-based Smart Homes.,2023,"Bing Huang, Dipankar Chaki, Athman Bouguettaya, Kwok-Yan Lam",CoRR abs/2310.04447 ,CORR,Unranked
+22,Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models.,2023,"Renyang Liu, Wei Zhou, Tianwei Zhang, Kangjie Chen, Jun Zhao, Kwok-Yan Lam",CoRR abs/2310.07492 ,CORR,Unranked
+23,Efficient FHE-based Privacy-Enhanced Neural Network for AI-as-a-Service.,2023,"Kwok-Yan Lam, Xianhui Lu, Linru Zhang, Xiangning Wang, Huaxiong Wang, Si Qi Goh",IACR Cryptol. ePrint Arch. 2023: 647 ,IACR,Unranked
+24,ZkRep: A Privacy-Preserving Scheme for Reputation-Based Blockchain System.,2022,"Chenyu Huang, Yongjun Zhao, Huangxun Chen, Xu Wang, Qian Zhang, Yanjiao Chen, Huaxiong Wang, Kwok-Yan Lam",IEEE Internet Things J. 9: 4330-4342 ,IOTJ,Unranked
+25,ANT-Centric IoT Security Reference Architecture - Security-by-Design for Satellite-Enabled Smart Cities.,2022,"Kwok-Yan Lam, Sananda Mitra, Florian Gondesen, Xun Yi",IEEE Internet Things J. 9: 5895-5908 ,IOTJ,Unranked
+26,Conditional Anonymous Authentication With Abuse-Resistant Tracing and Distributed Trust for Internet of Vehicles.,2022,"Jiangtao Li, Yufeng Li, Chenhong Cao, Kwok-Yan Lam",IEEE Internet Things J. 9: 8749-8762 ,IOTJ,Unranked
+27,Database Watermarking Algorithm Based on Decision Tree Shift Correction.,2022,"Qianwen Li, Xiang Wang, Qingqi Pei, Kwok-Yan Lam, Ning Zhang, Mianxiong Dong, Victor C. M. Leung",IEEE Internet Things J. 9: 24373-24387 ,IOTJ,Unranked
+28,Cognitive Carrier Resource Optimization for Internet-of-Vehicles in 5G-Enhanced Smart Cities.,2022,"Feng Li, Kwok-Yan Lam, Zhengwei Ni, Dusit Niyato, Xin Liu, Li Wang",IEEE Netw. 36: 174-180 ,NETWORK,Unranked
+29,One-Class Knowledge Distillation for Face Presentation Attack Detection.,2022,"Zhi Li, Rizhao Cai, Haoliang Li, Kwok-Yan Lam, Yongjian Hu, Alex C. Kot",IEEE Trans. Inf. Forensics Secur. 17: 2137-2150 ,TIFS,Unranked
+30,K-Means Clustering With Local dᵪ-Privacy for Privacy-Preserving Data Analysis.,2022,"Mengmeng Yang, Ivan Tjuawinata, Kwok-Yan Lam",IEEE Trans. Inf. Forensics Secur. 17: 2524-2537 ,TIFS,Unranked
+31,Secure Hot Path Crowdsourcing With Local Differential Privacy Under Fog Computing Architecture.,2022,"Mengmeng Yang, Ivan Tjuawinata, Kwok-Yan Lam, Jun Zhao, Lin Sun",IEEE Trans. Serv. Comput. 15: 2188-2201 ,TSC,Unranked
+32,Dynamic Spectrum Access for Internet-of-Things Based on Federated Deep Reinforcement Learning.,2022,"Feng Li, Bowen Shen, Jiale Guo, Kwok-Yan Lam, Guiyi Wei, Li Wang",IEEE Trans. Veh. Technol. 71: 7952-7956 ,TVT,Unranked
+33,Distributed Deep Reinforcement Learning-Based Spectrum and Power Allocation for Heterogeneous Networks.,2022,"Helin Yang, Jun Zhao, Kwok-Yan Lam, Zehui Xiong, Qingqing Wu, Liang Xiao",IEEE Trans. Wirel. Commun. 21: 6935-6948 ,TWC,Unranked
+34,Knowledge Is Flat: A Seq2Seq Generative Framework for Various Knowledge Graph Completion.,2022,"Chen Chen, Yufei Wang, Bing Li, Kwok-Yan Lam",COLING 2022: 4005-4017,COLING,B
+35,Resource Allocation and Resolution Control in the Metaverse with Mobile Augmented Reality.,2022,"Peiyuan Si, Jun Zhao, Huimei Han, Kwok-Yan Lam, Yang Liu",GLOBECOM 2022: 3265-3271,GLOBECOM,B
+36,A Multi-task Learning Approach for Predicting Intentions Using Smart Home IoT Services.,2022,"Bing Huang, Boyu Zhang, Quan Z. Sheng, Kwok-Yan Lam",ICSOC 2022: 413-421,ICSOC,A
+37,Edge-Cloud Cooperation for DNN Inference via Reinforcement Learning and Supervised Learning.,2022,"Tinghao Zhang, Zhijun Li, Yongrui Chen, Kwok-Yan Lam, Jun Zhao",iThings/GreenCom/CPSCom/SmartData/Cybermatics 2022: 77-84,ITHINGS,Unranked
+38,Differentiated Security Architecture for Secure and Efficient Infotainment Data Communication in IoV Networks.,2022,"Jiani Fan, Lwin Khin Shar, Jiale Guo, Wenzhuo Yang, Dusit Niyato, Kwok-Yan Lam",NSS 2022: 283-304,NSS,B
+39,Facial Landmark Predictions with Applications to Metaverse.,2022,"Qiao Han, Jun Zhao, Kwok-Yan Lam",WF-IoT 2022: 1-6,WF-IOT,Unranked
+40,Cybersecurity Challenges Of IoT-enabled Smart Cities: A Survey.,2022,"Jiani Fan, Wenzhuo Yang, Kwok-Yan Lam",CoRR abs/2202.05023 ,CORR,Unranked
+41,Analysis of Digital Sovereignty and Identity: From Digitization to Digitalization.,2022,"Kheng-Leong Tan, Chi-Hung Chi, Kwok-Yan Lam",CoRR abs/2202.10069 ,CORR,Unranked
+42,Secure Multi-Party Delegated Authorisation For Access and Sharing of Electronic Health Records.,2022,"Kheng-Leong Tan, Chi-Hung Chi, Kwok-Yan Lam",CoRR abs/2203.12837 ,CORR,Unranked
+43,Privacy-Preserving Aggregation in Federated Learning: A Survey.,2022,"Ziyao Liu, Jiale Guo, Wenzhuo Yang, Jiani Fan, Kwok-Yan Lam, Jun Zhao",CoRR abs/2203.17005 ,CORR,Unranked
+44,Efficient Dropout-resilient Aggregation for Privacy-preserving Machine Learning.,2022,"Ziyao Liu, Jiale Guo, Kwok-Yan Lam, Jun Zhao",CoRR abs/2203.17044 ,CORR,Unranked
+45,One-Class Knowledge Distillation for Face Presentation Attack Detection.,2022,"Zhi Li, Rizhao Cai, Haoliang Li, Kwok-Yan Lam, Yongjian Hu, Alex C. Kot",CoRR abs/2205.03792 ,CORR,Unranked
+46,Knowledge Is Flat: A Seq2Seq Generative Framework for Various Knowledge Graph Completion.,2022,"Chen Chen, Yufei Wang, Bing Li, Kwok-Yan Lam",CoRR abs/2209.07299 ,CORR,Unranked
+47,Resource Allocation and Resolution Control in the Metaverse with Mobile Augmented Reality.,2022,"Peiyuan Si, Jun Zhao, Huimei Han, Kwok-Yan Lam, Yang Liu",CoRR abs/2209.13871 ,CORR,Unranked
+48,Facial Landmark Predictions with Applications to Metaverse.,2022,"Qiao Han, Jun Zhao, Kwok-Yan Lam",CoRR abs/2209.14698 ,CORR,Unranked
+49,Edge-Cloud Cooperation for DNN Inference via Reinforcement Learning and Supervised Learning.,2022,"Tinghao Zhang, Zhijun Li, Yongrui Chen, Kwok-Yan Lam, Jun Zhao",CoRR abs/2210.05182 ,CORR,Unranked
+50,Traceable and Authenticable Image Tagging for Fake News Detection.,2022,"Ruohan Meng, Zhili Zhou, Qi Cui, Kwok-Yan Lam, Alex C. Kot",CoRR abs/2211.10923 ,CORR,Unranked
+51,Enhancing Federated Learning with spectrum allocation optimization and device selection.,2022,"Tinghao Zhang, Kwok-Yan Lam, Jun Zhao, Feng Li, Huimei Han, Norziana Jamil",CoRR abs/2212.13544 ,CORR,Unranked
+52,Local Differential Privacy for data collection and analysis.,2021,"Teng Wang, Jun Zhao, Zhi Hu, Xinyu Yang, Xuebin Ren, Kwok-Yan Lam",Neurocomputing 426: 114-133 ,IJON,Unranked
+53,Blockchain for Future Smart Grid: A Comprehensive Survey.,2021,"Muhammad Baqer Mollah, Jun Zhao, Dusit Niyato, Kwok-Yan Lam, Xin Zhang, Amer M. Y. M. Ghias, Leong Hai Koh, Lei Yang",IEEE Internet Things J. 8: 18-43 ,IOTJ,Unranked
+54,Blockchain for the Internet of Vehicles Towards Intelligent Transportation Systems: A Survey.,2021,"Muhammad Baqer Mollah, Jun Zhao, Dusit Niyato, Yong Liang Guan, Chau Yuen, Sumei Sun, Kwok-Yan Lam, Leong Hai Koh",IEEE Internet Things J. 8: 4157-4185 ,IOTJ,Unranked
+55,Local Differential Privacy-Based Federated Learning for Internet of Things.,2021,"Yang Zhao, Jun Zhao, Mengmeng Yang, Teng Wang, Ning Wang, Lingjuan Lyu, Dusit Niyato, Kwok-Yan Lam",IEEE Internet Things J. 8: 8836-8853 ,IOTJ,Unranked
+56,A Blockchain-Based Approach for Saving and Tracking Differential-Privacy Cost.,2021,"Yang Zhao, Jun Zhao, Jiawen Kang, Zehang Zhang, Dusit Niyato, Shuyu Shi, Kwok-Yan Lam",IEEE Internet Things J. 8: 8865-8882 ,IOTJ,Unranked
+57,Privacy-Preserving Federated Learning for UAV-Enabled Networks: Learning-Based Joint Scheduling and Resource Management.,2021,"Helin Yang, Jun Zhao, Zehui Xiong, Kwok-Yan Lam, Sumei Sun, Liang Xiao",IEEE J. Sel. Areas Commun. 39: 3144-3159 ,JSAC,Unranked
+58,Federated-Learning-Empowered Collaborative Data Sharing for Vehicular Edge Networks.,2021,"Xiuhua Li, Luxi Cheng, Chuan Sun, Kwok-Yan Lam, Xiaofei Wang, Feng Li",IEEE Netw. 35: 116-124 ,NETWORK,Unranked
+59,Spectrum Sharing for 6G Integrated Satellite-Terrestrial Communication Networks Based on NOMA and CR.,2021,"Xin Liu, Kwok-Yan Lam, Feng Li, Jun Zhao, Li Wang, Tariq S. Durrani",IEEE Netw. 35: 28-34 ,NETWORK,Unranked
+60,An Improved Vulnerability Exploitation Prediction Model with Novel Cost Function and Custom Trained Word Vector Embedding.,2021,"Mohammad Shamsul Hoque, Norziana Jamil, Nowshad Amin, Kwok-Yan Lam",Sensors 21: 4220 ,SENSORS,Unranked
+61,Reconfigurable Intelligent Surface Aided Power Control for Physical-Layer Broadcasting.,2021,"Huimei Han, Jun Zhao, Wenchao Zhai, Zehui Xiong, Dusit Niyato, Marco Di Renzo, Quoc-Viet Pham, Weidang Lu, Kwok-Yan Lam",IEEE Trans. Commun. 69: 7821-7836 ,TCOM,Unranked
+62,Autonomous Vehicle: Security by Design.,2021,"Anupam Chattopadhyay, Kwok-Yan Lam, Yaswanth Tavva",IEEE Trans. Intell. Transp. Syst. 22: 7015-7029 ,TITS,Unranked
+63,Privacy Preserving Location-Aware Personalized Web Service Recommendations.,2021,"Shahriar Badsha, Xun Yi, Ibrahim Khalil, Dongxi Liu, Surya Nepal, Elisa Bertino, Kwok-Yan Lam",IEEE Trans. Serv. Comput. 14: 791-804 ,TSC,Unranked
+64,Agent-Based Spectrum Management Scheme in Satellite Communication Systems.,2021,"Feng Li, Kwok-Yan Lam, Zhengguo Sheng, Weidang Lu, Xin Liu, Li Wang",IEEE Trans. Veh. Technol. 70: 2877-2881 ,TVT,Unranked
+65,3D Beamforming Based on Deep Learning for Secure Communication in 5G and Beyond Wireless Networks.,2021,"Helin Yang, Kwok-Yan Lam, Jiangtian Nie, Jun Zhao, Sahil Garg, Liang Xiao, Zehui Xiong, Mohsen Guizani",GLOBECOM  2021: 1-6,GLOBECOM,B
+66,Effective Anomaly Detection Model Training with only Unlabeled Data by Weakly Supervised Learning Techniques.,2021,"Wenzhuo Yang, Kwok-Yan Lam",ICICS  2021: 402-425,ICICS,C
+67,UAV-Assisted 5G/6G Networks: Joint Scheduling and Resource Allocation Based on Asynchronous Reinforcement Learning.,2021,"Helin Yang, Jun Zhao, Jiangtian Nie, Neeraj Kumar, Kwok-Yan Lam, Zehui Xiong",INFOCOM Workshops 2021: 1-6,INFOCOM,A*
+68,Privacy-Enhanced Federated Learning with Weighted Aggregation.,2021,"Jiale Guo, Ziyao Liu, Kwok-Yan Lam, Jun Zhao, Yiqiang Chen",SocialSec 2021: 93-109,SOCIALSEC,Unranked
+69,Deep Reinforcement Learning Based Resource Allocation for Heterogeneous Networks.,2021,"Helin Yang, Jun Zhao, Kwok-Yan Lam, Sahil Garg, Qingqing Wu, Zehui Xiong",WiMob 2021: 253-258,WIMOB,Unranked
+70,Protecting Big Data Privacy Using Randomized Tensor Network Decomposition and Dispersed Tensor Computation.,2021,"Jenn-Bing Ong, Wee Keong Ng, Ivan Tjuawinata, Chao Li, Jielin Yang, Sai None Myne, Huaxiong Wang, Kwok-Yan Lam, C.-C. Jay Kuo",CoRR abs/2101.04194 ,CORR,Unranked
+71,Fair and Differentially Private Distributed Frequency Estimation.,2021,"Mengmeng Yang, Ivan Tjuawinata, Kwok-Yan Lam, Tianqing Zhu, Jun Zhao",CoRR abs/2104.05974 ,CORR,Unranked
+72,Asymmetric Modality Translation For Face Presentation Attack Detection.,2021,"Zhi Li, Haoliang Li, Xin Luo, Yongjian Hu, Kwok-Yan Lam, Alex C. Kot",CoRR abs/2110.09108 ,CORR,Unranked
+73,Volume-Hiding Dynamic Searchable Symmetric Encryption with Forward and Backward Privacy.,2021,"Yongjun Zhao, Huaxiong Wang, Kwok-Yan Lam",IACR Cryptol. ePrint Arch. 2021: 786 ,IACR,Unranked
+74,Resource Allocation in Satellite-Based Internet of Things Using Pattern Search Method.,2020,"Feng Li, Kwok-Yan Lam, Xin Liu, Li Wang",IEEE Access 8: 110908-110914 ,ACCESS,Unranked
+75,Blockchain-based mechanism for fine-grained authorization in data crowdsourcing.,2020,"Haiying Ma, Elmo X. Huang, Kwok-Yan Lam",Future Gener. Comput. Syst. 106: 121-134 ,FGCS,Unranked
+76,Spectrum Optimization for Satellite Communication Systems With Heterogeneous User Preferences.,2020,"Feng Li, Kwok-Yan Lam, Min Jia, Kanglian Zhao, Xiuhua Li, Li Wang",IEEE Syst. J. 14: 2187-2191 ,SJ,Unranked
+77,Advances and Emerging Challenges in Cognitive Internet-of-Things.,2020,"Feng Li, Kwok-Yan Lam, Xiuhua Li, Zhengguo Sheng, Jingyu Hua, Li Wang",IEEE Trans. Ind. Informatics 16: 5489-5496 ,TII,Unranked
+78,Privacy-Preserving User Profile Matching in Social Networks.,2020,"Xun Yi, Elisa Bertino, Fang-Yu Rao, Kwok-Yan Lam, Surya Nepal, Athman Bouguettaya",IEEE Trans. Knowl. Data Eng. 32: 1572-1585 ,TKDE,Unranked
+79,Spectral Efficiency Enhancement in Satellite Mobile Communications: A Game-Theoretical Approach.,2020,"Feng Li, Kwok-Yan Lam, Hsiao-Hwa Chen, Nan Zhao",IEEE Wirel. Commun. 27: 200-205 ,WC,Unranked
+80,"A Review on Malware Variants Detection Techniques for Threat Intelligence in Resource Constrained Devices: Existing Approaches, Limitations and Future Direction.",2020,"Collins Uchenna Chimeleze, Norziana Jamil, Roslan Ismail, Kwok-Yan Lam",ACeS 2020: 354-370,ACES,Unranked
+81,Feasibility of PUF-Based Authentication on ATtiny Devices with Off-the-Shelf SRAM.,2020,"Florian Gondesen, Sananda Mitra, Kwok-Yan Lam",CPSS@AsiaCCS 2020: 2-10,CCS,A*
+82,New Threats Against Object Detector with Non-local Block.,2020,"Yi Huang, Fan Wang, Adams Wai-Kin Kong, Kwok-Yan Lam",ECCV  2020: 481-497,ECCV,A*
+83,Deep Reinforcement Learning Based Intelligent Reflecting Surface for Secure Wireless Communications.,2020,"Helin Yang, Yang Zhao, Zehui Xiong, Jun Zhao, Dusit Niyato, Kwok-Yan Lam, Qingqing Wu",GLOBECOM 2020: 1-6,GLOBECOM,B
+84,Resource Optimization in Satellite-Based Internet of Things.,2020,"Feng Li, Kwok-Yan Lam",ICAIIC 2020: 6-11,ICAIIC,Unranked
+85,Unseen Face Presentation Attack Detection with Hypersphere Loss.,2020,"Zhi Li, Haoliang Li, Kwok-Yan Lam, Alex ChiChung Kot",ICASSP 2020: 2852-2856,ICASSP,Unranked
+86,An Analysis of Blockchain Consistency in Asynchronous Networks: Deriving a Neat Bound.,2020,"Jun Zhao, Jing Tang, Zengxiang Li, Huaxiong Wang, Kwok-Yan Lam, Kaiping Xue",ICDCS 2020: 179-189,ICDCS,A
+87,"Provable and Practical Security - 14th International Conference, ProvSec 2020, Singapore, November 29 - December 1, 2020, Proceedings.",2020,"Khoa Nguyen, Wenling Wu, Kwok-Yan Lam, Huaxiong Wang","Lecture Notes in Computer Science 12505, Springer 2020, ISBN 978-3-030-62575-7 ",PROVSEC,Unranked
+88,Local Differential Privacy based Federated Learning for Internet of Things.,2020,"Yang Zhao, Jun Zhao, Mengmeng Yang, Teng Wang, Ning Wang, Lingjuan Lyu, Dusit Niyato, Kwok-Yan Lam",CoRR abs/2004.08856 ,CORR,Unranked
+89,Blockchain for the Internet of Vehicles towards Intelligent Transportation Systems: A Survey.,2020,"Muhammad Baqer Mollah, Jun Zhao, Dusit Niyato, Yong Liang Guan, Chau Yuen, Sumei Sun, Kwok-Yan Lam, Leong Hai Koh",CoRR abs/2007.06022 ,CORR,Unranked
+90,MPC-enabled Privacy-Preserving Neural Network Training against Malicious Attack.,2020,"Ziyao Liu, Ivan Tjuawinata, Chaoping Xing, Kwok-Yan Lam",CoRR abs/2007.12557 ,CORR,Unranked
+91,Local Differential Privacy and Its Applications: A Comprehensive Survey.,2020,"Mengmeng Yang, Lingjuan Lyu, Jun Zhao, Tianqing Zhu, Kwok-Yan Lam",CoRR abs/2008.03686 ,CORR,Unranked
+92,Secure Weighted Aggregation in Federated Learning.,2020,"Jiale Guo, Ziyao Liu, Kwok-Yan Lam, Jun Zhao, Yiqiang Chen, Chaoping Xing",CoRR abs/2010.08730 ,CORR,Unranked
+93,Privacy-Preserving Federated Learning for UAV-Enabled Networks: Learning-Based Joint Scheduling and Resource Management.,2020,"Helin Yang, Jun Zhao, Zehui Xiong, Kwok-Yan Lam, Sumei Sun, Liang Xiao",CoRR abs/2011.14197 ,CORR,Unranked
+94,Blockchain-Based Approach for Securing Spectrum Trading in Multibeam Satellite Systems.,2020,"Feng Li, Kwok-Yan Lam, Min Jia, Jun Zhao, Xiuhua Li, Li Wang",CoRR abs/2012.10681 ,CORR,Unranked
+95,Secure Hot Path Crowdsourcing with Local Differential Privacy under Fog Computing Architecture.,2020,"Mengmeng Yang, Ivan Tjuawinata, Kwok-Yan Lam, Jun Zhao, Lin Sun",CoRR abs/2012.13807 ,CORR,Unranked
+96,Trading-Based Dynamic Spectrum Access and Allocation in Cognitive Internet of Things.,2019,"Feng Li, Kwok-Yan Lam, Limin Meng, Hao Luo, Li Wang",IEEE Access 7: 125952-125959 ,ACCESS,Unranked
+97,Energy Efficiency Optimization for NOMA-Based Cognitive Radio With Energy Harvesting.,2019,"Xin Wang, Zhenyu Na, Kwok-Yan Lam, Xin Liu, Zihe Gao, Feng Li, Li Wang",IEEE Access 7: 139172-139180 ,ACCESS,Unranked
+98,Efficient threshold password-authenticated secret sharing protocols for cloud computing.,2019,"Xun Yi, Zahir Tari, Feng Hao, Liqun Chen, Joseph K. Liu, Xuechao Yang, Kwok-Yan Lam, Ibrahim Khalil, Albert Y. Zomaya",J. Parallel Distributed Comput. 128: 57-70 ,JPDC,Unranked
+99,Improving Spectrum Management for Satellite Communication Systems With Hunger Marketing.,2019,"Feng Li, Kwok-Yan Lam, Jingyu Hua, Kanglian Zhao, Nan Zhao, Li Wang",IEEE Wirel. Commun. Lett. 8: 797-800 ,WCL,Unranked
+100,Spectrum pricing for cognitive radio networks with user's stochastic distribution.,2019,"Li Wang, Kwok-Yan Lam, Mudi Xiong, Feng Li, Xin Liu, Jian Wang",Wirel. Networks 25: 2091-2099 ,WINET,Unranked
+101,Top-N Hashtag Prediction via Coupling Social Influence and Homophily.,2019,"Can Wang, Zhonghao Sun, Yunwei Zhao, Chi-Hung Chi, Willem-Jan van den Heuvel, Kwok-Yan Lam, Bela Stantic",ADMA 2019: 343-358,ADMA,C
+102,TOM: A Threat Operating Model for Early Warning of Cyber Security Threats.,2019,"Tao Bo, Yue Chen, Can Wang, Yunwei Zhao, Kwok-Yan Lam, Chi-Hung Chi, Hui Tian",ADMA 2019: 696-711,ADMA,C
+103,Adversarial Signboard against Object Detector.,2019,"Yi Huang, Adams Wai-Kin Kong, Kwok-Yan Lam",BMVC 2019: 231,BMVC,A
+104,A New Blind ECDSA Scheme for Bitcoin Transaction Anonymity.,2019,"Xun Yi, Kwok-Yan Lam",AsiaCCS 2019: 613-620,CCS,A*
+105,Group Signatures with Decentralized Tracing.,2019,"Tingting Lu, Jiangtao Li, Lei Zhang, Kwok-Yan Lam",Inscrypt 2019: 435-442,CISC,Unranked
+106,BitVis: An Interactive Visualization System for Bitcoin Accounts Analysis.,2019,"Yujing Sun, Hao Xiong, Siu-Ming Yiu, Kwok-Yan Lam",CVCBT 2019: 21-25,CVCBT,Unranked
+107,Location Privacy-Preserving Mobile Crowd Sensing with Anonymous Reputation.,2019,"Xun Yi, Kwok-Yan Lam, Elisa Bertino, Fang-Yu Rao",ESORICS  2019: 387-411,ESORICS,A
+108,Automated Cyber Threat Intelligence Reports Classification for Early Warning of Cyber Attacks in Next Generation SOC.,2019,"Wenzhuo Yang, Kwok-Yan Lam",ICICS 2019: 145-164,ICICS,C
+109,Beyond the Power of Mere Repetition: Forms of Social Communication on Twitter through the Lens of Information Flows and Its Effect on Topic Evolution.,2019,"Yunwei Zhao, Can Wang, Chi-Hung Chi, Willem-Jan van den Heuvel, Kwok-Yan Lam, Min Shu",IJCNN 2019: 1-8,IJCNN,B
+110,Adaptive Differentially Private Data Stream Publishing in Spatio-temporal Monitoring of IoT.,2019,"Teng Wang, Xinyu Yang, Xuebin Ren, Jun Zhao, Kwok-Yan Lam",IPCCC 2019: 1-8,IPCCC,C
+111,Attacking Object Detectors Without Changing the Target Object.,2019,"Yi Huang, Adams Wai-Kin Kong, Kwok-Yan Lam",PRICAI  2019: 3-15,PRICAI,B
+112,An Analysis of Blockchain Consistency in Asynchronous Networks: Deriving a Neat Bound.,2019,"Jun Zhao, Jing Tang, Zengxiang Li, Huaxiong Wang, Kwok-Yan Lam, Kaiping Xue",CoRR abs/1909.06587 ,CORR,Unranked
+113,Blockchain for Future Smart Grid: A Comprehensive Survey.,2019,"Muhammad Baqer Mollah, Jun Zhao, Dusit Niyato, Kwok-Yan Lam, Xin Zhang, Amer M. Y. M. Ghias, Leong Hai Koh, Lei Yang",CoRR abs/1911.03298 ,CORR,Unranked
+114,Reviewing and Improving the Gaussian Mechanism for Differential Privacy.,2019,"Jun Zhao, Teng Wang, Tao Bai, Kwok-Yan Lam, Xuebin Ren, Xinyu Yang, Shuyu Shi, Yang Liu, Han Yu",CoRR abs/1911.12060 ,CORR,Unranked
+115,Spectrum Optimization for Cognitive Satellite Communications With Cournot Game Model.,2018,"Li Wang, Feng Li, Xin Liu, Kwok-Yan Lam, Zhenyu Na, Hong Peng",IEEE Access 6: 1624-1634 ,ACCESS,Unranked
+116,Spectrum Allocation With Asymmetric Monopoly Model for Multibeam-Based Cognitive Satellite Networks.,2018,"Feng Li, Xin Liu, Kwok-Yan Lam, Zhenyu Na, Jingyu Hua, Jian Wang, Li Wang",IEEE Access 6: 9713-9722 ,ACCESS,Unranked
+117,Privacy Preserving User Based Web Service Recommendations.,2018,"Shahriar Badsha, Xun Yi, Ibrahim Khalil, Dongxi Liu, Surya Nepal, Kwok-Yan Lam",IEEE Access 6: 56647-56657 ,ACCESS,Unranked
+118,Behavior-Interior-Aware User Preference Analysis Based on Social Networks.,2018,"Can Wang, Tao Bo, Yunwei Zhao, Chi-Hung Chi, Kwok-Yan Lam, Sen Wang, Min Shu",Complex. 2018: 7371209:1-7371209:18 ,COMPLEXITY,Unranked
+119,Q-Learning-Based Dynamic Spectrum Access in Cognitive Industrial Internet of Things.,2018,"Feng Li, Kwok-Yan Lam, Zhengguo Sheng, Xinggan Zhang, Kanglian Zhao, Li Wang",Mob. Networks Appl. 23: 1636-1644 ,MONET,Unranked
+120,Wireless Communication and Security Issues for Cyber-Physical Systems and the Internet-of-Things.,2018,"Andreas Burg, Anupam Chattopadhyay, Kwok-Yan Lam",Proc. IEEE 106: 38-60 ,PIEEE,Unranked
+121,Secure and Lightweight Compressive Sensing Using Stream Cipher.,2018,"Vikramkumar Pudi, Anupam Chattopadhyay, Kwok-Yan Lam",IEEE Trans. Circuits Syst. II Express Briefs 65-II: 371-375 ,TCAS,Unranked
+122,Spectrum Trading for Satellite Communication Systems With Dynamic Bargaining.,2018,"Feng Li, Kwok-Yan Lam, Nan Zhao, Xin Liu, Kanglian Zhao, Li Wang",IEEE Trans. Commun. 66: 4680-4693 ,TCOM,Unranked
+123,Joint Pricing and Power Allocation for Multibeam Satellite Systems With Dynamic Game Model.,2018,"Feng Li, Kwok-Yan Lam, Xin Liu, Jian Wang, Kanglian Zhao, Li Wang",IEEE Trans. Veh. Technol. 67: 2398-2408 ,TVT,Unranked
+124,Dynamic Spectrum Access Networks With Heterogeneous Users: How to Price the Spectrum?,2018,"Feng Li, Kwok-Yan Lam, Xiuhua Li, Xin Liu, Li Wang, Victor C. M. Leung",IEEE Trans. Veh. Technol. 67: 5203-5216 ,TVT,Unranked
+125,Caching Efficiency Enhancement at Wireless Edges with Concerns on User's Quality of Experience.,2018,"Feng Li, Kwok-Yan Lam, Li Wang, Zhenyu Na, Xin Liu, Qing Pan",Wirel. Commun. Mob. Comput. 2018 ,WICOMM,Unranked
+126,Power allocation in cognitive radio networks over Rayleigh-fading channels with hybrid intelligent algorithms.,2018,"Feng Li, Kwok-Yan Lam, Li Wang",Wirel. Networks 24: 2397-2407 ,WINET,Unranked
+127,CoLPUF : A Novel Configurable LFSR-based PUF.,2018,"B. Srinivasu, Vikramkumar Pudi, Anupam Chattopadhyay, Kwok-Yan Lam",APCCAS 2018: 358-361,APCCAS,Unranked
+128,From the Perspective of CNN to Adversarial Iris Images.,2018,"Yi Huang, Adams Wai-Kin Kong, Kwok-Yan Lam",BTAS 2018: 1-10,BTAS,Unranked
+129,Using Blockchain to Control Access to Cloud Data.,2018,"Jiale Guo, Wenzhuo Yang, Kwok-Yan Lam, Xun Yi",Inscrypt 2018: 274-288,CISC,Unranked
+130,A Comparative Study of Transactional and Semantic Approaches for Predicting Cascades on Twitter.,2018,"Yunwei Zhao, Can Wang, Chi-Hung Chi, Kwok-Yan Lam, Sen Wang",IJCAI 2018: 1212-1218,IJCAI,A*
+131,Efficient and Lightweight Quantized Compressive Sensing using μ-Law.,2018,"Vikramkumar Pudi, Anupam Chattopadhyay, Kwok-Yan Lam",ISCAS 2018: 1-5,ISCAS,Unranked
+132,BLIC: A Blockchain Protocol for Manufacturing and Supply Chain Management of ICS.,2018,"Sumanta Bose, Mayank Raikwar, Debdeep Mukhopadhyay, Anupam Chattopadhyay, Kwok-Yan Lam",iThings/GreenCom/CPSCom/SmartData 2018: 1326-1335,ITHINGS,Unranked
+133,A Blockchain Framework for Insurance Processes.,2018,"Mayank Raikwar, Subhra Mazumdar, Sushmita Ruj, Sourav Sen Gupta, Anupam Chattopadhyay, Kwok-Yan Lam",NTMS 2018: 1-4,NTMS,C
+134,Autonomous Vehicle: Security by Design.,2018,"Anupam Chattopadhyay, Kwok-Yan Lam",CoRR abs/1810.00545 ,CORR,Unranked
+135,A New Blind ECDSA Scheme for Bitcoin Transaction Anonymity.,2018,"Xun Yi, Kwok-Yan Lam, Dieter Gollmann",IACR Cryptol. ePrint Arch. 2018: 660 ,IACR,Unranked
+136,Security of autonomous vehicle as a cyber-physical system.,2017,"Anupam Chattopadhyay, Kwok-Yan Lam",ISED 2017: 1-6,ISED,Unranked
+137,Survey of secure processors.,2017,"Suman Sau, Jawad Haj-Yahya, Ming Ming Wong, Kwok-Yan Lam, Anupam Chattopadhyay",SAMOS 2017: 253-260,SAMOS,Unranked
+138,Identity in the Internet-of-Things (IoT): New Challenges and Opportunities.,2016,"Kwok-Yan Lam, Chi-Hung Chi",ICICS 2016: 18-26,ICICS,C
+139,"Information and Communications Security - 18th International Conference, ICICS 2016, Singapore, November 29 - December 2, 2016, Proceedings.",2016,"Kwok-Yan Lam, Chi-Hung Chi, Sihan Qing","Lecture Notes in Computer Science 9977, Springer 2016, ISBN 978-3-319-50010-2 ",ICICS,C
+140,Obtaining more Karatsuba-like formulae over the binary field.,2012,"Haining Fan, Ming Gu, Jiaguang Sun, Kwok-Yan Lam",IET Inf. Secur. 6: 14-19 ,IET-IFS,Unranked
+141,Energy-Efficient Key Distribution Using Electrocardiograph Biometric Set for Secure Communications in Wireless Body Healthcare Networks.,2011,"Jinyang Shi, Kwok-Yan Lam, Ming Gu, Mingze Li, Siu Leung Chung",J. Medical Syst. 35: 745-753 ,JMS,Unranked
+142,Ubiquitous and Secure Certificate Service for Wireless Ad Hoc Network.,2010,"Meng Ge, Kwok-Yan Lam, Jian-Bin Li, Siu Leung Chung",IEICE Trans. Inf. Syst. 93-D: 1848-1856 ,IEICET,Unranked
+143,Overlap-free Karatsuba-Ofman polynomial multiplication algorithms.,2010,"Haining Fan, Jia-Guang Sun, Ming Gu, Kwok-Yan Lam",IET Inf. Secur. 4: 8-14 ,IET-IFS,Unranked
+144,Trust Based Routing for Misbehavior Detection in Ad Hoc Networks.,2010,"Wei Gong, Zhiyang You, Danning Chen, Xibin Zhao, Ming Gu, Kwok-Yan Lam",J. Networks 5: 551-558 ,JNW,Unranked
+145,BodySec: synchronized key distribution using biometric slots for wireless body sensor networks.,2010,"Jinyang Shi, Kwok-Yan Lam, Ming Gu, Husheng Li",ACM SIGMOBILE Mob. Comput. Commun. Rev. 14: 22-24 ,SIGMOBILE,Unranked
+146,Selection Policy of Rescue Servers Based on Workload Characterization of Flash Crowd.,2010,"Chi-Hung Chi, Shijie Xu, Feng-Lin Li, Kwok-Yan Lam",SKG 2010: 293-296,SKG,National
+147,A robust certification service for highly dynamic MANET in emergency tasks.,2009,"Meng Ge, Kwok-Yan Lam, Dieter Gollmann, Siu Leung Chung, C. C. Chang, Jian-Bin Li",Int. J. Commun. Syst. 22: 1177-1197 ,IJCOMSYS,Unranked
+148,Towards Energy-Efficient Secure Communications Using Biometric Key Distribution in Wireless Biomedical Healthcare Networks.,2009,"Jinyang Shi, Kwok-Yan Lam, Ming Gu, Mingze Li, Siu Leung Chung",BMEI 2009: 1-5,BMEI,Unranked
+149,SAODV: A MANET Routing Protocol that can Withstand Black Hole Attack.,2009,"Songbai Lu, Longxuan Li, Kwok-Yan Lam, Lingyan Jia",CIS  2009: 421-425,CIS,C
+150,SAODV: A MANET Routing Protocol that can Withstand Black Hole Attack.,2009,"Songbai Lu, Longxuan Li, Kwok-Yan Lam, Lingyan Jia",CIS  2009: 421-425,CIS,National
+151,Reusable Set Constructions Using Randomized Dissolvent Templates for Biometric Security.,2009,"Jinyang Shi, Kwok-Yan Lam, Ming Gu, Husheng Li",GLOBECOM 2009: 1-6,GLOBECOM,B
+152,MinuCode: A Fixed-Value Representation of Fingerprint Minutiae for Biometric Cryptosystem.,2009,"Jinyang Shi, Kwok-Yan Lam",ISA 2009: 382-391,SERSC-ISA,Unranked
+153,Self-initialized Distributed Certificate Authority for Mobile Ad Hoc Network.,2009,"Meng Ge, Kwok-Yan Lam",ISA 2009: 392-401,SERSC-ISA,Unranked
+154,Obtaining More Karatsuba-Like Formulae over The Binary Field.,2009,"Haining Fan, Ming Gu, Jiaguang Sun, Kwok-Yan Lam",IACR Cryptol. ePrint Arch. 2009: 636 ,IACR,Unranked
+155,Efficient Fingercode Classification.,2008,"Hong-Wei Sun, Kwok-Yan Lam, Dieter Gollmann, Siu Leung Chung, Jian-Bin Li, Jia-Guang Sun",IEICE Trans. Inf. Syst. 91-D: 1252-1260 ,IEICET,Unranked
+156,Ubiquitous and Secure Certificate Service for Mobile Ad Hoc Network.,2008,"Meng Ge, Kwok-Yan Lam, Jian-Bin Li, Siu Leung Chung",EUC  2008: 312-317,EUC,C
+157,Biomapping: Privacy trustworthy biometrics using noninvertible and discriminable constructions.,2008,"Jinyang Shi, Zhiyang You, Ming Gu, Kwok-Yan Lam",ICPR 2008: 1-4,ICPR,B
+158,Robust Remote Authentication for Scalable Web-Based Services.,2008,"Jian-Bin Li, Kwok-Yan Lam, Hong-Wei Sun, Siu Leung Chung",IIH-MSP 2008: 1113-1117,IIH-MSP,Unranked
+159,Dynamically Constructing Mixed Pyramid for Fast VQ Encoding.,2007,"Hong-Wei Sun, Kwok-Yan Lam, Jia-Guang Sun, Siu Leung Chung",IIH-MSP 2007: 449-452,IIH-MSP,Unranked
+160,A fast and elastic fingerprint matching algorithm using minutiae-centered circular regions.,2007,"Haiyong Chen, Hongwei Sun, Kwok-Yan Lam",SECURWARE 2007: 211-215,SECURWARE,Unranked
+161,Overlap-free Karatsuba-Ofman Polynomial Multiplication Algorithms.,2007,"Haining Fan, Jiaguang Sun, Ming Gu, Kwok-Yan Lam",IACR Cryptol. ePrint Arch. 2007: 393 ,IACR,Unranked
+162,Minimal Threshold Closure.,2006,"Xibin Zhao, Kwok-Yan Lam, Guiming Luo, Siu Leung Chung, Ming Gu",ESORICS 2006: 145-155,ESORICS,A
+163,Efficient Discovery of Emerging Frequent Patterns in ArbitraryWindows on Data Streams.,2006,"Xiaoming Jin, Xinqiang Zuo, Kwok-Yan Lam, Jianmin Wang, Jia-Guang Sun",ICDE 2006: 113,ICDE,A*
+164,An Efficient Algorithm for Fingercode-Based Biometric Identification.,2006,"Hong-Wei Sun, Kwok-Yan Lam, Ming Gu, Jia-Guang Sun",OTM Workshops  2006: 469-478,OTM,Unranked
+165,An ID-based multisignature scheme without reblocking and predetermined signing order.,2005,"Chin-Chen Chang, Iuon-Chang Lin, Kwok-Yan Lam",Comput. Stand. Interfaces 27: 407-413 ,CSI,Unranked
+166,Efficient vector quantization using genetic algorithm.,2005,"Hongwei Sun, Kwok-Yan Lam, Siu Leung Chung, Wei-Ming Dong, Ming Gu, Jia-Guang Sun",Neural Comput. Appl. 14: 203-211 ,NCA,B
+167,A practical system of keyphrase extraction for web pages.,2005,"Mo Chen, Jian-Tao Sun, Hua-Jun Zeng, Kwok-Yan Lam",CIKM 2005: 277-278,CIKM,A
+168,The Impact of Mobility Modeling in Mobile IP Multicast Research.,2005,"Guoliang Xie, Mingwei Xu, Kwok-Yan Lam, Qian Wu",ICCNMC 2005: 295-304,ICCNMC,Unranked
+169,An Efficient Anomaly Detection Algorithm for Vector-Based Intrusion Detection Systems.,2005,"Hong-Wei Sun, Kwok-Yan Lam, Siu Leung Chung, Ming Gu, Jia-Guang Sun",ICCNMC 2005: 817-825,ICCNMC,Unranked
+170,Secure Construction of Virtual Organizations in Grid Computing Systems.,2005,"Bangyu Wu, Kwok-Yan Lam, Siu Leung Chung, Huaxiong Wang",WINE 2005: 959-968,WINE,Unranked
+171,Authorization Mechanisms for Virtual Organizations in Distributed Computing Systems.,2004,"Xibin Zhao, Kwok-Yan Lam, Siu Leung Chung, Ming Gu, Jia-Guang Sun",ACISP 2004: 414-426,ACISP,Australasian B
+172,Real-Time Emulation of Intrusion Victim in HoneyFarm.,2004,"Xing-Yun He, Kwok-Yan Lam, Siu Leung Chung, Chi-Hung Chi, Jia-Guang Sun",AWCC 2004: 143-154,AWCC,Unranked
+173,Enhancing the Scalability of the Community Authorization Service for Virtual Organizations.,2004,"Jian-Ping Yong, Kwok-Yan Lam, Siu Leung Chung, Ming Gu, Jia-Guang Sun",AWCC 2004: 182-193,AWCC,Unranked
+174,Anomaly Detection in Grid Computing Based on Vector Quantization.,2004,"Hong-Wei Sun, Kwok-Yan Lam, Siu Leung Chung, Ming Gu, Jia-Guang Sun",GCC 2004: 883-886,GCC,Unranked
+175,Application of Content Computing in Honeyfarm.,2004,"Yi-Yuan Huang, Kwok-Yan Lam, Siu Leung Chung, Chi-Hung Chi, Jia-Guang Sun",WISA 2004: 211-222,WISA,National
+176,"Content Computing, Advanced Workshop on Content Computing, AWCC 2004, ZhenJiang, JiangSu, China, November 15-17, 2004, Proceedings.",2004,"Chi-Hung Chi, Kwok-Yan Lam","Lecture Notes in Computer Science 3309, Springer 2004, ISBN 3-540-23898-0 ",AWCC,Unranked
+177,Lightweight security for mobile commerce transactions.,2003,"Kwok-Yan Lam, Siu Leung Chung, Ming Gu, Jia-Guang Sun",Comput. Commun. 26: 2052-2060 ,COMCOM,Unranked
+178,Security middleware for enhancing interoperability of Public Key Infrastructure.,2003,"Kwok-Yan Lam, Siu Leung Chung, Ming Gu, Jia-Guang Sun",Comput. Secur. 22: 535-546 ,COMPSEC,Unranked
+179,On identification secret sharing schemes.,2003,"Ning Cai, Kwok-Yan Lam",Inf. Comput. 184: 298-310 ,IANDC,Unranked
+180,Efficient Presentation of Multivariate Audit Data for Intrusion Detection of Web-Based Internet Services.,2003,"Zhi Guo, Kwok-Yan Lam, Siu Leung Chung, Ming Gu, Jia-Guang Sun",ACNS 2003: 63-75,ACNS,B
+181,GridFS: A Web-Based Data Grid with P2P Concepts and Writable Replicas.,2003,"Qinghu Li, Jianmin Wang, Kwok-Yan Lam, Jia-Guang Sun",ICADL 2003: 639-642,ICADL,Unranked
+182,A Novel Two-Level Trust Model for Grid.,2003,"Tieyan Li, Huafei Zhu, Kwok-Yan Lam",ICICS 2003: 214-225,ICICS,C
+183,GridFS: A Web-Based Data Grid for the Distributed Sharing of Educational Resource Files.,2003,"Qinghu Li, Jianmin Wang, Kwok-Yan Lam, Jia-Guang Sun",ICWL 2003: 81-92,ICWL,Unranked
+184,Enhancing Grid Security Infrastructure to Support Mobile Computing Nodes.,2003,"Kwok-Yan Lam, Xibin Zhao, Siu Leung Chung, Ming Gu, Jia-Guang Sun",WISA 2003: 42-54,WISA,National
+185,An optimal location update and searching algorithm for tracking mobile agent.,2002,"Tieyan Li, Kwok-Yan Lam",AAMAS 2002: 639-646,ATAL,Unranked
+186,Detecting anomalous agents in mobile agent system: a preliminary approach.,2002,"Tieyan Li, Kwok-Yan Lam",AAMAS 2002: 655-656,ATAL,Unranked
+187,Context Query in Information Retrieval.,2002,"Chi-Hung Chi, Chen (Cherie) Ding, Kwok-Yan Lam",ICTAI 2002: 101-106,ICTAI,B
+188,Agent Warehouse: A New Paradigm for Mobile Agent Deployment.,2002,"Chi-Hung Chi, John Sim, Kwok-Yan Lam",ICTAI 2002: 455-462,ICTAI,B
+189,Study for Fusion of Different Sources to Determine Relevance.,2002,"Chi-Hung Chi, Chen (Cherie) Ding, Kwok-Yan Lam",ICTAI 2002: 515-520,ICTAI,B
+190,Defending against Distributed Denial of Service Attacks Using Resistant Mobile Agent Architecture.,2002,"Tieyan Li, Wai-Meng Chew, Kwok-Yan Lam",IPDPS 2002,IPPS,Unranked
+191,Understanding the Object Retrieval Dependence of Web Page Access.,2002,"Chi-Hung Chi, Xiang Li, Kwok-Yan Lam",MASCOTS 2002: 413-420,MASCOTS,B
+192,"The Weight Distribution of C5(1, n).",2001,"Kwok-Yan Lam, Francesco Sica",Des. Codes Cryptogr. 24: 181-191 ,DCC,B
+193,Decomposing Attacks on Asymmetric Cryptography Based on Mapping Compositions.,2001,"Dingfeng Ye, Zongduo Dai, Kwok-Yan Lam",J. Cryptol. 14: 137-150 ,JOC,Unranked
+194,A Secure Group Solution for Multi-Agent EC System.,2001,"Tieyan Li, Kwok-Yan Lam",IPDPS 2001: 169,IPPS,Unranked
+195,Duadic sequences of prime lengths.,2000,"Cunsheng Ding, Tor Helleseth, Kwok-Yan Lam",Discret. Math. 218: 33-49 ,DM,C
+196,Constructions of authentication codes from algebraic curves over finite fields.,2000,"Chaoping Xing, Huaxiong Wang, Kwok-Yan Lam",IEEE Trans. Inf. Theory 46: 886-892 ,TIT,Unranked
+197,A fast algorithm for determining the linear complexity of a sequence with period pn over GF(q).,2000,"Guozhen Xiao, Shimin Wei, Kwok-Yan Lam, Kyoki Imamura",IEEE Trans. Inf. Theory 46: 2203-2206 ,TIT,Unranked
+198,On Multiplicative Secret Sharing Schemes.,2000,"Huaxiong Wang, Kwok-Yan Lam, Guozhen Xiao, Huanhui Zhao",ACISP 2000: 342-351,ACISP,Australasian B
+199,Loyalty Program Scheme for Anonymous Payment System.,2000,"Arrianto Mukti Wibowo, Kwok-Yan Lam, Gary S. H. Tan",EC-Web 2000: 253-265,ECWEB,Unranked
+200,A Secure Route Structure for Information Gathering Agent.,2000,"Tieyan Li, Chuk-Yang Seng, Kwok-Yan Lam",PRIMA 2000: 101-114,PRIMA,B
+201,A New Construction of Algebraic Geometry Codes.,1999,"Harald Niederreiter, Chaoping Xing, Kwok-Yan Lam",Appl. Algebra Eng. Commun. Comput. 9: 373-381 ,AAECC,Unranked
+202,Securing digital signatures for non-repudiation.,1999,"Jianying Zhou, Kwok-Yan Lam",Comput. Commun. 22: 710-716 ,COMCOM,Unranked
+203,Construction and Enumeration of All Binary Duadic Codes of Length pm.,1999,"Cunsheng Ding, Kwok-Yan Lam, Chaoping Xing",Fundam. Informaticae 38: 149-161 ,FUIN,Unranked
+204,Scalable Threshold Closure.,1999,"Chunru Zhang, Kwok-Yan Lam, Sushil Jajodia",Theor. Comput. Sci. 226: 185-206 ,TCS,Unranked
+205,Constructions of Algebraic-Geometry Codes.,1999,"Chaoping Xing, Harald Niederreiter, Kwok-Yan Lam",IEEE Trans. Inf. Theory 45: 1186-1193 ,TIT,Unranked
+206,Sequences with Almost Perfect Linear Complexity Profiles and Curves Over Finite Fields.,1999,"Chaoping Xing, Kwok-Yan Lam",IEEE Trans. Inf. Theory 45: 1267-1270 ,TIT,Unranked
+207,A generalization of algebraic-geometry codes.,1999,"Chaoping Xing, Harald Niederreiter, Kwok-Yan Lam",IEEE Trans. Inf. Theory 45: 2498-2501 ,TIT,Unranked
+208,Several classes of binary sequences with three-level autocorrelation.,1999,"Cunsheng Ding, Tor Helleseth, Kwok-Yan Lam",IEEE Trans. Inf. Theory 45: 2606-2612 ,TIT,Unranked
+209,A Class of Explicit Perfect Multi-sequences.,1999,"Chaoping Xing, Kwok-Yan Lam, Zhenghong Wei",ASIACRYPT 1999: 299-305,ASIACRYPT,A
+210,Secure Agent-Mediated Auctionlike Negotiation Protocol for Internet Retail Commerce.,1999,"Xiao Feng Wang, Kwok-Yan Lam, Xun Yi, C. Q. Zhang, Eiji Okamoto",CIA 1999: 291-302,CIA,Unranked
+211,"Cryptanalysis of ""2 R"" Schemes.",1999,"Dingfeng Ye, Kwok-Yan Lam, Zong-Duo Dai",CRYPTO 1999: 315-325,CRYPTO,A*
+212,A New Approach to Robust Threshold RSA Signature Schemes.,1999,"Reihaneh Safavi-Naini, Huaxiong Wang, Kwok-Yan Lam",ICISC 1999: 184-196,ICISC,National
+213,Mobile IP Registration Protocol: A Security Attack and New Secure Minimal Public-Key Based Authentication.,1999,"Sufatrio, Kwok-Yan Lam",ISPAN 1999: 364-369,ISPAN,Unranked
+214,Internet Mobility Support Optimized for Client Access and its Scalable Authentication Framework.,1999,"Sufatrio, Kwok-Yan Lam",MDA 1999: 220-229,MDA,Unranked
+215,A Secure Pay-per View Scheme for Web-Based Video Service.,1999,"Jianying Zhou, Kwok-Yan Lam",Public Key Cryptography 1999: 315-326,PKC,B
+216,Agent-based copyright protection architecture for online electronic publishing.,1999,"Xun Yi, S. Kitazawa, Eiji Okamoto, Xiao Feng Wang, Kwok-Yan Lam, S. Tu",Security and Watermarking of Multimedia Contents 1999: 484-493,SSWMC,Unranked
+217,"Advances in Cryptology - ASIACRYPT '99, International Conference on the Theory and Applications of Cryptology and Information Security, Singapore, November 14-18, 1999, Proceedings.",1999,"Kwok-Yan Lam, Eiji Okamoto, Chaoping Xing","Lecture Notes in Computer Science 1716, Springer 1999, ISBN 3-540-66666-4 ",ASIACRYPT,A
+218,On the efficient implementation of fair non-repudiation.,1998,"Cheng-Hwee You, Jianying Zhou, Kwok-Yan Lam",Comput. Commun. Rev. 28: 50-60 ,CCR,Unranked
+219,An optimized protocol for mobile network authentication and security.,1998,"Xun Yi, Eiji Okamoto, Kwok-Yan Lam",ACM SIGMOBILE Mob. Comput. Commun. Rev. 2: 37-39 ,SIGMOBILE,Unranked
+220,Differential Cryptanalysis of a Block Cipher.,1998,"Xun Yi, Kwok-Yan Lam, Yongfei Han",ACISP 1998: 58-67,ACISP,Australasian B
+221,Weak Invertibiity of Finite Automata and Cryptanalysis on FAPKC.,1998,"Zong-Duo Dai, Dingfeng Ye, Kwok-Yan Lam",ASIACRYPT 1998: 227-241,ASIACRYPT,A
+222,RSA Signature Algorithm for Microcontroller Implementation.,1998,"Guopei Qiao, Kwok-Yan Lam",CARDIS 1998: 353-356,CARDIS,C
+223,Secure Information Gathering Agent for Internet Trading.,1998,"Xiao Feng Wang, Xun Yi, Kwok-Yan Lam, Eiji Okamoto",DAI 1998: 183-193,DAI,Unranked
+224,A Secure Intelligent Trade Agent System.,1998,"Xun Yi, Xiao Feng Wang, Kwok-Yan Lam",Trends in Distributed Systems for Electronic Commerce 1998: 218-228,IFIP,Unranked
+225,Undeniable Billing in Mobile Communication.,1998,"Jianying Zhou, Kwok-Yan Lam",MobiCom 1998: 284-290,MOBICOM,A*
+226,Secure Agent-Mediated Mobile Payment.,1998,"Xiao Feng Wang, Kwok-Yan Lam, Xun Yi",PRIMA 1998: 162-173,PRICAI,B
+227,A Security Auction-Like Negotiation Protocol for Agent-Based Internet Trading.,1998,"Xun Yi, Xiao Feng Wang, Kwok-Yan Lam, Eiji Okamoto, D. Frank Hsu",SRDS 1998: 197-203,SRDS,B
+228,Global Optimisation in Neural Network Training.,1997,"Lucas Chi Kwong Hui, Kwok-Yan Lam, Chee Weng Chea",Neural Comput. Appl. 5: 58-64 ,NCA,B
+229,A New Hash Function Based on Block Cipher.,1997,"Xun Yi, Kwok-Yan Lam",ACISP 1997: 139-146,ACISP,Australasian B
+230,A New Byte-Oriented Block Cipher.,1997,"Xun Yi, Kwok-Yan Lam, Shixin Cheng, Xiaohu You",ISW 1997: 209-220,ISW,Unranked
+231,Designing a system infrastructure for distributed programs.,1996,"Kwok-Yan Lam, Lucas Chi Kwong Hui",Comput. Commun. 19: 754-762 ,COMCOM,Unranked
+232,Efficient nearer-ancestor algorithm for network routing.,1996,"Kwok-Yan Lam, Lucas Chi Kwong Hui",Comput. Commun. 19: 1014-1019 ,COMCOM,Unranked
+233,A data reduction method for intrusion detection.,1996,"Kwok-Yan Lam, Lucas Chi Kwong Hui, Siu Leung Chung",J. Syst. Softw. 33: 101-108 ,JSS,Unranked
+234,The Failure of Anti-Hacking Legislation: A Hong Kong Perspective.,1996,"Rynson W. H. Lau, Kwok-Yan Lam, Siu Leung Chung",CCS 1996: 62-67,CCS,A*
+235,Efficient Generation of Elliptic Curve Cryptosystems.,1996,"Kwok-Yan Lam, San Ling, Lucas Chi Kwong Hui",COCOON 1996: 411-416,COCOON,National
+236,Replay tolerance of authentication protocols.,1995,Kwok-Yan Lam,Comput. Commun. 18: 988-992 ,COMCOM,Unranked
+237,Multivariate data analysis software for enhancing system security.,1995,"Kwok-Yan Lam, Lucas Chi Kwong Hui, Siu Leung Chung",J. Syst. Softw. 31: 267-275 ,JSS,Unranked
+238,Analysis and Experimentation on List Update Algorithms.,1995,"Lucas Chi Kwong Hui, Kwok-Yan Lam",COCOON 1995: 576-581,COCOON,National
+239,Context-Dependent Access Control in Distributed Systems.,1993,"Hermann Strack, Kwok-Yan Lam",SEC 1993: 137-155,SEC,Unranked
+240,Freshness Assurance of Authentication Protocols.,1992,"Kwok-Yan Lam, Dieter Gollmann",ESORICS 1992: 261-272,ESORICS,A
+241,Timely Authentication in Distributed Systems.,1992,"Kwok-Yan Lam, Thomas Beth",ESORICS 1992: 293-303,ESORICS,A
+242,A new approach for improving system availability.,1991,Kwok-Yan Lam,"University of Cambridge, UK, 1991",NAN,Unranked
+243,An Implementation for Small Databases with High Availability.,1991,Kwok-Yan Lam,ACM SIGOPS Oper. Syst. Rev. 25: 77-87 ,SIGOPS,Unranked

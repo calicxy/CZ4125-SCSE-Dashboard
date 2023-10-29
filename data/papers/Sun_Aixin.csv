@@ -1,0 +1,306 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Asking Clarifying Questions: To benefit or to disturb users in Web search?,2023,"Jie Zou, Aixin Sun, Cheng Long, Mohammad Aliannejadi, Evangelos Kanoulas",Inf. Process. Manag. 60: 103176 ,IPM,Unranked
+1,EDU-Capsule: aspect-based sentiment analysis at clause level.,2023,"Ting Lin, Aixin Sun, Yequan Wang",Knowl. Inf. Syst. 65: 517-541 ,KAIS,Unranked
+2,Temporal Sentence Grounding in Videos: A Survey and Future Directions.,2023,"Hao Zhang, Aixin Sun, Wei Jing, Joey Tianyi Zhou",IEEE Trans. Pattern Anal. Mach. Intell. 45: 10443-10465 ,PAMI,Unranked
+3,Generative Adversarial Reward Learning for Generalized Behavior Tendency Inference.,2023,"Xiaocong Chen, Lina Yao, Xianzhi Wang, Aixin Sun, Quan Z. Sheng",IEEE Trans. Knowl. Data Eng. 35: 9878-9889 ,TKDE,Unranked
+4,A Critical Study on Data Leakage in Recommender System Offline Evaluation.,2023,"Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li",ACM Trans. Inf. Syst. 41: 75:1-75:27 ,TOIS,Unranked
+5,MS-DETR: Natural Language Video Localization with Sampling Moment-Moment Interaction.,2023,"Wang Jing, Aixin Sun, Hao Zhang, Xiaoli Li",ACL  2023: 1387-1400,ACL,A*
+6,Negation Scope Refinement via Boundary Shift Loss.,2023,"Yin Wu, Aixin Sun",ACL  2023: 6090-6099,ACL,A*
+7,Take a Break in the Middle: Investigating Subgoals towards Hierarchical Script Generation.,2023,"Xinze Li, Yixin Cao, Muhao Chen, Aixin Sun",ACL  2023: 10129-10147,ACL,A*
+8,A Synthetic Data Generation Framework for Grounded Dialogues.,2023,"Jianzhu Bao, Rui Wang, Yasheng Wang, Aixin Sun, Yitong Li, Fei Mi, Ruifeng Xu",ACL  2023: 10866-10882,ACL,A*
+9,Few-shot Event Detection: An Empirical Study and a Unified View.,2023,"Yubo Ma, Zehao Wang, Yixin Cao, Aixin Sun",ACL  2023: 11211-11236,ACL,A*
+10,Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting.,2023,"Chen Chen, Yufei Wang, Aixin Sun, Bing Li, Kwok-Yan Lam",ACL  2023: 11489-11503,ACL,A*
+11,The 1st Workshop on Recommendation with Generative Models.,2023,"Wenjie Wang, Yong Liu, Yang Zhang, Weiwen Liu, Fuli Feng, Xiangnan He, Aixin Sun",CIKM 2023: 5300-5303,CIKM,A
+12,A Survey on Deep Learning for Named Entity Recognition : Extended Abstract.,2023,"Jing Li, Aixin Sun, Jianglei Han, Chenliang Li",ICDE 2023: 3817-3818,ICDE,A*
+13,A Study on Transformer Configuration and Training Objective.,2023,"Fuzhao Xue, Jianghai Chen, Aixin Sun, Xiaozhe Ren, Zangwei Zheng, Xiaoxin He, Yongming Chen, Xin Jiang, Yang You",ICML 2023: 38913-38925,ICML,A*
+14,On Challenges of Evaluating Recommender Systems in an Offline Setting.,2023,Aixin Sun,RecSys 2023: 1284-1285,RECSYS,Unranked
+15,A Preference Learning Decoupling Framework for User Cold-Start Recommendation.,2023,"Chunyang Wang, Yanmin Zhu, Aixin Sun, Zhaobo Wang, Ke Wang",SIGIR 2023: 1168-1177,SIGIR,A*
+16,Take a Fresh Look at Recommender Systems from an Evaluation Standpoint.,2023,Aixin Sun,SIGIR 2023: 2629-2638,SIGIR,A*
+17,DOCoR: Document-level OpenIE with Coreference Resolution.,2023,"Shan Jie Yong, Kuicai Dong, Aixin Sun",WSDM 2023: 1204-1207,WSDM,A
+18,"Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!",2023,"Yubo Ma, Yixin Cao, YongChing Hong, Aixin Sun",CoRR abs/2303.08559 ,CORR,Unranked
+19,GCRE-GPT: A Generative Model for Comparative Relation Extraction.,2023,"Yequan Wang, Hengran Zhang, Aixin Sun, Xuying Meng",CoRR abs/2303.08601 ,CORR,Unranked
+20,DiffuRec: A Diffusion Model for Sequential Recommendation.,2023,"Zihao Li, Aixin Sun, Chenliang Li",CoRR abs/2304.00686 ,CORR,Unranked
+21,FreeLM: Fine-Tuning-Free Language Model.,2023,"Xiang Li, Xin Jiang, Xuying Meng, Aixin Sun, Yequan Wang",CoRR abs/2305.01616 ,CORR,Unranked
+22,Few-shot Event Detection: An Empirical Study and a Unified View.,2023,"Yubo Ma, Zehao Wang, Yixin Cao, Aixin Sun",CoRR abs/2305.01901 ,CORR,Unranked
+23,Open Information Extraction via Chunks.,2023,"Kuicai Dong, Aixin Sun, Jung-Jae Kim, Xiaoli Li",CoRR abs/2305.03299 ,CORR,Unranked
+24,Retraining A Graph-based Recommender with Interests Disentanglement.,2023,"Yitong Ji, Aixin Sun, Jie Zhang",CoRR abs/2305.03624 ,CORR,Unranked
+25,Shall We Trust All Relational Tuples by Open Information Extraction? A Study on Speculation Detection.,2023,"Kuicai Dong, Aixin Sun, Jung-Jae Kim, Xiaoli Li",CoRR abs/2305.04181 ,CORR,Unranked
+26,Take a Break in the Middle: Investigating Subgoals towards Hierarchical Script Generation.,2023,"Xinze Li, Yixin Cao, Muhao Chen, Aixin Sun",CoRR abs/2305.10907 ,CORR,Unranked
+27,LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models.,2023,"Fangkai Jiao, Zhiyang Teng, Shafiq R. Joty, Bosheng Ding, Aixin Sun, Zhengyuan Liu, Nancy F. Chen",CoRR abs/2305.13718 ,CORR,Unranked
+28,MS-DETR: Natural Language Video Localization with Sampling Moment-Moment Interaction.,2023,"Jing Wang, Aixin Sun, Hao Zhang, Xiaoli Li",CoRR abs/2305.18969 ,CORR,Unranked
+29,Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting.,2023,"Chen Chen, Yufei Wang, Aixin Sun, Bing Li, Kwok-Yan Lam",CoRR abs/2307.01709 ,CORR,Unranked
+30,Research Explosion: More Effort to Climb onto Shoulders of the Giant.,2023,"Guoxiu He, Aixin Sun, Wei Lu",CoRR abs/2307.06506 ,CORR,Unranked
+31,Our Model Achieves Excellent Performance on MovieLens: What Does it Mean?,2023,"Yu-chen Fan, Yitong Ji, Jie Zhang, Aixin Sun",CoRR abs/2307.09985 ,CORR,Unranked
+32,FLM-101B: An Open LLM and How to Train It with $100K Budget.,2023,"Xiang Li, Yiqun Yao, Xin Jiang, Xuezhi Fang, Xuying Meng, Siqi Fan, Peng Han, Jing Li, Li Du, Bowen Qin, Zheng Zhang, Aixin Sun, Yequan Wang",CoRR abs/2309.03852 ,CORR,Unranked
+33,An Image Dataset for Benchmarking Recommender Systems with Raw Pixels.,2023,"Yu Cheng, Yunzhu Pan, Jiaqi Zhang, Yongxin Ni, Aixin Sun, Fajie Yuan",CoRR abs/2309.06789 ,CORR,Unranked
+34,Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution.,2023,"Xinze Li, Yixin Cao, Liangming Pan, Yubo Ma, Aixin Sun",CoRR abs/2310.05634 ,CORR,Unranked
+35,Real-time dynamic network learning for location inference modelling and computing.,2022,"Jianxin Li, Aixin Sun, Ziyu Guan, Muhammad Aamir Cheema, Geyong Min",Neurocomputing 472: 198-200 ,IJON,Unranked
+36,Natural Language Video Localization: A Revisit in Span-Based Question Answering Framework.,2022,"Hao Zhang, Aixin Sun, Wei Jing, Liangli Zhen, Joey Tianyi Zhou, Rick Siow Mong Goh",IEEE Trans. Pattern Anal. Mach. Intell. 44: 4252-4266 ,PAMI,Unranked
+37,A Survey on Deep Learning for Named Entity Recognition.,2022,"Jing Li, Aixin Sun, Jianglei Han, Chenliang Li",IEEE Trans. Knowl. Data Eng. 34: 50-70 ,TKDE,Unranked
+38,Point-of-Interest Recommendation With Global and Local Context.,2022,"Peng Han, Shuo Shang, Aixin Sun, Peilin Zhao, Kai Zheng, Xiangliang Zhang",IEEE Trans. Knowl. Data Eng. 34: 5484-5495 ,TKDE,Unranked
+39,MMEKG: Multi-modal Event Knowledge Graph towards Universal Representation across Modalities.,2022,"Yubo Ma, Zehao Wang, Mukai Li, Yixin Cao, Meiqi Chen, Xinze Li, Wenqi Sun, Kunquan Deng, Kun Wang, Aixin Sun, Jing Shao",ACL  2022: 231-239,ACL,A*
+40,CofeNet: Context and Former-Label Enhanced Net for Complicated Quotation Extraction.,2022,"Yequan Wang, Xiang Li, Aixin Sun, Xuying Meng, Huaming Liao, Jiafeng Guo",COLING 2022: 2438-2449,COLING,B
+41,Syntactic Multi-view Learning for Open Information Extraction.,2022,"Kuicai Dong, Aixin Sun, Jung-Jae Kim, Xiaoli Li",EMNLP 2022: 4072-4083,EMNLP,A*
+42,CORT: A New Baseline for Comparative Opinion Classification by Dual Prompts.,2022,"Yequan Wang, Hengran Zhang, Aixin Sun, Xuying Meng",EMNLP  2022: 7064-7075,EMNLP,A*
+43,An Embarrassingly Simple Model for Dialogue Relation Extraction.,2022,"Fuzhao Xue, Aixin Sun, Hao Zhang, Jinjie Ni, Eng Siong Chng",ICASSP 2022: 6707-6711,ICASSP,Unranked
+44,Do Loyal Users Enjoy Better Recommendations?: Understanding Recommender Accuracy from a Time Perspective.,2022,"Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li",ICTIR 2022: 92-97,ICTIR,Unranked
+45,A Survey on Neural Open Information Extraction: Current Status and Future Directions.,2022,"Shaowen Zhou, Bowen Yu, Aixin Sun, Cheng Long, Jingyang Li, Jian Sun",IJCAI 2022: 5694-5701,IJCAI,A*
+46,A Dual-Channel Framework for Sarcasm Recognition by Detecting Sentiment Conflict.,2022,"Yiyi Liu, Yequan Wang, Aixin Sun, Xuying Meng, Jing Li, Jiafeng Guo",NAACL-HLT  2022: 1670-1680,NAACL,A
+47,Aspect-Based Sentiment Analysis Through EDU-Level Attentions.,2022,"Ting Lin, Aixin Sun, Yequan Wang",PAKDD  2022: 156-168,PAKDD,B
+48,Automatic Expert Selection for Multi-Scenario and Multi-Task Search.,2022,"Xinyu Zou, Zhi Hu, Yiming Zhao, Xuchu Ding, Zhongyi Liu, Chenliang Li, Aixin Sun",SIGIR 2022: 1535-1544,SIGIR,A*
+49,An Attribute-Driven Mirror Graph Network for Session-based Recommendation.,2022,"Siqi Lai, Erli Meng, Fan Zhang, Chenliang Li, Bin Wang, Aixin Sun",SIGIR 2022: 1674-1683,SIGIR,A*
+50,Improving Conversational Recommender Systems via Transformer-based Sequential Modelling.,2022,"Jie Zou, Evangelos Kanoulas, Pengjie Ren, Zhaochun Ren, Aixin Sun, Cheng Long",SIGIR 2022: 2319-2324,SIGIR,A*
+51,Deep Learning for Recommender Systems.,2022,"Shuai Zhang, Yi Tay, Lina Yao, Aixin Sun, Ce Zhang",Recommender Systems Handbook 2022: 173-210,SP,A*
+52,Towards Reducing Manual Workload in Technology-Assisted Reviews: Estimating Ranking Performance.,2022,"Grace E. Lee, Aixin Sun",CoRR abs/2201.05648 ,CORR,Unranked
+53,The Elements of Temporal Sentence Grounding in Videos: A Survey and Future Directions.,2022,"Hao Zhang, Aixin Sun, Wei Jing, Joey Tianyi Zhou",CoRR abs/2201.08071 ,CORR,Unranked
+54,Aspect-based Sentiment Analysis through EDU-level Attentions.,2022,"Ting Lin, Aixin Sun, Yequan Wang",CoRR abs/2202.02535 ,CORR,Unranked
+55,Chat-Capsule: A Hierarchical Capsule for Dialog-level Emotion Analysis.,2022,"Yequan Wang, Xuying Meng, Yiyi Liu, Aixin Sun, Yao Wang, Yinhe Zheng, Minlie Huang",CoRR abs/2203.12254 ,CORR,Unranked
+56,Recommender May Not Favor Loyal Users.,2022,"Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li",CoRR abs/2204.05927 ,CORR,Unranked
+57,Deeper vs Wider: A Revisit of Transformer Configuration.,2022,"Fuzhao Xue, Jianghai Chen, Aixin Sun, Xiaozhe Ren, Zangwei Zheng, Xiaoxin He, Xin Jiang, Yang You",CoRR abs/2205.10505 ,CORR,Unranked
+58,A Survey on Neural Open Information Extraction: Current Status and Future Directions.,2022,"Shaowen Zhou, Bowen Yu, Aixin Sun, Cheng Long, Jingyang Li, Jian Sun",CoRR abs/2205.11725 ,CORR,Unranked
+59,Automatic Expert Selection for Multi-Scenario and Multi-Task Search.,2022,"Xinyu Zou, Zhi Hu, Yiming Zhao, Xuchu Ding, Zhongyi Liu, Chenliang Li, Aixin Sun",CoRR abs/2205.14321 ,CORR,Unranked
+60,CofeNet: Context and Former-Label Enhanced Net for Complicated Quotation Extraction.,2022,"Yequan Wang, Xiang Li, Aixin Sun, Xuying Meng, Huaming Liao, Jiafeng Guo",CoRR abs/2209.09432 ,CORR,Unranked
+61,From Counter-intuitive Observations to a Fresh Look at Recommender System.,2022,Aixin Sun,CoRR abs/2210.04149 ,CORR,Unranked
+62,Perplexity from PLM Is Unreliable for Evaluating Text Quality.,2022,"Yequan Wang, Jiawen Deng, Aixin Sun, Xuying Meng",CoRR abs/2210.05892 ,CORR,Unranked
+63,Syntactic Multi-view Learning for Open Information Extraction.,2022,"Kuicai Dong, Aixin Sun, Jung-Jae Kim, Xiaoli Li",CoRR abs/2212.02068 ,CORR,Unranked
+64,Dataset vs Reality: Understanding Model Performance from the Perspective of Information Need.,2022,"Mengying Yu, Aixin Sun",CoRR abs/2212.02726 ,CORR,Unranked
+65,Understanding the stability of medical concept embeddings.,2021,"Grace E. Lee, Aixin Sun",J. Assoc. Inf. Sci. Technol. 72: 346-356 ,JASIS,Unranked
+66,Will Your Paper Get Promoted by a Citation? A Case Study of Citation Promoter in Computer Science Discipline.,2021,"Feiheng Luo, Aixin Sun, Aravind Sesagiri Raamkumar, Mojisola Erdt, Yin-Leng Theng",IEEE Trans. Emerg. Top. Comput. 9: 238-245 ,TETC,Unranked
+67,Incremental Community Detection on Large Complex Attributed Network.,2021,"Zhe Chen, Aixin Sun, Xiaokui Xiao",ACM Trans. Knowl. Discov. Data 15: 109:1-109:20 ,TKDD,Unranked
+68,Neural Named Entity Boundary Detection.,2021,"Jing Li, Aixin Sun, Yukun Ma",IEEE Trans. Knowl. Data Eng. 33: 1790-1795 ,TKDE,Unranked
+69,GDPNet: Refining Latent Multi-View Graph for Relation Extraction.,2021,"Fuzhao Xue, Aixin Sun, Hao Zhang, Eng Siong Chng",AAAI 2021: 14194-14202,AAAI,A*
+70,Parallel Attention Network with Sequence Matching for Video Grounding.,2021,"Hao Zhang, Aixin Sun, Wei Jing, Liangli Zhen, Joey Tianyi Zhou, Rick Siow Mong Goh",ACL/IJCNLP  2021: 776-790,ACL,A*
+71,DocOIE: A Document-level Context-Aware Dataset for OpenIE.,2021,"Kuicai Dong, Yilin Zhao, Aixin Sun, Jung-Jae Kim, Xiaoli Li",ACL/IJCNLP  2021: 2377-2389,ACL,A*
+72,Generative Inverse Deep Reinforcement Learning for Online Recommendation.,2021,"Xiaocong Chen, Lina Yao, Aixin Sun, Xianzhi Wang, Xiwei Xu, Liming Zhu",CIKM 2021: 201-210,CIKM,A
+73,Pre-training Graph Transformer with Multimodal Side Information for Recommendation.,2021,"Yong Liu, Susen Yang, Chenyi Lei, Guoxin Wang, Haihong Tang, Juyong Zhang, Aixin Sun, Chunyan Miao",ACM Multimedia 2021: 2853-2861,MM,Unranked
+74,Video Corpus Moment Retrieval with Contrastive Learning.,2021,"Hao Zhang, Aixin Sun, Wei Jing, Guoshun Nan, Liangli Zhen, Joey Tianyi Zhou, Rick Siow Mong Goh",SIGIR 2021: 685-695,SIGIR,A*
+75,Tweet-aware News Summarization with Dual-Attention Mechanism.,2021,"Xin Zheng, Aixin Sun, Karthik Muthuswamy",WWW  2021: 473-480,WWW,A*
+76,Natural Language Video Localization: A Revisit in Span-based Question Answering Framework.,2021,"Hao Zhang, Aixin Sun, Wei Jing, Liangli Zhen, Joey Tianyi Zhou, Rick Siow Mong Goh",CoRR abs/2102.13558 ,CORR,Unranked
+77,Generative Adversarial Reward Learning for Generalized Behavior Tendency Inference.,2021,"Xiaocong Chen, Lina Yao, Xianzhi Wang, Aixin Sun, Wenjie Zhang, Quan Z. Sheng",CoRR abs/2105.00822 ,CORR,Unranked
+78,DocOIE: A Document-level Context-Aware Dataset for OpenIE.,2021,"Kuicai Dong, Yilin Zhao, Aixin Sun, Jung-Jae Kim, Xiaoli Li",CoRR abs/2105.04271 ,CORR,Unranked
+79,Video Corpus Moment Retrieval with Contrastive Learning.,2021,"Hao Zhang, Aixin Sun, Wei Jing, Guoshun Nan, Liangli Zhen, Joey Tianyi Zhou, Rick Siow Mong Goh",CoRR abs/2105.06247 ,CORR,Unranked
+80,Parallel Attention Network with Sequence Matching for Video Grounding.,2021,"Hao Zhang, Aixin Sun, Wei Jing, Liangli Zhen, Joey Tianyi Zhou, Rick Siow Mong Goh",CoRR abs/2105.08481 ,CORR,Unranked
+81,SelfCF: A Simple Framework for Self-supervised Collaborative Filtering.,2021,"Xin Zhou, Aixin Sun, Yong Liu, Jie Zhang, Chunyan Miao",CoRR abs/2107.03019 ,CORR,Unranked
+82,A Dual-Channel Framework for Sarcasm Recognition by Detecting Sentiment Conflict.,2021,"Yiyi Liu, Yequan Wang, Aixin Sun, Zheng Zhang, Jiafeng Guo, Xuying Meng",CoRR abs/2109.03587 ,CORR,Unranked
+83,Towards Debiasing Temporal Sentence Grounding in Video.,2021,"Hao Zhang, Aixin Sun, Wei Jing, Joey Tianyi Zhou",CoRR abs/2111.04321 ,CORR,Unranked
+84,DP-GCN: Node Classification Based on Both Connectivity and Topology Structure Convolutions for Risky Seller Detection.,2021,"Chen Zhe, Aixin Sun",CoRR abs/2112.04757 ,CORR,Unranked
+85,Mirror Matching: Document Matching Approach in Seed-driven Document Ranking for Medical Systematic Reviews.,2021,"Grace E. Lee, Aixin Sun",CoRR abs/2112.14318 ,CORR,Unranked
+86,NEXT: a neural network framework for next POI recommendation.,2020,"Zhiqian Zhang, Chenliang Li, Zhiyong Wu, Aixin Sun, Dengpan Ye, Xiangyang Luo",Frontiers Comput. Sci. 14: 314-333 ,FCSC,Unranked
+87,Collective Named Entity Recognition in User Comments via Parameterized Label Propagation.,2020,"Minh C. Phan, Aixin Sun",J. Assoc. Inf. Sci. Technol. 71: 568-577 ,JASIS,Unranked
+88,Efficient approximation algorithms for adaptive influence maximization.,2020,"Keke Huang, Jing Tang, Kai Han, Xiaokui Xiao, Wei Chen, Aixin Sun, Xueyan Tang, Andrew Lim",VLDB J. 29: 1385-1406 ,VLDB,A*
+89,DeepRouting: A Deep Neural Network Approach for Ticket Routing in Expert Network.,2020,"Jianglei Han, Aixin Sun",SCC 2020: 386-393,IEEESCC,Unranked
+90,CASE: Context-Aware Semantic Expansion.,2020,"Jialong Han, Aixin Sun, Haisong Zhang, Chenliang Li, Shuming Shi",AAAI 2020: 7871-7878,AAAI,A*
+91,Span-based Localizing Network for Natural Language Video Localization.,2020,"Hao Zhang, Aixin Sun, Wei Jing, Joey Tianyi Zhou",ACL 2020: 6543-6554,ACL,A*
+92,Efficient Approximation Algorithms for Adaptive Target Profit Maximization.,2020,"Keke Huang, Jing Tang, Xiaokui Xiao, Aixin Sun, Andrew Lim",ICDE 2020: 649-660,ICDE,A*
+93,Anomaly Detection on Dynamic Bipartite Graph with Burstiness.,2020,"Zhe Chen, Aixin Sun",ICDM 2020: 966-971,ICDM,A*
+94,Sentiment Prediction using Attention on User-Specific Rating Distribution.,2020,"Ting Lin, Aixin Sun",ICTIR 2020: 101-104,ICTIR,Unranked
+95,CATN: Cross-Domain Recommendation for Cold-Start Users via Aspect Transfer Network.,2020,"Cheng Zhao, Chenliang Li, Rong Xiao, Hongbo Deng, Aixin Sun",SIGIR 2020: 229-238,SIGIR,A*
+96,A Re-visit of the Popularity Baseline in Recommender Systems.,2020,"Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li",SIGIR 2020: 1749-1752,SIGIR,A*
+97,"Information Retrieval Technology - 15th Asia Information Retrieval Societies Conference, AIRS 2019, Hong Kong, November 7-9, 2019, Proceedings.",2020,"Fu Lee Wang, Haoran Xie, Wai Lam, Aixin Sun, Lun-Wei Ku, Tianyong Hao, Wei Chen, Tak-Lam Wong, Xiaohui Tao","Lecture Notes in Computer Science 12004, Springer 2020, ISBN 978-3-030-42834-1 ",AIRS,C
+98,UFTR: A Unified Framework for Ticket Routing.,2020,"Jianglei Han, Jing Li, Aixin Sun",CoRR abs/2003.00703 ,CORR,Unranked
+99,Efficient Approximation Algorithms for Adaptive Influence Maximization.,2020,"Keke Huang, Jing Tang, Kai Han, Xiaokui Xiao, Wei Chen, Aixin Sun, Xueyan Tang, Andrew Lim",CoRR abs/2004.06469 ,CORR,Unranked
+100,Span-based Localizing Network for Natural Language Video Localization.,2020,"Hao Zhang, Aixin Sun, Wei Jing, Joey Tianyi Zhou",CoRR abs/2004.13931 ,CORR,Unranked
+101,CATN: Cross-Domain Recommendation for Cold-Start Users via Aspect Transfer Network.,2020,"Cheng Zhao, Chenliang Li, Rong Xiao, Hongbo Deng, Aixin Sun",CoRR abs/2005.10549 ,CORR,Unranked
+102,A Re-visit of the Popularity Baseline in Recommender Systems.,2020,"Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li",CoRR abs/2005.13829 ,CORR,Unranked
+103,On Offline Evaluation of Recommender Systems.,2020,"Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li",CoRR abs/2010.11060 ,CORR,Unranked
+104,Generative Inverse Deep Reinforcement Learning for Online Recommendation.,2020,"Xiaocong Chen, Lina Yao, Aixin Sun, Xianzhi Wang, Xiwei Xu, Liming Zhu",CoRR abs/2011.02248 ,CORR,Unranked
+105,GDPNet: Refining Latent Multi-View Graph for Relation Extraction.,2020,"Fuzhao Xue, Aixin Sun, Hao Zhang, Eng Siong Chng",CoRR abs/2012.06780 ,CORR,Unranked
+106,An Embarrassingly Simple Model for Dialogue Relation Extraction.,2020,"Fuzhao Xue, Aixin Sun, Hao Zhang, Eng Siong Chng",CoRR abs/2012.13873 ,CORR,Unranked
+107,Deep Learning Based Recommender System: A Survey and New Perspectives.,2019,"Shuai Zhang, Lina Yao, Aixin Sun, Yi Tay",ACM Comput. Surv. 52: 5:1-5:38 ,CSUR,Unranked
+108,Collecting event-related tweets from twitter stream.,2019,"Xin Zheng, Aixin Sun",J. Assoc. Inf. Sci. Technol. 70: 176-186 ,JASIS,Unranked
+109,Pair-Linking for Collective Entity Disambiguation: Two Could Be Better Than All.,2019,"Minh C. Phan, Aixin Sun, Yi Tay, Jialong Han, Chenliang Li",IEEE Trans. Knowl. Data Eng. 31: 1383-1396 ,TKDE,Unranked
+110,Learning-Based Outdoor Localization Exploiting Crowd-Labeled WiFi Hotspots.,2019,"Jin Wang, Jun Luo, Sinno Jialin Pan, Aixin Sun",IEEE Trans. Mob. Comput. 18: 896-909 ,TMC,Unranked
+111,Seed-Guided Topic Model for Document Filtering and Classification.,2019,"Chenliang Li, Shiqian Chen, Jian Xing, Aixin Sun, Zongyang Ma",ACM Trans. Inf. Syst. 37: 9:1-9:37 ,TOIS,Unranked
+112,LinkLive: discovering Web learning resources for developers from Q&A discussions.,2019,"Jing Li, Zhenchang Xing, Aixin Sun",World Wide Web 22: 1699-1725 ,WWW,A*
+113,ChID: A Large-scale Chinese IDiom Dataset for Cloze Test.,2019,"Chujie Zheng, Minlie Huang, Aixin Sun",ACL  2019: 778-787,ACL,A*
+114,Robust Representation Learning of Biomedical Names.,2019,"Minh C. Phan, Aixin Sun, Yi Tay",ACL  2019: 3275-3285,ACL,A*
+115,Subtopic-driven Multi-Document Summarization.,2019,"Xin Zheng, Aixin Sun, Jing Li, Karthik Muthuswamy",EMNLP/IJCNLP  2019: 3151-3160,EMNLP,A*
+116,AUC-MF: Point of Interest Recommendation with AUC Maximization.,2019,"Peng Han, Shuo Shang, Aixin Sun, Peilin Zhao, Kai Zheng, Panos Kalnis",ICDE 2019: 1558-1561,ICDE,A*
+117,DeepRec: An Open-source Toolkit for Deep Learning based Recommendation.,2019,"Shuai Zhang, Yi Tay, Lina Yao, Bin Wu, Aixin Sun",IJCAI 2019: 6581-6583,IJCAI,A*
+118,Community Detection on Large Complex Attribute Network.,2019,"Chen Zhe, Aixin Sun, Xiaokui Xiao",KDD 2019: 2041-2049,KDD,A*
+119,A Study on Agreement in PICO Span Annotations.,2019,"Grace E. Lee, Aixin Sun",SIGIR 2019: 1149-1152,SIGIR,A*
+120,Efficient Approximation Algorithms for Adaptive Seed Minimization.,2019,"Jing Tang, Keke Huang, Xiaokui Xiao, Laks V. S. Lakshmanan, Xueyan Tang, Aixin Sun, Andrew Lim",SIGMOD Conference 2019: 1096-1113,SIGMOD,A*
+121,Learning Travel Time Distributions with Deep Generative Model.,2019,"Xiucheng Li, Gao Cong, Aixin Sun, Yun Cheng",WWW 2019: 1017-1027,WWW,A*
+122,Aspect-level Sentiment Analysis using AS-Capsules.,2019,"Yequan Wang, Aixin Sun, Minlie Huang, Xiaoyan Zhu",WWW 2019: 2033-2044,WWW,A*
+123,Understanding Stability of Medical Concept Embeddings: Analysis and Prediction.,2019,"Grace E. Lee, Aixin Sun",CoRR abs/1904.09552 ,CORR,Unranked
+124,A Study on Agreement in PICO Span Annotations.,2019,"Grace E. Lee, Aixin Sun",CoRR abs/1904.09557 ,CORR,Unranked
+125,Targeted Sentiment Analysis: A Data-Driven Categorization.,2019,"Jiaxin Pei, Aixin Sun, Chenliang Li",CoRR abs/1905.03423 ,CORR,Unranked
+126,DeepRec: An Open-source Toolkit for Deep Learning based Recommendation.,2019,"Shuai Zhang, Yi Tay, Lina Yao, Bin Wu, Aixin Sun",CoRR abs/1905.10536 ,CORR,Unranked
+127,ChID: A Large-scale Chinese IDiom Dataset for Cloze Test.,2019,"Chujie Zheng, Minlie Huang, Aixin Sun",CoRR abs/1906.01265 ,CORR,Unranked
+128,Efficient Approximation Algorithms for Adaptive Seed Minimization.,2019,"Jing Tang, Keke Huang, Xiaokui Xiao, Laks V. S. Lakshmanan, Xueyan Tang, Aixin Sun, Andrew Lim",CoRR abs/1907.09668 ,CORR,Unranked
+129,Efficient Approximation Algorithms for Adaptive Target Profit Maximization.,2019,"Keke Huang, Jing Tang, Xiaokui Xiao, Aixin Sun, Andrew Lim",CoRR abs/1910.13073 ,CORR,Unranked
+130,CASE: Context-Aware Semantic Expansion.,2019,"Jialong Han, Aixin Sun, Haisong Zhang, Chenliang Li, Shuming Shi",CoRR abs/1912.13194 ,CORR,Unranked
+131,Joint Implicit and Explicit Neural Networks for Question Recommendation in CQA Services.,2018,"Hongkui Tu, Jiahui Wen, Aixin Sun, Xiaodong Wang",IEEE Access 6: 73081-73092 ,ACCESS,Unranked
+132,Learning to answer programming questions with software documentation through social context embedding.,2018,"Jing Li, Aixin Sun, Zhenchang Xing",Inf. Sci. 448-449: 36-52 ,ISCI,Unranked
+133,To Do or Not To Do: Distill crowdsourced negative caveats to augment api documentation.,2018,"Jing Li, Aixin Sun, Zhenchang Xing",J. Assoc. Inf. Sci. Technol. 69: 1460-1475 ,JASIS,Unranked
+134,A time-aware trajectory embedding model for next-location recommendation.,2018,"Wayne Xin Zhao, Ningnan Zhou, Aixin Sun, Ji-Rong Wen, Jialong Han, Edward Y. Chang",Knowl. Inf. Syst. 56: 559-579 ,KAIS,Unranked
+135,Efficient Algorithms for Adaptive Influence Maximization.,2018,"Kai Han, Keke Huang, Xiaokui Xiao, Jing Tang, Aixin Sun, Xueyan Tang",Proc. VLDB Endow. 11: 1029-1040 ,PVLDB,Unranked
+136,Exploring prestigious citations sourced from top universities in bibliometrics and altmetrics: a case study in the computer science discipline.,2018,"Feiheng Luo, Aixin Sun, Mojisola Erdt, Aravind Sesagiri Raamkumar, Yin-Leng Theng",Scientometrics 114: 1-17 ,SCIENTOMETRICS,Unranked
+137,Semi-Supervised Spam Detection in Twitter Stream.,2018,"Surendra Sedhai, Aixin Sun",IEEE Trans. Comput. Soc. Syst. 5: 169-175 ,TCSS,Unranked
+138,Linking Fine-Grained Locations in User Comments.,2018,"Jialong Han, Aixin Sun, Gao Cong, Wayne Xin Zhao, Zongcheng Ji, Minh C. Phan",IEEE Trans. Knowl. Data Eng. 30: 59-72 ,TKDE,Unranked
+139,A Survey of Location Prediction on Twitter.,2018,"Xin Zheng, Jialong Han, Aixin Sun",IEEE Trans. Knowl. Data Eng. 30: 1652-1671 ,TKDE,Unranked
+140,Correction to A Survey of Location Prediction on Twitter.,2018,"Xin Zheng, Jialong Han, Aixin Sun",IEEE Trans. Knowl. Data Eng. 30: 2227 ,TKDE,Unranked
+141,Towards Effective Extraction and Linking of Software Mentions from User-Generated Support Tickets.,2018,"Jianglei Han, Ka Hian Goh, Aixin Sun, Mohammad Akbari",CIKM 2018: 2263-2271,CIKM,A
+142,Linking Fine-Grained Locations in User Comments (Extended Abstract).,2018,"Jialong Han, Aixin Sun, Gao Cong, Wayne Xin Zhao, Zongcheng Ji, Minh C. Phan",ICDE 2018: 1763-1764,ICDE,A*
+143,NeuRec: On Nonlinear Transformation for Personalized Ranking.,2018,"Shuai Zhang, Lina Yao, Aixin Sun, Sen Wang, Guodong Long, Manqing Dong",IJCAI 2018: 3669-3675,IJCAI,A*
+144,SegBot: A Generic Neural Text Segmentation Model with Pointer Network.,2018,"Jing Li, Aixin Sun, Shafiq R. Joty",IJCAI 2018: 4166-4172,IJCAI,A*
+145,Seed-driven Document Ranking for Systematic Reviews in Evidence-Based Medicine.,2018,"Grace E. Lee, Aixin Sun",SIGIR 2018: 455-464,SIGIR,A*
+146,Killing Two Birds With One Stone: Concurrent Ranking of Tags and Comments of Social Images.,2018,"Boon-Siew Seah, Aixin Sun, Sourav S. Bhowmick",SIGIR 2018: 937-940,SIGIR,A*
+147,CoNEREL: Collective Information Extraction in News Articles.,2018,"Minh C. Phan, Aixin Sun",SIGIR 2018: 1273-1276,SIGIR,A*
+148,API Caveat Explorer - Surfacing Negative Usages from Practice: An API-oriented Interactive Exploratory Search System for Programmers.,2018,"Jing Li, Aixin Sun, Zhenchang Xing, Lei Han",SIGIR 2018: 1293-1296,SIGIR,A*
+149,Sentiment Analysis by Capsules.,2018,"Yequan Wang, Aixin Sun, Jialong Han, Ying Liu, Xiaoyan Zhu",WWW 2018: 1165-1174,WWW,A*
+150,Pair-Linking for Collective Entity Disambiguation: Two Could Be Better Than All.,2018,"Minh C. Phan, Aixin Sun, Yi Tay, Jialong Han, Chenliang Li",CoRR abs/1802.01074 ,CORR,Unranked
+151,NeuRec: On Nonlinear Transformation for Personalized Ranking.,2018,"Shuai Zhang, Lina Yao, Aixin Sun, Sen Wang, Guodong Long, Manqing Dong",CoRR abs/1805.03002 ,CORR,Unranked
+152,Next Item Recommendation with Self-Attention.,2018,"Shuai Zhang, Yi Tay, Lina Yao, Aixin Sun",CoRR abs/1808.06414 ,CORR,Unranked
+153,A Survey on Deep Learning for Named Entity Recognition.,2018,"Jing Li, Aixin Sun, Jianglei Han, Chenliang Li",CoRR abs/1812.09449 ,CORR,Unranked
+154,An analysis of 14 Million tweets on hashtag-oriented spamming.,2017,"Surendra Sedhai, Aixin Sun",J. Assoc. Inf. Sci. Technol. 68: 1638-1651 ,JASIS,Unranked
+155,Extracting fine-grained location with temporal awareness in tweets: A two-stage approach.,2017,"Chenliang Li, Aixin Sun",J. Assoc. Inf. Sci. Technol. 68: 1652-1670 ,JASIS,Unranked
+156,Searching for the internet of things: where it is and what it looks like.,2017,"Ali Shemshadi, Quan Z. Sheng, Yongrui Qin, Aixin Sun, Wei Emma Zhang, Lina Yao",Pers. Ubiquitous Comput. 21: 1097-1112 ,PUC,Unranked
+157,Enhancing Topic Modeling for Short Texts with Auxiliary Word Embeddings.,2017,"Chenliang Li, Yu Duan, Haoran Wang, Zhiqian Zhang, Aixin Sun, Zongyang Ma",ACM Trans. Inf. Syst. 36: 11:1-11:30 ,TOIS,Unranked
+158,Time Expression Analysis and Recognition Using Syntactic Token Types and General Heuristic Rules.,2017,"Xiaoshi Zhong, Aixin Sun, Erik Cambria",ACL  2017: 420-429,ACL,A*
+159,Entity Recognition by Distant Supervision with Soft List Constraint.,2017,"Hongkui Tu, Zongyang Ma, Aixin Sun, Zhiqiang Xu, Xiaodong Wang",ADMA 2017: 681-694,ADMA,C
+160,Exploring prestigious citations sourced from top universities across disciplines.,2017,"Feiheng Luo, Aixin Sun, Mojisola Erdt, Aravind Sesagiri Raamkumar, Yin-Leng Theng",ASIST 2017: 251-259,ASIST,Unranked
+161,Semi-Supervised Event-related Tweet Identification with Dynamic Keyword Generation.,2017,"Xin Zheng, Aixin Sun, Sibo Wang, Jialong Han",CIKM 2017: 1619-1628,CIKM,A
+162,NeuPL: Attention-based Semantic Matching and Pair-Linking for Entity Disambiguation.,2017,"Minh C. Phan, Aixin Sun, Yi Tay, Jialong Han, Chenliang Li",CIKM 2017: 1667-1676,CIKM,A
+163,Mean Average Distance to Resolver: An Evaluation Metric for Ticket Routing in Expert Network.,2017,"Jianglei Han, Aixin Sun",ICSME 2017: 594-602,ICSM,Unranked
+164,"Cross-Device User Linking: URL, Session, Visiting Time, and Device-log Embedding.",2017,"Minh C. Phan, Aixin Sun, Yi Tay",SIGIR 2017: 933-936,SIGIR,A*
+165,"Advanced Data Mining and Applications - 13th International Conference, ADMA 2017, Singapore, November 5-6, 2017, Proceedings.",2017,"Gao Cong, Wen-Chih Peng, Wei Emma Zhang, Chengliang Li, Aixin Sun","Lecture Notes in Computer Science 10604, Springer 2017, ISBN 978-3-319-69178-7 ",ADMA,C
+166,"Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, CIKM 2017, Singapore, November 06 - 10, 2017.",2017,"Ee-Peng Lim, Marianne Winslett, Mark Sanderson, Ada Wai-Chee Fu, Jimeng Sun, J. Shane Culpepper, Eric Lo, Joyce C. Ho, Debora Donato, Rakesh Agrawal, Yu Zheng, Carlos Castillo, Aixin Sun, Vincent S. Tseng, Chenliang Li","ACM 2017, ISBN 978-1-4503-4918-5 ",CIKM,A
+167,Semi-Supervised Spam Detection in Twitter Stream.,2017,"Surendra Sedhai, Aixin Sun",CoRR abs/1702.01032 ,CORR,Unranked
+168,NEXT: A Neural Network Framework for Next POI Recommendation.,2017,"Zhiqian Zhang, Chenliang Li, Zhiyong Wu, Aixin Sun, Dengpan Ye, Xiangyang Luo",CoRR abs/1704.04576 ,CORR,Unranked
+169,A Survey of Location Prediction on Twitter.,2017,"Xin Zheng, Jialong Han, Aixin Sun",CoRR abs/1705.03172 ,CORR,Unranked
+170,Deep Learning based Recommender System: A Survey and New Perspectives.,2017,"Shuai Zhang, Lina Yao, Aixin Sun",CoRR abs/1707.07435 ,CORR,Unranked
+171,Mobile phone name extraction from internet forums: a semi-supervised approach.,2016,"Yangjie Yao, Aixin Sun",World Wide Web 19: 783-805 ,WWW,A*
+172,When MetaMap Meets Social Media in Healthcare: Are the Word Labels Correct?,2016,"Hongkui Tu, Zongyang Ma, Aixin Sun, Xiaodong Wang",AIRS 2016: 356-362,AIRS,C
+173,Effective Document Labeling with Very Few Seed Words: A Topic Model Approach.,2016,"Chenliang Li, Jian Xing, Aixin Sun, Zongyang Ma",CIKM 2016: 85-94,CIKM,A
+174,Annotating Points of Interest with Geo-tagged Tweets.,2016,"Kaiqi Zhao, Gao Cong, Aixin Sun",CIKM 2016: 417-426,CIKM,A
+175,Discovering Neighborhood Pattern Queries by sample answers in knowledge base.,2016,"Jialong Han, Kai Zheng, Aixin Sun, Shuo Shang, Ji-Rong Wen",ICDE 2016: 1014-1025,ICDE,A*
+176,Topic Modeling for Short Texts with Auxiliary Word Embeddings.,2016,"Chenliang Li, Haoran Wang, Zhiqian Zhang, Aixin Sun, Zongyang Ma",SIGIR 2016: 165-174,SIGIR,A*
+177,Effect of Spam on Hashtag Recommendation for Tweets.,2016,"Surendra Sedhai, Aixin Sun",WWW  2016: 97-98,WWW,A*
+178,Joint Recognition and Linking of Fine-Grained Locations from Tweets.,2016,"Zongcheng Ji, Aixin Sun, Gao Cong, Jialong Han",WWW 2016: 1271-1281,WWW,A*
+179,Searching for the Internet of Things on the Web: Where It Is and What It Looks Like.,2016,"Ali Shemshadi, Quan Z. Sheng, Wei Emma Zhang, Aixin Sun, Yongrui Qin, Lina Yao",CoRR abs/1607.06884 ,CORR,Unranked
+180,PRISM: Concept-preserving Summarization of Top-K Social Image Search Results.,2015,"Boon-Siew Seah, Sourav S. Bhowmick, Aixin Sun",Proc. VLDB Endow. 8: 1868-1871 ,PVLDB,Unranked
+181,Tweet Segmentation and Its Application to Named Entity Recognition.,2015,"Chenliang Li, Aixin Sun, Jianshu Weng, Qi He",IEEE Trans. Knowl. Data Eng. 27: 558-570 ,TKDE,Unranked
+182,"Who, Where, When, and What: A Nonparametric Bayesian Approach to Context-aware Recommendation and Search for Twitter Users.",2015,"Quan Yuan, Gao Cong, Kaiqi Zhao, Zongyang Ma, Aixin Sun",ACM Trans. Inf. Syst. 33: 2:1-2:33 ,TOIS,Unranked
+183,Conformity-aware influence maximization in online social networks.,2015,"Hui Li, Sourav S. Bhowmick, Aixin Sun, Jiangtao Cui",VLDB J. 24: 117-141 ,VLDB,A*
+184,A Tri-Role Topic Model for Domain-Specific Question Answering.,2015,"Zongyang Ma, Aixin Sun, Quan Yuan, Gao Cong",AAAI 2015: 224-230,AAAI,A*
+185,A Study of Visual and Semantic Similarity for Social Image Search Recommendation.,2015,"Yangjie Yao, Aixin Sun",AIRS 2015: 347-357,AIRS,C
+186,Did You Know? A Rule-Based Approach to Finding Similar Questions on Online Health Forums.,2015,"Jianglei Han, Naveen Nandan, Aixin Sun",ICHI 2015: 513-514,ICHI,Unranked
+187,A Boosting Algorithm for Item Recommendation with Implicit Feedback.,2015,"Yong Liu, Peilin Zhao, Aixin Sun, Chunyan Miao",IJCAI 2015: 1792-1798,IJCAI,A*
+188,HSpam14: A Collection of 14 Million Tweets for Hashtag-Oriented Spam Research.,2015,"Surendra Sedhai, Aixin Sun",SIGIR 2015: 223-232,SIGIR,A*
+189,"Information Retrieval Technology - 11th Asia Information Retrieval Societies Conference, AIRS 2015, Brisbane, QLD, Australia, December 2-4, 2015. Proceedings.",2015,"Guido Zuccon, Shlomo Geva, Hideo Joho, Falk Scholer, Aixin Sun, Peng Zhang","Lecture Notes in Computer Science 9460, Springer 2015, ISBN 978-3-319-28939-7 ",AIRS,C
+190,Affinity-driven blog cascade analysis and prediction.,2014,"Hui Li, Sourav S. Bhowmick, Aixin Sun, Jiangtao Cui",Data Min. Knowl. Discov. 28: 442-474 ,DATAMINE,Unranked
+191,Graph-based Point-of-interest Recommendation with Geographical and Temporal Influences.,2014,"Quan Yuan, Gao Cong, Aixin Sun",CIKM 2014: 659-668,CIKM,A
+192,Exploiting Geographical Neighborhood Characteristics for Location Recommendation.,2014,"Yong Liu, Wei Wei, Aixin Sun, Chunyan Miao",CIKM 2014: 739-748,CIKM,A
+193,Tagging Your Tweets: A Probabilistic Modeling of Hashtag Annotation in Twitter.,2014,"Zongyang Ma, Aixin Sun, Quan Yuan, Gao Cong",CIKM 2014: 999-1008,CIKM,A
+194,Fine-grained location extraction from tweets with temporal awareness.,2014,"Chenliang Li, Aixin Sun",SIGIR 2014: 43-52,SIGIR,A*
+195,Your neighbors affect your ratings: on geographical neighborhood influence to rating prediction.,2014,"Longke Hu, Aixin Sun, Yong Liu",SIGIR 2014: 345-354,SIGIR,A*
+196,PRISM: concept-preserving social image search results summarization.,2014,"Boon-Siew Seah, Sourav S. Bhowmick, Aixin Sun",SIGIR 2014: 737-746,SIGIR,A*
+197,Hashtag recommendation for hyperlinked tweets.,2014,"Surendra Sedhai, Aixin Sun",SIGIR 2014: 831-834,SIGIR,A*
+198,Towards context-aware search with right click.,2014,"Aixin Sun, Chii-Hian Lou",SIGIR 2014: 847-850,SIGIR,A*
+199,"Why not, WINE?",2014,"Sourav S. Bhowmick, Aixin Sun, Ba Quan Truong",WWW  2014: 83-86,WWW,A*
+200,Summarizing social image search results.,2014,"Boon-Siew Seah, Sourav S. Bhowmick, Aixin Sun",WWW  2014: 369-370,WWW,A*
+201,TSDW: Two-stage word sense disambiguation using Wikipedia.,2013,"Chenliang Li, Aixin Sun, Anwitaman Datta",J. Assoc. Inf. Sci. Technol. 64: 1203-1223 ,JASIS,Unranked
+202,On predicting the popularity of newly emerging hashtags in Twitter.,2013,"Zongyang Ma, Aixin Sun, Gao Cong",J. Assoc. Inf. Sci. Technol. 64: 1399-1410 ,JASIS,Unranked
+203,Are Most-Viewed News Articles Most-Shared?,2013,"Yangjie Yao, Aixin Sun",AIRS 2013: 404-415,AIRS,C
+204,Predicting event-relatedness of popular queries.,2013,"Seyyedeh Newsha Ghoreishi, Aixin Sun",CIKM 2013: 1193-1196,CIKM,A
+205,CINEMA: conformity-aware greedy algorithm for influence maximization in online social networks.,2013,"Hui Li, Sourav S. Bhowmick, Aixin Sun",EDBT 2013: 323-334,EDBT,A
+206,"Who, where, when and what: discover spatio-temporal topics for twitter users.",2013,"Quan Yuan, Gao Cong, Zongyang Ma, Aixin Sun, Nadia Magnenat-Thalmann",KDD 2013: 605-613,KDD,A*
+207,"Why not, WINE?: towards answering why-not questions in social image search.",2013,"Sourav S. Bhowmick, Aixin Sun, Ba Quan Truong",ACM Multimedia 2013: 917-926,MM,Unranked
+208,Crest: Cluster-based Representation Enrichment for Short Text Classification.,2013,"Zichao Dai, Aixin Sun, Xu-Ying Liu",PAKDD  2013: 256-267,PAKDD,B
+209,Time-aware point-of-interest recommendation.,2013,"Quan Yuan, Gao Cong, Zongyang Ma, Aixin Sun, Nadia Magnenat-Thalmann",SIGIR 2013: 363-372,SIGIR,A*
+210,Exploiting hybrid contexts for Tweet segmentation.,2013,"Chenliang Li, Aixin Sun, Jianshu Weng, Qi He",SIGIR 2013: 523-532,SIGIR,A*
+211,MESSIAH: missing element-conscious SLCA nodes search in XML data.,2013,"Ba Quan Truong, Sourav S. Bhowmick, Curtis E. Dyreson, Aixin Sun",SIGMOD Conference 2013: 37-48,SIGMOD,A*
+212,An evaluation of classification models for question topic categorization.,2012,"Bo Qu, Gao Cong, Cuiping Li, Aixin Sun, Hong Chen",J. Assoc. Inf. Sci. Technol. 63: 889-903 ,JASIS,Unranked
+213,Mining latent relations in peer-production environments: a case study with Wikipedia article similarity and controversy.,2012,"Chenliang Li, Anwitaman Datta, Aixin Sun",Soc. Netw. Anal. Min. 2: 265-278 ,SNAM,Unranked
+214,Twevent: segment-based event detection from tweets.,2012,"Chenliang Li, Aixin Sun, Anwitaman Datta",CIKM 2012: 155-164,CIKM,A
+215,Topic-driven reader comments summarization.,2012,"Zongyang Ma, Aixin Sun, Quan Yuan, Gao Cong",CIKM 2012: 265-274,CIKM,A
+216,Content is still king: the effect of neighbor voting schemes on tag relevance for social image retrieval.,2012,"Ba Quan Truong, Aixin Sun, Sourav S. Bhowmick",ICMR 2012: 9,MIR,Unranked
+217,TwiNER: named entity recognition in targeted twitter stream.,2012,"Chenliang Li, Jianshu Weng, Qi He, Yuxia Yao, Anwitaman Datta, Aixin Sun, Bu-Sung Lee",SIGIR 2012: 721-730,SIGIR,A*
+218,Category hierarchy maintenance: a data-driven approach.,2012,"Quan Yuan, Gao Cong, Aixin Sun, Chin-Yew Lin, Nadia Magnenat-Thalmann",SIGIR 2012: 791-800,SIGIR,A*
+219,Short text classification using very few words.,2012,Aixin Sun,SIGIR 2012: 1145-1146,SIGIR,A*
+220,Will this #hashtag be popular tomorrow?,2012,"Zongyang Ma, Aixin Sun, Gao Cong",SIGIR 2012: 1173-1174,SIGIR,A*
+221,CASIS: a system for concept-aware social image search.,2012,"Ba Quan Truong, Aixin Sun, Sourav S. Bhowmick",WWW  2012: 425-428,WWW,A*
+222,Web classification of conceptual entities using co-training.,2011,"Aixin Sun, Ying Liu, Ee-Peng Lim",Expert Syst. Appl. 38: 14367-14375 ,ESWA,Unranked
+223,Detecting spam blogs from blog search results.,2011,"Linhong Zhu, Aixin Sun, Byron Choi",Inf. Process. Manag. 47: 246-262 ,IPM,Unranked
+224,AffRank: Affinity-driven ranking of products in online social rating networks.,2011,"Hui Li, Sourav S. Bhowmick, Aixin Sun",J. Assoc. Inf. Sci. Technol. 62: 1345-1359 ,JASIS,Unranked
+225,Tag-based social image retrieval: An empirical evaluation.,2011,"Aixin Sun, Sourav S. Bhowmick, Khanh Tran Nam Nguyen, Ge Bai",J. Assoc. Inf. Sci. Technol. 62: 2364-2381 ,JASIS,Unranked
+226,Query-Guided Event Detection From News and Blog Streams.,2011,"Aixin Sun, Meishan Hu",IEEE Trans. Syst. Man Cybern. Part A 41: 834-839 ,TSMC,Unranked
+227,CASINO: towards conformity-aware social influence analysis in online social networks.,2011,"Hui Li, Sourav S. Bhowmick, Aixin Sun",CIKM 2011: 1007-1012,CIKM,A
+228,Managing Social Image Tags: Methods and Applications.,2011,"Aixin Sun, Sourav S. Bhowmick",DASFAA  2011: 463-464,DASFAA,B
+229,A Generalized Method for Word Sense Disambiguation Based on Wikipedia.,2011,"Chenliang Li, Aixin Sun, Anwitaman Datta",ECIR 2011: 653-664,ECIR,A
+230,Social image tag recommendation by concept matching.,2011,"Aixin Sun, Sourav S. Bhowmick, Jun-An Chong",ACM Multimedia 2011: 1181-1184,MM,Unranked
+231,Semantic tag recommendation using concept model.,2011,"Chenliang Li, Anwitaman Datta, Aixin Sun",SIGIR 2011: 1159-1160,SIGIR,A*
+232,Visualizing and querying semantic social networks.,2011,"Aixin Sun, Anwitaman Datta, Ee-Peng Lim, Kuiyu Chang",SIGIR 2011: 1271-1272,SIGIR,A*
+233,Quantifying Visual-Representativeness of Social Image Tags Using Image Tag Clarity.,2011,"Aixin Sun, Sourav S. Bhowmick",Social Media Modeling and Computing 2011: 3-23,DAGLIB,Unranked
+234,"Social Informatics - Third International Conference, SocInfo 2011, Singapore, October 6-8, 2011. Proceedings.",2011,"Anwitaman Datta, Stuart W. Shulman, Baihua Zheng, Shou-De Lin, Aixin Sun, Ee-Peng Lim","Lecture Notes in Computer Science 6984, Springer 2011, ISBN 978-3-642-24703-3 ",SOCINFO,Unranked
+235,iAVATAR: An Interactive Tool for Finding and Visualizing Visual-Representative Tags in Image Search.,2010,"Aixin Sun, Sourav S. Bhowmick, Yao Liu",Proc. VLDB Endow. 3: 1609-1612 ,PVLDB,Unranked
+236,Investigating Perceptions of a Location-Based Annotation System.,2010,"Huynh Nhu Hop Quach, Khasfariyati Razikin, Dion Hoe-Lian Goh, Thi Nhu Quynh Kim, Tan Phat Pham, Yin Leng Theng, Ee-Peng Lim, Chew-Hung Chang, Kalyani Chatterjea, Aixin Sun",AMT 2010: 232-242,AMT,Unranked
+237,Affinity-driven prediction and ranking of products in online product review sites.,2010,"Hui Li, Sourav S. Bhowmick, Aixin Sun",CIKM 2010: 1745-1748,CIKM,A
+238,Visualizing and Exploring Evolving Information Networks in Wikipedia.,2010,"Ee-Peng Lim, Agus Trisnajaya Kwee, Nelman Lubis Ibrahim, Aixin Sun, Anwitaman Datta, Kuiyu Chang, Maureen",ICADL 2010: 50-60,ICADL,Unranked
+239,Enhancing search in a geospatial multimedia annotation system.,2010,"Huynh Nhu Hop Quach, Dion Hoe-Lian Goh, Khasfariyati Razikin, Tan Phat Pham, Thi Nhu Quynh Kim, Yin Leng Theng, Ee-Peng Lim, Chew-Hung Chang, Kalyani Chatterjea, Aixin Sun",iiWAS 2010: 617-624,IIWAS,C
+240,Managing Media Rich Geo-spatial Annotations for a Map-Based Mobile Application Using Clustering.,2010,"Khasfariyati Razikin, Dion Hoe-Lian Goh, Ee-Peng Lim, Aixin Sun, Yin Leng Theng, Thi Nhu Quynh Kim, Kalyani Chatterjea, Chew-Hung Chang",ITNG 2010: 138-143,ITNG,Unranked
+241,Do Wikipedians follow domain experts?: a domain-specific study on Wikipedia knowledge building.,2010,"Yi Zhang, Aixin Sun, Anwitaman Datta, Kuiyu Chang, Ee-Peng Lim",JCDL 2010: 119-128,JCDL,Unranked
+242,Quantifying tag representativeness of visual content of social images.,2010,"Aixin Sun, Sourav S. Bhowmick",ACM Multimedia 2010: 471-480,MM,Unranked
+243,Do You Trust to Get Trust? A Study of Trust Reciprocity Behaviors and Reciprocal Trust Prediction.,2010,"Viet-An Nguyen, Ee-Peng Lim, Hwee-Hoon Tan, Jing Jiang, Aixin Sun",SDM 2010: 72-83,SDM,A
+244,Information Integration for Graph Databases.,2010,"Ee-Peng Lim, Aixin Sun, Anwitaman Datta, Kuiyu Chang",Link Mining 2010: 265-281,COLLECTIONS,Unranked
+245,On strategies for imbalanced text classification using SVM: A comparative study.,2009,"Aixin Sun, Ee-Peng Lim, Ying Liu",Decis. Support Syst. 48: 191-201 ,DSS,Unranked
+246,Imbalanced text classification: A term weighting approach.,2009,"Ying Liu, Han Tong Loh, Aixin Sun",Expert Syst. Appl. 36: 690-701 ,ESWA,Unranked
+247,SSnetViz: a visualization engine for heterogeneous semantic social networks.,2009,"Ee-Peng Lim, Maureen, Nelman Lubis Ibrahim, Aixin Sun, Anwitaman Datta, Kuiyu Chang",ICEC 2009: 213-221,ACMICEC,Unranked
+248,Sharing Mobile Multimedia Annotations to Support Inquiry-Based Learning Using MobiTOP.,2009,"Khasfariyati Razikin, Dion Hoe-Lian Goh, Yin Leng Theng, Quang Minh Nguyen, Thi Nhu Quynh Kim, Ee-Peng Lim, Chew-Hung Chang, Kalyani Chatterjea, Aixin Sun",AMT 2009: 171-182,AMT,Unranked
+249,Trust relationship prediction using online product review data.,2009,"Nan Ma, Ee-Peng Lim, Viet-An Nguyen, Aixin Sun, Haifeng Liu",CIKM-CNIKM 2009: 47-54,CIKM,A
+250,Blog cascade affinity: analysis and prediction.,2009,"Hui Li, Sourav S. Bhowmick, Aixin Sun",CIKM 2009: 1117-1126,CIKM,A
+251,What makes categories difficult to classify?: a study on predicting classification performance for categories.,2009,"Aixin Sun, Ee-Peng Lim, Ying Liu",CIKM 2009: 1891-1894,CIKM,A
+252,To Trust or Not to Trust? Predicting Online Trusts Using Trust Antecedent Framework.,2009,"Viet-An Nguyen, Ee-Peng Lim, Jing Jiang, Aixin Sun",ICDM 2009: 896-901,ICDM,A*
+253,Exploring Hierarchically Organized Georeferenced Multimedia Annotations in the MobiTOP System.,2009,"Thi Nhu Quynh Kim, Khasfariyati Razikin, Dion Hoe-Lian Goh, Yin Leng Theng, Quang Minh Nguyen, Ee-Peng Lim, Aixin Sun, Chew-Hung Chang, Kalyani Chatterjea",ITNG 2009: 1355-1360,ITNG,Unranked
+254,Sharing Hierarchical Mobile Multimedia Content Using the MobiTOP System.,2009,"Quang Minh Nguyen, Thi Nhu Quynh Kim, Dion Hoe-Lian Goh, Ee-Peng Lim, Yin Leng Theng, Kalyani Chatterjea, Chew-Hung Chang, Aixin Sun, Khasfariyati Razikin",Mobile Data Management 2009: 637-642,MDM,B
+255,Image tag clarity: in search of visual-representative tags for social images.,2009,"Aixin Sun, Sourav S. Bhowmick",WSM@MM 2009: 19-26,MM,Unranked
+256,"On Stability, Clarity, and Co-occurrence of Self-Tagging.",2009,"Aixin Sun, Anwitaman Datta",WSDM  2009,WSDM,A
+257,Quality-aware collaborative question answering: methods and evaluation.,2009,"Maggy Anastasia Suryanto, Ee-Peng Lim, Aixin Sun, Roger H. L. Chiang",WSDM 2009: 142-151,WSDM,A
+258,Online spam-blog detection through blog search.,2008,"Linhong Zhu, Aixin Sun, Byron Choi",CIKM 2008: 1347-1348,CIKM,A
+259,Representative entry selection for profiling blogs.,2008,"Jinfeng Zhuang, Steven C. H. Hoi, Aixin Sun, Rong Jin",CIKM 2008: 1387-1388,CIKM,A
+260,TagNSearch: Searching and Navigating Geo-referenced Collections of Photographs.,2008,"Quang Minh Nguyen, Thi Nhu Quynh Kim, Dion Hoe-Lian Goh, Yin Leng Theng, Ee-Peng Lim, Aixin Sun, Chew-Hung Chang, Kalyani Chatterjea",ECDL 2008: 62-73,ERCIMDL,Unranked
+261,On Visualizing Heterogeneous Semantic Networks from Multiple Data Sources.,2008,"Maureen, Aixin Sun, Ee-Peng Lim, Anwitaman Datta, Kuiyu Chang",ICADL 2008: 266-275,ICADL,Unranked
+262,MobiTOP: Accessing Hierarchically Organized Georeferenced Multimedia Annotations.,2008,"Thi Nhu Quynh Kim, Khasfariyati Razikin, Dion Hoe-Lian Goh, Quang Minh Nguyen, Yin Leng Theng, Ee-Peng Lim, Aixin Sun, Chew-Hung Chang, Kalyani Chatterjea",ICADL 2008: 412-413,ICADL,Unranked
+263,Predicting trusts among users of online communities: an epinions case study.,2008,"Haifeng Liu, Ee-Peng Lim, Hady Wirawan Lauw, Minh-Tam Le, Aixin Sun, Jaideep Srivastava, Young Ae Kim",EC 2008: 310-319,SIGECOM,Unranked
+264,On profiling blogs with representative entries.,2008,"Jinfeng Zhuang, Steven C. H. Hoi, Aixin Sun",AND 2008: 55-62,SIGIR,A*
+265,Comments-oriented document summarization: understanding documents with readers' feedback.,2008,"Meishan Hu, Aixin Sun, Ee-Peng Lim",SIGIR 2008: 291-298,SIGIR,A*
+266,Searching blogs and news: a study on popular queries.,2008,"Aixin Sun, Meishan Hu, Ee-Peng Lim",SIGIR 2008: 729-730,SIGIR,A*
+267,Event detection with common user interests.,2008,"Meishan Hu, Aixin Sun, Ee-Peng Lim",WIDM 2008: 1-8,WIDM,Unranked
+268,On ranking controversies in wikipedia: models and evaluation.,2008,"Ba-Quy Vuong, Ee-Peng Lim, Aixin Sun, Minh-Tam Le, Hady Wirawan Lauw",WSDM 2008: 171-182,WSDM,A
+269,Advances of Computational Intelligence in Industrial Systems.,2008,"Ying Liu, Aixin Sun, Han Tong Loh, Wen Feng Lu, Ee-Peng Lim","Studies in Computational Intelligence 116, 2008, ISBN 978-3-540-78296-4 ",SCI,Unranked
+270,SLOQUE: slot-based query expansion for complex questions.,2007,"Maggy Anastasia Suryanto, Ee-Peng Lim, Aixin Sun, Roger H. L. Chiang",CIMS 2007: 47-54,CIKM,A
+271,Measuring article quality in wikipedia: models and evaluation.,2007,"Meiqun Hu, Ee-Peng Lim, Aixin Sun, Hady Wirawan Lauw, Ba-Quy Vuong",CIKM 2007: 243-252,CIKM,A
+272,Comments-oriented blog summarization by sentence extraction.,2007,"Meishan Hu, Aixin Sun, Ee-Peng Lim",CIKM 2007: 901-904,CIKM,A
+273,Key Element-Context Model: An Approach to Efficient Web Metadata Maintenance.,2007,"Ba-Quy Vuong, Ee-Peng Lim, Aixin Sun, Chew-Hung Chang, Kalyani Chatterjea, Dion Hoe-Lian Goh, Yin Leng Theng, Jun Zhang",ECDL 2007: 63-74,ERCIMDL,Unranked
+274,Social Navigation in Digital Libraries by Bookmarking.,2007,"Fiftarina Puspitasari, Ee-Peng Lim, Dion Hoe-Lian Goh, Chew-Hung Chang, Jun Zhang, Aixin Sun, Yin Leng Theng, Kalyani Chatterjea, Yuanyuan Li",ICADL 2007: 297-306,ICADL,Unranked
+275,Blog Classification Using Tags: An Empirical Study.,2007,"Aixin Sun, Maggy Anastasia Suryanto, Ying Liu",ICADL 2007: 307-316,ICADL,Unranked
+276,Automatic Text Summarization in Engineering Information Management.,2007,"Jiaming Zhan, Han Tong Loh, Ying Liu, Aixin Sun",ICADL 2007: 347-350,ICADL,Unranked
+277,Mobile G-Portal supporting collaborative sharing and learning in geography fieldwork: an empirical study.,2007,"Yin Leng Theng, Kuah-Li Tan, Ee-Peng Lim, Jun Zhang, Dion Hoe-Lian Goh, Kalyani Chatterjea, Chew-Hung Chang, Aixin Sun, Han Yu, Nam Hai Dang, Yuanyuan Li, Minh Chanh Vo",JCDL 2007: 462-471,JCDL,Unranked
+278,Social bookmarking in digital library systems: framework and case study.,2007,"Fiftarina Puspitasari, Ee-Peng Lim, Dion Hoe-Lian Goh, Chew-Hung Chang, Jun Zhang, Aixin Sun, Yin Leng Theng, Kalyani Chatterjea, Yuanyuan Li",JCDL 2007: 488,JCDL,Unranked
+279,Mobile digital libraries for geography education.,2007,"Minh Chanh Vo, Fiftarina Puspitasari, Ee-Peng Lim, Chew-Hung Chang, Yin Leng Theng, Dion Hoe-Lian Goh, Kalyani Chatterjea, Jun Zhang, Aixin Sun, Yuanyuan Li",JCDL 2007: 511,JCDL,Unranked
+280,On improving wikipedia search using article quality.,2007,"Meiqun Hu, Ee-Peng Lim, Aixin Sun, Hady Wirawan Lauw, Ba-Quy Vuong",WIDM 2007: 145-152,WIDM,Unranked
+281,Web unit-based mining of homepage relationships.,2006,"Aixin Sun, Ee-Peng Lim",J. Assoc. Inf. Sci. Technol. 57: 394-407 ,JASIS,Unranked
+282,An Energy-Efficient and Access Latency Optimized Indexing Scheme for Wireless Data Broadcast.,2006,"Yuxia Yao, Xueyan Tang, Ee-Peng Lim, Aixin Sun",IEEE Trans. Knowl. Data Eng. 18: 1111-1124 ,TKDE,Unranked
+283,Integration of Wikipedia and a Geography Digital Library.,2006,"Ee-Peng Lim, Zhe Wang, D. Sadeli, Yuanyuan Li, Chew-Hung Chang, Kalyani Chatterjea, Dion Hoe-Lian Goh, Yin Leng Theng, Jun Zhang, Aixin Sun",ICADL 2006: 449-458,ICADL,Unranked
+284,Fast and Scalable Access to Advance Resource Reservation Data in Future Cellular Networks.,2006,"Aixin Sun, Mahbub Hassan, Mohammed Baseem Hassan, Peter Pham, Boualem Benatallah",ICC 2006: 1837-1842,ICC,Unranked
+285,Querying E-Catalogs Using Content Summaries.,2006,"Aixin Sun, Boualem Benatallah, Mohand-Said Hacid, Mahbub Hassan",OTM Conferences  2006: 109-126,OTM,Unranked
+286,FISA: Feature-Based Instance Selection for Imbalanced Text Classification.,2006,"Aixin Sun, Ee-Peng Lim, Boualem Benatallah, Mahbub Hassan",PAKDD 2006: 250-254,PAKDD,B
+287,iWed: An Integrated Multigraph Cut-Based Approach for Detecting Events from a Website.,2006,"Qiankun Zhao, Sourav S. Bhowmick, Aixin Sun",PAKDD 2006: 351-360,PAKDD,B
+288,Measuring Qualities of Articles Contributed by Online Communities.,2006,"Ee-Peng Lim, Ba-Quy Vuong, Hady Wirawan Lauw, Aixin Sun",Web Intelligence 2006: 81-87,WEBI,Unranked
+289,Finding and classifying web units in websites.,2005,"Aixin Sun, Ee-Peng Lim",Int. J. Bus. Intell. Data Min. 1: 161-193 ,IJBIDM,Unranked
+290,Discovery of Concept Entities from Web Sites using Web Unit Mining.,2005,"Ming Yin, Dion Hoe-Lian Goh, Ee-Peng Lim, Aixin Sun",Int. J. Web Inf. Syst. 1: 123-135 ,IJWIS,Unranked
+291,Web data extraction based on structural similarity.,2005,"Zhao Li, Wee Keong Ng, Aixin Sun",Knowl. Inf. Syst. 8: 438-461 ,KAIS,Unranked
+292,Spectral Kernels for Classification.,2005,"Wenyuan Li, Kok-Leong Ong, Wee Keong Ng, Aixin Sun",DaWaK 2005: 520-529,DAWAK,Unranked
+293,Managing Geography Learning Objects Using Personalized Project Spaces in G-Portal.,2005,"Dion Hoe-Lian Goh, Aixin Sun, Wenbo Zong, Dan Wu, Ee-Peng Lim, Yin Leng Theng, John G. Hedberg, Chew-Hung Chang",ECDL 2005: 336-343,ERCIMDL,Unranked
+294,On assigning place names to geography related web pages.,2005,"Wenbo Zong, Dan Wu, Aixin Sun, Ee-Peng Lim, Dion Hoe-Lian Goh",JCDL 2005: 354-362,JCDL,Unranked
+295,Personalized project space for managing metadata of geography learning objects.,2005,"Wenbo Zong, Dan Wu, Aixin Sun, Ee-Peng Lim, Dion Hoe-Lian Goh, Yin Leng Theng, John G. Hedberg, Chew-Hung Chang",JCDL 2005: 403,JCDL,Unranked
+296,Ontology-based web classification.,2004,Aixin Sun,"Nanyang Technological University, Singapore, 2004",NAN,Unranked
+297,Blocking Reduction Strategies in Hierarchical Text Classification.,2004,"Aixin Sun, Ee-Peng Lim, Wee Keong Ng, Jaideep Srivastava",IEEE Trans. Knowl. Data Eng. 16: 1305-1308 ,TKDE,Unranked
+298,Supporting Field Study with Personalized Project Spaces in a Geographical Digital Library.,2004,"Ee-Peng Lim, Aixin Sun, Zehua Liu, John G. Hedberg, Chew-Hung Chang, Tiong-Sa Teh, Dion Hoe-Lian Goh, Yin Leng Theng",ICADL 2004: 553-562,ICADL,Unranked
+299,Performance measurement framework for hierarchical text classification.,2003,"Aixin Sun, Ee-Peng Lim, Wee Keong Ng",J. Assoc. Inf. Sci. Technol. 54: 1014-1028 ,JASIS,Unranked
+300,Web unit mining: finding and classifying subgraphs of web pages.,2003,"Aixin Sun, Ee-Peng Lim",CIKM 2003: 108-115,CIKM,A
+301,Using Support Vector Machines for Terrorism Information Extraction.,2003,"Aixin Sun, Myo-Myo Naing, Ee-Peng Lim, Wai Lam",ISI 2003: 1-12,ISI,C
+302,Personalized Classification for Keyword-Based Category Profiles.,2002,"Aixin Sun, Ee-Peng Lim, Wee Keong Ng",ECDL 2002: 61-74,ERCIMDL,Unranked
+303,Web classification using support vector machine.,2002,"Aixin Sun, Ee-Peng Lim, Wee Keong Ng",WIDM 2002: 96-99,WIDM,Unranked
+304,Hierarchical Text Classification and Evaluation.,2001,"Aixin Sun, Ee-Peng Lim",ICDM 2001: 521-528,ICDM,A*

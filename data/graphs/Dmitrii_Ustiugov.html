@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 600px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#dd4b39", "id": "Dmitrii Ustiugov", "label": "Dmitrii Ustiugov", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Dohyun Park", "label": "Dohyun Park", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Lazar Cvetkovic", "label": "Lazar Cvetkovic", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Mihajlo Djokic", "label": "Mihajlo Djokic", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Hongyu H\u00e8", "label": "Hongyu H\u00e8", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Boris Grot", "label": "Boris Grot", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Ana Klimovic", "label": "Ana Klimovic", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Rodrigo Bruno", "label": "Rodrigo Bruno", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Pedro Fonseca", "label": "Pedro Fonseca", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Antonio Barbalace", "label": "Antonio Barbalace", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Shyam Jesalpura", "label": "Shyam Jesalpura", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Mert Bora Alper", "label": "Mert Bora Alper", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Michal Baczun", "label": "Michal Baczun", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Rustem Feyzkhanov", "label": "Rustem Feyzkhanov", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Edouard Bugnion", "label": "Edouard Bugnion", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Marios Kogias", "label": "Marios Kogias", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "David Schall", "label": "David Schall", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Artemiy Margaritov", "label": "Artemiy Margaritov", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Andreas Sandberg", "label": "Andreas Sandberg", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Amna Shahab", "label": "Amna Shahab", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Plamen Petrov", "label": "Plamen Petrov", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Theodor Amariucai", "label": "Theodor Amariucai", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "M. R. Siavash Katebzadeh", "label": "M. R. Siavash Katebzadeh", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Mario Drumond", "label": "Mario Drumond", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Alexandros Daglis", "label": "Alexandros Daglis", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Nooshin Sadat Mirzadeh", "label": "Nooshin Sadat Mirzadeh", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Javier Picorel", "label": "Javier Picorel", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Babak Falsafi", "label": "Babak Falsafi", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Dionisios N. Pnevmatikatos", "label": "Dionisios N. Pnevmatikatos", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Stanko Novakovic", "label": "Stanko Novakovic", "shape": "dot", "size": 10}, {"color": "#8dceeb", "id": "Mark Sutherland", "label": "Mark Sutherland", "shape": "dot", "size": 10}]);
+                  edges = new vis.DataSet([{"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Dohyun Park", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Lazar Cvetkovic", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Mihajlo Djokic", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Hongyu H\u00e8", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Boris Grot", "value": 15, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Ana Klimovic", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Rodrigo Bruno", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Pedro Fonseca", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Antonio Barbalace", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Shyam Jesalpura", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Mert Bora Alper", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Michal Baczun", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Rustem Feyzkhanov", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Edouard Bugnion", "value": 8, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Marios Kogias", "value": 3, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "David Schall", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Artemiy Margaritov", "value": 3, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Andreas Sandberg", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Amna Shahab", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Plamen Petrov", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Theodor Amariucai", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "M. R. Siavash Katebzadeh", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Mario Drumond", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Alexandros Daglis", "value": 6, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Nooshin Sadat Mirzadeh", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Javier Picorel", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Babak Falsafi", "value": 6, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Dionisios N. Pnevmatikatos", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Stanko Novakovic", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Dmitrii Ustiugov", "to": "Mark Sutherland", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Dohyun Park", "to": "Lazar Cvetkovic", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dohyun Park", "to": "Mihajlo Djokic", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dohyun Park", "to": "Hongyu H\u00e8", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dohyun Park", "to": "Boris Grot", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Dohyun Park", "to": "Ana Klimovic", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Lazar Cvetkovic", "to": "Mihajlo Djokic", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Lazar Cvetkovic", "to": "Hongyu H\u00e8", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Lazar Cvetkovic", "to": "Boris Grot", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Lazar Cvetkovic", "to": "Ana Klimovic", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Mihajlo Djokic", "to": "Hongyu H\u00e8", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Mihajlo Djokic", "to": "Boris Grot", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Mihajlo Djokic", "to": "Ana Klimovic", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Hongyu H\u00e8", "to": "Boris Grot", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Hongyu H\u00e8", "to": "Ana Klimovic", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Ana Klimovic", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Rodrigo Bruno", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Pedro Fonseca", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Antonio Barbalace", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Shyam Jesalpura", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Mert Bora Alper", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Michal Baczun", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Rustem Feyzkhanov", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Edouard Bugnion", "value": 6, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Marios Kogias", "value": 3, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "David Schall", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Artemiy Margaritov", "value": 3, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Andreas Sandberg", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Amna Shahab", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Plamen Petrov", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Theodor Amariucai", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "M. R. Siavash Katebzadeh", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Mario Drumond", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Alexandros Daglis", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Nooshin Sadat Mirzadeh", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Javier Picorel", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Babak Falsafi", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Dionisios N. Pnevmatikatos", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Boris Grot", "to": "Stanko Novakovic", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Rodrigo Bruno", "to": "Pedro Fonseca", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Rodrigo Bruno", "to": "Antonio Barbalace", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Pedro Fonseca", "to": "Antonio Barbalace", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Shyam Jesalpura", "to": "Mert Bora Alper", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Shyam Jesalpura", "to": "Michal Baczun", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Shyam Jesalpura", "to": "Rustem Feyzkhanov", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Shyam Jesalpura", "to": "Edouard Bugnion", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Shyam Jesalpura", "to": "Marios Kogias", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Mert Bora Alper", "to": "Michal Baczun", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Mert Bora Alper", "to": "Rustem Feyzkhanov", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Mert Bora Alper", "to": "Edouard Bugnion", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Mert Bora Alper", "to": "Marios Kogias", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Michal Baczun", "to": "Rustem Feyzkhanov", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Michal Baczun", "to": "Edouard Bugnion", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Michal Baczun", "to": "Marios Kogias", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Rustem Feyzkhanov", "to": "Edouard Bugnion", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Rustem Feyzkhanov", "to": "Marios Kogias", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Edouard Bugnion", "to": "Marios Kogias", "value": 3, "width": 1}, {"color": "#8dceeb", "from": "Edouard Bugnion", "to": "Plamen Petrov", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Edouard Bugnion", "to": "Artemiy Margaritov", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Edouard Bugnion", "to": "Stanko Novakovic", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Edouard Bugnion", "to": "Alexandros Daglis", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Edouard Bugnion", "to": "Babak Falsafi", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Edouard Bugnion", "to": "Javier Picorel", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Edouard Bugnion", "to": "Mark Sutherland", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Edouard Bugnion", "to": "Dionisios N. Pnevmatikatos", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Marios Kogias", "to": "Plamen Petrov", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "David Schall", "to": "Artemiy Margaritov", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "David Schall", "to": "Andreas Sandberg", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Artemiy Margaritov", "to": "Andreas Sandberg", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Artemiy Margaritov", "to": "Amna Shahab", "value": 1, "width": 1}, {"color": "#8dceeb", "from": "Plamen Petrov", "to": "M. R. Siavash Katebzadeh", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Mario Drumond", "to": "Alexandros Daglis", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Mario Drumond", "to": "Nooshin Sadat Mirzadeh", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Mario Drumond", "to": "Javier Picorel", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Mario Drumond", "to": "Babak Falsafi", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Mario Drumond", "to": "Dionisios N. Pnevmatikatos", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Alexandros Daglis", "to": "Nooshin Sadat Mirzadeh", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Alexandros Daglis", "to": "Javier Picorel", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Alexandros Daglis", "to": "Babak Falsafi", "value": 6, "width": 1}, {"color": "#8dceeb", "from": "Alexandros Daglis", "to": "Dionisios N. Pnevmatikatos", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Alexandros Daglis", "to": "Stanko Novakovic", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Alexandros Daglis", "to": "Mark Sutherland", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Nooshin Sadat Mirzadeh", "to": "Javier Picorel", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Nooshin Sadat Mirzadeh", "to": "Babak Falsafi", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Nooshin Sadat Mirzadeh", "to": "Dionisios N. Pnevmatikatos", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Javier Picorel", "to": "Babak Falsafi", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Javier Picorel", "to": "Dionisios N. Pnevmatikatos", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Javier Picorel", "to": "Mark Sutherland", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Babak Falsafi", "to": "Dionisios N. Pnevmatikatos", "value": 4, "width": 1}, {"color": "#8dceeb", "from": "Babak Falsafi", "to": "Stanko Novakovic", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Babak Falsafi", "to": "Mark Sutherland", "value": 2, "width": 1}, {"color": "#8dceeb", "from": "Dionisios N. Pnevmatikatos", "to": "Mark Sutherland", "value": 2, "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

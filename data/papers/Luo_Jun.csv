@@ -1,0 +1,176 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Toward a Comprehensive Evaluation on the Online Methods for Monitoring Transformer Turn-to-Turn Faults.,2024,"Xi Ouyang, Quan Zhou, Hujun Shang, Yuping Zheng, Shuyan Pan, Jun Luo",IEEE Trans. Ind. Electron. 71: 1997-2007 ,TIE,Unranked
+1,ISACoT: Integrating Sensing with Data Traffic for Ubiquitous IoT Devices.,2023,"Zhe Chen, Tianyue Zheng, Chao Hu, Hangcheng Cao, Yanbing Yang, Hongbo Jiang, Jun Luo",IEEE Commun. Mag. 61: 98-104 ,CM,Unranked
+2,EarAcE: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform.,2023,"Yetong Cao, Chao Cai, Anbo Yu, Fan Li, Jun Luo",Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 7: 47:1-47:23 ,IMWUT,Unranked
+3,PupilHeart: Heart Rate Variability Monitoring via Pupillary Fluctuations on Mobile Devices.,2023,"Xiangyu Shen, Hongbo Jiang, Daibo Liu, Kehua Yang, Feiyang Deng, Taiyuan Zhang, Zhu Xiao, John C. S. Lui, Jiangchuan Liu, Schahram Dustdar, Jun Luo",IEEE Internet Things J. 10: 18042-18053 ,IOTJ,Unranked
+4,RF-Based Human Activity Recognition Using Signal Adapted Convolutional Neural Network.,2023,"Zhe Chen, Chao Cai, Tianyue Zheng, Jun Luo, Jie Xiong, Xin Wang",IEEE Trans. Mob. Comput. 22: 487-499 ,TMC,Unranked
+5,Acoustic Software Defined Platform: A Versatile Sensing and General Benchmarking Platform.,2023,"Chao Cai, Henglin Pu, Menglan Hu, Rong Zheng, Jun Luo",IEEE Trans. Mob. Comput. 22: 647-660 ,TMC,Unranked
+6,"Active Acoustic Sensing for ""Hearing"" Temperature Under Acoustic Interference.",2023,"Chao Cai, Henglin Pu, Liyuan Ye, Hongbo Jiang, Jun Luo",IEEE Trans. Mob. Comput. 22: 661-673 ,TMC,Unranked
+7,Catch Your Breath: Simultaneous RF Tracking and Respiration Monitoring With Radar Pairs.,2023,"Tianyue Zheng, Zhe Chen, Shujie Zhang, Jun Luo",IEEE Trans. Mob. Comput. 22: 6283-6296 ,TMC,Unranked
+8,PURE: Passive Multi-Person Identification via Footstep for Mobile Service Networks.,2023,"Chao Cai, Ruinan Jin, Jiangtian Nie, Jiawen Kang, Yang Zhang, Jun Luo",IEEE Trans. Veh. Technol. 72: 12221-12233 ,TVT,Unranked
+9,HeartPrint: Passive Heart Sounds Authentication Exploiting In-Ear Microphones.,2023,"Yetong Cao, Chao Cai, Fan Li, Zhe Chen, Jun Luo",INFOCOM 2023: 1-10,INFOCOM,A*
+10,Wider is Better? Contact-free Vibration Sensing via Different COTS-RF Technologies.,2023,"Zhe Chen, Tianyue Zheng, Chao Cai, Yue Gao, Pengfei Hu, Jun Luo",INFOCOM 2023: 1-10,INFOCOM,A*
+11,AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving.,2023,"Tianyue Zheng, Ang Li, Zhe Chen, Hongbo Wang, Jun Luo",MobiCom 2023: 15:1-15:15,MOBICOM,A*
+12,AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving.,2023,"Tianyue Zheng, Ang Li, Zhe Chen, Hongbo Wang, Jun Luo",CoRR abs/2302.08646 ,CORR,Unranked
+13,Multi-band Reconfigurable Holographic Surface Based ISAC Systems: Design and Optimization.,2023,"Jingzhi Hu, Zhe Chen, Jun Luo",CoRR abs/2303.15686 ,CORR,Unranked
+14,OCHID-Fi: Occlusion-Robust Hand Pose Estimation in 3D via RF-Vision.,2023,"Shujie Zhang, Tianyue Zheng, Zhe Chen, Jingzhi Hu, Abdelwahed Khamis, Jiajun Liu, Jun Luo",CoRR abs/2308.10146 ,CORR,Unranked
+15,MIMOCrypt: Multi-User Privacy-Preserving Wi-Fi Sensing via MIMO Encryption.,2023,"Jun Luo, Hangcheng Cao, Hongbo Jiang, Yanbing Yang, Zhe Chen",CoRR abs/2309.00250 ,CORR,Unranked
+16,Ubiquitous Acoustic Sensing on Commodity IoT Devices: A Survey.,2022,"Chao Cai, Rong Zheng, Jun Luo",IEEE Commun. Surv. Tutorials 24: 432-454 ,COMSUR,Unranked
+17,No Perfect Outdoors: Towards a Deep Profiling of GNSS-Based Location Contexts.,2022,"Jin Wang, Jun Luo",Future Internet 14: 7 ,FI,Unranked
+18,Stop Deceiving! An Effective Defense Scheme Against Voice Impersonation Attacks on Smart Devices.,2022,"Wenbin Huang, Wenjuan Tang, Hongbo Jiang, Jun Luo, Yaoxue Zhang",IEEE Internet Things J. 9: 5304-5314 ,IOTJ,Unranked
+19,PupilRec: Leveraging Pupil Morphology for Recommending on Smartphones.,2022,"Xiangyu Shen, Hongbo Jiang, Daibo Liu, Kehua Yang, Feiyang Deng, John C. S. Lui, Jiangchuan Liu, Schahram Dustdar, Jun Luo",IEEE Internet Things J. 9: 15538-15553 ,IOTJ,Unranked
+20,Person Tracking by Detection Using Dual Visible-Infrared Cameras.,2022,"Xuewen Geng, Minglei Li, Wenping Liu, Shengkai Zhu, Hongbo Jiang, Jiawen Bian, Xuezhi Fan, Ruiqing Peng, Jun Luo",IEEE Internet Things J. 9: 23241-23251 ,IOTJ,Unranked
+21,A Lightweight Approach for Passive Human Localization Using an Infrared Thermal Camera.,2022,"Xuewen Geng, Ruiqing Peng, Minglei Li, Wenping Liu, Guoyin Jiang, Hongbo Jiang, Jun Luo",IEEE Internet Things J. 9: 24800-24811 ,IOTJ,Unranked
+22,Boosting Chirp Signal Based Aerial Acoustic Communication Under Dynamic Channel Conditions.,2022,"Chao Cai, Zhe Chen, Jun Luo, Henglin Pu, Menglan Hu, Rong Zheng",IEEE Trans. Mob. Comput. 21: 3110-3121 ,TMC,Unranked
+23,Low Rank Matrix Approximation for 3D Geometry Filtering.,2022,"Xuequan Lu, Scott Schaefer, Jun Luo, Lizhuang Ma, Ying He",IEEE Trans. Vis. Comput. Graph. 28: 1835-1847 ,TVCG,Unranked
+24,Sound of Motion: Real-time Wrist Tracking with A Smart Watch-Phone Pair.,2022,"Tianyue Zheng, Chao Cai, Zhe Chen, Jun Luo",INFOCOM 2022: 110-119,INFOCOM,A*
+25,Can We Obtain Fine-grained Heartbeat Waveform via Contact-free RF-sensing?,2022,"Shujie Zhang, Tianyue Zheng, Zhe Chen, Jun Luo",INFOCOM 2022: 1759-1768,INFOCOM,A*
+26,Integrating monostatic sensing with communication for IoT.,2022,"Zhe Chen, Tianyue Zheng, Chao Hu, Hangcheng Cao, Yanbing Yang, Hongbo Jiang, Jun Luo",ISACom@MobiCom 2022: 43-48,MOBICOM,A*
+27,CORE-lens: simultaneous communication and object recognition with disentangled-GAN cameras.,2022,"Ziwei Liu, Tianyue Zheng, Chao Hu, Yanbing Yang, Yimao Sun, Yi Zhang, Zhe Chen, Liangyin Chen, Jun Luo",MobiCom 2022: 172-185,MOBICOM,A*
+28,Quantifying the Physical Separability of RF-Based Multi-Person Respiration Monitoring via SINR.,2022,"Shujie Zhang, Tianyue Zheng, Hongbo Wang, Zhe Chen, Jun Luo",SenSys 2022: 47-60,SENSYS,A*
+29,Enhancing RF Sensing with Deep Learning: A Layered Approach.,2021,"Tianyue Zheng, Zhe Chen, Shuya Ding, Jun Luo",IEEE Commun. Mag. 59: 70-76 ,CM,Unranked
+30,AI and machine learning for the analysis of data flow characteristics in industrial network communication security.,2021,"Zhi Xu, Jun Luo, Xin Wang, JiaHai Zhang, Mamoun Alazab, Vicente García-Díaz",Int. J. Ad Hoc Ubiquitous Comput. 37: 125-136 ,IJAHUC,Unranked
+31,We Hear Your PACE: Passive Acoustic Localization of Multiple Walking Persons.,2021,"Chao Cai, Henglin Pu, Peng Wang, Zhe Chen, Jun Luo",Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 5: 55:1-55:24 ,IMWUT,Unranked
+32,Finding Group Steiner Trees in Graphs with both Vertex and Edge Weights.,2021,"Yahui Sun, Xiaokui Xiao, Bin Cui, Saman K. Halgamuge, Theodoros Lappas, Jun Luo",Proc. VLDB Endow. 14: 1137-1149 ,PVLDB,Unranked
+33,Towards Robust Multiple Blind Source Localization Using Source Separation and Beamforming.,2021,"Henglin Pu, Chao Cai, Menglan Hu, Tianping Deng, Rong Zheng, Jun Luo",Sensors 21: 532 ,SENSORS,Unranked
+34,A Meta-learning Based Multimodal Neural Network for Multistep Ahead Battery Thermal Runaway Forecasting.,2021,"Shuya Ding, Chaoyu Dong, Tianyang Zhao, Liang Mong Koh, Xiaoyin Bai, Jun Luo",IEEE Trans. Ind. Informatics 17: 4503-4511 ,TII,Unranked
+35,$M^3$M3: Multipath Assisted Wi-Fi Localization with a Single Access Point.,2021,"Zhe Chen, Guorong Zhu, Sulei Wang, Yuedong Xu, Jie Xiong, Jin Zhao, Jun Luo, Xin Wang",IEEE Trans. Mob. Comput. 20: 588-602 ,TMC,Unranked
+36,Pushing the Data Rate of Practical VLC via Combinatorial Light Emission.,2021,"Yanbing Yang, Jun Luo, Chen Chen, Zequn Chen, Wen-De Zhong, Liangyin Chen",IEEE Trans. Mob. Comput. 20: 1979-1992 ,TMC,Unranked
+37,SST: Software Sonic Thermometer on Acoustic-Enabled IoT Devices.,2021,"Chao Cai, Henglin Pu, Menglan Hu, Rong Zheng, Jun Luo",IEEE Trans. Mob. Comput. 20: 2067-2079 ,TMC,Unranked
+38,A Multi-Leader Multi-Follower Game-Based Analysis for Incentive Mechanisms in Socially-Aware Mobile Crowdsensing.,2021,"Jiangtian Nie, Jun Luo, Zehui Xiong, Dusit Niyato, Ping Wang, H. Vincent Poor",IEEE Trans. Wirel. Commun. 20: 1457-1471 ,TWC,Unranked
+39,SiWa: see into walls via deep UWB radar.,2021,"Tianyue Zheng, Zhe Chen, Jun Luo, Lin Ke, Chaoyang Zhao, Yaowen Yang",MobiCom 2021: 323-336,MOBICOM,A*
+40,MoVi-Fi: motion-robust vital signs waveform recovery via deep interpreted RF sensing.,2021,"Zhe Chen, Tianyue Zheng, Chao Cai, Jun Luo",MobiCom 2021: 392-405,MOBICOM,A*
+41,Octopus: a practical and versatile wideband MIMO sensing platform.,2021,"Zhe Chen, Tianyue Zheng, Jun Luo",MobiCom 2021: 601-614,MOBICOM,A*
+42,MoRe-Fi: Motion-robust and Fine-grained Respiration Monitoring via Deep-Learning UWB Radar.,2021,"Tianyue Zheng, Zhe Chen, Shujie Zhang, Chao Cai, Jun Luo",SenSys 2021: 111-124,SENSYS,A*
+43,Multi-Leader Multi-Follower Game-based Incentive Scheme for Socially-Aware Mobile Crowdsensing.,2021,"Jiangtian Nie, Jun Luo, Zehui Xiong, Dusit Niyato, Ping Wang, Yang Zhang",WCNC 2021: 1-6,WCNC,B
+44,PURE: Passive mUlti-peRson idEntification via Deep Footstep Separation and Recognition.,2021,"Chao Cai, Ruinan Jin, Peng Wang, Liyuan Ye, Hongbo Jiang, Jun Luo",CoRR abs/2104.07177 ,CORR,Unranked
+45,SiWa: See into Walls via Deep UWB Radar.,2021,"Tianyue Zheng, Zhe Chen, Jun Luo, Lin Ke, Chaoyang Zhao, Yaowen Yang",CoRR abs/2110.14279 ,CORR,Unranked
+46,RF-Based Human Activity Recognition Using Signal Adapted Convolutional Neural Network.,2021,"Zhe Chen, Chao Cai, Tianyue Zheng, Jun Luo, Jie Xiong, Xin Wang",CoRR abs/2110.14307 ,CORR,Unranked
+47,V2iFi: in-Vehicle Vital Sign Monitoring via Compact RF Sensing.,2021,"Tianyue Zheng, Zhe Chen, Chao Cai, Jun Luo, Xu Zhang",CoRR abs/2110.14848 ,CORR,Unranked
+48,Enhancing RF Sensing with Deep Learning: A Layered Approach.,2021,"Tianyue Zheng, Zhe Chen, Shuya Ding, Jun Luo",CoRR abs/2110.14849 ,CORR,Unranked
+49,RF-Net: a Unified Meta-learning Framework for RF-enabled One-shot Human Activity Recognition.,2021,"Shuya Ding, Zhe Chen, Tianyue Zheng, Jun Luo",CoRR abs/2111.04566 ,CORR,Unranked
+50,MoRe-Fi: Motion-robust and Fine-grained Respiration Monitoring via Deep-Learning UWB Radar.,2021,"Tianyue Zheng, Zhe Chen, Shujie Zhang, Chao Cai, Jun Luo",CoRR abs/2111.08195 ,CORR,Unranked
+51,Adv-4-Adv: Thwarting Changing Adversarial Perturbations via Adversarial Domain Adaptation.,2021,"Tianyue Zheng, Zhe Chen, Shuya Ding, Chao Cai, Jun Luo",CoRR abs/2112.00428 ,CORR,Unranked
+52,V2iFi: in-Vehicle Vital Sign Monitoring via Compact RF Sensing.,2020,"Tianyue Zheng, Zhe Chen, Chao Cai, Jun Luo, Xu Zhang",Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 4: 70:1-70:27 ,IMWUT,Unranked
+53,Enabling Real-Life Deployment of Piggyback-VLC via Light Emission Composition.,2020,"Yanbing Yang, Jun Luo, Chen Chen, Liangyin Chen",IEEE Internet Comput. 24: 59-65 ,INTERNET,Unranked
+54,Hunting multiple bumps in graphs.,2020,"Yahui Sun, Jun Luo, Theodoros Lappas, Xiaokui Xiao, Bin Cui",Proc. VLDB Endow. 13: 656-669 ,PVLDB,Unranked
+55,Composite Amplitude-Shift Keying for Effective LED-Camera VLC.,2020,"Yanbing Yang, Jun Luo",IEEE Trans. Mob. Comput. 19: 528-539 ,TMC,Unranked
+56,HackMan: hacking commodity millimeter-wave hardware for a measurement study.,2020,"Chao Cai, Zhen Chen, Jun Luo, Linwei Zhu, Menglan Hu",Wirel. Networks 26: 5411-5425 ,WINET,Unranked
+57,Enhancing Intrinsic Adversarial Robustness via Feature Pyramid Decoder.,2020,"Guanlin Li, Shuya Ding, Jun Luo, Chang Liu",CVPR 2020: 797-805,CVPR,A*
+58,UWHear: through-wall extraction and separation of audio vibrations using wireless signals.,2020,"Ziqi Wang, Zhe Chen, Akash Deep Singh, Luis Garcia, Jun Luo, Mani B. Srivastava",SenSys 2020: 1-14,SENSYS,A*
+59,AcuTe: acoustic thermometer empowered by a single smartphone.,2020,"Chao Cai, Zhe Chen, Henglin Pu, Liyuan Ye, Menglan Hu, Jun Luo",SenSys 2020: 28-41,SENSYS,A*
+60,RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition.,2020,"Shuya Ding, Zhe Chen, Tianyue Zheng, Jun Luo",SenSys 2020: 517-530,SENSYS,A*
+61,Incentive Mechanism for Socially-Aware Mobile Crowdsensing: A Bayesian Stackelberg Game.,2020,"Jiangtian Nie, Jun Luo, Zehui Xiong, Dusit Niyato, Ping Wang, Yang Zhang",WASA  2020: 394-406,WASA,Unranked
+62,Enhancing Intrinsic Adversarial Robustness via Feature Pyramid Decoder.,2020,"Guanlin Li, Shuya Ding, Jun Luo, Chang Liu",CoRR abs/2005.02552 ,CORR,Unranked
+63,An Incentive Mechanism Design for Socially Aware Crowdsensing Services with Incomplete Information.,2019,"Jiangtian Nie, Jun Luo, Zehui Xiong, Dusit Niyato, Ping Wang, Mohsen Guizani",IEEE Commun. Mag. 57: 74-80 ,CM,Unranked
+64,Editorial: Green computing in Wireless Sensor Networks.,2019,"Feng Li, Shibo He, Jun Luo, Mohan Gurusamy, Junshan Zhang",Comput. Networks 150: 266-268 ,CN,National
+65,3D articulated skeleton extraction using a single consumer-grade depth camera.,2019,"Xuequan Lu, Zhigang Deng, Jun Luo, Wenzhi Chen, Sai-Kit Yeung, Ying He",Comput. Vis. Image Underst. 188 ,CVIU,Unranked
+66,VisioMap: Lightweight 3-D Scene Reconstruction Toward Natural Indoor Localization.,2019,"Feng Li, Jie Hao, Jin Wang, Jun Luo, Ying He, Dongxiao Yu, Xiuzhen Cheng",IEEE Internet Things J. 6: 8870-8882 ,IOTJ,Unranked
+67,Organizing an Influential Social Event Under a Budget Constraint.,2019,"Kai Han, Yuntian He, Xiaokui Xiao, Shaojie Tang, Fei Gui, Chaoting Xu, Jun Luo",IEEE Trans. Knowl. Data Eng. 31: 2379-2392 ,TKDE,Unranked
+68,Learning-Based Outdoor Localization Exploiting Crowd-Labeled WiFi Hotspots.,2019,"Jin Wang, Jun Luo, Sinno Jialin Pan, Aixin Sun",IEEE Trans. Mob. Comput. 18: 896-909 ,TMC,Unranked
+69,Differentially Private Mechanisms for Budget Limited Mobile Crowdsourcing.,2019,"Kai Han, Huan Liu, Shaojie Tang, Mingjun Xiao, Jun Luo",IEEE Trans. Mob. Comput. 18: 934-946 ,TMC,Unranked
+70,A Stackelberg Game Approach Toward Socially-Aware Incentive Mechanisms for Mobile Crowdsensing.,2019,"Jiangtian Nie, Jun Luo, Zehui Xiong, Dusit Niyato, Ping Wang",IEEE Trans. Wirel. Commun. 18: 724-738 ,TWC,Unranked
+71,SynLight: Synthetic Light Emission for Fast Transmission in COTS Device-enabled VLC.,2019,"Yanbing Yang, Jun Luo, Chen Chen, Wen-De Zhong, Liangyin Chen",INFOCOM 2019: 1297-1305,INFOCOM,A*
+72,Visible Light Based Occupancy Inference Using Ensemble Learning.,2018,"Jie Hao, Xiaoming Yuan, Yanbing Yang, Ran Wang, Yi Zhuang, Jun Luo",IEEE Access 6: 16377-16385 ,ACCESS,Unranked
+73,ParkLoc: Light-weight Graph-based Vehicular Localization in Parking Garages.,2018,"Jim Cherian, Jun Luo, Shen-Shyang Ho",Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2: 99:1-99:23 ,IMWUT,Unranked
+74,Counting via LED sensing: Inferring occupancy using lighting infrastructure.,2018,"Yanbing Yang, Jun Luo, Jie Hao, Sinno Jialin Pan",Pervasive Mob. Comput. 45: 35-54 ,PERCOM,A*
+75,ATME: Accurate Traffic Matrix Estimation in Both Public and Private Datacenter Networks.,2018,"Zhiming Hu, Yan Qiao, Jun Luo",IEEE Trans. Cloud Comput. 6: 60-73 ,TCC,A
+76,Trinity: Enabling Self-Sustaining WSNs Indoors with Energy-Free Sensing and Networking.,2018,"Feng Li, Yanbing Yang, Zicheng Chi, Liya Zhao, Yaowen Yang, Jun Luo",ACM Trans. Embed. Comput. Syst. 17: 57:1-57:27 ,TECS,Unranked
+77,Quality-Aware Pricing for Mobile Crowdsensing.,2018,"Kai Han, He Huang, Jun Luo",IEEE/ACM Trans. Netw. 26: 1728-1741 ,TON,Unranked
+78,Time- and Cost- Efficient Task Scheduling across Geo-Distributed Data Centers.,2018,"Zhiming Hu, Baochun Li, Jun Luo",IEEE Trans. Parallel Distributed Syst. 29: 705-718 ,TPDS,Unranked
+79,A Socially-Aware Incentive Mechanism for Mobile Crowdsensing Service Market.,2018,"Jiangtian Nie, Zehui Xiong, Dusit Niyato, Ping Wang, Jun Luo",GLOBECOM 2018: 1-7,GLOBECOM,B
+80,Budget-Constrained Organization of Influential Social Events.,2018,"Kai Han, Yuntian He, Xiaokui Xiao, Shaojie Tang, Fei Gui, Chaoting Xu, Jun Luo",ICDE 2018: 917-928,ICDE,A*
+81,Boosting the Throughput of LED-Camera VLC via Composite Light Emission.,2018,"Yanbing Yang, Jun Luo",INFOCOM 2018: 315-323,INFOCOM,A*
+82,Discount Allocation for Revenue Maximization in Online Social Networks.,2018,"Kai Han, Chaoting Xu, Fei Gui, Shaojie Tang, He Huang, Jun Luo",MobiHoc 2018: 121-130,MOBIHOC,A
+83,Low Rank Matrix Approximation for Geometry Filtering.,2018,"Xuequan Lu, Scott Schaefer, Jun Luo, Lizhuang Ma, Ying He",CoRR abs/1803.06783 ,CORR,Unranked
+84,A Stackelberg Game Approach Towards Socially-Aware Incentive Mechanisms for Mobile Crowdsensing.,2018,"Jiangtian Nie, Jun Luo, Zehui Xiong, Dusit Niyato, Ping Wang",CoRR abs/1807.08412 ,CORR,Unranked
+85,Adaptive Scheduling of Task Graphs with Dynamic Resilience.,2017,"Menglan Hu, Jun Luo, Yang Wang, Bharadwaj Veeravalli",IEEE Trans. Computers 66: 17-23 ,TC,Unranked
+86,ART: Adaptive fRequency-Temporal Co-Existing of ZigBee and WiFi.,2017,"Feng Li, Jun Luo, Gaotao Shi, Ying He",IEEE Trans. Mob. Comput. 16: 662-674 ,TMC,Unranked
+87,CeilingTalk: Lightweight Indoor Broadcast Through LED-Camera Communication.,2017,"Yanbing Yang, Jie Hao, Jun Luo",IEEE Trans. Mob. Comput. 16: 3308-3319 ,TMC,Unranked
+88,WOLoc: WiFi-only outdoor localization using crowdsensed hotspot labels.,2017,"Jin Wang, Nicholas Tan, Jun Luo, Sinno Jialin Pan",INFOCOM 2017: 1-9,INFOCOM,A*
+89,Roaming in Connecting Light: Practical Visible Light Communication Leveraging LED Sensing.,2017,"Yanbing Yang, Shuya Ding, Jie Hao, Jun Luo",VLCS@MobiCom 2017: 9-14,MOBICOM,A*
+90,ReflexCode: Coding with Superposed Reflection Light for LED-Camera Communication.,2017,"Yanbing Yang, Jiangtian Nie, Jun Luo",MobiCom 2017: 193-205,MOBICOM,A*
+91,Demo: Coding with Superposed Reflection Light for LED-Camera Communication.,2017,"Yanbing Yang, Jiangtian Nie, Jun Luo",MobiCom 2017: 513-515,MOBICOM,A*
+92,Online Pricing for Mobile Crowdsourcing with Multi-Minded Users.,2017,"Kai Han, Yuntian He, Haisheng Tan, Shaojie Tang, He Huang, Jun Luo",MobiHoc 2017: 18:1-18:10,MOBIHOC,A
+93,CeilingSee: Device-free occupancy inference through lighting infrastructure based LED sensing.,2017,"Yanbing Yang, Jie Hao, Jun Luo, Sinno Jialin Pan",PerCom 2017: 247-256,PERCOM,A*
+94,A Socially-Aware Incentive Mechanism for Mobile Crowdsensing Service Market.,2017,"Jiangtian Nie, Zehui Xiong, Dusit Niyato, Ping Wang, Jun Luo",CoRR abs/1711.01050 ,CORR,Unranked
+95,Autonomous deployment of wireless sensor networks for optimal coverage with directional sensing model.,2016,"Feng Li, Jun Luo, Shi-Qing Xin, Ying He",Comput. Networks 108: 120-132 ,CN,National
+96,Truthful Scheduling Mechanisms for Powering Mobile Crowdsensing.,2016,"Kai Han, Chi Zhang, Jun Luo, Menglan Hu, Bharadwaj Veeravalli",IEEE Trans. Computers 65: 294-307 ,TC,Unranked
+97,Taming the Uncertainty: Budget Limited Robust Crowdsensing Through Online Learning.,2016,"Kai Han, Chi Zhang, Jun Luo",IEEE/ACM Trans. Netw. 24: 1462-1475 ,TON,Unranked
+98,CeilingCast: Energy efficient and location-bound broadcast through LED-camera communication.,2016,"Jie Hao, Yanbing Yang, Jun Luo",INFOCOM 2016: 1-9,INFOCOM,A*
+99,Flutter: Scheduling tasks closer to data across geo-distributed datacenters.,2016,"Zhiming Hu, Baochun Li, Jun Luo",INFOCOM 2016: 1-9,INFOCOM,A*
+100,ParkGauge: Gauging the Occupancy of Parking Garages with Crowdsensed Parking Characteristics.,2016,"Jim Cherian, Jun Luo, Hongliang Guo, Shen-Shyang Ho, Richard Wisbrun",MDM 2016: 92-101,MDM,B
+101,Posted pricing for robust crowdsensing.,2016,"Kai Han, He Huang, Jun Luo",MobiHoc 2016: 261-270,MOBIHOC,A
+102,Barehanded music: real-time hand interaction for virtual piano.,2016,"Hui Liang, Jin Wang, Qian Sun, Yong-Jin Liu, Junsong Yuan, Jun Luo, Ying He",I3D 2016: 87-94,SI3D,Unranked
+103,Coarse-grained traffic matrix estimation for data center networks.,2015,"Zhiming Hu, Yan Qiao, Jun Luo",Comput. Commun. 56: 25-34 ,COMCOM,Unranked
+104,Exploiting temporal and spatial variation for WiFi interference avoidance in ZigBee networks.,2015,"Gaotao Shi, Ruitao Xu, Yantai Shu, Jun Luo",Int. J. Sens. Networks 18: 204-216 ,IJSNET,Unranked
+105,Scheduling periodic task graphs for safety-critical time-triggered avionic systems.,2015,"Menglan Hu, Jun Luo, Yang Wang, Bharadwaj Veeravalli",IEEE Trans. Aerosp. Electron. Syst. 51: 2294-2304 ,TAES,Unranked
+106,GROPING: Geomagnetism and cROwdsensing Powered Indoor NaviGation.,2015,"Chi Zhang, Kalyan Subbu, Jun Luo, Jianxin Wu",IEEE Trans. Mob. Comput. 14: 387-400 ,TMC,Unranked
+107,Achieving Energy Efficiency and Reliability for Data Dissemination in Duty-Cycled WSNs.,2015,"Kai Han, Jun Luo, Liu Xiang, Mingjun Xiao, Liusheng Huang",IEEE/ACM Trans. Netw. 23: 1041-1052 ,TON,Unranked
+108,Autonomous Deployment for Load Balancing k-Surface Coverage in Sensor Networks.,2015,"Feng Li, Jun Luo, Wenping Wang, Ying He",IEEE Trans. Wirel. Commun. 14: 279-293 ,TWC,Unranked
+109,GRIP: Greedy Routing through dIstributed Parametrization for guaranteed delivery in WSNs.,2015,"Minqi Zhang, Feng Li, Ying He, Juncong Lin, Xianfeng Gu, Jun Luo",Wirel. Networks 21: 67-80 ,WINET,Unranked
+110,Cracking network monitoring in DCNs with SDN.,2015,"Zhiming Hu, Jun Luo",INFOCOM 2015: 199-207,INFOCOM,A*
+111,RUSH: Routing and scheduling for hybrid data center networks.,2015,"Kai Han, Zhiming Hu, Jun Luo, Liu Xiang",INFOCOM 2015: 415-423,INFOCOM,A*
+112,Poster: ParkGauge: Gauging the Congestion Level of Parking Garages with Crowdsensed Parking Characteristics.,2015,"Jim Cherian, Jun Luo, Hongliang Guo, Shen-Shyang Ho, Richard Wisbrun",SenSys 2015: 395-396,SENSYS,A*
+113,Holistic Scheduling of Real-Time Applications in Time-Triggered In-Vehicle Networks.,2014,"Menglan Hu, Jun Luo, Yang Wang, Martin Lukasiewycz, Zeng Zeng",IEEE Trans. Ind. Informatics 10: 1817-1828 ,TII,Unranked
+114,LBDP: Localized Boundary Detection and Parametrization for 3-D Sensor Networks.,2014,"Feng Li, Chi Zhang, Jun Luo, Shi-Qing Xin, Ying He",IEEE/ACM Trans. Netw. 22: 567-579 ,TON,Unranked
+115,Practical Resource Provisioning and Caching with Dynamic Resilience for Cloud-Based Content Distribution Networks.,2014,"Menglan Hu, Jun Luo, Yang Wang, Bharadwaj Veeravalli",IEEE Trans. Parallel Distributed Syst. 25: 2169-2179 ,TPDS,Unranked
+116,MEGCOM: Minimum-Energy Group COMmunication in Multihop Wireless Networks.,2014,"Kai Han, Liu Xiang, Jun Luo, Yang Liu",IEEE Trans. Veh. Technol. 63: 1790-1801 ,TVT,Unranked
+117,Analysis and status quo of smartphone-based indoor localization systems.,2014,"Kalyan Subbu, Chi Zhang, Jun Luo, Athanasios V. Vasilakos",IEEE Wirel. Commun. 21: 106-112 ,WC,Unranked
+118,TRack others if you can: localized proximity detection for mobile networks.,2014,"Chi Zhang, Jun Luo",Wirel. Networks 20: 1477-1494 ,WINET,Unranked
+119,A Dual-Sensor Enabled Indoor Localization System with Crowdsensing Spot Survey.,2014,"Chi Zhang, Jun Luo, Jianxin Wu",DCOSS 2014: 75-82,DCOSS,B
+120,Dead reckoning on smartphones to reduce GPS usage.,2014,"Kalan Nawarathne, Fang Zhao, Francisco C. Pereira, Jun Luo",ICARCV 2014: 529-534,ICARCV,C
+121,Poster abstract: MaWi: a hybrid magnetic and wi-fi system for scalable indoor localization.,2014,"Chi Zhang, Jun Luo, Jianxin Wu",IPSN 2014: 275-276,IPSN,A*
+122,CREATE: Correlation enhanced traffic matrix estimation in Data Center Networks.,2014,"Zhiming Hu, Yan Qiao, Jun Luo, Peng Sun, Yonggang Wen",Networking 2014: 1-9,NETWORKING,Unranked
+123,BLISS: Budget LImited robuSt crowdSensing through online learning.,2014,"Kai Han, Chi Zhang, Jun Luo",SECON 2014: 555-563,SECON,B
+124,iLocScan: harnessing multipath for simultaneous indoor source localization and space scanning.,2014,"Chi Zhang, Feng Li, Jun Luo, Ying He",SenSys 2014: 91-104,SENSYS,A*
+125,Unsupervised co-segmentation for 3D shapes using iterative multi-label optimization.,2013,"Min Meng, Jiazhi Xia, Jun Luo, Ying He",Comput. Aided Des. 45: 312-320 ,CAD,Unranked
+126,Algorithm design for data communications in duty-cycled wireless sensor networks: A survey.,2013,"Kai Han, Jun Luo, Yang Liu, Athanasios V. Vasilakos",IEEE Commun. Mag. 51 ,CM,Unranked
+127,Cooperation Dynamics on Collaborative Social Networks of Heterogeneous Population.,2013,"Guiyi Wei, Ping Zhu, Athanasios V. Vasilakos, Yuxin Mao, Jun Luo, Yun Ling",IEEE J. Sel. Areas Commun. 31: 1135-1146 ,JSAC,Unranked
+128,Duty-Cycle-Aware Minimum-Energy Multicasting in Wireless Sensor Networks.,2013,"Kai Han, Yang Liu, Jun Luo",IEEE/ACM Trans. Netw. 21: 910-923 ,TON,Unranked
+129,Compressed Data Aggregation: Energy-Efficient and High-Fidelity Data Collection.,2013,"Liu Xiang, Jun Luo, Catherine Rosenberg",IEEE/ACM Trans. Netw. 21: 1722-1735 ,TON,Unranked
+130,FAVOR: frequency allocation for versatile occupancy of spectrum in wireless sensor networks.,2013,"Feng Li, Jun Luo, Gaotao Shi, Ying He",MobiHoc 2013: 39-48,MOBIHOC,A
+131,Energy-efficient reliable data dissemination in duty-cycled wireless sensor networks.,2013,"Kai Han, Liu Xiang, Jun Luo, Mingjun Xiao, Liusheng Huang",MobiHoc 2013: 287-292,MOBIHOC,A
+132,Efficient traffic matrix estimation for data center networks.,2013,"Yan Qiao, Zhiming Hu, Jun Luo",Networking 2013: 1-9,NETWORKING,Unranked
+133,Fueling Wireless Networks perpetually: A case of multi-hop wireless power distribution∗.,2013,"Liu Xiang, Jun Luo, Kai Han, Gaotao Shi",PIMRC 2013: 1994-1999,PIMRC,B
+134,"Powering indoor sensing with airflows: a trinity of energy harvesting, synchronous duty-cycling, and sensing.",2013,"Tianyu Xiang, Zicheng Chi, Feng Li, Jun Luo, Lihua Tang, Liya Zhao, Yaowen Yang",SenSys 2013: 16:1-16:14,SENSYS,A*
+135,"Powering indoor sensing with airflows: a trinity of energy harvesting, synchronous duty-cycling, and sensing.",2013,"Feng Li, Tianyu Xiang, Zicheng Chi, Jun Luo, Lihua Tang, Liya Zhao, Yaowen Yang",SenSys 2013: 73:1-73:2,SENSYS,A*
+136,Truthful Scheduling Mechanisms for Powering Mobile Crowdsensing.,2013,"Kai Han, Chi Zhang, Jun Luo",CoRR abs/1308.4501 ,CORR,Unranked
+137,LAACAD: Load Balancing k-Area Coverage through Autonomous Deployment in Wireless Sensor Networks.,2012,"Feng Li, Jun Luo, Shi-Qing Xin, Wenping Wang, Ying He",ICDCS 2012: 566-575,ICDCS,A
+138,Optimal provisioning for scheduling divisible loads with reserved cloud resources.,2012,"Menglan Hu, Jun Luo, Bharadwaj Veeravalli",ICON 2012: 204-209,ICON,Unranked
+139,Dynamic real-time scheduling with task migration for handling bag-of-tasks applications on clusters.,2012,"Menglan Hu, Jun Luo",ICON 2012: 222-226,ICON,Unranked
+140,Minimum-energy connected coverage in wireless sensor networks with omni-directional and directional features.,2012,"Kai Han, Liu Xiang, Jun Luo, Yang Liu",MobiHoc 2012: 85-94,MOBIHOC,A
+141,Harmonic quorum systems: Data management in 2D/3D wireless sensor networks with holes.,2012,"Chi Zhang, Jun Luo, Liu Xiang, Feng Li, Juncong Lin, Ying He",SECON 2012: 1-9,SECON,B
+142,DECA: Recovering fields of physical quantities from incomplete sensory data.,2012,"Liu Xiang, Jun Luo, Chenwei Deng, Athanasios V. Vasilakos, Weisi Lin",SECON 2012: 182-190,SECON,B
+143,MEGCOM: Min-Energy Group COMmunication in Multi-hop Wireless Networks.,2012,"Kai Han, Liu Xiang, Jun Luo, Yang Liu",CoRR abs/1202.1584 ,CORR,Unranked
+144,Peer-to-Peer Media Streaming: Insights and New Developments.,2011,"Zhijie Shen, Jun Luo, Roger Zimmermann, Athanasios V. Vasilakos",Proc. IEEE 99: 2089-2109 ,PIEEE,Unranked
+145,Throughput-Lifetime Trade-Offs in Multihop Wireless Networks under an SINR-Based Interference Model.,2011,"Jun Luo, Aravind Iyer, Catherine Rosenberg",IEEE Trans. Mob. Comput. 10: 419-433 ,TMC,Unranked
+146,3DQS: Distributed Data Access in 3D Wireless Sensor Networks.,2011,"Jun Luo, Feng Li, Ying He",ICC 2011: 1-5,ICC,Unranked
+147,GeoQuorum: Load balancing and energy efficient data access in wireless sensor networks.,2011,"Jun Luo, Ying He",INFOCOM 2011: 616-620,INFOCOM,A*
+148,MuZi: Multi-channel ZigBee Networks for Avoiding WiFi Interference.,2011,"Ruitao Xu, Gaotao Shi, Jun Luo, Zenghua Zhao, Yantai Shu",iThings/CPSCom 2011: 323-329,ITHINGS,Unranked
+149,UNFOLD: uniform fast on-line boundary detection for dynamic 3D wireless sensor networks.,2011,"Feng Li, Jun Luo, Chi Zhang, Shi-Qing Xin, Ying He",MobiHoc 2011: 14,MOBIHOC,A
+150,Compressed data aggregation for energy efficient wireless sensor networks.,2011,"Liu Xiang, Jun Luo, Athanasios V. Vasilakos",SECON 2011: 46-54,SECON,B
+151,GeoQuorum: Load Balancing and Energy Efficient Data Access in Wireless Sensor Networks.,2011,"Jun Luo, Ying He",CoRR abs/1101.0892 ,CORR,Unranked
+152,Dual-Level Compressed Aggregation: Recovering Fields of Physical Quantities from Incomplete Sensory Data.,2011,"Liu Xiang, Jun Luo, Chenwei Deng, Athanasios V. Vasilakos, Weisi Lin",CoRR abs/1107.4873 ,CORR,Unranked
+153,A randomized countermeasure against parasitic adversaries in wireless sensor networks.,2010,"Panagiotis Papadimitratos, Jun Luo, Jean-Pierre Hubaux",IEEE J. Sel. Areas Commun. 28: 1036-1045 ,JSAC,Unranked
+154,Joint Sink Mobility and Routing to Maximize the Lifetime of Wireless Sensor Networks: The Case of Constrained Mobility.,2010,"Jun Luo, Jean-Pierre Hubaux",IEEE/ACM Trans. Netw. 18: 871-884 ,TON,Unranked
+155,"Engineering Wireless Mesh Networks: Joint Scheduling, Routing, Power Control, and Rate Adaptation.",2010,"Jun Luo, Catherine Rosenberg, André Girard",IEEE/ACM Trans. Netw. 18: 1387-1400 ,TON,Unranked
+156,Does Compressed Sensing Improve the Throughput of Wireless Sensor Networks?,2010,"Jun Luo, Liu Xiang, Catherine Rosenberg",ICC 2010: 1-6,ICC,Unranked
+157,Practical algorithm for minimum delay peer-to-peer media streaming.,2010,Jun Luo,ICME 2010: 986-991,ICMCS,Unranked
+158,On the capacity and scheduling of a multi-sector cell with co-channel interference knowledge.,2010,"Patrick Mitran, Catherine Rosenberg, John Sydor, Jun Luo, Samat Shabdanov",Med-Hoc-Net 2010: 1-8,MEDHOCNET,Unranked
+159,Joint channel assignment and link scheduling for wireless mesh networks: Revisiting the Partially Overlapped Channels.,2010,"Xiang Liu, Jun Luo",PIMRC 2010: 2063-2068,PIMRC,B
+160,Efficient algorithms to solve a class of resource allocation problems in large wireless networks.,2009,"Jun Luo, André Girard, Catherine Rosenberg",WiOpt 2009: 1-9,WIOPT,Unranked
+161,On the Performance of Primal/Dual Schemes for Congestion Control in Networks with Dynamic Flows.,2008,"Kexin Ma, Ravi Mazumdar, Jun Luo",INFOCOM 2008: 326-330,INFOCOM,A*
+162,Engineering wireless mesh networks.,2008,"Catherine Rosenberg, Jun Luo, André Girard",PIMRC 2008: 1-6,PIMRC,B
+163,GossiCrypt: Wireless Sensor Network Data Confidentiality Against Parasitic Adversaries.,2008,"Jun Luo, Panagiotis Papadimitratos, Jean-Pierre Hubaux",SECON 2008: 441-450,SECON,B
+164,GossiCrypt: Wireless Sensor Network Data Confidentiality Against Parasitic Adversaries.,2008,"Jun Luo, Panos Papadimitratos, Jean-Pierre Hubaux",CoRR abs/0808.2591 ,CORR,Unranked
+165,MobiRoute: Routing Towards a Mobile Sink for Improving Lifetime in Sensor Networks.,2006,"Jun Luo, Jacques Panchard, Michal Piórkowski, Matthias Grossglauser, Jean-Pierre Hubaux",DCOSS 2006: 480-497,DCOSS,B
+166,Non-Interactive Location Surveying for Sensor Networks with Mobility-Differentiated ToA.,2006,"Jun Luo, Hersh V. Shukla, Jean-Pierre Hubaux",INFOCOM 2006,INFOCOM,A*
+167,DICTATE: DIstributed CerTification Authority with probabilisTic frEshness for Ad Hoc Networks.,2005,"Jun Luo, Jean-Pierre Hubaux, Patrick Th. Eugster",IEEE Trans. Dependable Secur. Comput. 2: 311-323 ,TDSC,Unranked
+168,Joint mobility and routing for lifetime elongation in wireless sensor networks.,2005,"Jun Luo, Jean-Pierre Hubaux",INFOCOM 2005: 1735-1746,INFOCOM,A*
+169,Probabilistic reliable multicast in ad hoc networks.,2004,"Jun Luo, Patrick Th. Eugster, Jean-Pierre Hubaux",Ad Hoc Networks 2: 369-386 ,ADHOC,Unranked
+170,The Security and Privacy of Smart Vehicles.,2004,"Jean-Pierre Hubaux, Srdjan Capkun, Jun Luo",IEEE Secur. Priv. 2: 49-55 ,IEEESP,Unranked
+171,Pilot: Probabilistic Lightweight Group Communication System for Ad Hoc Networks.,2004,"Jun Luo, Patrick Th. Eugster, Jean-Pierre Hubaux",IEEE Trans. Mob. Comput. 3: 164-179 ,TMC,Unranked
+172,NASCENT: network layer service for vicinity ad-hoc groups.,2004,"Jun Luo, Jean-Pierre Hubaux",SECON 2004: 439-448,SECON,B
+173,Route Driven Gossip: Probabilistic Reliable Multicast in Ad Hoc Networks.,2003,"Jun Luo, Patrick Th. Eugster, Jean-Pierre Hubaux",INFOCOM 2003: 2229-2239,INFOCOM,A*
+174,PAN: providing reliable storage in mobile ad hoc networks with probabilistic quorum systems.,2003,"Jun Luo, Jean-Pierre Hubaux, Patrick Th. Eugster",MobiHoc 2003: 1-12,MOBIHOC,A

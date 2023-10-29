@@ -1,0 +1,4 @@
+,Overall,2023,2022,2021,2020,2019,2018,2017,2016,2014,2013,2012
+0,road networks,graph,scara,,efficiency,,,,,,shortest path and distance queries,
+1,graph,information-oriented random walks,scalable graph neural networks,,,,,,,,road networks,
+2,dmcs,,feature-oriented optimization,,,,,,,,practice,

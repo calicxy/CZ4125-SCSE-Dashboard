@@ -1,0 +1,123 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field.,2023,"Zhe Jun Tang, Tat-Jen Cham, Haiyu Zhao",CVPR 2023: 16559-16568,CVPR,A*
+1,Unified Discrete Diffusion for Simultaneous Vision-Language Generation.,2023,"Minghui Hu, Chuanxia Zheng, Zuopeng Yang, Tat-Jen Cham, Heliang Zheng, Chaoyue Wang, Dacheng Tao, Ponnuthurai N. Suganthan",ICLR 2023,ICLR,A*
+2,ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field.,2023,"Zhe Jun Tang, Tat-Jen Cham, Haiyu Zhao",CoRR abs/2303.13817 ,CORR,Unranked
+3,Explicit Correspondence Matching for Generalizable Neural Radiance Fields.,2023,"Yuedong Chen, Haofei Xu, Qianyi Wu, Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai",CoRR abs/2304.12294 ,CORR,Unranked
+4,Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation.,2023,"Minghui Hu, Jianbin Zheng, Daqing Liu, Chuanxia Zheng, Chaoyue Wang, Dacheng Tao, Tat-Jen Cham",CoRR abs/2306.00964 ,CORR,Unranked
+5,IPO-LDM: Depth-aided 360-degree Indoor RGB Panorama Outpainting via Latent Diffusion Model.,2023,"Tianhao Wu, Chuanxia Zheng, Tat-Jen Cham",CoRR abs/2307.03177 ,CORR,Unranked
+6,GeoConv: Geodesic guided convolution for facial action unit recognition.,2022,"Yuedong Chen, Guoxian Song, Zhiwen Shao, Jianfei Cai, Tat-Jen Cham, Jianmin Zheng",Pattern Recognit. 122: 108355 ,PR,Unranked
+7,Unconstrained Facial Action Unit Detection via Latent Feature Domain.,2022,"Zhiwen Shao, Jianfei Cai, Tat-Jen Cham, Xuequan Lu, Lizhuang Ma",IEEE Trans. Affect. Comput. 13: 1111-1126 ,TAFFCO,Unranked
+8,Global Context with Discrete Diffusion in Vector Quantised Modelling for Image Generation.,2022,"Minghui Hu, Yujie Wang, Tat-Jen Cham, Jianfei Yang, Ponnuthurai N. Suganthan",CVPR 2022: 11492-11501,CVPR,A*
+9,Bridging Global Context Interactions for High-Fidelity Image Completion.,2022,"Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai, Dinh Q. Phung",CVPR 2022: 11502-11512,CVPR,A*
+10,Entry-Flipped Transformer for Inference and Prediction of Participant Behavior.,2022,"Bo Hu, Tat-Jen Cham",ECCV  2022: 439-456,ECCV,A*
+11,Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields.,2022,"Yuedong Chen, Qianyi Wu, Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai",ECCV  2022: 730-748,ECCV,A*
+12,MPT-Net: Mask Point Transformer Network for Large Scale Point Cloud Semantic Segmentation.,2022,"Zhe Jun Tang, Tat-Jen Cham",IROS 2022: 10611-10618,IROS,A
+13,Real-time Shadow-aware Portrait Relighting in Virtual Backgrounds for Realistic Telepresence.,2022,"Guoxian Song, Tat-Jen Cham, Jianfei Cai, Jianmin Zheng",ISMAR 2022: 729-738,ISMAR,A*
+14,Towards Unbiased Visual Emotion Recognition via Causal Intervention.,2022,"Yuedong Chen, Xu Yang, Tat-Jen Cham, Jianfei Cai",ACM Multimedia 2022: 60-69,MM,Unranked
+15,Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields.,2022,"Yuedong Chen, Qianyi Wu, Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai",CoRR abs/2203.10821 ,CORR,Unranked
+16,High-Quality Pluralistic Image Completion via Code Shared VQGAN.,2022,"Chuanxia Zheng, Guoxian Song, Tat-Jen Cham, Jianfei Cai, Dinh Q. Phung, Linjie Luo",CoRR abs/2204.01931 ,CORR,Unranked
+17,Entry-Flipped Transformer for Inference and Prediction of Participant Behavior.,2022,"Bo Hu, Tat-Jen Cham",CoRR abs/2207.06235 ,CORR,Unranked
+18,Unified Discrete Diffusion for Simultaneous Vision-Language Generation.,2022,"Minghui Hu, Chuanxia Zheng, Heliang Zheng, Tat-Jen Cham, Chaoyue Wang, Zuopeng Yang, Dacheng Tao, Ponnuthurai N. Suganthan",CoRR abs/2211.14842 ,CORR,Unranked
+19,Half-body Portrait Relighting with Overcomplete Lighting Representation.,2021,"Guoxian Song, Tat-Jen Cham, Jianfei Cai, Jianmin Zheng",Comput. Graph. Forum 40: 371-381 ,CGF,Unranked
+20,Pluralistic Free-Form Image Completion.,2021,"Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai",Int. J. Comput. Vis. 129: 2786-2805 ,IJCV,Unranked
+21,Visiting the Invisible: Layer-by-Layer Completed Scene Decomposition.,2021,"Chuanxia Zheng, Duy-Son Dao, Guoxian Song, Tat-Jen Cham, Jianfei Cai",Int. J. Comput. Vis. 129: 3195-3215 ,IJCV,Unranked
+22,AgileGAN: stylizing portraits by inversion-consistent transfer learning.,2021,"Guoxian Song, Linjie Luo, Jing Liu, Wan-Chun Ma, Chun-Pong Lai, Chuanxia Zheng, Tat-Jen Cham",ACM Trans. Graph. 40: 117:1-117:13 ,TOG,Unranked
+23,The Spatially-Correlative Loss for Various Image Translation Tasks.,2021,"Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai",CVPR 2021: 16407-16417,CVPR,A*
+24,A Unified 3D Human Motion Synthesis Model via Conditional Variational Auto-Encoder∗.,2021,"Yujun Cai, Yiwei Wang, Yiheng Zhu, Tat-Jen Cham, Jianfei Cai, Junsong Yuan, Jun Liu, Chuanxia Zheng, Sijie Yan, Henghui Ding, Xiaohui Shen, Ding Liu, Nadia Magnenat-Thalmann",ICCV 2021: 11625-11635,ICCV,A*
+25,TFill: Image Completion via a Transformer-Based Architecture.,2021,"Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai",CoRR abs/2104.00845 ,CORR,Unranked
+26,The Spatially-Correlative Loss for Various Image Translation Tasks.,2021,"Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai",CoRR abs/2104.00854 ,CORR,Unranked
+27,Visiting the Invisible: Layer-by-Layer Completed Scene Decomposition.,2021,"Chuanxia Zheng, Duy-Son Dao, Guoxian Song, Tat-Jen Cham, Jianfei Cai",CoRR abs/2104.05367 ,CORR,Unranked
+28,Half-body Portrait Relighting with Overcomplete Lighting Representation.,2021,"Guoxian Song, Tat-Jen Cham, Jianfei Cai, Jianmin Zheng",CoRR abs/2106.13425 ,CORR,Unranked
+29,Towards Unbiased Visual Emotion Recognition via Causal Intervention.,2021,"Yuedong Chen, Xu Yang, Tat-Jen Cham, Jianfei Cai",CoRR abs/2107.12096 ,CORR,Unranked
+30,Global Context with Discrete Diffusion in Vector Quantised Modelling for Image Generation.,2021,"Minghui Hu, Yujie Wang, Tat-Jen Cham, Jianfei Yang, Ponnuthurai N. Suganthan",CoRR abs/2112.01799 ,CORR,Unranked
+31,Recovering facial reflectance and geometry from multi-view images.,2020,"Guoxian Song, Jianmin Zheng, Jianfei Cai, Tat-Jen Cham",Image Vis. Comput. 96: 103897 ,IVC,Unranked
+32,Learning Progressive Joint Propagation for Human Motion Prediction.,2020,"Yujun Cai, Lin Huang, Yiwei Wang, Tat-Jen Cham, Jianfei Cai, Junsong Yuan, Jun Liu, Xu Yang, Yiheng Zhu, Xiaohui Shen, Ding Liu, Jing Liu, Nadia Magnenat-Thalmann",ECCV  2020: 226-242,ECCV,A*
+33,Towards Eyeglass-style Holographic Near-eye Displays with Statically.,2020,"Xinxing Xia, Yunqing Guan, Andrei State, Praneeth Chakravarthula, Tat-Jen Cham, Henry Fuchs",ISMAR 2020: 312-319,ISMAR,A*
+34,GeoConv: Geodesic Guided Convolution for Facial Action Unit Recognition.,2020,"Yuedong Chen, Guoxian Song, Zhiwen Shao, Jianfei Cai, Tat-Jen Cham, Jianming Zheng",CoRR abs/2003.03055 ,CORR,Unranked
+35,Shading-Based Surface Recovery Using Subdivision-Based Representation.,2019,"Teng Deng, Jianmin Zheng, Jianfei Cai, Tat-Jen Cham",Comput. Graph. Forum 38: 417-428 ,CGF,Unranked
+36,Conditional adversarial synthesis of 3D facial action units.,2019,"Zhilei Liu, Guoxian Song, Jianfei Cai, Tat-Jen Cham, Juyong Zhang",Neurocomputing 355: 200-208 ,IJON,Unranked
+37,Visibility Constrained Generative Model for Depth-Based 3D Facial Pose Tracking.,2019,"Lu Sheng, Jianfei Cai, Tat-Jen Cham, Vladimir Pavlovic, King Ngi Ngan",IEEE Trans. Pattern Anal. Mach. Intell. 41: 1994-2007 ,PAMI,Unranked
+38,Towards a Switchable AR/VR Near-eye Display with Accommodation-Vergence and Eyeglass Prescription Support.,2019,"Xinxing Xia, Yunqing Guan, Andrei State, Praneeth Chakravarthula, Kishore Rathinavel, Tat-Jen Cham, Henry Fuchs",IEEE Trans. Vis. Comput. Graph. 25: 3114-3124 ,TVCG,Unranked
+39,Pluralistic Image Completion.,2019,"Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai",CVPR 2019: 1438-1447,CVPR,A*
+40,Exploiting Spatial-Temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks.,2019,"Yujun Cai, Liuhao Ge, Jun Liu, Jianfei Cai, Tat-Jen Cham, Junsong Yuan, Nadia Magnenat-Thalmann",ICCV 2019: 2272-2281,ICCV,A*
+41,Real-time 3D Face-Eye Performance Capture of a Person Wearing VR Headset.,2019,"Guoxian Song, Jianfei Cai, Tat-Jen Cham, Jianmin Zheng, Juyong Zhang, Henry Fuchs",CoRR abs/1901.06765 ,CORR,Unranked
+42,Progress Regression RNN for Online Spatial-Temporal Action Localization in Unconstrained Videos.,2019,"Bo Hu, Jianfei Cai, Tat-Jen Cham, Junsong Yuan",CoRR abs/1903.00304 ,CORR,Unranked
+43,Pluralistic Image Completion.,2019,"Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai",CoRR abs/1903.04227 ,CORR,Unranked
+44,Weakly-Supervised Unconstrained Action Unit Detection via Feature Disentanglement.,2019,"Zhiwen Shao, Jianfei Cai, Tat-Jen Cham, Xuequan Lu, Lizhuang Ma",CoRR abs/1903.10143 ,CORR,Unranked
+45,Visibility Constrained Generative Model for Depth-based 3D Facial Pose Tracking.,2019,"Lu Sheng, Jianfei Cai, Tat-Jen Cham, Vladimir Pavlovic, King Ngi Ngan",CoRR abs/1905.02114 ,CORR,Unranked
+46,Recovering Facial Reflectance and Geometry from Multi-view Images.,2019,"Guoxian Song, Jianmin Zheng, Jianfei Cai, Tat-Jen Cham",CoRR abs/1911.11999 ,CORR,Unranked
+47,Shading-Based Surface Detail Recovery Under General Unknown Illumination.,2018,"Di Xu, Qi Duan, Jianmin Zheng, Juyong Zhang, Jianfei Cai, Tat-Jen Cham",IEEE Trans. Pattern Anal. Mach. Intell. 40: 423-436 ,PAMI,Unranked
+48,Structure-Aware Multimodal Feature Fusion for RGB-D Scene Classification and Beyond.,2018,"Anran Wang, Jianfei Cai, Jiwen Lu, Tat-Jen Cham",ACM Trans. Multim. Comput. Commun. Appl. 14: 39:1-39:22 ,TOMCCAP,Unranked
+49,Towards Efficient 3D Calibration for Different Types of Multi-view Autostereoscopic 3D Displays.,2018,"Xinxing Xia, Yunqing Guan, Andrei State, Tat-Jen Cham, Henry Fuchs",CGI 2018: 169-174,CGI,C
+50,T ^2 2 Net: Synthetic-to-Realistic Translation for Solving Single-Image Depth Estimation Tasks.,2018,"Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai",ECCV  2018: 798-814,ECCV,A*
+51,Background Subtraction Based on Deep Pixel Distribution Learning.,2018,"Chenqiu Zhao, Tat-Jen Cham, Xinyu Ren, Jianfei Cai, Haichen Zhu",ICME 2018: 1-6,ICMCS,Unranked
+52,Real-time 3D Face-Eye Performance Capture of a Person Wearing VR Headset.,2018,"Guoxian Song, Jianfei Cai, Tat-Jen Cham, Jianmin Zheng, Juyong Zhang, Henry Fuchs",ACM Multimedia 2018: 923-931,MM,Unranked
+53,SubdSH: Subdivision-based Spherical Harmonics Field for Real-time Shading-based Refinement under Challenging Unknown Illumination.,2018,"Teng Deng, Jianmin Zheng, Jianfei Cai, Tat-Jen Cham",VCIP 2018: 1-4,VCIP,C
+54,Conditional Adversarial Synthesis of 3D Facial Action Units.,2018,"Zhilei Liu, Guoxian Song, Jianfei Cai, Tat-Jen Cham, Juyong Zhang",CoRR abs/1802.07421 ,CORR,Unranked
+55,T2Net: Synthetic-to-Realistic Translation for Solving Single-Image Depth Estimation Tasks.,2018,"Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai",CoRR abs/1808.01454 ,CORR,Unranked
+56,Multiple consumer-grade depth camera registration using everyday objects.,2017,"Teng Deng, Jianfei Cai, Tat-Jen Cham, Jianmin Zheng",Image Vis. Comput. 62: 1-7 ,IVC,Unranked
+57,A Generative Model for Depth-Based Robust 3D Facial Pose Tracking.,2017,"Lu Sheng, Jianfei Cai, Tat-Jen Cham, Vladimir Pavlovic, King Ngi Ngan",CVPR 2017: 4598-4607,CVPR,A*
+58,FaceCollage: A Rapidly Deployable System for Real-time Head Reconstruction for On-The-Go 3D Telepresence.,2017,"Fuwen Tan, Chi-Wing Fu, Teng Deng, Jianfei Cai, Tat-Jen Cham",ACM Multimedia 2017: 64-72,MM,Unranked
+59,Modality and Component Aware Feature Fusion for RGB-D Scene Classification.,2016,"Anran Wang, Jianfei Cai, Jiwen Lu, Tat-Jen Cham",CVPR 2016: 5995-6004,CVPR,A*
+60,Robust real-time performance-driven 3D face tracking.,2016,"Hai Xuan Pham, Vladimir Pavlovic, Jianfei Cai, Tat-Jen Cham",ICPR 2016: 1851-1856,ICPR,B
+61,Real-Time and Temporal-Coherent Foreground Extraction With Commodity RGBD Camera.,2015,"Mengyao Zhao, Chi-Wing Fu, Jianfei Cai, Tat-Jen Cham",IEEE J. Sel. Top. Signal Process. 9: 449-461 ,JSTSP,Unranked
+62,Scene recognition by semantic visual words.,2015,"Elahe Farahzadeh, Tat-Jen Cham, Andrzej Sluzek",Signal Image Video Process. 9: 1935-1944 ,SIVP,Unranked
+63,Unsupervised Joint Feature Learning and Encoding for RGB-D Scene Labeling.,2015,"Anran Wang, Jiwen Lu, Jianfei Cai, Gang Wang, Tat-Jen Cham",IEEE Trans. Image Process. 24: 4459-4473 ,TIP,Unranked
+64,"Kinect Depth Recovery Using a Color-Guided, Region-Adaptive, and Depth-Selective Framework.",2015,"Chongyu Chen, Jianfei Cai, Jianmin Zheng, Tat-Jen Cham, Guangming Shi",ACM Trans. Intell. Syst. Technol. 6: 12:1-12:19 ,TIST,Unranked
+65,A Unified Feature Selection Framework for Graph Embedding on High Dimensional Data.,2015,"Marcus Chen, Ivor W. Tsang, Mingkui Tan, Cham Tat Jen",IEEE Trans. Knowl. Data Eng. 27: 1465-1477 ,TKDE,Unranked
+66,Large-Margin Multi-Modal Deep Learning for RGB-D Object Recognition.,2015,"Anran Wang, Jiwen Lu, Jianfei Cai, Tat-Jen Cham, Gang Wang",IEEE Trans. Multim. 17: 1887-1898 ,TMM,Unranked
+67,Steerable second order intensity features for pedestrian detection.,2015,"Sing Kuang Tan, Tat-Jen Cham, Jianxin Wu",ACPR 2015: 311-315,ACPR,Unranked
+68,Objects co-segmentation: Propagated from simpler images.,2015,"Marcus Chen, Santiago Velasco-Forero, Ivor W. Tsang, Tat-Jen Cham",ICASSP 2015: 1682-1686,ICASSP,Unranked
+69,MMSS: Multi-modal Sharable and Specific Feature Learning for RGB-D Object Recognition.,2015,"Anran Wang, Jianfei Cai, Jiwen Lu, Tat-Jen Cham",ICCV 2015: 1125-1133,ICCV,A*
+70,Robust Performance-driven 3D Face Tracking in Long Range Depth Scenes.,2015,"Hai Xuan Pham, Chongyu Chen, Luc N. Dao, Vladimir Pavlovic, Jianfei Cai, Tat-Jen Cham",CoRR abs/1507.02779 ,CORR,Unranked
+71,Recovering Surface Details under General Unknown Illumination Using Shading and Coarse Multi-view Stereo.,2014,"Di Xu, Qi Duan, Jianming Zheng, Juyong Zhang, Jianfei Cai, Tat-Jen Cham",CVPR 2014: 1526-1533,CVPR,A*
+72,Multi-modal Unsupervised Feature Learning for RGB-D Scene Labeling.,2014,"Anran Wang, Jiwen Lu, Gang Wang, Jianfei Cai, Tat-Jen Cham",ECCV  2014: 453-467,ECCV,A*
+73,Merging Live and pre-Captured Data to support Full 3D Head Reconstruction for Telepresence.,2014,"Cédric Fleury, Tiberiu Popa, Tat-Jen Cham, Henry Fuchs",Eurographics  2014: 9-12,EUROGRAPHICS,Unranked
+74,Estimating spatial layout of rooms from RGB-D videos.,2014,"Anran Wang, Jiwen Lu, Jianfei Cai, Gang Wang, Tat-Jen Cham",MMSP 2014: 1-6,MMSP,C
+75,Kinect Shadow Detection and Classification.,2013,"Teng Deng, Hui Li, Jianfei Cai, Tat-Jen Cham, Henry Fuchs",ICCV Workshops 2013: 708-713,ICCVW,Unranked
+76,High-quality Kinect depth filtering for real-time 3D telepresence.,2013,"Mengyao Zhao, Fuwen Tan, Chi-Wing Fu, Chi-Keung Tang, Jianfei Cai, Tat-Jen Cham",ICME 2013: 1-6,ICMCS,Unranked
+77,"A color-guided, region-adaptive and depth-selective unified framework for Kinect depth recovery.",2013,"Chongyu Chen, Jianfei Cai, Jianmin Zheng, Tat-Jen Cham, Guangming Shi",MMSP 2013: 7-12,MMSP,C
+78,A Diffusion Process on Riemannian Manifold for Visual Tracking.,2013,"Marcus Chen, Cham Tat Jen, Sze Kim Pang, Alvina Goh",CoRR abs/1303.5913 ,CORR,Unranked
+79,Kinect-Based Easy 3D Object Reconstruction.,2012,"Di Xu, Jianfei Cai, Tat-Jen Cham, Philip Fu, Juyong Zhang",PCM 2012: 476-483,PCM,Unranked
+80,Visual tracking with generative template model based on Riemannian manifold of covariances.,2011,"Marcus Chen, Sze Kim Pang, Cham Tat Jen, Alvina Goh",FUSION 2011: 1-8,FUSION,C
+81,Image Relighting by Analogy.,2011,"Xiao Teng, Tat-Jen Cham",ISVC  2011: 78-89,ISVC,National
+82,Face and Human Gait Recognition Using Image-to-Class Distance.,2010,"Yi Huang, Dong Xu, Tat-Jen Cham",IEEE Trans. Circuits Syst. Video Technol. 20: 431-438 ,TCSV,Unranked
+83,Near Duplicate Identification With Spatially Aligned Pyramid Matching.,2010,"Dong Xu, Tat-Jen Cham, Shuicheng Yan, Lixin Duan, Shih-Fu Chang",IEEE Trans. Circuits Syst. Video Technol. 20: 1068-1079 ,TCSV,Unranked
+84,Estimating camera pose from a single urban ground-view omnidirectional image and a 2D building outline map.,2010,"Tat-Jen Cham, Arridhana Ciptadi, Wei-Chian Tan, Minh-Tri Pham, Liang-Tien Chia",CVPR 2010: 366-373,CVPR,A*
+85,Fast polygonal integration and its application in extending haar-like features to improve object detection.,2010,"Minh-Tri Pham, Yang Gao, Viet-Dung Hoang, Tat-Jen Cham",CVPR 2010: 942-949,CVPR,A*
+86,Detection with multi-exit asymmetric boosting.,2008,"Minh-Tri Pham, V-D. D. Hoang, Tat-Jen Cham",CVPR 2008,CVPR,A*
+87,Near duplicate image identification with patially Aligned Pyramid Matching.,2008,"Dong Xu, Tat-Jen Cham, Shuicheng Yan, Shih-Fu Chang",CVPR 2008,CVPR,A*
+88,Shadow Elimination and Blinding Light Suppression for Interactive Projected Displays.,2007,"Jay Summet, Matthew Flagg, Tat-Jen Cham, James M. Rehg, Rahul Sukthankar",IEEE Trans. Vis. Comput. Graph. 13: 508-517 ,TVCG,Unranked
+89,High Distortion and Non-Structural Image Matching via Feature Co-occurrence.,2007,"Xi Chen, Tat-Jen Cham",CVPR 2007,CVPR,A*
+90,Online Learning Asymmetric Boosted Classifiers for Object Detection.,2007,"Minh-Tri Pham, Tat-Jen Cham",CVPR 2007,CVPR,A*
+91,Fast training and selection of Haar features using statistics in boosting-based face detection.,2007,"Minh-Tri Pham, Tat-Jen Cham",ICCV 2007: 1-7,ICCV,A*
+92,Click4BuildingID@NTU: Click for Building Identification with GPS-enabled Camera Cell Phone.,2007,"Chai Kiat Yeo, Liang-Tien Chia, Tat-Jen Cham, D. Rajon",ICME 2007: 1059-1062,ICMCS,Unranked
+93,"Advances in Multimedia Modeling, 13th International Multimedia Modeling Conference, MMM 2007, Singapore, January 9-12, 2007. Proceedings, Part I.",2007,"Tat-Jen Cham, Jianfei Cai, Chitra Dorai, Deepu Rajan, Tat-Seng Chua, Liang-Tien Chia","Lecture Notes in Computer Science 4351, Springer 2007, ISBN 978-3-540-69421-2 ",MMM,B
+94,"Advances in Multimedia Modeling, 13th International Multimedia Modeling Conference, MMM 2007, Singapore, January 9-12, 2007. Proceedings, Part II.",2007,"Tat-Jen Cham, Jianfei Cai, Chitra Dorai, Deepu Rajan, Tat-Seng Chua, Liang-Tien Chia","Lecture Notes in Computer Science 4352, Springer 2007, ISBN 978-3-540-69428-1 ",MMM,B
+95,Alignment of 3D Models to Images Using Region-Based Mutual Information and Neighborhood Extended Gaussian Images.,2006,"Hon-Keat Pong, Tat-Jen Cham",ACCV  2006: 60-69,ACCV,B
+96,Object Detection Using a Cascade of 3D Models.,2006,"Hon-Keat Pong, Tat-Jen Cham",ACCV  2006: 284-293,ACCV,B
+97,Image Pre-Conditioning for Out-of-Focus Projector Blur.,2006,"Michael S. Brown, Peng Song, Tat-Jen Cham",CVPR  2006: 1956-1963,CVPR,A*
+98,Optimal Cascade Construction for Detection using 3D Models.,2006,"Hon-Keat Pong, Tat-Jen Cham",ICPR  2006: 808-811,ICPR,B
+99,Video-based Human Action Classi.cation with Ambiguous Correspondences.,2005,"Zhou Feng, Tat-Jen Cham",CVPR Workshops 2005: 82,CVPR,A*
+100,A Theory for Photometric Self-Calibration of Multiple Overlapping Projectors and Cameras.,2005,"Peng Song, Tat-Jen Cham",CVPR Workshops 2005: 97,CVPR,A*
+101,Learning Feature Distance Measures for Image Correspondences.,2005,"Xi Chen, Tat-Jen Cham",CVPR  2005: 560-567,CVPR,A*
+102,Discriminative Distance Measures for Image Matching.,2004,"Xi Chen, Tat-Jen Cham",ICPR  2004: 691-695,ICPR,B
+103,Shadow Elimination and Occluder Light Suppression for Multi-Projector Displays.,2003,"Tat-Jen Cham, James M. Rehg, Rahul Sukthankar, Gita Sukthankar",CVPR  2003: 513-520,CVPR,A*
+104,Projected light displays using visual feedback.,2002,"James M. Rehg, Matthew Flagg, Tat-Jen Cham, Rahul Sukthankar, Gita Sukthankar",ICARCV 2002: 926-932,ICARCV,C
+105,Analogous view transfer for gaze correction in video sequences.,2002,"Tat-Jen Cham, Shyam Krishnamoorthy, Michael Jones",ICARCV 2002: 1415-1420,ICARCV,C
+106,Dynamic Shadow Elimination for Multi-Projector Displays.,2001,"Rahul Sukthankar, Tat-Jen Cham, Gita Sukthankar",CVPR  2001: 151-157,CVPR,A*
+107,Reconstruction of 3-D Figure Motion from 2-D Correspondences.,2001,"David E. DiFranco, Tat-Jen Cham, James M. Rehg",CVPR  2001: 307-314,CVPR,A*
+108,Self-Calibrating Camera Projector Systems for Interactive Displays and Presentations.,2001,"Rahul Sukthankar, Tat-Jen Cham, Gita Sukthankar, James M. Rehg, David Hsu, Thomas Leung",ICCV 2001: 748,ICCV,A*
+109,A Dynamic Bayesian Network Approach to Tracking Using Learned Switching Dynamic Models.,2000,"Vladimir Pavlovic, James M. Rehg, Tat-Jen Cham",HSCC 2000: 366-380,HYBRID,Unranked
+110,Video Editing Using Figure Tracking and Image-Based Rendering.,2000,"James M. Rehg, Sing Bing Kang, Tat-Jen Cham",ICIP 2000: 17-20,ICIP,B
+111,Automated B-Spline Curve Representation Incorporating MDL and Error-Minimizing Control Point Insertion Strategies.,1999,"Tat-Jen Cham, Roberto Cipolla",IEEE Trans. Pattern Anal. Mach. Intell. 21: 49-53 ,PAMI,Unranked
+112,A Multiple Hypothesis Approach to Figure Tracking.,1999,"Tat-Jen Cham, James M. Rehg",CVPR 1999: 2239-2245,CVPR,A*
+113,A Dynamic Bayesian Network Approach to Figure Tracking using Learned Dynamic Models.,1999,"Vladimir Pavlovic, James M. Rehg, Tat-Jen Cham, Kevin P. Murphy",ICCV 1999: 94-101,ICCV,A*
+114,Dynamic Feature Ordering for Efficient Registration.,1999,"Tat-Jen Cham, James M. Rehg",ICCV 1999: 1084-1091,ICCV,A*
+115,A Statistical Framework for Long-Range Feature Matching in Uncalibrated Image Mosaicing.,1998,"Tat-Jen Cham, Roberto Cipolla",CVPR 1998: 442-447,CVPR,A*
+116,Stereo Coupled Active Contours.,1997,"Tat-Jen Cham, Roberto Cipolla",CVPR 1997: 1094-1099,CVPR,A*
+117,Automated B-Spline Curve Representation with MDL-based Active Contours.,1996,"Tat-Jen Cham, Roberto Cipolla",BMVC 1996: 1-10,BMVC,A
+118,Geometric Saliency of Curve Correspondances and Grouping of Symmetric Comntours.,1996,"Tat-Jen Cham, Roberto Cipolla",ECCV  1996: 385-398,ECCV,A*
+119,Symmetry detection through local skewed symmetries.,1995,"Tat-Jen Cham, Roberto Cipolla",Image Vis. Comput. 13: 439-450 ,IVC,Unranked
+120,Skewed Symmetry Detection Through Local Skewed Symmetries.,1994,"Tat-Jen Cham, Roberto Cipolla",BMVC 1994: 1-10,BMVC,A
+121,A local approach to recovering global skewed symmetry.,1994,"Tat-Jen Cham, Roberto Cipolla",ICPR  1994: 222-226,ICPR,B

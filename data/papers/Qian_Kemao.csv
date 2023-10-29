@@ -1,0 +1,26 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Outage Bridging and Trajectory Recovery in Visible Light Positioning Using Insufficient RSS Information.,2020,"Ran Zhang, Zichuan Liu, Kemao Qian, Sheng Zhang, Pengfei Du, Chen Chen, Arokiaswami Alphones",IEEE Access 8: 162302-162312 ,ACCESS,Unranked
+1,A Reversed Visible Light Multitarget Localization System via Sparse Matrix Reconstruction.,2018,"Ran Zhang, Wen-De Zhong, Kemao Qian, Sheng Zhang, Pengfei Du",IEEE Internet Things J. 5: 4223-4230 ,IOTJ,Unranked
+2,Learning-Based Parallax Transfer on Multispectral Light Field.,2018,"Shengyu Nan, Jie Chen, Lap-Pui Chau, Kemao Qian",DSP 2018: 1-4,ICDSP,Unranked
+3,Real-Time Texture-less Object Recognition on Mobile Devices.,2018,"Jacob Chan, Jimmy Addison Lee, Qian Kemao",ICPR 2018: 3273-3278,ICPR,B
+4,Image Sensor Based Visible Light Positioning System With Improved Positioning Algorithm.,2017,"Ran Zhang, Wen-De Zhong, Kemao Qian, Dehao Wu",IEEE Access 5: 6087-6094 ,ACCESS,Unranked
+5,Modeling and dynamics simulation for deformable objects of orthotropic materials.,2017,"Jianping Cai, Feng Lin, Yong Tsui Lee, Kemao Qian, Hock Soon Seah",Vis. Comput. 33: 1307-1318 ,VC,Unranked
+6,BIND: Binary Integrated Net Descriptors for Texture-Less Object Recognition.,2017,"Jacob Chan, Jimmy Addison Lee, Qian Kemao",CVPR 2017: 3020-3028,CVPR,A*
+7,Regenerated Phase-Shifted Sinusoid-Assisted Empirical Mode Decomposition.,2016,"Chenxing Wang, Qian Kemao, Feipeng Da",IEEE Signal Process. Lett. 23: 556-560 ,SPL,Unranked
+8,F-SORT: An Alternative for Faster Geometric Verification.,2016,"Jacob Chan, Jimmy Addison Lee, Kemao Qian",ACCV  2016: 385-399,ACCV,B
+9,BORDER: An Oriented Rectangles Approach to Texture-Less Object Recognition.,2016,"Jacob Chan, Jimmy Addison Lee, Kemao Qian",CVPR 2016: 2855-2863,CVPR,A*
+10,A Novel Sensor Fusion Based Indoor Visible Light Positioning System.,2016,"Ran Zhang, Wen-De Zhong, Dehao Wu, Kemao Qian",GLOBECOM Workshops 2016: 1-6,GLOBECOM,B
+11,An accurate and efficient sampling algorithm for capacitive touch panels.,2016,"Humza Akhtar, Qian Kemao",I2MTC 2016: 1-6,I2MTC,Unranked
+12,Simulation and Visualization of Deformation with Anisotropic Materials.,2015,"Jianping Cai, Feng Lin, Kemao Qian, Yong Tsui Lee, Seah Hock Soon",IV 2015: 392-402,IV,C
+13,A heterogeneous computing system for coupling 3D endomicroscopy with volume rendering in real-time image visualization.,2014,"Wei Ming Chiew, Feng Lin, Kemao Qian, Hock Soon Seah",Comput. Ind. 65: 367-381 ,CII,Unranked
+14,Oriented boundary padding for iterative and oriented fringe pattern denoising techniques.,2014,"Haixia Wang, Qian Kemao, Ronghua Liang, Huayin Wang, Ming Zhao, Xiaofei He",Signal Process. 102: 112-121 ,SIGPRO,Unranked
+15,Visual Analysis with Dynamic Geometric Complementarity and Physicochemical Matching in Protein Docking.,2014,"Hui Liu, Feng Lin, Kemao Qian, Hock Soon Seah, Yong Tsui Lee",IV 2014: 315-320,IV,C
+16,Incorporating Fiber Controls into FEM Model for Transversely Isotropic Materials.,2014,"Jianping Cai, Feng Lin, Yong Tsui Lee, Kemao Qian, Hock Soon Seah",PG  2014,PG,Journal Published
+17,Coupling between Meshless FEM Modeling and Rendering on GPU for Real-time Physically-based Volumetric Deformation.,2012,"Muhammad Mobeen Movania, Feng Lin, Kemao Qian, Wei Ming Chiew, Hock Soon Seah",J. WSCG 20: 1-10 ,JWSCG,Unranked
+18,Demons Kernel Computation with Single-pass Stream Processing on FPGA.,2012,"Wei Ming Chiew, Feng Lin, Kemao Qian, Hock Soon Seah",HPCC-ICESS 2012: 1321-1328,HPCC,C
+19,Embedded Computing for Fluorescence Confocal Endomicroscopy Imaging.,2009,"Lee Sing Cheong, Feng Lin, Hock Soon Seah, Kemao Qian, Feng Zhao, Patricia S. P. Thong, Khee Chee Soo, Malini Olivo, Sun-Yuan Kung",J. Signal Process. Syst. 55: 217-228 ,VLSISP,Unranked
+20,Automated Local Adaptive Thresholding for Real-time Feature Detection and Rendering of 3D Endomicroscopic Images on GPU.,2009,"Muhammad Mobeen Movania, Feng Lin, Kemao Qian, Hock Soon Seah",CGVR 2009: 10-16,CGVR,Unranked
+21,Synchronized Volumetric Cell Image Acquisition with FPGA-Controlled Endomicroscope.,2009,"Stephanus Surijadarma Tandjung, Feng Zhao, Feng Lin, Kemao Qian, Hock Soon Seah",ESA 2009: 61-67,CSREAESA,Unranked
+22,Feature-based registration of confocal fluorescence endomicroscopy images.,2009,"Feng Zhao, Feng Lin, Kemao Qian, Hock Soon Seah, Sun-Yuan Kung",ICIP 2009: 2517-2520,ICIP,B
+23,A NURBS Volume Based Mass-spring Model for Real-time Simulation through its GPU Implementation.,2009,"Sandeep Menon, Feng Lin, Kemao Qian, Hock Soon Seah",MSV 2009: 111-120,MSV,Unranked
+24,Block Motion Model for Optical Flow with Smoothness Prior Function.,2006,"Stephanus Surijadarma Tandjung, Seah Hock Soon, Kemao Qian",ICARCV 2006: 1-6,ICARCV,C

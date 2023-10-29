@@ -1,0 +1,232 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,LCReg: Long-tailed image classification with Latent Categories based Recognition.,2024,"Weide Liu, Zhonghua Wu, Yiming Wang, Henghui Ding, Fayao Liu, Jie Lin, Guosheng Lin",Pattern Recognit. 145: 109971 ,PR,Unranked
+1,Learning Structural Representations for Recipe Generation and Food Retrieval.,2023,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",IEEE Trans. Pattern Anal. Mach. Intell. 45: 3363-3377 ,PAMI,Unranked
+2,DeepEMD: Differentiable Earth Mover's Distance for Few-Shot Learning.,2023,"Chi Zhang, Yujun Cai, Guosheng Lin, Chunhua Shen",IEEE Trans. Pattern Anal. Mach. Intell. 45: 5632-5648 ,PAMI,Unranked
+3,Depth and Video Segmentation Based Visual Attention for Embodied Question Answering.,2023,"Haonan Luo, Guosheng Lin, Yazhou Yao, Fayao Liu, Zichuan Liu, Zhenmin Tang",IEEE Trans. Pattern Anal. Mach. Intell. 45: 6807-6819 ,PAMI,Unranked
+4,Unsupervised 3D Pose Transfer With Cross Consistency and Dual Reconstruction.,2023,"Chaoyue Song, Jiacheng Wei, Ruibo Li, Fayao Liu, Guosheng Lin",IEEE Trans. Pattern Anal. Mach. Intell. 45: 10488-10499 ,PAMI,Unranked
+5,Contrastive Generative Network with Recursive-Loop for 3D point cloud generalized zero-shot classification.,2023,"Yun Hao, Yukun Su, Guosheng Lin, Hanjing Su, Qingyao Wu",Pattern Recognit. 144: 109843 ,PR,Unranked
+6,Improving Tail-Class Representation with Centroid Contrastive Learning.,2023,"Anthony Meng Huat Tiong, Junnan Li, Guosheng Lin, Boyang Li, Caiming Xiong, Steven C. H. Hoi",Pattern Recognit. Lett. 168: 123-130 ,PRL,Unranked
+7,Self-Training Vision Language BERTs With a Unified Conditional Model.,2023,"Xiaofeng Yang, Fengmao Lv, Fayao Liu, Guosheng Lin",IEEE Trans. Circuits Syst. Video Technol. 33: 3560-3569 ,TCSV,Unranked
+8,Efficient Few-Shot Object Detection via Knowledge Inheritance.,2023,"Ze Yang, Chi Zhang, Ruibo Li, Yi Xu, Guosheng Lin",IEEE Trans. Image Process. 32: 321-334 ,TIP,Unranked
+9,Single-View 3D Mesh Reconstruction for Seen and Unseen Categories.,2023,"Xianghui Yang, Guosheng Lin, Luping Zhou",IEEE Trans. Image Process. 32: 3746-3758 ,TIP,Unranked
+10,Semantic Consistent Embedding for Domain Adaptive Zero-Shot Learning.,2023,"Jianyang Zhang, Guowu Yang, Ping Hu, Guosheng Lin, Fengmao Lv",IEEE Trans. Image Process. 32: 4024-4035 ,TIP,Unranked
+11,Cross-Image Region Mining With Region Prototypical Network for Weakly Supervised Segmentation.,2023,"Weide Liu, Xiangfei Kong, Tzu-Yi Hung, Guosheng Lin",IEEE Trans. Multim. 25: 1148-1160 ,TMM,Unranked
+12,3D Cinemagraphy from a Single Image.,2023,"Xingyi Li, Zhiguo Cao, Huiqiang Sun, Jianming Zhang, Ke Xian, Guosheng Lin",CVPR 2023: 4595-4605,CVPR,A*
+13,Neural Vector Fields: Implicit Representation by Explicit Learning.,2023,"Xianghui Yang, Guosheng Lin, Zhenghao Chen, Luping Zhou",CVPR 2023: 16727-16738,CVPR,A*
+14,TAPS3D: Text-Guided 3D Textured Shape Generation from Pseudo Supervision.,2023,"Jiacheng Wei, Hao Wang, Jiashi Feng, Guosheng Lin, Kim-Hui Yap",CVPR 2023: 16805-16815,CVPR,A*
+15,Weakly Supervised Class-agnostic Motion Prediction for Autonomous Driving.,2023,"Ruibo Li, Hanyu Shi, Ziang Fu, Zhe Wang, Guosheng Lin",CVPR 2023: 17599-17608,CVPR,A*
+16,Iterative Refinement for Multi-Source Visual Domain Adaptation (Extended abstract).,2023,"Hanrui Wu, Yuguang Yan, Guosheng Lin, Min Yang, Michael K. Ng, Qingyao Wu",ICDE 2023: 3829-3830,ICDE,A*
+17,Effective End-to-End Vision Language Pretraining with Semantic Visual Loss.,2023,"Xiaofeng Yang, Fayao Liu, Guosheng Lin",CoRR abs/2301.07236 ,CORR,Unranked
+18,Neural Vector Fields: Implicit Representation by Explicit Learning.,2023,"Xianghui Yang, Guosheng Lin, Zhenghao Chen, Luping Zhou",CoRR abs/2303.04341 ,CORR,Unranked
+19,Reliability-Adaptive Consistency Regularization for Weakly-Supervised Point Cloud Segmentation.,2023,"Zhonghua Wu, Yicheng Wu, Guosheng Lin, Jianfei Cai",CoRR abs/2303.05164 ,CORR,Unranked
+20,3D Cinemagraphy from a Single Image.,2023,"Xingyi Li, Zhiguo Cao, Huiqiang Sun, Jianming Zhang, Ke Xian, Guosheng Lin",CoRR abs/2303.05724 ,CORR,Unranked
+21,TAPS3D: Text-Guided 3D Textured Shape Generation from Pseudo Supervision.,2023,"Jiacheng Wei, Hao Wang, Jiashi Feng, Guosheng Lin, Kim-Hui Yap",CoRR abs/2303.13273 ,CORR,Unranked
+22,Harmonizing Base and Novel Classes: A Class-Contrastive Approach for Generalized Few-Shot Segmentation.,2023,"Weide Liu, Zhonghua Wu, Yang Zhao, Yuming Fang, Chuan-Sheng Foo, Jun Cheng, Guosheng Lin",CoRR abs/2303.13724 ,CORR,Unranked
+23,StarNet: Style-Aware 3D Point Cloud Generation.,2023,"Yunfan Zhang, Hao Wang, Guosheng Lin, Vun Chan Hua Nicholas, Zhiqi Shen, Chunyan Miao",CoRR abs/2303.15805 ,CORR,Unranked
+24,MoDA: Modeling Deformable 3D Objects from Casual Videos.,2023,"Chaoyue Song, Tianyi Chen, Yiwen Chen, Jiacheng Wei, Chuan Sheng Foo, Fayao Liu, Guosheng Lin",CoRR abs/2304.08279 ,CORR,Unranked
+25,OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields.,2023,"Youtan Yin, Zhoujie Fu, Fan Yang, Guosheng Lin",CoRR abs/2305.10503 ,CORR,Unranked
+26,StyleAvatar3D: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation.,2023,"Chi Zhang, Yiwen Chen, Yijun Fu, Zhenglin Zhou, Gang Yu, Billzb Wang, Bin Fu, Tao Chen, Guosheng Lin, Chunhua Shen",CoRR abs/2305.19012 ,CORR,Unranked
+27,Neural Video Depth Stabilizer.,2023,"Yiran Wang, Min Shi, Jiaqi Li, Zihao Huang, Zhiguo Cao, Jianming Zhang, Ke Xian, Guosheng Lin",CoRR abs/2307.08695 ,CORR,Unranked
+28,Weakly Supervised 3D Instance Segmentation without Instance-level Annotations.,2023,"Shichao Dong, Guosheng Lin",CoRR abs/2308.01721 ,CORR,Unranked
+29,Self-Calibrated Cross Attention Network for Few-Shot Segmentation.,2023,"Qianxiong Xu, Wenting Zhao, Guosheng Lin, Cheng Long",CoRR abs/2308.09294 ,CORR,Unranked
+30,Unlimited Knowledge Distillation for Action Recognition in the Dark.,2023,"Ruibing Jin, Guosheng Lin, Min Wu, Jie Lin, Zhengguo Li, Xiaoli Li, Zhenghua Chen",CoRR abs/2308.09327 ,CORR,Unranked
+31,StableLLaVA: Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data.,2023,"Yanda Li, Chi Zhang, Gang Yu, Zhibin Wang, Bin Fu, Guosheng Lin, Chunhua Shen, Ling Chen, Yunchao Wei",CoRR abs/2308.10253 ,CORR,Unranked
+32,Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image.,2023,"Liao Shen, Xingyi Li, Huiqiang Sun, Juewen Peng, Ke Xian, Zhiguo Cao, Guosheng Lin",CoRR abs/2308.10257 ,CORR,Unranked
+33,IT3D: Improved Text-to-3D Generation with Explicit View Synthesis.,2023,"Yiwen Chen, Chi Zhang, Xiaofeng Yang, Zhongang Cai, Gang Yu, Lei Yang, Guosheng Lin",CoRR abs/2308.11473 ,CORR,Unranked
+34,Improving Video Violence Recognition with Human Interaction Learning on 3D Skeleton Point Clouds.,2023,"Yukun Su, Guosheng Lin, Qingyao Wu",CoRR abs/2308.13866 ,CORR,Unranked
+35,Neural Vector Fields: Generalizing Distance Vector Fields by Codebooks and Zero-Curl Regularization.,2023,"Xianghui Yang, Guosheng Lin, Zhenghao Chen, Luping Zhou",CoRR abs/2309.01512 ,CORR,Unranked
+36,LCReg: Long-Tailed Image Classification with Latent Categories based Recognition.,2023,"Weide Liu, Zhonghua Wu, Yiming Wang, Henghui Ding, Fayao Liu, Jie Lin, Guosheng Lin",CoRR abs/2309.07186 ,CORR,Unranked
+37,CRCNet: Few-Shot Segmentation with Cross-Reference and Region-Global Conditional Networks.,2022,"Weide Liu, Chi Zhang, Guosheng Lin, Fayao Liu",Int. J. Comput. Vis. 130: 3140-3157 ,IJCV,Unranked
+38,Learning language to symbol and language to vision mapping for visual grounding.,2022,"Su He, Xiaofeng Yang, Guosheng Lin",Image Vis. Comput. 122: 104451 ,IVC,Unranked
+39,Online Active Proposal Set Generation for weakly supervised object detection.,2022,"Ruibing Jin, Guosheng Lin, Changyun Wen",Knowl. Based Syst. 237: 107726 ,KBS,Unranked
+40,Tackling background ambiguities in multi-class few-shot point cloud semantic segmentation.,2022,"Lvlong Lai, Jian Chen, Chi Zhang, Zehong Zhang, Guosheng Lin, Qingyao Wu",Knowl. Based Syst. 253: 109508 ,KBS,Unranked
+41,Feature flow: In-network feature flow estimation for video object detection.,2022,"Ruibing Jin, Guosheng Lin, Changyun Wen, Jianliang Wang, Fayao Liu",Pattern Recognit. 122: 108323 ,PR,Unranked
+42,Decomposing generation networks with structure prediction for recipe generation.,2022,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",Pattern Recognit. 126: 108578 ,PR,Unranked
+43,Dense Semantics-Assisted Networks for Video Action Recognition.,2022,"Haonan Luo, Guosheng Lin, Yazhou Yao, Zhenmin Tang, Qingyao Wu, Xiansheng Hua",IEEE Trans. Circuits Syst. Video Technol. 32: 3073-3084 ,TCSV,Unranked
+44,Cross-Modal Graph With Meta Concepts for Video Captioning.,2022,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",IEEE Trans. Image Process. 31: 5150-5162 ,TIP,Unranked
+45,Iterative Refinement for Multi-Source Visual Domain Adaptation.,2022,"Hanrui Wu, Yuguang Yan, Guosheng Lin, Min Yang, Michael K. Ng, Qingyao Wu",IEEE Trans. Knowl. Data Eng. 34: 2810-2823 ,TKDE,Unranked
+46,Point Discriminative Learning for Data-efficient 3D Point Cloud Analysis.,2022,"Fayao Liu, Guosheng Lin, Chuan-Sheng Foo, Chaitanya K. Joshi, Jie Lin",3DV 2022: 42-51,3DIM,Unranked
+47,Self-Supervised Object Localization with Joint Graph Partition.,2022,"Yukun Su, Guosheng Lin, Yun Hao, Yiwen Cao, Wenjun Wang, Qingyao Wu",AAAI 2022: 2289-2297,AAAI,A*
+48,SymmNeRF: Learning to Explore Symmetry Prior for Single-View View Synthesis.,2022,"Xingyi Li, Chaoyi Hong, Yiran Wang, Zhiguo Cao, Ke Xian, Guosheng Lin",ACCV  2022: 228-244,ACCV,B
+49,Weakly Supervised Segmentation on Outdoor 4D point clouds with Temporal Matching and Spatial Graph Propagation.,2022,"Hanyu Shi, Jiacheng Wei, Ruibo Li, Fayao Liu, Guosheng Lin",CVPR 2022: 11830-11839,CVPR,A*
+50,Expanding Large Pre-trained Unimodal Models with Multimodal Information Injection for Image-Text Multimodal Classification.,2022,"Tao Liang, Guosheng Lin, Mingyang Wan, Tianrui Li, Guojun Ma, Fengmao Lv",CVPR 2022: 15471-15480,CVPR,A*
+51,RigidFlow: Self-Supervised Scene Flow Learning on Point Clouds by Local Rigidity Prior.,2022,"Ruibo Li, Chi Zhang, Guosheng Lin, Zhe Wang, Chunhua Shen",CVPR 2022: 16938-16947,CVPR,A*
+52,Learning Regional Purity for Instance Segmentation on 3D Point Clouds.,2022,"Shichao Dong, Guosheng Lin, Tzu-Yi Hung",ECCV  2022: 56-72,ECCV,A*
+53,Dual Adaptive Transformations for Weakly Supervised Point Cloud Segmentation.,2022,"Zhonghua Wu, Yicheng Wu, Guosheng Lin, Jianfei Cai, Chen Qian",ECCV  2022: 78-96,ECCV,A*
+54,Dynamically Transformed Instance Normalization Network for Generalizable Person Re-Identification.,2022,"Bingliang Jiao, Lingqiao Liu, Liying Gao, Guosheng Lin, Lu Yang, Shizhou Zhang, Peng Wang, Yanning Zhang",ECCV  2022: 285-301,ECCV,A*
+55,General Object Pose Transformation Network from Unpaired Data.,2022,"Yukun Su, Guosheng Lin, Ruizhou Sun, Qingyao Wu",ECCV  2022: 292-310,ECCV,A*
+56,IntegratedPIFu: Integrated Pixel Aligned Implicit Function for Single-View Human Reconstruction.,2022,"Kennard Yanting Chan, Guosheng Lin, Haiyu Zhao, Weisi Lin",ECCV  2022: 328-344,ECCV,A*
+57,Paired Cross-Modal Data Augmentation for Fine-Grained Image-to-Text Retrieval.,2022,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",ACM Multimedia 2022: 5517-5526,MM,Unranked
+58,Few-shot Open-set Recognition Using Background as Unknowns.,2022,"Nan Song, Chi Zhang, Guosheng Lin",ACM Multimedia 2022: 5970-5979,MM,Unranked
+59,S-PIFu: Integrating Parametric Human Models with PIFu for Single-view Clothed Human Reconstruction.,2022,"Kennard Yanting Chan, Guosheng Lin, Haiyu Zhao, Weisi Lin",NeurIPS 2022,NIPS,Unranked
+60,Indoor Smartphone SLAM with Learned Echoic Location Features.,2022,"Wenjie Luo, Qun Song, Zhenyu Yan, Rui Tan, Guosheng Lin",SenSys 2022: 489-503,SENSYS,A*
+61,Self-Training Vision Language BERTs with a Unified Conditional Model.,2022,"Xiaofeng Yang, Fengmao Lv, Fayao Liu, Guosheng Lin",CoRR abs/2201.02010 ,CORR,Unranked
+62,"A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection.",2022,"Yukun Su, Jingliang Deng, Ruizhou Sun, Guosheng Lin, Qingyao Wu",CoRR abs/2203.04708 ,CORR,Unranked
+63,Efficient Few-Shot Object Detection via Knowledge Inheritance.,2022,"Ze Yang, Chi Zhang, Ruibo Li, Guosheng Lin",CoRR abs/2203.12224 ,CORR,Unranked
+64,Long-tailed Recognition by Learning from Latent Categories.,2022,"Weide Liu, Zhonghua Wu, Yiming Wang, Henghui Ding, Fayao Liu, Jie Lin, Guosheng Lin",CoRR abs/2206.01010 ,CORR,Unranked
+65,Learning Spatial and Temporal Variations for 4D Point Cloud Segmentation.,2022,"Hanyu Shi, Jiacheng Wei, Hao Wang, Fayao Liu, Guosheng Lin",CoRR abs/2207.04673 ,CORR,Unranked
+66,Few-shot Open-set Recognition Using Background as Unknowns.,2022,"Nan Song, Chi Zhang, Guosheng Lin",CoRR abs/2207.09059 ,CORR,Unranked
+67,Dual Adaptive Transformations for Weakly Supervised Point Cloud Segmentation.,2022,"Zhonghua Wu, Yicheng Wu, Guosheng Lin, Jianfei Cai, Chen Qian",CoRR abs/2207.09084 ,CORR,Unranked
+68,3D Cartoon Face Generation with Controllable Expressions from a Single GAN Image.,2022,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",CoRR abs/2207.14425 ,CORR,Unranked
+69,Paired Cross-Modal Data Augmentation for Fine-Grained Image-to-Text Retrieval.,2022,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",CoRR abs/2207.14428 ,CORR,Unranked
+70,ZeroMesh: Zero-shot Single-view 3D Mesh Reconstruction.,2022,"Xianghui Yang, Guosheng Lin, Luping Zhou",CoRR abs/2208.02676 ,CORR,Unranked
+71,RWSeg: Cross-graph Competing Random Walks for Weakly Supervised 3D Instance Segmentation.,2022,"Shichao Dong, Ruibo Li, Jiacheng Wei, Fayao Liu, Guosheng Lin",CoRR abs/2208.05110 ,CORR,Unranked
+72,CRCNet: Few-shot Segmentation with Cross-Reference and Region-Global Conditional Networks.,2022,"Weide Liu, Chi Zhang, Guosheng Lin, Fayao Liu",CoRR abs/2208.10761 ,CORR,Unranked
+73,SymmNeRF: Learning to Explore Symmetry Prior for Single-View View Synthesis.,2022,"Xingyi Li, Chaoyi Hong, Yiran Wang, Zhiguo Cao, Ke Xian, Guosheng Lin",CoRR abs/2209.14819 ,CORR,Unranked
+74,ManiCLIP: Multi-Attribute Face Manipulation from Text.,2022,"Hao Wang, Guosheng Lin, Ana Garcia del Molino, Anran Wang, Zehuan Yuan, Chunyan Miao, Jiashi Feng",CoRR abs/2210.00445 ,CORR,Unranked
+75,Indoor Smartphone SLAM with Learned Echoic Location Features.,2022,"Wenjie Luo, Qun Song, Zhenyu Yan, Rui Tan, Guosheng Lin",CoRR abs/2210.08493 ,CORR,Unranked
+76,IntegratedPIFu: Integrated Pixel Aligned Implicit Function for Single-view Human Reconstruction.,2022,"Kennard Yanting Chan, Guosheng Lin, Haiyu Zhao, Weisi Lin",CoRR abs/2211.07955 ,CORR,Unranked
+77,Unsupervised 3D Pose Transfer with Cross Consistency and Dual Reconstruction.,2022,"Chaoyue Song, Jiacheng Wei, Ruibo Li, Fayao Liu, Guosheng Lin",CoRR abs/2211.10278 ,CORR,Unranked
+78,Generalizable Person Re-Identification via Viewpoint Alignment and Fusion.,2022,"Bingliang Jiao, Lingqiao Liu, Liying Gao, Guosheng Lin, Ruiqi Wu, Shizhou Zhang, Peng Wang, Yanning Zhang",CoRR abs/2212.02398 ,CORR,Unranked
+79,"CNN-Based RGB-D Salient Object Detection: Learn, Select, and Fuse.",2021,"Hao Chen, Youfu Li, Yongjian Deng, Guosheng Lin",Int. J. Comput. Vis. 129: 2076-2096 ,IJCV,Unranked
+80,Graph neural network for 6D object pose estimation.,2021,"Pengshuai Yin, Jiayong Ye, Guosheng Lin, Qingyao Wu",Knowl. Based Syst. 218: 106839 ,KBS,Unranked
+81,Few-shot fine-grained classification with Spatial Attentive Comparison.,2021,"Xiaoqian Ruan, Guosheng Lin, Cheng Long, Shengli Lu",Knowl. Based Syst. 218: 106840 ,KBS,Unranked
+82,Guided Co-Segmentation Network for Fast Video Object Segmentation.,2021,"Weide Liu, Guosheng Lin, Tianyi Zhang, Zichuan Liu",IEEE Trans. Circuits Syst. Video Technol. 31: 1607-1617 ,TCSV,Unranked
+83,Weakly-Supervised Cross-Domain Road Scene Segmentation via Multi-Level Curriculum Adaptation.,2021,"Fengmao Lv, Guosheng Lin, Peng Liu, Guowu Yang, Sinno Jialin Pan, Lixin Duan",IEEE Trans. Circuits Syst. Video Technol. 31: 3493-3503 ,TCSV,Unranked
+84,On Lightweight Privacy-preserving Collaborative Learning for Internet of Things by Independent Random Projections.,2021,"Linshan Jiang, Rui Tan, Xin Lou, Guosheng Lin",ACM Trans. Internet Things 2: 11:1-11:32 ,TIOT,Unranked
+85,CycleSegNet: Object Co-Segmentation With Cycle Refinement and Region Correspondence.,2021,"Chi Zhang, Guankai Li, Guosheng Lin, Qingyao Wu, Rui Yao",IEEE Trans. Image Process. 30: 5652-5664 ,TIP,Unranked
+86,Progressive Self-Guided Loss for Salient Object Detection.,2021,"Sheng Yang, Weisi Lin, Guosheng Lin, Qiuping Jiang, Zichuan Liu",IEEE Trans. Image Process. 30: 8426-8438 ,TIP,Unranked
+87,HCRF-Flow: Scene Flow From Point Clouds With Continuous High-Order CRFs and Position-Aware Flow Embedding.,2021,"Ruibo Li, Guosheng Lin, Tong He, Fayao Liu, Chunhua Shen",CVPR 2021: 364-373,CVPR,A*
+88,Progressive Modality Reinforcement for Human Multimodal Emotion Recognition From Unaligned Multimodal Sequences.,2021,"Fengmao Lv, Xiang Chen, Yanyong Huang, Lixin Duan, Guosheng Lin",CVPR 2021: 2554-2562,CVPR,A*
+89,CT-Net: Complementary Transfering Network for Garment Transfer With Arbitrary Geometric Changes.,2021,"Fan Yang, Guosheng Lin",CVPR 2021: 9899-9908,CVPR,A*
+90,Few-Shot Incremental Learning With Continually Evolved Classifiers.,2021,"Chi Zhang, Nan Song, Guosheng Lin, Yun Zheng, Pan Pan, Yinghui Xu",CVPR 2021: 12455-12464,CVPR,A*
+91,Self-Point-Flow: Self-Supervised Scene Flow Estimation From Point Clouds With Optimal Transport and Random Walk.,2021,"Ruibo Li, Guosheng Lin, Lihua Xie",CVPR 2021: 15577-15586,CVPR,A*
+92,Learning Meta-class Memory for Few-Shot Semantic Segmentation.,2021,"Zhonghua Wu, Xiangxi Shi, Guosheng Lin, Jianfei Cai",ICCV 2021: 497-506,ICCV,A*
+93,Context Decoupling Augmentation for Weakly Supervised Semantic Segmentation.,2021,"Yukun Su, Ruizhou Sun, Guosheng Lin, Qingyao Wu",ICCV 2021: 6984-6994,ICCV,A*
+94,Attention is not Enough: Mitigating the Distribution Discrepancy in Asynchronous Multimodal Sequence Fusion.,2021,"Tao Liang, Guosheng Lin, Lei Feng, Yan Zhang, Fengmao Lv",ICCV 2021: 8128-8136,ICCV,A*
+95,Meta Navigator: Search for a Good Adaptation Policy for Few-shot Learning.,2021,"Chi Zhang, Henghui Ding, Guosheng Lin, Ruibo Li, Changhu Wang, Chunhua Shen",ICCV 2021: 9415-9424,ICCV,A*
+96,Self-supervised 3D Skeleton Action Representation Learning with Motion Consistency and Continuity.,2021,"Yukun Su, Guosheng Lin, Qingyao Wu",ICCV 2021: 13308-13318,ICCV,A*
+97,Cycle-Consistent Inverse GAN for Text-to-Image Synthesis.,2021,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",ACM Multimedia 2021: 630-638,MM,Unranked
+98,Modeling the Uncertainty for Self-supervised 3D Skeleton Action Representation Learning.,2021,"Yukun Su, Guosheng Lin, Ruizhou Sun, Yun Hao, Qingyao Wu",ACM Multimedia 2021: 769-778,MM,Unranked
+99,MV-TON: Memory-based Video Virtual Try-on network.,2021,"Xiaojing Zhong, Zhonghua Wu, Taizhe Tan, Guosheng Lin, Qingyao Wu",ACM Multimedia 2021: 908-916,MM,Unranked
+100,3D Pose Transfer with Correspondence Learning and Mesh Refinement.,2021,"Chaoyue Song, Jiacheng Wei, Ruibo Li, Fayao Liu, Guosheng Lin",NeurIPS 2021: 3108-3120,NIPS,Unranked
+101,CycleSegNet: Object Co-segmentation with Cycle Refinement and Region Correspondence.,2021,"Guankai Li, Chi Zhang, Guosheng Lin",CoRR abs/2101.01308 ,CORR,Unranked
+102,Progressive Self-Guided Loss for Salient Object Detection.,2021,"Sheng Yang, Weisi Lin, Guosheng Lin, Qiuping Jiang, Zichuan Liu",CoRR abs/2101.02412 ,CORR,Unranked
+103,Online Active Proposal Set Generation for Weakly Supervised Object Detection.,2021,"Ruibing Jin, Guosheng Lin, Changyun Wen",CoRR abs/2101.07929 ,CORR,Unranked
+104,Context Decoupling Augmentation for Weakly Supervised Semantic Segmentation.,2021,"Yukun Su, Ruizhou Sun, Guosheng Lin, Qingyao Wu",CoRR abs/2103.01795 ,CORR,Unranked
+105,Few-Shot Incremental Learning with Continually Evolved Classifiers.,2021,"Chi Zhang, Nan Song, Guosheng Lin, Yun Zheng, Pan Pan, Yinghui Xu",CoRR abs/2104.03047 ,CORR,Unranked
+106,CT-Net: Complementary Transfering Network for Garment Transfer with Arbitrary Geometric Changes.,2021,"Fan Yang, Guosheng Lin",CoRR abs/2105.05497 ,CORR,Unranked
+107,HCRF-Flow: Scene Flow from Point Clouds with Continuous High-order CRFs and Position-aware Flow Embedding.,2021,"Ruibo Li, Guosheng Lin, Tong He, Fayao Liu, Chunhua Shen",CoRR abs/2105.07751 ,CORR,Unranked
+108,Self-Point-Flow: Self-Supervised Scene Flow Estimation from Point Clouds with Optimal Transport and Random Walk.,2021,"Ruibo Li, Guosheng Lin, Lihua Xie",CoRR abs/2105.08248 ,CORR,Unranked
+109,Dense Supervision Propagation for Weakly Supervised Semantic Segmentation on 3D Point Clouds.,2021,"Jiacheng Wei, Guosheng Lin, Kim-Hui Yap, Fayao Liu, Tzu-Yi Hung",CoRR abs/2107.11267 ,CORR,Unranked
+110,Remember What You have drawn: Semantic Image Manipulation with Memory.,2021,"Xiangxi Shi, Zhonghua Wu, Guosheng Lin, Jianfei Cai, Shafiq R. Joty",CoRR abs/2107.12579 ,CORR,Unranked
+111,Cycle-Consistent Inverse GAN for Text-to-Image Synthesis.,2021,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",CoRR abs/2108.01361 ,CORR,Unranked
+112,Point Discriminative Learning for Unsupervised Representation Learning on 3D Point Clouds.,2021,"Fayao Liu, Guosheng Lin, Chuan-Sheng Foo",CoRR abs/2108.02104 ,CORR,Unranked
+113,M2IOSR: Maximal Mutual Information Open Set Recognition.,2021,"Xin Sun, Henghui Ding, Chi Zhang, Guosheng Lin, Keck Voon Ling",CoRR abs/2108.02373 ,CORR,Unranked
+114,Learning Meta-class Memory for Few-Shot Semantic Segmentation.,2021,"Zhonghua Wu, Xiangxi Shi, Guosheng Lin, Jianfei Cai",CoRR abs/2108.02958 ,CORR,Unranked
+115,Few-Shot Segmentation with Global and Local Contrastive Learning.,2021,"Weide Liu, Zhonghua Wu, Henghui Ding, Fayao Liu, Jie Lin, Guosheng Lin",CoRR abs/2108.05293 ,CORR,Unranked
+116,Cross-Modal Graph with Meta Concepts for Video Captioning.,2021,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",CoRR abs/2108.06458 ,CORR,Unranked
+117,Cross-Image Region Mining with Region Prototypical Network for Weakly Supervised Segmentation.,2021,"Weide Liu, Xiangfei Kong, Tzu-Yi Hung, Guosheng Lin",CoRR abs/2108.07413 ,CORR,Unranked
+118,MV-TON: Memory-based Video Virtual Try-on network.,2021,"Xiaojing Zhong, Zhonghua Wu, Taizhe Tan, Guosheng Lin, Qingyao Wu",CoRR abs/2108.07502 ,CORR,Unranked
+119,Few-shot Segmentation with Optimal Transport Matching and Message Flow.,2021,"Weide Liu, Chi Zhang, Henghui Ding, Tzu-Yi Hung, Guosheng Lin",CoRR abs/2108.08518 ,CORR,Unranked
+120,Calibrating Class Activation Maps for Long-Tailed Visual Recognition.,2021,"Chi Zhang, Guosheng Lin, Lvlong Lai, Henghui Ding, Qingyao Wu",CoRR abs/2108.12757 ,CORR,Unranked
+121,Meta Navigator: Search for a Good Adaptation Policy for Few-shot Learning.,2021,"Chi Zhang, Henghui Ding, Guosheng Lin, Ruibo Li, Changhu Wang, Chunhua Shen",CoRR abs/2109.05749 ,CORR,Unranked
+122,3D Pose Transfer with Correspondence Learning and Mesh Refinement.,2021,"Chaoyue Song, Jiacheng Wei, Ruibo Li, Fayao Liu, Guosheng Lin",CoRR abs/2109.15025 ,CORR,Unranked
+123,Learning Structural Representations for Recipe Generation and Food Retrieval.,2021,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",CoRR abs/2110.01209 ,CORR,Unranked
+124,Improving Tail-Class Representation with Centroid Contrastive Learning.,2021,"Anthony Meng Huat Tiong, Junnan Li, Guosheng Lin, Boyang Li, Caiming Xiong, Steven C. H. Hoi",CoRR abs/2110.10048 ,CORR,Unranked
+125,Bottom-Up Scene Text Detection with Markov Clustering Networks.,2020,"Zichuan Liu, Guosheng Lin, Wang Ling Goh",Int. J. Comput. Vis. 128: 1786-1809 ,IJCV,Unranked
+126,RefineNet: Multi-Path Refinement Networks for Dense Prediction.,2020,"Guosheng Lin, Fayao Liu, Anton Milan, Chunhua Shen, Ian D. Reid",IEEE Trans. Pattern Anal. Mach. Intell. 42: 1228-1242 ,PAMI,Unranked
+127,Motion Context Network for Weakly Supervised Object Detection in Videos.,2020,"Ruibing Jin, Guosheng Lin, Changyun Wen, Jianliang Wang",IEEE Signal Process. Lett. 27: 1864-1868 ,SPL,Unranked
+128,RGBD Salient Object Detection via Disentangled Cross-Modal Fusion.,2020,"Hao Chen, Yongjian Deng, Youfu Li, Tzu-Yi Hung, Guosheng Lin",IEEE Trans. Image Process. 29: 8407-8416 ,TIP,Unranked
+129,Video Object Segmentation and Tracking: A Survey.,2020,"Rui Yao, Guosheng Lin, Shixiong Xia, Jiaqi Zhao, Yong Zhou",ACM Trans. Intell. Syst. Technol. 11: 36:1-36:47 ,TIST,Unranked
+130,A Dilated Inception Network for Visual Saliency Prediction.,2020,"Sheng Yang, Guosheng Lin, Qiuping Jiang, Weisi Lin",IEEE Trans. Multim. 22: 2163-2176 ,TMM,Unranked
+131,CRNet: Cross-Reference Networks for Few-Shot Segmentation.,2020,"Weide Liu, Chi Zhang, Guosheng Lin, Fayao Liu",CVPR 2020: 4164-4172,CVPR,A*
+132,Cross-Domain Semantic Segmentation via Domain-Invariant Interactive Relation Transfer.,2020,"Fengmao Lv, Tao Liang, Xiang Chen, Guosheng Lin",CVPR 2020: 4333-4342,CVPR,A*
+133,Multi-Path Region Mining for Weakly Supervised 3D Semantic Segmentation on Point Clouds.,2020,"Jiacheng Wei, Guosheng Lin, Kim-Hui Yap, Tzu-Yi Hung, Lihua Xie",CVPR 2020: 4383-4392,CVPR,A*
+134,SpSequenceNet: Semantic Segmentation Network on 4D Point Clouds.,2020,"Hanyu Shi, Guosheng Lin, Hao Wang, Tzu-Yi Hung, Zhenhua Wang",CVPR 2020: 4573-4582,CVPR,A*
+135,DeepEMD: Few-Shot Image Classification With Differentiable Earth Mover's Distance and Structured Classifiers.,2020,"Chi Zhang, Yujun Cai, Guosheng Lin, Chunhua Shen",CVPR 2020: 12200-12210,CVPR,A*
+136,Exploring Bottom-Up and Top-Down Cues With Attentive Learning for Webly Supervised Object Detection.,2020,"Zhonghua Wu, Qingyi Tao, Guosheng Lin, Jianfei Cai",CVPR 2020: 12933-12942,CVPR,A*
+137,Human Interaction Learning on 3D Skeleton Point Clouds for Video Violence Recognition.,2020,"Yukun Su, Guosheng Lin, Jin-Hui Zhu, Qingyao Wu",ECCV  2020: 74-90,ECCV,A*
+138,Structure-Aware Generation Network for Recipe Generation from Images.,2020,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",ECCV  2020: 359-374,ECCV,A*
+139,TRRNet: Tiered Relation Reasoning for Compositional Visual Question Answering.,2020,"Xiaofeng Yang, Guosheng Lin, Fengmao Lv, Fayao Liu",ECCV  2020: 414-430,ECCV,A*
+140,Graph Edit Distance Reward: Learning to Edit Scene Graph.,2020,"Lichang Chen, Guosheng Lin, Shijie Wang, Qingyao Wu",ECCV  2020: 539-554,ECCV,A*
+141,Splitting Vs. Merging: Mining Object Regions with Discrepancy and Intersection Loss for Weakly Supervised Semantic Segmentation.,2020,"Tianyi Zhang, Guosheng Lin, Weide Liu, Jianfei Cai, Alex C. Kot",ECCV  2020: 663-679,ECCV,A*
+142,Weakly Supervised Segmentation with Maximum Bipartite Graph Matching.,2020,"Weide Liu, Chi Zhang, Guosheng Lin, Tzu-Yi Hung, Chunyan Miao",ACM Multimedia 2020: 2085-2094,MM,Unranked
+143,DeepEMD: Few-Shot Image Classification with Differentiable Earth Mover's Distance and Structured Classifiers.,2020,"Chi Zhang, Yujun Cai, Guosheng Lin, Chunhua Shen",CoRR abs/2003.06777 ,CORR,Unranked
+144,Exploring Bottom-up and Top-down Cues with Attentive Learning for Webly Supervised Object Detection.,2020,"Zhonghua Wu, Qingyi Tao, Guosheng Lin, Jianfei Cai",CoRR abs/2003.09790 ,CORR,Unranked
+145,CRNet: Cross-Reference Networks for Few-Shot Segmentation.,2020,"Weide Liu, Chi Zhang, Guosheng Lin, Fayao Liu",CoRR abs/2003.10658 ,CORR,Unranked
+146,Multi-Path Region Mining For Weakly Supervised 3D Semantic Segmentation on Point Clouds.,2020,"Jiacheng Wei, Guosheng Lin, Kim-Hui Yap, Tzu-Yi Hung, Lihua Xie",CoRR abs/2003.13035 ,CORR,Unranked
+147,Decomposed Generation Networks with Structure Prediction for Recipe Generation from Food Images.,2020,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",CoRR abs/2007.13374 ,CORR,Unranked
+148,Open Set Recognition with Conditional Probabilistic Generative Models.,2020,"Xin Sun, Chi Zhang, Guosheng Lin, Keck Voon Ling",CoRR abs/2008.05129 ,CORR,Unranked
+149,Graph Edit Distance Reward: Learning to Edit Scene Graph.,2020,"Lichang Chen, Guosheng Lin, Shijie Wang, Qingyao Wu",CoRR abs/2008.06651 ,CORR,Unranked
+150,Structure-Aware Generation Network for Recipe Generation from Images.,2020,"Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao",CoRR abs/2009.00944 ,CORR,Unranked
+151,Feature Flow: In-network Feature Flow Estimation for Video Object Detection.,2020,"Ruibing Jin, Guosheng Lin, Changyun Wen, Jianliang Wang, Fayao Liu",CoRR abs/2009.09660 ,CORR,Unranked
+152,LAGNet: Logic-Aware Graph Network for Human Interaction Understanding.,2020,"Zhenhua Wang, Jiajun Meng, Jin Zhou, Dongyan Guo, Guosheng Lin, Jianhua Zhang, Qinfeng (Javen) Shi, Shengyong Chen",CoRR abs/2011.10250 ,CORR,Unranked
+153,On Lightweight Privacy-Preserving Collaborative Learning for Internet of Things by Independent Random Projections.,2020,"Linshan Jiang, Rui Tan, Xin Lou, Guosheng Lin",CoRR abs/2012.07626 ,CORR,Unranked
+154,Compositional Prototype Network with Multi-view Comparision for Few-Shot Point Cloud Semantic Segmentation.,2020,"Xiaoyu Chen, Chi Zhang, Guosheng Lin, Jing Han",CoRR abs/2012.14255 ,CORR,Unranked
+155,Local fusion networks with chained residual pooling for video action recognition.,2019,"Feixiang He, Fayao Liu, Rui Yao, Guosheng Lin",Image Vis. Comput. 81: 34-41 ,IVC,Unranked
+156,Keypoint based weakly supervised human parsing.,2019,"Zhonghua Wu, Guosheng Lin, Jianfei Cai",Image Vis. Comput. 91 ,IVC,Unranked
+157,Semantics-Aware Visual Object Tracking.,2019,"Rui Yao, Guosheng Lin, Chunhua Shen, Yanning Zhang, Qinfeng Shi",IEEE Trans. Circuits Syst. Video Technol. 29: 1687-1700 ,TCSV,Unranked
+158,Decoupled Spatial Neural Attention for Weakly Supervised Semantic Segmentation.,2019,"Tianyi Zhang, Guosheng Lin, Jianfei Cai, Tong Shen, Chunhua Shen, Alex C. Kot",IEEE Trans. Multim. 21: 2930-2941 ,TMM,Unranked
+159,CANet: Class-Agnostic Segmentation Networks With Iterative Refinement and Attentive Few-Shot Learning.,2019,"Chi Zhang, Guosheng Lin, Fayao Liu, Rui Yao, Chunhua Shen",CVPR 2019: 5217-5226,CVPR,A*
+160,Towards Robust Curve Text Detection With Conditional Spatial Expansion.,2019,"Zichuan Liu, Guosheng Lin, Sheng Yang, Fayao Liu, Weisi Lin, Wang Ling Goh",CVPR 2019: 7269-7278,CVPR,A*
+161,Pyramid Graph Networks With Connection Attentions for Region-Based One-Shot Semantic Segmentation.,2019,"Chi Zhang, Guosheng Lin, Fayao Liu, Jiushuang Guo, Qingyao Wu, Rui Yao",ICCV 2019: 9586-9594,ICCV,A*
+162,SegEQA: Video Segmentation Based Visual Attention for Embodied Question Answering.,2019,"Haonan Luo, Guosheng Lin, Zichuan Liu, Fayao Liu, Zhenmin Tang, Yazhou Yao",ICCV 2019: 9666-9675,ICCV,A*
+163,On lightweight privacy-preserving collaborative learning for internet-of-things objects.,2019,"Linshan Jiang, Rui Tan, Xin Lou, Guosheng Lin",IoTDI 2019: 70-81,IOTDI,Unranked
+164,M2E-Try On Net: Fashion from Model to Everyone.,2019,"Zhonghua Wu, Guosheng Lin, Qingyi Tao, Jianfei Cai",ACM Multimedia 2019: 293-301,MM,Unranked
+165,Semantic Segmentation via Domain Adaptation with Global Structure Embedding.,2019,"Tianyi Zhang, Guosheng Lin, Jianfei Cai, Alex C. Kot",VCIP 2019: 1-4,VCIP,C
+166,Task-in-all Domain Adaptation for Semantic Segmentation.,2019,"Tianyi Zhang, Jingyi Yang, Chuanxia Zheng, Guosheng Lin, Jianfei Cai, Alex C. Kot",VCIP 2019: 1-4,VCIP,C
+167,On Lightweight Privacy-Preserving Collaborative Learning for IoT Objects.,2019,"Linshan Jiang, Rui Tan, Xin Lou, Guosheng Lin",CoRR abs/1902.05197 ,CORR,Unranked
+168,CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning.,2019,"Chi Zhang, Guosheng Lin, Fayao Liu, Rui Yao, Chunhua Shen",CoRR abs/1903.02351 ,CORR,Unranked
+169,Towards Robust Curve Text Detection with Conditional Spatial Expansion.,2019,"Zichuan Liu, Guosheng Lin, Sheng Yang, Fayao Liu, Weisi Lin, Wang Ling Goh",CoRR abs/1903.08836 ,CORR,Unranked
+170,A Dilated Inception Network for Visual Saliency Prediction.,2019,"Sheng Yang, Guosheng Lin, Qiuping Jiang, Weisi Lin",CoRR abs/1904.03571 ,CORR,Unranked
+171,Video Object Segmentation and Tracking: A Survey.,2019,"Rui Yao, Guosheng Lin, Shixiong Xia, Jiaqi Zhao, Yong Zhou",CoRR abs/1904.09172 ,CORR,Unranked
+172,Exploring Context with Deep Structured Models for Semantic Segmentation.,2018,"Guosheng Lin, Chunhua Shen, Anton van den Hengel, Ian Reid",IEEE Trans. Pattern Anal. Mach. Intell. 40: 1352-1366 ,PAMI,Unranked
+173,Efficient dense labelling of human activity sequences from wearables using fully convolutional networks.,2018,"Rui Yao, Guosheng Lin, Qinfeng Shi, Damith Chinthana Ranasinghe",Pattern Recognit. 78: 252-266 ,PR,Unranked
+174,Crowd Counting via Weighted VLAD on a Dense Attribute Feature Map.,2018,"Biyun Sheng, Chunhua Shen, Guosheng Lin, Jun Li, Wankou Yang, Changyin Sun",IEEE Trans. Circuits Syst. Video Technol. 28: 1788-1797 ,TCSV,Unranked
+175,Structured Learning of Tree Potentials in CRF for Image Segmentation.,2018,"Fayao Liu, Guosheng Lin, Ruizhi Qiao, Chunhua Shen",IEEE Trans. Neural Networks Learn. Syst. 29: 2631-2637 ,TNN,Unranked
+176,MoNet: Deep Motion Exploitation for Video Object Segmentation.,2018,"Huaxin Xiao, Jiashi Feng, Guosheng Lin, Yu Liu, Maojun Zhang",CVPR 2018: 1140-1148,CVPR,A*
+177,Bootstrapping the Performance of Webly Supervised Semantic Segmentation.,2018,"Tong Shen, Guosheng Lin, Chunhua Shen, Ian D. Reid",CVPR 2018: 1363-1371,CVPR,A*
+178,Learning Markov Clustering Networks for Scene Text Detection.,2018,"Zichuan Liu, Guosheng Lin, Sheng Yang, Jiashi Feng, Weisi Lin, Wang Ling Goh",CVPR 2018: 6936-6944,CVPR,A*
+179,Domain Adaptive Semantic Segmentation Through Structure Enhancement.,2018,"Fengmao Lv, Qing Lian, Guowu Yang, Guosheng Lin, Sinno Jialin Pan, Lixin Duan",ECCV Workshops  2018: 172-179,ECCV,A*
+180,Semantic Segmentation from Limited Training Data.,2018,"Anton Milan, Trung Pham, K. Vijay, Douglas Morrison, Adam W. Tow, L. Liu, J. Erskine, R. Grinover, A. Gurman, T. Hunn, N. Kelly-Boxall, D. Lee, M. McTaggart, G. Rallos, A. Razjigaev, T. Rowntree, T. Shen, R. Smith, S. Wade-McCue, Zheyu Zhuang, Christopher F. Lehnert, Guosheng Lin, Ian David Reid, Peter I. Corke, Jürgen Leitner",ICRA 2018: 1908-1915,ICRA,A*
+181,Decoupled Spatial Neural Attention for Weakly Supervised Semantic Segmentation.,2018,"Tianyi Zhang, Guosheng Lin, Jianfei Cai, Tong Shen, Chunhua Shen, Alex C. Kot",CoRR abs/1803.02563 ,CORR,Unranked
+182,Learning Markov Clustering Networks for Scene Text Detection.,2018,"Zichuan Liu, Guosheng Lin, Sheng Yang, Jiashi Feng, Weisi Lin, Wang Ling Goh",CoRR abs/1805.08365 ,CORR,Unranked
+183,Keypoint Based Weakly Supervised Human Parsing.,2018,"Zhonghua Wu, Guosheng Lin, Jianfei Cai",CoRR abs/1809.05285 ,CORR,Unranked
+184,Correlation Propagation Networks for Scene Text Detection.,2018,"Zichuan Liu, Guosheng Lin, Wang Ling Goh, Fayao Liu, Chunhua Shen, Xiaokang Yang",CoRR abs/1810.00304 ,CORR,Unranked
+185,M2E-Try On Net: Fashion from Model to Everyone.,2018,"Zhonghua Wu, Guosheng Lin, Qingyi Tao, Jianfei Cai",CoRR abs/1811.08599 ,CORR,Unranked
+186,Structured Learning of Binary Codes with Column Generation for Optimizing Ranking Measures.,2017,"Guosheng Lin, Fayao Liu, Chunhua Shen, Jianxin Wu, Heng Tao Shen",Int. J. Comput. Vis. 123: 287-308 ,IJCV,Unranked
+187,Discriminative Training of Deep Fully Connected Continuous CRFs With Task-Specific Loss.,2017,"Fayao Liu, Guosheng Lin, Chunhua Shen",IEEE Trans. Image Process. 26: 2127-2136 ,TIP,Unranked
+188,Weakly Supervised Semantic Segmentation Based on Co-segmentation.,2017,"Tong Shen, Guosheng Lin, Lingqiao Liu, Chunhua Shen, Ian Reid",BMVC 2017,BMVC,A
+189,RefineNet: Multi-path Refinement Networks for High-Resolution Semantic Segmentation.,2017,"Guosheng Lin, Anton Milan, Chunhua Shen, Ian D. Reid",CVPR 2017: 5168-5177,CVPR,A*
+190,Sequential Person Recognition in Photo Albums with a Recurrent Network.,2017,"Yao Li, Guosheng Lin, Bohan Zhuang, Lingqiao Liu, Chunhua Shen, Anton van den Hengel",CVPR 2017: 5660-5668,CVPR,A*
+191,Learning Multi-level Region Consistency with Dense Multi-label Networks for Semantic Segmentation.,2017,"Tong Shen, Guosheng Lin, Chunhua Shen, Ian D. Reid",IJCAI 2017: 2708-2714,IJCAI,A*
+192,Learning Multi-level Region Consistency with Dense Multi-label Networks for Semantic Segmentation.,2017,"Tong Shen, Guosheng Lin, Chunhua Shen, Ian D. Reid",CoRR abs/1701.07122 ,CORR,Unranked
+193,Efficient Dense Labeling of Human Activity Sequences from Wearables using Fully Convolutional Networks.,2017,"Rui Yao, Guosheng Lin, Qinfeng Shi, Damith Chinthana Ranasinghe",CoRR abs/1702.06212 ,CORR,Unranked
+194,Structured Learning of Tree Potentials in CRF for Image Segmentation.,2017,"Fayao Liu, Guosheng Lin, Ruizhi Qiao, Chunhua Shen",CoRR abs/1703.08764 ,CORR,Unranked
+195,Weakly Supervised Semantic Segmentation Based on Co-segmentation.,2017,"Tong Shen, Guosheng Lin, Lingqiao Liu, Chunhua Shen, Ian D. Reid",CoRR abs/1705.09052 ,CORR,Unranked
+196,Semantic Segmentation from Limited Training Data.,2017,"Anton Milan, Trung Pham, K. Vijay, Douglas Morrison, Adam W. Tow, L. Liu, J. Erskine, R. Grinover, A. Gurman, T. Hunn, N. Kelly-Boxall, D. Lee, M. McTaggart, G. Rallos, A. Razjigaev, T. Rowntree, T. Shen, R. Smith, S. Wade-McCue, Zheyu Zhuang, Christopher F. Lehnert, Guosheng Lin, Ian D. Reid, Peter I. Corke, Jürgen Leitner",CoRR abs/1709.07665 ,CORR,Unranked
+197,Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields.,2016,"Fayao Liu, Chunhua Shen, Guosheng Lin, Ian Reid",IEEE Trans. Pattern Anal. Mach. Intell. 38: 2024-2039 ,PAMI,Unranked
+198,Efficient Piecewise Training of Deep Structured Models for Semantic Segmentation.,2016,"Guosheng Lin, Chunhua Shen, Anton van den Hengel, Ian D. Reid",CVPR 2016: 3194-3203,CVPR,A*
+199,Fast Training of Triplet-Based Deep Binary Embedding Networks.,2016,"Bohan Zhuang, Guosheng Lin, Chunhua Shen, Ian D. Reid",CVPR 2016: 5955-5964,CVPR,A*
+200,Discriminative Training of Deep Fully-connected Continuous CRF with Task-specific Loss.,2016,"Fayao Liu, Guosheng Lin, Chunhua Shen",CoRR abs/1601.07649 ,CORR,Unranked
+201,Structured Learning of Binary Codes with Column Generation.,2016,"Guosheng Lin, Fayao Liu, Chunhua Shen, Jianxin Wu, Heng Tao Shen",CoRR abs/1602.06654 ,CORR,Unranked
+202,Fast Training of Triplet-based Deep Binary Embedding Networks.,2016,"Bohan Zhuang, Guosheng Lin, Chunhua Shen, Ian D. Reid",CoRR abs/1603.02844 ,CORR,Unranked
+203,Exploring Context with Deep Structured models for Semantic Segmentation.,2016,"Guosheng Lin, Chunhua Shen, Anton van den Hengel, Ian Reid",CoRR abs/1603.03183 ,CORR,Unranked
+204,Crowd Counting via Weighted VLAD on Dense Attribute Feature Maps.,2016,"Biyun Sheng, Chunhua Shen, Guosheng Lin, Jun Li, Wankou Yang, Changyin Sun",CoRR abs/1604.08660 ,CORR,Unranked
+205,RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation.,2016,"Guosheng Lin, Anton Milan, Chunhua Shen, Ian D. Reid",CoRR abs/1611.06612 ,CORR,Unranked
+206,Sequential Person Recognition in Photo Albums with a Recurrent Network.,2016,"Yao Li, Guosheng Lin, Bohan Zhuang, Lingqiao Liu, Chunhua Shen, Anton van den Hengel",CoRR abs/1611.09967 ,CORR,Unranked
+207,Supervised Hashing Using Graph Cuts and Boosted Decision Trees.,2015,"Guosheng Lin, Chunhua Shen, Anton van den Hengel",IEEE Trans. Pattern Anal. Mach. Intell. 37: 2317-2331 ,PAMI,Unranked
+208,CRF learning with CNN features for image segmentation.,2015,"Fayao Liu, Guosheng Lin, Chunhua Shen",Pattern Recognit. 48: 2983-2992 ,PR,Unranked
+209,Sequence searching with deep-learnt depth for condition- and viewpoint-invariant route-based place recognition.,2015,"Michael Milford, Stephanie M. Lowry, Niko Sünderhauf, Sareh Shirazi, Edward Pepperell, Ben Upcroft, Chunhua Shen, Guosheng Lin, Fayao Liu, Cesar Cadena, Ian D. Reid",CVPR Workshops 2015: 18-25,CVPR,A*
+210,Deep convolutional neural fields for depth estimation from a single image.,2015,"Fayao Liu, Chunhua Shen, Guosheng Lin",CVPR 2015: 5162-5170,CVPR,A*
+211,Deeply Learning the Messages in Message Passing Inference.,2015,"Guosheng Lin, Chunhua Shen, Ian D. Reid, Anton van den Hengel",NIPS 2015: 361-369,NIPS,Unranked
+212,Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields.,2015,"Fayao Liu, Chunhua Shen, Guosheng Lin, Ian Reid",CoRR abs/1502.07411 ,CORR,Unranked
+213,CRF Learning with CNN Features for Image Segmentation.,2015,"Fayao Liu, Guosheng Lin, Chunhua Shen",CoRR abs/1503.08263 ,CORR,Unranked
+214,Efficient piecewise training of deep structured models for semantic segmentation.,2015,"Guosheng Lin, Chunhua Shen, Ian D. Reid, Anton van den Hengel",CoRR abs/1504.01013 ,CORR,Unranked
+215,Deeply Learning the Messages in Message Passing Inference.,2015,"Guosheng Lin, Chunhua Shen, Ian D. Reid, Anton van den Hengel",CoRR abs/1506.02108 ,CORR,Unranked
+216,StructBoost: Boosting Methods for Predicting Structured Output Variables.,2014,"Chunhua Shen, Guosheng Lin, Anton van den Hengel",IEEE Trans. Pattern Anal. Mach. Intell. 36: 2089-2103 ,PAMI,Unranked
+217,Fast Supervised Hashing with Decision Trees for High-Dimensional Data.,2014,"Guosheng Lin, Chunhua Shen, Qinfeng Shi, Anton van den Hengel, David Suter",CVPR 2014: 1971-1978,CVPR,A*
+218,Optimizing Ranking Measures for Compact Binary Code Learning.,2014,"Guosheng Lin, Chunhua Shen, Jianxin Wu",ECCV  2014: 613-627,ECCV,A*
+219,Fast Supervised Hashing with Decision Trees for High-Dimensional Data.,2014,"Guosheng Lin, Chunhua Shen, Qinfeng Shi, Anton van den Hengel, David Suter",CoRR abs/1404.1561 ,CORR,Unranked
+220,Optimizing Ranking Measures for Compact Binary Code Learning.,2014,"Guosheng Lin, Chunhua Shen, Jianxin Wu",CoRR abs/1407.1151 ,CORR,Unranked
+221,Supervised Hashing Using Graph Cuts and Boosted Decision Trees.,2014,"Guosheng Lin, Chunhua Shen, Anton van den Hengel",CoRR abs/1408.5574 ,CORR,Unranked
+222,Deep Convolutional Neural Fields for Depth Estimation from a Single Image.,2014,"Fayao Liu, Chunhua Shen, Guosheng Lin",CoRR abs/1411.6387 ,CORR,Unranked
+223,A General Two-Step Approach to Learning-Based Hashing.,2013,"Guosheng Lin, Chunhua Shen, David Suter, Anton van den Hengel",ICCV 2013: 2552-2559,ICCV,A*
+224,Approximate constraint generation for efficient structured boosting.,2013,"Guosheng Lin, Chunhua Shen, Anton van den Hengel",ICIP 2013: 4287-4291,ICIP,B
+225,Learning Hash Functions Using Column Generation.,2013,"Xi Li, Guosheng Lin, Chunhua Shen, Anton van den Hengel, Anthony R. Dick",ICML  2013: 142-150,ICML,A*
+226,StructBoost: Boosting Methods for Predicting Structured Output Variables.,2013,"Chunhua Shen, Guosheng Lin, Anton van den Hengel",CoRR abs/1302.3283 ,CORR,Unranked
+227,Learning Hash Functions Using Column Generation.,2013,"Xi Li, Guosheng Lin, Chunhua Shen, Anton van den Hengel, Anthony R. Dick",CoRR abs/1303.0339 ,CORR,Unranked
+228,A General Two-Step Approach to Learning-Based Hashing.,2013,"Guosheng Lin, Chunhua Shen, David Suter, Anton van den Hengel",CoRR abs/1309.1853 ,CORR,Unranked
+229,Fast Training of Effective Multi-class Boosting Using Coordinate Descent Optimization.,2013,"Guosheng Lin, Chunhua Shen, Anton van den Hengel, David Suter",CoRR abs/1311.5947 ,CORR,Unranked
+230,Fast Training of Effective Multi-class Boosting Using Coordinate Descent Optimization.,2012,"Guosheng Lin, Chunhua Shen, Anton van den Hengel, David Suter",ACCV  2012: 782-795,ACCV,B

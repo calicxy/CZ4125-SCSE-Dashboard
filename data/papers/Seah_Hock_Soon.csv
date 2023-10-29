@@ -1,0 +1,151 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Shape correspondence for cel animation based on a shape association graph and spectral matching.,2023,"Shaolong Liu, Xingce Wang, Xiangyuan Liu, Zhongke Wu, Hock Soon Seah",Comput. Vis. Media 9: 633-656 ,CVM,Unranked
+1,Stroke-Based Drawing and Inbetweening with Boundary Strokes.,2022,"Jie Jiang, Hock Soon Seah, Hong-Ze Liew",Comput. Graph. Forum 41: 257-269 ,CGF,Unranked
+2,Skeleton-Based Parametric 2-D Region Representation: Disk B-Spline Curves.,2021,"Zhongke Wu, Xingce Wang, Shaolong Liu, Quan Chen, Hock Soon Seah, Feng Tian",IEEE Computer Graphics and Applications 41: 59-70 ,CGA,Unranked
+3,Handling gaps for vector graphics coloring.,2021,"Jie Jiang, Hock Soon Seah, Hong-Ze Liew",Vis. Comput. 37: 2473-2484 ,VC,Unranked
+4,Reinforcement Learning for Quadruped Locomotion.,2021,"Kangqiao Zhao, Feng Lin, Hock Soon Seah",CGI 2021: 167-177,CGI,C
+5,Collective Intelligence of Autonomous Animals in VR Hunting.,2021,"Kangqiao Zhao, Feng Lin, Hock Soon Seah",VR Workshops 2021: 14-22,VR,A*
+6,Shape correspondence based on Kendall shape space and RAG for 2D animation.,2020,"Shaolong Liu, Xingce Wang, Zhongke Wu, Hock Soon Seah",Vis. Comput. 36: 2457-2469 ,VC,Unranked
+7,Generating Orthogonal Voronoi Treemap for Visualization of Hierarchical Data.,2020,"Yan-Chao Wang, Jigang Liu, Feng Lin, Seah Hock Soon",CGI 2020: 394-402,CGI,C
+8,2D Image Deformation Based on Guaranteed Feature Correspondence and Mesh Mapping.,2019,"Yaqiong Liu, Xin Lin, Guochu Shou, Hock Soon Seah",IEEE Access 7: 5208-5221 ,ACCESS,Unranked
+9,Progressive sketching with instant previewing.,2019,"Kai Wang, Jianmin Zheng, Hock Soon Seah",Comput. Graph. 81: 9-19 ,CG,Unranked
+10,Multi-Channel Convolutional Neural Network Based 3D Object Detection for Indoor Robot Environmental Perception.,2019,"Li Wang, Ruifeng Li, Hezi Shi, Jingwen Sun, Lijun Zhao, Hock Soon Seah, Chee Kwang Quah, Budianto Tandianus",Sensors 19: 893 ,SENSORS,Unranked
+11,Multi-View Fusion-Based 3D Object Detection for Robot Indoor Scene Perception.,2019,"Li Wang, Ruifeng Li, Jingwen Sun, Xingxing Liu, Lijun Zhao, Hock Soon Seah, Chee Kwang Quah, Budianto Tandianus",Sensors 19: 4092 ,SENSORS,Unranked
+12,PolarViz: a discriminating visualization and visual analytics tool for high-dimensional data.,2019,"Yan Chao Wang, Qian Zhang, Feng Lin, Chi-Keong Goh, Hock Soon Seah",Vis. Comput. 35: 1567-1582 ,VC,Unranked
+13,EngineQV: Investigating External Cause of Engine Failures Based on Geo-Temporal Association.,2019,"Yan-Chao Wang, Qian Zhang, Feng Lin, Hock Soon Seah",PacificVis 2019: 184-188,APVIS,Unranked
+14,La Petite Fee Cosmo: Learning Data Structures Through Game-Based Learning.,2019,"Vinayak Teoh Kannappan, Owen Noel Newton Fernando, Anupam Chattopadhyay, Xavier Tan, Jeffrey Yan Jack Hong, Hock Soon Seah, Hui En Lye",CW 2019: 207-210,CW,C
+15,Object-Aware Hybrid Map for Indoor Robot Visual Semantic Navigation.,2019,"Li Wang, Ruifeng Li, Jingwen Sun, Lijun Zhao, Hezi Shi, Hock Soon Seah, Budianto Tandianus",ROBIO 2019: 1166-1172,ROBIO,Unranked
+16,La Petite Fee Cosmo.,2019,"Owen Noel Newton Fernando, Vinayak Teoh Kannappan, Xavier Tan, Jeffrey Yan Jack Hong, Anupam Chattopadhyay, Hock Soon Seah",VRCAI 2019: 20:1-20:9,VRCAI,Unranked
+17,Orthogonal Voronoi Diagram and Treemap.,2019,"Yan-Chao Wang, Feng Lin, Hock Soon Seah",CoRR abs/1904.02348 ,CORR,Unranked
+18,An intersection algorithm for disk B-spline curves.,2018,"Xuefeng Ao, Qian Fu, Zhongke Wu, Xingce Wang, Mingquan Zhou, Quan Chen, Hock Soon Seah",Comput. Graph. 70: 99-107 ,CG,Unranked
+19,FTP-SC: Fuzzy Topology Preserving Stroke Correspondence.,2018,"Wenwu Yang, Seah Hock Soon, Quan Chen, Hong-Ze Liew, Daniel Sýkora",Comput. Graph. Forum 37: 125-135 ,CGF,Unranked
+20,Evaluation of Star Coordinate Boundaries.,2018,"Yan Chao Wang, Feng Lin, Hock Soon Seah",CGI 2018: 87-96,CGI,C
+21,Enhancing Sketching and Sculpting for Shape Modeling.,2018,"Kai Wang, Jianmin Zheng, Hock Soon Seah",CW 2018: 66-73,CW,C
+22,Real-Time Art-Directed Charcoal Cyber Arts.,2018,"Yee Xin Chiew, Hock Soon Seah, Santiago E. Montesdeoca",CW 2018: 90-95,CW,C
+23,Cloud-Based Dynamic Streaming and Loading of 3D Scene.,2018,"Budianto Tandianus, Hock Soon Seah, Tuan Dat Vu, Anh Tu Phan",CW 2018: 409-414,CW,C
+24,Feature-Based and Convolutional Neural Network Fusion Method for Visual Relocalization.,2018,"Li Wang, Ruifeng Li, Jingwen Sun, Hock Soon Seah, Chee Kwang Quah, Lijun Zhao",ICARCV 2018: 1489-1495,ICARCV,C
+25,MNPR: a framework for real-time expressive non-photorealistic rendering of 3D computer graphics.,2018,"Santiago E. Montesdeoca, Hock Soon Seah, Amir Semmo, Pierre Bénard, Romain Vergne, Joëlle Thollot, Davide Benvenuti",Expressive 2018: 9:1-9:11,NPAR,Unranked
+26,Art-directed watercolor stylization of 3D animations in real-time.,2017,"Santiago E. Montesdeoca, Hock Soon Seah, Hans-Martin Rall, Davide Benvenuti",Comput. Graph. 65: 60-72 ,CG,Unranked
+27,Constrained energy-efficient routing in time-aware road networks.,2017,"Yaqiong Liu, Hock Soon Seah, Guochu Shou",GeoInformatica 21: 89-117 ,GEOINFORMATICA,Unranked
+28,Modeling and dynamics simulation for deformable objects of orthotropic materials.,2017,"Jianping Cai, Feng Lin, Yong Tsui Lee, Kemao Qian, Hock Soon Seah",Vis. Comput. 33: 1307-1318 ,VC,Unranked
+29,Histogram equalization and specification for high-dimensional data visualization using RadViz.,2017,"Yan-Chao Wang, Qian Zhang, Feng Lin, Chi-Keong Goh, Xuan Wang, Hock Soon Seah",CGI 2017: 15:1-15:6,CGI,C
+30,Edge- and substrate-based effects for watercolor stylization.,2017,"Santiago E. Montesdeoca, Hock Soon Seah, Pierre Bénard, Romain Vergne, Joëlle Thollot, Hans-Martin Rall, Davide Benvenuti",NPAR@Expressive 2017: 2:1-2:10,NPAR,Unranked
+31,Direct 3D stylization pipelines.,2017,"Santiago E. Montesdeoca, Hock Soon Seah, Davide Benvenuti, Pierre Bénard, Hans-Martin Rall, Joëlle Thollot, Romain Vergne",SIGGRAPH Real Time Live! 2017: 18,SIGGRAPH,A*
+32,Cost-Optimal Time-dEpendent Routing with Time and Speed Constraints in Directed Acyclic Road Networks.,2016,"Yaqiong Liu, Hock Soon Seah, Guochu Shou",Int. J. Inf. Technol. Decis. Mak. 15: 1413-1450 ,IJITDM,Unranked
+33,A Novel Embedded Interpolation Algorithm with Negative Squared Distance for Real-Time Endomicroscopy.,2016,"Wei Ming Chiew, Feng Lin, Hock Soon Seah",ACM Trans. Embed. Comput. Syst. 15: 75:1-75:19 ,TECS,Unranked
+34,Art-directed watercolor rendered animation.,2016,"Santiago E. Montesdeoca, Hock Soon Seah, Hans-Martin Rall",Expressive 2016: 51-58,EXPRESSIVE,Unranked
+35,Interaction in marker-less augmented reality based on hand detection using leap motion.,2016,"Juncheng Zhao, Hock Soon Seah",VRCAI 2016: 147-150,VRCAI,Unranked
+36,Subregion graph: A path planning acceleration structure for characters with various motion types in very large environments.,2015,"Nicholas Mario Wardhana, Henry Johan, Hock Soon Seah",Comput. Vis. Media 1: 105-118 ,CVM,Unranked
+37,Points of interest recommendation from GPS trajectories.,2015,"Yaqiong Liu, Hock Soon Seah",Int. J. Geogr. Inf. Sci. 29: 953-979 ,GIS,Unranked
+38,3D Human motion tracking by exemplar-based conditional particle filter.,2015,"Jigang Liu, Dongquan Liu, Justin Dauwels, Hock Soon Seah",Signal Process. 110: 164-177 ,SIGPRO,Unranked
+39,Exploiting entropy masking in perceptual graphic rendering.,2015,"Lu Dong, Yuming Fang, Weisi Lin, Chenwei Deng, Ce Zhu, Hock Soon Seah",Signal Process. Image Commun. 33: 1-13 ,SPIC,Unranked
+40,Perceptual Quality Assessment for 3D Triangle Mesh Based on Curvature.,2015,"Lu Dong, Yuming Fang, Weisi Lin, Hock Soon Seah",IEEE Trans. Multim. 17: 2174-2184 ,TMM,Unranked
+41,Erratum to: Spectral caustic rendering of a homogeneous caustic object based on wavelength clustering and eye sensitivity.,2015,"Budianto Tandianus, Henry Johan, Hock Soon Seah, Feng Lin",Vis. Comput. 31: 365 ,VC,Unranked
+42,Spectral caustic rendering of a homogeneous caustic object based on wavelength clustering and eye sensitivity.,2015,"Budianto Tandianus, Henry Johan, Hock Soon Seah, Feng Lin",Vis. Comput. 31: 1601-1614 ,VC,Unranked
+43,Simulation and Visualization of Deformation with Anisotropic Materials.,2015,"Jianping Cai, Feng Lin, Kemao Qian, Yong Tsui Lee, Seah Hock Soon",IV 2015: 392-402,IV,C
+44,Accelerating Graph-based Path Planning Through Waypoint Clustering.,2015,"Nicholas Mario Wardhana, Henry Johan, Hock Soon Seah",PG  2015: 59-63,PG,Journal Published
+45,A heterogeneous computing system for coupling 3D endomicroscopy with volume rendering in real-time image visualization.,2014,"Wei Ming Chiew, Feng Lin, Kemao Qian, Hock Soon Seah",Comput. Ind. 65: 367-381 ,CII,Unranked
+46,Saliency detection in computer rendered images based on object-level contrast.,2014,"Lu Dong, Weisi Lin, Yuming Fang, Shiqian Wu, Hock Soon Seah",J. Vis. Commun. Image Represent. 25: 525-533 ,JVCIR,Unranked
+47,3D model-based curve generation and manipulation.,2014,"Chee Kwang Quah, Xiang Xu, Hock Soon Seah",ICARCV 2014: 1536-1541,ICARCV,C
+48,Visual Analysis with Dynamic Geometric Complementarity and Physicochemical Matching in Protein Docking.,2014,"Hui Liu, Feng Lin, Kemao Qian, Hock Soon Seah, Yong Tsui Lee",IV 2014: 315-320,IV,C
+49,Incorporating Fiber Controls into FEM Model for Transversely Isotropic Materials.,2014,"Jianping Cai, Feng Lin, Yong Tsui Lee, Kemao Qian, Hock Soon Seah",PG  2014,PG,Journal Published
+50,Objective visual quality assessment for 3D meshes.,2014,"Lu Dong, Yuming Fang, Weisi Lin, Hock Soon Seah",QoMEX 2014: 1-6,QOMEX,Unranked
+51,Animated 3D Line Drawings with Temporal Coherence.,2013,"X. Xu, Hock Soon Seah, Chee Kwang Quah",Comput. Graph. Forum 32: 285-294 ,CGF,Unranked
+52,GPU-Accelerated Real-Time Tracking of Full-Body Motion With Multi-Layer Search.,2013,"Zheng Zhang, Hock Soon Seah, Chee Kwang Quah, Jixiang Sun",IEEE Trans. Multim. 15: 106-119 ,TMM,Unranked
+53,Enhanced waypoint graph for surface and volumetric path planning in virtual worlds.,2013,"Nicholas Mario Wardhana, Henry Johan, Hock Soon Seah",Vis. Comput. 29: 1051-1062 ,VC,Unranked
+54,G2-Continuity Blending of Ball B-Spline Curve Using Extension.,2013,"Qianqian Jiang, Zhongke Wu, Ting Zhang, Xingce Wang, Mingquan Zhou, Hock Soon Seah",CAD/Graphics 2013: 369-376,CADGRAPHICS,Unranked
+55,G2-Continuity Extension Algorithm for Disk B-Spline Curve.,2013,"Ting Zhang, Xingce Wang, Qianqian Jiang, Zhongke Wu, Mingquan Zhou, Hock Soon Seah",CAD/Graphics 2013: 413-414,CADGRAPHICS,Unranked
+56,Efficient proximity detection among mobile objects in road networks with self-adjustment methods.,2013,"Yaqiong Liu, Hock Soon Seah, Gao Cong",SIGSPATIAL/GIS 2013: 124-133,GIS,Unranked
+57,To exploit uncertainty masking for adaptive image rendering.,2013,"Lu Dong, Weisi Lin, Chenwei Deng, Ce Zhu, Hock Soon Seah",ISCAS 2013: 2848-2851,ISCAS,Unranked
+58,Detection of salient objects in computer synthesized images based on object-level contrast.,2013,"Lu Dong, Weisi Lin, Yuming Fang, Shiqian Wu, Hock Soon Seah",VCIP 2013: 1-6,VCIP,C
+59,Efficient and robust 3D line drawings using difference-of-Gaussian.,2012,"Long Zhang, Jiazhi Xia, Xiang Ying, Ying He, Wolfgang Müller-Wittig, Hock Soon Seah",Graph. Model. 74: 87-98 ,CVGIP,Unranked
+60,Real-time rendering of approximate caustics under environment illumination.,2012,"Budianto Tandianus, Henry Johan, Hock Soon Seah",Entertain. Comput. 3: 129-141 ,ENTCOM,Unranked
+61,Sketch Based Image Deformation and Editing with Guaranteed Feature Correspondence.,2012,"Yaqiong Liu, Seah Hock Soon, Ying He, Juncong Lin, Jiazhi Xia",Int. J. Virtual Real. 11: 25-32 ,IJVR,Unranked
+62,Coupling between Meshless FEM Modeling and Rendering on GPU for Real-time Physically-based Volumetric Deformation.,2012,"Muhammad Mobeen Movania, Feng Lin, Kemao Qian, Wei Ming Chiew, Hock Soon Seah",J. WSCG 20: 1-10 ,JWSCG,Unranked
+63,Caustic Object Construction Based on Multiple Caustic Patterns.,2012,"Budianto Tandianus, Henry Johan, Hock Soon Seah",J. WSCG 20: 37-46 ,JWSCG,Unranked
+64,Image classification by multimodal subspace learning.,2012,"Jun Yu, Feng Lin, Hock Soon Seah, Cuihua Li, Ziyu Lin",Pattern Recognit. Lett. 33: 1196-1204 ,PRL,Unranked
+65,Reducing location map in prediction-based difference expansion for reversible image data embedding.,2012,"Minglei Liu, Hock Soon Seah, Ce Zhu, Weisi Lin, Feng Tian",Signal Process. 92: 819-828 ,SIGPRO,Unranked
+66,On Combining Multiple Features for Cartoon Character Retrieval and Clip Synthesis.,2012,"Jun Yu, Dongquan Liu, Dacheng Tao, Hock Soon Seah",IEEE Trans. Syst. Man Cybern. Part B 42: 1413-1427 ,TSMC,Unranked
+67,A hybrid Particle Swarm Optimization with cooperative method for multi-object tracking.,2012,"Zheng Zhang, Hock Soon Seah, Jixiang Sun",IEEE Congress on Evolutionary Computation 2012: 1-6,CEC,B
+68,Enhanced Waypoint Graph for Path Planning in Virtual Worlds.,2012,"Nicholas Mario Wardhana, Henry Johan, Hock Soon Seah",CW 2012: 69-76,CW,C
+69,Demons Kernel Computation with Single-pass Stream Processing on FPGA.,2012,"Wei Ming Chiew, Feng Lin, Kemao Qian, Hock Soon Seah",HPCC-ICESS 2012: 1321-1328,HPCC,C
+70,CUDA Acceleration of 3D Dynamic Scene Reconstruction and 3D Motion Estimation for Motion Capture.,2012,"Zheng Zhang, Hock Soon Seah",ICPADS 2012: 284-291,ICPADS,B
+71,Stroke Correspondence Construction Using Manifold Learning.,2011,"Dongquan Liu, Quan Chen, Jun Yu, Huiqin Gu, Dacheng Tao, Hock Soon Seah",Comput. Graph. Forum 30: 2194-2207 ,CGF,Unranked
+72,Fuzzy Diffusion Distance Learning for Cartoon Similarity Estimation.,2011,"Jun Yu, Hock Soon Seah",J. Comput. Sci. Technol. 26: 203-216 ,JCST,Unranked
+73,Cartoon synthesis using constrained spreading activation network.,2011,"Jun Yu, Hock Soon Seah, Yueting Zhuang",Multim. Tools Appl. 51: 1147-1174 ,MTA,Unranked
+74,Complex Object Correspondence Construction in Two-Dimensional Animation.,2011,"Jun Yu, Dongquan Liu, Dacheng Tao, Hock Soon Seah",IEEE Trans. Image Process. 20: 3257-3269 ,TIP,Unranked
+75,Real-time tracking of unconstrained full-body motion using Niching Swarm Filtering combined with local optimization.,2011,"Zheng Zhang, Hock Soon Seah",CVPR Workshops 2011: 23-28,CVPR,A*
+76,A markerless motion capture system with automatic subject-specific body model acquisition and robust pose tracking from 3D data.,2011,"Zheng Zhang, Hock Soon Seah, Chee Kwang Quah, Jixiang Sun",ICIP 2011: 525-528,ICIP,B
+77,Selective rendering with graphical saliency model.,2011,"Lu Dong, Weisi Lin, Ce Zhu, Hock Soon Seah",IVMSP 2011: 159-164,IVMSP,Unranked
+78,A Multiple Camera System with Real-Time Volume Reconstruction for Articulated Skeleton Pose Tracking.,2011,"Zheng Zhang, Hock Soon Seah, Chee Kwang Quah, Alex Ong, Khalid Jabbar",MMM  2011: 182-192,MMM,B
+79,A hybrid object/image space approach for efficient and robust line drawings.,2011,"Long Zhang, Ying He, Hock Soon Seah, Wolfgang Müller-Wittig",SIGGRAPH Asia Sketches 2011: 21:1-21:2,SIGGRAPHA,Unranked
+80,Sketch based image deformation and editing with guaranteed feature correspondence.,2011,"Yaqiong Liu, Hock Soon Seah, Ying He, Juncong Lin, Jiazhi Xia",VRCAI 2011: 141-148,VRCAI,Unranked
+81,Binary SIPPER plankton image classification using random subspace.,2010,"Feng Zhao, Feng Lin, Hock Soon Seah",Neurocomputing 73: 1853-1860 ,IJON,Unranked
+82,Transductive graph based cartoon synthesis.,2010,"Jun Yu, Dongquan Liu, Hock Soon Seah",Comput. Animat. Virtual Worlds 21: 277-288 ,JVCA,Unranked
+83,Real-time computation of photic extremum lines (PELs).,2010,"Long Zhang, Ying He, Hock Soon Seah",Vis. Comput. 26: 399-407 ,VC,Unranked
+84,Reference Plane Assisted Sketching Interface for 3D Freeform Shape Design.,2010,"Kai Wang, Jianmin Zheng, Hock Soon Seah",CW 2010: 105-112,CW,C
+85,A systematic approach for rapid 3D reconstruction from photosets.,2010,"Hoai Nam Le Tran, Kabilen Sornum, Hock Soon Seah, Wentong Cai, Malcolm Yoke Hean Low, Suiping Zhou, Michael Lees",ICARCV 2010: 1167-1174,ICARCV,C
+86,Real-Time Caustics in Dynamic Scenes with Multiple Directional Lights.,2010,"Budianto Tandianus, Henry Johan, Hock Soon Seah",ICEC 2010: 308-316,IWEC,Unranked
+87,Harmonic 1-form based skeleton extraction from examples.,2009,"Ying He, Xian Xiao, Hock Soon Seah",Graph. Model. 71: 49-62 ,CVGIP,Unranked
+88,Interactive shadowing for 2D Anime.,2009,"Eiji Sugisaki, Hock Soon Seah, Feng Tian, Shigeo Morishima",Comput. Animat. Virtual Worlds 20: 395-404 ,JVCA,Unranked
+89,Embedded Computing for Fluorescence Confocal Endomicroscopy Imaging.,2009,"Lee Sing Cheong, Feng Lin, Hock Soon Seah, Kemao Qian, Feng Zhao, Patricia S. P. Thong, Khee Chee Soo, Malini Olivo, Sun-Yuan Kung",J. Signal Process. Syst. 55: 217-228 ,VLSISP,Unranked
+90,Incorporating Structural Properties of Steroid Hormone Receptors and DNA into Statistic Model for HRE Recognition.,2009,"Tian Hong, Feng Lin, Hock Soon Seah",BIOCOMP 2009: 393-399,BIOCOMP,Unranked
+91,Automated Local Adaptive Thresholding for Real-time Feature Detection and Rendering of 3D Endomicroscopic Images on GPU.,2009,"Muhammad Mobeen Movania, Feng Lin, Kemao Qian, Hock Soon Seah",CGVR 2009: 10-16,CGVR,Unranked
+92,Synchronized Volumetric Cell Image Acquisition with FPGA-Controlled Endomicroscope.,2009,"Stephanus Surijadarma Tandjung, Feng Zhao, Feng Lin, Kemao Qian, Hock Soon Seah",ESA 2009: 61-67,CSREAESA,Unranked
+93,Bagging based plankton image classification.,2009,"Feng Zhao, Feng Lin, Hock Soon Seah",ICIP 2009: 2081-2084,ICIP,B
+94,Feature-based registration of confocal fluorescence endomicroscopy images.,2009,"Feng Zhao, Feng Lin, Kemao Qian, Hock Soon Seah, Sun-Yuan Kung",ICIP 2009: 2517-2520,ICIP,B
+95,Binary Plankton Image Classification Using Pairwise Classifiers.,2009,"Feng Zhao, Feng Lin, Hock Soon Seah",IPCV 2009: 735-739,IPCV,Unranked
+96,VisuaPedia: a social media based visual encyclopedia.,2009,"Neha Tripathi, Hock Soon Seah, Steven John Zuiker, Margaret Tan, Heather Kvill, Tomas Yuen Ka Ho, Chang Ke Xin, Yixiang Lu, Yuefeng Li",WSM@MM 2009: 89-96,MM,Unranked
+97,A NURBS Volume Based Mass-spring Model for Real-time Simulation through its GPU Implementation.,2009,"Sandeep Menon, Feng Lin, Kemao Qian, Hock Soon Seah",MSV 2009: 111-120,MSV,Unranked
+98,Simulation-based in-between creation for CACAni system.,2009,"Eiji Sugisaki, Hock Soon Seah, Fumihito Kyota, Masayuki Nakajima",SIGGRAPH ASIA Sketches 2009: 8:1,SIGGRAPHA,Unranked
+99,Style-learning with feature-based texture synthesis.,2008,"Xuexiang Xie, Feng Tian, Hock Soon Seah",Comput. Entertain. 6: 25:1-25:11 ,CIE,Unranked
+100,Style learning with feature-based texture synthesis.,2008,"Xuexiang Xie, Feng Tian, Hock Soon Seah",Comput. Entertain. 6: 58:1-58:13 ,CIE,Unranked
+101,Auto Coloring with Enhanced Character Registration.,2008,"Jie Qiu, Hock Soon Seah, Feng Tian, Quan Chen, Zhongke Wu, Konstantin Melikhov",Int. J. Comput. Games Technol. 2008: 135398:1-135398:7 ,IJCGT,Unranked
+102,Plant Modeling Based on 3D Reconstruction and Its Application in Digital Museum.,2008,"Tonglin Zhu, Feng Tian, Yan Zhou, Hock Soon Seah, Xiaolong Yan",Int. J. Virtual Real. 7: 81-88 ,IJVR,Unranked
+103,CONEA: CONsumer Editable Animation.,2008,"Hock Soon Seah, Feng Tian",CCNC 2008: 1020-1024,CCNC,Unranked
+104,Skinning on Progressive Decimated Models.,2008,"Xian Xiao, Seah Hock Soon, Feng Tian",CCNC 2008: 1054-1058,CCNC,Unranked
+105,Sketch-Up in the Virtual World.,2008,"Jing Wang, Feng Tian, Hock Soon Seah",CW 2008: 109-116,CW,C
+106,Example based skeletonization using harmonic one-forms.,2008,"Ying He, Xian Xiao, Hock Soon Seah",Shape Modeling International 2008: 53-61,SMI,Unranked
+107,An Effective Illustrative Visualization Framework Based on Photic Extremum Lines (PELs).,2007,"Xuexiang Xie, Ying He, Feng Tian, Hock Soon Seah, Xianfeng Gu, Hong Qin",IEEE Trans. Vis. Comput. Graph. 13: 1328-1335 ,TVCG,Unranked
+108,Skeleton Based Parametric Solid Models: Ball B-Spline Surfaces.,2007,"Zhongke Wu, Hock Soon Seah, Mingquan Zhou",CAD/Graphics 2007: 47-52,CADGRAPHICS,Unranked
+109,Skeleton Based Parametric Solid Models: Ball B-Spline Curves.,2007,"Zhongke Wu, Hock Soon Seah, Mingquan Zhou",CAD/Graphics 2007: 421-424,CADGRAPHICS,Unranked
+110,Feature Guided Texture Synthesis (FGTS) for artistic style transfer.,2007,"Xuexiang Xie, Feng Tian, Hock Soon Seah",DIMEA 2007: 44-49,DIMEA,Unranked
+111,Plant Modeling and Its Application in Digital Agriculture Museum.,2007,"Tonglin Zhu, Yan Zhou, Hock Soon Seah, Feng Tian, Xiaolong Yan",HCI  2007: 748-757,HCI,National
+112,DBSC-Based Grayscale Line Image Vectorization.,2006,"Konstantin Melikhov, Feng Tian, Jie Qiu, Quan Chen, Seah Hock Soon",J. Comput. Sci. Technol. 21: 244-248 ,JCST,Unranked
+113,DBSC-based animation enhanced with feature and motion.,2006,"Quan Chen, Feng Tian, Hock Soon Seah, Zhongke Wu, Jie Qiu, Konstantin Melikhov",Comput. Animat. Virtual Worlds 17: 189-198 ,JVCA,Unranked
+114,Guest editor's introduction.,2006,Hock Soon Seah,Vis. Comput. 22: 947-948 ,VC,Unranked
+115,Frequency-Domain Algorithms for Visual Analysis on Genomic Structures in Prokaryotes.,2006,"Lee Sing Cheong, Feng Lin, Hock Soon Seah",CGIV 2006: 96-103,IEEECGIV,Unranked
+116,Block Motion Model for Optical Flow with Smoothness Prior Function.,2006,"Stephanus Surijadarma Tandjung, Seah Hock Soon, Kemao Qian",ICARCV 2006: 1-6,ICARCV,C
+117,Editorial.,2005,"Tosiyasu L. Kunii, Hock Soon Seah",Comput. Animat. Virtual Worlds 16 ,JVCA,Unranked
+118,Enhanced auto coloring with hierarchical region matching.,2005,"Jie Qiu, Hock Soon Seah, Feng Tian, Quan Chen, Zhongke Wu",Comput. Animat. Virtual Worlds 16: 463-473 ,JVCA,Unranked
+119,Feature- and region-based auto painting for 2D animation.,2005,"Jie Qiu, Seah Hock Soon, Feng Tian, Zhongke Wu, Quan Chen",Vis. Comput. 21: 928-944 ,VC,Unranked
+120,Artistic brushstroke representation and animation with disk b-spline curve.,2005,"Seah Hock Soon, Zhongke Wu, Feng Tian, Xian Xiao, Boya Xie",Advances in Computer Entertainment Technology 2005: 88-93,ACMACE,Unranked
+121,Enhancement of aligning accuracy on zooming camera for augmented reality.,2005,"Widya Andyardja Weliamto, Hock Soon Seah, Feng Tian, Li Li",Advances in Computer Entertainment Technology 2005: 233-237,ACMACE,Unranked
+122,Interactive free-hand drawing and in-between generation with DBSC.,2005,"Seah Hock Soon, Zhongke Wu, Feng Tian, Xian Xiao, Boya Xie",Advances in Computer Entertainment Technology 2005: 385-386,ACMACE,Unranked
+123,Augmented reality with zooming camera: accurate pose and focal length estimation.,2005,"Widya Andyardja Weliamto, Seah Hock Soon, Feng Tian, Hu Meiqun",Advances in Computer Entertainment Technology 2005: 388,ACMACE,Unranked
+124,3D Modeling of Humans with Skeletons from Uncalibrated Wide Baseline Views.,2005,"Chee Kwang Quah, André Gagalowicz, Richard Roussel, Hock Soon Seah",CAIP 2005: 379-389,CAIP,C
+125,Conversion between T-Splines and Hierarchical B-Splines.,2005,"Yimin Wang, Jianmin Zheng, Hock Soon Seah",Computer Graphics and Imaging 2005: 8-13,CGIM,Unranked
+126,More optimal strokes for NPR sketching.,2005,"John P. Lewis, Nickson Fong, Xuexiang Xie, Seah Hock Soon, Feng Tian",GRAPHITE 2005: 47-50,GRAPHITE,Unranked
+127,Adaptive T-spline surface fitting to z-map models.,2005,"Jianmin Zheng, Yimin Wang, Hock Soon Seah",GRAPHITE 2005: 405-411,GRAPHITE,Unranked
+128,Robust Moment Invariant with Higher Discriminant Factor Based on Fisher Discriminant Analysis for Symbol Recognition.,2005,"Widya Andyardja Weliamto, Hock Soon Seah, Antonius Wibowo",GREC 2005: 408-421,GREC,Unranked
+129,Guest editor's introduction.,2004,"Seah Hock Soon, Alexei Sourin",Comput. Graph. 28: 465-466 ,CG,Unranked
+130,Evaluation of difference bounds for computing rational Bézier curves and surfaces.,2004,"Zhongke Wu, Feng Lin, Seah Hock Soon, Kai-Yun Chan",Comput. Graph. 28: 551-558 ,CG,Unranked
+131,Frame Skeleton Based Auto-Inbetweening in Computer Assisted Cel Animation.,2004,"Konstantin Melikhov, Feng Tian, Seah Hock Soon, Quan Chen, Jie Qiu",CW 2004: 216-223,CW,C
+132,"Proceedings of the 2nd International Conference on Computer Graphics and Interactive Techniques in Australasia and Southeast Asia 2004, Singapore, June 15-18, 2004.",2004,"Yong Tsui Lee, Stephen N. Spencer, Alan Chalmers, Seah Hock Soon","ACM 2004, ISBN 1-58113-883-0 ",GRAPHITE,Unranked
+133,Topology preserving voxelisation of rational Bézier and NURBS curves.,2003,"Zhongke Wu, Feng Lin, Seah Hock Soon",Comput. Graph. 27: 83-89 ,CG,Unranked
+134,Tunnel-free voxelisation of rational Bézier surfaces.,2003,"Zhongke Wu, Feng Lin, Seah Hock Soon",Vis. Comput. 19: 505-512 ,VC,Unranked
+135,Augmenting the World with Interactive Virtual Studio.,2003,"Li Li, Hock Soon Seah, Widya Andyardja Weliamto",CW 2003: 251-258,CW,C
+136,Computer-assisted cel animation: post-processing after inbetweening.,2003,"Ji Lu, Seah Hock Soon, Feng Tian",GRAPHITE 2003: 13-20,GRAPHITE,Unranked
+137,Computer-Assisted Auto Coloring by Region Matching.,2003,"Jie Qiu, Seah Hock Soon, Feng Tian, Quan Chen, Konstantin Melikhov",PG 2003: 175-184,PG,Journal Published
+138,A Volume Modeling Component of CAD.,2001,"Zhou Jianwen, Feng Lin, Seah Hock Soon",VG 2001: 103-117,VG,Unranked
+139,Computer-assisted coloring by matching line drawings.,2000,"Seah Hock Soon, Feng Tian",Vis. Comput. 16: 289-304 ,VC,Unranked
+140,NURBS Volume for Modelling Complex Objects.,2000,"Zhongke Wu, Hock Soon Seah, Feng Lin",Volume Graphics  2000: 159-167,COLLECTIONS,Unranked
+141,Fast Multi-Resolution Volume Rendering.,2000,"Yuting Yang, Feng Lin, Hock Soon Seah",Volume Graphics  2000: 185-197,COLLECTIONS,Unranked
+142,Fine-tuning in vectorization using algebraic curves.,1999,"Shouqing Zhang, Ling Li, Hock Soon Seah",Comput. Graph. 23: 269-276 ,CG,Unranked
+143,Vectorization of digital images using algebraic curves.,1998,"Shouqing Zhang, Ling Li, Hock Soon Seah",Comput. Graph. 22: 91-101 ,CG,Unranked
+144,An effective 3D seed fill algorithm.,1998,"Feng Lin, Seah Hock Soon",Comput. Graph. 22: 641-644 ,CG,Unranked
+145,Recursive algebraic curve fitting and rendering.,1998,"Shouqing Zhang, Ling Li, Hock Soon Seah",Vis. Comput. 14: 69-82 ,VC,Unranked
+146,Structure modeling and context-free grammar: exploring a new approach for surface boundary construction.,1997,"Feng Lin, Seah Hock Soon, Yong Tsui Lee",Comput. Graph. 21: 777-785 ,CG,Unranked
+147,Deformable volumetric model and isosurface: exploring a new approach for surface boundary construction.,1996,"Feng Lin, Seah Hock Soon, Yong Tsui Lee",Comput. Graph. 20: 33-40 ,CG,Unranked
+148,A transputer based vehicle simulator.,1995,"Thambipillai Srikanthan, Kai-Yun Chan, Hock Soon Seah, S. K. Leong",Microprocess. Microsystems 19: 395-404 ,MAM,Unranked
+149,Rendering fireworks displays.,1992,"Teng-See Loke, Daniel Tan, Hock Soon Seah, Meng Hwa Er",IEEE Computer Graphics and Applications 12: 33-43 ,CGA,Unranked

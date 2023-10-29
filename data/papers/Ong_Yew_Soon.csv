@@ -1,0 +1,455 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Survey on AI Sustainability: Emerging Trends on Learning Algorithms and Research Challenges [Review Article].,2023,"Zhenghua Chen, Min Wu, Alvin Chan, Xiaoli Li, Yew-Soon Ong",IEEE Comput. Intell. Mag. 18: 60-77 ,CIM,Unranked
+1,Jack and Masters of all Trades: One-Pass Learning Sets of Model Sets From Large Pre-Trained Models.,2023,"Han Xiang Choong, Yew-Soon Ong, Abhishek Gupta, Caishun Chen, Ray Lim",IEEE Comput. Intell. Mag. 18: 29-40 ,CIM,Unranked
+2,Breaking Hardware Boundaries of IoT Devices via Inverse Feature Completion.,2023,"Yuan Gao, Yew-Soon Ong, Maoguo Gong, Fenlong Jiang, Yuanqiao Zhang, Shanfeng Wang",IEEE Internet Things J. 10: 5519-5529 ,IOTJ,Unranked
+3,Transfer Kernel Learning for Multi-Source Transfer Gaussian Process Regression.,2023,"Pengfei Wei, Thanh Vinh Vo, Xinghua Qu, Yew Soon Ong, Zejun Ma",IEEE Trans. Pattern Anal. Mach. Intell. 45: 3862-3876 ,PAMI,Unranked
+4,Adaptive Transfer Kernel Learning for Transfer Gaussian Process Regression.,2023,"Pengfei Wei, Yiping Ke, Yew-Soon Ong, Zejun Ma",IEEE Trans. Pattern Anal. Mach. Intell. 45: 7142-7156 ,PAMI,Unranked
+5,DaisyRec 2.0: Benchmarking Recommendation for Rigorous Evaluation.,2023,"Zhu Sun, Hui Fang, Jie Yang, Xinghua Qu, Hongyang Liu, Di Yu, Yew-Soon Ong, Jie Zhang",IEEE Trans. Pattern Anal. Mach. Intell. 45: 8206-8226 ,PAMI,Unranked
+6,Heterogeneous Multi-Party Learning With Data-Driven Network Sampling.,2023,"Maoguo Gong, Yuan Gao, Yue Wu, Yuanqiao Zhang, Alex Kai Qin, Yew-Soon Ong",IEEE Trans. Pattern Anal. Mach. Intell. 45: 13328-13343 ,PAMI,Unranked
+7,Compact network embedding for fast node classification.,2023,"Xiaobo Shen, Yew-Soon Ong, Zheng Mao, Shirui Pan, Weiwei Liu, Yuhui Zheng",Pattern Recognit. 136: 109236 ,PR,Unranked
+8,Multispace Evolutionary Search for Large-Scale Optimization With Applications to Recommender Systems.,2023,"Liang Feng, Qingxia Shang, Yaqing Hou, Kay Chen Tan, Yew-Soon Ong",IEEE Trans. Artif. Intell. 4: 107-120 ,TAI,Unranked
+9,Multitask Neuroevolution for Reinforcement Learning With Long and Short Episodes.,2023,"Nick Zhang, Abhishek Gupta, Zefeng Chen, Yew-Soon Ong",IEEE Trans. Cogn. Dev. Syst. 15: 1474-1486 ,TAMD,Unranked
+10,Choose Appropriate Subproblems for Collaborative Modeling in Expensive Multiobjective Optimization.,2023,"Zhenkun Wang, Qingfu Zhang, Yew-Soon Ong, Shunyu Yao, Haitao Liu, Jianping Luo",IEEE Trans. Cybern. 53: 483-496 ,TCYB,Unranked
+11,GrpAvoid: Multigroup Collision-Avoidance Control and Optimization for UAV Swarm.,2023,"Linbo Luo, Xinyu Wang, Jianfeng Ma, Yew-Soon Ong",IEEE Trans. Cybern. 53: 1776-1789 ,TCYB,Unranked
+12,Multiparty Dual Learning.,2023,"Yuan Gao, Maoguo Gong, Yu Xie, A. Kai Qin, Ke Pan, Yew-Soon Ong",IEEE Trans. Cybern. 53: 2955-2968 ,TCYB,Unranked
+13,Generative Multiform Bayesian Optimization.,2023,"Zhendong Guo, Haitao Liu, Yew-Soon Ong, Xinghua Qu, Yuzhe Zhang, Jianmin Zheng",IEEE Trans. Cybern. 53: 4347-4360 ,TCYB,Unranked
+14,Scalable Transfer Evolutionary Optimization: Coping With Big Task Instances.,2023,"Mojtaba Shakeri, Erfan Miahi, Abhishek Gupta, Yew-Soon Ong",IEEE Trans. Cybern. 53: 6160-6172 ,TCYB,Unranked
+15,Semisupervised Graph Neural Networks for Graph Classification.,2023,"Yu Xie, Yanfeng Liang, Maoguo Gong, A. Kai Qin, Yew-Soon Ong, Tiantian He",IEEE Trans. Cybern. 53: 6222-6235 ,TCYB,Unranked
+16,Learning From Ideography and Labels: A Schema-Aware Radical-Guided Associative Model for Chinese Text Classification.,2023,"Hanqing Tao, Guanqi Zhu, Enhong Chen, Shiwei Tong, Kun Zhang, Tong Xu, Qi Liu, Yew-Soon Ong",IEEE Trans. Knowl. Data Eng. 35: 6043-6057 ,TKDE,Unranked
+17,Adversary Agnostic Robust Deep Reinforcement Learning.,2023,"Xinghua Qu, Abhishek Gupta, Yew-Soon Ong, Zhu Sun",IEEE Trans. Neural Networks Learn. Syst. 34: 6146-6157 ,TNN,Unranked
+18,Learning Multitask Gaussian Process Over Heterogeneous Input Domains.,2023,"Haitao Liu, Kai Wu, Yew-Soon Ong, Chao Bian, Xiaomo Jiang, Xiaofang Wang",IEEE Trans. Syst. Man Cybern. Syst. 53: 6232-6244 ,TSMC,Unranked
+19,Neuroevolution of Physics-Informed Neural Nets: Benchmark Problems and Comparative Results.,2023,"Nicholas Sung, Jian Cheng Wong, Chin Chun Ooi, Abhishek Gupta, Pao-Hsiung Chiu, Yew-Soon Ong",GECCO Companion 2023: 2144-2151,GECCO,A
+20,A Generic Reinforced Explainable Framework with Knowledge Graph for Session-based Recommendation.,2023,"Huizi Wu, Hui Fang, Zhu Sun, Cong Geng, Xinyu Kong, Yew-Soon Ong",ICDE 2023: 1260-1272,ICDE,A*
+21,Masked Frequency Modeling for Self-Supervised Visual Pre-Training.,2023,"Jiahao Xie, Wei Li, Xiaohang Zhan, Ziwei Liu, Yew-Soon Ong, Chen Change Loy",ICLR 2023,ICLR,A*
+22,LSA-PINN: Linear Boundary Connectivity Loss for Solving PDEs on Complex Geometry.,2023,"Jian Cheng Wong, Pao-Hsiung Chiu, Chinchun Ooi, My Ha Dao, Yew-Soon Ong",IJCNN 2023: 1-10,IJCNN,B
+23,Meta-learning Enhanced Next POI Recommendation by Leveraging Check-ins from Auxiliary Cities.,2023,"Jinze Wang, Lu Zhang, Zhu Sun, Yew-Soon Ong",PAKDD  2023: 322-334,PAKDD,B
+24,Disentangling Motives behind Item Consumption and Social Connection for Mutually-enhanced Joint Prediction.,2023,"Youchen Sun, Zhu Sun, Xiao Sha, Jie Zhang, Yew Soon Ong",RecSys 2023: 613-624,RECSYS,Unranked
+25,"Towards Building Voice-based Conversational Recommender Systems: Datasets, Potential Solutions and Prospects.",2023,"Xinghua Qu, Hongyang Liu, Zhu Sun, Xiang Yin, Yew Soon Ong, Lu Lu, Zejun Ma",SIGIR 2023: 2701-2711,SIGIR,A*
+26,LSA-PINN: Linear Boundary Connectivity Loss for Solving PDEs on Complex Geometry.,2023,"Jian Cheng Wong, Pao-Hsiung Chiu, Chinchun Ooi, My Ha Dao, Yew-Soon Ong",CoRR abs/2302.01518 ,CORR,Unranked
+27,Policy Dispersion in Non-Markovian Environment.,2023,"Bohao Qu, Xiaofeng Cao, Jielong Yang, Hechang Chen, Yi Chang, Ivor W. Tsang, Yew-Soon Ong",CoRR abs/2302.14509 ,CORR,Unranked
+28,Unfolded Self-Reconstruction LSH: Towards Machine Unlearning in Approximate Nearest Neighbour Search.,2023,"Kim Yong Tan, Yueming Lyu, Yew Soon Ong, Ivor W. Tsang",CoRR abs/2304.02350 ,CORR,Unranked
+29,Bayesian Federated Learning: A Survey.,2023,"Longbing Cao, Hui Chen, Xuhui Fan, Joao Gama, Yew-Soon Ong, Vipin Kumar",CoRR abs/2304.13267 ,CORR,Unranked
+30,Prompt Evolution for Generative AI: A Classifier-Guided Approach.,2023,"Melvin Wong, Yew-Soon Ong, Abhishek Gupta, Kavitesh Kumar Bali, Caishun Chen",CoRR abs/2305.16347 ,CORR,Unranked
+31,"Towards Building Voice-based Conversational Recommender Systems: Datasets, Potential Solutions, and Prospects.",2023,"Xinghua Qu, Hongyang Liu, Zhu Sun, Xiang Yin, Yew Soon Ong, Lu Lu, Zejun Ma",CoRR abs/2306.08219 ,CORR,Unranked
+32,"Data-Driven Chance-Constrained Multiple-Choice Knapsack Problem: Model, Algorithms, and Applications.",2023,"Xuanfeng Li, Shengcai Liu, Jin Wang, Xiao Chen, Yew-Soon Ong, Ke Tang",CoRR abs/2306.14690 ,CORR,Unranked
+33,Meta-learning enhanced next POI recommendation by leveraging check-ins from auxiliary cities.,2023,"Jinze Wang, Lu Zhang, Zhu Sun, Yew-Soon Ong",CoRR abs/2308.09309 ,CORR,Unranked
+34,Neural Influence Estimator: Towards Real-time Solutions to Influence Blocking Maximization.,2023,"Wenjie Chen, Shengcai Liu, Yew-Soon Ong, Ke Tang",CoRR abs/2308.14012 ,CORR,Unranked
+35,MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation.,2023,"Jiahao Xie, Wei Li, Xiangtai Li, Ziwei Liu, Yew Soon Ong, Chen Change Loy",CoRR abs/2309.13042 ,CORR,Unranked
+36,CIS Publication Spotlight [Publication Spotlight].,2022,"Yongduan Song, Jon Garibaldi, Carlos A. Coello Coello, Georgios N. Yannakakis, Huajin Tang, Yew Soon Ong, Hussein A. Abbass",IEEE Comput. Intell. Mag. 17: 10-12 ,CIM,Unranked
+37,CIS Publication Spotlight [Publication Spotlight].,2022,"Yongduan Song, Jon Garibaldi, Carlos A. Coello Coello, Georgios N. Yannakakis, Huajin Tang, Yew Soon Ong, Hussein A. Abbass",IEEE Comput. Intell. Mag. 17: 11-13 ,CIM,Unranked
+38,"Half a Dozen Real-World Applications of Evolutionary Multitasking, and More.",2022,"Abhishek Gupta, Lei Zhou, Yew-Soon Ong, Zefeng Chen, Yaqing Hou",IEEE Comput. Intell. Mag. 17: 49-66 ,CIM,Unranked
+39,CIS Publication Spotlight [Publication Spotlight].,2022,"Yongduan Song, Jon Garibaldi, Carlos A. Coello Coello, Georgios N. Yannakakis, Huajin Tang, Yew Soon Ong, Hussein A. Abbass",IEEE Comput. Intell. Mag. 17: 11-13 ,CIM,Unranked
+40,CIS Publication Spotlight.,2022,"Yongduan Song, Jon Garibaldi, Carlos A. Coello Coello, Georgios N. Yannakakis, Yew Soon Ong",IEEE Comput. Intell. Mag. 17: 13-15 ,CIM,Unranked
+41,Delving into Inter-Image Invariance for Unsupervised Visual Representations.,2022,"Jiahao Xie, Xiaohang Zhan, Ziwei Liu, Yew-Soon Ong, Chen Change Loy",Int. J. Comput. Vis. 130: 2994-3013 ,IJCV,Unranked
+42,A Layered Spiking Neural System for Classification Problems.,2022,"Gexiang Zhang, Xihai Zhang, Haina Rong, Prithwineel Paul, Ming Zhu, Ferrante Neri, Yew-Soon Ong",Int. J. Neural Syst. 32: 2250023:1-2250023:15 ,IJNS,Unranked
+43,Influence-Aware Attention Networks for Anomaly Detection in Surveillance Videos.,2022,"Sijia Zhang, Maoguo Gong, Yu Xie, A. Kai Qin, Hao Li, Yuan Gao, Yew-Soon Ong",IEEE Trans. Circuits Syst. Video Technol. 32: 5427-5437 ,TCSV,Unranked
+44,Solving Dynamic Multiobjective Problem via Autoencoding Evolutionary Search.,2022,"Liang Feng, Wei Zhou, Weichen Liu, Yew-Soon Ong, Kay Chen Tan",IEEE Trans. Cybern. 52: 2649-2662 ,TCYB,Unranked
+45,Scalable Gaussian Process Classification With Additive Noise for Non-Gaussian Likelihoods.,2022,"Haitao Liu, Yew-Soon Ong, Ziwei Yu, Jianfei Cai, Xiaobo Shen",IEEE Trans. Cybern. 52: 5842-5854 ,TCYB,Unranked
+46,Frame-Correlation Transfers Trigger Economical Attacks on Deep Reinforcement Learning Policies.,2022,"Xinghua Qu, Yew-Soon Ong, Abhishek Gupta",IEEE Trans. Cybern. 52: 7577-7590 ,TCYB,Unranked
+47,Vicinal Vertex Allocation for Matrix Factorization in Networks.,2022,"Tiantian He, Lu Bai, Yew-Soon Ong",IEEE Trans. Cybern. 52: 8047-8060 ,TCYB,Unranked
+48,From Multitask Gradient Descent to Gradient-Free Evolutionary Multitasking: A Proof of Faster Convergence.,2022,"Lu Bai, Wu Lin, Abhishek Gupta, Yew-Soon Ong",IEEE Trans. Cybern. 52: 8561-8573 ,TCYB,Unranked
+49,Co-Learning Bayesian Optimization.,2022,"Zhendong Guo, Yew-Soon Ong, Tiantian He, Haitao Liu",IEEE Trans. Cybern. 52: 9820-9833 ,TCYB,Unranked
+50,Deep Latent-Variable Kernel Learning.,2022,"Haitao Liu, Yew-Soon Ong, Xiaomo Jiang, Xiaofang Wang",IEEE Trans. Cybern. 52: 10276-10289 ,TCYB,Unranked
+51,Evolutionary Machine Learning With Minions: A Case Study in Feature Selection.,2022,"Nick Zhang, Abhishek Gupta, Zefeng Chen, Yew-Soon Ong",IEEE Trans. Evol. Comput. 26: 130-144 ,TEC,Unranked
+52,Guest Editorial Special Issue on Multitask Evolutionary Computation.,2022,"Abhishek Gupta, Yew-Soon Ong, Kenneth A. De Jong, Mengjie Zhang",IEEE Trans. Evol. Comput. 26: 202-205 ,TEC,Unranked
+53,Indicator-Based Evolutionary Algorithm for Solving Constrained Multiobjective Optimization Problems.,2022,"Jiawei Yuan, Hai-Lin Liu, Yew-Soon Ong, Zhaoshui He",IEEE Trans. Evol. Comput. 26: 379-391 ,TEC,Unranked
+54,Towards Faster Vehicle Routing by Transferring Knowledge From Customer Representation.,2022,"Liang Feng, Yuxiao Huang, Ivor W. Tsang, Abhishek Gupta, Ke Tang, Kay Chen Tan, Yew-Soon Ong",IEEE Trans. Intell. Transp. Syst. 23: 952-965 ,TITS,Unranked
+55,Easy-But-Effective Domain Sub-Similarity Learning for Transfer Regression.,2022,"Pengfei Wei, Ramón Sagarna, Yiping Ke, Yew-Soon Ong",IEEE Trans. Knowl. Data Eng. 34: 4161-4171 ,TKDE,Unranked
+56,Breaking Neural Reasoning Architectures With Metamorphic Relation-Based Adversarial Examples.,2022,"Alvin Chan, Lei Ma, Felix Juefei-Xu, Yew-Soon Ong, Xiaofei Xie, Minhui Xue, Yang Liu",IEEE Trans. Neural Networks Learn. Syst. 33: 6976-6982 ,TNN,Unranked
+57,An Initial Investigation of Data-Lean Transfer Evolutionary Optimization with Probabilistic Priors.,2022,"Ray Lim, Abhishek Gupta, Yew-Soon Ong",CEC 2022: 1-9,CEC,B
+58,A multifactorial differential evolution with hybrid global and local search strategies.,2022,"Mingyu Xu, Yongjin Zheng, Yew-Soon Ong, Zexuan Zhu, Xiaoliang Ma",CEC 2022: 1-9,CEC,B
+59,How Does Frequency Bias Affect the Robustness of Neural Image Classifiers against Common Corruption and Adversarial Perturbations?,2022,"Alvin Chan, Yew Soon Ong, Clement Tan",IJCAI 2022: 659-665,IJCAI,A*
+60,Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences.,2022,"Lu Zhang, Zhu Sun, Ziqing Wu, Jie Zhang, Yew Soon Ong, Xinghua Qu",IJCAI 2022: 3751-3757,IJCAI,A*
+61,Anti-Forensic Deepfake Personas and How To Spot Them.,2022,"Nguyen Hong Ngoc, Alvin Chan, Huynh Thi Thanh Binh, Yew Soon Ong",IJCNN 2022: 1-8,IJCNN,B
+62,"0.08mm2 128nW MFCC Engine for Ultra-low Power, Always-on Smart Sensing Applications.",2022,"Yi Sheng Chong, Wang Ling Goh, Yew Soon Ong, Vishnu P. Nambiar, Anh Tuan Do",ISCAS 2022: 2680-2684,ISCAS,Unranked
+63,Recovering Accuracy of RRAM-based CIM for Binarized Neural Network via Chip-in-the-loop Training.,2022,"Yi Sheng Chong, Wang Ling Goh, Yew Soon Ong, Vishnu P. Nambiar, Anh Tuan Do",ISCAS 2022: 2958-2962,ISCAS,Unranked
+64,Importance Prioritized Policy Distillation.,2022,"Xinghua Qu, Yew Soon Ong, Abhishek Gupta, Pengfei Wei, Zhu Sun, Zejun Ma",KDD 2022: 1420-1429,KDD,A*
+65,Synthesising Audio Adversarial Examples for Automatic Speech Recognition.,2022,"Xinghua Qu, Pengfei Wei, Mingyong Gao, Zhu Sun, Yew Soon Ong, Zejun Ma",KDD 2022: 1430-1440,KDD,A*
+66,Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction.,2022,"Qiancheng Fu, Qingshan Xu, Yew Soon Ong, Wenbing Tao",NeurIPS 2022,NIPS,Unranked
+67,"Revisiting Bundle Recommendation: Datasets, Tasks, Challenges and Opportunities for Intent-aware Product Bundling.",2022,"Zhu Sun, Jie Yang, Kaidong Feng, Hui Fang, Xinghua Qu, Yew Soon Ong",SIGIR 2022: 2900-2911,SIGIR,A*
+68,Tightening Regret Bounds for Scalable Transfer Optimization with Gaussian Process Surrogates.,2022,"Abhishek Gupta, Ray Lim, Chin Chun Ooi, Yew-Soon Ong",SSCI 2022: 1669-1674,SSCI,Unranked
+69,Learning Multi-Task Gaussian Process Over Heterogeneous Input Domains.,2022,"Haitao Liu, Kai Wu, Yew-Soon Ong, Xiaomo Jiang, Xiaofang Wang",CoRR abs/2202.12636 ,CORR,Unranked
+70,Lean Evolutionary Reinforcement Learning by Multitasking with Importance Sampling.,2022,"Nick Zhang, Abhishek Gupta, Zefeng Chen, Yew-Soon Ong",CoRR abs/2203.10844 ,CORR,Unranked
+71,Jack and Masters of All Trades: One-Pass Learning of a Set of Model Sets from Foundation Models.,2022,"Han Xiang Choong, Yew-Soon Ong, Abhishek Gupta, Ray Lim",CoRR abs/2205.00671 ,CORR,Unranked
+72,A Survey on AI Sustainability: Emerging Trends on Learning Algorithms and Research Challenges.,2022,"Zhenghua Chen, Min Wu, Alvin Chan, Xiaoli Li, Yew-Soon Ong",CoRR abs/2205.03824 ,CORR,Unranked
+73,How Does Frequency Bias Affect the Robustness of Neural Image Classifiers against Common Corruption and Adversarial Perturbations?,2022,"Alvin Chan, Yew-Soon Ong, Clement Tan",CoRR abs/2205.04533 ,CORR,Unranked
+74,Jacobian Granger Causal Neural Networks for Analysis of Stationary and Nonstationary Data.,2022,"Suryadi, Yew-Soon Ong, Lock Yue Chew",CoRR abs/2205.09573 ,CORR,Unranked
+75,Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction.,2022,"Qiancheng Fu, Qingshan Xu, Yew-Soon Ong, Wenbing Tao",CoRR abs/2205.15848 ,CORR,Unranked
+76,Masked Frequency Modeling for Self-Supervised Visual Pre-Training.,2022,"Jiahao Xie, Wei Li, Xiaohang Zhan, Ziwei Liu, Yew Soon Ong, Chen Change Loy",CoRR abs/2206.07706 ,CORR,Unranked
+77,DaisyRec 2.0: Benchmarking Recommendation for Rigorous Evaluation.,2022,"Zhu Sun, Hui Fang, Jie Yang, Xinghua Qu, Hongyang Liu, Di Yu, Yew-Soon Ong, Jie Zhang",CoRR abs/2206.10848 ,CORR,Unranked
+78,Understanding Diversity in Session-Based Recommendation.,2022,"Qing Yin, Hui Fang, Zhu Sun, Yew-Soon Ong",CoRR abs/2208.13453 ,CORR,Unranked
+79,A Multi-Channel Next POI Recommendation Framework with Multi-Granularity Check-in Signals.,2022,"Zhu Sun, Yu Lei, Lu Zhang, Chen Li, Yew-Soon Ong, Jie Zhang",CoRR abs/2209.00472 ,CORR,Unranked
+80,Not All Neighbors Are Worth Attending to: Graph Selective Attention Networks for Semi-supervised Learning.,2022,"Tiantian He, Haicang Zhou, Yew-Soon Ong, Gao Cong",CoRR abs/2210.07715 ,CORR,Unranked
+81,A Generic Reinforced Explainable Framework with Knowledge Graph for Session-based Recommendation.,2022,"Huizi Wu, Hui Fang, Zhu Sun, Cong Geng, Xinyu Kong, Yew-Soon Ong",CoRR abs/2212.07030 ,CORR,Unranked
+82,JAX-Accelerated Neuroevolution of Physics-informed Neural Networks: Benchmarks and Experimental Results.,2022,"Nicholas Wei Yong Sung, Jian Cheng Wong, Pao-Hsiung Chiu, Abhishek Gupta, Chinchun Ooi, Yew-Soon Ong",CoRR abs/2212.07624 ,CORR,Unranked
+83,Solution Representation Learning in Multi-Objective Transfer Evolutionary Optimization.,2021,"Ray Lim, Lei Zhou, Abhishek Gupta, Yew-Soon Ong, Allan N. Zhang",IEEE Access 9: 41844-41860 ,ACCESS,Unranked
+84,CIS Publication Spotlight [Publication Spotlight].,2021,"Haibo He, Carlos A. Coello Coello, Julian Togelius, Yaochu Jin, Yew-Soon Ong, Hussein A. Abbass",IEEE Comput. Intell. Mag. 16: 18-20 ,CIM,Unranked
+85,CIS Publication Spotlight [Publication Spotlight].,2021,"Haibo He, Jon Garibaldi, Carlos A. Coello Coello, Julian Togelius, Yaochu Jin, Yew-Soon Ong, Hussein A. Abbass",IEEE Comput. Intell. Mag. 16: 11-76 ,CIM,Unranked
+86,Can Transfer Neuroevolution Tractably Solve Your Differential Equations?,2021,"Jian Cheng Wong, Abhishek Gupta, Yew-Soon Ong",IEEE Comput. Intell. Mag. 16: 14-30 ,CIM,Unranked
+87,CIS Publication Spotlight [Publication Spotlight].,2021,"Haibo He, Jon Garibaldi, Carlos A. Coello Coello, Julian Togelius, Yaochu Jin, Yew-Soon Ong, Hussein A. Abbass","IEEE Comput. Intell. Mag. 16: 5-7, 94 ",CIM,Unranked
+88,CIS Publication Spotlight [Publication Spotlight].,2021,"Haibo He, Jon Garibaldi, Carlos A. Coello Coello, Julian Togelius, Yaochu Jin, Yew-Soon Ong, Hussein A. Abbass",IEEE Comput. Intell. Mag. 16: 14-16 ,CIM,Unranked
+89,[Guest Editorial].,2021,"Liang Feng, Handing Wang, Yew-Soon Ong, Kay Chen Tan, Yaochu Jin",IEEE Comput. Intell. Mag. 16: 17-18 ,CIM,Unranked
+90,Affect Recognition for Multimodal Natural Language Processing.,2021,"Soujanya Poria, Yew-Soon Ong, Bing Liu, Lidong Bing",Cogn. Comput. 13: 229-230 ,COGCOM,Unranked
+91,Non-linear Domain Adaptation in Transfer Evolutionary Optimization.,2021,"Ray Lim, Abhishek Gupta, Yew-Soon Ong, Liang Feng, Allan N. Zhang",Cogn. Comput. 13: 290-307 ,COGCOM,Unranked
+92,Multi-source propagation aware network clustering☆.,2021,"Tiantian He, Yew-Soon Ong, Pengwei Hu",Neurocomputing 453: 119-130 ,IJON,Unranked
+93,Two-type weight adjustments in MOEA/D for highly constrained many-objective optimization.,2021,"Ruwang Jiao, Sanyou Zeng, Changhe Li, Yew-Soon Ong",Inf. Sci. 578: 592-614 ,ISCI,Unranked
+94,Modulating scalable Gaussian processes for expressive statistical learning.,2021,"Haitao Liu, Yew-Soon Ong, Xiaomo Jiang, Xiaofang Wang",Pattern Recognit. 120: 108121 ,PR,Unranked
+95,Minimalistic Attacks: How Little It Takes to Fool Deep Reinforcement Learning Policies.,2021,"Xinghua Qu, Zhu Sun, Yew-Soon Ong, Abhishek Gupta, Pengfei Wei",IEEE Trans. Cogn. Dev. Syst. 13: 806-817 ,TAMD,Unranked
+96,Generalizing Transfer Bayesian Optimization to Source-Target Heterogeneity.,2021,"Alan Tan Wei Min, Abhishek Gupta, Yew-Soon Ong",IEEE Trans Autom. Sci. Eng. 18: 1754-1765 ,TASE,National
+97,A Collaborative Multiagent Reinforcement Learning Method Based on Policy Gradient Potential.,2021,"Zhen Zhang, Yew-Soon Ong, Dongqing Wang, Binqiang Xue",IEEE Trans. Cybern. 51: 1015-1027 ,TCYB,Unranked
+98,Cognizant Multitasking in Multiobjective Multifactorial Evolution: MO-MFEA-II.,2021,"Kavitesh Kumar Bali, Abhishek Gupta, Yew-Soon Ong, Puay Siew Tan",IEEE Trans. Cybern. 51: 1784-1796 ,TCYB,Unranked
+99,Handling Constrained Many-Objective Optimization Problems via Problem Transformation.,2021,"Ruwang Jiao, Sanyou Zeng, Changhe Li, Shengxiang Yang, Yew-Soon Ong",IEEE Trans. Cybern. 51: 4834-4847 ,TCYB,Unranked
+100,Learnable Evolutionary Search Across Heterogeneous Problems via Kernelized Autoencoding.,2021,"Lei Zhou, Liang Feng, Abhishek Gupta, Yew-Soon Ong",IEEE Trans. Evol. Comput. 25: 567-581 ,TEC,Unranked
+101,Large-Scale Heteroscedastic Regression via Gaussian Process.,2021,"Haitao Liu, Yew-Soon Ong, Jianfei Cai",IEEE Trans. Neural Networks Learn. Syst. 32: 708-721 ,TNN,Unranked
+102,Practical Multisource Transfer Regression With Source-Target Similarity Captures.,2021,"Pengfei Wei, Ramón Sagarna, Yiping Ke, Yew-Soon Ong",IEEE Trans. Neural Networks Learn. Syst. 32: 3498-3509 ,TNN,Unranked
+103,Evolutionary Multiagent Transfer Learning With Model-Based Opponent Behavior Prediction.,2021,"Yaqing Hou, Yew-Soon Ong, Jing Tang, Yifeng Zeng",IEEE Trans. Syst. Man Cybern. Syst. 51: 5962-5976 ,TSMC,Unranked
+104,RNA alternative splicing prediction with discrete compositional energy network.,2021,"Alvin Chan, Anna Korsakova, Yew-Soon Ong, Fernaldo Richtia Winnerdy, Kah Wai Lim, Anh Tuan Phan",CHIL 2021: 193-203,CHIL,Unranked
+105,CoCon: A Self-Supervised Approach for Controlled Text Generation.,2021,"Alvin Chan, Yew-Soon Ong, Bill Pung, Aston Zhang, Jie Fu",ICLR 2021,ICLR,A*
+106,An Energy-Efficient Convolution Unit for Depthwise Separable Convolutional Neural Networks.,2021,"Yi Sheng Chong, Wang Ling Goh, Yew Soon Ong, Vishnu P. Nambiar, Anh Tuan Do",ISCAS 2021: 1-5,ISCAS,Unranked
+107,Learning Conjoint Attentions for Graph Neural Nets.,2021,"Tiantian He, Yew Soon Ong, Lu Bai",NeurIPS 2021: 2641-2653,NIPS,Unranked
+108,Unsupervised Object-Level Representation Learning from Scene Images.,2021,"Jiahao Xie, Xiaohang Zhan, Ziwei Liu, Yew Soon Ong, Chen Change Loy",NeurIPS 2021: 28864-28876,NIPS,Unranked
+109,Efficient Implementation of Activation Functions for LSTM accelerators.,2021,"Yi Sheng Chong, Wang Ling Goh, Yew Soon Ong, Vishnu P. Nambiar, Anh Tuan Do",VLSI-SoC 2021: 1-5,VLSI,Unranked
+110,Can Transfer Neuroevolution Tractably Solve Your Differential Equations?,2021,"Jian Cheng Wong, Abhishek Gupta, Yew-Soon Ong",CoRR abs/2101.01998 ,CORR,Unranked
+111,Graph Joint Attention Networks.,2021,"Tiantian He, Lu Bai, Yew-Soon Ong",CoRR abs/2102.03147 ,CORR,Unranked
+112,Multi-Space Evolutionary Search for Large-Scale Optimization.,2021,"Liang Feng, Qingxia Shang, Yaqing Hou, Kay Chen Tan, Yew-Soon Ong",CoRR abs/2102.11693 ,CORR,Unranked
+113,RNA Alternative Splicing Prediction with Discrete Compositional Energy Network.,2021,"Alvin Chan, Anna Korsakova, Yew-Soon Ong, Fernaldo Richtia Winnerdy, Kah Wai Lim, Anh Tuan Phan",CoRR abs/2103.04246 ,CORR,Unranked
+114,Multi-Party Dual Learning.,2021,"Maoguo Gong, Yuan Gao, Yu Xie, A. Kai Qin, Ke Pan, Yew-Soon Ong",CoRR abs/2104.06677 ,CORR,Unranked
+115,Unsupervised Object-Level Representation Learning from Scene Images.,2021,"Jiahao Xie, Xiaohang Zhan, Ziwei Liu, Yew-Soon Ong, Chen Change Loy",CoRR abs/2106.11952 ,CORR,Unranked
+116,Word2Pix: Word to Pixel Cross Attention Transformer in Visual Grounding.,2021,"Heng Zhao, Joey Tianyi Zhou, Yew-Soon Ong",CoRR abs/2108.00205 ,CORR,Unranked
+117,Learning in Sinusoidal Spaces with Physics-Informed Neural Networks.,2021,"Jian Cheng Wong, Chinchun Ooi, Abhishek Gupta, Yew-Soon Ong",CoRR abs/2109.09338 ,CORR,Unranked
+118,Half a Dozen Real-World Applications of Evolutionary Multitasking and More.,2021,"Abhishek Gupta, Lei Zhou, Yew-Soon Ong, Zefeng Chen, Yaqing Hou",CoRR abs/2109.13101 ,CORR,Unranked
+119,CAN-PINN: A Fast Physics-Informed Neural Network Based on Coupled-Automatic-Numerical Differentiation Method.,2021,"Pao-Hsiung Chiu, Jian Cheng Wong, Chinchun Ooi, My Ha Dao, Yew-Soon Ong",CoRR abs/2110.15832 ,CORR,Unranked
+120,CIS Publication Spotlight [Publication Spotlight].,2020,"Haibo He, Jon Garibaldi, Kay Chen Tan, Julian Togelius, Yaochu Jin, Yew-Soon Ong",IEEE Comput. Intell. Mag. 15: 19-21 ,CIM,Unranked
+121,CIS Publication Spotlight [Publication Spotlight].,2020,"Haibo He, Jon Garibaldi, Kay Chen Tan, Julian Togelius, Yaochu Jin, Yew-Soon Ong",IEEE Comput. Intell. Mag. 15: 11-13 ,CIM,Unranked
+122,CIS Publication Spotlight [Publication Spotlight].,2020,"Haibo He, Jon Garibaldi, Kay Chen Tan, Julian Togelius, Yaochu Jin, Yew-Soon Ong",IEEE Comput. Intell. Mag. 15: 12-14 ,CIM,Unranked
+123,CIS Publication Spotlight [Publication Spotlight].,2020,"Haibo He, Jon Garibaldi, Kay Chen Tan, Julian Togelius, Yaochu Jin, Yew-Soon Ong",IEEE Comput. Intell. Mag. 15: 5-7 ,CIM,Unranked
+124,Precise object detection using adversarially augmented local/global feature fusion.,2020,"Xiaobing Han, Tiantian He, Yew-Soon Ong, Yanfei Zhong",Eng. Appl. Artif. Intell. 94: 103710 ,EAAI,Unranked
+125,DEVDAN: Deep evolving denoising autoencoder.,2020,"Andri Ashfahani, Mahardhika Pratama, Edwin Lughofer, Yew-Soon Ong",Neurocomputing 390: 297-314 ,IJON,Unranked
+126,"What do people think about this monument? Understanding negative reviews via deep learning, clustering and descriptive rules.",2020,"Ana Valdivia, Eugenio Martínez-Cámara, Iti Chaturvedi, María Victoria Luzón, Erik Cambria, Yew-Soon Ong, Francisco Herrera",J. Ambient Intell. Humaniz. Comput. 11: 39-52 ,JAIHC,Unranked
+127,Multi-task gradient descent for multi-task learning.,2020,"Lu Bai, Yew-Soon Ong, Tiantian He, Abhishek Gupta",Memetic Comput. 12: 355-369 ,MEMETIC,Unranked
+128,Contextual Correlation Preserving Multiview Featured Graph Clustering.,2020,"Tiantian He, Yang Liu, Tobey H. Ko, Keith C. C. Chan, Yew-Soon Ong",IEEE Trans. Cybern. 50: 4318-4331 ,TCYB,Unranked
+129,Multifactorial Evolutionary Algorithm With Online Transfer Parameter Estimation: MFEA-II.,2020,"Kavitesh Kumar Bali, Yew-Soon Ong, Abhishek Gupta, Puay Siew Tan",IEEE Trans. Evol. Comput. 24: 69-83 ,TEC,Unranked
+130,"Guest Editorial Special Issue on Structured Multi-Output Learning: Modeling, Algorithm, Theory, and Applications.",2020,"Weiwei Liu, Xiaobo Shen, Yew-Soon Ong, Ivor W. Tsang, Chen Gong, Vladimir Pavlovic",IEEE Trans. Neural Networks Learn. Syst. 31: 2236-2239 ,TNN,Unranked
+131,Survey on Multi-Output Learning.,2020,"Donna Xu, Yaxin Shi, Ivor W. Tsang, Yew-Soon Ong, Chen Gong, Xiaobo Shen",IEEE Trans. Neural Networks Learn. Syst. 31: 2409-2429 ,TNN,Unranked
+132,When Gaussian Process Meets Big Data: A Review of Scalable GPs.,2020,"Haitao Liu, Yew-Soon Ong, Xiaobo Shen, Jianfei Cai",IEEE Trans. Neural Networks Learn. Syst. 31: 4405-4423 ,TNN,Unranked
+133,Multifactorial Genetic Programming for Symbolic Regression Problems.,2020,"Jinghui Zhong, Liang Feng, Wentong Cai, Yew-Soon Ong",IEEE Trans. Syst. Man Cybern. Syst. 50: 4492-4505 ,TSMC,Unranked
+134,A Skip-Connected Evolving Recurrent Neural Network for Data Stream Classification under Label Latency Scenario.,2020,"Monidipa Das, Mahardhika Pratama, Jie Zhang, Yew-Soon Ong",AAAI 2020: 3717-3724,AAAI,A*
+135,Adaptive Knowledge Transfer based on Transfer Neural Kernel Network.,2020,"Pengfei Wei, Xinghua Qu, Yiping Ke, Tze-Yun Leong, Yew-Soon Ong",AAMAS 2020: 1485-1493,ATAL,Unranked
+136,What It Thinks Is Important Is Important: Robustness Transfers Through Input Gradients.,2020,"Alvin Chan, Yi Tay, Yew-Soon Ong",CVPR 2020: 329-338,CVPR,A*
+137,Online Deep Clustering for Unsupervised Representation Learning.,2020,"Xiaohang Zhan, Jiahao Xie, Ziwei Liu, Yew-Soon Ong, Chen Change Loy",CVPR 2020: 6687-6696,CVPR,A*
+138,Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder.,2020,"Alvin Chan, Yi Tay, Yew-Soon Ong, Aston Zhang",EMNLP  2020: 4175-4189,EMNLP,A*
+139,Jacobian Adversarially Regularized Networks for Robustness.,2020,"Alvin Chan, Yi Tay, Yew-Soon Ong, Jie Fu",ICLR 2020,ICLR,A*
+140,Genetic Programming Multitasking.,2020,"Ahmed Kattan, Faiyaz Doctor, Yew-Soon Ong, Alexandros Agapitos",SSCI 2020: 1004-1012,SSCI,Unranked
+141,Relational Thematic Clustering with Mutually Preferred Neighbors.,2020,"Tiantian He, Lu Bai, Yew-Soon Ong",CoRR abs/2001.08412 ,CORR,Unranked
+142,Heterogeneous Representation Learning: A Review.,2020,"Joey Tianyi Zhou, Xi Peng, Yew-Soon Ong",CoRR abs/2004.13303 ,CORR,Unranked
+143,Deep Latent-Variable Kernel Learning.,2020,"Haitao Liu, Yew-Soon Ong, Xiaomo Jiang, Xiaofang Wang",CoRR abs/2005.08467 ,CORR,Unranked
+144,CoCon: A Self-Supervised Approach for Controlled Text Generation.,2020,"Alvin Chan, Yew-Soon Ong, Bill Pung, Aston Zhang, Jie Fu",CoRR abs/2006.03535 ,CORR,Unranked
+145,Online Deep Clustering for Unsupervised Representation Learning.,2020,"Xiaohang Zhan, Jiahao Xie, Ziwei Liu, Yew-Soon Ong, Chen Change Loy",CoRR abs/2006.10645 ,CORR,Unranked
+146,Defending Adversarial Attacks without Adversarial Attacks in Deep Reinforcement Learning.,2020,"Xinghua Qu, Yew-Soon Ong, Abhishek Gupta, Zhu Sun",CoRR abs/2008.06199 ,CORR,Unranked
+147,Delving into Inter-Image Invariance for Unsupervised Visual Representations.,2020,"Jiahao Xie, Xiaohang Zhan, Ziwei Liu, Yew-Soon Ong, Chen Change Loy",CoRR abs/2008.11702 ,CORR,Unranked
+148,Modulating Scalable Gaussian Processes for Expressive Statistical Learning.,2020,"Haitao Liu, Yew-Soon Ong, Xiaomo Jiang, Xiaofang Wang",CoRR abs/2008.12922 ,CORR,Unranked
+149,Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder.,2020,"Alvin Chan, Yi Tay, Yew-Soon Ong, Aston Zhang",CoRR abs/2010.02684 ,CORR,Unranked
+150,Scalable Transfer Evolutionary Optimization: Coping with Big Task Instances.,2020,"Mojtaba Shakeri, Erfan Miahi, Abhishek Gupta, Yew-Soon Ong",CoRR abs/2012.01830 ,CORR,Unranked
+151,CIS Publication Spotlight [Publication Spotlight].,2019,"Haibo He, Jon Garibaldi, Kay Chen Tan, Julian Togelius, Yaochu Jin, Yew-Soon Ong",IEEE Comput. Intell. Mag. 14: 10-12 ,CIM,Unranked
+152,CIS Publication Spotlight [Publication Spotlight].,2019,"Haibo He, Jon Garibaldi, Kay Chen Tan, Julian Togelius, Yaochu Jin, Yew-Soon Ong",IEEE Comput. Intell. Mag. 14: 13-15 ,CIM,Unranked
+153,CIS Publication Spotlight [Publication Spotlight].,2019,"Haibo He, Jon Garibaldi, Kay Chen Tan, Julian Togelius, Yew-Soon Ong",IEEE Comput. Intell. Mag. 14: 4-6 ,CIM,Unranked
+154,CIS Publication Spotlight [Publication Spotlight].,2019,"Haibo He, Jon Garibaldi, Kay Chen Tan, Julian Togelius, Yaochu Jin, Yew-Soon Ong",IEEE Comput. Intell. Mag. 14: 8-10 ,CIM,Unranked
+155,Back to the Roots: Multi-X Evolutionary Computation.,2019,"Abhishek Gupta, Yew-Soon Ong",Cogn. Comput. 11: 1-17 ,COGCOM,Unranked
+156,Understanding and comparing scalable Gaussian process regression for big data.,2019,"Haitao Liu, Jianfei Cai, Yew-Soon Ong, Yi Wang",Knowl. Based Syst. 164: 324-335 ,KBS,Unranked
+157,Fast transfer Gaussian process regression with large-scale sources.,2019,"Bingshui Da, Yew-Soon Ong, Abhishek Gupta, Liang Feng, Haitao Liu",Knowl. Based Syst. 165: 208-218 ,KBS,Unranked
+158,Compressed representation for higher-level meme space evolution: a case study on big knapsack problems.,2019,"Liang Feng, Abhishek Gupta, Yew-Soon Ong",Memetic Comput. 11: 3-17 ,MEMETIC,Unranked
+159,Domination landscape in evolutionary algorithms and its applications.,2019,"Guo-Sheng Hao, Meng-Hiot Lim, Yew-Soon Ong, Han Huang, Gai-Ge Wang",Soft Comput. 23: 3563-3570 ,SOCO,Unranked
+160,Evolutionary Optimization of Expensive Multiobjective Problems With Co-Sub-Pareto Front Gaussian Process Surrogates.,2019,"Jianping Luo, Abhishek Gupta, Yew-Soon Ong, Zhenkun Wang",IEEE Trans. Cybern. 49: 1708-1721 ,TCYB,Unranked
+161,Fisher Information Matrix of Unipolar Activation Function-Based Multilayer Perceptrons.,2019,"Weili Guo, Yew-Soon Ong, Yingjiang Zhou, Jaime Rubio Hervas, Aiguo Song, Haikun Wei",IEEE Trans. Cybern. 49: 3088-3098 ,TCYB,Unranked
+162,Evolutionary Multitasking via Explicit Autoencoding.,2019,"Liang Feng, Lei Zhou, Jinghui Zhong, Abhishek Gupta, Yew-Soon Ong, Kay Chen Tan, Alex Kai Qin",IEEE Trans. Cybern. 49: 3457-3470 ,TCYB,Unranked
+163,Curbing Negative Influences Online for Seamless Transfer Evolutionary Optimization.,2019,"Bingshui Da, Abhishek Gupta, Yew-Soon Ong",IEEE Trans. Cybern. 49: 4365-4378 ,TCYB,Unranked
+164,Multiproblem Surrogates: Transfer Evolutionary Multiobjective Optimization of Computationally Expensive Problems.,2019,"Alan Tan Wei Min, Yew-Soon Ong, Abhishek Gupta, Chi Keong Goh",IEEE Trans. Evol. Comput. 23: 15-28 ,TEC,Unranked
+165,On Scalable Multiobjective Test Problems With Hardly Dominated Boundaries.,2019,"Zhenkun Wang, Yew-Soon Ong, Hisao Ishibuchi",IEEE Trans. Evol. Comput. 23: 217-231 ,TEC,Unranked
+166,A Generator for Multiobjective Test Problems With Difficult-to-Approximate Pareto Front Boundaries.,2019,"Zhenkun Wang, Yew-Soon Ong, Jianyong Sun, Abhishek Gupta, Qingfu Zhang",IEEE Trans. Evol. Comput. 23: 556-571 ,TEC,Unranked
+167,Evolutionary Multitasking Sparse Reconstruction: Framework and Case Study.,2019,"Hao Li, Yew-Soon Ong, Maoguo Gong, Zhenkun Wang",IEEE Trans. Evol. Comput. 23: 733-747 ,TEC,Unranked
+168,AIR5: Five Pillars of Artificial Intelligence Research.,2019,"Yew-Soon Ong, Abhishek Gupta",IEEE Trans. Emerg. Top. Comput. Intell. 3: 411-415 ,TETCI,Unranked
+169,Domain Adaption via Feature Selection on Explicit Feature Map.,2019,"Wan-Yu Deng, Amaury Lendasse, Yew-Soon Ong, Ivor Wai-Hung Tsang, Lin Chen, Qing-Hua Zheng",IEEE Trans. Neural Networks Learn. Syst. 30: 1180-1190 ,TNN,Unranked
+170,The Blessing of Dimensionality in Many-Objective Search: An Inverse Machine Learning Insight.,2019,"Abhishek Gupta, Yew-Soon Ong, Mojtaba Shakeri, Xu Chi, Allan NengSheng Zhang",IEEE BigData 2019: 3896-3902,BIGDATACONF,Unranked
+171,Coping with Big Data in Transfer Optimization.,2019,"Mojtaba Shakeri, Abhishek Gupta, Yew-Soon Ong, Xu Chi, Allan Zhang NengSheng",IEEE BigData 2019: 3925-3932,BIGDATACONF,Unranked
+172,Memetic Evolution Strategy for Reinforcement Learning.,2019,"Xinghua Qu, Yew-Soon Ong, Yaqing Hou, Xiaobo Shen",CEC 2019: 1922-1928,CEC,B
+173,Automatic Construction of Multi-layer Perceptron Network from Streaming Examples.,2019,"Mahardhika Pratama, Choiru Za'in, Andri Ashfahani, Yew-Soon Ong, Weiping Ding",CIKM 2019: 1171-1180,CIKM,A
+174,Can route planning be smarter with transfer optimization?,2019,"Ray Lim, Yew-Soon Ong, Phan Thi Hong Hanh, Abhishek Gupta, Nengsheng Allan Zhang",GECCO  2019: 318-319,GECCO,A
+175,Manifold Regularized Stochastic Block Model.,2019,"Tiantian He, Lu Bai, Yew-Soon Ong",ICTAI 2019: 800-807,ICTAI,B
+176,A Survey on Multi-output Learning.,2019,"Donna Xu, Yaxin Shi, Ivor W. Tsang, Yew-Soon Ong, Chen Gong, Xiaobo Shen",CoRR abs/1901.00248 ,CORR,Unranked
+177,Scalable Gaussian Process Classification with Additive Noise for Various Likelihoods.,2019,"Haitao Liu, Yew-Soon Ong, Ziwei Yu, Jianfei Cai, Xiaobo Shen",CoRR abs/1909.06541 ,CORR,Unranked
+178,Automatic Construction of Multi-layer Perceptron Network from Streaming Examples.,2019,"Mahardhika Pratama, Choiru Za'in, Andri Ashfahani, Yew-Soon Ong, Weiping Ding",CoRR abs/1910.03437 ,CORR,Unranked
+179,DEVDAN: Deep Evolving Denoising Autoencoder.,2019,"Andri Ashfahani, Mahardhika Pratama, Edwin Lughofer, Yew-Soon Ong",CoRR abs/1910.04062 ,CORR,Unranked
+180,Minimalistic Attacks: How Little it Takes to Fool a Deep Reinforcement Learning Policy.,2019,"Xinghua Qu, Zhu Sun, Yew-Soon Ong, Pengfei Wei, Abhishek Gupta",CoRR abs/1911.03849 ,CORR,Unranked
+181,A Multi-Task Gradient Descent Method for Multi-Label Learning.,2019,"Lu Bai, Yew-Soon Ong, Tiantian He, Abhishek Gupta",CoRR abs/1911.07693 ,CORR,Unranked
+182,Poison as a Cure: Detecting & Neutralizing Variable-Sized Backdoor Attacks in Deep Neural Networks.,2019,"Alvin Chan, Yew-Soon Ong",CoRR abs/1911.08040 ,CORR,Unranked
+183,What it Thinks is Important is Important: Robustness Transfers through Input Gradients.,2019,"Alvin Chan, Yi Tay, Yew-Soon Ong",CoRR abs/1912.05699 ,CORR,Unranked
+184,Jacobian Adversarially Regularized Networks for Robustness.,2019,"Alvin Chan, Yi Tay, Yew-Soon Ong, Jie Fu",CoRR abs/1912.10185 ,CORR,Unranked
+185,How to Find a Perfect Data Scientist: A Distance-Metric Learning Approach.,2018,"Han Hu, Yong Luo, Yonggang Wen, Yew-Soon Ong, Xinwen Zhang",IEEE Access 6: 60380-60395 ,ACCESS,Unranked
+186,Computational intelligence in optical remote sensing image processing.,2018,"Yanfei Zhong, Ailong Ma, Yew-Soon Ong, Zexuan Zhu, Liangpei Zhang",Appl. Soft Comput. 64: 75-93 ,ASC,Unranked
+187,Co-evolutionary multi-task learning for dynamic time series prediction.,2018,"Rohitash Chandra, Yew-Soon Ong, Chi-Keong Goh",Appl. Soft Comput. 70: 576-589 ,ASC,Unranked
+188,CIS Publication Spotlight [Publication Spotlight].,2018,"Haibo He, Jon Garibaldi, Kay Chen Tan, Graham Kendall, Yaochu Jin, Yew-Soon Ong",IEEE Comput. Intell. Mag. 13: 25-27 ,CIM,Unranked
+189,CIS Publication Spotlight [Publication Spotlight].,2018,"Haibo He, Jon Garibaldi, Kay Chen Tan, Graham Kendall, Yaochu Jin, Yew-Soon Ong",IEEE Comput. Intell. Mag. 13: 13-15 ,CIM,Unranked
+190,CIS Publication Spotlight [Publication Spotlight].,2018,"Haibo He, Jon Garibaldi, Kay Chen Tan, Julian Togelius, Yaochu Jin, Yew-Soon Ong",IEEE Comput. Intell. Mag. 13: 8-11 ,CIM,Unranked
+191,CIS Publication Spotlight [Publication Spotlight].,2018,"Haibo He, Jon Garibaldi, Kay Chen Tan, Julian Togelius, Yaochu Jin, Yew-Soon Ong",IEEE Comput. Intell. Mag. 13: 10-12 ,CIM,Unranked
+192,Cope with diverse data structures in multi-fidelity modeling: A Gaussian process method.,2018,"Haitao Liu, Yew-Soon Ong, Jianfei Cai, Yi Wang",Eng. Appl. Artif. Intell. 67: 211-225 ,EAAI,Unranked
+193,Numerical Analysis near Singularities in RBF Networks.,2018,"Weili Guo, Haikun Wei, Yew-Soon Ong, Jaime Rubio Hervas, Junsheng Zhao, Hai Wang, Kanjian Zhang",J. Mach. Learn. Res. 19: 1:1-1:39 ,JMLR,Unranked
+194,Remarks on multi-output Gaussian process regression.,2018,"Haitao Liu, Jianfei Cai, Yew-Soon Ong",Knowl. Based Syst. 144: 102-121 ,KBS,Unranked
+195,Addressing expensive multi-objective games with postponed preference articulation via memetic co-evolution.,2018,"Adam Zychowski, Abhishek Gupta, Jacek Mandziuk, Yew-Soon Ong",Knowl. Based Syst. 154: 17-31 ,KBS,Unranked
+196,Evolutionary Multi-task Learning for Modular Knowledge Representation in Neural Networks.,2018,"Rohitash Chandra, Abhishek Gupta, Yew-Soon Ong, Chi-Keong Goh",Neural Process. Lett. 47: 993-1009 ,NPL,Unranked
+197,Objective Reduction in Many-Objective Optimization: Evolutionary Multiobjective Approaches and Comprehensive Analysis.,2018,"Yuan Yuan, Yew-Soon Ong, Abhishek Gupta, Hua Xu",IEEE Trans. Evol. Comput. 22: 189-210 ,TEC,Unranked
+198,Insights on Transfer Optimization: Because Experience is the Best Teacher.,2018,"Abhishek Gupta, Yew-Soon Ong, Liang Feng",IEEE Trans. Emerg. Top. Comput. Intell. 2: 51-64 ,TETCI,Unranked
+199,Multilabel Prediction via Cross-View Search.,2018,"Xiaobo Shen, Weiwei Liu, Ivor W. Tsang, Quan-Sen Sun, Yew-Soon Ong",IEEE Trans. Neural Networks Learn. Syst. 29: 4324-4338 ,TNN,Unranked
+200,A New Decomposition-Based NSGA-II for Many-Objective Optimization.,2018,"Maha Elarbi, Slim Bechikh, Abhishek Gupta, Lamjed Ben Said, Yew-Soon Ong",IEEE Trans. Syst. Man Cybern. Syst. 48: 1191-1210 ,TSMC,Unranked
+201,Compact Multi-Label Learning.,2018,"Xiaobo Shen, Weiwei Liu, Ivor W. Tsang, Quan-Sen Sun, Yew-Soon Ong",AAAI 2018: 4066-4073,AAAI,A*
+202,Context-based and Explainable Decision Making with Argumentation.,2018,"Zhiwei Zeng, Xiuyi Fan, Chunyan Miao, Cyril Leung, Jing Jih Chin, Yew-Soon Ong",AAMAS 2018: 1114-1122,ATAL,Unranked
+203,A Preliminary Study of Adaptive Indicator Based Evolutionary Algorithm for Dynamic Multiobjective Optimization via Autoencoding.,2018,"Wei Zhou, Liang Feng, Siwei Jiang, Shu Zhang, Yaqing Hou, Yew-Soon Ong, Zexuan Zhu, Kai Liu",CEC 2018: 1-7,CEC,B
+204,Uncluttered Domain Sub-Similarity Modeling for Transfer Regression.,2018,"Pengfei Wei, Ramón Sagarna, Yiping Ke, Yew-Soon Ong",ICDM 2018: 1314-1319,ICDM,A*
+205,Generalized Robust Bayesian Committee Machine for Large-scale Gaussian Process Regression.,2018,"Haitao Liu, Jianfei Cai, Yi Wang, Yew-Soon Ong",ICML 2018: 3137-3146,ICML,A*
+206,Deep Discrete Prototype Multilabel Learning.,2018,"Xiaobo Shen, Weiwei Liu, Yong Luo, Yew-Soon Ong, Ivor W. Tsang",IJCAI 2018: 2675-2681,IJCAI,A*
+207,Discrete Network Embedding.,2018,"Xiaobo Shen, Shirui Pan, Weiwei Liu, Yew-Soon Ong, Quan-Sen Sun",IJCAI 2018: 3549-3555,IJCAI,A*
+208,"2018 IEEE International Conference on Big Knowledge, ICBK 2018, Singapore, November 17-18, 2018.",2018,"Xindong Wu, Yew-Soon Ong, Charu C. Aggarwal, Huanhuan Chen","IEEE Computer Society 2018, ISBN 978-1-5386-9125-0 ",ICBK,Unranked
+209,Generalized Robust Bayesian Committee Machine for Large-scale Gaussian Process Regression.,2018,"Haitao Liu, Jianfei Cai, Yi Wang, Yew-Soon Ong",CoRR abs/1806.00720 ,CORR,Unranked
+210,When Gaussian Process Meets Big Data: A Review of Scalable GPs.,2018,"Haitao Liu, Yew-Soon Ong, Xiaobo Shen, Jianfei Cai",CoRR abs/1807.01065 ,CORR,Unranked
+211,Metamorphic Relation Based Adversarial Attacks on Differentiable Neural Computer.,2018,"Alvin Chan, Lei Ma, Felix Juefei-Xu, Xiaofei Xie, Yang Liu, Yew-Soon Ong",CoRR abs/1809.02444 ,CORR,Unranked
+212,Autonomous Deep Learning: Incremental Learning of Denoising Autoencoder for Evolving Data Streams.,2018,"Mahardhika Pratama, Andri Ashfahani, Yew-Soon Ong, Savitha Ramasamy, Edwin Lughofer",CoRR abs/1809.09081 ,CORR,Unranked
+213,Ockham's Razor in Memetic Computing: Three Stage Optimal Memetic Exploration.,2018,"Giovanni Iacca, Ferrante Neri, Ernesto Mininno, Yew-Soon Ong, Meng-Hiot Lim",CoRR abs/1810.08669 ,CORR,Unranked
+214,Understanding and Comparing Scalable Gaussian Process Regression for Big Data.,2018,"Haitao Liu, Jianfei Cai, Yew-Soon Ong, Yi Wang",CoRR abs/1811.01159 ,CORR,Unranked
+215,Large-scale Heteroscedastic Regression via Gaussian Process.,2018,"Haitao Liu, Yew-Soon Ong, Jianfei Cai",CoRR abs/1811.01179 ,CORR,Unranked
+216,Towards Safer Smart Contracts: A Sequence Learning Approach to Detecting Vulnerabilities.,2018,"Wesley Joon-Wie Tann, Xing Jie Han, Sourav Sen Gupta, Yew-Soon Ong",CoRR abs/1811.06632 ,CORR,Unranked
+217,AIR5: Five Pillars of Artificial Intelligence Research.,2018,"Yew-Soon Ong, Abhishek Gupta",CoRR abs/1812.11509 ,CORR,Unranked
+218,An adaptive sampling approach for Kriging metamodeling by maximizing expected prediction error.,2017,"Haitao Liu, Jianfei Cai, Yew-Soon Ong",Comput. Chem. Eng. 106: 171-182 ,CCE,Unranked
+219,CIS Publication Spotlight [Publication Spotlight].,2017,"Haibo He, Jon Garibaldi, Kay Chen Tan, Graham Kendall, Yaochu Jin, Yew-Soon Ong",IEEE Comput. Intell. Mag. 12: 20-22 ,CIM,Unranked
+220,CIS Publication Spotlight [Publication Spotlight].,2017,"Haibo He, Jon Garibaldi, Kay Chen Tan, Graham Kendall, Yaochu Jin, Yew-Soon Ong",IEEE Comput. Intell. Mag. 12: 6-9 ,CIM,Unranked
+221,Gene Expression Programming: A Survey [Review Article].,2017,"Jinghui Zhong, Liang Feng, Yew-Soon Ong",IEEE Comput. Intell. Mag. 12: 54-72 ,CIM,Unranked
+222,CIS Publication Spotlight [Publication Spotlight].,2017,"Haibo He, Jon Garibaldi, Kay Chen Tan, Graham Kendall, Yaochu Jin, Yew-Soon Ong",IEEE Comput. Intell. Mag. 12: 9-11 ,CIM,Unranked
+223,Knowledge Transfer Through Machine Learning in Aircraft Design.,2017,"Alan Tan Wei Min, Ramón Sagarna, Abhishek Gupta, Yew-Soon Ong, Chi Keong Goh",IEEE Comput. Intell. Mag. 12: 48-60 ,CIM,Unranked
+224,Coevolutionary multitasking for concurrent global optimization: With case studies in complex engineering design.,2017,"Meiying Cheng, Abhishek Gupta, Yew-Soon Ong, Zhiwei Ni",Eng. Appl. Artif. Intell. 64: 13-24 ,EAAI,Unranked
+225,A generic framework for multi-criteria decision support in eco-friendly urban logistics systems.,2017,"Abhishek Gupta, Chen Kim Heng, Yew-Soon Ong, Puay Siew Tan, Allan N. Zhang",Expert Syst. Appl. 71: 288-300 ,ESWA,Unranked
+226,Co-evolutionary multi-task learning with predictive recurrence for multi-step chaotic time series prediction.,2017,"Rohitash Chandra, Yew-Soon Ong, Chi-Keong Goh",Neurocomputing 243: 21-34 ,IJON,Unranked
+227,Extreme learning machine for indoor location fingerprinting.,2017,"Felis Dwiyasa, Meng-Hiot Lim, Yew-Soon Ong, Bijaya K. Panigrahi",Multidimens. Syst. Signal Process. 28: 867-883 ,MSSP,Unranked
+228,Multiobjective Multifactorial Optimization in Evolutionary Multitasking.,2017,"Abhishek Gupta, Yew-Soon Ong, Liang Feng, Kay Chen Tan",IEEE Trans. Cybern. 47: 1652-1665 ,TCYB,Unranked
+229,Structured Memetic Automation for Online Human-Like Social Behavior Learning.,2017,"Yifeng Zeng, Xuefeng Chen, Yew-Soon Ong, Jing Tang, Yanping Xiang",IEEE Trans. Evol. Comput. 21: 102-115 ,TEC,Unranked
+230,An Evolutionary Transfer Reinforcement Learning Framework for Multiagent Systems.,2017,"Yaqing Hou, Yew-Soon Ong, Liang Feng, Jacek M. Zurada",IEEE Trans. Evol. Comput. 21: 601-615 ,TEC,Unranked
+231,Autoencoding Evolutionary Search With Learning Across Heterogeneous Problems.,2017,"Liang Feng, Yew-Soon Ong, Siwei Jiang, Abhishek Gupta",IEEE Trans. Evol. Comput. 21: 760-772 ,TEC,Unranked
+232,Editorial IEEE Transactions on Emerging Topics in Computational Intelligence.,2017,Yew-Soon Ong,IEEE Trans. Emerg. Top. Comput. Intell. 1: 1 ,TETCI,Unranked
+233,Solving dynamic vehicle routing problem via evolutionary search with learning capability.,2017,"Lei Zhou, Liang Feng, Abhishek Gupta, Yew-Soon Ong, K. Liu, C. Chen, Edwin Hsing-Mean Sha, B. Yang, B. W. Yan",CEC 2017: 890-896,CEC,B
+234,Linearized domain adaptation in evolutionary multitasking.,2017,"Kavitesh Kumar Bali, Abhishek Gupta, Liang Feng, Yew-Soon Ong, Puay Siew Tan",CEC 2017: 1295-1302,CEC,B
+235,MIML-FCN+: Multi-Instance Multi-Label Learning via Fully Convolutional Networks with Privileged Information.,2017,"Hao Yang, Joey Tianyi Zhou, Jianfei Cai, Yew-Soon Ong",CVPR 2017: 5996-6004,CVPR,A*
+236,Source-Target Similarity Modelings for Multi-Source Transfer Gaussian Process Regression.,2017,"Pengfei Wei, Ramón Sagarna, Yiping Ke, Yew-Soon Ong, Chi-Keong Goh",ICML 2017: 3722-3731,ICML,A*
+237,On the Emerging Notion of Evolutionary Multitasking: A Computational Analog of Cognitive Multitasking.,2017,"Abhishek Gupta, Bingshui Da, Yuan Yuan, Yew-Soon Ong",Recent Advances in Evolutionary Multi-objective Optimization 2017: 139-157,COLLECTIONS,Unranked
+238,MIML-FCN+: Multi-instance Multi-label Learning via Fully Convolutional Networks with Privileged Information.,2017,"Hao Yang, Joey Tianyi Zhou, Jianfei Cai, Yew-Soon Ong",CoRR abs/1702.08681 ,CORR,Unranked
+239,Co-evolutionary multi-task learning for dynamic time series prediction.,2017,"Rohitash Chandra, Yew-Soon Ong, Chi-Keong Goh",CoRR abs/1703.01887 ,CORR,Unranked
+240,"Evolutionary Multitasking for Multiobjective Continuous Optimization: Benchmark Problems, Performance Metrics and Baseline Results.",2017,"Yuan Yuan, Yew-Soon Ong, Liang Feng, A. Kai Qin, Abhishek Gupta, Bingshui Da, Qingfu Zhang, Kay Chen Tan, Yaochu Jin, Hisao Ishibuchi",CoRR abs/1706.02766 ,CORR,Unranked
+241,"Evolutionary Multitasking for Single-objective Continuous Optimization: Benchmark Problems, Performance Metric, and Baseline Results.",2017,"Bingshui Da, Yew-Soon Ong, Liang Feng, A. Kai Qin, Abhishek Gupta, Zexuan Zhu, Chuan-Kang Ting, Ke Tang, Xin Yao",CoRR abs/1706.03470 ,CORR,Unranked
+242,Addressing Expensive Multi-objective Games with Postponed Preference Articulation via Memetic Co-evolution.,2017,"Adam Zychowski, Abhishek Gupta, Jacek Mandziuk, Yew-Soon Ong",CoRR abs/1711.06763 ,CORR,Unranked
+243,Dynamic conditional value-at-risk model for routing and scheduling of hazardous material transportation networks.,2016,"Shahrzad Faghih-Roohi, Yew-Soon Ong, Sobhan Asian, Allan N. Zhang",Ann. Oper. Res. 247: 715-734 ,ANOR,Unranked
+244,Evolutionary Multitasking: A Computer Science View of Cognitive Multitasking.,2016,"Yew-Soon Ong, Abhishek Gupta",Cogn. Comput. 8: 125-142 ,COGCOM,Unranked
+245,Towards a new Praxis in optinformatics targeting knowledge re-use in evolutionary computation: simultaneous problem learning and optimization.,2016,"Dudy Lim, Yew-Soon Ong, Abhishek Gupta, Chi Keong Goh, Partha Sarathi Dutta",Evol. Intell. 9: 203-220 ,EVI,Unranked
+246,Online sequential reduced kernel extreme learning machine.,2016,"Wan-Yu Deng, Yew-Soon Ong, Puay Siew Tan, Qing-Hua Zheng",Neurocomputing 174: 72-84 ,IJON,Unranked
+247,GP made faster with semantic surrogate modelling.,2016,"Ahmed Kattan, Alexandros Agapitos, Yew-Soon Ong, Ateq A. Alghamedi, Michael O'Neill",Inf. Sci. 355-356: 169-185 ,ISCI,Unranked
+248,Learning word dependencies in text by means of a deep recurrent belief network.,2016,"Iti Chaturvedi, Yew-Soon Ong, Ivor W. Tsang, Roy E. Welsch, Erik Cambria",Knowl. Based Syst. 108: 144-154 ,KBS,Unranked
+249,Editorial.,2016,"Meng-Hiot Lim, Yew-Soon Ong, Steven M. Gustafson",Memetic Comput. 8: 83-84 ,MEMETIC,Unranked
+250,A Fast Reduced Kernel Extreme Learning Machine.,2016,"Wan-Yu Deng, Yew-Soon Ong, Qing-Hua Zheng",Neural Networks 76: 29-38 ,NN,Unranked
+251,Making Trillion Correlations Feasible in Feature Grouping and Selection.,2016,"Yiteng Zhai, Yew-Soon Ong, Ivor W. Tsang",IEEE Trans. Pattern Anal. Mach. Intell. 38: 2472-2486 ,PAMI,Unranked
+252,Conceptual modeling of evolvable local searches in memetic algorithms using linear genetic programming: a case study on capacitated vehicle routing problem.,2016,"Liang Feng, Yew-Soon Ong, Caishun Chen, Xianshun Chen",Soft Comput. 20: 3745-3769 ,SOCO,Unranked
+253,Soft computing in remote sensing image processing.,2016,"Yanfei Zhong, Zexuan Zhu, Yew-Soon Ong",Soft Comput. 20: 4629-4630 ,SOCO,Unranked
+254,Specialization of a UCT-Based General Game Playing Program to Single-Player Games.,2016,"Maciej Swiechowski, Jacek Mandziuk, Yew-Soon Ong",IEEE Trans. Comput. Intell. AI Games 8: 218-228 ,TCIAIG,Unranked
+255,Memetic Music Composition.,2016,"Enrique Muñoz Ballester, José Manuel Cadenas, Yew-Soon Ong, Giovanni Acampora",IEEE Trans. Evol. Comput. 20: 1-15 ,TEC,Unranked
+256,Self-Learning Gene Expression Programming.,2016,"Jinghui Zhong, Yew-Soon Ong, Wentong Cai",IEEE Trans. Evol. Comput. 20: 65-80 ,TEC,Unranked
+257,Multifactorial Evolution: Toward Evolutionary Multitasking.,2016,"Abhishek Gupta, Yew-Soon Ong, Liang Feng",IEEE Trans. Evol. Comput. 20: 343-357 ,TEC,Unranked
+258,Solving the Dynamic Vehicle Routing Problem Under Traffic Congestion.,2016,"Gitae Kim, Yew-Soon Ong, Taesu Cheong, Puay Siew Tan",IEEE Trans. Intell. Transp. Syst. 17: 2367-2380 ,TITS,Unranked
+259,The Boon of Gene-Culture Interaction for Effective Evolutionary Multitasking.,2016,"Bingshui Da, Abhishek Gupta, Yew-Soon Ong, Liang Feng",ACALCI 2016: 54-65,ACAL,Unranked
+260,A Memetic Multi-Agent Demonstration Learning Approach with Behavior Prediction.,2016,"Yaqing Hou, Yifeng Zeng, Yew-Soon Ong",AAMAS 2016: 539-547,ATAL,Unranked
+261,Adaptive indicator-based evolutionary algorithm for multiobjective optimization problems.,2016,"Siwei Jiang, Liang Feng, Chen Kim Heng, Quoc Chinh Nguyen, Yew-Soon Ong, Nengsheng Allan Zhang, Puay Siew Tan",CEC 2016: 492-499,CEC,B
+262,Towards adaptive weight vectors for multiobjective evolutionary algorithm based on decomposition.,2016,"Siwei Jiang, Liang Feng, Dazhi Yang, Chen Kim Heng, Yew-Soon Ong, Nengsheng Allan Zhang, Puay Siew Tan, Zhihua Cai",CEC 2016: 500-507,CEC,B
+263,Application of route flexibility in data-starved vehicle routing problem with time windows.,2016,"Chen Kim Heng, Quoc Chinh Nguyen, Siwei Jiang, Puay Siew Tan, Abhishek Gupta, Bingshui Da, Yew-Soon Ong",CEC 2016: 799-805,CEC,B
+264,A preliminary study on distance selection in probabilistic memetic framework for capacitated arc routing problem.,2016,"Zhenbin Ye, Liang Feng, Yew-Soon Ong, Kai Liu, Chao Chen, Edwin Hsing-Mean Sha",CEC 2016: 1687-1694,CEC,B
+265,Evolutionary multitasking across single and multi-objective formulations for improved problem solving.,2016,"Bingshui Da, Abhishek Gupta, Yew-Soon Ong, Liang Feng",CEC 2016: 1695-1701,CEC,B
+266,Pareto rank learning for multi-objective bi-level optimization: A study in composites manufacturing.,2016,"Abhishek Gupta, Yew-Soon Ong, Piaras A. Kelly, Chi-Keong Goh",CEC 2016: 1940-1947,CEC,B
+267,Landscape synergy in evolutionary multitasking.,2016,"Abhishek Gupta, Yew-Soon Ong, Bingshui Da, Liang Feng, Stephanus Daniel Handoko",CEC 2016: 3076-3083,CEC,B
+268,Evolutionary Multi-task Learning for Modular Training of Feedforward Neural Networks.,2016,"Rohitash Chandra, Abhishek Gupta, Yew-Soon Ong, Chi Keong Goh",ICONIP  2016: 37-46,ICONIP,B
+269,Creating human-like non-player game characters using a Memetic Multi-Agent System.,2016,"Yaqing Hou, Liang Feng, Yew-Soon Ong",IJCNN 2016: 177-184,IJCNN,B
+270,Semi-supervised auto-encoder based on manifold learning.,2016,"Yawei Li, Lizuo Jin, A. Kai Qin, Changyin Sun, Yew-Soon Ong, Tong Cui",IJCNN 2016: 4032-4039,IJCNN,B
+271,A conceptual modeling of flocking-regulated multi-agent reinforcement learning.,2016,"C. S. Chen, Yaqing Hou, Yew-Soon Ong",IJCNN 2016: 5256-5262,IJCNN,B
+272,Preface KSE 2016.,2016,"Minh Le Nguyen, Le Sy Vinh, Yew-Soon Ong, Lam Thu Bui, Keiji Hirata",KSE 2016: viii,KSE,Unranked
+273,Genetic transfer or population diversification? Deciphering the secret ingredients of evolutionary multitask optimization.,2016,"Abhishek Gupta, Yew-Soon Ong",SSCI 2016: 1-7,SSCI,Unranked
+274,Concurrently searching branches in software tests generation through multitask evolution.,2016,"Ramón Sagarna, Yew-Soon Ong",SSCI 2016: 1-8,SSCI,Unranked
+275,Evolutionary multitasking in combinatorial search spaces: A case study in capacitated vehicle routing problem.,2016,"Lei Zhou, Liang Feng, Jinghui Zhong, Yew-Soon Ong, Zexuan Zhu, Edwin Hsing-Mean Sha",SSCI 2016: 1-8,SSCI,Unranked
+276,Three-Dimensional Vehicle Routing Problem for Urban Last Mile Logistics: Problem Formulation and Computational Analysis.,2016,"Stanley Frederick W. T. Lim, Allan N. Zhang, Mark Goh, Yew-Soon Ong, Puay Siew Tan",UKSim 2016: 252-257,UKSIM,Unranked
+277,"2016 Eighth International Conference on Knowledge and Systems Engineering, KSE 2016, Hanoi, Vietnam, October 6-8, 2016.",2016,"Minh Le Nguyen, Le Sy Vinh, Lam Thu Bui, Van-Giang Nguyen, Yew-Soon Ong, Keiji Hirata","IEEE 2016, ISBN 978-1-4673-8929-7 ",KSE,Unranked
+278,Adaptive Subgradient Methods for Online AUC Maximization.,2016,"Yi Ding, Peilin Zhao, Steven C. H. Hoi, Yew-Soon Ong",CoRR abs/1602.00351 ,CORR,Unranked
+279,Genetic Transfer or Population Diversification? Deciphering the Secret Ingredients of Evolutionary Multitask Optimization.,2016,"Abhishek Gupta, Yew-Soon Ong",CoRR abs/1607.05390 ,CORR,Unranked
+280,Adaptive and scalable load balancing for metadata server cluster in cloud-scale file systems.,2015,"Quanqing Xu, Rajesh Vellore Arumugam, Khai Leong Yong, Yonggang Wen, Yew-Soon Ong, Weiya Xi",Frontiers Comput. Sci. 9: 904-918 ,FCSC,Unranked
+281,Surrogate Genetic Programming: A semantic aware evolutionary search.,2015,"Ahmed Kattan, Yew-Soon Ong",Inf. Sci. 296: 345-359 ,ISCI,Unranked
+282,Editorial.,2015,"Meng-Hiot Lim, Yew-Soon Ong, Steven M. Gustafson",Memetic Comput. 7: 75-76 ,MEMETIC,Unranked
+283,Editorial.,2015,"Meng-Hiot Lim, Yew-Soon Ong, Steven M. Gustafson",Memetic Comput. 7: 157-158 ,MEMETIC,Unranked
+284,Memes as building blocks: a case study on evolutionary optimization + transfer learning for routing problems.,2015,"Liang Feng, Yew-Soon Ong, Ah-Hwee Tan, Ivor W. Tsang",Memetic Comput. 7: 159-180 ,MEMETIC,Unranked
+285,Editorial.,2015,"Meng-Hiot Lim, Yew-Soon Ong, Steven M. Gustafson",Memetic Comput. 7: 241-242 ,MEMETIC,Unranked
+286,Deep transfer learning for classification of time-delayed Gaussian networks.,2015,"Iti Chaturvedi, Yew-Soon Ong, Rajesh Vellore Arumugam",Signal Process. 110: 250-262 ,SIGPRO,Unranked
+287,A Simple and Fast Hypervolume Indicator-Based Multiobjective Evolutionary Algorithm.,2015,"Siwei Jiang, Jie Zhang, Yew-Soon Ong, Allan N. Zhang, Puay Siew Tan",IEEE Trans. Cybern. 45: 2202-2213 ,TCYB,Unranked
+288,Memetic Search With Interdomain Learning: A Realization Between CVRP and CARP.,2015,"Liang Feng, Yew-Soon Ong, Meng-Hiot Lim, Ivor W. Tsang",IEEE Trans. Evol. Comput. 19: 644-658 ,TEC,Unranked
+289,City Vehicle Routing Problem (City VRP): A Review.,2015,"Gitae Kim, Yew-Soon Ong, Chen Kim Heng, Puay Siew Tan, Nengsheng Allan Zhang",IEEE Trans. Intell. Transp. Syst. 16: 1654-1666 ,TITS,Unranked
+290,Meme representations for game agents.,2015,"Yoan Miche, Meng-Hiot Lim, Amaury Lendasse, Yew-Soon Ong",World Wide Web 18: 215-234 ,WWW,A*
+291,An Adaptive Gradient Method for Online AUC Maximization.,2015,"Yi Ding, Peilin Zhao, Steven C. H. Hoi, Yew-Soon Ong",AAAI 2015: 2568-2574,AAAI,A*
+292,An evolutionary algorithm with adaptive scalarization for multiobjective bilevel programs.,2015,"Abhishek Gupta, Yew-Soon Ong",CEC 2015: 1636-1642,CEC,B
+293,Solving multi-vehicle profitable tour problem via knowledge adoption in evolutionary bi-level programming.,2015,"Stephanus Daniel Handoko, Hoong Chuin Lau, Abhishek Gupta, Yew-Soon Ong, Chen Kim Heng, Puay Siew Tan",CEC 2015: 2713-2720,CEC,B
+294,A data-driven approach for online adaptation of game difficulty.,2015,"Haiyan Yin, Linbo Luo, Wentong Cai, Yew-Soon Ong, Jinghui Zhong",CIG 2015: 146-153,CIG,Unranked
+295,Offline time-sensitive travel time estimation in an urban road network.,2015,"Qing Guo, Chen Kim Heng, Yin-Leng Theng, Yew-Soon Ong, Puay Siew Tan",IEEM 2015: 848-852,IEEM,Unranked
+296,Towards Evolutionary Multitasking: A New Paradigm.,2015,Yew-Soon Ong,SoICT 2015: 2,SOICT,Unranked
+297,The Emerging ?Big Dimensionality?,2014,"Yiteng Zhai, Yew-Soon Ong, Ivor W. Tsang",IEEE Comput. Intell. Mag. 9: 14-26 ,CIM,Unranked
+298,Multiobjective optimization based on reputation.,2014,"Siwei Jiang, Jie Zhang, Yew-Soon Ong",Inf. Sci. 286: 125-146 ,ISCI,Unranked
+299,Editorial.,2014,"Meng-Hiot Lim, Steven M. Gustafson, Natalio Krasnogor, Yew-Soon Ong",Memetic Comput. 6: 1-2 ,MEMETIC,Unranked
+300,Editorial.,2014,"Meng-Hiot Lim, Steven M. Gustafson, Natalio Krasnogor, Yew-Soon Ong",Memetic Comput. 6: 75-76 ,MEMETIC,Unranked
+301,Editorial.,2014,"Meng-Hiot Lim, Steven M. Gustafson, Natalio Krasnogor, Yew-Soon Ong",Memetic Comput. 6: 213-214 ,MEMETIC,Unranked
+302,Consistencies and Contradictions of Performance Metrics in Multiobjective Optimization.,2014,"Siwei Jiang, Yew-Soon Ong, Jie Zhang, Liang Feng",IEEE Trans. Cybern. 44: 2391-2404 ,TCYB,Unranked
+303,A pheromone-based traffic management model for vehicle re-routing and traffic light control.,2014,"Siwei Jiang, Jie Zhang, Yew-Soon Ong",AAMAS 2014: 1479-1480,ATAL,Unranked
+304,Transformation of input space using statistical moments: EA-based approach.,2014,"Ahmed Kattan, Michael Kampouridis, Yew-Soon Ong, Khalid Mehamdi",IEEE Congress on Evolutionary Computation 2014: 2499-2506,CEC,B
+305,An integrated intelligent technique for monthly rainfall time series prediction.,2014,"Jesada Kajornrit, Kevin Kok Wai Wong, Lance Chun Che Fung, Yew-Soon Ong",FUZZ-IEEE 2014: 1632-1639,FUZZIEEE,Unranked
+306,"Discovering Unique, Low-Energy Transition States Using Evolutionary Molecular Memetic Computing.",2013,"Mostafa Mostafa Hashim Ellabaan, Yew-Soon Ong, Stephanus Daniel Handoko, Chee Keong Kwoh, H. Y. Man",IEEE Comput. Intell. Mag. 8: 54-63 ,CIM,Unranked
+307,Evolution by Adapting Surrogates.,2013,"Minh Nghia Le, Yew-Soon Ong, Stefan Menzel, Yaochu Jin, Bernhard Sendhoff",Evol. Comput. 21: 313-340 ,EC,A*
+308,Extreme Learning Machines.,2013,"Erik Cambria, Guang-Bin Huang, Liyanaarachchi Lekamalage Chamara Kasun, Hongming Zhou, Chi-Man Vong, Jiarun Lin, Jianping Yin, Zhiping Cai, Qiang Liu, Kuan Li, Victor C. M. Leung, Liang Feng, Yew-Soon Ong, Meng-Hiot Lim, Anton Akusok, Amaury Lendasse, Francesco Corona, Rui Nian, Yoan Miche, Paolo Gastaldo, Rodolfo Zunino, Sergio Decherchi, Xuefeng Yang, Kezhi Mao, Beom-Seok Oh, Je-Hyoung Jeon, Kar-Ann Toh, Andrew Beng Jin Teoh, Jaihie Kim, Hanchao Yu, Yiqiang Chen, Junfa Liu",IEEE Intell. Syst. 28: 30-59 ,EXPERT,Unranked
+309,Editorial.,2013,"Meng-Hiot Lim, Steven M. Gustafson, Natalio Krasnogor, Yew-Soon Ong",Memetic Comput. 5: 1-2 ,MEMETIC,Unranked
+310,Editorial.,2013,"Meng-Hiot Lim, Steven M. Gustafson, Natalio Krasnogor, Yew-Soon Ong",Memetic Comput. 5: 81-82 ,MEMETIC,Unranked
+311,Editorial.,2013,"Meng-Hiot Lim, Steven M. Gustafson, Natalio Krasnogor, Yew-Soon Ong",Memetic Comput. 5: 163-164 ,MEMETIC,Unranked
+312,Extreme learning machine terrain-based navigation for unmanned aerial vehicles.,2013,"Ee-May Kan, Meng-Hiot Lim, Yew-Soon Ong, Ah-Hwee Tan, Swee-Ping Yeo",Neural Comput. Appl. 22: 469-477 ,NCA,B
+313,Combating Negative Transfer From Predictive Distribution Differences.,2013,"Chun-Wei Seah, Yew-Soon Ong, Ivor W. Tsang",IEEE Trans. Cybern. 43: 1153-1165 ,TCYB,Unranked
+314,Transfer Ordinal Label Learning.,2013,"Chun-Wei Seah, Ivor W. Tsang, Yew-Soon Ong",IEEE Trans. Neural Networks Learn. Syst. 24: 1863-1876 ,TNN,Unranked
+315,An evolutionary model for constructing robust trust networks.,2013,"Siwei Jiang, Jie Zhang, Yew-Soon Ong",AAMAS 2013: 813-820,ATAL,Unranked
+316,A study on like-attracts-like versus elitist selection criterion for human-like social behavior of memetic mulitagent systems.,2013,"Xuefeng Chen, Yifeng Zeng, Yew-Soon Ong, Choon Sing Ho, Yanping Xiang",IEEE Congress on Evolutionary Computation 2013: 1635-1642,CEC,B
+317,Multi-agent multi-issue negotiations with incomplete information: A Genetic Algorithm based on discrete surrogate approach.,2013,"Ahmed Kattan, Yew-Soon Ong, Edgar Galván López",IEEE Congress on Evolutionary Computation 2013: 2556-2563,CEC,B
+318,Multi-game playing - A challenge for computational intelligence.,2013,"Jacek Mandziuk, Yew-Soon Ong, Karol Waledzik",CIHLI 2013: 17-24,CIHLI,Unranked
+319,Near-optimal packet allocation algorithm for content uploading to media cloud via collaborative wireless network.,2013,"Ge Zhang, Yonggang Wen, Yew-Soon Ong",ICNC 2013: 762-767,ICCNC,Unranked
+320,Agent-Based Modeling and Simulation for Supply Chain Risk Management - A Survey of the State-of-the-Art.,2013,"Xianshun Chen, Yew-Soon Ong, Puay Siew Tan, NengSheng Zhang, Zhengping Li",SMC 2013: 1294-1299,SMC,B
+321,A Review of Complex Systems Technologies for Supply Chain Risk Management.,2013,"Zhengping Li, Puay Siew Tan, Qi Ming Gabriel Yee, Quoc Chinh Nguyen, Yew-Soon Ong, Xianshun Chen",SMC 2013: 2783-2789,SMC,B
+322,An Agent-Based Simulation to Quantify and Analyze Bullwhip Effects in Supply Chains.,2013,"Quoc Chinh Nguyen, Zhengping Li, Puay Siew Tan, Xianshun Chen, Yew-Soon Ong",SMC 2013: 4528-4532,SMC,B
+323,A Unified Framework for Symbiosis of Evolutionary Mechanisms with Application to Water Clusters Potential Model Design.,2012,"Minh Nghia Le, Yew-Soon Ong, Yaochu Jin, Bernhard Sendhoff",IEEE Comput. Intell. Mag. 7: 20-35 ,CIM,Unranked
+324,A tree-structured covalent-bond-driven molecular memetic algorithm for optimization of ring-deficient molecules.,2012,"Mostafa Mostafa Hashim Ellabaan, Stephanus Daniel Handoko, Yew-Soon Ong, Chee Keong Kwoh, S. A. Bahnassy, F. M. Elassawy, H. Y. Man",Comput. Math. Appl. 64: 3792-3804 ,CMA,Unranked
+325,A self-adaptive memeplexes robust search scheme for solving stochastic demands vehicle routing problem.,2012,"Xianshun Chen, Liang Feng, Yew-Soon Ong",Int. J. Syst. Sci. 43: 1347-1366 ,IJSYSC,Unranked
+326,Ockham's Razor in memetic computing: Three stage optimal memetic exploration.,2012,"Giovanni Iacca, Ferrante Neri, Ernesto Mininno, Yew-Soon Ong, Meng-Hiot Lim",Inf. Sci. 188: 17-43 ,ISCI,Unranked
+327,Editorial.,2012,"Meng-Hiot Lim, Natalio Krasnogor, Yew-Soon Ong, Steven M. Gustafson",Memetic Comput. 4: 1-2 ,MEMETIC,Unranked
+328,QuickVina: Accelerating AutoDock Vina Using Gradient-Based Heuristics for Global Optimization.,2012,"Stephanus Daniel Handoko, Xuchang Ouyang, Chinh Tran To Su, Chee Keong Kwoh, Yew-Soon Ong",IEEE ACM Trans. Comput. Biol. Bioinform. 9: 1266-1272 ,TCBB,Unranked
+329,"Erratum to ""QuickVina: Accelerating AutoDock Vina Using Gradient-Based Heuristics for Global Optimization"".",2012,"Stephanus Daniel Handoko, Xuchang Ouyang, Chinh Tran To Su, Chee Keong Kwoh, Yew-Soon Ong",IEEE ACM Trans. Comput. Biol. Bioinform. 9: 1853 ,TCBB,Unranked
+330,Transductive Ordinal Regression.,2012,"Chun-Wei Seah, Ivor W. Tsang, Yew-Soon Ong",IEEE Trans. Neural Networks Learn. Syst. 23: 1074-1086 ,TNN,Unranked
+331,A Conceptual Modeling of Meme Complexes in Stochastic Search.,2012,"Xianshun Chen, Yew-Soon Ong",IEEE Trans. Syst. Man Cybern. Part C 42: 612-625 ,TSMC,Unranked
+332,A multiagent evolutionary framework based on trust for multiobjective optimization.,2012,"Siwei Jiang, Jie Zhang, Yew-Soon Ong",AAMAS 2012: 299-306,ATAL,Unranked
+333,Virtual characters in agent-augmented co-space (demonstration).,2012,"Yilin Kang, Budhitama Subagdja, Ah-Hwee Tan, Yew-Soon Ong, Chunyan Miao",AAMAS 2012: 1465-1466,ATAL,Unranked
+334,An evolutionary search paradigm that learns with past experiences.,2012,"Liang Feng, Yew-Soon Ong, Ivor Wai-Hung Tsang, Ah-Hwee Tan",IEEE Congress on Evolutionary Computation 2012: 1-8,CEC,B
+335,Autonomous flock brush for non-photorealistic rendering.,2012,"Hsueh En Huang, Yew-Soon Ong, Xianshun Chen",IEEE Congress on Evolutionary Computation 2012: 1-8,CEC,B
+336,Multi co-objective evolutionary optimization: Cross surrogate augmentation for computationally expensive problems.,2012,"Minh Nghia Le, Yew-Soon Ong, Stefan Menzel, Chun-Wei Seah, Bernhard Sendhoff",IEEE Congress on Evolutionary Computation 2012: 1-8,CEC,B
+337,Pareto Rank Learning in Multi-objective Evolutionary Algorithms.,2012,"Chun-Wei Seah, Yew-Soon Ong, Ivor W. Tsang, Siwei Jiang",IEEE Congress on Evolutionary Computation 2012: 1-8,CEC,B
+338,Maximum margin clustering on evolutionary data.,2012,"Xuhui Fan, Lin Zhu, Longbing Cao, Xia Cui, Yew-Soon Ong",CIKM 2012: 625-634,CIKM,A
+339,Experiences on memetic computation for locating transition states in biochemical applications.,2012,"Mostafa Mostafa Hashim Ellabaan, Yew-Soon Ong",GECCO  2012: 623-624,GECCO,A
+340,An improved CUDA-based implementation of differential evolution on GPU.,2012,"A. Kai Qin, Federico Raimondo, Florence Forbes, Yew-Soon Ong",GECCO 2012: 991-998,GECCO,A
+341,Learning Target Predictive Function without Target Labels.,2012,"Chun-Wei Seah, Ivor Wai-Hung Tsang, Yew-Soon Ong, Qi Mao",ICDM 2012: 1098-1103,ICDM,A*
+342,Discovering Support and Affiliated Features from Very High Dimensions.,2012,"Yiteng Zhai, Mingkui Tan, Ivor W. Tsang, Yew-Soon Ong",ICML 2012,ICML,A*
+343,"FAME, Soft Flock Formation Control for Collective Behavior Studies and Rapid Games Development.",2012,"Choon Sing Ho, Yew-Soon Ong, Xianshun Chen, Ah-Hwee Tan",SEAL 2012: 258-269,SEAL,Unranked
+344,"Simulated Evolution and Learning - 9th International Conference, SEAL 2012, Hanoi, Vietnam, December 16-19, 2012. Proceedings.",2012,"Lam Thu Bui, Yew-Soon Ong, Nguyen Xuan Hoai, Hisao Ishibuchi, Ponnuthurai Nagaratnam Suganthan","Lecture Notes in Computer Science 7673, Springer 2012, ISBN 978-3-642-34858-7 ",SEAL,Unranked
+345,Meme as Building Block for Evolutionary Optimization of Problem Instances.,2012,"Liang Feng, Yew-Soon Ong, Ah-Hwee Tan, Ivor Wai-Hung Tsang",CoRR abs/1207.0702 ,CORR,Unranked
+346,"A hybrid agent architecture integrating desire, intention and reinforcement learning.",2011,"Ah-Hwee Tan, Yew-Soon Ong, Akejariyawong Tapanuj",Expert Syst. Appl. 38: 8477-8487 ,ESWA,Unranked
+347,Exploratory analysis of cell-based screening data for phenotype identification in drug-siRNA study.,2011,"William-Chandra Tjhi, Gary Kee Khoon Lee, Terence Hung, Ivor Wai-Hung Tsang, Yew-Soon Ong, Frédéric Bard, Victor Racine",Int. J. Comput. Biol. Drug Des. 4: 194-215 ,IJCBDD,Unranked
+348,Toward an Evolutionary Computing Modeling Language.,2011,"Heiko Aydt, Stephen John Turner, Wentong Cai, Malcolm Yoke Hean Low, Yew-Soon Ong, Rassul Ayani",IEEE Trans. Evol. Comput. 15: 230-247 ,TEC,Unranked
+349,Guest Editorial.,2011,"Yew-Soon Ong, Kay Chen Tan",IEEE Trans. Evol. Comput. 15: 589-590 ,TEC,Unranked
+350,A Multi-Facet Survey on Memetic Computation.,2011,"Xianshun Chen, Yew-Soon Ong, Meng-Hiot Lim, Kay Chen Tan",IEEE Trans. Evol. Comput. 15: 591-607 ,TEC,Unranked
+351,Asymmetric Pareto-adaptive Scheme for Multiobjective Optimization.,2011,"Siwei Jiang, Jie Zhang, Yew-Soon Ong",Australasian Conference on Artificial Intelligence 2011: 351-360,AUSAI,Unranked
+352,A surrogate-assisted memetic co-evolutionary algorithm for expensive constrained optimization problems.,2011,"Chi Keong Goh, Dudy Lim, Learning Ma, Yew-Soon Ong, Partha Sarathi Dutta",IEEE Congress on Evolutionary Computation 2011: 744-749,CEC,B
+353,Towards human-like social multi-agents with memetic automaton.,2011,"Liang Feng, Yew-Soon Ong, Ah-Hwee Tan, Xianshun Chen",IEEE Congress on Evolutionary Computation 2011: 1092-1099,CEC,B
+354,Classification-assisted memetic algorithms for solving optimization problems with restricted equality constraint function mapping.,2011,"Stephanus Daniel Handoko, Chee Keong Kwoh, Yew-Soon Ong, Jonathan H. Chan",IEEE Congress on Evolutionary Computation 2011: 1209-1216,CEC,B
+355,Healing Sample Selection Bias by Source Classifier Selection.,2011,"Chun-Wei Seah, Ivor Wai-Hung Tsang, Yew-Soon Ong",ICDM 2011: 577-586,ICDM,A*
+356,Multiobjective optimization by decomposition with Pareto-adaptive weight vectors.,2011,"Siwei Jiang, Zhihua Cai, Jie Zhang, Yew-Soon Ong",ICNC 2011: 1260-1264,ICNC,National
+357,RELIEF-C: Efficient Feature Selection for Clustering over Noisy Data.,2011,"Manoranjan Dash, Yew-Soon Ong",ICTAI 2011: 869-872,ICTAI,B
+358,Neural meta-memes framework for managing search algorithms in combinatorial optimization.,2011,"Li Qin Song, Meng-Hiot Lim, Yew-Soon Ong",Memetic Computing 2011: 37-42,MEMETIC,Unranked
+359,Transductive Ordinal Regression.,2011,"Chun-Wei Seah, Ivor W. Tsang, Yew-Soon Ong",CoRR abs/1102.2808 ,CORR,Unranked
+360,"Memetic Computation - Past, Present & Future [Research Frontier].",2010,"Yew-Soon Ong, Meng-Hiot Lim, Xianshun Chen",IEEE Comput. Intell. Mag. 5: 24-31 ,CIM,Unranked
+361,An investigation on noise-induced features in robust evolutionary multi-objective optimization.,2010,"Chi Keong Goh, Kay Chen Tan, Chun Yew Cheong, Yew-Soon Ong",Expert Syst. Appl. 37: 5960-5980 ,ESWA,Unranked
+362,"A self-organizing neural architecture integrating desire, intention and reinforcement learning.",2010,"Ah-Hwee Tan, Yu-Hong Feng, Yew-Soon Ong",Neurocomputing 73: 1465-1477 ,IJON,Unranked
+363,Identification of Full and Partial Class Relevant Genes.,2010,"Zexuan Zhu, Yew-Soon Ong, Jacek M. Zurada",IEEE ACM Trans. Comput. Biol. Bioinform. 7: 263-277 ,TCBB,Unranked
+364,Generalizing Surrogate-Assisted Evolutionary Computation.,2010,"Dudy Lim, Yaochu Jin, Yew-Soon Ong, Bernhard Sendhoff",IEEE Trans. Evol. Comput. 14: 329-355 ,TEC,Unranked
+365,"Discovering Unique, Low-Energy Pure Water Isomers: Memetic Exploration, Optimization, and Landscape Analysis.",2010,"Harold Soh, Yew-Soon Ong, Quoc Chinh Nguyen, Quang Huy Nguyen, Mohamed Salahuddin Habibullah, Terence Hung, Jer-Lai Kuo",IEEE Trans. Evol. Comput. 14: 419-437 ,TEC,Unranked
+366,Feasibility Structure Modeling: An Effective Chaperone for Constrained Memetic Algorithms.,2010,"Stephanus Daniel Handoko, Chee Keong Kwoh, Yew-Soon Ong",IEEE Trans. Evol. Comput. 14: 740-758 ,TEC,Unranked
+367,Structural analysis of (TCR - )HLA/peptide complexes: An initial study.,2010,"Stephanus Daniel Handoko, Chinh Tran To Su, Chee Keong Kwoh, Yew-Soon Ong",BIBM Workshops 2010: 63-66,BIBM,Unranked
+368,Clustering-based methodology with minimal user supervision for displaying cell-phenotype signatures in image-based screening.,2010,"William-Chandra Tjhi, Gary Kee Khoon Lee, Terence Hung, Yew-Soon Ong, Ivor Wai-Hung Tsang, Victor Racine, Frédéric Bard",BIBM Workshops 2010: 252-257,BIBM,Unranked
+369,Towards probabilistic memetic algorithm: An initial study on capacitated arc routing problem.,2010,"Liang Feng, Yew-Soon Ong, Quang Huy Nguyen, Ah-Hwee Tan",IEEE Congress on Evolutionary Computation 2010: 1-7,CEC,B
+370,Classifier-assisted constrained evolutionary optimization for automated geometry selection of orthodontic retraction spring.,2010,"Dudy Lim, Yew-Soon Ong, Rachman Setiawan, Muhammad Idris",IEEE Congress on Evolutionary Computation 2010: 1-8,CEC,B
+371,Youth Olympic Village Co-space.,2010,"Zin-Yan Chua, Yilin Kang, Xing Jiang, Kah-Hoe Pang, Andrew C. Gregory, Chi-Yun Tan, Wai-Lun Wong, Ah-Hwee Tan, Yew-Soon Ong, Chunyan Miao",CW 2010: 200-207,CW,C
+372,Autonomous Multi-agents in Flexible Flock Formation.,2010,"Choon Sing Ho, Quang Huy Nguyen, Yew-Soon Ong, Xianshun Chen",MIG 2010: 375-385,MIG,Unranked
+373,Predictive Distribution Matching SVM for Multi-domain Learning.,2010,"Chun-Wei Seah, Ivor W. Tsang, Yew-Soon Ong, Gary Kee Khoon Lee",ECML/PKDD  2010: 231-247,PKDD,Unranked
+374,Neural Meta-Memes Framework for Combinatorial Optimization.,2010,"Li Qin Song, Meng-Hiot Lim, Yew-Soon Ong",SEMCCO 2010: 198-205,SEMCCO,Unranked
+375,"Computational Systems-Biology and Bioinformatics - First International Conference, CSBio 2010, Bangkok, Thailand, November 3-5, 2010. Proceedings.",2010,"Jonathan H. Chan, Yew-Soon Ong, Sung-Bae Cho","Communications in Computer and Information Science 115, Springer 2010, ISBN 978-3-642-16749-2 ",CSBIO,Unranked
+376,Adaptive Cellular Memetic Algorithms.,2009,"Quang Huy Nguyen, Yew-Soon Ong, Meng-Hiot Lim, Natalio Krasnogor",Evol. Comput. 17: 231-256 ,EC,A*
+377,Editorial to the first issue.,2009,"Meng-Hiot Lim, Steven M. Gustafson, Natalio Krasnogor, Yew-Soon Ong",Memetic Comput. 1: 1-2 ,MEMETIC,Unranked
+378,A proposition on memes and meta-memes in computing for higher-order learning.,2009,"Ryan J. Meuth, Meng-Hiot Lim, Yew-Soon Ong, Donald C. Wunsch",Memetic Comput. 1: 85-100 ,MEMETIC,Unranked
+379,Editorial.,2009,"Meng-Hiot Lim, Steven M. Gustafson, Natalio Krasnogor, Yew-Soon Ong",Memetic Comput. 1: 173-174 ,MEMETIC,Unranked
+380,Lamarckian memetic algorithms: local optimum and connectivity structure analysis.,2009,"Minh Nghia Le, Yew-Soon Ong, Yaochu Jin, Bernhard Sendhoff",Memetic Comput. 1: 175-190 ,MEMETIC,Unranked
+381,Special issue on emerging trends in soft computing: memetic algorithms.,2009,"Yew-Soon Ong, Meng-Hiot Lim, Ferrante Neri, Hisao Ishibuchi",Soft Comput. 13: 739-740 ,SOCO,Unranked
+382,A Probabilistic Memetic Framework.,2009,"Quang Huy Nguyen, Yew-Soon Ong, Meng-Hiot Lim",IEEE Trans. Evol. Comput. 13: 604-623 ,TEC,Unranked
+383,Classification-Assisted Memetic Algorithms for Equality-Constrained Optimization Problems.,2009,"Stephanus Daniel Handoko, Chee Keong Kwoh, Yew-Soon Ong",Australasian Conference on Artificial Intelligence 2009: 391-400,AUSAI,Unranked
+384,Finding multiple first order saddle points using a valley adaptive clearing genetic algorithm.,2009,"Mostafa Mostafa Hashim Ellabaan, Yew-Soon Ong, Meng-Hiot Lim, Jer-Lai Kuo",CIRA 2009: 457-462,CIRA,Unranked
+385,Valley-Adaptive Clearing Scheme for Multimodal Optimization Evolutionary Search.,2009,"Mostafa Mostafa Hashim Ellabaan, Yew-Soon Ong",ISDA 2009: 1-6,ISDA,C
+386,Hybrid evolutionary algorithm with Hermite radial basis function interpolants for computationally expensive adjoint solvers.,2008,"Yew-Soon Ong, Kai Yew Lum, Prasanth B. Nair",Comput. Optim. Appl. 39: 97-119 ,COAP,Unranked
+387,A fast pruned-extreme learning machine for classification problem.,2008,"Hai-Jun Rong, Yew-Soon Ong, Ah-Hwee Tan, Zexuan Zhu",Neurocomputing 72: 359-366 ,IJON,Unranked
+388,Hybrid ant colony algorithms for path planning in sparse graphs.,2008,"Kwee Kim Lim, Yew-Soon Ong, Meng-Hiot Lim, Xianshun Chen, Amit Agarwal",Soft Comput. 12: 981-994 ,SOCO,Unranked
+389,A BDI Assignment Protocol With New Cooperative-Concession Strategies.,2008,"Kiam Tian Seow, Kwang Mong Sim, Yew-Soon Ong, E. P. Sulaiman",IEEE Trans. Syst. Man Cybern. Part A 38: 688-697 ,TSMC,Unranked
+390,Automatic configuration of metaheuristic algorithms for complex combinatorial optimization problems.,2008,"Yiliang Xu, Meng-Hiot Lim, Yew-Soon Ong",IEEE Congress on Evolutionary Computation 2008: 2380-2387,CEC,B
+391,Memetic Gradient Search.,2008,"Boyang Li, Yew-Soon Ong, Minh Nghia Le, Chi Keong Goh",IEEE Congress on Evolutionary Computation 2008: 2894-2901,CEC,B
+392,An investigation on evolutionary gradient search for multi-objective optimization.,2008,"Chi Keong Goh, Yew-Soon Ong, Kay Chen Tan, Eu Jin Teoh",IEEE Congress on Evolutionary Computation 2008: 3741-3746,CEC,B
+393,A study on constrained MA using GA and SQP: Analytical vs. finite-difference gradients.,2008,"Stephanus Daniel Handoko, Chee Keong Kwoh, Yew-Soon Ong, Meng-Hiot Lim",IEEE Congress on Evolutionary Computation 2008: 4031-4038,CEC,B
+394,Non-genetic transmission of memes by diffusion.,2008,"Quang Huy Nguyen, Yew-Soon Ong, Meng-Hiot Lim",GECCO 2008: 1017-1024,GECCO,A
+395,Optinformatics for schema analysis of binary genetic algorithms.,2008,"Minh Nghia Le, Yew-Soon Ong, Quang Huy Nguyen",GECCO 2008: 1121-1122,GECCO,A
+396,A Multi-Objective Memetic Algorithm Based Clustering Method.,2008,"Anh-Duc Do, Siu-Yeung Cho, Yew-Soon Ong",IC-AI 2008: 881-887,ICAI,Unranked
+397,A Frequent Pattern Mining Algorithm for Understanding Genetic Algorithms.,2008,"Minh Nghia Le, Yew-Soon Ong",ICIC  2008: 131-139,ICIC,Unranked
+398,Evolutionary Optimization with Dynamic Fidelity Computational Models.,2008,"Dudy Lim, Yew-Soon Ong, Yaochu Jin, Bernhard Sendhoff",ICIC  2008: 235-242,ICIC,Unranked
+399,Extreme learning machine for multi-categories classification applications.,2008,"Hai-Jun Rong, Guang-Bin Huang, Yew-Soon Ong",IJCNN 2008: 1709-1713,IJCNN,B
+400,Using classification for constrained memetic algorithm: A new paradigm.,2008,"Stephanus Daniel Handoko, Chee Keong Kwoh, Yew-Soon Ong",SMC 2008: 547-552,SMC,B
+401,Efficient Hierarchical Parallel Genetic Algorithms using Grid computing.,2007,"Dudy Lim, Yew-Soon Ong, Yaochu Jin, Bernhard Sendhoff, Bu-Sung Lee",Future Gener. Comput. Syst. 23: 658-670 ,FGCS,Unranked
+402,Markov blanket-embedded genetic algorithm for gene selection.,2007,"Zexuan Zhu, Yew-Soon Ong, Manoranjan Dash",Pattern Recognit. 40: 3236-3248 ,PR,Unranked
+403,Diversity-adaptive parallel memetic algorithm for solving large scale combinatorial optimization problems.,2007,"Jing Tang, Meng-Hiot Lim, Yew-Soon Ong",Soft Comput. 11: 873-888 ,SOCO,Unranked
+404,Memetic algorithm using multi-surrogates for computationally expensive optimization problems.,2007,"Zongzhao Zhou, Yew-Soon Ong, Meng-Hiot Lim, Bu-Sung Lee",Soft Comput. 11: 957-971 ,SOCO,Unranked
+405,An Adaptive Multimeme Algorithm for Designing HIV Multidrug Therapies.,2007,"Ferrante Neri, Jari Toivanen, Giuseppe Leonardo Cascella, Yew-Soon Ong",IEEE ACM Trans. Comput. Biol. Bioinform. 4: 264-278 ,TCBB,Unranked
+406,Special Issue on Memetic Algorithms.,2007,"Yew-Soon Ong, Natalio Krasnogor, Hisao Ishibuchi",IEEE Trans. Syst. Man Cybern. Part B 37: 2-5 ,TSMC,Unranked
+407,Combining Global and Local Surrogate Models to Accelerate Evolutionary Optimization.,2007,"Zongzhao Zhou, Yew-Soon Ong, Prasanth B. Nair, Andy J. Keane, Kai Yew Lum",IEEE Trans. Syst. Man Cybern. Part C 37: 66-76 ,TSMC,Unranked
+408,Wrapper-Filter Feature Selection Algorithm Using a Memetic Framework.,2007,"Zexuan Zhu, Yew-Soon Ong, Manoranjan Dash",IEEE Trans. Syst. Man Cybern. Part B 37: 70-76 ,TSMC,Unranked
+409,Grid-based PSE for Engineering of Materials (GPEM).,2007,"Mohamed Salahuddin, Terence Hung, Harold Soh, Endang Sulaiman, Yew-Soon Ong, Bu-Sung Lee, Ren Yunxia",CCGRID 2007: 309-316,CCGRID,B
+410,Noise-induced features in robust multi-objective optimization problems.,2007,"Chi Keong Goh, Kay Chen Tan, Chun Yew Cheong, Yew-Soon Ong",IEEE Congress on Evolutionary Computation 2007: 568-575,CEC,B
+411,A study on the design issues of Memetic Algorithm.,2007,"Quang Huy Nguyen, Yew-Soon Ong, Natalio Krasnogor",IEEE Congress on Evolutionary Computation 2007: 2390-2397,CEC,B
+412,Hierarchical model parallel memetic algorithm in heterogeneous computing environment.,2007,"Jing Tang, Meng-Hiot Lim, Yew-Soon Ong, L. Q. Song",IEEE Congress on Evolutionary Computation 2007: 2758-2765,CEC,B
+413,Playing in the Objective Space: Coupled Approximators for Multi-Objective Optimization.,2007,"Harold Soh, Yew-Soon Ong, Mohamed Salahuddin, Terence Hung, Bu-Sung Lee",MCDM 2007: 325-332,CIMCDM,Unranked
+414,"A study on metamodeling techniques, ensembles, and multi-surrogates in evolutionary computation.",2007,"Dudy Lim, Yew-Soon Ong, Yaochu Jin, Bernhard Sendhoff",GECCO 2007: 1288-1295,GECCO,A
+415,Memetic Algorithms for Feature Selection on Microarray Data.,2007,"Zexuan Zhu, Yew-Soon Ong",ISNN  2007: 1327-1335,ISNN,C
+416,Evolvable Fuzzy Scheduling Scheme for Multiple-ChannelPacket Switching Network.,2007,"Ju Hui Li, Meng-Hiot Lim, Yew-Soon Ong, Qi Cao",Evolutionary Scheduling 2007: 383-403,SCI,Unranked
+417,Single/Multi-objective Inverse Robust Evolutionary Design Methodology in the Presence of Uncertainty.,2007,"Dudy Lim, Yew-Soon Ong, Meng-Hiot Lim, Yaochu Jin",Evolutionary Computation in Dynamic and Uncertain Environments 2007: 437-456,SCI,Unranked
+418,Evolutionary Computation in Dynamic and Uncertain Environments.,2007,"Shengxiang Yang, Yew-Soon Ong, Yaochu Jin","Studies in Computational Intelligence 51, Springer 2007, ISBN 978-3-540-49772-1 ",SCI,Unranked
+419,Editorial to special issue on evolutionary computation in dynamic and uncertain environments.,2006,"Shengxiang Yang, Yew-Soon Ong, Yaochu Jin",Genet. Program. Evolvable Mach. 7: 293-294 ,GPEM,Unranked
+420,Inverse multi-objective robust evolutionary design.,2006,"Dudy Lim, Yew-Soon Ong, Yaochu Jin, Bernhard Sendhoff, Bu-Sung Lee",Genet. Program. Evolvable Mach. 7: 383-404 ,GPEM,Unranked
+421,A new machine learning paradigm for terrain reconstruction.,2006,"Chee-Wee Thomas Yeu, Meng-Hiot Lim, Guang-Bin Huang, Amit Agarwal, Yew-Soon Ong",IEEE Geosci. Remote. Sens. Lett. 3: 382-386 ,LGRS,Unranked
+422,Max-min surrogate-assisted evolutionary algorithm for robust design.,2006,"Yew-Soon Ong, Prasanth B. Nair, Kai Yew Lum",IEEE Trans. Evol. Comput. 10: 392-404 ,TEC,Unranked
+423,A context switchable fuzzy inference chip.,2006,"Qi Cao, Meng-Hiot Lim, Ju Hui Li, Yew-Soon Ong, Willie Ng",IEEE Trans. Fuzzy Syst. 14: 552-567 ,TFS,Unranked
+424,Classification of adaptive memetic algorithms: a comparative study.,2006,"Yew-Soon Ong, Meng-Hiot Lim, Ning Zhu, Kok Wai Wong",IEEE Trans. Syst. Man Cybern. Part B 36: 141-152 ,TSMC,Unranked
+425,Analysis of Jobs in a Multi-Organizational Grid Test-bed.,2006,"Bu-Sung Lee, Ming Tang, Junwei Zhang, Yew-Soon Ong, Cindy Zheng, Peter W. Arzberger, David Abramson",CCGRID 2006: 59,CCGRID,B
+426,Trusted Evolutionary Algorithm.,2006,"Dudy Lim, Yew-Soon Ong, Yaochu Jin, Bernhard Sendhoff",IEEE Congress on Evolutionary Computation 2006: 149-156,CEC,B
+427,Curse and Blessing of Uncertainty in Evolutionary Algorithm Using Approximation.,2006,"Yew-Soon Ong, Zongzhao Zhou, Dudy Lim",IEEE Congress on Evolutionary Computation 2006: 2928-2935,CEC,B
+428,Adaptation for parallel memetic algorithm based on population entropy.,2006,"Jing Tang, Meng-Hiot Lim, Yew-Soon Ong",GECCO 2006: 575-582,GECCO,A
+429,A GA-ACO-local search hybrid algorithm for solving quadratic assignment problem.,2006,"Yiliang Xu, Meng-Hiot Lim, Yew-Soon Ong, Jing Tang",GECCO 2006: 599-606,GECCO,A
+430,Computational Capabilities of Soft-Computing Frameworks: An Overview.,2006,"Narendra S. Chaudhari, Yew-Soon Ong, V. Trivedi",ICARCV 2006: 1-6,ICARCV,C
+431,Extreme Learning Machine for Predicting HLA-Peptide Binding.,2006,"Stephanus Daniel Handoko, Chee Keong Kwoh, Yew-Soon Ong, Guanglan Zhang, Vladimir Brusic",ISNN  2006: 716-721,ISNN,C
+432,Design and implementation of an efficient multi-cluster GridRPC system.,2005,"Quoc-Thuan Ho, Wentong Cai, Yew-Soon Ong",CCGRID 2005: 358-365,CCGRID,B
+433,A study on polynomial regression and Gaussian process global surrogate model in hierarchical surrogate-assisted evolutionary algorithm.,2005,"Zongzhao Zhou, Yew-Soon Ong, My Hanh Nguyen, Dudy Lim",Congress on Evolutionary Computation 2005: 2832-2839,CEC,B
+434,Reservoir Characterization Using Support Vector Machines.,2005,"Kok Wai Wong, Chun Che Fung, Yew-Soon Ong, Tamás D. Gedeon",CIMCA/IAWTIC 2005: 354-359,CIMCA,Unranked
+435,Grid Enabled Optimization.,2005,"Hee-Khiang Ng, Yew-Soon Ong, Terence Hung, Bu-Sung Lee",EGC 2005: 296-304,EGC,Unranked
+436,Inverse multi-objective robust evolutionary design optimization in the presence of uncertainty.,2005,"Dudy Lim, Yew-Soon Ong, Bu-Sung Lee",GECCO Workshops 2005: 55-62,GECCO,A
+437,Solving large scale combinatorial optimization using PMA-SLS.,2005,"Jing Tang, Meng-Hiot Lim, Yew-Soon Ong, Meng Joo Er",GECCO 2005: 621-628,GECCO,A
+438,A Multi-cluster Grid Enabled Evolution Framework for Aerodynamic Airfoil Design Optimization.,2005,"Hee-Khiang Ng, Dudy Lim, Yew-Soon Ong, Bu-Sung Lee, Lars Freund, Shuja Parvez, Bernhard Sendhoff",ICNC  2005: 1112-1121,ICNC,National
+439,"Advances in Natural Computation, First International Conference, ICNC 2005, Changsha, China, August 27-29, 2005, Proceedings, Part I.",2005,"Lipo Wang, Ke Chen, Yew-Soon Ong","Lecture Notes in Computer Science 3610, Springer 2005, ISBN 3-540-28323-4 ",ICNC,National
+440,"Advances in Natural Computation, First International Conference, ICNC 2005, Changsha, China, August 27-29, 2005, Proceedings, Part II.",2005,"Lipo Wang, Ke Chen, Yew-Soon Ong","Lecture Notes in Computer Science 3611, Springer 2005, ISBN 3-540-28325-0 ",ICNC,National
+441,"Advances in Natural Computation, First International Conference, ICNC 2005, Changsha, China, August 27-29, 2005, Proceedings, Part III.",2005,"Lipo Wang, Ke Chen, Yew-Soon Ong","Lecture Notes in Computer Science 3612, Springer 2005, ISBN 3-540-28320-X ",ICNC,National
+442,Using Memetic Algorithms for Fuzzy Modelling.,2004,"Ning Zhu, Yew-Soon Ong, Kok Wai Wong, Kiam Tian Seow",Aust. J. Intell. Inf. Process. Syst. 8: 147-154 ,AJIIPS,Unranked
+443,Meta-Lamarckian learning in memetic algorithms.,2004,"Yew-Soon Ong, Andy J. Keane",IEEE Trans. Evol. Comput. 8: 99-110 ,TEC,Unranked
+444,Whole-Genome Functional Classification of Genes by Latent Semantic Analysis on Microarray Data.,2004,"See-Kiong Ng, Zexuan Zhu, Yew-Soon Ong",APBC 2004: 123-129,APBC,B
+445,Hierarchical surrogate-assisted evolutionary optimization framework.,2004,"Zongzhao Zhou, Yew-Soon Ong, Prasanth B. Nair",IEEE Congress on Evolutionary Computation 2004: 1586-1593,CEC,B
+446,A service-oriented approach for aerodynamic shape optimisation across institutional boundaries.,2004,"Wenbin Song, Yew-Soon Ong, Hee-Khiang Ng, Andy J. Keane, Simon J. Cox, Bu-Sung Lee",ICARCV 2004: 2274-2279,ICARCV,C
+447,Study of migration topology in island model parallel hybrid-GA for large scale quadratic assignment problems.,2004,"Jing Tang, Meng-Hiot Lim, Yew-Soon Ong, Meng Joo Er",ICARCV 2004: 2286-2291,ICARCV,C
+448,"GAD Kit - A Toolkit for ""Gridifying"" Applications.",2004,"Quoc-Thuan Ho, Yew-Soon Ong, Wentong Cai, Hee-Khiang Ng, Bu-Sung Lee",PDCAT 2004: 868-871,PDCAT,C
+449,Global convergence of unconstrained and bound constrained surrogate-assisted evolutionary search in aerodynamic shape design.,2003,"Yew-Soon Ong, Kai Yew Lum, Prasanth B. Nair, Daming Shi, Z. K. Zhang",IEEE Congress on Evolutionary Computation 2003: 1856-1863,CEC,B
+450,A parallel hybrid GA for combinatorial optimization using grid technology.,2003,"Jing Tang, Meng-Hiot Lim, Yew-Soon Ong",IEEE Congress on Evolutionary Computation 2003: 1895-1902,CEC,B
+451,"""Gridifying"" Aerodynamic Design Problem Using GridRPC.",2003,"Quoc-Thuan Ho, Yew-Soon Ong, Wentong Cai",GCC  2003: 83-90,GCC,Unranked
+452,Handwritten Chinese character recognition using kernel active handwriting model.,2003,"Daming Shi, Yew-Soon Ong, Eng Chong Tan",SMC 2003: 251-255,SMC,B
+453,Artificial intelligence technologies in complex engineering design.,2002,Yew-Soon Ong,"University of Southampton, UK, 2002",NAN,Unranked

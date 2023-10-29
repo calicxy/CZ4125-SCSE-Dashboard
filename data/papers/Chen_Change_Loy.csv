@@ -1,0 +1,479 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Network pruning via resource reallocation.,2024,"Yuenan Hou, Zheng Ma, Chunxiao Liu, Zhe Wang, Chen Change Loy",Pattern Recognit. 145: 109886 ,PR,Unranked
+1,Semi-Supervised and Long-Tailed Object Detection with CascadeMatch.,2023,"Yuhang Zang, Kaiyang Zhou, Chen Huang, Chen Change Loy",Int. J. Comput. Vis. 131: 987-1001 ,IJCV,Unranked
+2,Semi-Supervised Domain Generalization with Stochastic StyleMatch.,2023,"Kaiyang Zhou, Chen Change Loy, Ziwei Liu",Int. J. Comput. Vis. 131: 2377-2387 ,IJCV,Unranked
+3,GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond.,2023,"Kelvin C. K. Chan, Xiangyu Xu, Xintao Wang, Jinwei Gu, Chen Change Loy",IEEE Trans. Pattern Anal. Mach. Intell. 45: 3154-3168 ,PAMI,Unranked
+4,Domain Generalization: A Survey.,2023,"Kaiyang Zhou, Ziwei Liu, Yu Qiao, Tao Xiang, Chen Change Loy",IEEE Trans. Pattern Anal. Mach. Intell. 45: 4396-4415 ,PAMI,Unranked
+5,Reference-Based Image and Video Super-Resolution via $C^{2}$-Matching.,2023,"Yuming Jiang, Kelvin C. K. Chan, Xintao Wang, Chen Change Loy, Ziwei Liu",IEEE Trans. Pattern Anal. Mach. Intell. 45: 8874-8887 ,PAMI,Unranked
+6,GP-UNIT: Generative Prior for Versatile Unsupervised Image-to-Image Translation.,2023,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy",IEEE Trans. Pattern Anal. Mach. Intell. 45: 11869-11883 ,PAMI,Unranked
+7,Computation-Efficient Knowledge Distillation via Uncertainty-Aware Mixup.,2023,"Guodong Xu, Ziwei Liu, Chen Change Loy",Pattern Recognit. 138: 109338 ,PR,Unranked
+8,Audio-Driven Dubbing for User Generated Contents via Style-Aware Semi-Parametric Synthesis.,2023,"Linsen Song, Wayne Wu, Chaoyou Fu, Chen Change Loy, Ran He",IEEE Trans. Circuits Syst. Video Technol. 33: 1247-1261 ,TCSV,Unranked
+9,Exploring CLIP for Assessing the Look and Feel of Images.,2023,"Jianyi Wang, Kelvin C. K. Chan, Chen Change Loy",AAAI 2023: 2555-2563,AAAI,A*
+10,FlexiCurve: Flexible Piecewise Curves Estimation for Photo Retouching.,2023,"Chongyi Li, Chunle Guo, Shangchen Zhou, Qiming Ai, Ruicheng Feng, Chen Change Loy",CVPR Workshops 2023: 1092-1101,CVPR,A*
+11,"BeautyREC: Robust, Efficient, and Component-Specific Makeup Transfer.",2023,"Qixin Yan, Chunle Guo, Jixin Zhao, Yuekun Dai, Chen Change Loy, Chongyi Li",CVPR Workshops 2023: 1102-1110,CVPR,A*
+12,MIPI 2023 Challenge on Nighttime Flare Removal: Methods and Results.,2023,"Yuekun Dai, Chongyi Li, Shangchen Zhou, Ruicheng Feng, Qingpeng Zhu, Qianhui Sun, Wenxiu Sun, Chen Change Loy, Jinwei Gu, Shuai Liu, Hao Wang, Chaoyu Feng, Luyang Wang, Guangqi Shao, Chenguang Zhang, Xiaotao Wang, Lei Lei, Dafeng Zhang, Xiangyu Kong, Guanqun Liu, Mengmeng Bai, Jia Ouyang, Xiaobing Wang, Jiahui Yuan, Xinpeng Li, Chengzhi Jiang, Ting Jiang, Wenjie Lin, Qi Wu, Mingyan Han, Jinting Luo, Lei Yu, Haoqiang Fan, Shuaicheng Liu, Bo Yan, Zhuang Li, Yadong Li, Hongbin Wang, Soonyong Song, Minghan Fu, Rayyan Azam Khan, Fang-Xiang Wu, Zhao Zhang, Suiyi Zhao, Huan Zheng, Yangcheng Gao, Yanyan Wei, Jiahuan Ren, Bo Wang, Yan Luo, Shuaibo Gao, Wenhui Wu, Sicong Kang, Nikhil Akalwadi, Ankit Raichur, Vinod Patil, Allabakash G, Swaroop A, Amogh Joshi, Chaitra Desai, Ramesh Ashok Tabib, Ujwala Patil, Uma Mudenagudi, Sicheng Li, Ruoxi Zhu, Jiazheng Lian, Shusong Xu, Zihao Liu, Sabari Nathan, Priya Kansal",CVPR Workshops 2023: 2853-2863,CVPR,A*
+13,MIPI 2023 Challenge on RGB+ToF Depth Completion: Methods and Results.,2023,"Qingpeng Zhu, Wenxiu Sun, Yuekun Dai, Chongyi Li, Shangchen Zhou, Ruicheng Feng, Qianhui Sun, Chen Change Loy, Jinwei Gu, Yi Yu, Yangke Huang, Kang Zhang, Meiya Chen, Yu Wang, Yongchao Li, Hao Jiang, Amrit Kumar Muduli, Vikash Kumar, Kunal Swami, Pankaj Kumar Bajpai, Yunchao Ma, Jiajun Xiao, Zhi Ling",CVPR Workshops 2023: 2864-2870,CVPR,A*
+14,MIPI 2023 Challenge on RGBW Fusion: Methods and Results.,2023,"Qianhui Sun, Qingyu Yang, Chongyi Li, Shangchen Zhou, Ruicheng Feng, Yuekun Dai, Wenxiu Sun, Qingpeng Zhu, Chen Change Loy, Jinwei Gu, Hongyuan Yu, Yuqing Liu, Weichen Yu, Lin Ge, Xiaolin Zhang, Qi Jia, Heng Zhang, Xuanwu Yin, Kunlong Zuo, Qi Wu, Wenjie Lin, Ting Jiang, Chengzhi Jiang, Mingyan Han, Xinpeng Li, Jinting Luo, Lei Yu, Haoqiang Fan, Shuaicheng Liu, Kunyu Wang, Chengzhi Cao, Yuanshen Guan, Jiyuan Xia, Ruikang Xu, Mingde Yao, Zhiwei Xiong",CVPR Workshops 2023: 2871-2877,CVPR,A*
+15,MIPI 2023 Challenge on RGBW Remosaic: Methods and Results.,2023,"Qianhui Sun, Qingyu Yang, Chongyi Li, Shangchen Zhou, Ruicheng Feng, Yuekun Dai, Wenxiu Sun, Qingpeng Zhu, Chen Change Loy, Jinwei Gu, Yuqing Liu, Hongyuan Yu, Weichen Yu, Zhen Dong, Binnan Han, Qi Jia, Xuanwu Yin, Kunlong Zuo, Yaqi Wu, Zhihao Fan, Fanqing Meng, Xun Wu, Jiawei Zhang, Feng Zhang, Mingyan Han, Jinting Luo, Qi Wu, Ting Jiang, Chengzhi Jiang, Wenjie Lin, Xinpeng Li, Lei Yu, Haoqiang Fan, Shuaicheng Liu",CVPR Workshops 2023: 2878-2885,CVPR,A*
+16,Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera.,2023,"Ruicheng Feng, Chongyi Li, Huaijin Chen, Shuai Li, Jinwei Gu, Chen Change Loy",CVPR 2023: 5013-5022,CVPR,A*
+17,Learning Generative Structure Prior for Blind Text Image Super-resolution.,2023,"Xiaoming Li, Wangmeng Zuo, Chen Change Loy",CVPR 2023: 10103-10113,CVPR,A*
+18,CelebV-Text: A Large-Scale Facial Text-Video Dataset.,2023,"Jianhui Yu, Hao Zhu, Liming Jiang, Chen Change Loy, Weidong Cai, Wayne Wu",CVPR 2023: 14805-14814,CVPR,A*
+19,Correlational Image Modeling for Self-Supervised Visual Pre-Training.,2023,"Wei Li, Jiahao Xie, Chen Change Loy",CVPR 2023: 15105-15115,CVPR,A*
+20,Aligning Bag of Regions for Open-Vocabulary Object Detection.,2023,"Size Wu, Wenwei Zhang, Sheng Jin, Wentao Liu, Chen Change Loy",CVPR 2023: 15254-15264,CVPR,A*
+21,Siamese DETR.,2023,"Zeren Chen, Gengshi Huang, Wei Li, Jianing Teng, Kun Wang, Jing Shao, Chen Change Loy, Lu Sheng",CVPR 2023: 15722-15731,CVPR,A*
+22,Panoptic Video Scene Graph Generation.,2023,"Jingkang Yang, Wenxuan Peng, Xiangtai Li, Zujin Guo, Liangyu Chen, Bo Li, Zheng Ma, Kaiyang Zhou, Wayne Zhang, Chen Change Loy, Ziwei Liu",CVPR 2023: 18675-18685,CVPR,A*
+23,Nighttime Smartphone Reflective Flare Removal Using Optical Center Symmetry Prior.,2023,"Yuekun Dai, Yihang Luo, Shangchen Zhou, Chongyi Li, Chen Change Loy",CVPR 2023: 20783-20791,CVPR,A*
+24,Self-Supervised Geometry-Aware Encoder for Style-Based 3D GAN Inversion.,2023,"Yushi Lan, Xuyi Meng, Shuai Yang, Chen Change Loy, Bo Dai",CVPR 2023: 20940-20949,CVPR,A*
+25,Masked Frequency Modeling for Self-Supervised Visual Pre-Training.,2023,"Jiahao Xie, Wei Li, Xiaohang Zhan, Ziwei Liu, Yew-Soon Ong, Chen Change Loy",ICLR 2023,ICLR,A*
+26,Embedding Fourier for Ultra-High-Definition Low-Light Image Enhancement.,2023,"Chongyi Li, Chun-Le Guo, Man Zhou, Zhexin Liang, Shangchen Zhou, Ruicheng Feng, Chen Change Loy",ICLR 2023,ICLR,A*
+27,Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation.,2023,"Jianzong Wu, Xiangtai Li, Henghui Ding, Xia Li, Guangliang Cheng, Yunhai Tong, Chen Change Loy",CoRR abs/2301.00805 ,CORR,Unranked
+28,Embedding Fourier for Ultra-High-Definition Low-Light Image Enhancement.,2023,"Chongyi Li, Chunle Guo, Man Zhou, Zhexin Liang, Shangchen Zhou, Ruicheng Feng, Chen Change Loy",CoRR abs/2302.11831 ,CORR,Unranked
+29,Aligning Bag of Regions for Open-Vocabulary Object Detection.,2023,"Size Wu, Wenwei Zhang, Sheng Jin, Wentao Liu, Chen Change Loy",CoRR abs/2302.13996 ,CORR,Unranked
+30,StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces.,2023,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy",CoRR abs/2303.06146 ,CORR,Unranked
+31,Correlational Image Modeling for Self-Supervised Visual Pre-Training.,2023,"Wei Li, Jiahao Xie, Chen Change Loy",CoRR abs/2303.12670 ,CORR,Unranked
+32,Tube-Link: A Flexible Cross Tube Baseline for Universal Video Segmentation.,2023,"Xiangtai Li, Haobo Yuan, Wenwei Zhang, Guangliang Cheng, Jiangmiao Pang, Chen Change Loy",CoRR abs/2303.12782 ,CORR,Unranked
+33,Task-Oriented Human-Object Interactions Generation with Implicit Neural Representations.,2023,"Quanzhou Li, Jingbo Wang, Chen Change Loy, Bo Dai",CoRR abs/2303.13129 ,CORR,Unranked
+34,Position-Guided Point Cloud Panoptic Segmentation Transformer.,2023,"Zeqi Xiao, Wenwei Zhang, Tai Wang, Chen Change Loy, Dahua Lin, Jiangmiao Pang",CoRR abs/2303.13509 ,CORR,Unranked
+35,CelebV-Text: A Large-Scale Facial Text-Video Dataset.,2023,"Jianhui Yu, Hao Zhu, Liming Jiang, Chen Change Loy, Weidong Cai, Wayne Wu",CoRR abs/2303.14717 ,CORR,Unranked
+36,Learning Generative Structure Prior for Blind Text Image Super-resolution.,2023,"Xiaoming Li, Wangmeng Zuo, Chen Change Loy",CoRR abs/2303.14726 ,CORR,Unranked
+37,Nighttime Smartphone Reflective Flare Removal Using Optical Center Symmetry Prior.,2023,"Yuekun Dai, Yihang Luo, Shangchen Zhou, Chongyi Li, Chen Change Loy",CoRR abs/2303.15046 ,CORR,Unranked
+38,SparseNeRF: Distilling Depth Ranking for Few-shot Novel View Synthesis.,2023,"Guangcong Wang, Zhaoxi Chen, Chen Change Loy, Ziwei Liu",CoRR abs/2303.16196 ,CORR,Unranked
+39,Iterative Prompt Learning for Unsupervised Backlit Image Enhancement.,2023,"Zhexin Liang, Chongyi Li, Shangchen Zhou, Ruicheng Feng, Chen Change Loy",CoRR abs/2303.17569 ,CORR,Unranked
+40,Siamese DETR.,2023,"Zeren Chen, Gengshi Huang, Wei Li, Jianing Teng, Kun Wang, Jing Shao, Chen Change Loy, Lu Sheng",CoRR abs/2303.18144 ,CORR,Unranked
+41,Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera.,2023,"Ruicheng Feng, Chongyi Li, Huaijin Chen, Shuai Li, Jinwei Gu, Chen Change Loy",CoRR abs/2304.06019 ,CORR,Unranked
+42,Text2Performer: Text-Driven Human Video Generation.,2023,"Yuming Jiang, Shuai Yang, Tong Liang Koh, Wayne Wu, Chen Change Loy, Ziwei Liu",CoRR abs/2304.08483 ,CORR,Unranked
+43,Transformer-Based Visual Segmentation: A Survey.,2023,"Xiangtai Li, Henghui Ding, Wenwei Zhang, Haobo Yuan, Jiangmiao Pang, Guangliang Cheng, Kai Chen, Ziwei Liu, Chen Change Loy",CoRR abs/2304.09854 ,CORR,Unranked
+44,MIPI 2023 Challenge on RGBW Fusion: Methods and Results.,2023,"Qianhui Sun, Qingyu Yang, Chongyi Li, Shangchen Zhou, Ruicheng Feng, Yuekun Dai, Wenxiu Sun, Qingpeng Zhu, Chen Change Loy, Jinwei Gu",CoRR abs/2304.10089 ,CORR,Unranked
+45,MIPI 2023 Challenge on RGBW Remosaic: Methods and Results.,2023,"Qianhui Sun, Qingyu Yang, Chongyi Li, Shangchen Zhou, Ruicheng Feng, Yuekun Dai, Wenxiu Sun, Qingpeng Zhu, Chen Change Loy, Jinwei Gu",CoRR abs/2304.10551 ,CORR,Unranked
+46,MIPI 2023 Challenge on RGB+ToF Depth Completion: Methods and Results.,2023,"Qingpeng Zhu, Wenxiu Sun, Yuekun Dai, Chongyi Li, Shangchen Zhou, Ruicheng Feng, Qianhui Sun, Chen Change Loy, Jinwei Gu, Yi Yu, Yangke Huang, Kang Zhang, Meiya Chen, Yu Wang, Yongchao Li, Hao Jiang, Amrit Kumar Muduli, Vikash Kumar, Kunal Swami, Pankaj Kumar Bajpai, Yunchao Ma, Jiajun Xiao, Zhi Ling",CoRR abs/2304.13916 ,CORR,Unranked
+47,Exploiting Diffusion Prior for Real-World Image Super-Resolution.,2023,"Jianyi Wang, Zongsheng Yue, Shangchen Zhou, Kelvin C. K. Chan, Chen Change Loy",CoRR abs/2305.07015 ,CORR,Unranked
+48,Towards Multi-Layered 3D Garments Animation.,2023,"Yidi Shao, Chen Change Loy, Bo Dai",CoRR abs/2305.10418 ,CORR,Unranked
+49,RenderMe-360: A Large Digital Asset Library and Benchmarks Towards High-fidelity Head Avatars.,2023,"Dongwei Pan, Long Zhuo, Jingtan Piao, Huiwen Luo, Wei Cheng, Yuxin Wang, Siming Fan, Shengqi Liu, Lei Yang, Bo Dai, Ziwei Liu, Chen Change Loy, Chen Qian, Wayne Wu, Dahua Lin, Kwan-Yee Lin",CoRR abs/2305.13353 ,CORR,Unranked
+50,MIPI 2023 Challenge on Nighttime Flare Removal: Methods and Results.,2023,"Yuekun Dai, Chongyi Li, Shangchen Zhou, Ruicheng Feng, Qingpeng Zhu, Qianhui Sun, Wenxiu Sun, Chen Change Loy, Jinwei Gu",CoRR abs/2305.13770 ,CORR,Unranked
+51,Semi-Supervised and Long-Tailed Object Detection with CascadeMatch.,2023,"Yuhang Zang, Kaiyang Zhou, Chen Huang, Chen Change Loy",CoRR abs/2305.14813 ,CORR,Unranked
+52,Contextual Object Detection with Multimodal Large Language Models.,2023,"Yuhang Zang, Wei Li, Jun Han, Kaiyang Zhou, Chen Change Loy",CoRR abs/2305.18279 ,CORR,Unranked
+53,Flare7K++: Mixing Synthetic and Real Datasets for Nighttime Flare Removal and Beyond.,2023,"Yuekun Dai, Chongyi Li, Shangchen Zhou, Ruicheng Feng, Yihang Luo, Chen Change Loy",CoRR abs/2306.04236 ,CORR,Unranked
+54,GP-UNIT: Generative Prior for Versatile Unsupervised Image-to-Image Translation.,2023,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy",CoRR abs/2306.04636 ,CORR,Unranked
+55,Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation.,2023,"Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy",CoRR abs/2306.07954 ,CORR,Unranked
+56,Explore In-Context Learning for 3D Point Cloud Understanding.,2023,"Zhongbin Fang, Xiangtai Li, Xia Li, Joachim M. Buhmann, Chen Change Loy, Mengyuan Liu",CoRR abs/2306.08659 ,CORR,Unranked
+57,Adaptive Window Pruning for Efficient Local Motion Deblurring.,2023,"Haoying Li, Jixin Zhao, Shangchen Zhou, Huajun Feng, Chongyi Li, Chen Change Loy",CoRR abs/2306.14268 ,CORR,Unranked
+58,DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering.,2023,"Wei Cheng, Ruixiang Chen, Wanqi Yin, Siming Fan, Keyu Chen, Honglin He, Huiwen Luo, Zhongang Cai, Jingbo Wang, Yang Gao, Zhengming Yu, Zhengyu Lin, Daxuan Ren, Lei Yang, Ziwei Liu, Chen Change Loy, Chen Qian, Wayne Wu, Dahua Lin, Bo Dai, Kwan-Yee Lin",CoRR abs/2307.10173 ,CORR,Unranked
+59,ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting.,2023,"Zongsheng Yue, Jianyi Wang, Chen Change Loy",CoRR abs/2307.12348 ,CORR,Unranked
+60,MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions.,2023,"Henghui Ding, Chang Liu, Shuting He, Xudong Jiang, Chen Change Loy",CoRR abs/2308.08544 ,CORR,Unranked
+61,Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation.,2023,"Yuxin Jiang, Liming Jiang, Shuai Yang, Chen Change Loy",CoRR abs/2308.12968 ,CORR,Unranked
+62,PointHPS: Cascaded 3D Human Pose and Shape Estimation from Point Clouds.,2023,"Zhongang Cai, Liang Pan, Chen Wei, Wanqi Yin, Fangzhou Hong, Mingyuan Zhang, Chen Change Loy, Lei Yang, Ziwei Liu",CoRR abs/2308.14492 ,CORR,Unranked
+63,StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation.,2023,"Yuhan Wang, Liming Jiang, Chen Change Loy",CoRR abs/2308.16909 ,CORR,Unranked
+64,Audio-Driven Dubbing for User Generated Contents via Style-Aware Semi-Parametric Synthesis.,2023,"Linsen Song, Wayne Wu, Chaoyou Fu, Chen Change Loy, Ran He",CoRR abs/2309.00030 ,CORR,Unranked
+65,ProPainter: Improving Propagation and Transformer for Video Inpainting.,2023,"Shangchen Zhou, Chongyi Li, Kelvin C. K. Chan, Chen Change Loy",CoRR abs/2309.03897 ,CORR,Unranked
+66,DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields.,2023,"Junzhe Zhang, Yushi Lan, Shuai Yang, Fangzhou Hong, Quan Wang, Chai Kiat Yeo, Ziwei Liu, Chen Change Loy",CoRR abs/2309.04410 ,CORR,Unranked
+67,Interpret Vision Transformers as ConvNets with Dynamic Convolutions.,2023,"Chong Zhou, Chen Change Loy, Bo Dai",CoRR abs/2309.10713 ,CORR,Unranked
+68,PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance.,2023,"Peiqing Yang, Shangchen Zhou, Qingyi Tao, Chen Change Loy",CoRR abs/2309.10810 ,CORR,Unranked
+69,MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation.,2023,"Jiahao Xie, Wei Li, Xiangtai Li, Ziwei Liu, Yew Soon Ong, Chen Change Loy",CoRR abs/2309.13042 ,CORR,Unranked
+70,LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models.,2023,"Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, Chenyang Si, Yuming Jiang, Cunjian Chen, Chen Change Loy, Bo Dai, Dahua Lin, Yu Qiao, Ziwei Liu",CoRR abs/2309.15103 ,CORR,Unranked
+71,Deep Geometrized Cartoon Line Inbetweening.,2023,"Siyao Li, Tianpei Gu, Weiye Xiao, Henghui Ding, Ziwei Liu, Chen Change Loy",CoRR abs/2309.16643 ,CORR,Unranked
+72,SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation.,2023,"Zhongang Cai, Wanqi Yin, Ailing Zeng, Chen Wei, Qingping Sun, Yanjun Wang, Hui En Pang, Haiyi Mei, Mingyuan Zhang, Lei Zhang, Chen Change Loy, Lei Yang, Ziwei Liu",CoRR abs/2309.17448 ,CORR,Unranked
+73,DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection.,2023,"Shilin Xu, Xiangtai Li, Size Wu, Wenwei Zhang, Yining Li, Guangliang Cheng, Yunhai Tong, Kai Chen, Chen Change Loy",CoRR abs/2310.01393 ,CORR,Unranked
+74,CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction.,2023,"Size Wu, Wenwei Zhang, Lumin Xu, Sheng Jin, Xiangtai Li, Wentao Liu, Chen Change Loy",CoRR abs/2310.01403 ,CORR,Unranked
+75,Learning to Prompt for Vision-Language Models.,2022,"Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu",Int. J. Comput. Vis. 130: 2337-2348 ,IJCV,Unranked
+76,Delving into Inter-Image Invariance for Unsupervised Visual Representations.,2022,"Jiahao Xie, Xiaohang Zhan, Ziwei Liu, Yew-Soon Ong, Chen Change Loy",Int. J. Comput. Vis. 130: 2994-3013 ,IJCV,Unranked
+77,Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation.,2022,"Chongyi Li, Chunle Guo, Chen Change Loy",IEEE Trans. Pattern Anal. Mach. Intell. 44: 4225-4238 ,PAMI,Unranked
+78,CARAFE++: Unified Content-Aware ReAssembly of FEatures.,2022,"Jiaqi Wang, Kai Chen, Rui Xu, Ziwei Liu, Chen Change Loy, Dahua Lin",IEEE Trans. Pattern Anal. Mach. Intell. 44: 4674-4687 ,PAMI,Unranked
+79,Path-Restore: Learning Network Path Selection for Image Restoration.,2022,"Ke Yu, Xintao Wang, Chao Dong, Xiaoou Tang, Chen Change Loy",IEEE Trans. Pattern Anal. Mach. Intell. 44: 7078-7092 ,PAMI,Unranked
+80,Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.,2022,"Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo",IEEE Trans. Pattern Anal. Mach. Intell. 44: 7474-7489 ,PAMI,Unranked
+81,Low-Light Image and Video Enhancement Using Deep Learning: A Survey.,2022,"Chongyi Li, Chunle Guo, Linghao Han, Jun Jiang, Ming-Ming Cheng, Jinwei Gu, Chen Change Loy",IEEE Trans. Pattern Anal. Mach. Intell. 44: 9396-9416 ,PAMI,Unranked
+82,"Self-Supervised Representation Learning: Introduction, advances, and challenges.",2022,"Linus Ericsson, Henry Gouk, Chen Change Loy, Timothy M. Hospedales",IEEE Signal Process. Mag. 39: 42-62 ,SPM,C
+83,Everybody's Talkin': Let Me Talk as You Want.,2022,"Linsen Song, Wayne Wu, Chen Qian, Ran He, Chen Change Loy",IEEE Trans. Inf. Forensics Secur. 17: 585-598 ,TIFS,Unranked
+84,Chasing the Tail in Monocular 3D Human Reconstruction With Prototype Memory.,2022,"Yu Rong, Ziwei Liu, Chen Change Loy",IEEE Trans. Image Process. 31: 2907-2919 ,TIP,Unranked
+85,Text2Human: text-driven controllable human image generation.,2022,"Yuming Jiang, Shuai Yang, Haonan Qiu, Wayne Wu, Chen Change Loy, Ziwei Liu",ACM Trans. Graph. 41: 162:1-162:11 ,TOG,Unranked
+86,VToonify: Controllable High-Resolution Portrait Video Style Transfer.,2022,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy",ACM Trans. Graph. 41: 203:1-203:15 ,TOG,Unranked
+87,MoCaNet: Motion Retargeting In-the-Wild via Canonicalization Networks.,2022,"Wentao Zhu, Zhuoqian Yang, Ziang Di, Wayne Wu, Yizhou Wang, Chen Change Loy",AAAI 2022: 3617-3625,AAAI,A*
+88,Delving into High-Quality Synthetic Face Occlusion Segmentation Datasets.,2022,"Kenny T. R. Voo, Liming Jiang, Chen Change Loy",CVPR Workshops 2022: 4710-4719,CVPR,A*
+89,Investigating Tradeoffs in Real-World Video Super-Resolution.,2022,"Kelvin C. K. Chan, Shangchen Zhou, Xiangyu Xu, Chen Change Loy",CVPR 2022: 5952-5961,CVPR,A*
+90,BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment.,2022,"Kelvin C. K. Chan, Shangchen Zhou, Xiangyu Xu, Chen Change Loy",CVPR 2022: 5962-5971,CVPR,A*
+91,TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing.,2022,"Yanbo Xu, Yueqin Yin, Liming Jiang, Qianyi Wu, Chengyao Zheng, Chen Change Loy, Bo Dai, Wayne Wu",CVPR 2022: 7673-7682,CVPR,A*
+92,Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer.,2022,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy",CVPR 2022: 7683-7692,CVPR,A*
+93,Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation.,2022,"Yuenan Hou, Xinge Zhu, Yuexin Ma, Chen Change Loy, Yikang Li",CVPR 2022: 8469-8478,CVPR,A*
+94,Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory.,2022,"Siyao Li, Weijiang Yu, Tianpei Gu, Chunze Lin, Quan Wang, Chen Qian, Chen Change Loy, Ziwei Liu",CVPR 2022: 11040-11049,CVPR,A*
+95,Conditional Prompt Learning for Vision-Language Models.,2022,"Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu",CVPR 2022: 16795-16804,CVPR,A*
+96,Unsupervised Image-to-Image Translation with Generative Prior.,2022,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy",CVPR 2022: 18311-18320,CVPR,A*
+97,"Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation.",2022,"Xiangtai Li, Wenwei Zhang, Jiangmiao Pang, Kai Chen, Guangliang Cheng, Yunhai Tong, Chen Change Loy",CVPR 2022: 18825-18835,CVPR,A*
+98,StyleGAN-Human: A Data-Centric Odyssey of Human Generation.,2022,"Jianglin Fu, Shikai Li, Yuming Jiang, Kwan-Yee Lin, Chen Qian, Chen Change Loy, Wayne Wu, Ziwei Liu",ECCV  2022: 1-19,ECCV,A*
+99,MIPI 2022 Challenge on RGB+ToF Depth Completion: Dataset and Report.,2022,"Wenxiu Sun, Qingpeng Zhu, Chongyi Li, Ruicheng Feng, Shangchen Zhou, Jun Jiang, Qingyu Yang, Chen Change Loy, Jinwei Gu, Dewang Hou, Kai Zhao, Liying Lu, Yu Li, Huaijia Lin, Ruizheng Wu, Jiangbo Lu, Jiaya Jia, Qiang Liu, Haosong Yue, Danyang Cao, Lehang Yu, Jiaxuan Quan, Jixiang Liang, Yufei Wang, Yuchao Dai, Peng Yang, Hu Yan, Houbiao Liu, Siyuan Su, Xuanhe Li, Rui Ren, Yunlong Liu, Yufan Zhu, Dong Lao, Alex Wong, Katie Chang",ECCV Workshops  2022: 3-20,ECCV,A*
+100,MIPI 2022 Challenge on Quad-Bayer Re-mosaic: Dataset and Report.,2022,"Qingyu Yang, Guang Yang, Jun Jiang, Chongyi Li, Ruicheng Feng, Shangchen Zhou, Wenxiu Sun, Qingpeng Zhu, Chen Change Loy, Jinwei Gu, Zhen Wang, Daoyu Li, Yuzhe Zhang, Lintao Peng, Xuyang Chang, Yinuo Zhang, Yaqi Wu, Xun Wu, Zhihao Fan, Chengjie Xia, Feng Zhang, Haijin Zeng, Kai Feng, Yongqiang Zhao, Hiêp Quang Luong, Jan Aelterman, Anh Minh Truong, Wilfried Philips, Xiaohong Liu, Jun Jia, Hanchi Sun, Guangtao Zhai, Longan Xiao, Qihang Xu, Ting Jiang, Qi Wu, Chengzhi Jiang, Mingyan Han, Xinpeng Li, Wenjie Lin, Youwei Li, Haoqiang Fan, Shuaicheng Liu, Rongyuan Wu, Lingchen Sun, Qiaosi Yi",ECCV Workshops  2022: 21-35,ECCV,A*
+101,MIPI 2022 Challenge on RGBW Sensor Re-mosaic: Dataset and Report.,2022,"Qingyu Yang, Guang Yang, Jun Jiang, Chongyi Li, Ruicheng Feng, Shangchen Zhou, Wenxiu Sun, Qingpeng Zhu, Chen Change Loy, Jinwei Gu, Lingchen Sun, Rongyuan Wu, Qiaosi Yi, Rongjian Xu, Xiaohui Liu, Zhilu Zhang, Xiaohe Wu, Ruohao Wang, Junyi Li, Wangmeng Zuo, Faming Fang",ECCV Workshops  2022: 36-45,ECCV,A*
+102,MIPI 2022 Challenge on RGBW Sensor Fusion: Dataset and Report.,2022,"Qingyu Yang, Guang Yang, Jun Jiang, Chongyi Li, Ruicheng Feng, Shangchen Zhou, Wenxiu Sun, Qingpeng Zhu, Chen Change Loy, Jinwei Gu, Zhen Wang, Daoyu Li, Yuzhe Zhang, Lintao Peng, Xuyang Chang, Yinuo Zhang, Liheng Bian, Bing Li, Jie Huang, Mingde Yao, Ruikang Xu, Feng Zhao, Xiaohui Liu, Rongjian Xu, Zhilu Zhang, Xiaohe Wu, Ruohao Wang, Junyi Li, Wangmeng Zuo, Zhuang Jia, DongJae Lee, Ting Jiang, Qi Wu, Chengzhi Jiang, Mingyan Han, Xinpeng Li, Wenjie Lin, Youwei Li, Haoqiang Fan, Shuaicheng Liu",ECCV Workshops  2022: 46-59,ECCV,A*
+103,MIPI 2022 Challenge on Under-Display Camera Image Restoration: Methods and Results.,2022,"Ruicheng Feng, Chongyi Li, Shangchen Zhou, Wenxiu Sun, Qingpeng Zhu, Jun Jiang, Qingyu Yang, Chen Change Loy, Jinwei Gu, Yurui Zhu, Xi Wang, Xueyang Fu, Xiaowei Hu, Jinfan Hu, Xina Liu, Xiangyu Chen, Chao Dong, Dafeng Zhang, Feiyu Huang, Shizhuo Liu, Xiaobing Wang, Zhezhu Jin, Xuhao Jiang, Guangqi Shao, Xiaotao Wang, Lei Lei, Zhao Zhang, Suiyi Zhao, Huan Zheng, Yangcheng Gao, Yanyan Wei, Jiahuan Ren, Tao Huang, Zhenxuan Fang, Mengluan Huang, Junwei Xu, Yong Zhang, Yuechi Yang, Qidi Shu, Zhiwen Yang, Shaocong Li, Mingde Yao, Ruikang Xu, Yuanshen Guan, Jie Huang, Zhiwei Xiong, Hangyan Zhu, Ming Liu, Shaohui Liu, Wangmeng Zuo, Zhuang Jia, Binbin Song, Ziqi Song, Guiting Mao, Ben Hou, Zhimou Liu, Yi Ke, Dengpei Ouyang, Dekui Han, Jinghao Zhang, Qi Zhu, Naishan Zheng, Feng Zhao, Wu Jin, Marcos V. Conde, Sabari Nathan, Radu Timofte, Tianyi Xu, Jun Xu, P. S. Hrishikesh, Densen Puthussery, C. V. Jiji, Biao Jiang, Yuhan Ding, WanZhang Li, Xiaoyue Feng, Sijing Chen, Tianheng Zhong, Jiyang Lu, Hongming Chen, Zhentao Fan, Xiang Chen",ECCV Workshops  2022: 60-77,ECCV,A*
+104,Open-Vocabulary DETR with Conditional Matching.,2022,"Yuhang Zang, Wei Li, Kaiyang Zhou, Chen Huang, Chen Change Loy",ECCV  2022: 106-122,ECCV,A*
+105,BRACE: The Breakdancing Competition Dataset for Dance Motion Synthesis.,2022,"Davide Moltisanti, Jinyi Wu, Bo Dai, Chen Change Loy",ECCV  2022: 329-344,ECCV,A*
+106,Mind the Gap in Distilling StyleGANs.,2022,"Guodong Xu, Yuenan Hou, Ziwei Liu, Chen Change Loy",ECCV  2022: 423-439,ECCV,A*
+107,Dense Siamese Network for Dense Unsupervised Learning.,2022,"Wenwei Zhang, Jiangmiao Pang, Kai Chen, Chen Change Loy",ECCV  2022: 464-480,ECCV,A*
+108,StyleLight: HDR Panorama Generation for Lighting Estimation and Editing.,2022,"Guangcong Wang, Yinuo Yang, Chen Change Loy, Ziwei Liu",ECCV  2022: 477-492,ECCV,A*
+109,Transformer with Implicit Edges for Particle-Based Physics Simulation.,2022,"Yidi Shao, Chen Change Loy, Bo Dai",ECCV  2022: 549-564,ECCV,A*
+110,HuMMan: Multi-modal 4D Human Dataset for Versatile Sensing and Modeling.,2022,"Zhongang Cai, Daxuan Ren, Ailing Zeng, Zhengyu Lin, Tao Yu, Wenjia Wang, Xiangyu Fan, Yang Gao, Yifan Yu, Liang Pan, Fangzhou Hong, Mingyuan Zhang, Chen Change Loy, Lei Yang, Ziwei Liu",ECCV  2022: 557-577,ECCV,A*
+111,LEDNet: Joint Low-Light Enhancement and Deblurring in the Dark.,2022,"Shangchen Zhou, Chongyi Li, Chen Change Loy",ECCV  2022: 573-589,ECCV,A*
+112,CelebV-HQ: A Large-Scale Video Facial Attributes Dataset.,2022,"Hao Zhu, Wayne Wu, Wentao Zhu, Liming Jiang, Siwei Tang, Li Zhang, Ziwei Liu, Chen Change Loy",ECCV  2022: 650-667,ECCV,A*
+113,Monocular 3D Object Reconstruction with GAN Inversion.,2022,"Junzhe Zhang, Daxuan Ren, Zhongang Cai, Chai Kiat Yeo, Bo Dai, Chen Change Loy",ECCV  2022: 673-689,ECCV,A*
+114,Extract Free Dense Labels from CLIP.,2022,"Chong Zhou, Chen Change Loy, Bo Dai",ECCV  2022: 696-712,ECCV,A*
+115,Flare7K: A Phenomenological Nighttime Flare Removal Dataset.,2022,"Yuekun Dai, Chongyi Li, Shangchen Zhou, Ruicheng Feng, Chen Change Loy",NeurIPS 2022,NIPS,Unranked
+116,AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies.,2022,"Siyao Li, Yuhang Li, Bo Li, Chao Dong, Ziwei Liu, Chen Change Loy",NeurIPS 2022,NIPS,Unranked
+117,Towards Robust Blind Face Restoration with Codebook Lookup Transformer.,2022,"Shangchen Zhou, Kelvin C. K. Chan, Chongyi Li, Chen Change Loy",NeurIPS 2022,NIPS,Unranked
+118,Deep Fourier Up-Sampling.,2022,"Man Zhou, Hu Yu, Jie Huang, Feng Zhao, Jinwei Gu, Chen Change Loy, Deyu Meng, Chongyi Li",NeurIPS 2022,NIPS,Unranked
+119,Talking Faces: Audio-to-Video Face Generation.,2022,"Yuxin Wang, Linsen Song, Wayne Wu, Chen Qian, Ran He, Chen Change Loy",Handbook of Digital Face Manipulation and Detection 2022: 163-188,COLLECTIONS,Unranked
+120,DeepFakes Detection: the DeeperForensicsDeeperForensics Dataset and Challenge.,2022,"Liming Jiang, Wayne Wu, Chen Qian, Chen Change Loy",Handbook of Digital Face Manipulation and Detection 2022: 303-329,COLLECTIONS,Unranked
+121,LEDNet: Joint Low-light Enhancement and Deblurring in the Dark.,2022,"Shangchen Zhou, Chongyi Li, Chen Change Loy",CoRR abs/2202.03373 ,CORR,Unranked
+122,Conditional Prompt Learning for Vision-Language Models.,2022,"Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu",CoRR abs/2203.05557 ,CORR,Unranked
+123,Dense Siamese Network.,2022,"Wenwei Zhang, Jiangmiao Pang, Kai Chen, Chen Change Loy",CoRR abs/2203.11075 ,CORR,Unranked
+124,Open-Vocabulary DETR with Conditional Matching.,2022,"Yuhang Zang, Wei Li, Kaiyang Zhou, Chen Huang, Chen Change Loy",CoRR abs/2203.11876 ,CORR,Unranked
+125,Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory.,2022,"Siyao Li, Weijiang Yu, Tianpei Gu, Chunze Lin, Quan Wang, Chen Qian, Chen Change Loy, Ziwei Liu",CoRR abs/2203.13055 ,CORR,Unranked
+126,Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer.,2022,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy",CoRR abs/2203.13248 ,CORR,Unranked
+127,TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing.,2022,"Yanbo Xu, Yueqin Yin, Liming Jiang, Qianyi Wu, Chengyao Zheng, Chen Change Loy, Bo Dai, Wayne Wu",CoRR abs/2203.17266 ,CORR,Unranked
+128,Unsupervised Image-to-Image Translation with Generative Prior.,2022,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy",CoRR abs/2204.03641 ,CORR,Unranked
+129,"Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation.",2022,"Xiangtai Li, Wenwei Zhang, Jiangmiao Pang, Kai Chen, Guangliang Cheng, Yunhai Tong, Chen Change Loy",CoRR abs/2204.04656 ,CORR,Unranked
+130,On the Generalization of BasicVSR++ to Video Deblurring and Denoising.,2022,"Kelvin C. K. Chan, Shangchen Zhou, Xiangyu Xu, Chen Change Loy",CoRR abs/2204.05308 ,CORR,Unranked
+131,StyleGAN-Human: A Data-Centric Odyssey of Human Generation.,2022,"Jianglin Fu, Shikai Li, Yuming Jiang, Kwan-Yee Lin, Chen Qian, Chen Change Loy, Wayne Wu, Ziwei Liu",CoRR abs/2204.11823 ,CORR,Unranked
+132,HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling.,2022,"Zhongang Cai, Daxuan Ren, Ailing Zeng, Zhengyu Lin, Tao Yu, Wenjia Wang, Xiangyu Fan, Yang Gao, Yifan Yu, Liang Pan, Fangzhou Hong, Mingyuan Zhang, Chen Change Loy, Lei Yang, Ziwei Liu",CoRR abs/2204.13686 ,CORR,Unranked
+133,Delving into High-Quality Synthetic Face Occlusion Segmentation Datasets.,2022,"Kenny T. R. Voo, Liming Jiang, Chen Change Loy",CoRR abs/2205.06218 ,CORR,Unranked
+134,Text2Human: Text-Driven Controllable Human Image Generation.,2022,"Yuming Jiang, Shuai Yang, Haonan Qiu, Wayne Wu, Chen Change Loy, Ziwei Liu",CoRR abs/2205.15996 ,CORR,Unranked
+135,Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation.,2022,"Yuenan Hou, Xinge Zhu, Yuexin Ma, Chen Change Loy, Yikang Li",CoRR abs/2206.02099 ,CORR,Unranked
+136,Masked Frequency Modeling for Self-Supervised Visual Pre-Training.,2022,"Jiahao Xie, Wei Li, Xiaohang Zhan, Ziwei Liu, Yew Soon Ong, Chen Change Loy",CoRR abs/2206.07706 ,CORR,Unranked
+137,Towards Robust Blind Face Restoration with Codebook Lookup Transformer.,2022,"Shangchen Zhou, Kelvin C. K. Chan, Chongyi Li, Chen Change Loy",CoRR abs/2206.11253 ,CORR,Unranked
+138,Monocular 3D Object Reconstruction with GAN Inversion.,2022,"Junzhe Zhang, Daxuan Ren, Zhongang Cai, Chai Kiat Yeo, Bo Dai, Chen Change Loy",CoRR abs/2207.10061 ,CORR,Unranked
+139,BRACE: The Breakdancing Competition Dataset for Dance Motion Synthesis.,2022,"Davide Moltisanti, Jinyi Wu, Bo Dai, Chen Change Loy",CoRR abs/2207.10120 ,CORR,Unranked
+140,Transformer with Implicit Edges for Particle-based Physics Simulation.,2022,"Yidi Shao, Chen Change Loy, Bo Dai",CoRR abs/2207.10860 ,CORR,Unranked
+141,CelebV-HQ: A Large-Scale Video Facial Attributes Dataset.,2022,"Hao Zhu, Wayne Wu, Wentao Zhu, Liming Jiang, Siwei Tang, Li Zhang, Ziwei Liu, Chen Change Loy",CoRR abs/2207.12393 ,CORR,Unranked
+142,Exploring CLIP for Assessing the Look and Feel of Images.,2022,"Jianyi Wang, Kelvin C. K. Chan, Chen Change Loy",CoRR abs/2207.12396 ,CORR,Unranked
+143,CuDi: Curve Distillation for Efficient and Controllable Exposure Adjustment.,2022,"Chongyi Li, Chunle Guo, Ruicheng Feng, Shangchen Zhou, Chen Change Loy",CoRR abs/2207.14273 ,CORR,Unranked
+144,StyleLight: HDR Panorama Generation for Lighting Estimation and Editing.,2022,"Guangcong Wang, Yinuo Yang, Chen Change Loy, Ziwei Liu",CoRR abs/2207.14811 ,CORR,Unranked
+145,GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond.,2022,"Kelvin C. K. Chan, Xiangyu Xu, Xintao Wang, Jinwei Gu, Chen Change Loy",CoRR abs/2207.14812 ,CORR,Unranked
+146,Mind the Gap in Distilling StyleGANs.,2022,"Guodong Xu, Yuenan Hou, Ziwei Liu, Chen Change Loy",CoRR abs/2208.08840 ,CORR,Unranked
+147,MIPI 2022 Challenge on Under-Display Camera Image Restoration: Methods and Results.,2022,"Ruicheng Feng, Chongyi Li, Shangchen Zhou, Wenxiu Sun, Qingpeng Zhu, Jun Jiang, Qingyu Yang, Chen Change Loy, Jinwei Gu",CoRR abs/2209.07052 ,CORR,Unranked
+148,MIPI 2022 Challenge on RGB+ToF Depth Completion: Dataset and Report.,2022,"Wenxiu Sun, Qingpeng Zhu, Chongyi Li, Ruicheng Feng, Shangchen Zhou, Jun Jiang, Qingyu Yang, Chen Change Loy, Jinwei Gu",CoRR abs/2209.07057 ,CORR,Unranked
+149,MIPI 2022 Challenge on Quad-Bayer Re-mosaic: Dataset and Report.,2022,"Qingyu Yang, Guang Yang, Jun Jiang, Chongyi Li, Ruicheng Feng, Shangchen Zhou, Wenxiu Sun, Qingpeng Zhu, Chen Change Loy, Jinwei Gu",CoRR abs/2209.07060 ,CORR,Unranked
+150,On-Device Domain Generalization.,2022,"Kaiyang Zhou, Yuanhan Zhang, Yuhang Zang, Jingkang Yang, Chen Change Loy, Ziwei Liu",CoRR abs/2209.07521 ,CORR,Unranked
+151,MIPI 2022 Challenge on RGBW Sensor Fusion: Dataset and Report.,2022,"Qingyu Yang, Guang Yang, Jun Jiang, Chongyi Li, Ruicheng Feng, Shangchen Zhou, Wenxiu Sun, Qingpeng Zhu, Chen Change Loy, Jinwei Gu",CoRR abs/2209.07530 ,CORR,Unranked
+152,MIPI 2022 Challenge on RGBW Sensor Re-mosaic: Dataset and Report.,2022,"Qingyu Yang, Guang Yang, Jun Jiang, Chongyi Li, Ruicheng Feng, Shangchen Zhou, Wenxiu Sun, Qingpeng Zhu, Chen Change Loy, Jinwei Gu",CoRR abs/2209.08471 ,CORR,Unranked
+153,VToonify: Controllable High-Resolution Portrait Video Style Transfer.,2022,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy",CoRR abs/2209.11224 ,CORR,Unranked
+154,Deep Fourier Up-Sampling.,2022,"Man Zhou, Hu Yu, Jie Huang, Feng Zhao, Jinwei Gu, Chen Change Loy, Deyu Meng, Chongyi Li",CoRR abs/2210.05171 ,CORR,Unranked
+155,Flare7K: A Phenomenological Nighttime Flare Removal Dataset.,2022,"Yuekun Dai, Chongyi Li, Shangchen Zhou, Ruicheng Feng, Chen Change Loy",CoRR abs/2210.06570 ,CORR,Unranked
+156,Unified Vision and Language Prompt Learning.,2022,"Yuhang Zang, Wei Li, Kaiyang Zhou, Chen Huang, Chen Change Loy",CoRR abs/2210.07225 ,CORR,Unranked
+157,AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies.,2022,"Siyao Li, Yuhang Li, Bo Li, Chao Dong, Ziwei Liu, Chen Change Loy",CoRR abs/2211.05709 ,CORR,Unranked
+158,"BeautyREC: Robust, Efficient, and Content-preserving Makeup Transfer.",2022,"Qixin Yan, Chunle Guo, Jixin Zhao, Yuekun Dai, Chen Change Loy, Chongyi Li",CoRR abs/2212.05855 ,CORR,Unranked
+159,DifFace: Blind Face Restoration with Diffused Error Contraction.,2022,"Zongsheng Yue, Chen Change Loy",CoRR abs/2212.06512 ,CORR,Unranked
+160,Self-Supervised Geometry-Aware Encoder for Style-Based 3D GAN Inversion.,2022,"Yushi Lan, Xuyi Meng, Shuai Yang, Chen Change Loy, Bo Dai",CoRR abs/2212.07409 ,CORR,Unranked
+161,Reference-based Image and Video Super-Resolution via C2-Matching.,2022,"Yuming Jiang, Kelvin C. K. Chan, Xintao Wang, Chen Change Loy, Ziwei Liu",CoRR abs/2212.09581 ,CORR,Unranked
+162,Correspondence Distillation from NeRF-based GAN.,2022,"Yushi Lan, Chen Change Loy, Bo Dai",CoRR abs/2212.09735 ,CORR,Unranked
+163,A Lightweight Optical Flow CNN - Revisiting Data Fidelity and Regularization.,2021,"Tak-Wai Hui, Xiaoou Tang, Chen Change Loy",IEEE Trans. Pattern Anal. Mach. Intell. 43: 2555-2569 ,PAMI,Unranked
+164,Texture Memory-Augmented Deep Patch-Based Image Inpainting.,2021,"Rui Xu, Minghao Guo, Jiaqi Wang, Xiaoxiao Li, Bolei Zhou, Chen Change Loy",IEEE Trans. Image Process. 30: 9112-9124 ,TIP,Unranked
+165,Monocular 3D Reconstruction of Interacting Hands via Collision-Aware Factorized Refinements.,2021,"Yu Rong, Jingbo Wang, Ziwei Liu, Chen Change Loy",3DV 2021: 432-441,3DIM,Unranked
+166,Understanding Deformable Alignment in Video Super-Resolution.,2021,"Kelvin C. K. Chan, Xintao Wang, Ke Yu, Chao Dong, Chen Change Loy",AAAI 2021: 973-981,AAAI,A*
+167,Removing Diffraction Image Artifacts in Under-Display Camera via Dynamic Skip Connection Network.,2021,"Ruicheng Feng, Chongyi Li, Huaijin Chen, Shuai Li, Chen Change Loy, Jinwei Gu",CVPR 2021: 662-671,CVPR,A*
+168,Unsupervised 3D Shape Completion Through GAN Inversion.,2021,"Junzhe Zhang, Xinyi Chen, Zhongang Cai, Liang Pan, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Bo Dai, Chen Change Loy",CVPR 2021: 1768-1777,CVPR,A*
+169,Robust Reference-Based Super-Resolution via C2-Matching.,2021,"Yuming Jiang, Kelvin C. K. Chan, Xintao Wang, Chen Change Loy, Ziwei Liu",CVPR 2021: 2103-2112,CVPR,A*
+170,Pareidolia Face Reenactment.,2021,"Linsen Song, Wayne Wu, Chaoyou Fu, Chen Qian, Chen Change Loy, Ran He",CVPR 2021: 2236-2245,CVPR,A*
+171,Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation.,2021,"Hang Zhou, Yasheng Sun, Wayne Wu, Chen Change Loy, Xiaogang Wang, Ziwei Liu",CVPR 2021: 4176-4186,CVPR,A*
+172,BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond.,2021,"Kelvin C. K. Chan, Xintao Wang, Ke Yu, Chao Dong, Chen Change Loy",CVPR 2021: 4947-4956,CVPR,A*
+173,Deep Animation Video Interpolation in the Wild.,2021,"Siyao Li, Shiyu Zhao, Weijiang Yu, Wenxiu Sun, Dimitris N. Metaxas, Chen Change Loy, Ziwei Liu",CVPR 2021: 6587-6595,CVPR,A*
+174,Seesaw Loss for Long-Tailed Instance Segmentation.,2021,"Jiaqi Wang, Wenwei Zhang, Yuhang Zang, Yuhang Cao, Jiangmiao Pang, Tao Gong, Kai Chen, Ziwei Liu, Chen Change Loy, Dahua Lin",CVPR 2021: 9695-9704,CVPR,A*
+175,Positional Encoding As Spatial Inductive Bias in GANs.,2021,"Rui Xu, Xintao Wang, Kai Chen, Bolei Zhou, Chen Change Loy",CVPR 2021: 13569-13578,CVPR,A*
+176,Audio-Driven Emotional Video Portraits.,2021,"Xinya Ji, Hang Zhou, Kaisiyuan Wang, Wayne Wu, Chen Change Loy, Xun Cao, Feng Xu",CVPR 2021: 14080-14089,CVPR,A*
+177,GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution.,2021,"Kelvin C. K. Chan, Xintao Wang, Xiangyu Xu, Jinwei Gu, Chen Change Loy",CVPR 2021: 14245-14254,CVPR,A*
+178,FASA: Feature Augmentation and Sampling Adaptation for Long-Tailed Instance Segmentation.,2021,"Yuhang Zang, Chen Huang, Chen Change Loy",ICCV 2021: 3437-3446,ICCV,A*
+179,ReconfigISP: Reconfigurable Camera Image Processing Pipeline.,2021,"Ke Yu, Zexian Li, Yue Peng, Chen Change Loy, Jinwei Gu",ICCV 2021: 4228-4237,ICCV,A*
+180,Talk-to-Edit: Fine-Grained Facial Editing via Dialog.,2021,"Yuming Jiang, Ziqi Huang, Xingang Pan, Chen Change Loy, Ziwei Liu",ICCV 2021: 13779-13788,ICCV,A*
+181,3D Human Texture Estimation from a Single Image with Transformers.,2021,"Xiangyu Xu, Chen Change Loy",ICCV 2021: 13829-13838,ICCV,A*
+182,Focal Frequency Loss for Image Reconstruction and Synthesis.,2021,"Liming Jiang, Bo Dai, Wayne Wu, Chen Change Loy",ICCV 2021: 13899-13909,ICCV,A*
+183,Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs.,2021,"Xingang Pan, Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo",ICLR 2021,ICLR,A*
+184,Retrospective Class Incremental Learning.,2021,"Qingyi Tao, Chen Change Loy, Jianfei Cai, ZongYuan Ge, Simon See",ICME 2021: 1-6,ICMCS,Unranked
+185,K-Net: Towards Unified Image Segmentation.,2021,"Wenwei Zhang, Jiangmiao Pang, Kai Chen, Chen Change Loy",NeurIPS 2021: 10326-10338,NIPS,Unranked
+186,A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis.,2021,"Xingang Pan, Xudong Xu, Chen Change Loy, Christian Theobalt, Bo Dai",NeurIPS 2021: 20002-20013,NIPS,Unranked
+187,Deceive D: Adaptive Pseudo Augmentation for GAN Training with Limited Data.,2021,"Liming Jiang, Bo Dai, Wayne Wu, Chen Change Loy",NeurIPS 2021: 21655-21667,NIPS,Unranked
+188,Unsupervised Object-Level Representation Learning from Scene Images.,2021,"Jiahao Xie, Xiaohang Zhan, Ziwei Liu, Yew Soon Ong, Chen Change Loy",NeurIPS 2021: 28864-28876,NIPS,Unranked
+189,DeeperForensics Challenge 2020 on Real-World Face Forgery Detection: Methods and Results.,2021,"Liming Jiang, Zhengkui Guo, Wayne Wu, Zhaoyang Liu, Ziwei Liu, Chen Change Loy, Shuo Yang, Yuanjun Xiong, Wei Xia, Baoying Chen, Peiyu Zhuang, Sili Li, Shen Chen, Taiping Yao, Shouhong Ding, Jilin Li, Feiyue Huang, Liujuan Cao, Rongrong Ji, Changlei Lu, Ganchao Tan",CoRR abs/2102.09471 ,CORR,Unranked
+190,FASA: Feature Augmentation and Sampling Adaptation for Long-Tailed Instance Segmentation.,2021,"Yuhang Zang, Chen Huang, Chen Change Loy",CoRR abs/2102.12867 ,CORR,Unranked
+191,Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation.,2021,"Chongyi Li, Chunle Guo, Chen Change Loy",CoRR abs/2103.00860 ,CORR,Unranked
+192,Network Pruning via Resource Reallocation.,2021,"Yuenan Hou, Zheng Ma, Chunxiao Liu, Zhe Wang, Chen Change Loy",CoRR abs/2103.01847 ,CORR,Unranked
+193,Domain Generalization: A Survey.,2021,"Kaiyang Zhou, Ziwei Liu, Yu Qiao, Tao Xiang, Chen Change Loy",CoRR abs/2103.02503 ,CORR,Unranked
+194,Deep Animation Video Interpolation in the Wild.,2021,"Siyao Li, Shiyu Zhao, Weijiang Yu, Wenxiu Sun, Dimitris N. Metaxas, Chen Change Loy, Ziwei Liu",CoRR abs/2104.02495 ,CORR,Unranked
+195,Everything's Talkin': Pareidolia Face Reenactment.,2021,"Linsen Song, Wayne Wu, Chaoyou Fu, Chen Qian, Chen Change Loy, Ran He",CoRR abs/2104.03061 ,CORR,Unranked
+196,Audio-Driven Emotional Video Portraits.,2021,"Xinya Ji, Hang Zhou, Kaisiyuan Wang, Wayne Wu, Chen Change Loy, Xun Cao, Feng Xu",CoRR abs/2104.07452 ,CORR,Unranked
+197,Removing Diffraction Image Artifacts in Under-Display Camera via Dynamic Skip Connection Network.,2021,"Ruicheng Feng, Chongyi Li, Huaijin Chen, Shuai Li, Chen Change Loy, Jinwei Gu",CoRR abs/2104.09556 ,CORR,Unranked
+198,Lighting the Darkness in the Deep Learning Era.,2021,"Chongyi Li, Chunle Guo, Linghao Han, Jun Jiang, Ming-Ming Cheng, Jinwei Gu, Chen Change Loy",CoRR abs/2104.10729 ,CORR,Unranked
+199,NTIRE 2021 Challenge on Quality Enhancement of Compressed Video: Methods and Results.,2021,"Ren Yang, Radu Timofte, Jing Liu, Yi Xu, Xinjian Zhang, Minyi Zhao, Shuigeng Zhou, Kelvin C. K. Chan, Shangchen Zhou, Xiangyu Xu, Chen Change Loy, Xin Li, Fanglong Liu, He Zheng, Lielin Jiang, Qi Zhang, Dongliang He, Fu Li, Qingqing Dang, Yibin Huang, Matteo Maggioni, Zhongqian Fu, Shuai Xiao, Cheng Li, Thomas Tanay, Fenglong Song, Wentao Chao, Qiang Guo, Yan Liu, Jiang Li, Xiaochao Qu, Dewang Hou, Jiayu Yang, Lyn Jiang, Di You, Zhenyu Zhang, Chong Mou, Iaroslav Koshelev, Pavel Ostyakov, Andrey Somov, Jia Hao, Xueyi Zou, Shijie Zhao, Xiaopeng Sun, Yiting Liao, Yuanzhi Zhang, Qing Wang, Gen Zhan, Mengxi Guo, Junlin Li, Ming Lu, Zhan Ma, Pablo Navarrete Michelini, Hai Wang, Yiyun Chen, Jingyu Guo, Liliang Zhang, Wenming Yang, Sijung Kim, Syehoon Oh, Yucong Wang, Minjie Cai, Wei Hao, Kangdi Shi, Liangyan Li, Jun Chen, Wei Gao, Wang Liu, Xiaoyu Zhang, Linjie Zhou, Sixin Lin, Ru Wang",CoRR abs/2104.10781 ,CORR,Unranked
+200,Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation.,2021,"Hang Zhou, Yasheng Sun, Wayne Wu, Chen Change Loy, Xiaogang Wang, Ziwei Liu",CoRR abs/2104.11116 ,CORR,Unranked
+201,Unsupervised 3D Shape Completion through GAN Inversion.,2021,"Junzhe Zhang, Xinyi Chen, Zhongang Cai, Liang Pan, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Bo Dai, Chen Change Loy",CoRR abs/2104.13366 ,CORR,Unranked
+202,BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment.,2021,"Kelvin C. K. Chan, Shangchen Zhou, Xiangyu Xu, Chen Change Loy",CoRR abs/2104.13371 ,CORR,Unranked
+203,Semi-Supervised Domain Generalization with Stochastic StyleMatch.,2021,"Kaiyang Zhou, Chen Change Loy, Ziwei Liu",CoRR abs/2106.00592 ,CORR,Unranked
+204,Robust Reference-based Super-Resolution via C2-Matching.,2021,"Yuming Jiang, Kelvin C. K. Chan, Xintao Wang, Chen Change Loy, Ziwei Liu",CoRR abs/2106.01863 ,CORR,Unranked
+205,Unsupervised Object-Level Representation Learning from Scene Images.,2021,"Jiahao Xie, Xiaohang Zhan, Ziwei Liu, Yew-Soon Ong, Chen Change Loy",CoRR abs/2106.11952 ,CORR,Unranked
+206,K-Net: Towards Unified Image Segmentation.,2021,"Wenwei Zhang, Jiangmiao Pang, Kai Chen, Chen Change Loy",CoRR abs/2106.14855 ,CORR,Unranked
+207,Learning to Prompt for Vision-Language Models.,2021,"Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu",CoRR abs/2109.01134 ,CORR,Unranked
+208,3D Human Texture Estimation from a Single Image with Transformers.,2021,"Xiangyu Xu, Chen Change Loy",CoRR abs/2109.02563 ,CORR,Unranked
+209,Talk-to-Edit: Fine-Grained Facial Editing via Dialog.,2021,"Yuming Jiang, Ziqi Huang, Xingang Pan, Chen Change Loy, Ziwei Liu",CoRR abs/2109.04425 ,CORR,Unranked
+210,ReconfigISP: Reconfigurable Camera Image Processing Pipeline.,2021,"Ke Yu, Zexian Li, Yue Peng, Chen Change Loy, Jinwei Gu",CoRR abs/2109.04760 ,CORR,Unranked
+211,Temporally Consistent Video Colorization with Deep Feature Propagation and Self-regularization Learning.,2021,"Yihao Liu, Hengyuan Zhao, Kelvin C. K. Chan, Xintao Wang, Chen Change Loy, Yu Qiao, Chao Dong",CoRR abs/2110.04562 ,CORR,Unranked
+212,Playing for 3D Human Recovery.,2021,"Zhongang Cai, Mingyuan Zhang, Jiawei Ren, Chen Wei, Daxuan Ren, Jiatong Li, Zhengyu Lin, Haiyu Zhao, Shuai Yi, Lei Yang, Chen Change Loy, Ziwei Liu",CoRR abs/2110.07588 ,CORR,Unranked
+213,"Self-Supervised Representation Learning: Introduction, Advances and Challenges.",2021,"Linus Ericsson, Henry Gouk, Chen Change Loy, Timothy M. Hospedales",CoRR abs/2110.09327 ,CORR,Unranked
+214,STransGAN: An Empirical Study on Transformer in GANs.,2021,"Rui Xu, Xiangyu Xu, Kai Chen, Bolei Zhou, Chen Change Loy",CoRR abs/2110.13107 ,CORR,Unranked
+215,A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis.,2021,"Xingang Pan, Xudong Xu, Chen Change Loy, Christian Theobalt, Bo Dai",CoRR abs/2110.15678 ,CORR,Unranked
+216,Monocular 3D Reconstruction of Interacting Hands via Collision-Aware Factorized Refinements.,2021,"Yu Rong, Jingbo Wang, Ziwei Liu, Chen Change Loy",CoRR abs/2111.00763 ,CORR,Unranked
+217,Deceive D: Adaptive Pseudo Augmentation for GAN Training with Limited Data.,2021,"Liming Jiang, Bo Dai, Wayne Wu, Chen Change Loy",CoRR abs/2111.06849 ,CORR,Unranked
+218,Investigating Tradeoffs in Real-World Video Super-Resolution.,2021,"Kelvin C. K. Chan, Shangchen Zhou, Xiangyu Xu, Chen Change Loy",CoRR abs/2111.12704 ,CORR,Unranked
+219,DenseCLIP: Extract Free Dense Labels from CLIP.,2021,"Chong Zhou, Chen Change Loy, Bo Dai",CoRR abs/2112.01071 ,CORR,Unranked
+220,MoCaNet: Motion Retargeting in-the-wild via Canonicalization Networks.,2021,"Wentao Zhu, Zhuoqian Yang, Ziang Di, Wayne Wu, Yizhou Wang, Chen Change Loy",CoRR abs/2112.10082 ,CORR,Unranked
+221,High-Quality Video Generation from Static Structural Annotations.,2020,"Lu Sheng, Junting Pan, Jiaming Guo, Jing Shao, Chen Change Loy",Int. J. Comput. Vis. 128: 2552-2569 ,IJCV,Unranked
+222,Deep Imbalanced Learning for Face Recognition and Attribute Prediction.,2020,"Chen Huang, Yining Li, Chen Change Loy, Xiaoou Tang",IEEE Trans. Pattern Anal. Mach. Intell. 42: 2781-2794 ,PAMI,Unranked
+223,Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement.,2020,"Chunle Guo, Chongyi Li, Jichang Guo, Chen Change Loy, Junhui Hou, Sam Kwong, Runmin Cong",CVPR 2020: 1777-1786,CVPR,A*
+224,DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection.,2020,"Liming Jiang, Ren Li, Wayne Wu, Chen Qian, Chen Change Loy",CVPR 2020: 2886-2895,CVPR,A*
+225,Self-Supervised Scene De-Occlusion.,2020,"Xiaohang Zhan, Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, Chen Change Loy",CVPR 2020: 3783-3791,CVPR,A*
+226,TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting.,2020,"Zhuoqian Yang, Wentao Zhu, Wayne Wu, Chen Qian, Qiang Zhou, Bolei Zhou, Chen Change Loy",CVPR 2020: 5305-5314,CVPR,A*
+227,Online Deep Clustering for Unsupervised Representation Learning.,2020,"Xiaohang Zhan, Jiahao Xie, Ziwei Liu, Yew-Soon Ong, Chen Change Loy",CVPR 2020: 6687-6696,CVPR,A*
+228,EcoNAS: Finding Proxies for Economical Neural Architecture Search.,2020,"Dongzhan Zhou, Xinchi Zhou, Wenwei Zhang, Chen Change Loy, Shuai Yi, Xuesen Zhang, Wanli Ouyang",CVPR 2020: 11393-11401,CVPR,A*
+229,Prime Sample Attention in Object Detection.,2020,"Yuhang Cao, Kai Chen, Chen Change Loy, Dahua Lin",CVPR 2020: 11580-11588,CVPR,A*
+230,Inter-Region Affinity Distillation for Road Marking Segmentation.,2020,"Yuenan Hou, Zheng Ma, Chunxiao Liu, Tak-Wai Hui, Chen Change Loy",CVPR 2020: 12483-12492,CVPR,A*
+231,Learning to Cluster Faces via Confidence and Connectivity Estimation.,2020,"Lei Yang, Dapeng Chen, Xiaohang Zhan, Rui Zhao, Chen Change Loy, Dahua Lin",CVPR 2020: 13366-13375,CVPR,A*
+232,MessyTable: Instance Association in Multiple Camera Views.,2020,"Zhongang Cai, Junzhe Zhang, Daxuan Ren, Cunjun Yu, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Chen Change Loy",ECCV  2020: 1-16,ECCV,A*
+233,LiteFlowNet3: Resolving Correspondence Ambiguity for More Accurate Optical Flow Estimation.,2020,"Tak-Wai Hui, Chen Change Loy",ECCV  2020: 169-184,ECCV,A*
+234,TSIT: A Simple and Versatile Framework for Image-to-Image Translation.,2020,"Liming Jiang, Changxu Zhang, Mingyang Huang, Chunxiao Liu, Jianping Shi, Chen Change Loy",ECCV  2020: 206-222,ECCV,A*
+235,RGB-D Salient Object Detection with Cross-Modality Modulation and Selection.,2020,"Chongyi Li, Runmin Cong, Yongri Piao, Qianqian Xu, Chen Change Loy",ECCV  2020: 225-241,ECCV,A*
+236,Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.,2020,"Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo",ECCV  2020: 262-277,ECCV,A*
+237,Side-Aware Boundary Localization for More Precise Object Detection.,2020,"Jiaqi Wang, Wenwei Zhang, Yuhang Cao, Kai Chen, Jiangmiao Pang, Tao Gong, Jianping Shi, Chen Change Loy, Dahua Lin",ECCV  2020: 403-419,ECCV,A*
+238,Knowledge Distillation Meets Self-supervision.,2020,"Guodong Xu, Ziwei Liu, Xiaoxiao Li, Chen Change Loy",ECCV  2020: 588-604,ECCV,A*
+239,MEAD: A Large-Scale Audio-Visual Dataset for Emotional Talking-Face Generation.,2020,"Kaisiyuan Wang, Qianyi Wu, Linsen Song, Zhuoqian Yang, Wayne Wu, Chen Qian, Ran He, Yu Qiao, Chen Change Loy",ECCV  2020: 700-717,ECCV,A*
+240,"Real or Not Real, that is the Question.",2020,"Yuanbo Xiangli, Yubin Deng, Bo Dai, Chen Change Loy, Dahua Lin",ICLR 2020,ICLR,A*
+241,Cross-Scale Internal Graph Neural Network for Image Super-Resolution.,2020,"Shangchen Zhou, Jiawei Zhang, Wangmeng Zuo, Chen Change Loy",NeurIPS 2020,NIPS,Unranked
+242,EcoNAS: Finding Proxies for Economical Neural Architecture Search.,2020,"Dongzhan Zhou, Xinchi Zhou, Wenwei Zhang, Chen Change Loy, Shuai Yi, Xuesen Zhang, Wanli Ouyang",CoRR abs/2001.01233 ,CORR,Unranked
+243,DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection.,2020,"Liming Jiang, Wayne Wu, Ren Li, Chen Qian, Chen Change Loy",CoRR abs/2001.03024 ,CORR,Unranked
+244,Everybody's Talkin': Let Me Talk as You Want.,2020,"Linsen Song, Wayne Wu, Chen Qian, Ran He, Chen Change Loy",CoRR abs/2001.05201 ,CORR,Unranked
+245,Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement.,2020,"Chunle Guo, Chongyi Li, Jichang Guo, Chen Change Loy, Junhui Hou, Sam Kwong, Runmin Cong",CoRR abs/2001.06826 ,CORR,Unranked
+246,"Real or Not Real, that is the Question.",2020,"Yuanbo Xiangli, Yubin Deng, Bo Dai, Chen Change Loy, Dahua Lin",CoRR abs/2002.05512 ,CORR,Unranked
+247,Residual Knowledge Distillation.,2020,"Mengya Gao, Yujun Shen, Quanquan Li, Chen Change Loy",CoRR abs/2002.09168 ,CORR,Unranked
+248,1st Place Solutions for OpenImage2019 - Object Detection and Instance Segmentation.,2020,"Yu Liu, Guanglu Song, Yuhang Zang, Yan Gao, Enze Xie, Junjie Yan, Chen Change Loy, Xiaogang Wang",CoRR abs/2003.07557 ,CORR,Unranked
+249,Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.,2020,"Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo",CoRR abs/2003.13659 ,CORR,Unranked
+250,TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting.,2020,"Zhuoqian Yang, Wentao Zhu, Wayne Wu, Chen Qian, Qiang Zhou, Bolei Zhou, Chen Change Loy",CoRR abs/2003.14401 ,CORR,Unranked
+251,Learning to Cluster Faces via Confidence and Connectivity Estimation.,2020,"Lei Yang, Dapeng Chen, Xiaohang Zhan, Rui Zhao, Chen Change Loy, Dahua Lin",CoRR abs/2004.00445 ,CORR,Unranked
+252,Self-Supervised Scene De-occlusion.,2020,"Xiaohang Zhan, Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, Chen Change Loy",CoRR abs/2004.02788 ,CORR,Unranked
+253,Feature Pyramid Grids.,2020,"Kai Chen, Yuhang Cao, Chen Change Loy, Dahua Lin, Christoph Feichtenhofer",CoRR abs/2004.03580 ,CORR,Unranked
+254,Inter-Region Affinity Distillation for Road Marking Segmentation.,2020,"Yuenan Hou, Zheng Ma, Chunxiao Liu, Tak-Wai Hui, Chen Change Loy",CoRR abs/2004.05304 ,CORR,Unranked
+255,Knowledge Distillation Meets Self-Supervision.,2020,"Guodong Xu, Ziwei Liu, Xiaoxiao Li, Chen Change Loy",CoRR abs/2006.07114 ,CORR,Unranked
+256,Online Deep Clustering for Unsupervised Representation Learning.,2020,"Xiaohang Zhan, Jiahao Xie, Ziwei Liu, Yew-Soon Ong, Chen Change Loy",CoRR abs/2006.10645 ,CORR,Unranked
+257,Cross-Scale Internal Graph Neural Network for Image Super-Resolution.,2020,"Shangchen Zhou, Jiawei Zhang, Wangmeng Zuo, Chen Change Loy",CoRR abs/2006.16673 ,CORR,Unranked
+258,RGB-D Salient Object Detection with Cross-Modality Modulation and Selection.,2020,"Chongyi Li, Runmin Cong, Yongri Piao, Qianqian Xu, Chen Change Loy",CoRR abs/2007.07051 ,CORR,Unranked
+259,LiteFlowNet3: Resolving Correspondence Ambiguity for More Accurate Optical Flow Estimation.,2020,"Tak-Wai Hui, Chen Change Loy",CoRR abs/2007.09319 ,CORR,Unranked
+260,TSIT: A Simple and Versatile Framework for Image-to-Image Translation.,2020,"Liming Jiang, Changxu Zhang, Mingyang Huang, Chunxiao Liu, Jianping Shi, Chen Change Loy",CoRR abs/2007.12072 ,CORR,Unranked
+261,MessyTable: Instance Association in Multiple Camera Views.,2020,"Zhongang Cai, Junzhe Zhang, Daxuan Ren, Cunjun Yu, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Chen Change Loy",CoRR abs/2007.14878 ,CORR,Unranked
+262,Seesaw Loss for Long-Tailed Instance Segmentation.,2020,"Jiaqi Wang, Wenwei Zhang, Yuhang Zang, Yuhang Cao, Jiangmiao Pang, Tao Gong, Kai Chen, Ziwei Liu, Chen Change Loy, Dahua Lin",CoRR abs/2008.10032 ,CORR,Unranked
+263,Delving into Inter-Image Invariance for Unsupervised Visual Representations.,2020,"Jiahao Xie, Xiaohang Zhan, Ziwei Liu, Yew-Soon Ong, Chen Change Loy",CoRR abs/2008.11702 ,CORR,Unranked
+264,Understanding Deformable Alignment in Video Super-Resolution.,2020,"Kelvin C. K. Chan, Xintao Wang, Ke Yu, Chao Dong, Chen Change Loy",CoRR abs/2009.07265 ,CORR,Unranked
+265,Texture Memory-Augmented Deep Patch-Based Image Inpainting.,2020,"Rui Xu, Minghao Guo, Jiaqi Wang, Xiaoxiao Li, Bolei Zhou, Chen Change Loy",CoRR abs/2009.13240 ,CORR,Unranked
+266,Flexible Piecewise Curves Estimation for Photo Enhancement.,2020,"Chongyi Li, Chunle Guo, Qiming Ai, Shangchen Zhou, Chen Change Loy",CoRR abs/2010.13412 ,CORR,Unranked
+267,Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.,2020,"Xingang Pan, Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo",CoRR abs/2011.00844 ,CORR,Unranked
+268,GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution.,2020,"Kelvin C. K. Chan, Xintao Wang, Xiangyu Xu, Jinwei Gu, Chen Change Loy",CoRR abs/2012.00739 ,CORR,Unranked
+269,BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond.,2020,"Kelvin C. K. Chan, Xintao Wang, Ke Yu, Chao Dong, Chen Change Loy",CoRR abs/2012.02181 ,CORR,Unranked
+270,CARAFE++: Unified Content-Aware ReAssembly of FEatures.,2020,"Jiaqi Wang, Kai Chen, Rui Xu, Ziwei Liu, Chen Change Loy, Dahua Lin",CoRR abs/2012.04733 ,CORR,Unranked
+271,Positional Encoding as Spatial Inductive Bias in GANs.,2020,"Rui Xu, Xintao Wang, Kai Chen, Bolei Zhou, Chen Change Loy",CoRR abs/2012.05217 ,CORR,Unranked
+272,Computation-Efficient Knowledge Distillation via Uncertainty-Aware Mixup.,2020,"Guodong Xu, Ziwei Liu, Chen Change Loy",CoRR abs/2012.09413 ,CORR,Unranked
+273,Multi-Modality Cut and Paste for 3D Object Detection.,2020,"Wenwei Zhang, Zhe Wang, Chen Change Loy",CoRR abs/2012.12741 ,CORR,Unranked
+274,Focal Frequency Loss for Generative Models.,2020,"Liming Jiang, Bo Dai, Wayne Wu, Chen Change Loy",CoRR abs/2012.12821 ,CORR,Unranked
+275,Chasing the Tail in Monocular 3D Human Reconstruction with Prototype Memory.,2020,"Yu Rong, Ziwei Liu, Chen Change Loy",CoRR abs/2012.14739 ,CORR,Unranked
+276,Editorial: Special Issue on Deep Learning for Face Analysis.,2019,"Chen Change Loy, Xiaoming Liu, Tae-Kyun Kim, Fernando De la Torre, Rama Chellappa",Int. J. Comput. Vis. 127: 533-536 ,IJCV,Unranked
+277,Learning to Steer by Mimicking Features from Heterogeneous Auxiliary Networks.,2019,"Yuenan Hou, Zheng Ma, Chunxiao Liu, Chen Change Loy",AAAI 2019: 8433-8440,AAAI,A*
+278,Instance-Level Facial Attributes Transfer with Geometry-Aware Flow.,2019,"Weidong Yin, Ziwei Liu, Chen Change Loy",AAAI 2019: 9111-9118,AAAI,A*
+279,One-shot Face Reenactment.,2019,"Yunxuan Zhang, Siwei Zhang, Yue He, Cheng Li, Chen Change Loy, Ziwei Liu",BMVC 2019: 10,BMVC,A
+280,Learning a Unified Classifier Incrementally via Rebalancing.,2019,"Saihui Hou, Xinyu Pan, Chen Change Loy, Zilei Wang, Dahua Lin",CVPR 2019: 831-839,CVPR,A*
+281,Deep Network Interpolation for Continuous Imagery Effect Transition.,2019,"Xintao Wang, Ke Yu, Chao Dong, Xiaoou Tang, Chen Change Loy",CVPR 2019: 1692-1701,CVPR,A*
+282,Self-Supervised Learning via Conditional Motion Propagation.,2019,"Xiaohang Zhan, Xingang Pan, Ziwei Liu, Dahua Lin, Chen Change Loy",CVPR 2019: 1881-1889,CVPR,A*
+283,EDVR: Video Restoration With Enhanced Deformable Convolutional Networks.,2019,"Xintao Wang, Kelvin C. K. Chan, Ke Yu, Chao Dong, Chen Change Loy",CVPR Workshops 2019: 1954-1963,CVPR,A*
+284,NTIRE 2019 Challenge on Video Deblurring: Methods and Results.,2019,"Seungjun Nah, Radu Timofte, Sungyong Baik, Seokil Hong, Gyeongsik Moon, Sanghyun Son, Kyoung Mu Lee, Xintao Wang, Kelvin C. K. Chan, Ke Yu, Chao Dong, Chen Change Loy, Yuchen Fan, Jiahui Yu, Ding Liu, Thomas S. Huang, Hyeonjun Sim, Munchurl Kim, Dongwon Park, Jisoo Kim, Se Young Chun, Muhammad Haris, Greg Shakhnarovich, Norimichi Ukita, Syed Waqas Zamir, Aditya Arora, Salman H. Khan, Fahad Shahbaz Khan, Ling Shao, Rahul Kumar Gupta, Vishal M. Chudasama, Heena Patel, Kishor P. Upla, Hongfei Fan, Guo Li, Yumei Zhang, Xiang Li, Wenjie Zhang, Qingwen He, Kuldeep Purohit, A. N. Rajagopalan, Jeonghun Kim, Mohammad Tofighi, Tiantong Guo, Vishal Monga",CVPR Workshops 2019: 1974-1984,CVPR,A*
+285,NTIRE 2019 Challenge on Video Super-Resolution: Methods and Results.,2019,"Seungjun Nah, Radu Timofte, Shuhang Gu, Sungyong Baik, Seokil Hong, Gyeongsik Moon, Sanghyun Son, Kyoung Mu Lee, Xintao Wang, Kelvin C. K. Chan, Ke Yu, Chao Dong, Chen Change Loy, Yuchen Fan, Jiahui Yu, Ding Liu, Thomas S. Huang, Xiao Liu, Chao Li, Dongliang He, Yukang Ding, Shilei Wen, Fatih Porikli, Ratheesh Kalarot, Muhammad Haris, Greg Shakhnarovich, Norimichi Ukita, Peng Yi, Zhongyuan Wang, Kui Jiang, Junjun Jiang, Jiayi Ma, Hang Dong, Xinyi Zhang, Zhe Hu, Kwan-Young Kim, Dong Un Kang, Se Young Chun, Kuldeep Purohit, A. N. Rajagopalan, Yapeng Tian, Yulun Zhang, Yun Fu, Chenliang Xu, Ahmet Murat Tekalp, Mustafa Akin Yilmaz, Cansu Korkmaz, Manoj Sharma, Megh Makwana, Anuj Badhwar, Ajay Pratap Singh, Avinash Upadhyay, Rudrabha Mukhopadhyay, Ankit Shukla, Dheeraj Khanna, A. S. Mandal, Santanu Chaudhury, Si Miao, Yongxin Zhu, Xiao Huo",CVPR Workshops 2019: 1985-1995,CVPR,A*
+286,Learning to Cluster Faces on an Affinity Graph.,2019,"Lei Yang, Xiaohang Zhan, Dapeng Chen, Junjie Yan, Chen Change Loy, Dahua Lin",CVPR 2019: 2298-2306,CVPR,A*
+287,Region Proposal by Guided Anchoring.,2019,"Jiaqi Wang, Kai Chen, Shuo Yang, Chen Change Loy, Dahua Lin",CVPR 2019: 2965-2974,CVPR,A*
+288,Dense Intrinsic Appearance Flow for Human Pose Transfer.,2019,"Yining Li, Chen Huang, Chen Change Loy",CVPR 2019: 3693-3702,CVPR,A*
+289,Deep Flow-Guided Video Inpainting.,2019,"Rui Xu, Xiaoxiao Li, Bolei Zhou, Chen Change Loy",CVPR 2019: 3723-3732,CVPR,A*
+290,Hybrid Task Cascade for Instance Segmentation.,2019,"Kai Chen, Jiangmiao Pang, Jiaqi Wang, Yu Xiong, Xiaoxiao Li, Shuyang Sun, Wansen Feng, Ziwei Liu, Jianping Shi, Wanli Ouyang, Chen Change Loy, Dahua Lin",CVPR 2019: 4974-4983,CVPR,A*
+291,TransGaGa: Geometry-Aware Unsupervised Image-To-Image Translation.,2019,"Wayne Wu, Kaidi Cao, Cheng Li, Chen Qian, Chen Change Loy",CVPR 2019: 8012-8021,CVPR,A*
+292,Learning Lightweight Lane Detection CNNs by Self Attention Distillation.,2019,"Yuenan Hou, Zheng Ma, Chunxiao Liu, Chen Change Loy",ICCV 2019: 1013-1021,ICCV,A*
+293,Robust Multi-Modality Multi-Object Tracking.,2019,"Wenwei Zhang, Hui Zhou, Shuyang Sun, Zhe Wang, Jianping Shi, Chen Change Loy",ICCV 2019: 2365-2374,ICCV,A*
+294,CARAFE: Content-Aware ReAssembly of FEatures.,2019,"Jiaqi Wang, Kai Chen, Rui Xu, Ziwei Liu, Chen Change Loy, Dahua Lin",ICCV 2019: 3007-3016,ICCV,A*
+295,Delving Deep Into Hybrid Annotations for 3D Human Recovery in the Wild.,2019,"Yu Rong, Ziwei Liu, Cheng Li, Kaidi Cao, Chen Change Loy",ICCV 2019: 5339-5347,ICCV,A*
+296,Disentangling Content and Style via Unsupervised Geometry Distillation.,2019,"Wayne Wu, Kaidi Cao, Cheng Li, Chen Qian, Chen Change Loy",DGS@ICLR 2019,ICLR,A*
+297,Region Proposal by Guided Anchoring.,2019,"Jiaqi Wang, Kai Chen, Shuo Yang, Chen Change Loy, Dahua Lin",CoRR abs/1901.03278 ,CORR,Unranked
+298,Hybrid Task Cascade for Instance Segmentation.,2019,"Kai Chen, Jiangmiao Pang, Jiaqi Wang, Yu Xiong, Xiaoxiao Li, Shuyang Sun, Wansen Feng, Ziwei Liu, Jianping Shi, Wanli Ouyang, Chen Change Loy, Dahua Lin",CoRR abs/1901.07518 ,CORR,Unranked
+299,WIDER Face and Pedestrian Challenge 2018: Methods and Results.,2019,"Chen Change Loy, Dahua Lin, Wanli Ouyang, Yuanjun Xiong, Shuo Yang, Qingqiu Huang, Dongzhan Zhou, Wei Xia, Quanquan Li, Ping Luo, Junjie Yan, Jianfeng Wang, Zuoxin Li, Ye Yuan, Boxun Li, Shuai Shao, Gang Yu, Fangyun Wei, Xiang Ming, Dong Chen, Shifeng Zhang, Cheng Chi, Zhen Lei, Stan Z. Li, Hongkai Zhang, Bingpeng Ma, Hong Chang, Shiguang Shan, Xilin Chen, Wu Liu, Boyan Zhou, Huaxiong Li, Peng Cheng, Tao Mei, Artem Kukharenko, Artem Vasenin, Nikolay Sergievskiy, Hua Yang, Liangqi Li, Qiling Xu, Yuan Hong, Lin Chen, Mingjun Sun, Yirong Mao, Shiying Luo, Yongjun Li, Ruiping Wang, Qiaokang Xie, Ziyang Wu, Lei Lu, Yiheng Liu, Wengang Zhou",CoRR abs/1902.06854 ,CORR,Unranked
+300,Unsupervised Bi-directional Flow-based Video Generation from one Snapshot.,2019,"Lu Sheng, Junting Pan, Jiaming Guo, Jing Shao, Xiaogang Wang, Chen Change Loy",CoRR abs/1903.00913 ,CORR,Unranked
+301,A Lightweight Optical Flow CNN - Revisiting Data Fidelity and Regularization.,2019,"Tak-Wai Hui, Xiaoou Tang, Chen Change Loy",CoRR abs/1903.07414 ,CORR,Unranked
+302,Dense Intrinsic Appearance Flow for Human Pose Transfer.,2019,"Yining Li, Chen Huang, Chen Change Loy",CoRR abs/1903.11326 ,CORR,Unranked
+303,Self-Supervised Learning via Conditional Motion Propagation.,2019,"Xiaohang Zhan, Xingang Pan, Ziwei Liu, Dahua Lin, Chen Change Loy",CoRR abs/1903.11412 ,CORR,Unranked
+304,Learning to Cluster Faces on an Affinity Graph.,2019,"Lei Yang, Xiaohang Zhan, Dapeng Chen, Junjie Yan, Chen Change Loy, Dahua Lin",CoRR abs/1904.02749 ,CORR,Unranked
+305,Prime Sample Attention in Object Detection.,2019,"Yuhang Cao, Kai Chen, Chen Change Loy, Dahua Lin",CoRR abs/1904.04821 ,CORR,Unranked
+306,TransGaGa: Geometry-Aware Unsupervised Image-to-Image Translation.,2019,"Wayne Wu, Kaidi Cao, Cheng Li, Chen Qian, Chen Change Loy",CoRR abs/1904.09571 ,CORR,Unranked
+307,Path-Restore: Learning Network Path Selection for Image Restoration.,2019,"Ke Yu, Xintao Wang, Chao Dong, Xiaoou Tang, Chen Change Loy",CoRR abs/1904.10343 ,CORR,Unranked
+308,CARAFE: Content-Aware ReAssembly of FEatures.,2019,"Jiaqi Wang, Kai Chen, Rui Xu, Ziwei Liu, Chen Change Loy, Dahua Lin",CoRR abs/1905.02188 ,CORR,Unranked
+309,EDVR: Video Restoration with Enhanced Deformable Convolutional Networks.,2019,"Xintao Wang, Kelvin C. K. Chan, Ke Yu, Chao Dong, Chen Change Loy",CoRR abs/1905.02716 ,CORR,Unranked
+310,Deep Flow-Guided Video Inpainting.,2019,"Rui Xu, Xiaoxiao Li, Bolei Zhou, Chen Change Loy",CoRR abs/1905.02884 ,CORR,Unranked
+311,Disentangling Content and Style via Unsupervised Geometry Distillation.,2019,"Wayne Wu, Kaidi Cao, Cheng Li, Chen Qian, Chen Change Loy",CoRR abs/1905.04538 ,CORR,Unranked
+312,MMDetection: Open MMLab Detection Toolbox and Benchmark.,2019,"Kai Chen, Jiaqi Wang, Jiangmiao Pang, Yuhang Cao, Yu Xiong, Xiaoxiao Li, Shuyang Sun, Wansen Feng, Ziwei Liu, Jiarui Xu, Zheng Zhang, Dazhi Cheng, Chenchen Zhu, Tianheng Cheng, Qijie Zhao, Buyu Li, Xin Lu, Rui Zhu, Yue Wu, Jifeng Dai, Jingdong Wang, Jianping Shi, Wanli Ouyang, Chen Change Loy, Dahua Lin",CoRR abs/1906.07155 ,CORR,Unranked
+313,Learning Lightweight Lane Detection CNNs by Self Attention Distillation.,2019,"Yuenan Hou, Zheng Ma, Chunxiao Liu, Chen Change Loy",CoRR abs/1908.00821 ,CORR,Unranked
+314,One-shot Face Reenactment.,2019,"Yunxuan Zhang, Siwei Zhang, Yue He, Cheng Li, Chen Change Loy, Ziwei Liu",CoRR abs/1908.03251 ,CORR,Unranked
+315,Delving Deep Into Hybrid Annotations for 3D Human Recovery in the Wild.,2019,"Yu Rong, Ziwei Liu, Cheng Li, Kaidi Cao, Chen Change Loy",CoRR abs/1908.06442 ,CORR,Unranked
+316,Robust Multi-Modality Multi-Object Tracking.,2019,"Wenwei Zhang, Hui Zhou, Shuyang Sun, Zhe Wang, Jianping Shi, Chen Change Loy",CoRR abs/1909.03850 ,CORR,Unranked
+317,Learning to Synthesize Fashion Textures.,2019,"Wu Shi, Tak-Wai Hui, Ziwei Liu, Dahua Lin, Chen Change Loy",CoRR abs/1911.07472 ,CORR,Unranked
+318,Side-Aware Boundary Localization for More Precise Object Detection.,2019,"Jiaqi Wang, Wenwei Zhang, Yuhang Cao, Kai Chen, Jiangmiao Pang, Tao Gong, Jianping Shi, Chen Change Loy, Dahua Lin",CoRR abs/1912.04260 ,CORR,Unranked
+319,From Facial Expression Recognition to Interpersonal Relation Prediction.,2018,"Zhanpeng Zhang, Ping Luo, Chen Change Loy, Xiaoou Tang",Int. J. Comput. Vis. 126: 550-569 ,IJCV,Unranked
+320,Deep Learning Markov Random Field for Semantic Segmentation.,2018,"Ziwei Liu, Xiaoxiao Li, Ping Luo, Chen Change Loy, Xiaoou Tang",IEEE Trans. Pattern Anal. Mach. Intell. 40: 1814-1828 ,PAMI,Unranked
+321,Faceness-Net: Face Detection through Deep Facial Part Responses.,2018,"Shuo Yang, Ping Luo, Chen Change Loy, Xiaoou Tang",IEEE Trans. Pattern Anal. Mach. Intell. 40: 1845-1859 ,PAMI,Unranked
+322,Robust and Fast Decoding of High-Capacity Color QR Codes for Mobile Applications.,2018,"Zhibo Yang, Huanle Xu, Jianyuan Deng, Chen Change Loy, Wing Cheong Lau",IEEE Trans. Image Process. 27: 6093-6108 ,TIP,Unranked
+323,Discriminative Sparse Neighbor Approximation for Imbalanced Learning.,2018,"Chen Huang, Chen Change Loy, Xiaoou Tang",IEEE Trans. Neural Networks Learn. Syst. 29: 1503-1513 ,TNN,Unranked
+324,Merge or Not? Learning to Group Faces via Imitation Learning.,2018,"Yue He, Kaidi Cao, Cheng Li, Chen Change Loy",AAAI 2018: 6902-6909,AAAI,A*
+325,Mix-and-Match Tuning for Self-Supervised Semantic Segmentation.,2018,"Xiaohang Zhan, Ziwei Liu, Ping Luo, Xiaoou Tang, Chen Change Loy",AAAI 2018: 7534-7541,AAAI,A*
+326,Recovering Realistic Texture in Image Super-Resolution by Deep Spatial Feature Transform.,2018,"Xintao Wang, Ke Yu, Chao Dong, Chen Change Loy",CVPR 2018: 606-615,CVPR,A*
+327,Crafting a Toolchain for Image Restoration by Deep Reinforcement Learning.,2018,"Ke Yu, Chao Dong, Liang Lin, Chen Change Loy",CVPR 2018: 2443-2452,CVPR,A*
+328,Pose-Robust Face Recognition via Deep Residual Equivariant Mapping.,2018,"Kaidi Cao, Yu Rong, Cheng Li, Xiaoou Tang, Chen Change Loy",CVPR 2018: 5187-5196,CVPR,A*
+329,Optimizing Video Object Detection via a Scale-Time Lattice.,2018,"Kai Chen, Jiaqi Wang, Shuo Yang, Xingcheng Zhang, Yuanjun Xiong, Chen Change Loy, Dahua Lin",CVPR 2018: 7814-7823,CVPR,A*
+330,LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation.,2018,"Tak-Wai Hui, Xiaoou Tang, Chen Change Loy",CVPR 2018: 8981-8989,CVPR,A*
+331,ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks.,2018,"Xintao Wang, Ke Yu, Shixiang Wu, Jinjin Gu, Yihao Liu, Chao Dong, Yu Qiao, Chen Change Loy",ECCV Workshops  2018: 63-79,ECCV,A*
+332,Video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation.,2018,"Xiaoxiao Li, Chen Change Loy",ECCV  2018: 93-110,ECCV,A*
+333,PSANet: Point-wise Spatial Attention Network for Scene Parsing.,2018,"Hengshuang Zhao, Yi Zhang, Shu Liu, Jianping Shi, Chen Change Loy, Dahua Lin, Jiaya Jia",ECCV  2018: 270-286,ECCV,A*
+334,Zoom-Net: Mining Deep Feature Interactions for Visual Relationship Recognition.,2018,"Guojun Yin, Lu Sheng, Bin Liu, Nenghai Yu, Xiaogang Wang, Jing Shao, Chen Change Loy",ECCV  2018: 330-347,ECCV,A*
+335,Lifelong Learning via Progressive Distillation and Retrospection.,2018,"Saihui Hou, Xinyu Pan, Chen Change Loy, Zilei Wang, Dahua Lin",ECCV  2018: 452-467,ECCV,A*
+336,Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition.,2018,"Xiaohang Zhan, Ziwei Liu, Junjie Yan, Dahua Lin, Chen Change Loy",ECCV  2018: 576-592,ECCV,A*
+337,ReenactGAN: Learning to Reenact Faces via Boundary Transfer.,2018,"Wayne Wu, Yunxuan Zhang, Cheng Li, Chen Qian, Chen Change Loy",ECCV  2018: 622-638,ECCV,A*
+338,The Devil of Face Recognition Is in the Noise.,2018,"Fei Wang, Liren Chen, Cheng Li, Shiyao Huang, Yanjie Chen, Chen Qian, Chen Change Loy",ECCV  2018: 780-795,ECCV,A*
+339,Fusing Object Context to Detect Functional Area for Cognitive Robots.,2018,"Hui Cheng, Junhao Cai, Quande Liu, Zhanpeng Zhang, Kai Yang, Chen Change Loy, Liang Lin",ICRA 2018: 1-8,ICRA,A*
+340,Aesthetic-Driven Image Enhancement by Adversarial Learning.,2018,"Yubin Deng, Chen Change Loy, Xiaoou Tang",ACM Multimedia 2018: 870-878,MM,Unranked
+341,Non-Local Recurrent Network for Image Restoration.,2018,"Ding Liu, Bihan Wen, Yuchen Fan, Chen Change Loy, Thomas S. Huang",NeurIPS 2018: 1680-1689,NIPS,Unranked
+342,Pose-Robust Face Recognition via Deep Residual Equivariant Mapping.,2018,"Kaidi Cao, Yu Rong, Cheng Li, Xiaoou Tang, Chen Change Loy",CoRR abs/1803.00839 ,CORR,Unranked
+343,Video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation.,2018,"Xiaoxiao Li, Chen Change Loy",CoRR abs/1803.04242 ,CORR,Unranked
+344,Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform.,2018,"Xintao Wang, Ke Yu, Chao Dong, Chen Change Loy",CoRR abs/1804.02815 ,CORR,Unranked
+345,Crafting a Toolchain for Image Restoration by Deep Reinforcement Learning.,2018,"Ke Yu, Chao Dong, Liang Lin, Chen Change Loy",CoRR abs/1804.03312 ,CORR,Unranked
+346,Optimizing Video Object Detection via a Scale-Time Lattice.,2018,"Kai Chen, Jiaqi Wang, Shuo Yang, Xingcheng Zhang, Yuanjun Xiong, Chen Change Loy, Dahua Lin",CoRR abs/1804.05472 ,CORR,Unranked
+347,LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation.,2018,"Tak-Wai Hui, Xiaoou Tang, Chen Change Loy",CoRR abs/1805.07036 ,CORR,Unranked
+348,Deep Imbalanced Learning for Face Recognition and Attribute Prediction.,2018,"Chen Huang, Yining Li, Chen Change Loy, Xiaoou Tang",CoRR abs/1806.00194 ,CORR,Unranked
+349,Non-Local Recurrent Network for Image Restoration.,2018,"Ding Liu, Bihan Wen, Yuchen Fan, Chen Change Loy, Thomas S. Huang",CoRR abs/1806.02919 ,CORR,Unranked
+350,Zoom-Net: Mining Deep Feature Interactions for Visual Relationship Recognition.,2018,"Guojun Yin, Lu Sheng, Bin Liu, Nenghai Yu, Xiaogang Wang, Jing Shao, Chen Change Loy",CoRR abs/1807.04979 ,CORR,Unranked
+351,ReenactGAN: Learning to Reenact Faces via Boundary Transfer.,2018,"Wayne Wu, Yunxuan Zhang, Cheng Li, Chen Qian, Chen Change Loy",CoRR abs/1807.11079 ,CORR,Unranked
+352,The Devil of Face Recognition is in the Noise.,2018,"Fei Wang, Liren Chen, Cheng Li, Shiyao Huang, Yanjie Chen, Chen Qian, Chen Change Loy",CoRR abs/1807.11649 ,CORR,Unranked
+353,ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks.,2018,"Xintao Wang, Ke Yu, Shixiang Wu, Jinjin Gu, Yihao Liu, Chao Dong, Chen Change Loy, Yu Qiao, Xiaoou Tang",CoRR abs/1809.00219 ,CORR,Unranked
+354,Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition.,2018,"Xiaohang Zhan, Ziwei Liu, Junjie Yan, Dahua Lin, Chen Change Loy",CoRR abs/1809.01407 ,CORR,Unranked
+355,Improving On-policy Learning with Statistical Reward Accumulation.,2018,"Yubin Deng, Ke Yu, Dahua Lin, Xiaoou Tang, Chen Change Loy",CoRR abs/1809.02387 ,CORR,Unranked
+356,Learning to Steer by Mimicking Features from Heterogeneous Auxiliary Networks.,2018,"Yuenan Hou, Zheng Ma, Chunxiao Liu, Chen Change Loy",CoRR abs/1811.02759 ,CORR,Unranked
+357,Deep Network Interpolation for Continuous Imagery Effect Transition.,2018,"Xintao Wang, Ke Yu, Chao Dong, Xiaoou Tang, Chen Change Loy",CoRR abs/1811.10515 ,CORR,Unranked
+358,Instance-level Facial Attributes Transfer with Geometry-Aware Flow.,2018,"Weidong Yin, Ziwei Liu, Chen Change Loy",CoRR abs/1811.12670 ,CORR,Unranked
+359,Feature Matters: A Stage-by-Stage Approach for Knowledge Transfer.,2018,"Mengya Gao, Yujun Shen, Quanquan Li, Chen Change Loy, Xiaoou Tang",CoRR abs/1812.01819 ,CORR,Unranked
+360,Image and Video Understanding in Big Data.,2017,"Vittorio Murino, Shaogang Gong, Chen Change Loy, Loris Bazzani",Comput. Vis. Image Underst. 156: 1-3 ,CVIU,Unranked
+361,Development of fine-grained pill identification algorithm using deep convolutional network.,2017,"Yuen Fei Wong, Hoi Ting Ng, Kit Yee Leung, Ka Yan Chan, Sau Yi Chan, Chen Change Loy",J. Biomed. Informatics 74: 130-136 ,JBI,Unranked
+362,DeepID-Net: Object Detection with Deformable Part Based Convolutional Neural Networks.,2017,"Wanli Ouyang, Xingyu Zeng, Xiaogang Wang, Shi Qiu, Ping Luo, Yonglong Tian, Hongsheng Li, Shuo Yang, Zhe Wang, Hongyang Li, Kun Wang, Junjie Yan, Chen Change Loy, Xiaoou Tang",IEEE Trans. Pattern Anal. Mach. Intell. 39: 1320-1334 ,PAMI,Unranked
+363,Image Aesthetic Assessment: An experimental survey.,2017,"Yubin Deng, Chen Change Loy, Xiaoou Tang",IEEE Signal Process. Mag. 34: 80-106 ,SPM,C
+364,Crowded Scene Understanding by Deeply Learned Volumetric Slices.,2017,"Jing Shao, Chen Change Loy, Kai Kang, Xiaogang Wang",IEEE Trans. Circuits Syst. Video Technol. 27: 613-623 ,TCSV,Unranked
+365,Learning Scene-Independent Group Descriptors for Crowd Understanding.,2017,"Jing Shao, Chen Change Loy, Xiaogang Wang",IEEE Trans. Circuits Syst. Video Technol. 27: 1290-1303 ,TCSV,Unranked
+366,Quantifying Facial Age by Posterior of Age Comparisons.,2017,"Yunxuan Zhang, Li Liu, Cheng Li, Chen Change Loy",BMVC 2017,BMVC,A
+367,NTIRE 2017 Challenge on Single Image Super-Resolution: Methods and Results.,2017,"Radu Timofte, Eirikur Agustsson, Luc Van Gool, Ming-Hsuan Yang, Lei Zhang, Bee Lim, Sanghyun Son, Heewon Kim, Seungjun Nah, Kyoung Mu Lee, Xintao Wang, Yapeng Tian, Ke Yu, Yulun Zhang, Shixiang Wu, Chao Dong, Liang Lin, Yu Qiao, Chen Change Loy, Woong Bae, Jae Jun Yoo, Yoseob Han, Jong Chul Ye, Jae-Seok Choi, Munchurl Kim, Yuchen Fan, Jiahui Yu, Wei Han, Ding Liu, Haichao Yu, Zhangyang Wang, Honghui Shi, Xinchao Wang, Thomas S. Huang, Yunjin Chen, Kai Zhang, Wangmeng Zuo, Zhimin Tang, Linkai Luo, Shaohui Li, Min Fu, Lei Cao, Wen Heng, Giang Bui, Truc Le, Ye Duan, Dacheng Tao, Ruxin Wang, Xu Lin, Jianxin Pang, Jinchang Xu, Yu Zhao, Xiangyu Xu, Jin-shan Pan, Deqing Sun, Yujin Zhang, Xibin Song, Yuchao Dai, Xueying Qin, Xuan-Phung Huynh, Tiantong Guo, Hojjat Seyed Mousavi, Tiep Huu Vu, Vishal Monga, Cristóvão Cruz, Karen O. Egiazarian, Vladimir Katkovnik, Rakesh Mehta, Arnav Kumar Jain, Abhinav Agarwalla, Ch V. Sai Praveen, Ruofan Zhou, Hongdiao Wen, Che Zhu, Zhiqiang Xia, Zhengtao Wang, Qi Guo",CVPR Workshops 2017: 1110-1121,CVPR,A*
+368,Discover and Learn New Objects from Documentaries.,2017,"Kai Chen, Hang Song, Chen Change Loy, Dahua Lin",CVPR 2017: 1111-1120,CVPR,A*
+369,PolyNet: A Pursuit of Structural Diversity in Very Deep Networks.,2017,"Xingcheng Zhang, Zhizhong Li, Chen Change Loy, Dahua Lin",CVPR 2017: 3900-3908,CVPR,A*
+370,Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade.,2017,"Xiaoxiao Li, Ziwei Liu, Ping Luo, Chen Change Loy, Xiaoou Tang",CVPR 2017: 6459-6468,CVPR,A*
+371,Be Your Own Prada: Fashion Synthesis with Structural Coherence.,2017,"Shizhan Zhu, Sanja Fidler, Raquel Urtasun, Dahua Lin, Chen Change Loy",ICCV 2017: 1689-1697,ICCV,A*
+372,Learning to Disambiguate by Asking Discriminative Questions.,2017,"Yining Li, Chen Huang, Xiaoou Tang, Chen Change Loy",ICCV 2017: 3439-3448,ICCV,A*
+373,Deep Learning for Scene-Independent Crowd Analysis.,2017,"Xiaogang Wang, Chen Change Loy",Group and Crowd Behavior for Computer Vision 2017: 209-252,COLLECTIONS,Unranked
+374,Faceness-Net: Face Detection through Deep Facial Part Responses.,2017,"Shuo Yang, Ping Luo, Chen Change Loy, Xiaoou Tang",CoRR abs/1701.08393 ,CORR,Unranked
+375,Not All Pixels Are Equal: Difficulty-aware Semantic Segmentation via Deep Layer Cascade.,2017,"Xiaoxiao Li, Ziwei Liu, Ping Luo, Chen Change Loy, Xiaoou Tang",CoRR abs/1704.01344 ,CORR,Unranked
+376,Robust and Fast Decoding of High-Capacity Color QR Codes for Mobile Applications.,2017,"Zhibo Yang, Huanle Xu, Jianyuan Deng, Chen Change Loy, Wing Cheong Lau",CoRR abs/1704.06447 ,CORR,Unranked
+377,Face Detection through Scale-Friendly Deep Convolutional Networks.,2017,"Shuo Yang, Yuanjun Xiong, Chen Change Loy, Xiaoou Tang",CoRR abs/1706.02863 ,CORR,Unranked
+378,Merge or Not? Learning to Group Faces via Imitation Learning.,2017,"Yue He, Kaidi Cao, Cheng Li, Chen Change Loy",CoRR abs/1707.03986 ,CORR,Unranked
+379,Aesthetic-Driven Image Enhancement by Adversarial Learning.,2017,"Yubin Deng, Chen Change Loy, Xiaoou Tang",CoRR abs/1707.05251 ,CORR,Unranked
+380,Discover and Learn New Objects from Documentaries.,2017,"Kai Chen, Hang Song, Chen Change Loy, Dahua Lin",CoRR abs/1707.09593 ,CORR,Unranked
+381,Video Object Segmentation with Re-identification.,2017,"Xiaoxiao Li, Yuankai Qi, Zhe Wang, Kai Chen, Ziwei Liu, Jianping Shi, Ping Luo, Xiaoou Tang, Chen Change Loy",CoRR abs/1708.00197 ,CORR,Unranked
+382,Learning to Disambiguate by Asking Discriminative Questions.,2017,"Yining Li, Chen Huang, Xiaoou Tang, Chen Change Loy",CoRR abs/1708.02760 ,CORR,Unranked
+383,Quantifying Facial Age by Posterior of Age Comparisons.,2017,"Yunxuan Zhang, Li Liu, Cheng Li, Chen Change Loy",CoRR abs/1708.09687 ,CORR,Unranked
+384,Be Your Own Prada: Fashion Synthesis with Structural Coherence.,2017,"Shizhan Zhu, Sanja Fidler, Raquel Urtasun, Dahua Lin, Chen Change Loy",CoRR abs/1710.07346 ,CORR,Unranked
+385,Mix-and-Match Tuning for Self-Supervised Semantic Segmentation.,2017,"Xiaohang Zhan, Ziwei Liu, Ping Luo, Xiaoou Tang, Chen Change Loy",CoRR abs/1712.00661 ,CORR,Unranked
+386,Learning from Multiple Sources for Video Summarisation.,2016,"Xiatian Zhu, Chen Change Loy, Shaogang Gong",Int. J. Comput. Vis. 117: 247-268 ,IJCV,Unranked
+387,"A survey on heterogeneous face recognition: Sketch, infra-red, 3D and low-resolution.",2016,"Shuxin Ouyang, Timothy M. Hospedales, Yi-Zhe Song, Xueming Li, Chen Change Loy, Xiaogang Wang",Image Vis. Comput. 56: 28-48 ,IVC,Unranked
+388,Image Super-Resolution Using Deep Convolutional Networks.,2016,"Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang",IEEE Trans. Pattern Anal. Mach. Intell. 38: 295-307 ,PAMI,Unranked
+389,Learning Deep Representation for Face Alignment with Auxiliary Attributes.,2016,"Zhanpeng Zhang, Ping Luo, Chen Change Loy, Xiaoou Tang",IEEE Trans. Pattern Anal. Mach. Intell. 38: 918-930 ,PAMI,Unranked
+390,Constrained Clustering With Imperfect Oracles.,2016,"Xiatian Zhu, Chen Change Loy, Shaogang Gong",IEEE Trans. Neural Networks Learn. Syst. 27: 1345-1357 ,TNN,Unranked
+391,Reading Scene Text in Deep Convolutional Sequences.,2016,"Pan He, Weilin Huang, Yu Qiao, Chen Change Loy, Xiaoou Tang",AAAI 2016: 3501-3508,AAAI,A*
+392,Pedestrian Color Naming via Convolutional Neural Network.,2016,"Zhiyi Cheng, Xiaoxiao Li, Chen Change Loy",ACCV  2016: 35-51,ACCV,B
+393,Sketch Me That Shoe.,2016,"Qian Yu, Feng Liu, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales, Chen Change Loy",CVPR 2016: 799-807,CVPR,A*
+394,Unconstrained Face Alignment via Cascaded Compositional Learning.,2016,"Shizhan Zhu, Cheng Li, Chen Change Loy, Xiaoou Tang",CVPR 2016: 3409-3417,CVPR,A*
+395,Unsupervised Learning of Discriminative Attributes and Visual Representations.,2016,"Chen Huang, Chen Change Loy, Xiaoou Tang",CVPR 2016: 5175-5184,CVPR,A*
+396,Learning Deep Representation for Imbalanced Classification.,2016,"Chen Huang, Yining Li, Chen Change Loy, Xiaoou Tang",CVPR 2016: 5375-5384,CVPR,A*
+397,WIDER FACE: A Face Detection Benchmark.,2016,"Shuo Yang, Ping Luo, Chen Change Loy, Xiaoou Tang",CVPR 2016: 5525-5533,CVPR,A*
+398,Slicing Convolutional Neural Network for Crowd Video Understanding.,2016,"Jing Shao, Chen Change Loy, Kai Kang, Xiaogang Wang",CVPR 2016: 5620-5628,CVPR,A*
+399,Joint Face Representation Adaptation and Clustering in Videos.,2016,"Zhanpeng Zhang, Ping Luo, Chen Change Loy, Xiaoou Tang",ECCV  2016: 236-251,ECCV,A*
+400,Depth Map Super-Resolution by Deep Multi-Scale Guidance.,2016,"Tak-Wai Hui, Chen Change Loy, Xiaoou Tang",ECCV  2016: 353-369,ECCV,A*
+401,Deep Specialized Network for Illuminant Estimation.,2016,"Wu Shi, Chen Change Loy, Xiaoou Tang",ECCV  2016: 371-387,ECCV,A*
+402,Accelerating the Super-Resolution Convolutional Neural Network.,2016,"Chao Dong, Chen Change Loy, Xiaoou Tang",ECCV  2016: 391-407,ECCV,A*
+403,Deep Cascaded Bi-Network for Face Hallucination.,2016,"Shizhan Zhu, Sifei Liu, Chen Change Loy, Xiaoou Tang",ECCV  2016: 614-630,ECCV,A*
+404,Human Attribute Recognition by Deep Hierarchical Contexts.,2016,"Yining Li, Chen Huang, Chen Change Loy, Xiaoou Tang",ECCV  2016: 684-700,ECCV,A*
+405,Towards robust color recovery for high-capacity color QR codes.,2016,"Zhibo Yang, Zhiyi Cheng, Chen Change Loy, Wing Cheong Lau, Chak Man Li, Guanchen Li",ICIP 2016: 2866-2870,ICIP,B
+406,Local Similarity-Aware Deep Feature Embedding.,2016,"Chen Huang, Chen Change Loy, Xiaoou Tang",NIPS 2016: 1262-1270,NIPS,Unranked
+407,Discriminative Sparse Neighbor Approximation for Imbalanced Learning.,2016,"Chen Huang, Chen Change Loy, Xiaoou Tang",CoRR abs/1602.01197 ,CORR,Unranked
+408,Deep Learning Markov Random Field for Semantic Segmentation.,2016,"Ziwei Liu, Xiaoxiao Li, Ping Luo, Chen Change Loy, Xiaoou Tang",CoRR abs/1606.07230 ,CORR,Unranked
+409,Deep Cascaded Bi-Network for Face Hallucination.,2016,"Shizhan Zhu, Sifei Liu, Chen Change Loy, Xiaoou Tang",CoRR abs/1607.05046 ,CORR,Unranked
+410,Accelerating the Super-Resolution Convolutional Neural Network.,2016,"Chao Dong, Chen Change Loy, Xiaoou Tang",CoRR abs/1608.00367 ,CORR,Unranked
+411,Deep Convolution Networks for Compression Artifacts Reduction.,2016,"Ke Yu, Chao Dong, Chen Change Loy, Xiaoou Tang",CoRR abs/1608.02778 ,CORR,Unranked
+412,From Facial Expression Recognition to Interpersonal Relation Prediction.,2016,"Zhanpeng Zhang, Ping Luo, Chen Change Loy, Xiaoou Tang",CoRR abs/1609.06426 ,CORR,Unranked
+413,Image Aesthetic Assessment: An Experimental Survey.,2016,"Yubin Deng, Chen Change Loy, Xiaoou Tang",CoRR abs/1610.00838 ,CORR,Unranked
+414,Local Similarity-Aware Deep Feature Embedding.,2016,"Chen Huang, Chen Change Loy, Xiaoou Tang",CoRR abs/1610.08904 ,CORR,Unranked
+415,PolyNet: A Pursuit of Structural Diversity in Very Deep Networks.,2016,"Xingcheng Zhang, Zhizhong Li, Chen Change Loy, Dahua Lin",CoRR abs/1611.05725 ,CORR,Unranked
+416,Deep Representation Learning with Target Coding.,2015,"Shuo Yang, Ping Luo, Chen Change Loy, Kenneth W. Shum, Xiaoou Tang",AAAI 2015: 3848-3854,AAAI,A*
+417,DeepID-Net: Deformable deep convolutional neural networks for object detection.,2015,"Wanli Ouyang, Xiaogang Wang, Xingyu Zeng, Shi Qiu, Ping Luo, Yonglong Tian, Hongsheng Li, Shuo Yang, Zhe Wang, Chen Change Loy, Xiaoou Tang",CVPR 2015: 2403-2412,CVPR,A*
+418,A large-scale car dataset for fine-grained categorization and verification.,2015,"Linjie Yang, Ping Luo, Chen Change Loy, Xiaoou Tang",CVPR 2015: 3973-3981,CVPR,A*
+419,Deeply learned attributes for crowded scene understanding.,2015,"Jing Shao, Kai Kang, Chen Change Loy, Xiaogang Wang",CVPR 2015: 4657-4666,CVPR,A*
+420,Face alignment by coarse-to-fine shape searching.,2015,"Shizhan Zhu, Cheng Li, Chen Change Loy, Xiaoou Tang",CVPR 2015: 4998-5006,CVPR,A*
+421,Compression Artifacts Reduction by a Deep Convolutional Network.,2015,"Chao Dong, Yubin Deng, Chen Change Loy, Xiaoou Tang",ICCV 2015: 576-584,ICCV,A*
+422,Semantic Image Segmentation via Deep Parsing Network.,2015,"Ziwei Liu, Xiaoxiao Li, Ping Luo, Chen Change Loy, Xiaoou Tang",ICCV 2015: 1377-1385,ICCV,A*
+423,Learning Social Relation Traits from Face Images.,2015,"Zhanpeng Zhang, Ping Luo, Chen Change Loy, Xiaoou Tang",ICCV 2015: 3631-3639,ICCV,A*
+424,From Facial Parts Responses to Face Detection: A Deep Learning Approach.,2015,"Shuo Yang, Ping Luo, Chen Change Loy, Xiaoou Tang",ICCV 2015: 3676-3684,ICCV,A*
+425,Image Super-Resolution Using Deep Convolutional Networks.,2015,"Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang",CoRR abs/1501.00092 ,CORR,Unranked
+426,Learning to Recognize Pedestrian Attribute.,2015,"Yubin Deng, Ping Luo, Chen Change Loy, Xiaoou Tang",CoRR abs/1501.00901 ,CORR,Unranked
+427,Multi-Source Video Summarisation.,2015,"Xiatian Zhu, Chen Change Loy, Shaogang Gong",CoRR abs/1501.03069 ,CORR,Unranked
+428,Compression Artifacts Reduction by a Deep Convolutional Network.,2015,"Chao Dong, Yubin Deng, Chen Change Loy, Xiaoou Tang",CoRR abs/1504.06993 ,CORR,Unranked
+429,Boosting Optical Character Recognition: A Super-Resolution Approach.,2015,"Chao Dong, Ximei Zhu, Yubin Deng, Chen Change Loy, Yu Qiao",CoRR abs/1506.02211 ,CORR,Unranked
+430,Reading Scene Text in Deep Convolutional Sequences.,2015,"Pan He, Weilin Huang, Yu Qiao, Chen Change Loy, Xiaoou Tang",CoRR abs/1506.04395 ,CORR,Unranked
+431,A Large-Scale Car Dataset for Fine-Grained Categorization and Verification.,2015,"Linjie Yang, Ping Luo, Chen Change Loy, Xiaoou Tang",CoRR abs/1506.08959 ,CORR,Unranked
+432,Semantic Image Segmentation via Deep Parsing Network.,2015,"Ziwei Liu, Xiaoxiao Li, Ping Luo, Chen Change Loy, Xiaoou Tang",CoRR abs/1509.02634 ,CORR,Unranked
+433,Learning Social Relation Traits from Face Images.,2015,"Zhanpeng Zhang, Ping Luo, Chen Change Loy, Xiaoou Tang",CoRR abs/1509.03936 ,CORR,Unranked
+434,From Facial Parts Responses to Face Detection: A Deep Learning Approach.,2015,"Shuo Yang, Ping Luo, Chen Change Loy, Xiaoou Tang",CoRR abs/1509.06451 ,CORR,Unranked
+435,An Empirical Study of Recent Face Alignment Methods.,2015,"Heng Yang, Xuhui Jia, Chen Change Loy, Peter Robinson",CoRR abs/1511.05049 ,CORR,Unranked
+436,WIDER FACE: A Face Detection Benchmark.,2015,"Shuo Yang, Ping Luo, Chen Change Loy, Xiaoou Tang",CoRR abs/1511.06523 ,CORR,Unranked
+437,Towards Arbitrary-View Face Alignment by Recommendation Trees.,2015,"Shizhan Zhu, Cheng Li, Chen Change Loy, Xiaoou Tang",CoRR abs/1511.06627 ,CORR,Unranked
+438,On-the-fly feature importance mining for person re-identification.,2014,"Chunxiao Liu, Shaogang Gong, Chen Change Loy",Pattern Recognit. 47: 1602-1615 ,PR,Unranked
+439,Constructing Robust Affinity Graphs for Spectral Clustering.,2014,"Xiatian Zhu, Chen Change Loy, Shaogang Gong",CVPR 2014: 1450-1457,CVPR,A*
+440,Scene-Independent Group Profiling in Crowd.,2014,"Jing Shao, Chen Change Loy, Xiaogang Wang",CVPR 2014: 2227-2234,CVPR,A*
+441,Facial Landmark Detection by Deep Multi-task Learning.,2014,"Zhanpeng Zhang, Ping Luo, Chen Change Loy, Xiaoou Tang",ECCV  2014: 94-108,ECCV,A*
+442,Learning a Deep Convolutional Network for Image Super-Resolution.,2014,"Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang",ECCV  2014: 184-199,ECCV,A*
+443,Crowd Saliency Detection via Global Similarity Structure.,2014,"Mei Kuan Lim, Ven Jyn Kok, Chen Change Loy, Chee Seng Chan",ICPR 2014: 3957-3962,ICPR,B
+444,Pedestrian Attribute Recognition At Far Distance.,2014,"Yubin Deng, Ping Luo, Chen Change Loy, Xiaoou Tang",ACM Multimedia 2014: 789-792,MM,Unranked
+445,The Re-identification Challenge.,2014,"Shaogang Gong, Marco Cristani, Chen Change Loy, Timothy M. Hospedales",Person Re-Identification 2014: 1-20,ACVPR,Unranked
+446,Evaluating Feature Importance for Re-identification.,2014,"Chunxiao Liu, Shaogang Gong, Chen Change Loy, Xinggang Lin",Person Re-Identification 2014: 203-228,ACVPR,Unranked
+447,Person Re-Identification.,2014,"Shaogang Gong, Marco Cristani, Shuicheng Yan, Chen Change Loy","Advances in Computer Vision and Pattern Recognition, Springer 2014, ISBN 978-1-4471-6295-7 ",ACVPR,Unranked
+448,Learning and Transferring Multi-task Deep Representation for Face Alignment.,2014,"Zhanpeng Zhang, Ping Luo, Chen Change Loy, Xiaoou Tang",CoRR abs/1408.3967 ,CORR,Unranked
+449,Transferring Landmark Annotations for Cross-Dataset Face Alignment.,2014,"Shizhan Zhu, Cheng Li, Chen Change Loy, Xiaoou Tang",CoRR abs/1409.0602 ,CORR,Unranked
+450,DeepID-Net: multi-stage and deformable deep convolutional neural networks for object detection.,2014,"Wanli Ouyang, Ping Luo, Xingyu Zeng, Shi Qiu, Yonglong Tian, Hongsheng Li, Shuo Yang, Zhe Wang, Yuanjun Xiong, Chen Qian, Zhenyao Zhu, Ruohui Wang, Chen Change Loy, Xiaogang Wang, Xiaoou Tang",CoRR abs/1409.3505 ,CORR,Unranked
+451,Crowd Saliency Detection via Global Similarity Structure.,2014,"Mei Kuan Lim, Ven Jyn Kok, Chen Change Loy, Chee Seng Chan",CoRR abs/1410.3756 ,CORR,Unranked
+452,DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection.,2014,"Wanli Ouyang, Xiaogang Wang, Xingyu Zeng, Shi Qiu, Ping Luo, Yonglong Tian, Hongsheng Li, Shuo Yang, Zhe Wang, Chen Change Loy, Xiaoou Tang",CoRR abs/1412.5661 ,CORR,Unranked
+453,Cumulative Attribute Space for Age and Crowd Density Estimation.,2013,"Ke Chen, Shaogang Gong, Tao Xiang, Chen Change Loy",CVPR 2013: 2467-2474,CVPR,A*
+454,Video Synopsis by Heterogeneous Multi-source Correlation.,2013,"Xiatian Zhu, Chen Change Loy, Shaogang Gong",ICCV 2013: 81-88,ICCV,A*
+455,POP: Person Re-identification Post-rank Optimisation.,2013,"Chunxiao Liu, Chen Change Loy, Shaogang Gong, Guijin Wang",ICCV 2013: 441-448,ICCV,A*
+456,From Semi-supervised to Transfer Counting of Crowds.,2013,"Chen Change Loy, Shaogang Gong, Tao Xiang",ICCV 2013: 2256-2263,ICCV,A*
+457,Constrained Clustering: Effective Constraint Propagation with Imperfect Oracles.,2013,"Xiatian Zhu, Chen Change Loy, Shaogang Gong",ICDM 2013: 1307-1312,ICDM,A*
+458,Person re-identification by manifold ranking.,2013,"Chen Change Loy, Chunxiao Liu, Shaogang Gong",ICIP 2013: 3567-3571,ICIP,B
+459,Crowd Counting and Profiling: Methodology and Evaluation.,2013,"Chen Change Loy, Ke Chen, Shaogang Gong, Tao Xiang","Modeling, Simulation and Visual Analysis of Crowds 2013: 347-382",COLLECTIONS,Unranked
+460,Incremental Activity Modeling in Multiple Disjoint Cameras.,2012,"Chen Change Loy, Tao Xiang, Shaogang Gong",IEEE Trans. Pattern Anal. Mach. Intell. 34: 1799-1813 ,PAMI,Unranked
+461,Feature Mining for Localised Crowd Counting.,2012,"Ke Chen, Chen Change Loy, Shaogang Gong, Tony Xiang",BMVC 2012: 1-11,BMVC,A
+462,Comparing Visual Feature Coding for Learning Disjoint Camera Dependencies.,2012,"Xiatian Zhu, Shaogang Gong, Chen Change Loy",BMVC 2012: 1-12,BMVC,A
+463,Stream-based joint exploration-exploitation active learning.,2012,"Chen Change Loy, Timothy M. Hospedales, Tao Xiang, Shaogang Gong",CVPR 2012: 1560-1567,CVPR,A*
+464,Person Re-identification: What Features Are Important?,2012,"Chunxiao Liu, Shaogang Gong, Chen Change Loy, Xinggang Lin",ECCV Workshops  2012: 391-401,ECCV,A*
+465,Salient motion detection in crowded scenes.,2012,"Chen Change Loy, Tao Xiang, Shaogang Gong",ISCCSP 2012: 1-4,ISCCSP,Unranked
+466,Detecting and discriminating behavioural anomalies.,2011,"Chen Change Loy, Tao Xiang, Shaogang Gong",Pattern Recognit. 44: 117-132 ,PR,Unranked
+467,Security and Surveillance.,2011,"Shaogang Gong, Chen Change Loy, Tao Xiang",Visual Analysis of Humans 2011: 455-472,DAGLIB,Unranked
+468,Activity understanding and unusual event detection in surveillance videos.,2010,Chen Change Loy,"Queen Mary University of London, UK, 2010",NAN,Unranked
+469,Time-Delayed Correlation Analysis for Multi-Camera Activity Understanding.,2010,"Chen Change Loy, Tao Xiang, Shaogang Gong",Int. J. Comput. Vis. 90: 106-129 ,IJCV,Unranked
+470,Stream-Based Active Unusual Event Detection.,2010,"Chen Change Loy, Tao Xiang, Shaogang Gong",ACCV  2010: 161-175,ACCV,B
+471,Modelling Multi-object Activity by Gaussian Processes.,2009,"Chen Change Loy, Tao Xiang, Shaogang Gong",BMVC 2009: 1-11,BMVC,A
+472,Multi-camera activity correlation analysis.,2009,"Chen Change Loy, Tao Xiang, Shaogang Gong",CVPR 2009: 1988-1995,CVPR,A*
+473,Modelling activity global temporal dependencies using Time Delayed Probabilistic Graphical Model.,2009,"Chen Change Loy, Tao Xiang, Shaogang Gong",ICCV 2009: 120-127,ICCV,A*
+474,Robust modular ARTMAP for multi-class shape recognition.,2008,"Chue Poh Tan, Chen Change Loy, Weng-Kin Lai, Chee Peng Lim",IJCNN 2008: 2405-2412,IJCNN,B
+475,Use of Circle-Segments as a Data Visualization Technique for Feature Selection in Pattern Classification.,2007,"Shir Li Wang, Chen Change Loy, Chee Peng Lim, Weng-Kin Lai, Kay Sin Tan",ICONIP  2007: 625-634,ICONIP,B
+476,Keystroke Patterns Classification Using the ARTMAP-FD Neural Network.,2007,"Chen Change Loy, Weng-Kin Lai, Chee Peng Lim",IIH-MSP 2007: 61-64,IIH-MSP,Unranked
+477,Dimensionality Reduction of Protein Mass Spectrometry Data Using Random Projection.,2006,"Chen Change Loy, Weng-Kin Lai, Chee Peng Lim",ICONIP  2006: 776-785,ICONIP,B

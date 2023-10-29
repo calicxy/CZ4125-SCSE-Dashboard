@@ -1,0 +1,164 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Sensitivity-Tunable Terahertz Liquid/Gas Biosensor Based on Surface Plasmon Resonance with Dirac Semimetal.,2023,"Mengjiao Ren, Chengpeng Ji, Xueyan Tang, Haishan Tian, Leyong Jiang, Xiaoyu Dai, Xinghua Wu, Yuanjiang Xiang",Sensors 23: 5520 ,SENSORS,Unranked
+1,2-hop+ Sampling: Efficient and Effective Influence Estimation.,2023,"Yuqing Zhu, Jing Tang, Xueyan Tang, Sibo Wang, Andrew Lim",IEEE Trans. Knowl. Data Eng. 35: 1088-1103 ,TKDE,Unranked
+2,Minimising Task Tardiness for Multi-Agent Pickup and Delivery.,2023,"Saravanan Ramanathan, Yihao Liu, Xueyan Tang, Wentong Cai, Jingning Li",AAMAS 2023: 2349-2351,ATAL,Unranked
+3,Dynamic Bin Packing with Predictions.,2023,"Mozhengfu Liu, Xueyan Tang",SIGMETRICS  2023: 57-58,SIGMETRICS,A*
+4,Smart Contract Migration: Security Analysis and Recommendations from Ethereum to Arbitrum.,2023,"Xueyan Tang, Lingzhi Shi, Alan Lai, Yuying Du, Jing Deng, Jialu Fu, Jiayi Li",CoRR abs/2307.14773 ,CORR,Unranked
+5,Busy-Time Scheduling on Heterogeneous Machines: Algorithms and Analysis.,2022,"Mozhengfu Liu, Xueyan Tang",IEEE Trans. Parallel Distributed Syst. 33: 3942-3958 ,TPDS,Unranked
+6,Optimal price profile for influential nodes in online social networks.,2022,"Yuqing Zhu, Jing Tang, Xueyan Tang",VLDB J. 31: 779-795 ,VLDB,A*
+7,On Task Assignment and Scheduling for Distributed Job Execution.,2022,"Yitong Guan, Xueyan Tang",CCGRID 2022: 726-735,CCGRID,B
+8,Distributed Influence Maximization for Large-Scale Online Social Networks.,2022,"Jing Tang, Yuqing Zhu, Xueyan Tang, Kai Han",ICDE 2022: 81-95,ICDE,A*
+9,Revisiting Modified Greedy Algorithm for Monotone Submodular Maximization with a Knapsack Constraint.,2021,"Jing Tang, Xueyan Tang, Andrew Lim, Kai Han, Chongshou Li, Junsong Yuan",Proc. ACM Meas. Anal. Comput. Syst. 5: 08:1-08:22 ,POMACS,Unranked
+10,Dynamic Bin Packing with Predictions.,2021,"Mozhengfu Liu, Xueyan Tang",Proc. ACM Meas. Anal. Comput. Syst. 6: 45:1-45:24 ,POMACS,Unranked
+11,Analysis of Influence Contribution in Social Advertising.,2021,"Yuqing Zhu, Jing Tang, Xueyan Tang, Lei Chen",Proc. VLDB Endow. 15: 348-360 ,PVLDB,Unranked
+12,Towards Minimizing Resource Usage With QoS Guarantee in Cloud Gaming.,2021,"Yusen Li, Changjian Zhao, Xueyan Tang, Wentong Cai, Xiaoguang Liu, Gang Wang, Xiaoli Gong",IEEE Trans. Parallel Distributed Syst. 32: 426-440 ,TPDS,Unranked
+13,Identification of Public Opinion on COVID-19 in Microblogs.,2021,"Ji Li, Xueyan Tang, Daoli Dong",ICCSE 2021: 117-120,ICCSE2,Unranked
+14,Generalized Skyline Interval Coloring and Dynamic Geometric Bin Packing Problems.,2021,"Runtian Ren, Xueyan Tang",ICPP 2021: 52:1-52:10,ICPP,B
+15,Revisiting Modified Greedy Algorithm for Monotone Submodular Maximization with a Knapsack Constraint.,2021,"Jing Tang, Xueyan Tang, Andrew Lim, Kai Han, Chongshou Li, Junsong Yuan",SIGMETRICS  2021: 63-64,SIGMETRICS,A*
+16,Multi-Agent Pickup and Delivery with Task Deadlines.,2021,"Xiaohu Wu, Yihao Liu, Xueyan Tang, Wentong Cai, Funing Bai, Gilbert Khonstantine, Guopeng Zhao",SOCS 2021: 206-208,SOCS,Unranked
+17,Analysis of Busy-Time Scheduling on Heterogeneous Machines.,2021,"Mozhengfu Liu, Xueyan Tang",SPAA 2021: 340-350,SPAA,B
+18,A Robust Algorithm for Multi-tenant Server Consolidation.,2021,"Boyu Li, Xueyan Tang, Bin Wu",WASA  2021: 566-573,WASA,Unranked
+19,Multi-Agent Pickup and Delivery with Task Deadlines.,2021,"Xiaohu Wu, Yihao Liu, Xueyan Tang, Wentong Cai, Funing Bai, Gilbert Khonstantine, Guopeng Zhao",WI/IAT 2021: 360-367,WEBI,Unranked
+20,Analysis of Busy-Time Scheduling on Heterogeneous Machines.,2021,"Mozhengfu Liu, Xueyan Tang",CoRR abs/2105.06287 ,CORR,Unranked
+21,Asymmetric Mapping Quantization for Nearest Neighbor Search.,2020,"Weixiang Hong, Xueyan Tang, Jingjing Meng, Junsong Yuan",IEEE Trans. Pattern Anal. Mach. Intell. 42: 1783-1790 ,PAMI,Unranked
+22,Pricing Influential Nodes in Online Social Networks.,2020,"Yuqing Zhu, Jing Tang, Xueyan Tang",Proc. VLDB Endow. 13: 1614-1627 ,PVLDB,Unranked
+23,On Fault-Tolerant Bin Packing for Online Resource Allocation.,2020,"Chuanyou Li, Xueyan Tang",IEEE Trans. Parallel Distributed Syst. 31: 817-829 ,TPDS,Unranked
+24,Interval Job Scheduling With Machine Launch Cost.,2020,"Runtian Ren, Yuqing Zhu, Chuanyou Li, Xueyan Tang",IEEE Trans. Parallel Distributed Syst. 31: 2776-2788 ,TPDS,Unranked
+25,Efficient approximation algorithms for adaptive influence maximization.,2020,"Keke Huang, Jing Tang, Kai Han, Xiaokui Xiao, Wei Chen, Aixin Sun, Xueyan Tang, Andrew Lim",VLDB J. 29: 1385-1406 ,VLDB,A*
+26,Busy-Time Scheduling on Heterogeneous Machines.,2020,"Runtian Ren, Xueyan Tang",IPDPS 2020: 306-315,IPPS,Unranked
+27,Efficient Approximation Algorithms for Adaptive Influence Maximization.,2020,"Keke Huang, Jing Tang, Kai Han, Xiaokui Xiao, Wei Chen, Aixin Sun, Xueyan Tang, Andrew Lim",CoRR abs/2004.06469 ,CORR,Unranked
+28,Revisiting Modified Greedy Algorithm for Monotone Submodular Maximization with a Knapsack Constraint.,2020,"Jing Tang, Xueyan Tang, Andrew Lim, Kai Han, Chongshou Li, Junsong Yuan",CoRR abs/2008.05391 ,CORR,Unranked
+29,Deadline-constrained workflow scheduling in IaaS clouds with multi-resource packing.,2019,"Zhaomeng Zhu, Xueyan Tang",Future Gener. Comput. Syst. 101: 880-893 ,FGCS,Unranked
+30,Cloud Scheduling with Discrete Charging Units.,2019,"Ming Ming Tan, Runtian Ren, Xueyan Tang",IEEE Trans. Parallel Distributed Syst. 30: 1541-1551 ,TPDS,Unranked
+31,Resource-Efficient Index Shard Replication in Large Scale Search Engines.,2019,"Yusen Li, Xueyan Tang, Wentong Cai, Jiancong Tong, Xiaoguang Liu, Gang Wang",IEEE Trans. Parallel Distributed Syst. 30: 2820-2835 ,TPDS,Unranked
+32,GAugur: Quantifying Performance Interference of Colocated Games for Improving Resource Utilization in Cloud Gaming.,2019,"Yusen Li, Chuxu Shan, Ruobing Chen, Xueyan Tang, Wentong Cai, Shanjiang Tang, Xiaoguang Liu, Gang Wang, Xiaoli Gong, Ying Zhang",HPDC 2019: 231-242,HPDC,A
+33,On Max-min Fair Resource Allocation for Distributed Job Execution.,2019,"Yitong Guan, Chuanyou Li, Xueyan Tang",ICPP 2019: 55:1-55:10,ICPP,B
+34,Efficient Approximation Algorithms for Adaptive Seed Minimization.,2019,"Jing Tang, Keke Huang, Xiaokui Xiao, Laks V. S. Lakshmanan, Xueyan Tang, Aixin Sun, Andrew Lim",SIGMOD Conference 2019: 1096-1113,SIGMOD,A*
+35,Efficient Approximation Algorithms for Adaptive Seed Minimization.,2019,"Jing Tang, Keke Huang, Xiaokui Xiao, Laks V. S. Lakshmanan, Xueyan Tang, Aixin Sun, Andrew Lim",CoRR abs/1907.09668 ,CORR,Unranked
+36,Constructing routing structures for sensor data collection with dynamic traffic patterns.,2018,"Wenbo Zhao, Xueyan Tang, Luping Xu",Comput. Networks 142: 272-290 ,CN,National
+37,Parallel and distributed algorithms.,2018,"Guillaume Aupy, Xueyan Tang",Concurr. Comput. Pract. Exp. 30 ,CONCURRENCY,Unranked
+38,Energy-efficient task scheduling on heterogeneous computing systems by linear programming.,2018,"Yujian Zhang, Yun Wang, Xueyan Tang, Xin Yuan, Yifan Xu",Concurr. Comput. Pract. Exp. 30 ,CONCURRENCY,Unranked
+39,Efficient Algorithms for Adaptive Influence Maximization.,2018,"Kai Han, Keke Huang, Xiaokui Xiao, Jing Tang, Aixin Sun, Xueyan Tang",Proc. VLDB Endow. 11: 1029-1040 ,PVLDB,Unranked
+40,An efficient and effective hop-based approach for influence maximization in social networks.,2018,"Jing Tang, Xueyan Tang, Junsong Yuan",Soc. Netw. Anal. Min. 8: 10 ,SNAM,Unranked
+41,Profit Maximization for Viral Marketing in Online Social Networks: Algorithms and Analysis.,2018,"Jing Tang, Xueyan Tang, Junsong Yuan",IEEE Trans. Knowl. Data Eng. 30: 1095-1108 ,TKDE,Unranked
+42,Traffic-Optimized Data Placement for Social Media.,2018,"Jing Tang, Xueyan Tang, Junsong Yuan",IEEE Trans. Multim. 20: 1008-1023 ,TMM,Unranked
+43,The Server Allocation Problem for Session-Based Multiplayer Cloud Gaming.,2018,"Yunhua Deng, Yusen Li, Ronald Seet, Xueyan Tang, Wentong Cai",IEEE Trans. Multim. 20: 1233-1245 ,TMM,Unranked
+44,Cost-Efficient Server Provisioning for Cloud Gaming.,2018,"Yusen Li, Yunhua Deng, Xueyan Tang, Wentong Cai, Xiaoguang Liu, Gang Wang",ACM Trans. Multim. Comput. Commun. Appl. 14: 55:1-55:22 ,TOMCCAP,Unranked
+45,Index Shard Replication Strategies for Improving Resource Utilization in Large Scale Search Engines.,2018,"Yusen Li, Xueyan Tang, Wentong Cai, Jiancong Tong, Xiaoguang Liu, Gang Wang, Chuansong Gao, Xuan Cao, Guanhui Geng, Minghui Li",ICPP 2018: 84:1-84:10,ICPP,B
+46,Towards Profit Maximization for Online Social Network Providers.,2018,"Jing Tang, Xueyan Tang, Junsong Yuan",INFOCOM 2018: 1178-1186,INFOCOM,A*
+47,Online Processing Algorithms for Influence Maximization.,2018,"Jing Tang, Xueyan Tang, Xiaokui Xiao, Junsong Yuan",SIGMOD Conference 2018: 991-1005,SIGMOD,A*
+48,Competitiveness of Dynamic Bin Packing for Online Cloud Server Allocation.,2017,"Runtian Ren, Xueyan Tang, Yusen Li, Wentong Cai",IEEE/ACM Trans. Netw. 25: 1324-1331 ,TON,Unranked
+49,Analysis of Minimum Interaction Time for Continuous Distributed Interactive Computing.,2017,"Lu Zhang, Xueyan Tang, Bingsheng He",IEEE Trans. Parallel Distributed Syst. 28: 401-415 ,TPDS,Unranked
+50,Influence Maximization Meets Efficiency and Effectiveness: A Hop-Based Approach.,2017,"Jing Tang, Xueyan Tang, Junsong Yuan",ASONAM 2017: 64-71,ASUNAM,Unranked
+51,Minimizing Cost in IaaS Clouds Via Scheduled Instance Reservation.,2017,"Qiushi Wang, Ming Ming Tan, Xueyan Tang, Wentong Cai",ICDCS 2017: 1565-1574,ICDCS,A
+52,On Server Provisioning for Cloud Gaming.,2017,"Yusen Li, Yunhua Deng, Xueyan Tang, Wentong Cai, Xiaoguang Liu, Gang Wang",ACM Multimedia 2017: 492-500,MM,Unranked
+53,On matchmaking for multiplayer cloud gaming.,2017,"Yitong Guan, Yunhua Deng, Xueyan Tang",NetGames 2017: 31-33,NETGAMES,Unranked
+54,Online Flexible Job Scheduling for Minimum Span.,2017,"Runtian Ren, Xueyan Tang",SPAA 2017: 55-66,SPAA,B
+55,Brief Announcement: Towards Fault-Tolerant Bin Packing for Online Cloud Resource Allocation.,2017,"Chuanyou Li, Xueyan Tang",SPAA 2017: 231-233,SPAA,B
+56,Influence Maximization Meets Efficiency and Effectiveness: A Hop-Based Approach.,2017,"Jing Tang, Xueyan Tang, Junsong Yuan",CoRR abs/1705.10442 ,CORR,Unranked
+57,Towards Profit Maximization for Online Social Network Providers.,2017,"Jing Tang, Xueyan Tang, Junsong Yuan",CoRR abs/1712.08963 ,CORR,Unranked
+58,Rank-Aware Dynamic Migrations and Adaptive Demotions for DRAM Power Management.,2016,"Yanchao Lu, Donghong Wu, Bingsheng He, Xueyan Tang, Jianliang Xu, Minyi Guo",IEEE Trans. Computers 65: 187-202 ,TC,Unranked
+59,Dynamic Bin Packing for On-Demand Cloud Resource Allocation.,2016,"Yusen Li, Xueyan Tang, Wentong Cai",IEEE Trans. Parallel Distributed Syst. 27: 157-170 ,TPDS,Unranked
+60,The Server Provisioning Problem for Continuous Distributed Interactive Applications.,2016,"Hanying Zheng, Xueyan Tang",IEEE Trans. Parallel Distributed Syst. 27: 271-285 ,TPDS,Unranked
+61,Profit maximization for viral marketing in Online Social Networks.,2016,"Jing Tang, Xueyan Tang, Junsong Yuan",ICNP 2016: 1-10,ICNP,B
+62,Research of Constructing 3D Digital River Based on ArcEngine and SketchUp.,2016,"Xueyan Tang, Yuansheng Lou, Feng Ye, Xiaorong Yan",ICYCSEE  2016: 568-576,ICYCSEE,Unranked
+63,On First Fit Bin Packing for Online Cloud Server Allocation.,2016,"Xueyan Tang, Yusen Li, Runtian Ren, Wentong Cai",IPDPS 2016: 323-332,IPPS,Unranked
+64,Server Allocation for Multiplayer Cloud Gaming.,2016,"Yunhua Deng, Yusen Li, Xueyan Tang, Wentong Cai",ACM Multimedia 2016: 918-927,MM,Unranked
+65,A Study of Sorting Algorithms on Approximate Memory.,2016,"Shuang Chen, Shunning Jiang, Bingsheng He, Xueyan Tang",SIGMOD Conference 2016: 647-662,SIGMOD,A*
+66,Fairness-aware Update Schedules for Improving Consistency in Multi-server Distributed Virtual Environments.,2016,"Yusen Li, Yunhua Deng, Wentong Cai, Xueyan Tang",SimuTools 2016: 1-8,SIMUTOOLS,Unranked
+67,Clairvoyant Dynamic Bin Packing for Job Scheduling with Minimum Server Usage Time.,2016,"Runtian Ren, Xueyan Tang",SPAA 2016: 227-237,SPAA,B
+68,Synergy of Dynamic Frequency Scaling and Demotion on DRAM Power Management: Models and Optimizations.,2015,"Yanchao Lu, Bingsheng He, Xueyan Tang, Minyi Guo",IEEE Trans. Computers 64: 2367-2381 ,TC,Unranked
+69,Analysis of Server Provisioning for Distributed Interactive Applications.,2015,"Hanying Zheng, Xueyan Tang",IEEE Trans. Computers 64: 2752-2766 ,TC,Unranked
+70,Play Request Dispatching for Efficient Virtual Machine Usage in Cloud Gaming.,2015,"Yusen Li, Xueyan Tang, Wentong Cai",IEEE Trans. Circuits Syst. Video Technol. 25: 2052-2063 ,TCSV,Unranked
+71,Optimizing Inter-server Communication for Online Social Networks.,2015,"Jing Tang, Xueyan Tang, Junsong Yuan",ICDCS 2015: 215-224,ICDCS,A
+72,MASTER: Multi-platform Application Streaming Toolkits for Elastic Resources.,2015,"Yusen Li, Yunhua Deng, Ronald Seet, Xueyan Tang, Wentong Cai",ACM Multimedia 2015: 805-806,MM,Unranked
+73,"Special Issue: Recent Advances in Parallel and Distributed Systems, ICPADS 2012 Selected Papers.",2014,"Xueyan Tang, Wentong Cai, Rick Siow Mong Goh",Future Gener. Comput. Syst. 30: 169 ,FGCS,Unranked
+74,An efficient algorithm for scheduling sensor data collection through multi-path routing structures.,2014,"Hai Van Luu, Xueyan Tang",J. Netw. Comput. Appl. 38: 150-162 ,JNCA,Unranked
+75,"The Client Assignment Problem for Continuous Distributed Interactive Applications: Analysis, Algorithms, and Evaluation.",2014,"Lu Zhang, Xueyan Tang",IEEE Trans. Parallel Distributed Syst. 25: 785-795 ,TPDS,Unranked
+76,Improving Hadoop Monetary Efficiency in the Cloud Using Spot Instances.,2014,"Changbing Chen, Bu-Sung Lee, Xueyan Tang",CloudCom 2014: 312-319,CLOUDCOM,Unranked
+77,Let's depart together: Efficient play request dispatching in cloud gaming.,2014,"Yusen Li, Xueyan Tang, Wentong Cai",NETGAMES 2014: 1-6,NETGAMES,Unranked
+78,On dynamic bin packing for resource allocation in the cloud.,2014,"Yusen Li, Xueyan Tang, Wentong Cai",SPAA 2014: 2-11,SPAA,B
+79,Rank-Aware Dynamic Migrations and Adaptive Demotions for DRAM Power Management.,2014,"Yanchao Lu, Donghong Wu, Bingsheng He, Xueyan Tang, Jianliang Xu, Minyi Guo",CoRR abs/1409.5567 ,CORR,Unranked
+80,Constructing rings overlay for robust data collection in wireless sensor networks.,2013,"Hai Van Luu, Xueyan Tang",J. Netw. Comput. Appl. 36: 1372-1386 ,JNCA,Unranked
+81,Compensatory dead-reckoning-based update scheduling for distributed virtual environments.,2013,"Zengxiang Li, Xueyan Tang, Wentong Cai, Xiaorong Li",Simul. 89: 1272-1287 ,SIMULATION,Unranked
+82,Scheduling Sensor Data Collection with Dynamic Traffic Patterns.,2013,"Wenbo Zhao, Xueyan Tang",IEEE Trans. Parallel Distributed Syst. 24: 789-802 ,TPDS,Unranked
+83,Green Databases Through Integration of Renewable Energy.,2013,"Cheng Chen, Bingsheng He, Xueyan Tang, Changbing Chen, Yubao Liu",CIDR 2013,CIDR,A
+84,On Server Provisioning for Distributed Interactive Applications.,2013,"Hanying Zheng, Xueyan Tang",ICDCS 2013: 500-509,ICDCS,A
+85,Application Layer Multicast in P2P Distributed Interactive Applications.,2013,"Yusen Li, Wentong Cai, Xueyan Tang",ICPADS 2013: 396-403,ICPADS,B
+86,Hierarchical interest management for distributed virtual environments.,2013,"Ke Pan, Xueyan Tang, Wentong Cai, Suiping Zhou, Hanying Zheng",SIGSIM-PADS 2013: 137-146,PADS,B
+87,Brief announcement: on minimum interaction time for continuous distributed interactive computing.,2013,"Lu Zhang, Xueyan Tang, Bingsheng He",PODC 2013: 122-124,PODC,A*
+88,An efficient data collection scheme through multi-path routing structures in wireless sensor networks.,2012,"Hai Van Luu, Xueyan Tang",Int. J. Sens. Networks 12: 106-124 ,IJSNET,Unranked
+89,Loss-aware DR-based update scheduling for improving consistency in DVEs.,2012,"Zengxiang Li, Wentong Cai, Xueyan Tang, Suiping Zhou",J. Simulation 6: 164-178 ,JOS,Unranked
+90,Hand Motion Classification Using a Multi-Channel Surface Electromyography Sensor.,2012,"Xueyan Tang, Yunhui Liu, Congyi Lv, Dong Sun",Sensors 12: 1130-1147 ,SENSORS,Unranked
+91,Optimizing client assignment for enhancing interactivity in distributed interactive applications.,2012,"Lu Zhang, Xueyan Tang",IEEE/ACM Trans. Netw. 20: 1707-1720 ,TON,Unranked
+92,Interactivity-Constrained Server Provisioning in Large-Scale Distributed Virtual Environments.,2012,"Ta Nguyen Binh Duong, Thang Nguyen, Suiping Zhou, Xueyan Tang, Wentong Cai, Rassul Ayani",IEEE Trans. Parallel Distributed Syst. 23: 304-312 ,TPDS,Unranked
+93,Green-aware workload scheduling in geographically distributed data centers.,2012,"Changbing Chen, Bingsheng He, Xueyan Tang",CloudCom 2012: 82-89,CLOUDCOM,Unranked
+94,QoS-Aware Revenue-Cost Optimization for Latency-Sensitive Services in IaaS Clouds.,2012,"Ta Nguyen Binh Duong, Xiaorong Li, Rick Siow Mong Goh, Xueyan Tang, Wentong Cai",DS-RT 2012: 11-18,DSRT,Unranked
+95,An Enhanced Genetic Algorithm for Server Placement in Distributed Interactive Applications.,2012,"Hanying Zheng, Xueyan Tang",ICPADS 2012: 596-603,ICPADS,B
+96,Fair and Efficient Dead Reckoning-Based Update Dissemination for Distributed Virtual Environments.,2012,"Zengxiang Li, Xueyan Tang, Wentong Cai, Stephen John Turner",PADS 2012: 13-22,PADS,B
+97,RAMZzz: rank-aware dram power management with dynamic migrations and demotions.,2012,"Donghong Wu, Bingsheng He, Xueyan Tang, Jianliang Xu, Minyi Guo",SC 2012: 32,SC,A
+98,Multi-objective zone mapping in large-scale distributed virtual environments.,2011,"Ta Nguyen Binh Duong, Suiping Zhou, Wentong Cai, Xueyan Tang, Rassul Ayani",J. Netw. Comput. Appl. 34: 551-561 ,JNCA,Unranked
+99,Improving job scheduling performance with parallel access to replicas in Data Grid environment.,2011,"Junwei Zhang, Bu-Sung Lee, Xueyan Tang, Chai Kiat Yeo",J. Supercomput. 56: 245-269 ,TJS,Unranked
+100,The Client Assignment Problem for Continuous Distributed Interactive Applications.,2011,"Lu Zhang, Xueyan Tang",ICDCS 2011: 203-214,ICDCS,A
+101,An Efficient Multi-path Data Collection Scheme in Wireless Sensor Networks.,2011,"Hai Van Luu, Xueyan Tang",ICDCS Workshops 2011: 198-207,ICDCSW,Unranked
+102,Scheduling data collection with dynamic traffic patterns in wireless sensor networks.,2011,"Wenbo Zhao, Xueyan Tang",INFOCOM 2011: 286-290,INFOCOM,A*
+103,Client assignment for improving interactivity in distributed interactive applications.,2011,"Lu Zhang, Xueyan Tang",INFOCOM 2011: 3227-3235,INFOCOM,A*
+104,Dead Reckoning-Based Update Scheduling against Message Loss for Improving Consistency in DVEs.,2011,"Zengxiang Li, Wentong Cai, Xueyan Tang, Suiping Zhou",PADS 2011: 1-9,PADS,B
+105,A virtualization-based approach for zone migration in distributed virtual environments.,2011,"Duong Nguyen Binh Ta, Thang Nguyen, Tran Nguyen, Nguyen Do, Xueyan Tang, Wentong Cai, Suiping Zhou",SimuTools 2011: 249-256,SIMUTOOLS,Unranked
+106,A model to predict the optimal performance of the Hierarchical Data Grid.,2010,"Junwei Zhang, Bu-Sung Lee, Xueyan Tang, Chai Kiat Yeo",Future Gener. Comput. Syst. 26: 1-11 ,FGCS,Unranked
+107,Privacy-Conscious Location-Based Queries in Mobile Environments.,2010,"Jianliang Xu, Xueyan Tang, Haibo Hu, Jing Du",IEEE Trans. Parallel Distributed Syst. 21: 313-326 ,TPDS,Unranked
+108,Update Scheduling for Improving Consistency in Distributed Virtual Environments.,2010,"Xueyan Tang, Suiping Zhou",IEEE Trans. Parallel Distributed Syst. 21: 765-777 ,TPDS,Unranked
+109,A Framework for Performance Evaluation of Large-scale Interactive Distributed Virtual Environments.,2010,"Duong Nguyen Binh Ta, Thang Nguyen, Suiping Zhou, Xueyan Tang, Wentong Cai, Rassul Ayani",CIT 2010: 2744-2751,IEEECIT,Unranked
+110,A hybrid Interest Management mechanism for peer-to-peer Networked Virtual Environments.,2010,"Ke Pan, Wentong Cai, Xueyan Tang, Suiping Zhou, Stephen John Turner",IPDPS 2010: 1-12,IPPS,Unranked
+111,An Efficient Scheduling Algorithm for Data Collection through Multi-path Routing Structures in Wireless Sensor Networks.,2010,"Hai Van Luu, Xueyan Tang",MSN 2010: 68-73,MSN,Unranked
+112,QoS-Aware Server Provisioning for Large-Scale Distributed Virtual Environments.,2010,"Duong Nguyen Binh Ta, Suiping Zhou, Wentong Cai, Xueyan Tang, Rassul Ayani",PADS 2010: 23-30,PADS,B
+113,An Enhanced Relay Scheme for Robust Data Collection through Rings Overlay in Wireless Sensor Networks.,2010,"Hai Van Luu, Xueyan Tang",WCNC 2010: 1-6,WCNC,B
+114,On the Construction of Rings Overlay for Robust Data Collection in Wireless Sensor Networks.,2010,"Hai Van Luu, Xueyan Tang",WCNC 2010: 1-6,WCNC,B
+115,Localized monitoring of kNN queries in wireless sensor networks.,2009,"Yuxia Yao, Xueyan Tang, Ee-Peng Lim",VLDB J. 18: 99-117 ,VLDB,A*
+116,Communication-Efficient Support for Spatial Filtering of State Updates in Distributed Virtual Environments.,2009,"Xueyan Tang, Wentong Cai",PADS 2009: 129-136,PADS,B
+117,Efficient Zone Mapping Algorithms for Distributed Virtual Environments.,2009,"Ta Nguyen Binh Duong, Suiping Zhou, Wentong Cai, Xueyan Tang, Rassul Ayani",PADS 2009: 137-144,PADS,B
+118,Distributed query processing in flash-based sensor networks.,2008,"Jianliang Xu, Xueyan Tang, Wang-Chien Lee",Frontiers Comput. Sci. China 2: 248-256 ,FCSC,Unranked
+119,Optimizing lifetime for continuous data aggregation with precision guarantees in wireless sensor networks.,2008,"Xueyan Tang, Jianliang Xu",IEEE/ACM Trans. Netw. 16: 904-917 ,TON,Unranked
+120,A New Storage Scheme for Approximate Location Queries in Object-Tracking Sensor Networks.,2008,"Jianliang Xu, Xueyan Tang, Wang-Chien Lee",IEEE Trans. Parallel Distributed Syst. 19: 262-275 ,TPDS,Unranked
+121,Adaptive Data Collection Strategies for Lifetime-Constrained Wireless Sensor Networks.,2008,"Xueyan Tang, Jianliang Xu",IEEE Trans. Parallel Distributed Syst. 19: 721-734 ,TPDS,Unranked
+122,Analysis of TTL-Based Consistency in Unstructured Peer-to-Peer Networks.,2008,"Xueyan Tang, Jianliang Xu, Wang-Chien Lee",IEEE Trans. Parallel Distributed Syst. 19: 1683-1694 ,TPDS,Unranked
+123,Network-Aware Server Placement for Highly Interactive Distributed Virtual Environments.,2008,"Duong Nguyen Binh Ta, Suiping Zhou, Wentong Cai, Xueyan Tang, Rassul Ayani",DS-RT 2008: 95-102,DSRT,Unranked
+124,Impact of Parallel Download on Job Scheduling in Data Grid Environment.,2008,"Junwei Zhang, Bu-Sung Lee, Xueyan Tang, Chai Kiat Yeo",GCC 2008: 102-109,GCC,Unranked
+125,Top-k Monitoring in Wireless Sensor Networks.,2007,"Minji Wu, Jianliang Xu, Xueyan Tang, Wang-Chien Lee",IEEE Trans. Knowl. Data Eng. 19: 962-976 ,TKDE,Unranked
+126,Optimal Replica Placement under TTL-Based Consistency.,2007,"Xueyan Tang, Huicheng Chi, Samuel T. Chanson",IEEE Trans. Parallel Distributed Syst. 18: 351-363 ,TPDS,Unranked
+127,iPDA: Supporting Privacy-Preserving Location-Based Mobile Services.,2007,"Jing Du, Jianliang Xu, Xueyan Tang, Haibo Hu",MDM 2007: 212-214,MDM,B
+128,The impact of data replication on job scheduling performance in the Data Grid.,2006,"Ming Tang, Bu-Sung Lee, Xueyan Tang, Chai Kiat Yeo",Future Gener. Comput. Syst. 22: 254-268 ,FGCS,Unranked
+129,An Error-Resilient and Tunable Distributed Indexing Scheme for Wireless Data Broadcast.,2006,"Jianliang Xu, Wang-Chien Lee, Xueyan Tang, Qing Gao, Shanping Li",IEEE Trans. Knowl. Data Eng. 18: 392-404 ,TKDE,Unranked
+130,An Energy-Efficient and Access Latency Optimized Indexing Scheme for Wireless Data Broadcast.,2006,"Yuxia Yao, Xueyan Tang, Ee-Peng Lim, Aixin Sun",IEEE Trans. Knowl. Data Eng. 18: 1111-1124 ,TKDE,Unranked
+131,"Time-Critical On-Demand Data Broadcast: Algorithms, Analysis, and Performance Evaluation.",2006,"Jianliang Xu, Xueyan Tang, Wang-Chien Lee",IEEE Trans. Parallel Distributed Syst. 17: 3-14 ,TPDS,Unranked
+132,Analysis of Replica Placement under Expiration-Based Consistency Management.,2006,"Xueyan Tang, Samuel T. Chanson",IEEE Trans. Parallel Distributed Syst. 17: 1253-1263 ,TPDS,Unranked
+133,A Large-Displacement and Decoupled XYZ Flexure Parallel Mechanism for Micromanipulation.,2006,"Xueyan Tang, I-Ming Chen",CASE 2006: 75-80,CASE,Unranked
+134,In-Network Processing of Nearest Neighbor Queries for Wireless Sensor Networks.,2006,"Yuxia Yao, Xueyan Tang, Ee-Peng Lim",DASFAA 2006: 35-49,DASFAA,B
+135,Nonlinear Modeling Method of a Large-Displacement and Decoupled XYZ Flexure Parallel Mechanism.,2006,"Xueyan Tang, I-Ming Chen, Guilin Yang",ICARCV 2006: 1-6,ICARCV,C
+136,Monitoring Top-k Query inWireless Sensor Networks.,2006,"Minji Wu, Jianliang Xu, Xueyan Tang, Wang-Chien Lee",ICDE 2006: 143,ICDE,A*
+137,Extending Network Lifetime for Precision-Constrained Data Aggregation in Wireless Sensor Networks.,2006,"Xueyan Tang, Jianliang Xu",INFOCOM 2006,INFOCOM,A*
+138,A Large-Displacement 3-DOF Flexure Parallel Mechanism with Decoupled Kinematics Structure.,2006,"Xueyan Tang, I-Ming Chen",IROS 2006: 1668-1673,IROS,A
+139,Processing Precision-Constrained Approximate Queries in Wireless Sensor Networks.,2006,"Minji Wu, Jianliang Xu, Xueyan Tang",MDM 2006: 31,MDM,B
+140,Continuous Monitoring of kNN Queries in Wireless Sensor Networks.,2006,"Yuxia Yao, Xueyan Tang, Ee-Peng Lim",MSN 2006: 662-673,MSN,Unranked
+141,Dynamic replication algorithms for the multi-tier Data Grid.,2005,"Ming Tang, Bu-Sung Lee, Chai Kiat Yeo, Xueyan Tang",Future Gener. Comput. Syst. 21: 775-790 ,FGCS,Unranked
+142,QoS-Aware Replica Placement for Content Distribution.,2005,"Xueyan Tang, Jianliang Xu",IEEE Trans. Parallel Distributed Syst. 16: 921-932 ,TPDS,Unranked
+143,A wearable inertial sensor system for human motion analysis.,2005,"Tao Liu, Yoshio Inoue, Kyoko Shibata, Xueyan Tang",CIRA 2005: 409-413,CIRA,Unranked
+144,Combining Data Replication Algorithms and Job Scheduling Heuristics in the Data Grid.,2005,"Ming Tang, Bu-Sung Lee, Xueyan Tang, Chai Kiat Yeo",Euro-Par 2005: 381-390,EUROPAR,Unranked
+145,EASE: an energy-efficient in-network storage scheme for object tracking in sensor networks.,2005,"Jianliang Xu, Xueyan Tang, Wang-Chien Lee",SECON 2005: 396-405,SECON,B
+146,Adaptive hash routing for a cluster of client-side web proxies.,2004,"Xueyan Tang, Samuel T. Chanson",J. Parallel Distributed Comput. 64: 1168-1184 ,JPDC,Unranked
+147,The Minimal Cost Distribution Tree Problem for Recursive Expiration-Based Consistency Management.,2004,"Xueyan Tang, Samuel T. Chanson",IEEE Trans. Parallel Distributed Syst. 15: 214-227 ,TPDS,Unranked
+148,Minimal Cost Replication of Dynamic Web Contents under Flat Update Delivery.,2004,"Xueyan Tang, Samuel T. Chanson",IEEE Trans. Parallel Distributed Syst. 15: 431-439 ,TPDS,Unranked
+149,Session-Affinity Aware Request Allocation for Web Clusters.,2004,"Xueyan Tang, Samuel T. Chanson, Huicheng Chi, Chuang Lin",ICDCS 2004: 142-149,ICDCS,A
+150,On Replica Placement for QoS-Aware Content Distribution.,2004,"Xueyan Tang, Jianliang Xu",INFOCOM 2004: 806-815,INFOCOM,A*
+151,Exponential Index: A Parameterized Distributed Indexing Scheme for Data on Air.,2004,"Jianliang Xu, Wang-Chien Lee, Xueyan Tang",MobiSys 2004,MOBISYS,Unranked
+152,Dynamic analysis of a 3-DOF flexure parallel micromanipulator.,2004,"Xueyan Tang, Huy-Hoang Pham, Qing Li, I-Ming Chen",RAM 2004: 95-100,RAM,Unranked
+153,On caching effectiveness of web clusters under persistent connections.,2003,"Xueyan Tang, Samuel T. Chanson",J. Parallel Distributed Comput. 63: 981-995 ,JPDC,Unranked
+154,Performance Analysis of Location-Dependent Cache Invalidation Schemes for Mobile Environments.,2003,"Jianliang Xu, Xueyan Tang, Dik Lun Lee",IEEE Trans. Knowl. Data Eng. 15: 474-488 ,TKDE,Unranked
+155,Coordinated Management of Cascaded Caches for Efficient Content Distribution.,2003,"Xueyan Tang, Samuel T. Chanson",ICDE 2003: 37-48,ICDE,A*
+156,Coordinated En-Route Web Caching.,2002,"Xueyan Tang, Samuel T. Chanson",IEEE Trans. Computers 51: 595-607 ,TC,Unranked
+157,Modeling and analysis of an expiration-based hierarchical caching system.,2002,"Y. Thomas Hou, Jianping Pan, Bo Li, Xueyan Tang, Shivendra S. Panwar",GLOBECOM 2002: 2468-2472,GLOBECOM,B
+158,Streaming Media Caching Algorithms for Transcoding Proxies.,2002,"Xueyan Tang, Fan Zhang, Samuel T. Chanson",ICPP 2002: 287-295,ICPP,B
+159,Optimal Hash Routing for Web Proxies.,2001,"Xueyan Tang, Samuel T. Chanson",ICDCS 2001: 191-198,ICDCS,A
+160,Multidomain Load Balancing.,2000,"Samuel T. Chanson, Wantao Deng, Chi-Chung Hui, Xueyan Tang, Ming Yan To",ICNP 2000: 315-324,ICNP,B
+161,Optimizing Static Job Scheduling in a Network of Heterogeneous Computers.,2000,"Xueyan Tang, Samuel T. Chanson",ICPP 2000: 373-382,ICPP,B
+162,Cache Coherency in Location-Dependent Information Services for Mobile Environment.,1999,"Jianliang Xu, Xueyan Tang, Dik Lun Lee, Qinglong Hu",MDA 1999: 182-193,MDA,Unranked

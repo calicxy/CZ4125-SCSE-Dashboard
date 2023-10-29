@@ -1,0 +1,333 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,A Study of the Ambient Noise in the Public Space on Campus and the Correlation Between the Campus Crowds' Ambient Noise and the WiFi Log.,2023,"Yun Jie Lim, Seanglidet Yean, Bu-Sung Lee, Peter Edwards",J. Ubiquitous Syst. Pervasive Networks 18: 23-30 ,JUSPN,Unranked
+1,extendGAN+: Transferable Data Augmentation Framework Using WGAN-GP for Data-Driven Indoor Localisation Model.,2023,"Seanglidet Yean, Wayne Goh, Bu-Sung Lee, Hong Lye Oh",Sensors 23: 4402 ,SENSORS,Unranked
+2,Attention-Based Sound Classification Pipeline with Sound Spectrum.,2023,"Ki In Tan, Seanglidet Yean, Bu-Sung Lee",SAS 2023: 1-6,SAS2,Unranked
+3,SingTRACeX: Navigation System to Address Wandering Behavior for Elders and Their Caregivers.,2022,"Wei Jie Teo, Seanglidet Yean, Bo Zhi Lim, Hong Lye Oh, Bu-Sung Lee",Comput. Informatics 41: 646-664 ,CAI,Unranked
+4,"Critique of ""MemXCT: Memory-Centric X-Ray CT Reconstruction With Massive Parallelization"" by SCC Team From Nanyang Technological University.",2022,"Shenggui Li, Bu-Sung Lee",IEEE Trans. Parallel Distributed Syst. 33: 2058-2061 ,TPDS,Unranked
+5,What Could Ambient Noise around Campus Tell Us? A Study on Campus Crowd Noise.,2022,"Yun Jie Lim, Seanglidet Yean, Bu-Sung Lee, Peter Edwards",ANT/EDI40 2022: 390-397,ANT,Unranked
+6,Reinforcement Learning Approach for Multi-period Inventory with Stochastic Demand.,2022,"Manoj Shakya, Huey Yuen Ng, Darrell Joshua Ong, Bu-Sung Lee",AIAI  2022: 282-291,IFIP12,Unranked
+7,A Deep Reinforcement Learning Approach for Inventory Control under Stochastic Lead Time and Demand.,2022,"Manoj Shakya, Bu-Sung Lee, Huey Yuen Ng",SSCI 2022: 760-766,SSCI,Unranked
+8,Lower-Limb Rehabilitation at Home: A Survey on Exercise Assessment and Initial Study on Exercise State Identification Toward Biofeedback.,2021,"Seanglidet Yean, Bu-Sung Lee, Chai Kiat Yeo",Int. J. Interdiscip. Telecommun. Netw. 13: 12-23 ,IJITN,Unranked
+9,GAN+: Data Augmentation Method Using Generative Adversarial Networks and Dirichlet for Indoor Localisation.,2021,"Seanglidet Yean, Palak Somani, Bu-Sung Lee, Hong Lye Oh",IPIN-WiP 2021,IPIN,C
+10,Epsilon: A Microservices based distributed scheduler for Kubernetes Cluster.,2021,"Alex Neo Jing Hui, Bu-Sung Lee",JCSSE 2021: 1-6,JCSSE,Unranked
+11,Using Mobility Patterns for the Planning of Vehicle-to-Grid Infrastructures that Support Photovoltaics in Cities.,2021,"Markus Schläpfer, Hong Jun Chew, Seanglidet Yean, Bu-Sung Lee",CoRR abs/2112.15006 ,CORR,Unranked
+12,Lower-Limb Rehabilitation at Home: A Survey on Exercise Assessment and Initial Study on Exercise State Identification Toward Biofeedback.,2020,"Seanglidet Yean, Bu-Sung Lee, Chai Kiat Yeo",Int. J. Interdiscip. Telecommun. Netw. 12: 15-27 ,IJITN,Unranked
+13,Feature Engineering for Grid-based Multi-Floor Indoor Localisation using Machine Learning.,2020,"Senglidet Yean, Bu-Sung Lee, Hong Lye Oh",IDSTA 2020: 142-148,IDSTA,Unranked
+14,Analysing Social Behavioural Patterns of University Students Who Partake in Sports-related Activities using Wi-Fi Data.,2020,"Christopher Gerard Toh Wei Hong, Seanglidet Yean, Bu-Sung Lee, Anthony Yao Wei Koh",iThings/GreenCom/CPSCom/SmartData/Cybermatics 2020: 888-895,ITHINGS,Unranked
+15,Power-network aware VM migration heuristics for multi-tier web applications.,2019,"Amir Hossein Borhani, Terence Hung, Bu-Sung Lee, Zheng Qin",Clust. Comput. 22: 757-782 ,CLUSTER,B
+16,CamType: assistive text entry using gaze with an off-the-shelf webcam.,2019,"Yi Liu, Bu-Sung Lee, Deepu Rajan, Andrzej Sluzek, Martin J. McKeown",Mach. Vis. Appl. 30: 407-421 ,MVA,National
+17,"Student Cluster Competition 2018, Team Nanyang Technological University: Reproducing performance of a Multi-Physics Simulations of the Tsunamigenic 2004 Sumatra Megathrust Earthquake on the Intel Skylake architecture.",2019,"Bian Wu, Weiliang Heng, Bu-Sung Lee",Parallel Comput. 90 ,PC,Unranked
+18,Free-Head Appearance-Based Eye Gaze Estimation on Mobile Devices.,2019,"Jigang Liu, Francis Bu-Sung Lee, Deepu Rajan",ICAIIC 2019: 232-237,ICAIIC,Unranked
+19,Gaze Estimation Using Residual Neural Network.,2019,"En Teng Wong, Seanglidet Yean, Qingyao Hu, Bu-Sung Lee, Jigang Liu, Deepu Rajan",PerCom Workshops 2019: 411-414,PERCOM,A*
+20,Power spectrum entropy based detection and mitigation of low-rate DoS attacks.,2018,"Zhaomin Chen, Chai Kiat Yeo, Bu-Sung Lee, Chiew Tong Lau",Comput. Networks 136: 80-94 ,CN,National
+21,Leveraging social media news to predict stock index movement using RNN-boost.,2018,"Weiling Chen, Chai Kiat Yeo, Chiew Tong Lau, Bu-Sung Lee",Data Knowl. Eng. 118: 14-24 ,DKE,Unranked
+22,The canary in the city: indicator groups as predictors of local rent increases.,2018,"Aike A. Steentoft, Ate Poorthuis, Bu-Sung Lee, Markus Schläpfer",EPJ Data Sci. 7: 21 ,EPJDS,Unranked
+23,Evolutionary multi-objective optimization based ensemble autoencoders for image outlier detection.,2018,"Zhaomin Chen, Chai Kiat Yeo, Bu-Sung Lee, Chiew Tong Lau, Yaochu Jin",Neurocomputing 309: 192-200 ,IJON,Unranked
+24,Distributed multi-task classification: a decentralized online learning approach.,2018,"Chi Zhang, Peilin Zhao, Shuji Hao, Yeng Chai Soh, Bu-Sung Lee, Chunyan Miao, Steven C. H. Hoi",Mach. Learn. 107: 727-747 ,ML,Unranked
+25,"Student Cluster Competition 2017, team Nanyang Technological University: Reproducing vectorization of the Tersoff multi-body potential on the Intel Broadwell architecture.",2018,"Siyuan Liu, Meiru Hao, Bu-Sung Lee",Parallel Comput. 77: 118-124 ,PC,Unranked
+26,Unsupervised rumor detection based on users' behaviors using neural networks.,2018,"Weiling Chen, Yan Zhang, Chai Kiat Yeo, Chiew Tong Lau, Bu-Sung Lee",Pattern Recognit. Lett. 105: 226-233 ,PRL,Unranked
+27,Smartphone Orientation Estimation Algorithm Combining Kalman Filter With Gradient Descent.,2018,"Seanglidet Yean, Bu-Sung Lee, Chai Kiat Yeo, Chan Hua Vun, Hong Lye Oh",IEEE J. Biomed. Health Informatics 22: 1421-1433 ,TITB,Unranked
+28,Long-Term Multi-Resource Fairness for Pay-as-you Use Computing Systems.,2018,"Shanjiang Tang, Zhaojie Niu, Bingsheng He, Bu-Sung Lee, Ce Yu",IEEE Trans. Parallel Distributed Syst. 29: 1147-1160 ,TPDS,Unranked
+29,Fair Resource Allocation for Data-Intensive Computing in the Cloud.,2018,"Shanjiang Tang, Bu-Sung Lee, Bingsheng He",IEEE Trans. Serv. Comput. 11: 20-33 ,TSC,Unranked
+30,RehabPartner: Motion tracking assistant using a novel complementary feedback filter.,2018,"Shao Loong Lim, Seanglidet Yean, Bu-Sung Lee, Chai Kiat Yeo",CCNC 2018: 1-6,CCNC,Unranked
+31,Using Mobile Phone Data to Determine Human Mobility Patterns in Paris.,2018,"Eric Valega Prawirodidjojo, Rui Jie Quek, Bu-Sung Lee, Vincent Gauthier, Markus Schläpfer",CW 2018: 399-402,CW,C
+32,Exploiting Behavioral Differences to Detect Fake Ne.,2018,"Weiling Chen, Chenyan Yang, Gibson Cheng, Yan Zhang, Chai Kiat Yeo, Chiew Tong Lau, Bu-Sung Lee",UEMCON 2018: 879-884,UEMCOM,Unranked
+33,Autoencoder-based network anomaly detection.,2018,"Zhaomin Chen, Chai Kiat Yeo, Bu-Sung Lee, Chiew Tong Lau",WTS 2018: 1-5,WTS,Unranked
+34,Automated oscillation detection and correction of fused wearable sensor signals using machine learning.,2018,"Senglidet Yean, Bu-Sung Lee, Chai Kiat Yeo, Zhaomin Chen",WTS 2018: 1-6,WTS,Unranked
+35,Detection of network anomalies using Improved-MSPCA with sketches.,2017,"Zhaomin Chen, Chai Kiat Yeo, Bu-Sung Lee, Chiew Tong Lau",Comput. Secur. 65: 314-328 ,COMPSEC,Unranked
+36,Student cluster competition: ParConnect reproducibility task report.,2017,"Ying Hao Tan, Yiyang Shao, Siyuan Liu, Bu-Sung Lee",Parallel Comput. 70: 11-17 ,PC,Unranked
+37,Layman Analytics System: A Cloud-Enabled System for Data Analytics Workflow Recommendation.,2017,"Theint Theint Aye, Gary Kee Khoon Lee, Yi Su, Tianyou Zhang, Chonho Lee, Henry Kasim, Ivan Hoe, Francis Bu-Sung Lee, Gih Guang Hung",IEEE Trans Autom. Sci. Eng. 14: 160-170 ,TASE,National
+38,A new reconstruction method in gaze estimation with natural head movement.,2017,"Yi Liu, Bu-Sung Lee, Martin J. McKeown",MVA 2017: 219-222,MVA,National
+39,Network-Aware VM Migration Heuristics for Improving the SLA Violation of Multi-Tier Web Applications in the Cloud.,2017,"Amir Hossein Borhani, Terence Hung, Bu-Sung Lee, Zheng Qin, Zahra Bagheri",PDP 2017: 454-462,PDP,C
+40,Pholder: An Eye-Gaze Assisted Reading Application on Android.,2017,"Christiantia Wirawan, Hu Qingyao, Liu Yi, Senglidet Yean, Bu-Sung Lee, Fang Ran",SITIS 2017: 350-353,SITIS,Unranked
+41,A novel anomaly detection system using feature-based MSPCA with sketch.,2017,"Zhaomin Chen, Chai Kiat Yeo, Bu-Sung Lee, Chiew Tong Lau",WOCC 2017: 1-6,WOCC,Unranked
+42,The Canary in the City: Indicator Groups as Predictors of Urban Change.,2017,"Aike Alexander Steentoft, Ate Poorthuis, Bu-Sung Lee, Markus Schläpfer",CoRR abs/1712.08924 ,CORR,Unranked
+43,Robust Eye-Based Dwell-Free Typing.,2016,"Yi Liu, Bu-Sung Lee, Martin J. McKeown",Int. J. Hum. Comput. Interact. 32: 682-694 ,IJHCI,Unranked
+44,Evaluating and Improving the Performance and Scheduling of HPC Applications in Cloud.,2016,"Abhishek Gupta, Paolo Faraboschi, Filippo Gioachin, Laxmikant V. Kalé, Richard Kaufmann, Bu-Sung Lee, Verdi March, Dejan S. Milojicic, Chun Hui Suen",IEEE Trans. Cloud Comput. 4: 307-321 ,TCC,A
+45,Dynamic Job Ordering and Slot Configurations for MapReduce Workloads.,2016,"Shanjiang Tang, Bu-Sung Lee, Bingsheng He",IEEE Trans. Serv. Comput. 9: 4-17 ,TSC,Unranked
+46,Feasibility Analysis of Eye Typing with a Standard Webcam.,2016,"Yi Liu, Bu-Sung Lee, Andrzej Sluzek, Deepu Rajan, Martin J. McKeown",ECCV Workshops  2016: 254-268,ECCV,A*
+47,ROM: A Robust Online Multi-task Learning Approach.,2016,"Chi Zhang, Peilin Zhao, Shuji Hao, Yeng Chai Soh, Bu-Sung Lee",ICDM 2016: 1341-1346,ICDM,A*
+48,"Mood prediction from facial video with music ""therapy"" on a smartphone.",2016,"Seanglidet Yean, Bu-Sung Lee, Chai Kiat Yeo",WTS 2016: 1-5,WTS,Unranked
+49,Towards an Early Warning System for Network Attacks Using Bayesian Inference.,2015,"Harsha Kumara Kalutarage, Chonho Lee, Siraj Ahmed Shaikh, Francis Bu-Sung Lee",CSCloud 2015: 399-404,CSCLOUD,Unranked
+50,Feasibility analysis and adaptive thresholding for mobile applications controlled by EEG signals.,2015,"Chonho Lee, Jinyao Chin, Liu Yi, Bu-Sung Lee, Martin J. McKeown",EUSIPCO 2015: 2416-2420,EUSIPCO,Unranked
+51,A MSPCA based intrusion detection algorithm tor detection of DDoS attack.,2015,"Zhaomin Chen, Chai Kiat Yeo, Francis Bu-Sung Lee, Chiew Tong Lau",ICCC 2015: 1-5,ICCCHINA,Unranked
+52,Early Warning Systems for Cyber Defence.,2015,"Harsha K. Kalutarage, Siraj Ahmed Shaikh, Bu-Sung Lee, Chonho Lee, Chai Kiat Yeo",iNetSeC 2015: 29-42,IFIP11-4,Unranked
+53,GazeTry: Swipe Text Typing Using Gaze.,2015,"Yi Liu, Chi Zhang, Chonho Lee, Bu-Sung Lee, Alex Qiang Chen",OZCHI 2015: 192-196,OZCHI,Australasian B
+54,Virtual machine placement with two-path traffic routing for reduced congestion in data center networks.,2014,"Renuga Kanagavelu, Bu-Sung Lee, Le Nguyen The Dat, Luke Ng Mingjie, Khin Mi Mi Aung",Comput. Commun. 53: 1-12 ,COMCOM,Unranked
+55,Special issue on trust and security in cloud computing.,2014,"Ryan K. L. Ko, Markus Kirchberg, Bu-Sung Lee",Secur. Commun. Networks 7: 2183-2184 ,SCN,National
+56,A rule-based approach for availability of service by automated service substitution.,2014,"Qianhui Liang, Bu-Sung Lee, Patrick C. K. Hung",Softw. Pract. Exp. 44: 47-76 ,SPE,Unranked
+57,DynamicMR: A Dynamic Slot Allocation Optimization Framework for MapReduce Clusters.,2014,"Shanjiang Tang, Bu-Sung Lee, Bingsheng He",IEEE Trans. Cloud Comput. 2: 333-347 ,TCC,A
+58,A Long-Term Reference Frame for Hierarchical B-Picture-Based Video Coding.,2014,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",IEEE Trans. Circuits Syst. Video Technol. 24: 1729-1742 ,TCSV,Unranked
+59,Cooperative Virtual Machine Management in Smart Grid Environment.,2014,"Rakpong Kaewpuang, Sivadon Chaisiri, Dusit Niyato, Bu-Sung Lee, Ping Wang",IEEE Trans. Serv. Comput. 7: 545-560 ,TSC,Unranked
+60,A motion accuracy evaluator based on body parts movement by MapReduce video processing.,2014,"Chonho Lee, Yu Terada, Yi Liu, Bu-Sung Lee",BHI 2014: 644-647,BHI,Unranked
+61,Improving Hadoop Monetary Efficiency in the Cloud Using Spot Instances.,2014,"Changbing Chen, Bu-Sung Lee, Xueyan Tang",CloudCom 2014: 312-319,CLOUDCOM,Unranked
+62,Towards Economic Fairness for Big Data Processing in Pay-as-You-Go Cloud Computing.,2014,"Shanjiang Tang, Bu-Sung Lee, Bingsheng He",CloudCom 2014: 638-643,CLOUDCOM,Unranked
+63,A Wavelet Entropy-Based Change Point Detection on Network Traffic: A Case Study of Heartbleed Vulnerability.,2014,"Chonho Lee, Liu Yi, Li-Hau Tan, Weihan Goh, Bu-Sung Lee, Chai Kiat Yeo",CloudCom 2014: 995-1000,CLOUDCOM,Unranked
+64,WPress: An Application-Driven Performance Benchmark for Cloud-Based Virtual Machines.,2014,"Amir Hossein Borhani, Philipp Leitner, Bu-Sung Lee, Xiaorong Li, Terence Hung",EDOC 2014: 101-109,EDOC,B
+65,Leak detection and localization inwater distribution system using time frequency analysis.,2014,"Thaw Tar Thein Zan, Kai-Juan Wong, Hock-Beng Lim, Andrew J. Whittle, Bu-Sung Lee",EUSIPCO 2014: 2285-2289,EUSIPCO,Unranked
+66,Analysis of visually guided tracking performance in Parkinson's disease.,2014,"Yi Liu, Chonho Lee, Bu-Sung Lee, James K. R. Stevenson, Martin J. McKeown",Healthcom 2014: 164-169,HEALTHCOM,Unranked
+67,Long-term resource fairness: towards economic fairness on pay-as-you-use computing systems.,2014,"Shanjiang Tang, Bu-Sung Lee, Bingsheng He, Haikun Liu",ICS 2014: 251-260,ICS,A
+68,MaxCD: Efficient multi-flow scheduling and cooperative downloading for improved highway drive-thru Internet systems.,2013,"Shengbo Yang, Chai Kiat Yeo, Bu-Sung Lee",Comput. Networks 57: 1805-1820 ,CN,National
+69,EFLoM: An Efficient Framework for Local Mobility.,2013,"Feng Zhong, Chai Kiat Yeo, Bu-Sung Lee",Comput. Commun. 36: 291-302 ,COMCOM,Unranked
+70,Video coding with dynamic background.,2013,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",EURASIP J. Adv. Signal Process. 2013: 11 ,EJASP,Unranked
+71,Pattern-based video coding with dynamic background modeling.,2013,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",EURASIP J. Adv. Signal Process. 2013: 138 ,EJASP,Unranked
+72,Hadoop framework: impact of data organization on performance.,2013,"Yu Shyang Tan, Jiaqi Tan, Engsiong Chng, Bu-Sung Lee, Jiaming Li, Susumu Date, Hui Ping Chak, Xiong Xiao, Atsushi Narishige",Softw. Pract. Exp. 43: 1241-1260 ,SPE,Unranked
+73,Cooperative Duty Cycling For Energy-Efficient Contact Discovery in Pocket Switched Networks.,2013,"Shengbo Yang, Chai Kiat Yeo, Francis Bu-Sung Lee",IEEE Trans. Veh. Technol. 62: 1815-1826 ,TVT,Unranked
+74,Dual-metric hybrid protocol for application level multicast for live video streaming.,2013,"Chai Kiat Yeo, Bu-Sung Lee, Ing Yann Soon, Yang Xia, Zoebir Bong, Yuanyuan Mao",CCNC 2013: 31-36,CCNC,Unranked
+75,"The Who, What, Why, and How of High Performance Computing in the Cloud.",2013,"Abhishek Gupta, Laxmikant V. Kalé, Filippo Gioachin, Verdi March, Chun Hui Suen, Bu-Sung Lee, Paolo Faraboschi, Richard Kaufmann, Dejan S. Milojicic",CloudCom  2013: 306-314,CLOUDCOM,Unranked
+76,An efficient flow cache algorithm with improved fairness in Software-Defined Data Center Networks.,2013,"Bu-Sung Lee, Renuga Kanagavelu, Khin Mi Mi Aung",CloudNet 2013: 18-24,CLOUDNET,Unranked
+77,Dynamic slot allocation technique for MapReduce clusters.,2013,"Shanjiang Tang, Bu-Sung Lee, Bingsheng He",CLUSTER 2013: 1-8,CLUSTER,B
+78,Simulation of Information Propagation over Complex Networks: Performance Studies on Multi-GPU.,2013,"Jiangming Jin, Stephen John Turner, Bu-Sung Lee, Jianlong Zhong, Bingsheng He",DS-RT 2013: 179-188,DSRT,Unranked
+79,MROrder: Flexible Job Ordering Optimization for Online MapReduce Workloads.,2013,"Shanjiang Tang, Bu-Sung Lee, Bingsheng He",Euro-Par 2013: 291-304,EUROPAR,Unranked
+80,A scalable framework for cloud powered workflow execution.,2013,"Yang Xia, Chonho Lee, Zoebir Bong, Changbing Chen, Bu-Sung Lee",GLOBECOM Workshops 2013: 458-463,GLOBECOM,B
+81,Power-Efficient Virtual Machine Placement and Migration in Data Centers.,2013,"Shuo Fang, Renuga Kanagavelu, Bu-Sung Lee, Chuan Heng Foh, Khin Mi Mi Aung",GreenCom/iThings/CPScom 2013: 1408-1413,GREENCOM,Unranked
+82,Domain-based Hybrid OpenFlow Network (HON).,2013,"Zoebir Bong, Derrick Lim Teck Leong, Bu-Sung Lee",ICON 2013: 1-4,ICON,Unranked
+83,Software defined network based adaptive routing for data replication in Data Centers.,2013,"Renuga Kanagavelu, Bu-Sung Lee, Miguel Rodel Felipe, Le Nguyen The Dat, Luke Ng Mingjie",ICON 2013: 1-6,ICON,Unranked
+84,Sonata: A Workflow Model for Interactive Mobile Cloud Applications.,2013,"Verdi March, Yan Gu, Bu-Sung Lee",ICSOC Workshops 2013: 59-71,ICSOC,A
+85,A Workflow Framework for Big Data Analytics: Event Recognition in a Building.,2013,"Changbing Chen, Xia Yang, Zoebir Bong, Sivadon Chaisiri, Bu-Sung Lee",SERVICES 2013: 21-28,SERVICES,B
+86,Collaborative Analytics with Genetic Programming for Workflow Recommendation.,2013,"Chee Seng Chong, Tianyou Zhang, Gary Kee Khoon Lee, Gih Guang Hung, Bu-Sung Lee",SMC 2013: 657-662,SMC,B
+87,S2Logger: End-to-End Data Tracking Mechanism for Cloud Data Provenance.,2013,"Chun Hui Suen, Ryan K. L. Ko, Yu Shyang Tan, Peter Jagadpramana, Bu-Sung Lee",TrustCom/ISPA/IUCC 2013: 594-602,TRUSTCOM,Unranked
+88,Simulation studies of viral advertisement diffusion on multi-GPU.,2013,"Jiangming Jin, Stephen John Turner, Bu-Sung Lee, Jianlong Zhong, Bingsheng He",WSC 2013: 1592-1603,WSC,C
+89,Achieving Small-World Properties using Bio-Inspired Techniques in Wireless Networks.,2012,"Rachit Agarwal, Abhik Banerjee, Vincent Gauthier, Monique Becker, Chai Kiat Yeo, Bu-Sung Lee",Comput. J. 55: 909-931 ,CJ,Unranked
+90,Adaptive load balancing algorithm for multiple homing mobile nodes.,2012,"Feng Zhong, Chai Kiat Yeo, Bu-Sung Lee",J. Netw. Comput. Appl. 35: 316-327 ,JNCA,Unranked
+91,Performance improvements for network-wide broadcast with instantaneous network information.,2012,"Abhik Banerjee, Chuan Heng Foh, Chai Kiat Yeo, Bu-Sung Lee",J. Netw. Comput. Appl. 35: 1162-1174 ,JNCA,Unranked
+92,Low-Complexity Video Coding Based on Two-Dimensional Singular Value Decomposition.,2012,"Zhouye Gu, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau",IEEE Trans. Image Process. 21: 674-687 ,TIP,Unranked
+93,Mode-Dependent Templates and Scan Order for H.264/AVC-Based Intra Lossless Coding.,2012,"Zhouye Gu, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau, Ming-Ting Sun",IEEE Trans. Image Process. 21: 4106-4116 ,TIP,Unranked
+94,Rotated Orthogonal Transform (ROT) for Motion-Compensation Residual Coding.,2012,"Zhouye Gu, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau",IEEE Trans. Image Process. 21: 4770-4781 ,TIP,Unranked
+95,Toward Reliable Data Delivery for Highly Dynamic Mobile Ad Hoc Networks.,2012,"Shengbo Yang, Chai Kiat Yeo, Bu-Sung Lee",IEEE Trans. Mob. Comput. 11: 111-124 ,TMC,Unranked
+96,Bottom-Up Saliency Detection Model Based on Human Visual Sensitivity and Amplitude Spectrum.,2012,"Yuming Fang, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau, Zhenzhong Chen, Chia-Wen Lin",IEEE Trans. Multim. 14: 187-198 ,TMM,Unranked
+97,Robust Image Coding Based Upon Compressive Sensing.,2012,"Chenwei Deng, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau",IEEE Trans. Multim. 14: 278-290 ,TMM,Unranked
+98,EasyPDP: An Efficient Parallel Dynamic Programming Runtime System for Computational Biology.,2012,"Shanjiang Tang, Ce Yu, Jizhou Sun, Bu-Sung Lee, Tao Zhang, Zhen Xu, Huabei Wu",IEEE Trans. Parallel Distributed Syst. 23: 862-872 ,TPDS,Unranked
+99,Optimization of Resource Provisioning Cost in Cloud Computing.,2012,"Sivadon Chaisiri, Bu-Sung Lee, Dusit Niyato",IEEE Trans. Serv. Comput. 5: 164-177 ,TSC,Unranked
+100,A Self-Organization Framework for Wireless Ad Hoc Networks as Small Worlds.,2012,"Abhik Banerjee, Rachit Agarwal, Vincent Gauthier, Chai Kiat Yeo, Hossam Afifi, Francis Bu-Sung Lee",IEEE Trans. Veh. Technol. 61: 2659-2673 ,TVT,Unranked
+101,Collaborative analytics for predicting expressway-traffic congestion.,2012,"Chee Seng Chong, Zoebir Bong, Alan Yu Shyang Tan, William-Chandra Tjhi, Tianyou Zhang, Gary Kee Khoon Lee, Reuben Mingguang Li, Whye Loon Tung, Francis Bu-Sung Lee",ICEC 2012: 35-38,ACMICEC,Unranked
+102,A Systematic Framework Enabling Automatic Conflict Detection and Explanation in Cloud Service Selection for Enterprises.,2012,"Chunqing Chen, Shixing Yan, Guopeng Zhao, Bu-Sung Lee, Sharad Singhal",IEEE CLOUD 2012: 883-890,IEEECLOUD,Unranked
+103,Protego: In-Memory Version Control System in the Cloud.,2012,"Filippo Gioachin, Qianhui Liang, Yuxia Yao, Bu-Sung Lee",APSEC 2012: 232-239,APSEC,C
+104,A Map-Reduce Based Framework for Heterogeneous Processing Element Cluster Environments.,2012,"Yu Shyang Tan, Bu-Sung Lee, Bingsheng He, Roy H. Campbell",CCGRID 2012: 57-64,CCGRID,B
+105,Workflow framework to support data analytics in cloud computing.,2012,"Sivadon Chaisiri, Zoebir Bong, Chonho Lee, Bu-Sung Lee, Punyapat Sessomboon, Tanakrit Saisillapee, Tiranee Achalakul",CloudCom 2012: 610-613,CLOUDCOM,Unranked
+106,Cloud service recommendation and selection for enterprises.,2012,"Shixing Yan, Chunqing Chen, Guopeng Zhao, Bu-Sung Lee",CNSM 2012: 430-434,CNSM,B
+107,GMoCA: Green mobile cloud applications.,2012,"Yan Gu, Verdi March, Bu-Sung Lee",GREENS 2012: 15-20,GREENS,Unranked
+108,Exploring the performance and mapping of HPC applications to platforms in the cloud.,2012,"Abhishek Gupta, Laxmikant V. Kalé, Dejan S. Milojicic, Paolo Faraboschi, Richard Kaufmann, Verdi March, Filippo Gioachin, Chun Hui Suen, Bu-Sung Lee",HPDC 2012: 121-122,HPDC,A
+109,CDC: An Energy-Efficient Contact Discovery Scheme for Pocket Switched Networks.,2012,"Shengbo Yang, Chai Kiat Yeo, Bu-Sung Lee",ICCCN 2012: 1-7,ICCCN,B
+110,MaxCD: Max-Rate Based Cooperative Downloading for Drive-Thru Networks.,2012,"Shengbo Yang, Chai Kiat Yeo, Bu-Sung Lee",ICCCN 2012: 1-7,ICCCN,B
+111,Formal Concept Discovery in Semantic Web Data.,2012,"Markus Kirchberg, Erwin Leonardi, Yu Shyang Tan, Sebastian Link, Ryan K. L. Ko, Bu-Sung Lee",ICFCA 2012: 164-179,ICFCA,C
+112,OpenFlow based control for re-routing with differentiated flows in Data Center Networks.,2012,"Renuga Kanagavelu, Luke Ng Mingjie, Khin Mi Mi Aung, Francis Bu-Sung Lee, Heryandi",ICON 2012: 228-233,ICON,Unranked
+113,A Demo Paper: An Analytic Workflow Framework for Green Campus.,2012,"Chonho Lee, Sivadon Chaisiri, Zoebir Bong, Changbing Chen, Bu-Sung Lee",ICPADS 2012: 851-855,ICPADS,B
+114,Overcoming Large Data Transfer Bottlenecks in RESTful Service Orchestrations.,2012,"Ryan K. L. Ko, Markus Kirchberg, Bu-Sung Lee, Elroy Chew",ICWS 2012: 654-656,ICWS,A
+115,Speedup for Multi-Level Parallel Computing.,2012,"Shanjiang Tang, Bu-Sung Lee, Bingsheng He",IPDPS Workshops 2012: 537-546,IPPS,Unranked
+116,Adaptive Data Refinement for Parallel Dynamic Programming Applications.,2012,"Shanjiang Tang, Ce Yu, Bu-Sung Lee, Chao Sun, Jizhou Sun",IPDPS Workshops 2012: 2220-2229,IPPS,Unranked
+117,Adaptive Power Management for Data Center in Smart Grid Environment.,2012,"Rakpong Kaewpuang, Sivadon Chaisiri, Dusit Niyato, Bu-Sung Lee, Ping Wang",ISPA 2012: 119-126,ISPA,C
+118,TwiNER: named entity recognition in targeted twitter stream.,2012,"Chenliang Li, Jianshu Weng, Qi He, Yuxia Yao, Anwitaman Datta, Aixin Sun, Bu-Sung Lee",SIGIR 2012: 721-730,SIGIR,A*
+119,Tracking of Data Leaving the Cloud.,2012,"Yu Shyang Tan, Ryan K. L. Ko, Peter Jagadpramana, Chun Hui Suen, Markus Kirchberg, Teck Hooi Lim, Bu-Sung Lee, Anurag Singla, Ken Mermoud, Doron Keller, Ha Duc",TrustCom 2012: 137-144,TRUSTCOM,Unranked
+120,How to Track Your Data: Rule-Based Data Provenance Tracing Algorithms.,2012,"Olive Qing Zhang, Ryan K. L. Ko, Markus Kirchberg, Chun Hui Suen, Peter Jagadpramana, Bu-Sung Lee",TrustCom 2012: 1429-1437,TRUSTCOM,Unranked
+121,HPC Simulations of Information Propagation Over Social Networks.,2012,"Jiangming Jin, Stephen John Turner, Bu-Sung Lee, Jianlong Zhong, Bingsheng He",ICCS 2012: 292-301,PROCEDIA,Unranked
+122,A Self-Organization Framework for Wireless Ad Hoc Networks as Small Worlds.,2012,"Abhik Banerjee, Rachit Agarwal, Vincent Gauthier, Chai Kiat Yeo, Hossam Afifi, Bu-Sung Lee",CoRR abs/1203.1185 ,CORR,Unranked
+123,Cloud Computing.,2011,"Malek Ben Salem, Bu-Sung Lee, Jie Zhang",J. Internet Serv. Inf. Secur. 1: 1-3 ,JISIS,Unranked
+124,"Performance analysis, parameter selection and extensions to H.264/AVC FRExt for high resolution video coding.",2011,"Chenwei Deng, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau, Ming-Ting Sun",J. Vis. Commun. Image Represent. 22: 749-759 ,JVCIR,Unranked
+125,Interactive and Iterative Service-Composition-Based Approach to Flexible Information System Development.,2011,"Qianhui Liang, Anandhi Bharadwaj, Bu-Sung Lee",Int. J. Web Serv. Res. 8: 81-107 ,JWSR,Unranked
+126,Explore and Model Better I-Frames for Video Coding.,2011,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",IEEE Trans. Circuits Syst. Video Technol. 21: 1242-1254 ,TCSV,Unranked
+127,Cross-Layer Detection of Sinking Behavior in Wireless Ad Hoc Networks Using SVM and FDA.,2011,"John Felix Charles Joseph, Bu-Sung Lee, Amitabha Das, Boon-Chong Seet",IEEE Trans. Dependable Secur. Comput. 8: 233-245 ,TDSC,Unranked
+128,Direct Intermode Selection for H.264 Video Coding Using Phase Correlation.,2011,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",IEEE Trans. Image Process. 20: 461-473 ,TIP,Unranked
+129,Improving job scheduling performance with parallel access to replicas in Data Grid environment.,2011,"Junwei Zhang, Bu-Sung Lee, Xueyan Tang, Chai Kiat Yeo",J. Supercomput. 56: 245-269 ,TJS,Unranked
+130,Delivering High Resilience in Designing Platform-as-a-Service Clouds.,2011,"Qianhui Liang, Bu-Sung Lee",IEEE CLOUD 2011: 676-683,IEEECLOUD,Unranked
+131,"Towards Achieving Accountability, Auditability and Trust in Cloud Computing.",2011,"Ryan K. L. Ko, Bu-Sung Lee, Siani Pearson",ACC  2011: 432-444,ACC,C
+132,Adaptive Load Balancing Algorithm for multi-homing mobile nodes in local domain.,2011,"Feng Zhong, Chai Kiat Yeo, Bu-Sung Lee",CCNC 2011: 482-486,CCNC,Unranked
+133,How to Track Your Data: The Case for Cloud Computing Provenance.,2011,"Olive Qing Zhang, Markus Kirchberg, Ryan K. L. Ko, Bu-Sung Lee",CloudCom 2011: 446-453,CLOUDCOM,Unranked
+134,Efficient Migration of Virtual Machines between Public and Private Cloud.,2011,"Chun Hui Suen, Markus Kirchberg, Bu-Sung Lee",CloudCom 2011: 549-553,CLOUDCOM,Unranked
+135,Self-organization of nodes using bio-inspired techniques for achieving small world properties.,2011,"Rachit Agarwal, Abhik Banerjee, Vincent Gauthier, Monique Becker, Chai Kiat Yeo, Bu-Sung Lee",GLOBECOM Workshops 2011: 89-94,GLOBECOM,B
+136,Self-organization of wireless ad hoc networks as small worlds using long range directional beams.,2011,"Abhik Banerjee, Rachit Agarwal, Vincent Gauthier, Chai Kiat Yeo, Hossam Afifi, Bu-Sung Lee",GLOBECOM Workshops 2011: 120-124,GLOBECOM,B
+137,A visual attention model combining top-down and bottom-up mechanisms for salient object detection.,2011,"Yuming Fang, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",ICASSP 2011: 1293-1296,ICASSP,Unranked
+138,Predictive Scheduling in Drive-Thru Networks with Flow-Level Dynamics and Deadlines.,2011,"Shengbo Yang, Chai Kiat Yeo, Bu-Sung Lee",ICC 2011: 1-5,ICC,Unranked
+139,McFIS in hierarchical bipredictve pictures-based video coding for referencing the stable area in a scene.,2011,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",ICIP 2011: 3521-3524,ICIP,B
+140,Software Versioning in the Cloud - Towards Automatic Source Code Management.,2011,"Filippo Gioachin, Qianhui Liang, Yuxia Yao, Bu-Sung Lee",ICSOFT  2011: 160-165,ICSOFT,Unranked
+141,Event Detection in Twitter.,2011,"Jianshu Weng, Bu-Sung Lee",ICWSM 2011,ICWSM,A
+142,Cost Minimization for Provisioning Virtual Servers in Amazon Elastic Compute Cloud.,2011,"Sivadon Chaisiri, Rakpong Kaewpuang, Bu-Sung Lee, Dusit Niyato",MASCOTS 2011: 85-95,MASCOTS,B
+143,Adaptive Orthogonal Transform for Motion Compensation Residual in Video Compression.,2011,"Zhouye Gu, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau",MMM  2011: 40-50,MMM,B
+144,Bottom-Up Saliency Detection Model Based on Amplitude Spectrum.,2011,"Yuming Fang, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau, Chia-Wen Lin",MMM  2011: 370-380,MMM,B
+145,TrustCloud: A Framework for Accountability and Trust in Cloud Computing.,2011,"Ryan K. L. Ko, Peter Jagadpramana, Miranda Mowbray, Siani Pearson, Markus Kirchberg, Qianhui Liang, Bu-Sung Lee",SERVICES 2011: 584-588,SERVICES,B
+146,Flogger: A File-Centric Logger for Monitoring File Access and Transfers within Cloud Computing Environments.,2011,"Ryan K. L. Ko, Peter Jagadpramana, Bu-Sung Lee",TrustCom 2011: 765-771,TRUSTCOM,Unranked
+147,Multi-Rate Broadcasting: Analysis and Design of Stateless Algorithms.,2011,"Abhik Banerjee, Chuan Heng Foh, Chai Kiat Yeo, Bu-Sung Lee",VTC Fall 2011: 1-5,VTC,B
+148,Exploiting wireless broadcast advantage as a network-wide cache.,2011,"Abhik Banerjee, Chuan Heng Foh, Chai Kiat Yeo, Bu-Sung Lee",WiMob 2011: 490-497,WIMOB,Unranked
+149,μCloud: Towards a New Paradigm of Rich Mobile Applications.,2011,"Verdi March, Yan Gu, Erwin Leonardi, George Goh, Markus Kirchberg, Bu-Sung Lee",ANT/MobiWIS 2011: 618-624,PROCEDIA,Unranked
+150,From Linked Data to Relevant Data -- Time is the Essence.,2011,"Markus Kirchberg, Ryan K. L. Ko, Bu-Sung Lee",CoRR abs/1103.5046 ,CORR,Unranked
+151,Self-Organization of Wireless Ad Hoc Networks as Small Worlds Using Long Range Directional Beams.,2011,"Abhik Banerjee, Rachit Agarwal, Vincent Gauthier, Chai Kiat Yeo, Hossam Afifi, Bu-Sung Lee",CoRR abs/1109.5338 ,CORR,Unranked
+152,Self-organization of Nodes using Bio-Inspired Techniques for Achieving Small World Properties.,2011,"Rachit Agarwal, Abhik Banerjee, Vincent Gauthier, Monique Becker, Chai Kiat Yeo, Bu-Sung Lee",CoRR abs/1109.5959 ,CORR,Unranked
+153,Achieving Small World Properties using Bio-Inspired Techniques in Wireless Networks.,2011,"Rachit Agarwal, Abhik Banerjee, Vincent Gauthier, Monique Becker, Chai Kiat Yeo, Bu-Sung Lee",CoRR abs/1111.4807 ,CORR,Unranked
+154,CARRADS: Cross layer based adaptive real-time routing attack detection system for MANETS.,2010,"John Felix Charles Joseph, Amitabha Das, Bu-Sung Lee, Boon-Chong Seet",Comput. Networks 54: 1126-1141 ,CN,National
+155,Efficient DSR route request flooding with directional antennas.,2010,"Rully Adrian Santosa, Bu-Sung Lee, Chai Kiat Yeo",Comput. Networks 54: 2293-2309 ,CN,National
+156,Environment-aware QoS framework for multi-interface terminal.,2010,"Widyo Cahyono Andi, Chai Kiat Yeo, Bu-Sung Lee",Comput. Commun. 33: 1049-1055 ,COMCOM,Unranked
+157,A model to predict the optimal performance of the Hierarchical Data Grid.,2010,"Junwei Zhang, Bu-Sung Lee, Xueyan Tang, Chai Kiat Yeo",Future Gener. Comput. Syst. 26: 1-11 ,FGCS,Unranked
+158,Enabling inter-PMIPv6-domain handover with traffic distributors.,2010,"Feng Zhong, Chai Kiat Yeo, Bu-Sung Lee",J. Netw. Comput. Appl. 33: 397-409 ,JNCA,Unranked
+159,A Service/Device Differentiation Scheme for Contention-Tone-Based Wireless LAN Protocol.,2010,"Abhik Banerjee, Juki Wirawan Tantra, Chuan Heng Foh, Chai Kiat Yeo, Bu-Sung Lee",IEEE Trans. Veh. Technol. 59: 3872-3885 ,TVT,Unranked
+160,A Network Lifetime Aware Cooperative MAC Scheme for 802.11b Wireless Networks.,2010,"Abhik Banerjee, Chuan Heng Foh, Chai Kiat Yeo, Bu-Sung Lee",CCNC 2010: 1-5,CCNC,Unranked
+161,Controlling Route Discovery for Efficient Routing in Resource-Constrained Sensor Networks.,2010,"Abhik Banerjee, Juki Wirawan Tantra, Chuan Heng Foh, Chai Kiat Yeo, Bu-Sung Lee",CCNC 2010: 1-2,CCNC,Unranked
+162,A Disruption Tolerant Mobility Architecture Towards Convergent Terminal Mobility.,2010,"Yang Xia, Chai Kiat Yeo, Bu-Sung Lee",CCNC 2010: 1-6,CCNC,Unranked
+163,Enabling Inter-PMIPv6-Domain Handover with Traffic Distributors.,2010,"Feng Zhong, Shengbo Yang, Chai Kiat Yeo, Bu-Sung Lee",CCNC 2010: 1-5,CCNC,Unranked
+164,Performance modeling for runtime kernel adaptation: A case study on infectious disease simulation.,2010,"Jiangming Jin, Stephen John Turner, Bu-Sung Lee, Shyh-Hao Kuo, Rick Siow Mong Goh, Terence Hung",GRID 2010: 349-358,GRID,Unranked
+165,Video coding using the most common frame in scene.,2010,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",ICASSP 2010: 734-737,ICASSP,Unranked
+166,Two dimensional Singular Value Decomposition (2D-SVD) based video coding.,2010,"Zhouye Gu, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau, Manoranjan Paul",ICIP 2010: 181-184,ICIP,B
+167,Comparison between H.264/AVC and Motion jpeg2000 for super-high definition video coding.,2010,"Chenwei Deng, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau, Manoranjan Paul",ICIP 2010: 2037-2040,ICIP,B
+168,Pattern based video coding with uncovered background.,2010,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",ICIP 2010: 2065-2068,ICIP,B
+169,Robust image compression based on compressive sensing.,2010,"Chenwei Deng, Weisi Lin, Bu-Sung Lee, Chiew Tong Lau",ICME 2010: 462-467,ICMCS,Unranked
+170,McFIS: Better I-frame for video coding.,2010,"Manoranjan Paul, Weisi Lin, Chiew Tong Lau, Bu-Sung Lee",ISCAS 2010: 2171-2174,ISCAS,Unranked
+171,Availability and effectiveness of root DNS servers: A long term study.,2010,"Bu-Sung Lee, Yu Shyang Tan, Yuji Sekiya, Atsushi Narishige, Susumu Date",NOMS 2010: 862-865,NOMS,B
+172,Robust cloud resource provisioning for cloud computing environments.,2010,"Sivadon Chaisiri, Bu-Sung Lee, Dusit Niyato",SOCA 2010: 1-8,SOCA,C
+173,Robust Geographic Routing with Virtual Destination Based Void Handling for MANETs.,2010,"Shengbo Yang, Chai Kiat Yeo, Bu-Sung Lee",VTC Spring 2010: 1-5,VTC,B
+174,Efficient channel assignment and routing protocol for multiple channels multiple interfaces wireless mesh network.,2010,"Trung-Tuan Luong, Bu-Sung Lee, Chai Kiat Yeo, Andreas Kassler",Wireless Days 2010: 1-5,WD,C
+175,A dynamic admission control scheme to manage contention on shared computing resources.,2009,"Percival Xavier, Wentong Cai, Bu-Sung Lee",Concurr. Comput. Pract. Exp. 21: 133-158 ,CONCURRENCY,Unranked
+176,A fuzzy neural network with fuzzy impact grades.,2009,"Hengjie Song, Chunyan Miao, Zhiqi Shen, Yuan Miao, Bu-Sung Lee",Neurocomputing 72: 3098-3122 ,IJON,Unranked
+177,A terminal-assisted route optimized NEMO management.,2009,"Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo, Juki Wirawan Tantra, Yang Xia",Telecommun. Syst. 42: 263-272 ,TELSYS,Unranked
+178,TMSP: Terminal Mobility Support Protocol.,2009,"Teck Meng Lim, Chai Kiat Yeo, Francis Bu-Sung Lee, Quang Vinh Le",IEEE Trans. Mob. Comput. 8: 849-863 ,TMC,Unranked
+179,Optimal virtual machine placement across multiple cloud providers.,2009,"Sivadon Chaisiri, Bu-Sung Lee, Dusit Niyato",APSCC 2009: 103-110,APSCC,C
+180,Economic analysis of resource market in cloud computing environment.,2009,"Dusit Niyato, Sivadon Chaisiri, Bu-Sung Lee",APSCC 2009: 156-162,APSCC,C
+181,Optimal Power Management for Server Farm to Support Green Computing.,2009,"Dusit Niyato, Sivadon Chaisiri, Bu-Sung Lee",CCGRID 2009: 84-91,CCGRID,B
+182,Position Based Opportunistic Routing for Robust Data Delivery in MANETs.,2009,"Shengbo Yang, Feng Zhong, Chai Kiat Yeo, Bu-Sung Lee, Jeff Boleng",GLOBECOM 2009: 1-6,GLOBECOM,B
+183,Algorithms to minimize channel interference in multiple channels multiple interfaces environments.,2009,"Trung-Tuan Luong, Bu-Sung Lee, Chai Kiat Yeo, Ming-Shiunn Wong, Shigeki Goto",LCN 2009: 61-68,LCN,B
+184,Adaptive Randomized Epidemic Routing for Disruption Tolerant Networks.,2009,"Xin Wang, Yantai Shu, Zhigang Jin, Qingfen Pan, Bu-Sung Lee",MSN 2009: 424-429,MSN,Unranked
+185,An efficient framework for local mobility.,2009,"Feng Zhong, Yang Xia, Chai Kiat Yeo, Bu-Sung Lee, Teck Meng Lim",WCNC 2009: 2396-2401,WCNC,B
+186,Dual-Interface Multiple Channels DSDV Protocol.,2009,"Trung-Tuan Luong, Bu-Sung Lee, Chai Kiat Yeo",WiMob 2009: 104-109,WIMOB,Unranked
+187,Security Threats in Ad Hoc Routing Protocols.,2009,"John Felix Charles Joseph, Amitabha Das, Bu-Sung Lee",Guide to Wireless Ad Hoc Networks 2009: 455-472,CCN,Unranked
+188,Opening the Pandora's Box: Exploring the fundamental limitations of designing intrusion detection for MANET routing attacks.,2008,"John Felix Charles Joseph, Amitabha Das, Boon-Chong Seet, Bu-Sung Lee",Comput. Commun. 31: 3178-3189 ,COMCOM,Unranked
+189,A survey of agent-oriented software engineering for service-oriented computing.,2008,"Peter Leong, Chunyan Miao, Bu-Sung Lee",Int. J. Web Eng. Technol. 4: 367-385 ,IJWET,Unranked
+190,An Efficient Scheme to Discover Neighbors Beyond Omnidirectional Transmission Range.,2008,"Rully Adrian Santosa, Bu-Sung Lee, Chai Kiat Yeo, Teck Meng Lim",CCNC 2008: 18-22,CCNC,Unranked
+191,Seamless Mobility Across Heterogeneous Wireless Domains.,2008,"Juki Wirawan Tantra, Mai Ngoc Son, Dang Duc Nguyen, Teck Meng Lim, Chai Kiat Yeo, Bu-Sung Lee",CCNC 2008: 84-88,CCNC,Unranked
+192,Impact of Parallel Download on Job Scheduling in Data Grid Environment.,2008,"Junwei Zhang, Bu-Sung Lee, Xueyan Tang, Chai Kiat Yeo",GCC 2008: 102-109,GCC,Unranked
+193,Content and Overlay-Aware Transmission Scheduling in Peer-to-Peer Streaming.,2008,"Jiaming Li, Chai Kiat Yeo, Bu-Sung Lee",GLOBECOM 2008: 1780-1784,GLOBECOM,B
+194,A Mobility Management Scheme with QoS Support for Heterogeneous Multihomed Mobile Nodes.,2008,"Dang Duc Nguyen, Yang Xia, Mai Ngoc Son, Chai Kiat Yeo, Bu-Sung Lee",GLOBECOM 2008: 5345-5340,GLOBECOM,B
+195,A mobile SIP: IP mobility support using SIP.,2008,"Chai Kiat Yeo, Bu-Sung Lee, Feng Zhong",ICUIMC 2008: 125-129,ICUIMC,Unranked
+196,Fast scheduling on P2P streaming overlay.,2008,"Jiaming Li, Chai Kiat Yeo, Bu-Sung Lee",ICUIMC 2008: 242-246,ICUIMC,Unranked
+197,Channel Allocation for Multiple Channels Multiple Interfaces Communication in Wireless Ad Hoc Networks.,2008,"Trung-Tuan Luong, Bu-Sung Lee, Chai Kiat Yeo",Networking 2008: 87-98,NETWORKING,Unranked
+198,Efficient QoS Differentiation in Crowded Wireless LANs.,2008,"Abhik Banerjee, Juki Wirawan Tantra, Chai Kiat Yeo, Bu-Sung Lee",VTC Spring 2008: 1806-1810,VTC,B
+199,CRADS: Integrated Cross Layer Approach for Detecting Routing Attacks in MANETs.,2008,"John Felix Charles Joseph, Amitabha Das, Boon-Chong Seet, Bu-Sung Lee",WCNC 2008: 1525-1530,WCNC,B
+200,"NETWORKING 2008, Ad Hoc and Sensor Networks, Wireless Networks, Next Generation Internet , 7th International IFIP-TC6 Networking Conference, Singapore, May 5-9, 2008, Proceedings.",2008,"Amitabha Das, Hung Keng Pung, Francis Bu-Sung Lee, Lawrence Wai-Choong Wong","Lecture Notes in Computer Science 4982, Springer 2008, ISBN 978-3-540-79548-3 ",NETWORKING,Unranked
+201,Efficient Hierarchical Parallel Genetic Algorithms using Grid computing.,2007,"Dudy Lim, Yew-Soon Ong, Yaochu Jin, Bernhard Sendhoff, Bu-Sung Lee",Future Gener. Comput. Syst. 23: 658-670 ,FGCS,Unranked
+202,Effectiveness of Explicit Stations Grouping in Crowded Wireless LANs.,2007,"Juki Wirawan Tantra, Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo",IEEE Commun. Lett. 11: 659-661 ,ICL,Unranked
+203,Lessons learned through driving science applications in the PRAGMA grid.,2007,"Cindy Zheng, Mason J. Katz, Philip M. Papadopoulos, David Abramson, Shahaan Ayyub, Colin Enticott, Slavisa Garic, Wojtek Goscinski, Peter W. Arzberger, Bu-Sung Lee, Sugree Phatanapherom, Somsak Sriprayoonsakul, Putchong Uthayopas, Yoshio Tanaka, Yusuke Tanimura",Int. J. Web Grid Serv. 3: 287-312 ,IJWGS,Unranked
+204,Memetic algorithm using multi-surrogates for computationally expensive optimization problems.,2007,"Zongzhao Zhou, Yew-Soon Ong, Meng-Hiot Lim, Bu-Sung Lee",Soft Comput. 11: 957-971 ,SOCO,Unranked
+205,Quantum-Based Earliest Deadline First Scheduling for Multiservices.,2007,"Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo",IEEE Trans. Multim. 9: 157-168 ,TMM,Unranked
+206,Critical causal order of events in distributed virtual environments.,2007,"Suiping Zhou, Wentong Cai, Stephen John Turner, Bu-Sung Lee, Junhu Wei",ACM Trans. Multim. Comput. Commun. Appl. 3: 15 ,TOMCCAP,Unranked
+207,Grid-based PSE for Engineering of Materials (GPEM).,2007,"Mohamed Salahuddin, Terence Hung, Harold Soh, Endang Sulaiman, Yew-Soon Ong, Bu-Sung Lee, Ren Yunxia",CCGRID 2007: 309-316,CCGRID,B
+208,Enhanced Ad Hoc Qs: MAC-Independent Adaptive Traffic Differentiation in IEEE 802.11-Based Ad Hoc Networks.,2007,"Amir Mowlaei, Bu-Sung Lee, Teck Meng Lim",CCNC 2007: 64-68,CCNC,Unranked
+209,Playing in the Objective Space: Coupled Approximators for Multi-Objective Optimization.,2007,"Harold Soh, Yew-Soon Ong, Mohamed Salahuddin, Terence Hung, Bu-Sung Lee",MCDM 2007: 325-332,CIMCDM,Unranked
+210,Semi-Markov Modeling for Bandwidth Sharing of TCP Connections with Asymmetric AIMD Congestion Control.,2007,"Cheng Peng Fu, Chuan Heng Foh, Chiew Tong Lau, Zhihong Man, Bu-Sung Lee",GLOBECOM 2007: 2014-2018,GLOBECOM,B
+211,National Grid+NRENs in ASEAN region: a snap shot.,2007,Bu-Sung Lee,GridNets 2007: 20,GRIDNETS,Unranked
+212,Hybrid Protocol for Application Level Multicast for Live Video Streaming.,2007,"Chai Kiat Yeo, Bu-Sung Lee, Meng Hwa Er",ICC 2007: 1685-1691,ICC,Unranked
+213,A Mobility Scheme for Personal and Terminal Mobility.,2007,"Bu-Sung Lee, Teck Meng Lim, Chai Kiat Yeo, Quang Vinh Le",ICC 2007: 1815-1820,ICC,Unranked
+214,Peer-to-Peer Streaming Scheduling to Improve Real-Time Latency.,2007,"Jiaming Li, Chai Kiat Yeo, Bu-Sung Lee",ICME 2007: 36-39,ICMCS,Unranked
+215,Cross Layer versus Single Layer Approaches for Intrusion Detection in MANETs.,2007,"John Felix Charles Joseph, Amitabha Das, Boon-Chong Seet, Bu-Sung Lee",ICON 2007: 194-199,ICON,Unranked
+216,Service Differentiation in Wireless Networks: Adaptive Ad Hoc Qs Versus IEEE 802.11e.,2007,"Amir Mowlaei, Bu-Sung Lee, Teck Meng Lim, Chai Kiat Yeo",ICON 2007: 306-311,ICON,Unranked
+217,A terminal-assisted route optimized NEMO management.,2007,"Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo, Juki Wirawan Tantra",MOBIWAC 2007: 84-90,MOBIWAC,Unranked
+218,Terminal-Assisted Network Mobility Management.,2007,"Teck Meng Lim, Juki Wirawan Tantra, Bu-Sung Lee, Chai Kiat Yeo, Yang Xia",WCNC 2007: 3664-3669,WCNC,B
+219,ICON 04 special issue message.,2006,"Lawrence W. C. Wong, Lee Yee Lau, Hung Keng Pung, Francis Bu-Sung Lee",Comput. Commun. 29: 1241-1242 ,COMCOM,Unranked
+220,HDA: A hierarchical data aggregation scheme for sensor networks.,2006,"Bin Zhou, Lek Heng Ngoh, Bu-Sung Lee, Cheng Peng Fu",Comput. Commun. 29: 1292-1299 ,COMCOM,Unranked
+221,The impact of data replication on job scheduling performance in the Data Grid.,2006,"Ming Tang, Bu-Sung Lee, Xueyan Tang, Chai Kiat Yeo",Future Gener. Comput. Syst. 22: 254-268 ,FGCS,Unranked
+222,Inverse multi-objective robust evolutionary design.,2006,"Dudy Lim, Yew-Soon Ong, Yaochu Jin, Bernhard Sendhoff, Bu-Sung Lee",Genet. Program. Evolvable Mach. 7: 383-404 ,GPEM,Unranked
+223,Edge-to-Edge Quality-of-Service Domain.,2006,"Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo",IEICE Trans. Commun. 89-B: 1554-1569 ,IEICET,Unranked
+224,Workload management of cooperatively federated computing clusters.,2006,"Percival Xavier, Wentong Cai, Bu-Sung Lee",J. Supercomput. 36: 309-322 ,TJS,Unranked
+225,Distributed Neighbor Discovery in Ad Hoc Networks Using Directional Antennas.,2006,"Rully Adrian Santosa, Bu-Sung Lee, Chai Kiat Yeo, Teck Meng Lim",CIT 2006: 97,IEEECIT,Unranked
+226,Agent Oriented Software Engineering for Grid Computing.,2006,"Peter Leong, Chunyan Miao, Bu-Sung Lee",CCGRID 2006: 2,CCGRID,B
+227,The PRAGMA Testbed - Building a Multi-Application International Grid.,2006,"Cindy Zheng, David Abramson, Peter W. Arzberger, Shahaan Ayyub, Colin Enticott, Slavisa Garic, Mason J. Katz, Jae-Hyuck Kwak, Bu-Sung Lee, Philip M. Papadopoulos, Sugree Phatanapherom, Somsak Sriprayoonsakul, Yoshio Tanaka, Yusuke Tanimura, Osamu Tatebe, Putchong Uthayopas",CCGRID 2006: 57,CCGRID,B
+228,Analysis of Jobs in a Multi-Organizational Grid Test-bed.,2006,"Bu-Sung Lee, Ming Tang, Junwei Zhang, Yew-Soon Ong, Cindy Zheng, Peter W. Arzberger, David Abramson",CCGRID 2006: 59,CCGRID,B
+229,Adaptive Policing for Token-Exchange Based Management of Shared Computing Resources.,2006,"Percival Xavier, Wentong Cai, Bu-Sung Lee",CCGRID 2006: 617-624,CCGRID,B
+230,A Repository Adapter for Resource Management Information.,2006,"T. M. Ong, Liang-Tien Chia, Bu-Sung Lee",CCGRID 2006: 641-644,CCGRID,B
+231,An Event-Driven Sports Video Adaptation for the MPEG-21 DIA Framework.,2006,"Min Xu, Jiaming Li, Yiqun Hu, Liang-Tien Chia, Bu-Sung Lee, Deepu Rajan, Jianfei Cai",ICME 2006: 1245-1248,ICMCS,Unranked
+232,Event on demand with MPEG-21 video adaptation system.,2006,"Min Xu, Jiaming Li, Liang-Tien Chia, Yiqun Hu, Bu-Sung Lee, Deepu Rajan, Jesse S. Jin",ACM Multimedia 2006: 921-930,MM,Unranked
+233,An improved distortion model for rate control of DCT-based video coding.,2006,"Jun Xie, Liang-Tien Chia, Bu-Sung Lee",MMM 2006,MMM,B
+234,DSR with Non-Optimal Route Suppression for MANETs.,2006,"Boon-Chong Seet, Bu-Sung Lee, Chiew Tong Lau",CoRR abs/cs/0605134 ,CORR,Unranked
+235,Weighted deficit earliest departure first scheduling.,2005,"Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo",Comput. Commun. 28: 1711-1720 ,COMCOM,Unranked
+236,Dynamic replication algorithms for the multi-tier Data Grid.,2005,"Ming Tang, Bu-Sung Lee, Chai Kiat Yeo, Xueyan Tang",Future Gener. Comput. Syst. 21: 775-790 ,FGCS,Unranked
+237,Network connectivity of one-dimensional MANETs with random waypoint movement.,2005,"Chuan Heng Foh, Genping Liu, Bu-Sung Lee, Boon-Chong Seet, Kai Juan Wong, Cheng Peng Fu",IEEE Commun. Lett. 9: 31-33 ,ICL,Unranked
+238,Packet triplet: a novel approach to estimate path capacity.,2005,"Zixuan Zou, Bu-Sung Lee, Cheng Peng Fu, Jie Song",IEEE Commun. Lett. 9: 1076-1078 ,ICL,Unranked
+239,Multicast congestion control scheme over wireless access links: problem and enhancement.,2005,"Yan Liu, Cheng Peng Fu, Zongkai Yang, Bu-Sung Lee",Int. J. Internet Protoc. Technol. 1: 40-49 ,IJIPT,Unranked
+240,Semantics in Service Discovery and QoS Measurement.,2005,"Chen Zhou, Liang-Tien Chia, Bu-Sung Lee",IT Prof. 7: 29-34 ,ITPRO,Unranked
+241,Web Services Discovery with DAML-QoS Ontology.,2005,"Chen Zhou, Liang-Tien Chia, Bu-Sung Lee",Int. J. Web Serv. Res. 2: 43-66 ,JWSR,Unranked
+242,A Hybrid Analysis of an Optimization Approach for Cluster Applications.,2005,"Ming Zhu, Wentong Cai, Bu-Sung Lee, Xudong Wu",J. Supercomput. 32: 191-215 ,TJS,Unranked
+243,An alternative time management mechanism for distributed simulations.,2005,"Wentong Cai, Stephen John Turner, Bu-Sung Lee, Junlan Zhou",ACM Trans. Model. Comput. Simul. 15: 109-137 ,TOMACS,Unranked
+244,Employing economics to achieve fairness in usage policing of cooperatively shared computing resources.,2005,"Percival Xavier, Wentong Cai, Bu-Sung Lee",CCGRID 2005: 326-333,CCGRID,B
+245,Grid Enabled Optimization.,2005,"Hee-Khiang Ng, Yew-Soon Ong, Terence Hung, Bu-Sung Lee",EGC 2005: 296-304,EGC,Unranked
+246,Combining Data Replication Algorithms and Job Scheduling Heuristics in the Data Grid.,2005,"Ming Tang, Bu-Sung Lee, Xueyan Tang, Chai Kiat Yeo",Euro-Par 2005: 381-390,EUROPAR,Unranked
+247,Inverse multi-objective robust evolutionary design optimization in the presence of uncertainty.,2005,"Dudy Lim, Yew-Soon Ong, Bu-Sung Lee",GECCO Workshops 2005: 55-62,GECCO,A
+248,A refinement to improve TCP Veno performance under bursty congestion.,2005,"Zixuan Zou, Cheng Peng Fu, Bu-Sung Lee",GLOBECOM 2005: 5,GLOBECOM,B
+249,IPv6 network mobility for flat ad hoc routing protocol.,2005,"Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo",GLOBECOM 2005: 6,GLOBECOM,B
+250,QoS Measurement Issues with DAML-QoS Ontology.,2005,"Chen Zhou, Liang-Tien Chia, Bu-Sung Lee",ICEBE 2005: 395-403,ICEBE,Unranked
+251,A Multi-cluster Grid Enabled Evolution Framework for Aerodynamic Airfoil Design Optimization.,2005,"Hee-Khiang Ng, Dudy Lim, Yew-Soon Ong, Bu-Sung Lee, Lars Freund, Shuja Parvez, Bernhard Sendhoff",ICNC  2005: 1112-1121,ICNC,National
+252,Pervasive Communication for Commuters in Public Buses.,2005,"Teck Meng Lim, Boon-Chong Seet, Bu-Sung Lee, Chai Kiat Yeo, Andreas Kassler",PerCom Workshops 2005: 75-79,PERCOM,A*
+253,A Mobile System of Super-Peers Using City Buses.,2005,"Boon-Chong Seet, Chiew Tong Lau, Wen-Jing Hsu, Bu-Sung Lee",PerCom Workshops 2005: 80-85,PERCOM,A*
+254,Service discovery and measurement based on DAML-QoS ontology.,2005,"Chen Zhou, Liang-Tien Chia, Bu-Sung Lee",WWW  2005: 1070-1071,WWW,A*
+255,A survey of application level multicast techniques.,2004,"Chai Kiat Yeo, Bu-Sung Lee, Meng Hwa Er",Comput. Commun. 27: 1547-1568 ,COMCOM,Unranked
+256,Characterization and delivery of directly coupled causal messages in distributed systems.,2004,"Yi Zeng, Wentong Cai, Stephen John Turner, Suiping Zhou, Bu-Sung Lee",Future Gener. Comput. Syst. 20: 171-178 ,FGCS,Unranked
+257,QoS support and service differentiation in wireless networks.,2004,"Aftab Ahmad, Giuseppe Bianchi, Larry Bernstein, Gábor Fodor, Guy Pujolle, Bu-Sung Lee, Yu-Dong Yao",Int. J. Commun. Syst. 17: 507-512 ,IJCOMSYS,Unranked
+258,Out-of-band polling scheme for QoS support in wireless LANs.,2004,"Teck Meng Lim, Juki Wirawan Tantra, Chuan Heng Foh, Bu-Sung Lee",Int. J. Commun. Syst. 17: 643-661 ,IJCOMSYS,Unranked
+259,QoS-Aware and Federated Enhancement for UDDI.,2004,"Chen Zhou, Liang-Tien Chia, Bu-Sung Lee",Int. J. Web Serv. Res. 1: 58-85 ,JWSR,Unranked
+260,Key Messaging on SOME-Bus clusters.,2004,"Ming Zhu, Constantine Katsinis, Wentong Cai, Bu-Sung Lee",Parallel Comput. 30: 947-971 ,PC,Unranked
+261,Secure communications between bandwidth brokers.,2004,"Bu-Sung Lee, Wing-Keong Woo, Chai Kiat Yeo, Teck Meng Lim, Bee-Hwa Lim, Yuxiong He, Jie Song",ACM SIGOPS Oper. Syst. Rev. 38: 43-57 ,SIGOPS,Unranked
+262,Time-space consistency in large-scale distributed virtual environments.,2004,"Suiping Zhou, Wentong Cai, Bu-Sung Lee, Stephen John Turner",ACM Trans. Model. Comput. Simul. 14: 31-47 ,TOMACS,Unranked
+263,A service-oriented approach for aerodynamic shape optimisation across institutional boundaries.,2004,"Wenbin Song, Yew-Soon Ong, Hee-Khiang Ng, Andy J. Keane, Simon J. Cox, Bu-Sung Lee",ICARCV 2004: 2274-2279,ICARCV,C
+264,A closed form network connectivity formula one-dimensional MANETs.,2004,"Chuan Heng Foh, Bu-Sung Lee",ICC 2004: 3739-3742,ICC,Unranked
+265,Optimum bit allocation for fgs video coding.,2004,"Jun Xie, Liang-Tien Chia, Bu-Sung Lee",ICIP 2004: 2295-2298,ICIP,B
+266,Performance of New Broadcast Forwarding Criteria in MANET.,2004,"Lijuan Zhu, Bu-Sung Lee, Boon-Chong Seet, Kai Juan Wong, Genping Liu, Shell-Ying Huang, Keok-Kee Lee",ICOIN 2004: 34-43,ICOIN,Unranked
+267,A Routing Strategy for Metropolis Vehicular Communications.,2004,"Genping Liu, Bu-Sung Lee, Boon-Chong Seet, Chuan Heng Foh, Kai Juan Wong, Keok-Kee Lee",ICOIN 2004: 134-143,ICOIN,Unranked
+268,Entropy-minimization clustering technique for probabilistic packet marking scheme.,2004,"Wei-Peng Tan, Bu-Sung Lee, Henry C. J. Lee",ICON 2004: 292-298,ICON,Unranked
+269,A hierarchical scheme for data aggregation in sensor network.,2004,"Bin Zhou, Lek Heng Ngoh, Bu-Sung Lee, Cheng Peng Fu",ICON 2004: 525-529,ICON,Unranked
+270,An epidemiology-inspired approach for modeling broadcast route discovery in wireless ad hoc networks.,2004,"Boon-Chong Seet, Bu-Sung Lee, Chiew Tong Lau",ICON 2004: 535-539,ICON,Unranked
+271,Packet loss and congestion state in TCP Veno.,2004,"Zixuan Zou, Bu-Sung Lee, Cheng Peng Fu",ICON 2004: 731-735,ICON,Unranked
+272,Dual-rate quantum-controlled scheduling.,2004,"Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo",ICON 2004: 750-754,ICON,Unranked
+273,DAML-QoS Ontology for Web Services.,2004,"Chen Zhou, Liang-Tien Chia, Bu-Sung Lee",ICWS 2004: 472-479,ICWS,A
+274,Managing Irregular Workloads of Cooperatively Shared Computing Clusters.,2004,"Percival Xavier, Wentong Cai, Bu-Sung Lee",ISPA 2004: 625-634,ISPA,C
+275,A-STAR: A Mobile Ad Hoc Routing Strategy for Metropolis Vehicular Communications.,2004,"Boon-Chong Seet, Genping Liu, Bu-Sung Lee, Chuan Heng Foh, Kai Juan Wong, Keok-Kee Lee",NETWORKING 2004: 989-999,NETWORKING,Unranked
+276,"GAD Kit - A Toolkit for ""Gridifying"" Applications.",2004,"Quoc-Thuan Ho, Yew-Soon Ong, Wentong Cai, Hee-Khiang Ng, Bu-Sung Lee",PDCAT 2004: 868-871,PDCAT,C
+277,An enhancement of multicast congestion control over hybrid wired/wireless networks.,2004,"Yan Liu, Cheng Peng Fu, Zongkai Yang, Bu-Sung Lee",WCNC 2004: 2563-2568,WCNC,B
+278,"12th IEEE International Conference on Networks, ICON 2004, Singapore, November 16-19 2004.",2004,"Hung Keng Pung, Francis Bu-Sung Lee, Chen-Kong Tham, Saira Kuttan","IEEE 2004, ISBN 0-7803-8783-X ",ICON,Unranked
+279,Key Message Approach to Optimize Communication of Parallel Applications on Clusters.,2003,"Ming Zhu, Wentong Cai, Bu-Sung Lee",Clust. Comput. 6: 253-265 ,CLUSTER,B
+280,On optimizing route discovery of topology-based on-demand routing protocols for ad hoc networks.,2003,"Boon-Chong Seet, Bu-Sung Lee, Chiew Tong Lau",J. Commun. Networks 5: 266-274 ,JCN,Unranked
+281,A framework for multicast video streaming over IP networks.,2003,"Chai Kiat Yeo, Bu-Sung Lee, Meng Hwa Er",J. Netw. Comput. Appl. 26: 273-289 ,JNCA,Unranked
+282,Path and Oracle Discovery Protocol for Centralized Bandwidth Reservation Mechanisms.,2003,"Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo",J. Netw. Syst. Manag. 11: 447-468 ,JNSM,Unranked
+283,Design and Implementation of a Java-based Meeting Space over Internet.,2003,"Bu-Sung Lee, Chai Kiat Yeo, Ing Yann Soon, Keok-Kee Lee, Sun Wei",Multim. Tools Appl. 20: 179-195 ,MTA,Unranked
+284,Design and Development of a Cluster Gateway for Cluster-based HLA Distributed Virtual Simulation Environments.,2003,"Dan Chen, Bu-Sung Lee, Wentong Cai, Stephen John Turner",Annual Simulation Symposium 2003: 193-200,ANSS,Unranked
+285,Resource Co-allocation for Parallel Tasks in Computational Grids.,2003,"Lizhe Wang, Wentong Cai, Bu-Sung Lee, Simon See, Wei Jie",CLADE 2003: 88,CLADE,Unranked
+286,TCP Veno revisited.,2003,"Cheng Peng Fu, William Lu, Bu-Sung Lee",GLOBECOM 2003: 3253-3258,GLOBECOM,B
+287,Weighted deficit earliest departure first scheduling.,2003,"Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo",ICON 2003: 437-442,ICON,Unranked
+288,Performance of Mobile Ad Hoc Network in Constrained Mobility Pattern.,2003,"Bu-Sung Lee, Kai Juan Wong, Boon-Chong Seet, Lijuan Zhu, Genping Liu",International Conference on Wireless Networks 2003: 92-97,ICWN,Unranked
+289,UX- An Architecture Providing QoS-Aware and Federated Support for UDDI.,2003,"Chen Zhou, Liang-Tien Chia, Bilhanan Silverajan, Bu-Sung Lee",ICWS 2003: 171-176,ICWS,A
+290,A Decentralized Hierarchical Scheduler for a Grid-Based Clearinghouse.,2003,"Percival Xavier, Bu-Sung Lee, Wentong Cai",IPDPS 2003: 269,IPPS,Unranked
+291,An Enhanced SuperPoll Protocol for IEEE 802.11 PCF with rate differentiation.,2003,"Juki Wirawan Tantra, Teck Meng Lim, Chuan Heng Foh, Bu-Sung Lee",MWCN 2003,MWCN,Unranked
+292,Implementation of Federation Management Services over Federation Community Networks.,2003,"Wentong Cai, Guangya Li, Stephen John Turner, Bu-Sung Lee, Li Liu",PADS 2003: 50-60,PADS,B
+293,Resource Co-Allocation for Meta-Task in Computational Grids.,2003,"Lizhe Wang, Wentong Cai, Bu-Sung Lee, Simon See, Wei Jie",PDPTA 2003: 36-42,PDPTA,National
+294,The Performances of Replica Placement Algorithms on the Network.,2003,"Bu-Sung Lee, Ming Tang",PDPTA 2003: 831-837,PDPTA,National
+295,Hybrid quality adaptation mechanism for layered multicast over the internet.,2002,"Bu-Sung Lee, Chai Kiat Yeo, Ruijin Fu",J. Netw. Comput. Appl. 25: 145-159 ,JNCA,Unranked
+296,Causal Order Delivery in a Multicast Environment: An Improved Algorithm.,2002,"Wentong Cai, Bu-Sung Lee, Junlan Zhou",J. Parallel Distributed Comput. 62: 111-131 ,JPDC,Unranked
+297,Unicorn: voluntary computing over Internet.,2002,"T. M. Ong, Teck Meng Lim, Bu-Sung Lee, Chai Kiat Yeo",ACM SIGOPS Oper. Syst. Rev. 36: 36-51 ,SIGOPS,Unranked
+298,A peering architecture for ubiquitous IP multicast streaming.,2002,"Chai Kiat Yeo, Bu-Sung Lee, Meng Hwa Er",ACM SIGOPS Oper. Syst. Rev. 36: 82-95 ,SIGOPS,Unranked
+299,Automatic Construction of Hierarchical Federations Architecture.,2002,"Wentong Cai, Guangya Li, Stephen John Turner, Bu-Sung Lee, Li Liu",DS-RT 2002: 50-58,DSRT,Unranked
+300,An Overlay for Ubiquitous Streaming over Internet.,2002,"Chai Kiat Yeo, Bu-Sung Lee, Meng Hwa Er",NETWORKING 2002: 1239-1244,NETWORKING,Unranked
+301,A scalable architecture for supporting interactive games on the internet.,2002,"Wentong Cai, Percival Xavier, Stephen John Turner, Bu-Sung Lee",PADS 2002: 60-67,PADS,B
+302,An adaptive protocol for real-time fax communications over Internet.,2001,"Chai Kiat Yeo, Siu Cheung Hui, Ing Yann Soon, Bu-Sung Lee",Comput. Commun. 24: 1134-1146 ,COMCOM,Unranked
+303,The transmission of MPEG-2 VBR video under usage parameter control.,2001,"Wenjing Lou, Liang-Tien Chia, Bu-Sung Lee, Bin Wang",Int. J. Commun. Syst. 14: 125-146 ,IJCOMSYS,Unranked
+304,RQRP protocol for video delivery over IP.,2001,"Bu-Sung Lee, Chai Kiat Yeo, Sui Meng Poon, Jie Song",Int. J. Commun. Syst. 14: 885-896 ,IJCOMSYS,Unranked
+305,JBSP: A BSP Programming Library in Java.,2001,"Yan Gu, Bu-Sung Lee, Wentong Cai",J. Parallel Distributed Comput. 61: 1126-1142 ,JPDC,Unranked
+306,Comparison of Network Protocol and Architecture for Distributed Virtual Simulation Environment.,2001,"Bu-Sung Lee, Wentong Cai, Stephen John Turner, Jit-Beng Koh",ACM SIGOPS Oper. Syst. Rev. 35: 30-42 ,SIGOPS,Unranked
+307,Scalable layered MPEG-2 video multicast architecture.,2001,"Ruljin Fu, Bu-Sung Lee, Anil K. Gupta",IEEE Trans. Consumer Electron. 47: 55-62 ,TCE,Unranked
+308,Study of a Unicast Query Mechanism for Dynamic Source Routing in Mobile ad Hoc Networks.,2001,"Boon-Chong Seet, Bu-Sung Lee, Chiew Tong Lau",ICN  2001: 168-176,ICN,Unranked
+309,A New Consolidation Algorithm for Point-to-Multipoint ABR Service in ATM Networks.,2001,"Md. Shamsuzzaman, Anil K. Gupta, Bu-Sung Lee",ICN  2001: 815-824,ICN,Unranked
+310,A causality based time management mechanism for federated simulation.,2001,"Bu-Sung Lee, Wentong Cai, Junlan Zhou",Workshop on Parallel and Distributed Simulation 2001: 83-90,PADS,B
+311,Performance of buffer-based request-reply scheme for VoD streams over IP networks.,2000,"Sui Meng Poon, Jie Song, Bu-Sung Lee, Chai Kiat Yeo",Comput. Networks 34: 229-240 ,CN,National
+312,Power LAN MIB for management of intelligent telecommunication equipment.,2000,"Bu-Sung Lee, Chiew Tong Lau, Nicholas C. H. Vun",J. Netw. Comput. Appl. 23: 143-154 ,JNCA,Unranked
+313,JMS-Java-Based Meeting Space.,2000,"Wei Sun, Bu-Sung Lee, Chai Kiat Yeo",J. Organ. Comput. Electron. Commer. 10: 171-188 ,JOCEC,Unranked
+314,A DAVIC-based video-on-demand system over IP networks.,2000,"Sui Meng Poon, Bu-Sung Lee, Chai Kiat Yeo",IEEE Trans. Consumer Electron. 46: 6-15 ,TCE,Unranked
+315,Pricing based QoS control framework.,2000,"Jie Song, Bu-Sung Lee",ICON 2000: 302-306,ICON,Unranked
+316,XOR retransmission in multicast error recovery.,2000,"Yong Shen, Bu-Sung Lee",ICON 2000: 336-340,ICON,Unranked
+317,Performance Evaluation of a Communication Optimization Model in Network-Based Parallel Computing.,2000,"Ming Zhu, Wentong Cai, Bu-Sung Lee",ICPP Workshops 2000: 411-420,ICPPW,Unranked
+318,Performance Evaluation of JPVM.,1999,"Bu-Sung Lee, Yan Gu, Wentong Cai, Alfred Heng",Parallel Process. Lett. 9: 401-410 ,PPL,Unranked
+319,Evaluation of Java Thread Performance on Two Different Multithhreaded Kernels.,1999,"Yan Gu, Bu-Sung Lee, Wentong Cai",ACM SIGOPS Oper. Syst. Rev. 33: 34-46 ,SIGOPS,Unranked
+320,A DAVIC-based video-on-demand system over ATM networks.,1999,"Sui Meng Poon, Bu-Sung Lee, Chai Kiat Yeo",IEEE Trans. Consumer Electron. 45: 345-355 ,TCE,Unranked
+321,Performance Analysis of Packet Bundling Techniques in DIS.,1999,"Lawrence A. H. Liang, Wentong Cai, Bu-Sung Lee, Stephen John Turner",DIS-RT 1999: 75-,DSRT,Unranked
+322,Key Message Algorithm: A Communication Optimization Algorithm in Cluster-Based Parallel Computing.,1999,"Ming Zhu, Wentong Cai, Bu-Sung Lee",IWCC 1999: 121-,IWCC,Unranked
+323,SingAREN: the Singapore Advanced Research and Education Network.,1998,"Lek Heng Ngoh, Francis S. C. Yeoh, Manjeet Singh, Chen-Khong Tham, Akkihebbal L. Ananda, Tee-Hiang Cheng, Bu-Sung Lee",IEEE Commun. Mag. 36: 74-82 ,CM,Unranked
+324,File allocation with balanced response time in a distributed multi-server information system.,1998,"Wentong Cai, Bu-Sung Lee",Inf. Softw. Technol. 40: 27-35 ,INFSOF,Unranked
+325,Deployment of VCR services on a computer network.,1998,"Ee-Luang Ang, Syin Chan, Bu-Sung Lee",J. Netw. Comput. Appl. 21: 41-52 ,JNCA,Unranked
+326,Design and implementation of an MMS environment on ISODE.,1997,"Raymond Seng-Sim Cheah, Bu-Sung Lee, Raymond Long Lim",Comput. Commun. 20: 1354-1364 ,COMCOM,Unranked
+327,A Simulation Study of Dynamic Load Balancing for Network-based Parallel Processing.,1997,"Wentong Cai, Bu-Sung Lee, Alfred Heng, Li Zhu",ISPAN 1997: 383-389,ISPAN,Unranked
+328,An ATM-Enhanced Meeting System.,1997,"Tony K. Y. Chan, Bu-Sung Lee, Liang-Tien Chia, Lai Lai Tung, Chai Kiat Yeo",PDPTA 1997: 574-578,PDPTA,National
+329,Task Scheduling Facility for PVM.,1996,"Bu-Sung Lee, Alfred Heng, Wentong Cai, Tai-Ann Tan",Parallel Process. Lett. 6: 563-574 ,PPL,Unranked
+330,Performance of Task Allocation Algorithms in a Distributed Computing Environment.,1996,"Bu-Sung Lee, Wentong Cai, Alfred Heng, Seow Woon Tai",PDPTA 1996: 1323-1333,PDPTA,National
+331,NETBIOS implementation and performance study of different network operating systems.,1991,"Pheng-Kue Seet, Bu-Sung Lee, Robert Kheng Leng Gay",Comput. Commun. 14: 5-14 ,COMCOM,Unranked

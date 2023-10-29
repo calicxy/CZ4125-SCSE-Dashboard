@@ -1,0 +1,41 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Multiple Cooperative Attackers for Tag-Based Physical Layer Authentication.,2023,"Yufeng Cai, Wenya Wang, Yicong Chen, Haijun Tan, Ning Xie, Jiangzhou Wang",IEEE Commun. Mag. 61: 165-171 ,CM,Unranked
+1,Elaboration-Generating Commonsense Question Answering at Scale.,2023,"Wenya Wang, Vivek Srikumar, Hannaneh Hajishirzi, Noah A. Smith",ACL  2023: 1619-1635,ACL,A*
+2,Interpretable Multimodal Misinformation Detection with Logic Reasoning.,2023,"Hui Liu, Wenya Wang, Haoliang Li",ACL  2023: 9781-9796,ACL,A*
+3,Design and Implementation of Campus Surveillance System Based on ZLMediaKit.,2023,"Wenya Wang, Runyu Zhao, Jie Mei, Kan Zheng",ICALT 2023: 356-358,ICALT,B
+4,Vera: A General-Purpose Plausibility Estimation Model for Commonsense Statements.,2023,"Jiacheng Liu, Wenya Wang, Dianzhuo Wang, Noah A. Smith, Yejin Choi, Hannaneh Hajishirzi",CoRR abs/2305.03695 ,CORR,Unranked
+5,Interpretable Multimodal Misinformation Detection with Logic Reasoning.,2023,"Hui Liu, Wenya Wang, Haoliang Li",CoRR abs/2305.05964 ,CORR,Unranked
+6,HODOR: Shrinking Attack Surface on Node.js via System Call Limitation.,2023,"Wenya Wang, Xingwei Lin, Jingyi Wang, Wang Gao, Dawu Gu, Wei Lv, Jiashui Wang",CoRR abs/2306.13984 ,CORR,Unranked
+7,Predicting the potential human lncRNA-miRNA interactions based on graph convolution network with conditional random field.,2022,"Wenya Wang, Li Zhang, Jianqiang Sun, Qi Zhao, Jianwei Shuai",Briefings Bioinform. 23 ,BIB,Unranked
+8,Confidentiality-Preserving Edge-Based Wireless Communications for Contact Tracing Systems.,2022,"Ning Xie, Wenya Wang, Yicong Chen, Peichang Zhang, Lei Huang",IEEE J. Sel. Areas Commun. 40: 3152-3171 ,JSAC,Unranked
+9,Weakly Supervised Domain Adaptation for Aspect Extraction via Multilevel Interaction Transfer.,2022,"Tao Liang, Wenya Wang, Fengmao Lv",IEEE Trans. Neural Networks Learn. Syst. 33: 5818-5829 ,TNN,Unranked
+10,Deep Inductive Logic Reasoning for Multi-Hop Reading Comprehension.,2022,"Wenya Wang, Sinno Jialin Pan",ACL  2022: 4999-5009,ACL,A*
+11,Towards Multi-Modal Sarcasm Detection via Hierarchical Congruity Modeling with Knowledge Enhancement.,2022,"Hui Liu, Wenya Wang, Haoliang Li",EMNLP 2022: 4995-5006,EMNLP,A*
+12,Domain Confused Contrastive Learning for Unsupervised Domain Adaptation.,2022,"Quanyu Long, Tianze Luo, Wenya Wang, Sinno Jialin Pan",NAACL-HLT 2022: 2982-2995,NAACL,A
+13,Domain Confused Contrastive Learning for Unsupervised Domain Adaptation.,2022,"Quanyu Long, Tianze Luo, Wenya Wang, Sinno Jialin Pan",CoRR abs/2207.04564 ,CORR,Unranked
+14,Elaboration-Generating Commonsense Question Answering at Scale.,2022,"Wenya Wang, Vivek Srikumar, Hanna Hajishirzi, Noah A. Smith",CoRR abs/2209.01232 ,CORR,Unranked
+15,Towards Multi-Modal Sarcasm Detection via Hierarchical Congruity Modeling with Knowledge Enhancement.,2022,"Hui Liu, Wenya Wang, Haoliang Li",CoRR abs/2210.03501 ,CORR,Unranked
+16,Variational Deep Logic Network for Joint Inference of Entities and Relations.,2021,"Wenya Wang, Sinno Jialin Pan",Comput. Linguistics 47: 775-812 ,COLING,B
+17,Network Intrusion Detection Algorithm Combined with Group Convolution Network and Snapshot Ensemble.,2021,"Aili Wang, Wenya Wang, Huaming Zhou, Jian Zhang",Symmetry 13: 1814 ,SYMMETRY,Unranked
+18,Re-Check Your Certificates! Experiences and Lessons Learnt from Real-World HTTPS Certificate Deployments.,2021,"Wenya Wang, Yakang Li, Chao Wang, Yuan Yan, Juanru Li, Dawu Gu",NSS 2021: 17-37,NSS,B
+19,Network Intrusion Detection Combined Hybrid Sampling With Deep Hierarchical Network.,2020,"Kaiyuan Jiang, Wenya Wang, Aili Wang, Haibin Wu",IEEE Access 8: 32464-32476 ,ACCESS,Unranked
+20,Integrating Deep Learning with Logic Fusion for Information Extraction.,2020,"Wenya Wang, Sinno Jialin Pan",AAAI 2020: 9225-9232,AAAI,A*
+21,Deep Weighted MaxSAT for Aspect-based Opinion Extraction.,2020,"Meixi Wu, Wenya Wang, Sinno Jialin Pan",EMNLP  2020: 5618-5628,EMNLP,A*
+22,Weakly-supervised Domain Adaption for Aspect Extraction via Multi-level Interaction Transfer.,2020,"Tao Liang, Wenya Wang, Fengmao Lv",CoRR abs/2006.09235 ,CORR,Unranked
+23,Specific Emitter Identification Based on Deep Residual Networks.,2019,"Yiwei Pan, Sihan Yang, Hua Peng, Tianyun Li, Wenya Wang",IEEE Access 7: 54425-54434 ,ACCESS,Unranked
+24,Syntactically Meaningful and Transferable Recursive Neural Networks for Aspect and Opinion Extraction.,2019,"Wenya Wang, Sinno Jialin Pan",Comput. Linguistics 45: 705-736 ,COLING,B
+25,Deep Neural Network Quantization via Layer-Wise Optimization Using Limited Training Data.,2019,"Shangyu Chen, Wenya Wang, Sinno Jialin Pan",AAAI 2019: 3329-3336,AAAI,A*
+26,Transferable Interactive Memory Network for Domain Adaptation in Fine-Grained Opinion Extraction.,2019,"Wenya Wang, Sinno Jialin Pan",AAAI 2019: 7192-7199,AAAI,A*
+27,Cooperative Pruning in Cross-Domain Deep Neural Network Compression.,2019,"Shangyu Chen, Wenya Wang, Sinno Jialin Pan",IJCAI 2019: 2102-2108,IJCAI,A*
+28,MetaQuant: Learning to Quantize by Learning to Penetrate Non-differentiable Quantization.,2019,"Shangyu Chen, Wenya Wang, Sinno Jialin Pan",NeurIPS 2019: 3918-3928,NIPS,Unranked
+29,Integrating Deep Learning with Logic Fusion for Information Extraction.,2019,"Wenya Wang, Sinno Jialin Pan",CoRR abs/1912.03041 ,CORR,Unranked
+30,"Deep interactive learning for fine-grained opinion mining : single-domain, cross-domain & cross-lingual.",2018,Wenya Wang,"Nanyang Technological University, Singapore, 2018",NAN,Unranked
+31,Memory networks for fine-grained opinion mining.,2018,"Wenya Wang, Sinno Jialin Pan, Daniel Dahlmeier",Artif. Intell. 265: 1-17 ,AI,Australasian B
+32,Recursive Neural Structural Correspondence Network for Cross-domain Aspect and Opinion Co-Extraction.,2018,"Wenya Wang, Sinno Jialin Pan",ACL  2018: 2171-2181,ACL,A*
+33,A NN-based Feature Engineering Method and its Application in Analysis of User Behaviors on Internet.,2018,Wenya Wang,ICMLC 2018: 59-63,ICMLC2,Unranked
+34,Transition-based Adversarial Network for Cross-lingual Aspect Extraction.,2018,"Wenya Wang, Sinno Jialin Pan",IJCAI 2018: 4475-4481,IJCAI,A*
+35,Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms.,2017,"Wenya Wang, Sinno Jialin Pan, Daniel Dahlmeier, Xiaokui Xiao",AAAI 2017: 3316-3322,AAAI,A*
+36,Multi-task Coupled Attentions for Category-specific Aspect and Opinion Terms Co-extraction.,2017,"Wenya Wang, Sinno Jialin Pan, Daniel Dahlmeier",CoRR abs/1702.01776 ,CORR,Unranked
+37,Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis.,2016,"Wenya Wang, Sinno Jialin Pan, Daniel Dahlmeier, Xiaokui Xiao",EMNLP 2016: 616-626,EMNLP,A*
+38,Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis.,2016,"Wenya Wang, Sinno Jialin Pan, Daniel Dahlmeier, Xiaokui Xiao",CoRR abs/1603.06679 ,CORR,Unranked
+39,Homology modeling and molecular dynamics simulation of N-myristoyltransferase from protozoan parasites: active site characterization and insights into rational inhibitor design.,2009,"Chunquan Sheng, Haitao Ji, Zhenyuan Miao, Xiaoyin Che, Jianzhong Yao, Wenya Wang, Guoqiang Dong, Wei Guo, Jiaguo Lü, Wannian Zhang",J. Comput. Aided Mol. Des. 23: 375-389 ,JCAMD,Unranked

@@ -1,0 +1,300 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,DNN Model Theft Through Trojan Side-Channel on Edge FPGA Accelerator.,2023,"Srivatsan Chandrasekar, Siew-Kei Lam, Srikanthan Thambipillai",ARC 2023: 146-158,ARC,Unranked
+1,Reconfiguration algorithms for synchronous communication on switch based degradable arrays.,2022,"Yalan Wu, Jigang Wu, Peng Liu, Yinhe Han, Thambipillai Srikanthan",Parallel Comput. 111: 102901 ,PC,Unranked
+2,Traffic Speed Prediction of Road Cluster with Heterogeneous Sampling Frequency.,2022,"Guiyuan Jiang, Peilan He, Jigang Wu, Yidan Sun, Thambipillai Srikanthan",PAAP 2022: 1-6,PAAP,Unranked
+3,Longevity Framework: Leveraging Online Integrated Aging-Aware Hierarchical Mapping and VF-Selection for Lifetime Reliability Optimization in Manycore Processors.,2021,"Vijeta Rathore, Vivek Chaturvedi, Amit Kumar Singh, Thambipillai Srikanthan, Muhammad Shafique",IEEE Trans. Computers 70: 1106-1119 ,TC,Unranked
+4,Power-Efficient Mapping of Large Applications on Modern Heterogeneous FPGAs.,2021,"Kalindu Herath, Alok Prakash, Suhaib A. Fahmy, Thambipillai Srikanthan",IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 40: 2508-2521 ,TCAD,Unranked
+5,Incorporating Compiler Optimization in Software Estimation for FPGA-based Embedded Processors.,2021,"Deshya Wijesundera, Thilina Perera, Dilina Dehigama, Thambipillai Srikanthan",ICICT 2021: 137-141,ICICT2,Unranked
+6,Road-network aware Dynamic Workload Balancing Technique for Real-time Route Generation in On-Demand Public Transit.,2021,"Thilina Perera, Lahiru Wijerathna, Deshya Wijesundera, Thambipillai Srikanthan",SSCI 2021: 1-8,SSCI,Unranked
+7,Blockchain-based public auditing for big data in cloud storage.,2020,"Jiaxing Li, Jigang Wu, Guiyuan Jiang, Thambipillai Srikanthan",Inf. Process. Manag. 57: 102382 ,IPM,Unranked
+8,Improving accuracy of HPC-based malware classification for embedded platforms using gradient descent optimization.,2020,"Manaar Alam, Debdeep Mukhopadhyay, Sai Praveen Kadiyala, Siew-Kei Lam, Thambipillai Srikanthan",J. Cryptogr. Eng. 10: 289-303 ,JCE,Unranked
+9,LAMBDA: Lightweight Assessment of Malware for emBeddeD Architectures.,2020,"Sai Praveen Kadiyala, Manaar Alam, Yash Shrivastava, Sikhar Patranabis, Muhamed Fauzi Bin Abbas, Arnab Kumar Biswas, Debdeep Mukhopadhyay, Thambipillai Srikanthan",ACM Trans. Embed. Comput. Syst. 19: 23:1-23:31 ,TECS,Unranked
+10,Hardware Performance Counter-Based Fine-Grained Malware Detection.,2020,"Sai Praveen Kadiyala, Pranav Jadhav, Siew-Kei Lam, Thambipillai Srikanthan",ACM Trans. Embed. Comput. Syst. 19: 38:1-38:17 ,TECS,Unranked
+11,Rapid and Robust Background Modeling Technique for Low-Cost Road Traffic Surveillance Systems.,2020,"Kratika Garg, Nirmala Ramakrishnan, Alok Prakash, Thambipillai Srikanthan",IEEE Trans. Intell. Transp. Syst. 21: 2204-2215 ,TITS,Unranked
+12,Technique for Vendor and Device Agnostic Hardware Area-Time Estimation.,2020,"Deshya Wijesundera, Kushagra Shah, Kisaru Liyanage, Alok Prakash, Thambipillai Srikanthan, Thilina Perera",ARC 2020: 166-177,ARC,Unranked
+13,Evaluating the Merits of Ranking in Structured Network Pruning.,2020,"Kuldeep Sharma, Nirmala Ramakrishnan, Alok Prakash, Siew Kei Lam, Thambipillai Srikanthan",ICDCS 2020: 1389-1396,ICDCS,A
+14,Accelerating Computer Vision Algorithms on Heterogeneous Edge Computing Platforms.,2020,"Alok Prakash, Nirmala Ramakrishnan, Kratika Garg, Thambipillai Srikanthan",SiPS 2020: 1-6,SIPS,Unranked
+15,HARDY: Hardware based Analysis for malwaRe Detection in embedded sYstems.,2020,"Sai Praveen Kadiyala, Mohit Garg, Manaar Alam, Hau T. Ngo, Debdeep Mukhopadhyay, Thambipillai Srikanthan",SoCC 2020: 1-6,SOCC,Unranked
+16,Fast Computation of Clustered Many-to-many Shortest Paths and Its Application to Map Matching.,2019,"George Rosario Jagadeesh, Thambipillai Srikanthan",ACM Trans. Spatial Algorithms Syst. 5: 17:1-17:20 ,TSAS,Unranked
+17,LifeGuard: A Reinforcement Learning-Based Task Mapping Strategy for Performance-Centric Aging Management.,2019,"Vijeta Rathore, Vivek Chaturvedi, Amit Kumar Singh, Thambipillai Srikanthan, Muhammad Shafique",DAC 2019: 179,DAC,Unranked
+18,Genetic Algorithm based EV Scheduling for On-Demand Public Transit System.,2019,"Thilina Perera, Alok Prakash, Thambipillai Srikanthan",ICCS  2019: 595-603,ICCS,Multiconference
+19,An Iterative Technique for Runtime Efficient Hardware-Software Partitioning.,2019,"Deshya Wijesundera, Kisaru Liyanage, Alok Prakash, Thambipillai Srikanthan, Thilina Perera",FPT 2019: 403-406,ICFPT,Unranked
+20,Dependency-Aware Clustering for Variable-Grained Hardware-Software Partitioning.,2019,"Deshya Wijesundera, Nadeeshan Dissanayake, Alok Prakash, Thambipillai Srikanthan, Damith Anhettigama",FPT 2019: 411-414,ICFPT,Unranked
+21,Towards Scalable Lifetime Reliability Management for Dark Silicon Manycore Systems.,2019,"Vijeta Rathore, Vivek Chaturvedi, Amit Kumar Singh, Thambipillai Srikanthan, Muhammad Shafique",IOLTS 2019: 204-207,IOLTS,C
+22,Genetic Algorithm based Dynamic Scheduling of EV in a Demand Responsive Bus Service for First Mile Transit.,2019,"Thilina Perera, Alok Prakash, Thambipillai Srikanthan",ITSC 2019: 3322-3327,ITSC,Unranked
+23,"Cluster-First, Route-Second Heuristic for EV Scheduling in On-Demand Public Transit.",2019,"Thilina Perera, Alok Prakash, Deshya Wijesundera, Thambipillai Srikanthan, Chathura Nagoda Gamage",CIS/RAM 2019: 176-181,RAM,Unranked
+24,Hardware Efficient NIPALS Architecture for Principal Component Analysis of Hyper Spectral Images.,2019,"Sai Praveen Kadiyala, Vikram Kumar Pudi, Mohit Garg, Hau T. Ngo, Siew-Kei Lam, Thambipillai Srikanthan",SoCC 2019: 224-229,SOCC,Unranked
+25,Rapid Technique to Eliminate Moving Shadows for Accurate Vehicle Detection.,2019,"Kratika Garg, Nirmala Ramakrishnan, Alok Prakash, Thambipillai Srikanthan, Punit Bhatt",WACV 2019: 1970-1978,WACV,A
+26,Algorithms for Replica Placement and Update in Tree Network.,2018,"Jigang Wu, Long Chen, Xu Wang, Guiyuan Jiang, Siew-Kei Lam, Thambipillai Srikanthan",Comput. J. 61: 273-287 ,CJ,Unranked
+27,Vision-based patient monitoring: a comprehensive review of algorithms and technologies.,2018,"Supriya Sathyanarayana, Ravi Kumar Satzoda, Suchitra Sathyanarayana, Thambipillai Srikanthan",J. Ambient Intell. Humaniz. Comput. 9: 225-251 ,JAIHC,Unranked
+28,Framework for Rapid Performance Estimation of Embedded Soft Core Processors.,2018,"Deshya Wijesundera, Alok Prakash, Thambipillai Srikanthan, Achintha Ihalage",ACM Trans. Reconfigurable Technol. Syst. 11: 9:1-9:21 ,TRETS,Unranked
+29,Rapid Memory-Aware Selection of Hardware Accelerators in Programmable SoC Design.,2018,"Alok Prakash, Christopher T. Clarke, Siew-Kei Lam, Thambipillai Srikanthan",IEEE Trans. Very Large Scale Integr. Syst. 26: 445-456 ,TVLSI,Unranked
+30,Performance Estimation of FPGA Modules for Modular Design Methodology Using Artificial Neural Network.,2018,"Kalindu Herath, Alok Prakash, Thambipillai Srikanthan",ARC 2018: 105-118,ARC,Unranked
+31,LifeSim: A lifetime reliability simulator for manycore systems.,2018,"R. Rohith, Vijeta Rathore, Vivek Chaturvedi, Amit Kumar Singh, Thambipillai Srikanthan, Siew-Kei Lam",CCWC 2018: 375-381,CCWC,Unranked
+32,Side-Channel Assisted Malware Classifier with Gradient Descent Correction for Embedded Platforms.,2018,"Manaar Alam, Debdeep Mukhopadhyay, Sai Praveen Kadiyala, Siew Kei Lam, Thambipillai Srikanthan",PROOFS 2018: 1-15,CHES,A
+33,HiMap: A hierarchical mapping approach for enhancing lifetime reliability of dark silicon manycore systems.,2018,"Vijeta Rathore, Vivek Chaturvedi, Amit Kumar Singh, Thambipillai Srikanthan, R. Rohith, Siew-Kei Lam, Muhammad Shafique",DATE 2018: 991-996,DATE,B
+34,Wibheda: Framework for Data Dependency-Aware Multi-Constrained Hardware-Software Partitioning in FPGA-Based SoCs for IoT Devices.,2018,"Deshya Wijesundera, Alok Prakash, Thilina Perera, Kalindu Herath, Thambipillai Srikanthan",FCCM 2018: 213,FCCM,B
+35,Wibheda+: Framework for Data Dependency-aware Multi-constrained Hardware-Software Partitioning in FPGA-based SoCs for IoT Applications.,2018,"Deshya Wijesundera, Alok Prakash, Thilina Perera, Kalindu Herath, Thambipillai Srikanthan",HEART 2018: 3:1-3:6,HEART,Unranked
+36,A Hybrid Methodology for Optimal Fleet Management in an Electric Vehicle Based Flexible Bus Service.,2018,"Thilina Perera, Alok Prakash, Thambipillai Srikanthan",ICARCV 2018: 331-336,ICARCV,C
+37,Hybrid Genetic Algorithm for an On-Demand First Mile Transit System Using Electric Vehicles.,2018,"Thilina Perera, Alok Prakash, Chathura Nagoda Gamage, Thambipillai Srikanthan",ICCS  2018: 98-113,ICCS,Multiconference
+38,Communication-Aware Module Placement for Power Reduction in Large FPGA Designs.,2018,"Kalindu Herath, Alok Prakash, Udaree Kanewala, Thambipillai Srikanthan",ISVLSI 2018: 209-214,ISVLSI,Unranked
+39,A Simulation Framework for a Real-Time Demand Responsive Public Transit System.,2018,"Thilina Perera, Chathura Nagoda Gamage, Alok Prakash, Thambipillai Srikanthan",ITSC 2018: 608-613,ITSC,Unranked
+40,Ant Colony Optimization based Module Footprint Selection and Placement for Lowering Power in Large FPGA Designs.,2018,"Kalindu Herath, Alok Prakash, Guiyuan Jiang, Thambipillai Srikanthan",ReConFig 2018: 1-8,RECONFIG,Unranked
+41,Online Map-Matching of Noisy and Sparse Location Data With Hidden Markov and Route Choice Models.,2017,"George Rosario Jagadeesh, Thambipillai Srikanthan",IEEE Trans. Intell. Transp. Syst. 18: 2423-2434 ,TITS,Unranked
+42,A Framework for Fast and Robust Visual Odometry.,2017,"Meiqing Wu, Siew-Kei Lam, Thambipillai Srikanthan",IEEE Trans. Intell. Transp. Syst. 18: 3433-3448 ,TITS,Unranked
+43,Low-Complexity Signature-Based Malware Detection for IoT Devices.,2017,"Muhamed Fauzi Bin Abbas, Thambipillai Srikanthan",ATIS 2017: 181-189,ATIS,Unranked
+44,Low-Complexity Global Motion Estimation for Aerial Vehicles.,2017,"Nirmala Ramakrishnan, Alok Prakash, Thambipillai Srikanthan",CVPR Workshops 2017: 402-410,CVPR,A*
+45,Communication-aware Partitioning for Energy Optimization of Large FPGA Designs.,2017,"Kalindu Herath, Alok Prakash, Guiyuan Jiang, Thambipillai Srikanthan",ACM Great Lakes Symposium on VLSI 2017: 407-410,GLVLSI,Unranked
+46,High Speed Performance Estimation of Embedded Hard-core Processors in FPGA-based SoCs.,2017,"Deshya Wijesundera, Achintha Ihalage, Alok Prakash, Thambipillai Srikanthan",HEART 2017: 2:1-2:6,HEART,Unranked
+47,Fault-Driven Reconfiguration Algorithm for Processor Arrays.,2017,"Yalan Wu, Jigang Wu, Yuqing Miu, Thambipillai Srikanthan",ISPA/IUCC 2017: 519-524,ISPA,C
+48,Low complexity techniques for robust real-time traffic incident detection.,2017,"Kratika Garg, Alok Prakash, Thambipillai Srikanthan",ITSC 2017: 1-8,ITSC,Unranked
+49,Algorithms for bi-objective multiple-choice hardware/software partitioning.,2016,"Wenjun Shi, Jigang Wu, Siew Kei Lam, Thambipillai Srikanthan",Comput. Electr. Eng. 50: 127-142 ,CEE,Unranked
+50,Enhanced low-complexity pruning for corner detection.,2016,"Nirmala Ramakrishnan, Meiqing Wu, Siew Kei Lam, Thambipillai Srikanthan",J. Real Time Image Process. 12: 197-213 ,JRTIP,Unranked
+51,Cost-efficient Acceleration of Hardware Trojan Detection Through Fan-Out Cone Analysis and Weighted Random Pattern Technique.,2016,"Bin Zhou, Wei Zhang, Thambipillai Srikanthan, Jason Teo Kian Jin, Vivek Chaturvedi, Tao Luo",IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 35: 792-805 ,TCAD,Unranked
+52,Rapid design space exploration for soft core processor customization and selection.,2016,"Deshya Wijesundera, Alok Prakash, Thambipillai Srikanthan",FPT 2016: 185-188,FPT,Unranked
+53,Performance Constraint-Aware Task Mapping to Optimize Lifetime Reliability of Manycore Systems.,2016,"Vijeta Rathore, Vivek Chaturvedi, Thambipillai Srikanthan",ACM Great Lakes Symposium on VLSI 2016: 377-380,GLVLSI,Unranked
+54,Reducing Access Latency in Virtual Machine Assignments.,2016,"Renfei Gao, Jigang Wu, Guiyuan Jiang, Siew Kei Lam, Thambipillai Srikanthan",HPCC/SmartCity/DSS 2016: 616-622,HPCC,C
+55,Modified projected Landweber method for Compressive-Sensing reconstruction of images with non-orthogonal matrices.,2016,"Vikramkumar Pudi, Anupam Chattopadhyay, Thambipillai Srikanthan",ISIC 2016: 1-4,ISICIR,Unranked
+56,FPGA Based Cyber Security Protocol for Automated Traffic Monitoring Systems: Proposal and Implementation.,2016,"Anupam Chattopadhyay, Vikramkumar Pudi, Anubhab Baksi, Thambipillai Srikanthan",ISVLSI 2016: 18-23,ISVLSI,Unranked
+57,Robust and low complexity obstacle detection and tracking.,2016,"Meiqing Wu, Chengju Zhou, Thambipillai Srikanthan",ITSC 2016: 1249-1254,ITSC,Unranked
+58,Heuristic optimizations for high-speed low-latency online map matching with probabilistic sequence models.,2016,"George Rosario Jagadeesh, Thambipillai Srikanthan",ITSC 2016: 2565-2570,ITSC,Unranked
+59,Exploiting Configuration Dependencies for Rapid Area-efficient Customization of Soft-core Processors.,2016,"Deshya Wijesundera, Alok Prakash, Siew Kei Lam, Thambipillai Srikanthan",SCOPES 2016: 163-172,SCOPES,C
+60,Real-time road traffic density estimation using block variance.,2016,"Kratika Garg, Siew Kei Lam, Thambipillai Srikanthan, Vedika Agarwal",WACV 2016: 1-9,WACV,A
+61,Efficient VLSI Architecture for Decimation-in-Time Fast Fourier Transform of Real-Valued Data.,2015,"Pramod Kumar Meher, Basant Kumar Mohanty, Sujit Kumar Patel, Soumya Ganguly, Thambipillai Srikanthan",IEEE Trans. Circuits Syst. I Regul. Pap. 62-I: 2836-2845 ,TCAS,Unranked
+62,Nonparametric Technique Based High-Speed Road Surface Detection.,2015,"Meiqing Wu, Siew Kei Lam, Thambipillai Srikanthan",IEEE Trans. Intell. Transp. Syst. 16: 874-884 ,TITS,Unranked
+63,Algorithmic aspects of graph reduction for hardware/software partitioning.,2015,"Guiyuan Jiang, Jigang Wu, Siew Kei Lam, Thambipillai Srikanthan, Jizhou Sun",J. Supercomput. 71: 2251-2274 ,TJS,Unranked
+64,Fast Replica Placement and Update Strategies in Tree Networks.,2015,"Xu Wang, Jigang Wu, Guiyuan Jiang, Siew Kei Lam, Thambipillai Srikanthan",CCGRID 2015: 915-920,CCGRID,B
+65,"Compute-efficient eye state detection: algorithm, dataset and evaluations.",2015,"Supriya Sathyanarayana, Ravi Kumar Satzoda, Thambipillai Srikanthan, Suchitra Sathyanarayana",ICDSC 2015: 187-192,ICDSC,B
+66,Rapid estimation of DSPs utilization for efficient high-level synthesis.,2015,"Yan Lin Aung, Siew Kei Lam, Thambipillai Srikanthan",DSP 2015: 1261-1265,ICDSP,Unranked
+67,Leakage-aware intra-task dynamic voltage scaling technique for energy reduction in real-time embedded systems.,2015,"Vivek Chaturvedi, Basant K. Mohanty, Thambipillai Srikanthan",DSP 2015: 1266-1269,ICDSP,Unranked
+68,Memory-access aware work-load distribution for peak-temperature reduction of 3D multi-core embedded systems.,2015,"Basant K. Mohanty, Vivek Chaturvedi, Vijeta Rathore, Thambipillai Srikanthan",DSP 2015: 1270-1273,ICDSP,Unranked
+69,Identifying epileptic seizures based on a template-based eyeball detection technique.,2015,"Supriya Sathyanarayana, Ravi Kumar Satzoda, Suchitra Sathyanarayana, Thambipillai Srikanthan",ICIP 2015: 4689-4693,ICIP,B
+70,Critical-path optimization for efficient hardware realization of lifting and flipping DWTs.,2015,"Basant K. Mohanty, Pramod Kumar Meher, Thambipillai Srikanthan",ISCAS 2015: 1186-1189,ISCAS,Unranked
+71,Probabilistic Map Matching of Sparse and Noisy Smartphone Location Data.,2015,"George Rosario Jagadeesh, Thambipillai Srikanthan",ITSC 2015: 812-817,ITSC,Unranked
+72,Adaptive Window Strategy for High-Speed and Robust KLT Feature Tracker.,2015,"Nirmala Ramakrishnan, Thambipillai Srikanthan, Siew Kei Lam, Gauri Ravindra Tulsulkar",PSIVT 2015: 355-367,PSIVT,C
+73,KnapSim - Run-time efficient hardware-software partitioning technique for FPGAs.,2015,"Kratika Garg, Yan Lin Aung, Siew Kei Lam, Thambipillai Srikanthan",SoCC 2015: 64-69,SOCC,Unranked
+74,IP-Enabled C/C++ Based High Level Synthesis: A Step towards Better Designer Productivity and Design Performance.,2014,"Sharad Sinha, Thambipillai Srikanthan",Int. J. Reconfigurable Comput. 2014: 418750:1-418750:17 ,IJRC,Unranked
+75,Architecture and Application-Aware Management of Complexity of Mapping Multiplication to FPGA DSP Blocks in High Level Synthesis.,2014,"Sharad Sinha, Thambipillai Srikanthan",Int. J. Reconfigurable Comput. 2014: 564924:1-564924:14 ,IJRC,Unranked
+76,Constructing Low-temperature sub-Arrays on Reconfigurable VLSI Arrays.,2014,"Jigang Wu, Yuanbo Zhu, Zhipeng Niu, Thambipillai Srikanthan",J. Circuits Syst. Comput. 23 ,JCSC,Unranked
+77,Extended Compatibility Path Based Hardware binding: an Adaptive Algorithm for High Level synthesis of Area-Time Efficient Designs.,2014,"Sharad Sinha, Udit Dhawan, Thambipillai Srikanthan",J. Circuits Syst. Comput. 23 ,JCSC,Unranked
+78,Addressing Productivity Challenges in Domain-Specific Reconfigurable Platforms: A Case Study on Extended Kalman Filter-Based Motor Control.,2014,"Yan Lin Aung, Siew Kei Lam, Thambipillai Srikanthan",J. Low Power Electron. 10: 455-466 ,JOLPE,Unranked
+79,Rapid evaluation of custom instruction selection approaches with FPGA estimation.,2014,"Siew Kei Lam, Thambipillai Srikanthan, Christopher T. Clarke",ACM Trans. Embed. Comput. Syst. 13: 75:1-75:29 ,TECS,Unranked
+80,Parallel reconfiguration algorithms for mesh-connected processor arrays.,2014,"Jigang Wu, Guiyuan Jiang, Yuze Shen, Siew Kei Lam, Jizhou Sun, Thambipillai Srikanthan",J. Supercomput. 69: 610-628 ,TJS,Unranked
+81,Dataflow Graph Partitioning for Area-Efficient High-Level Synthesis with Systems Perspective.,2014,"Sharad Sinha, Thambipillai Srikanthan",ACM Trans. Design Autom. Electr. Syst. 20: 5:1-5:18 ,TODAES,Unranked
+82,Constructing Sub-Arrays with ShortInterconnects from Degradable VLSI Arrays.,2014,"Jigang Wu, Thambipillai Srikanthan, Guiyuan Jiang, Kai Wang",IEEE Trans. Parallel Distributed Syst. 25: 929-938 ,TPDS,Unranked
+83,Exploiting FPGA-Aware Merging of Custom Instructions for Runtime Reconfiguration.,2014,"Siew Kei Lam, Christopher T. Clarke, Thambipillai Srikanthan",ACM Trans. Reconfigurable Technol. Syst. 7: 26:1-26:15 ,TRETS,Unranked
+84,Soft error mitigation through selection of noninvert implication paths.,2014,"Bin Zhou, Thambipillai Srikanthan, Wei Zhang",AHS 2014: 77-82,AHS,Unranked
+85,Automated thresholding for low-complexity corner detection.,2014,"Nirmala Ramakrishnan, Meiqing Wu, Siew Kei Lam, Thambipillai Srikanthan",AHS 2014: 97-103,AHS,Unranked
+86,A low cost acceleration method for hardware trojan detection based on fan-out cone analysis.,2014,"Bin Zhou, Wei Zhang, Thambipillai Srikanthan, J. K. J. Teo",CODES+ISSS 2014: 28:1-28:10,CODES,Unranked
+87,A Compute-Efficient Algorithm for Robust Eyebrow Detection.,2014,"Supriya Sathyanarayana, Ravi Kumar Satzoda, Suchitra Sathyanarayana, Thambipillai Srikanthan",CVPR Workshops 2014: 664-669,CVPR,A*
+88,Area-delay efficient architecture for MP algorithm using reconfigurable inner-product circuits.,2014,"Pramod Kumar Meher, Basant K. Mohanty, Thambipillai Srikanthan",ISCAS 2014: 2628-2631,ISCAS,Unranked
+89,Mask-based non-maximal suppression with iterative pruning for low-complexity corner detection.,2014,"Nirmala Ramakrishnan, Meiqing Wu, Siew Kei Lam, Thambipillai Srikanthan",ISIC 2014: 368-371,ISICIR,Unranked
+90,Vision-based pedestrian tracking system using color and motion cue.,2014,"Meiqing Wu, Siew Kei Lam, Thambipillai Srikanthan, Tushar Shah",ISIC 2014: 372-375,ISICIR,Unranked
+91,Reducing computational complexity for face detection.,2014,"Supriya Sathyanarayana, Ravi Kumar Satzoda, Suchitra Sathyanarayana, Thambipillai Srikanthan",ISIC 2014: 376-379,ISICIR,Unranked
+92,Robust real-time route inference from sparse vehicle position data.,2014,"George Rosario Jagadeesh, Thambipillai Srikanthan",ITSC 2014: 296-301,ITSC,Unranked
+93,Stereo based ROIs generation for detecting pedestrians in close proximity.,2014,"Meiqing Wu, Siew Kei Lam, Thambipillai Srikanthan",ITSC 2014: 1929-1934,ITSC,Unranked
+94,Algorithmic Aspects for Bi-Objective Multiple-Choice Hardware/Software Partitioning.,2014,"Wenjun Shi, Jigang Wu, Siew Kei Lam, Thambipillai Srikanthan",PAAP 2014: 7-12,PAAP,Unranked
+95,Thermal-aware task scheduling for peak temperature minimization under periodic constraint for 3D-MPSoCs.,2014,"Vivek Chaturvedi, Amit Kumar Singh, Wei Zhang, Thambipillai Srikanthan",RSP 2014: 107-113,RSP,C
+96,CADSE: communication aware design space exploration for efficient run-time MPSoC management.,2013,"Amit Kumar Singh, Akash Kumar, Jigang Wu, Thambipillai Srikanthan",Frontiers Comput. Sci. 7: 416-430 ,FCSC,Unranked
+97,Iris Recognition Using Stable Dark Features.,2013,"Bo Liu, Siew Kei Lam, Thambipillai Srikanthan, Weiqi Yuan",J. Comput. 8: 41-48 ,JCP,Unranked
+98,FPGA-aware techniques for rapid generation of profitable custom instructions.,2013,"Alok Prakash, Siew Kei Lam, Christopher T. Clarke, Thambipillai Srikanthan",Microprocess. Microsystems 37: 259-269 ,MAM,Unranked
+99,Perceptual Full-Reference Quality Assessment of Stereoscopic Images by Considering Binocular Visual Characteristics.,2013,"Feng Shao, Weisi Lin, Shanbo Gu, Gangyi Jiang, Thambipillai Srikanthan",IEEE Trans. Image Process. 22: 1940-1953 ,TIP,Unranked
+100,Efficient heuristic and tabu search for hardware/software partitioning.,2013,"Jigang Wu, Pu Wang, Siew Kei Lam, Thambipillai Srikanthan",J. Supercomput. 66: 118-134 ,TJS,Unranked
+101,Modelling communication overhead for accessing local memories in hardware accelerators.,2013,"Alok Prakash, Siew Kei Lam, Thambipillai Srikanthan, Christopher T. Clarke",ASAP 2013: 31-34,ASAP,Unranked
+102,Preprocessing technique for accelerating reconfiguration of degradable VLSI arrays.,2013,"Yuanbo Zhu, Jigang Wu, Siew Kei Lam, Thambipillai Srikanthan",ISCAS 2013: 2424-2427,ISCAS,Unranked
+103,Hardware-Software Codesign of EKF-Based Motor Control for Domain-Specific Reconfigurable Platform.,2013,"Yan Lin Aung, Siew Kei Lam, Thambipillai Srikanthan",ISED 2013: 93-97,ISED,Unranked
+104,Real-Time Image Resizing Hardware Accelerator for Object Detection Algorithms.,2013,"Gaurav Mishra, Yan Lin Aung, Meiqing Wu, Siew Kei Lam, Thambipillai Srikanthan",ISED 2013: 98-102,ISED,Unranked
+105,Identifying lane types: A modular approach.,2013,"Suchitra Suchitra, Ravi Kumar Satzoda, Thambipillai Srikanthan",ITSC 2013: 1929-1934,ITSC,Unranked
+106,Additive Hough Transform on embedded computing platforms.,2013,"Shantanu S. Sinha, Ravi Kumar Satzoda, S. Suchitra, Thambipillai Srikanthan",MWSCAS 2013: 1196-1199,MWSCAS,Unranked
+107,Block-Based Search Space Reduction Technique for Face Detection Using Shoulder and Head Curves.,2013,"Supriya Sathyanarayana, Ravi Kumar Satzoda, Suchitra Sathyanarayana, Thambipillai Srikanthan",PSIVT 2013: 385-396,PSIVT,C
+108,Algorithmic aspects for multiple-choice hardware/software partitioning.,2012,"Jigang Wu, Qiqiang Sun, Thambipillai Srikanthan",Comput. Oper. Res. 39: 3281-3292 ,COR,Unranked
+109,Iris Recognition of Defocused Images for Mobile phones.,2012,"Bo Liu, Siew Kei Lam, Thambipillai Srikanthan, Weiqi Yuan",Int. J. Pattern Recognit. Artif. Intell. 26 ,IJPRAI,Unranked
+110,Psychoacoustic Model Compensation for Robust Speaker Verification in Environmental Noise.,2012,"Ashish Panda, Thambipillai Srikanthan",IEEE Trans. Speech Audio Process. 20: 945-953 ,TASLP,Unranked
+111,Accelerating throughput-aware runtime mapping for heterogeneous MPSoCs.,2012,"Amit Kumar Singh, Akash Kumar, Thambipillai Srikanthan",ACM Trans. Design Autom. Electr. Syst. 18: 9:1-9:29 ,TODAES,Unranked
+112,Dataflow graph partitioning for high level synthesis.,2012,"Sharad Sinha, Thambipillai Srikanthan",FPL 2012: 503-506,FPL,Unranked
+113,Custom instructions with local memory elements without expensive DMA transfers.,2012,"Alok Prakash, Christopher T. Clarke, Thambipillai Srikanthan",FPL 2012: 647-650,FPL,Unranked
+114,Area-time estimation of C-based functions for design space exploration.,2012,"Yan Lin Aung, Siew Kei Lam, Thambipillai Srikanthan",FPT 2012: 297-300,FPT,Unranked
+115,Reconfiguration Algorithms for Degradable VLSI Arrays with Switch Faults.,2012,"Yuanbo Zhu, Jigang Wu, Siew Kei Lam, Thambipillai Srikanthan",ICPADS 2012: 356-361,ICPADS,B
+116,Exploiting stable features for iris recognition of defocused images.,2012,"Bo Liu, Siew Kei Lam, Thambipillai Srikanthan, Weiqi Yuan",ISCAS 2012: 97-100,ISCAS,Unranked
+117,Low-complexity pruning for accelerating corner detection.,2012,"Meiqing Wu, Nirmala Ramakrishnan, Siew Kei Lam, Thambipillai Srikanthan",ISCAS 2012: 1684-1687,ISCAS,Unranked
+118,Robust extraction of lane markings using gradient angle histograms and directional signed edges.,2012,"Ravi Kumar Satzoda, Suchitra Sathyanarayana, Thambipillai Srikanthan",Intelligent Vehicles Symposium 2012: 754-759,IVS,Unranked
+119,Detection & classification of arrow markings on roads using signed edge signatures.,2012,"Suchitra Sathyanarayana, Ravi Kumar Satzoda, Thambipillai Srikanthan",Intelligent Vehicles Symposium 2012: 796-801,IVS,Unranked
+120,Exploiting FPGA-aware merging of custom instructions for runtime reconfiguration.,2012,"Siew Kei Lam, Thambipillai Srikanthan, Christopher T. Clarke",ReCoSoC 2012: 1-8,RECOSOC,Unranked
+121,Accelerating identification of custom instructions for extensible processors.,2011,"Tao Li, Jigang Wu, Yun Deng, Thambipillai Srikanthan, Xicheng Lu",IET Circuits Devices Syst. 5: 21-32 ,IET-CDS,Unranked
+122,Field programmable gate array-based acceleration of shortest-path computation.,2011,"George Rosario Jagadeesh, Thambipillai Srikanthan, C. M. Lim",IET Comput. Digit. Tech. 5: 231-237 ,IET-CDT,Unranked
+123,Architecture-Aware Technique for Mapping Area-Time Efficient Custom Instructions onto FPGAs.,2011,"Siew Kei Lam, Thambipillai Srikanthan, Christopher T. Clarke",IEEE Trans. Computers 60: 680-692 ,TC,Unranked
+124,A Modular Simulator Framework for Network-on-Chip Based Manycore Chips Using UNISIM.,2011,"Xiongfei Liao, Wu Jigang, Thambipillai Srikanthan",Trans. High Perform. Embed. Archit. Compil. 4: 234-253 ,THIPEAC,Unranked
+125,Accelerating UNISIM-Based Cycle-Level Microarchitectural Simulations on Multicore Platforms.,2011,"Xiongfei Liao, Thambipillai Srikanthan",ACM Trans. Design Autom. Electr. Syst. 16: 26:1-26:25 ,TODAES,Unranked
+126,A hybrid strategy for mapping multiple throughput-constrained applications on MPSoCs.,2011,"Amit Kumar Singh, Akash Kumar, Thambipillai Srikanthan",CASES 2011: 175-184,CASES,B
+127,A Low-Complexity Speaker-and-Word Recognition Application for Resource-Constrained Devices.,2011,"George Rosario Dhinesh, George Rosario Jagadeesh, Thambipillai Srikanthan",ISED 2011: 335-340,ISED,Unranked
+128,A Novel Binding Algorithm to Reduce Critical Path Delay During High Level Synthesis.,2011,"Sharad Sinha, Udit Dhawan, Siew Kei Lam, Thambipillai Srikanthan",ISVLSI 2011: 278-283,ISVLSI,Unranked
+129,Preprocessing-Based Run-Time Mapping of Applications on NoC-based MPSoCs.,2011,"Samarth Kaushik, Amit Kumar Singh, Thambipillai Srikanthan",ISVLSI 2011: 337-338,ISVLSI,Unranked
+130,A Design Space Exploration Methodology for Application Specific MPSoC Design.,2011,"Amit Kumar Singh, Akash Kumar, Thambipillai Srikanthan",ISVLSI 2011: 339-340,ISVLSI,Unranked
+131,Communication-Aware Design Space Exploration for Efficient Run-Time MPSoC Management.,2011,"Amit Kumar Singh, Akash Kumar, Wu Jigang, Thambipillai Srikanthan",PAAP 2011: 72-76,PAAP,Unranked
+132,Utilizing Dark Features for Iris Recognition in Less Constrained Environments.,2011,"Bo Liu, Siew Kei Lam, Thambipillai Srikanthan, Weiqi Yuan",PAAP 2011: 110-114,PAAP,Unranked
+133,Run-Time Computation and Communication Aware Mapping Heuristic for NoC-Based Heterogeneous MPSoC Platforms.,2011,"Samarth Kaushik, Amit Kumar Singh, Wu Jigang, Thambipillai Srikanthan",PAAP 2011: 203-207,PAAP,Unranked
+134,Automatic Compilation of C Applications for FPGA-Based Hardware Acceleration.,2011,"Lieu My Chuong, Yan Lin Aung, Siew Kei Lam, Thambipillai Srikanthan, Chai-Soon Lim",PAAP 2011: 223-227,PAAP,Unranked
+135,Computation and communication aware run-time mapping for NoC-based MPSoC platforms.,2011,"Samarth Kaushik, Amit Kumar Singh, Thambipillai Srikanthan",SoCC 2011: 185-190,SOCC,Unranked
+136,Instruction set customization for area-constrained FPGA designs.,2011,"Alok Prakash, Siew Kei Lam, Christopher T. Clarke, Thambipillai Srikanthan",SoCC 2011: 329-334,SOCC,Unranked
+137,Compiler-assisted technique for rapid performance estimation of FPGA-based processors.,2011,"Yan Lin Aung, Siew Kei Lam, Thambipillai Srikanthan",SoCC 2011: 341-346,SOCC,Unranked
+138,Algorithm for Time-dependent Shortest Safe Path on Transportation Networks.,2011,"Jigang Wu, Song Jin, Haikun Ji, Thambipillai Srikanthan",ICCS 2011: 958-966,PROCEDIA,Unranked
+139,Rapid Techniques for Performance Estimation of Processors.,2010,"Abhijit Ray, Thambipillai Srikanthan, Wu Jigang",J. Res. Pract. Inf. Technol. 42: 147-168 ,ACJ,Unranked
+140,Hierarchical Additive Hough Transform for Lane Detection.,2010,"Ravi Kumar Satzoda, Suchitra Sathyanarayana, Thambipillai Srikanthan, Supriya Sathyanarayana",IEEE Embed. Syst. Lett. 2: 23-26 ,ESL,Unranked
+141,Instruction cache tuning for embedded multitasking applications.,2010,"Santanu Kumar Dash, Thambipillai Srikanthan",IET Comput. Digit. Tech. 4: 439-457 ,IET-CDT,Unranked
+142,Communication-aware heuristics for run-time task mapping on NoC-based MPSoC platforms.,2010,"Amit Kumar Singh, Thambipillai Srikanthan, Akash Kumar, Wu Jigang",J. Syst. Archit. 56: 242-255 ,JSA,Unranked
+143,Selecting profitable custom instructions for reconfigurable processors.,2010,"Tao Li, Wu Jigang, Siew Kei Lam, Thambipillai Srikanthan, Xicheng Lu",J. Syst. Archit. 56: 340-351 ,JSA,Unranked
+144,Efficient heuristic algorithms for path-based hardware/software partitioning.,2010,"Jigang Wu, Thambipillai Srikanthan, Ting Lei",Math. Comput. Model. 51: 974-984 ,MCM,Unranked
+145,Algorithmic Aspects of Hardware/Software Partitioning: 1D Search Algorithms.,2010,"Wu Jigang, Thambipillai Srikanthan, Guang Chen",IEEE Trans. Computers 59: 532-544 ,TC,Unranked
+146,Preprocessing and Partial Rerouting Techniques for Accelerating Reconfiguration of Degradable VLSI Arrays.,2010,"Jigang Wu, Thambipillai Srikanthan, Xiaogang Han",IEEE Trans. Very Large Scale Integr. Syst. 18: 315-319 ,TVLSI,Unranked
+147,Hierarchical Loop Partitioning for Rapid Generation of Runtime Configurations.,2010,"Siew Kei Lam, Yun Deng, Jian Hu, Xilong Zhou, Thambipillai Srikanthan",ARC 2010: 282-293,ARC,Unranked
+148,Architecture-Aware Custom Instruction Generation for Reconfigurable Processors.,2010,"Alok Prakash, Siew Kei Lam, Amit Kumar Singh, Thambipillai Srikanthan",ARC 2010: 414-419,ARC,Unranked
+149,Accelerating shortest path computations in hardware.,2010,"Siew Kei Lam, Thambipillai Srikanthan",CASE 2010: 63-68,CASE,Unranked
+150,Mapping real-life applications on run-time reconfigurable NoC-based MPSoC on FPGA.,2010,"Amit Kumar Singh, Akash Kumar, Thambipillai Srikanthan, Yajun Ha",FPT 2010: 365-368,FPT,Unranked
+151,Performance estimation framework for FPGA-based processors.,2010,"Yan Lin Aung, Siew Kei Lam, Thambipillai Srikanthan",FPT 2010: 413-416,FPT,Unranked
+152,An efficient edge and corner detector.,2010,"Song Yang, Siew Kei Lam, Thambipillai Srikanthan",ICARCV 2010: 1628-1631,ICARCV,C
+153,A Novel Approach for Multilevel Fixed Outline Floorplanning.,2010,"Baofang Chang, Wu Jigang, Thambipillai Srikanthan, Lian Li",PAAP 2010: 59-62,PAAP,Unranked
+154,Run-time mapping of multiple communicating tasks on MPSoC platforms.,2010,"Amit Kumar Singh, Wu Jigang, Akash Kumar, Thambipillai Srikanthan",ICCS 2010: 1019-1026,PROCEDIA,Unranked
+155,Minimizing interconnect length on reconfigurable meshes.,2009,"Jigang Wu, Thambipillai Srikanthan, Kai Wang",Frontiers Comput. Sci. China 3: 315-321 ,FCSC,Unranked
+156,Run-time management of custom instructions on a partially reconfigurable architecture.,2009,"Siew Kei Lam, Huang Fan, Thambipillai Srikanthan, Wu Jigang",Int. J. Inf. Commun. Technol. 2: 50-59 ,IJICT,Unranked
+157,Rapid design of area-efficient custom instructions for reconfigurable embedded processing.,2009,"Siew Kei Lam, Thambipillai Srikanthan",J. Syst. Archit. 55: 1-14 ,JSA,Unranked
+158,Selecting Profitable Custom Instructions for Area-Time-Efficient Realization on Reconfigurable Architectures.,2009,"Siew Kei Lam, Thambipillai Srikanthan, Christopher T. Clarke",IEEE Trans. Ind. Electron. 56: 3998-4005 ,TIE,Unranked
+159,Exploiting Inherent Parallelisms for Accelerating Linear Hough Transform.,2009,"Suchitra Sathyanarayana, Ravi Kumar Satzoda, Thambipillai Srikanthan",IEEE Trans. Image Process. 18: 2255-2264 ,TIP,Unranked
+160,Efficient Approximate Algorithm for Hardware/Software Partitioning.,2009,"Wu Jigang, Ting Lei, Thambipillai Srikanthan",ACIS-ICIS 2009: 261-265,ACISICIS,Unranked
+161,Efficient Heuristic Algorithm for Rapid Custom-Instruction Selection.,2009,"Tao Li, Wu Jigang, Siew Kei Lam, Thambipillai Srikanthan, Xicheng Lu",ACIS-ICIS 2009: 266-270,ACISICIS,Unranked
+162,A Hybrid Branch-and-Bound Strategy for Hardware/Software Partitioning.,2009,"Wu Jigang, Baofang Chang, Thambipillai Srikanthan",ACIS-ICIS 2009: 641-644,ACISICIS,Unranked
+163,A Parallel Paths Communication Technique for Energy Efficient Wireless Sensor Networks.,2009,"Balasaravanan Venugopal, Gayathri Venkataraman, Thambipillai Srikanthan",ADHOCNETS 2009: 64-78,ADHOCNETS,Unranked
+164,Mapping Algorithms for NoC-Based Heterogeneous MPSoC Platforms.,2009,"Amit Kumar Singh, Wu Jigang, Alok Prakash, Thambipillai Srikanthan",DSD 2009: 133-140,DSD,Unranked
+165,Rapid design exploration framework for application-aware customization of soft core processors.,2009,"Alok Prakash, Siew Kei Lam, Amit Kumar Singh, Thambipillai Srikanthan",FPL 2009: 539-542,FPL,Unranked
+166,Gradient angle histograms for efficient linear Hough transform.,2009,"Ravi Kumar Satzoda, Suchitra Sathyanarayana, Thambipillai Srikanthan",ICIP 2009: 3273-3276,ICIP,B
+167,Techniques for Area-time Efficient Image Rotation.,2009,"Ravi Kumar Satzoda, Suchitra Sathyanarayana, Thambipillai Srikanthan",ISCAS 2009: 940-943,ISCAS,Unranked
+168,Modeling RTOS Components for Instruction Cache Hit Rate Estimation.,2009,"Santanu Kumar Dash, Thambipillai Srikanthan",ISCAS 2009: 2978-2981,ISCAS,Unranked
+169,Efficient Heuristics for Minimizing Communication Overhead in NoC-based Heterogeneous MPSoC Platforms.,2009,"Amit Kumar Singh, Wu Jigang, Alok Prakash, Thambipillai Srikanthan",IEEE International Workshop on Rapid System Prototyping 2009: 55-60,RSP,C
+170,Area-Time Estimation of Controller for Porting C-Based Functions onto FPGA.,2009,"Lieu My Chuong, Siew Kei Lam, Thambipillai Srikanthan",IEEE International Workshop on Rapid System Prototyping 2009: 145-151,RSP,C
+171,Instruction Cache Tuning for Embedded Multitasking Applications.,2009,"Santanu Kumar Dash, Thambipillai Srikanthan",IEEE International Workshop on Rapid System Prototyping 2009: 152-158,RSP,C
+172,Algorithmic aspects for functional partitioning and scheduling in hardware/software co-design.,2008,"Wu Jigang, Thambipillai Srikanthan, Tao Jiao",Des. Autom. Embed. Syst. 12: 345-375 ,DAFES,Unranked
+173,Energy-efficient cluster-based scheme for failure management in sensor networks.,2008,"Gayathri Venkataraman, Sabu Emmanuel, Thambipillai Srikanthan",IET Commun. 2: 528-537 ,IET-COM,Unranked
+174,Compiler Back End Design for Translating Multi-radio Descriptions to Operating System-less Asynchronous Processor Datapaths.,2008,"Dipnarayan Guha, Thambipillai Srikanthan",J. Comput. 3: 7-14 ,JCP,Unranked
+175,New Model and Algorithm for Hardware/Software Partitioning.,2008,"Jigang Wu, Thambipillai Srikanthan, Guang-Wei Zou",J. Comput. Sci. Technol. 23: 644-651 ,JCST,Unranked
+176,Algorithmic aspects for power-efficient hardware/software partitioning.,2008,"Jigang Wu, Thambipillai Srikanthan, Chengbin Yan",Math. Comput. Simul. 79: 1204-1215 ,MCS,Unranked
+177,Parallelizing the Hough Transform Computation.,2008,"Ravi Kumar Satzoda, Suchitra Sathyanarayana, Thambipillai Srikanthan",IEEE Signal Process. Lett. 15: 297-300 ,SPL,Unranked
+178,Rapid estimation of instruction cache hit rates using loop profiling.,2008,"Santanu Kumar Dash, Thambipillai Srikanthan",ASAP 2008: 263-268,ASAP,Unranked
+179,A Short Course on Implementing FPGA Based Digital Systems.,2008,"George Rosario Jagadeesh, Siew Kei Lam, Thambipillai Srikanthan",ICPADS 2008: 741-744,ICPADS,B
+180,Performance Estimation: IPC.,2008,"Abhijit Ray, Wu Jigang, Thambipillai Srikanthan",ICYCS 2008: 189-193,ICYCS,Unranked
+181,Finding minimum interconnect sub-arrays in reconfigurable VLSI arrays.,2008,"Wu Jigang, Thambipillai Srikanthan, Kai Wang",ISCAS 2008: 1352-1355,ISCAS,Unranked
+182,A temperature-aware virtual submesh allocation scheme for noc-based manycore chips.,2008,"Xiongfei Liao, Wu Jigang, Thambipillai Srikanthan",SPAA 2008: 182-184,SPAA,B
+183,Size-restricted cluster formation and cluster maintenance technique for mobile ad hoc networks.,2007,"Gayathri Venkataraman, Sabu Emmanuel, Thambipillai Srikanthan",Int. J. Netw. Manag. 17: 171-194 ,IJNM,Unranked
+184,Rapid Area-Time Estimation Technique for Porting C-based Applications onto FPGA platforms.,2007,"Lieu My Chuong, Siew Kei Lam, Thambipillai Srikanthan",Scalable Comput. Pract. Exp. 8 ,SCPE,Unranked
+185,Integrated Row and Column Rerouting for Reconfiguration of VLSI Arrays with Four-Port Switches.,2007,"Wu Jigang, Thambipillai Srikanthan, Xiaodong Wang",IEEE Trans. Computers 56: 1387-1400 ,TC,Unranked
+186,A Residue-to-Binary Converter for a New Five-Moduli Set.,2007,"Bin Cao, Chip-Hong Chang, Thambipillai Srikanthan",IEEE Trans. Circuits Syst. I Regul. Pap. 54-I: 1041-1049 ,TCAS,Unranked
+187,Estimating Area Costs of Custom Instructions for FPGA-based Reconfigurable Processors.,2007,"Siew Kei Lam, Thambipillai Srikanthan",ASAP 2007: 89-94,ASAP,Unranked
+188,Temperature-Aware Submesh Allocation Scheme for Heat Balancing on Chip-Multiprocessors.,2007,"Xiongfei Liao, Wu Jigang, Thambipillai Srikanthan",ASAP 2007: 228-233,ASAP,Unranked
+189,Reconfigurable Frame Parser Design for Multi-Radio Support on Asynchronous Microprocessor Cores.,2007,"Dipnarayan Guha, Thambipillai Srikanthan",ICCTA 2007: 122-127,ICCTA,Unranked
+190,Unified Cordic Based Processor for Image Processing.,2007,"Suchitra Sathyanarayana, Ravi Kumar Satzoda, Srikanthan Thambipillai",DSP 2007: 343-346,ICDSP,Unranked
+191,Real Time Tracking of Camera Motion Through Cylindrical Passages.,2007,"Suchitra Sathyanarayana, Srikanthan Thambipillai, Christopher T. Clarke",DSP 2007: 455-458,ICDSP,Unranked
+192,Improved Spectral Subtraction Technique for Text-Independent Speaker Verification.,2007,"Ashish Panda, Neha Tripathi, Thambipillai Srikanthan",DSP 2007: 595-598,ICDSP,Unranked
+193,An Embedded Systems graduate education for Singapore.,2007,"Ian McLoughlin, Douglas L. Maskell, Thambipillai Srikanthan, Wooi-Boon Goh",ICPADS 2007: 1-5,ICPADS,B
+194,A Cluster-Based Approach to Fault Detection and Recovery in Wireless Sensor Networks.,2007,"Gayathri Venkataraman, Sabu Emmanuel, Srikanthan Thambipillai",ISWCS 2007: 35-39,ISWCS,Unranked
+195,One-dimensional Search Algorithms for Hardware/Software Partitioning.,2007,"Wu Jigang, Thambipillai Srikanthan, Guang Chen",MEMOCODE 2007: 149-158,MEMOCODE,C
+196,Efficient Architectures for Segmentation of Endoscopic Images in Micro-Robotic Auto Navigation Systems.,2006,"C. S. Lim, Siew Kei Lam, Hui Tian, Thambipillai Srikanthan",Int. J. Humanoid Robotics 3: 523-545 ,IJHR,Unranked
+197,Low-complex dynamic programming algorithm for hardware/software partitioning.,2006,"Wu Jigang, Thambipillai Srikanthan",Inf. Process. Lett. 98: 41-46 ,IPL,Unranked
+198,An efficient algorithm for the collapsing knapsack problem.,2006,"Wu Jigang, Thambipillai Srikanthan",Inf. Sci. 176: 1739-1751 ,ISCI,Unranked
+199,Rapid generation of custom instructions using predefined dataflow structures.,2006,"Siew Kei Lam, Thambipillai Srikanthan, Christopher T. Clarke",Microprocess. Microsystems 30: 355-366 ,MAM,Unranked
+200,Reconfiguration Algorithms for Power Efficient VLSI Subarrays with Four-Port Switches.,2006,"Wu Jigang, Thambipillai Srikanthan",IEEE Trans. Computers 55: 243-253 ,TC,Unranked
+201,Scalable and modular memory-based systolic architectures for discrete Hartley transform.,2006,"Pramod Kumar Meher, Thambipillai Srikanthan, Jagdish Chandra Patra",IEEE Trans. Circuits Syst. I Regul. Pap. 53-I: 1065-1077 ,TCAS,Unranked
+202,Algorithmic aspects of area-efficient hardware/software partitioning.,2006,"Wu Jigang, Thambipillai Srikanthan",J. Supercomput. 38: 223-235 ,TJS,Unranked
+203,New Reconfiguration Algorithm for Degradable VLSI Arrays.,2006,"Wu Jigang, Thambipillai Srikanthan, Xiaodong Wang",APCCAS 2006: 1152-1155,APCCAS,Unranked
+204,Unified Signed-Digit Number Adder for RSA and ECC Public-key Cryptosystems.,2006,"Yi Wang, Douglas L. Maskell, Jussipekka Leiwo, Thambipillai Srikanthan",APCCAS 2006: 1655-1658,APCCAS,Unranked
+205,An Efficient Algorithm for DPA-resistent RSA.,2006,"Yi Wang, Jussipekka Leiwo, Thambipillai Srikanthan, Luo Jianwen",APCCAS 2006: 1659-1662,APCCAS,Unranked
+206,Efficient Algorithms for Hardware/Software Partitioning to Minimize Hardware Area.,2006,"Wu Jigang, Thambipillai Srikanthan",APCCAS 2006: 1875-1878,APCCAS,Unranked
+207,Design considerations for multi-radio co-existence on asynchronous processors using LAD extensions.,2006,"Dipnarayan Guha, Kugan Vivekanandarajah, Thambipillai Srikanthan",CISS 2006: 413,CISS,National
+208,Energy Efficient Cache Tuning with Performance Bound.,2006,"Leipo Yan, Siew Kei Lam, Thambipillai Srikanthan, Wu Jigang",DELTA 2006: 97-100,DELTA,Unranked
+209,Modeling Arbitrator Delay-Area Dependencies in Customizable Instruction Set Processors.,2006,"Siew Kei Lam, Mohammed Shoaib, Thambipillai Srikanthan",DELTA 2006: 237-242,DELTA,Unranked
+210,Efficient algorithm for functional scheduling in hardware/software co-design.,2006,"Wu Jigang, Thambipillai Srikanthan, Tao Jiao",FPT 2006: 65-72,FPT,Unranked
+211,Efficient management of custom instructions for run-time reconfigurable instruction set processors.,2006,"Siew Kei Lam, Bharathi N. Krishnan, Thambipillai Srikanthan",FPT 2006: 261-264,FPT,Unranked
+212,Low Area-time Complexity Averaging Scheme for Thumbnail Generation.,2006,"Ravi Kumar Satzoda, Suchitra Sathyanarayana, Thambipillai Srikanthan",ICARCV 2006: 1-4,ICARCV,C
+213,Profile Directed Instruction Cache Tuning for Embedded Systems.,2006,"Kugan Vivekanandarajah, Thambipillai Srikanthan, Christopher T. Clarke",ISVLSI 2006: 277-282,ISVLSI,Unranked
+214,FPGA based DPA-resistant Unified Architecture for Signcryption.,2006,"Yi Wang, Jussipekka Leiwo, Thambipillai Srikanthan, Yu Yu",ITNG 2006: 571-572,ITNG,Unranked
+215,Area and delay estimation for FPGA implementation of coarse-grained reconfigurable architectures.,2006,"Leipo Yan, Thambipillai Srikanthan, Niu Gang",LCTES 2006: 182-188,LCTRTS,Unranked
+216,Power Efficient Sub-Array in Reconfigurable VLSI Meshes.,2005,"Wu Jigang, Thambipillai Srikanthan",J. Comput. Sci. Technol. 20: 647-653 ,JCST,Unranked
+217,VLSI-efficient schemes for high-speed construction of tangent graph.,2005,"Siew Kei Lam, K. Sridharan, Thambipillai Srikanthan",Robotics Auton. Syst. 51: 248-260 ,RAS,Unranked
+218,New adaptive color quantization method based on self-organizing maps.,2005,"Chip-Hong Chang, Pengfei Xu, Rui Xiao, Thambipillai Srikanthan",IEEE Trans. Neural Networks 16: 237-249 ,TNN,Unranked
+219,Efficient reconfigurable techniques for VLSI arrays with 6-port switches.,2005,"Wu Jigang, Thambipillai Srikanthan, Heiko Schröder",IEEE Trans. Very Large Scale Integr. Syst. 13: 976-979 ,TVLSI,Unranked
+220,Morphable Structures for Reconfigurable Instruction Set Processors.,2005,"Siew Kei Lam, Yun Deng, Thambipillai Srikanthan",Asia-Pacific Computer Systems Architecture Conference 2005: 450-463,APCSAC,Unranked
+221,Minimizing Power in Hardware/Software Partitioning.,2005,"Wu Jigang, Thambipillai Srikanthan, Chengbin Yan",Asia-Pacific Computer Systems Architecture Conference 2005: 580-588,APCSAC,Unranked
+222,Efficient Techniques and Hardware Analysis for Mesh-Connected Processors.,2005,"Wu Jigang, Thambipillai Srikanthan, Heiko Schröder",ICA3PP 2005: 442-446,ICA3PP,C
+223,A new formulation of fast diminished-one multioperand modulo 2n/+1 adder.,2005,"Bin Cao, Chip-Hong Chang, Thambipillai Srikanthan",ISCAS  2005: 656-659,ISCAS,Unranked
+224,A new design method to modulo 2n-1 squaring.,2005,"Bin Cao, Thambipillai Srikanthan, Chip-Hong Chang",ISCAS  2005: 664-667,ISCAS,Unranked
+225,Efficient high radix modular multiplication for high-speed computing in re-configurable hardware [cryptographic applications].,2005,"Yi Wang, Jussipekka Leiwo, Thambipillai Srikanthan",ISCAS  2005: 1226-1229,ISCAS,Unranked
+226,A configurable dual moduli multi-operand modulo adder.,2005,"Chip-Hong Chang, Shibu Menon, Bin Cao, Thambipillai Srikanthan",ISCAS  2005: 1630-1633,ISCAS,Unranked
+227,Elimination of sign precomputation in flat CORDIC.,2005,"Suchitra Sathyanarayana, S. Sukthankar, Thambipillai Srikanthan, Christopher T. Clarke",ISCAS  2005: 3319-3322,ISCAS,Unranked
+228,DASCA: A Degree and Size based Clustering Approach for Wireless Sensor Networks.,2005,"Gayathri Venkataraman, Sabu Emmanuel, Srikanthan Thambipillai",ISWCS 2005: 508-512,ISWCS,Unranked
+229,Practical Techniques for Performance Estimation of Processors.,2005,"Abhijit Ray, Thambipillai Srikanthan, Wu Jigang",IWSOC 2005: 308-311,IWSOC,Unranked
+230,Custom Instruction Filter Cache Synthesis for Low-Power Embedded Systems.,2005,"Kugan Vivekanandarajah, Thambipillai Srikanthan",IEEE International Workshop on Rapid System Prototyping 2005: 151-157,RSP,C
+231,"Advances in Computer Systems Architecture, 10th Asia-Pacific Conference, ACSAC 2005, Singapore, October 24-26, 2005, Proceedings.",2005,"Thambipillai Srikanthan, Jingling Xue, Chip-Hong Chang","Lecture Notes in Computer Science 3740, Springer 2005, ISBN 3-540-29643-3 ",APCSAC,Unranked
+232,Knapsack Model and Algorithm for Hardware/Software Partitioning Problem.,2004,"Abhijit Ray, Wu Jigang, Thambipillai Srikanthan",Comput. Artif. Intell. 23: 557-569 ,CAI,Unranked
+233,An efficient data structure for branch-and-bound algorithm.,2004,"Wu Jigang, Thambipillai Srikanthan",Inf. Sci. 167: 233-237 ,ISCI,Unranked
+234,Area-Time Efficient Sign Detection Technique for Binary Signed-Digit Number System.,2004,"Thambipillai Srikanthan, Siew Kei Lam, Mishra Suman",IEEE Trans. Computers 53: 69-72 ,TC,Unranked
+235,Hardware-efficient schemes for logarithmic approximation and binary search with application to visibility graph construction.,2004,"Siew Kei Lam, K. Sridharan, Thambipillai Srikanthan",IEEE Trans. Ind. Electron. 51: 1346-1348 ,TIE,Unranked
+236,Finding High Performance Solution in Reconfigurable Mesh-Connected VLSI Arrays.,2004,"Wu Jigang, Thambipillai Srikanthan",Asia-Pacific Computer Systems Architecture Conference 2004: 440-448,APCSAC,Unranked
+237,Decode filter cache for energy efficient instruction cache hierarchy in super scalar architectures.,2004,"Kugan Vivekanandarajah, Thambipillai Srikanthan, Saurav Bhattacharyya",ASP-DAC 2004: 373-379,ASPDAC,C
+238,Dynamic Filter Cache for Low Power Instruction Memory Hierarchy.,2004,"Kugan Vivekanandarajah, Thambipillai Srikanthan, Saurav Bhattacharyya",DSD 2004: 607-610,DSD,Unranked
+239,RTOS acceleration on soft-core processors using instruction set customization.,2004,"Jin Zhenyu, Mohit Sindhwani, Thambipillai Srikanthan",FPT 2004: 371-374,FPT,Unranked
+240,Knapsack Model and Algorithm for HW/SW Partitioning Problem.,2004,"Abhijit Ray, Wu Jigang, Thambipillai Srikanthan",International Conference on Computational Science 2004: 200-205,ICCS,Multiconference
+241,High-throughput image rotation using sign-prediction based redundant cordic algorithm.,2004,"Suchitra Sathyanarayana, Siew Kei Lam, Thambipillai Srikanthan",ICIP 2004: 2833-2836,ICIP,B
+242,Design of residue-to-binary converter for a new 5-moduli superset residue number system.,2004,"Bin Cao, Thambipillai Srikanthan, Chip-Hong Chang",ISCAS  2004: 841-844,ISCAS,Unranked
+243,Fast reconfiguring mesh-connected VLSI arrays.,2004,"Wu Jigang, Thambipillai Srikanthan",ISCAS  2004: 949-952,ISCAS,Unranked
+244,A novel distributed cluster maintenance technique for high mobility ad-hoc networks.,2004,"Gayathri Venkataraman, Sabu Emmanuel, Srikanthan Thambipillai",ISWCS 2004: 225-229,ISWCS,Unranked
+245,A VLSI architecture for 3-D self-organizing map based color quantization and its FPGA implementation.,2003,"N. Sudha, Thambipillai Srikanthan, Babu Mailachalam",J. Syst. Archit. 48: 337-352 ,JSA,Unranked
+246,An improved reconfiguration algorithm for degradable VLSI/WSI arrays.,2003,"Wu Jigang, Thambipillai Srikanthan",J. Syst. Archit. 49: 23-31 ,JSA,Unranked
+247,Static Pattern Predictor (SPP) Based Low Power Instruction Cache Design.,2003,"Kugan Vivekanandarajah, Thambipillai Srikanthan, Christopher T. Clarke, Saurav Bhattacharyya",Embedded Systems and Applications 2003: 210-215,CSREAESA,Unranked
+248,Low-Power Transform-Domain Coding by Separable Two-Dimensional Hartley-Like Transform.,2003,"Pramod Kumar Meher, Thambipillai Srikanthan, M. Mahesh Kumar, S. Arunkumar",Embedded Systems and Applications 2003: 228-236,CSREAESA,Unranked
+249,A Low Power Algorithm for Reconfigurable VLSI/WSI Arrays.,2003,"Wu Jigang, Thambipillai Srikanthan, Chandni R. Patel",Embedded Systems and Applications 2003: 237-242,CSREAESA,Unranked
+250,Vector quantization techniques for GMM based speaker verification.,2003,"Gurmeet Singh, Ashish Panda, Saurav Bhattacharyya, Thambipillai Srikanthan",ICASSP  2003: 65-68,ICASSP,Unranked
+251,An adaptive initialization technique for color quantization by self organizing feature map.,2003,"Chip-Hong Chang, Rui Xiao, Thambipillai Srikanthan",ICASSP  2003: 477-480,ICASSP,Unranked
+252,On the Reconfiguration Algorithm for Fault-Tolerant VLSI Arrays.,2003,"Wu Jigang, Thambipillai Srikanthan",International Conference on Computational Science 2003: 360-366,ICCS,Multiconference
+253,Implementing Otsu's thresholding process using area-time efficient logarithmic approximation unit.,2003,"Hui Tian, Siew Kei Lam, Thambipillai Srikanthan",ISCAS  2003: 21-24,ISCAS,Unranked
+254,Low cost logarithmic techniques for high-precision computations.,2003,"Siew Kei Lam, Devendra K. Chaudhaiy, Thambipillai Srikanthan",ISCAS  2003: 125-128,ISCAS,Unranked
+255,Architectural design and analysis toolbox to implement shortest path algorithms in hardware.,2003,"K. H. Quek, Siew Kei Lam, N. K. Agrawal, Thambipillai Srikanthan",ISCAS  2003: 224-227,ISCAS,Unranked
+256,Design of a high speed reverse converter for a new 4-moduli set residue number system.,2003,"Bin Cao, Thambipillai Srikanthan, Chip-Hong Chang",ISCAS  2003: 520-523,ISCAS,Unranked
+257,"New efficient residue-to-binary converters for 4-moduli set {2n - 1, 2n, 2n + 1, 2n+1 - 1}.",2003,"Bin Cao, Chip-Hong Chang, Thambipillai Srikanthan",ISCAS  2003: 536-539,ISCAS,Unranked
+258,Partial rerouting algorithm for reconfigurable VLSI arrays.,2003,"Wu Jigang, Thambipillai Srikanthan",ISCAS  2003: 641-644,ISCAS,Unranked
+259,Incorporating Pattern Prediction Technique for Energy Efficient Filter Cache Design.,2003,"Kugan Vivekanandarajah, Thambipillai Srikanthan, Saurav Bhattacharyya, Prasanna Venkatesh Kannan",IWSOC 2003: 44-47,IWSOC,Unranked
+260,A Run-time Reconfiguration Algorithm for VLSI Arrays.,2003,"Wu Jigang, Thambipillai Srikanthan",VLSI Design 2003: 567-572,VLSID,National
+261,Optimizing Scaling Factor Computations in Flat Cordic.,2002,"Thambipillai Srikanthan, Bimal Gisuthan",J. Circuits Syst. Comput. 11: 17-34 ,JCSC,Unranked
+262,Field programable gate array based architecture for real time image segmentation by region growing algorithm.,2002,"Chip-Hong Chang, Hui Tian, Thambipillai Srikanthan, Chai-Soon Lim",J. Electronic Imaging 11: 469-478 ,JEI,Unranked
+263,On Load Sharing in Distributed Systems: a Novel Approach.,2002,"Gurdeep S. Hura, Sheeja Mohan, Thambipillai Srikanthan",Trans. SDPS 6: 59-81 ,JID,Unranked
+264,Environment Modelling for Robot Navigation Using VLSI-Efficient Logarithmic Approximation Method.,2002,"Siew Kei Lam, Thambipillai Srikanthan",J. Intell. Robotic Syst. 35: 23-40 ,JIRS,Unranked
+265,Segmenting endoscopic images using adaptive progressive thresholding: a hardware perspective.,2002,"Vijayan K. Asari, Thambipillai Srikanthan",J. Syst. Archit. 47: 759-761 ,JSA,Unranked
+266,A novel technique for eliminating iterative based computation of polarity of micro-rotations in CORDIC based sine-cosine generators.,2002,"Thambipillai Srikanthan, Bimal Gisuthan",Microprocess. Microsystems 26: 243-252 ,MAM,Unranked
+267,A linear approximation based hybrid approach for binary logarithmic conversion.,2002,"Siew Kei Lam, Thambipillai Srikanthan",Microprocess. Microsystems 26: 353-361 ,MAM,Unranked
+268,Area-time issues in the VLSI implementation of self organizing map neural networks.,2002,"Babu Mailachalam, Thambipillai Srikanthan",Microprocess. Microsystems 26: 399-406 ,MAM,Unranked
+269,Heuristic techniques for accelerating hierarchical routing on road networks.,2002,"George Rosario Jagadeesh, Thambipillai Srikanthan, K. H. Quek",IEEE Trans. Intell. Transp. Syst. 3: 301-309 ,TITS,Unranked
+270,A MSB-biased self-organizing feature map for still color image compression.,2002,"Chip-Hong Chang, Rui Xiao, Thambipillai Srikanthan",APCCAS  2002: 85-88,APCCAS,Unranked
+271,Fuzzy-ART based image compression for hardware implementation.,2002,"C. S. Lim, Thambipillai Srikanthan, Vijayan K. Asari, Siew Kei Lam",APCCAS  2002: 147-150,APCCAS,Unranked
+272,Incorporating area-time flexibility to a binary signed-digit adder.,2002,"Siew Kei Lam, Thambipillai Srikanthan, Nitin Goyal, Neeraj Tyagi",APCCAS  2002: 485-489,APCCAS,Unranked
+273,An efficient architecture for adaptive progressive thresholding.,2002,"Hui Tian, Siew Kei Lam, Thambipillai Srikanthan, Chip-Hong Chang",APCCAS  2002: 513-516,APCCAS,Unranked
+274,New Architecture and Algorithms for Degradable VLSI/WSI Arrays.,2002,"Wu Jigang, Heiko Schröder, Thambipillai Srikanthan",COCOON 2002: 181-190,COCOON,National
+275,On the Initialization and Training Methods for Kohonen Self-Organizing Feature Maps in Color Image Quantization.,2002,"Rui Xiao, Chip-Hong Chang, Thambipillai Srikanthan",DELTA 2002: 321-325,DELTA,Unranked
+276,Multiple sequence families with efficient hardware architecture for use in spread spectrum watermarking.,2002,"C. S. Lim, Saman S. Abeysekera, Thambipillai Srikanthan, S. K. Amarasinghe",ISCAS  2002: 761-764,ISCAS,Unranked
+277,A Hardware Efficient Technique for Rapid Lumen Segmentation from Endoscopic Images.,2002,"Hui Tian, Thambipillai Srikanthan, Vijayan K. Asari",JCIS 2002: 716-719,JCIS,Unranked
+278,Load Sharing in Large Scale Distributed Systems: A Novel Approach.,2002,"Gurdeep S. Hura, Sheeja Mohan, Thambipillai Srikanthan",PDPTA 2002: 863-871,PDPTA,National
+279,Study on the Effect of Object to Camera Distance on Polynomial Expansion Coefficients in Barrel Distortion Correction.,2002,"Hui Tian, Thambipillai Srikanthan, Vijayan K. Asari, Siew Kei Lam",SSIAI 2002: 255-259,SSIAI,Unranked
+280,High-Speed Environment Representation Scheme for Dynamic Path Planning.,2001,"Siew Kei Lam, Thambipillai Srikanthan",J. Intell. Robotic Syst. 32: 307-319 ,JIRS,Unranked
+281,Network Simulation Environment (NSE): A Generic Framework for Network Graphs.,2001,"Gurdeep S. Hura, Thambipillai Srikanthan, Chia Cher Yong",Telecommun. Syst. 17: 213-231 ,TELSYS,Unranked
+282,A Recursive Otsu-Iris Filter Technique for High-Speed Detection of Lumen Region from Endoscopic Images.,2001,"Hui Tian, Thambipillai Srikanthan, Vijayan K. Asari",AIPR 2001: 182-186,AIPR,Unranked
+283,Dynamic multicast routing in VLSI.,2000,"Siew Kei Lam, Thambipillai Srikanthan",Comput. Commun. 23: 1055-1063 ,COMCOM,Unranked
+284,A High Speed Flat CORDIC Based Neuron with Multi-Level Activation Function for Robust Pattern Recognition.,2000,"Bimal Gisutham, Thambipillai Srikanthan, Vijayan K. Asari",CAMP 2000: 87-94,CAMP,Unranked
+285,A Robust Parallel Architecture for Adaptive Color Quantization.,2000,"Babu Mailachalam, Thambipillai Srikanthan",ITCC 2000: 164-173,ITCC,Unranked
+286,A pipelined architecture for image segmentation by adaptive progressive thresholding.,1999,"K. Vijayan Asari, Thambipillai Srikanthan, Sanjiv Kumar, D. Radhakrishnan",Microprocess. Microsystems 23: 493-499 ,MAM,Unranked
+287,"A Reverse Converter for the 4-moduli Superset {2n-1, 2n, 2n+1, 2n+1+1}.",1999,"Manish Bhardwaj, Thambipillai Srikanthan, Christopher T. Clarke",IEEE Symposium on Computer Arithmetic 1999: 168-175,ARITH,C
+288,VLSI Costs of Arithmetic Parallelism: A Residue Reverse Conversion Perspectiv.,1999,"Manish Bhardwaj, Thambipillai Srikanthan, Christopher T. Clarke",IEEE Symposium on Computer Arithmetic 1999: 176-,ARITH,C
+289,LSP parameter interpretation for speech classification.,1999,"Ian Vince McLoughlin, Srikanthan Thambipillai",ICECS 1999: 419-422,ICECSYS,Unranked
+290,New area efficient residue-to-weighted number system converters.,1999,"Jimson Mathew, D. Radhakrishnan, Thambipillai Srikanthan",ICECS 1999: 945-948,ICECSYS,Unranked
+291,"Residue-to-binary arithmetic converter for moduli set {2n -1, 2n, 2n+1, 2n+1 -1}.",1999,"Jimson Mathew, D. Radhakrishnan, Thambipillai Srikanthan",NSIP 1999: 185-188,NSIP,Unranked
+292,An Internet application for on-line banking.,1998,"S. K. Leong, Thambipillai Srikanthan, Gurdeep S. Hura",Comput. Commun. 20: 1534-1540 ,COMCOM,Unranked
+293,An OLE-based speech compression system for multimedia applications.,1998,"Thambipillai Srikanthan, Goh Wee Leng, S. K. Amarasinghe",Microprocess. Microsystems 22: 41-48 ,MAM,Unranked
+294,An Object Oriented GUI for Clustering Technique Based Network Simulations.,1998,"Thambipillai Srikanthan, Gurdeep S. Hura, Chia Cher Yong",ESM 1998: 92-96,ESM,Unranked
+295,Designing efficient residue arithmetic based VLSI correlators.,1998,"Aniruddha A. Deodhar, Manish Bhardwaj, Christopher T. Clarke, Thambipillai Srikanthan",ICASSP 1998: 3021-3024,ICASSP,Unranked
+296,An efficient adaptive routing algorithm for a network management system.,1997,"Thambipillai Srikanthan, Gurdeep S. Hura",Comput. Commun. 20: 988-998 ,COMCOM,Unranked
+297,An Efficient Adaptive Routing Strategy for Network Management Protocol.,1996,"Thambipillai Srikanthan, Gurdeep Singh Hura",ESM 1996: 540-546,ESM,Unranked
+298,A transputer based vehicle simulator.,1995,"Thambipillai Srikanthan, Kai-Yun Chan, Hock Soon Seah, S. K. Leong",Microprocess. Microsystems 19: 395-404 ,MAM,Unranked

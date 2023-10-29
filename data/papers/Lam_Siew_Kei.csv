@@ -1,0 +1,178 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Computer vision framework for crack detection of civil infrastructure - A review.,2023,"Dihao Ai, Guiyuan Jiang, Siew-Kei Lam, Peilan He, Chengwu Li",Eng. Appl. Artif. Intell. 117: 105478 ,EAAI,Unranked
+1,Hardware-Efficient Scheme for Trailer Robot Parking by Truck Robot in an Indoor Environment with Rendezvous.,2023,"Divya Vani G, Srinivasa Rao Karumuri, Chinnaiah M. C., Siew-Kei Lam, Janardhan Narambhatlu, Sanjay Dubey",Sensors 23: 5097 ,SENSORS,Unranked
+2,Two-Level Scheduling Algorithms for Deep Neural Network Inference in Vehicular Networks.,2023,"Yalan Wu, Jigang Wu, Mianyang Yao, Bosheng Liu, Long Chen, Siew Kei Lam",IEEE Trans. Intell. Transp. Syst. 24: 9324-9343 ,TITS,Unranked
+3,Blockchain-Based Secure Key Management for Mobile Edge Computing.,2023,"Jiaxing Li, Jigang Wu, Long Chen, Jin Li, Siew-Kei Lam",IEEE Trans. Mob. Comput. 22: 100-114 ,TMC,Unranked
+4,DNN Model Theft Through Trojan Side-Channel on Edge FPGA Accelerator.,2023,"Srivatsan Chandrasekar, Siew-Kei Lam, Srikanthan Thambipillai",ARC 2023: 146-158,ARC,Unranked
+5,Multi-fold Correlation Attention Network for Predicting Traffic Speeds with Heterogeneous Frequency.,2022,"Yidan Sun, Guiyuan Jiang, Siew-Kei Lam, Peilan He, Fangxin Ning",Appl. Soft Comput. 124: 108977 ,ASC,Unranked
+6,ML-MMAS: Self-learning ant colony optimization for multi-criteria journey planning.,2022,"Peilan He, Guiyuan Jiang, Siew-Kei Lam, Yidan Sun",Inf. Sci. 609: 1052-1074 ,ISCI,Unranked
+7,Decoupled self-supervised label augmentation for fully-supervised image classification.,2022,"Wanshun Gao, Meiqing Wu, Siew-Kei Lam, Qihui Xia, Jianhua Zou",Knowl. Based Syst. 235: 107605 ,KBS,Unranked
+8,A Multi-Scale Attributes Attention Model for Transport Mode Identification.,2022,"Guiyuan Jiang, Siew-Kei Lam, Peilan He, Changhai Ou, Dihao Ai",IEEE Trans. Intell. Transp. Syst. 23: 152-164 ,TITS,Unranked
+9,A Unified Multi-Task Learning Architecture for Fast and Accurate Pedestrian Detection.,2022,"Chengju Zhou, Meiqing Wu, Siew-Kei Lam",IEEE Trans. Intell. Transp. Syst. 23: 982-996 ,TITS,Unranked
+10,Learning Traffic Network Embeddings for Predicting Congestion Propagation.,2022,"Yidan Sun, Guiyuan Jiang, Siew-Kei Lam, Peilan He",IEEE Trans. Intell. Transp. Syst. 23: 11591-11604 ,TITS,Unranked
+11,Enhanced Multi-Task Learning Architecture for Detecting Pedestrian at Far Distance.,2022,"Chengju Zhou, Meiqing Wu, Siew-Kei Lam",IEEE Trans. Intell. Transp. Syst. 23: 15588-15604 ,TITS,Unranked
+12,Exploring Public Transport Transfer Opportunities for Pareto Search of Multicriteria Journeys.,2022,"Peilan He, Guiyuan Jiang, Siew-Kei Lam, Yidan Sun, Fangxin Ning",IEEE Trans. Intell. Transp. Syst. 23: 22895-22908 ,TITS,Unranked
+13,Fast Semantic-Aware Motion State Detection for Visual SLAM in Dynamic Environment.,2022,"Gaurav Singh, Meiqing Wu, Do Van Minh, Siew-Kei Lam",IEEE Trans. Intell. Transp. Syst. 23: 23014-23030 ,TITS,Unranked
+14,Reinforced Continual Learning for Graphs.,2022,"Appan Rakaraddi, Siew-Kei Lam, Mahardhika Pratama, Marcus de Carvalho",CIKM 2022: 1666-1674,CIKM,A
+15,Reinforced Continual Learning for Graphs.,2022,"Appan Rakaraddi, Siew Kei Lam, Mahardhika Pratama, Marcus de Carvalho",CoRR abs/2209.01556 ,CORR,Unranked
+16,Snowball: Another View on Side-Channel Key Recovery Tools.,2022,"Jiangshan Long, Changhai Ou, Zhu Wang, Shihui Zheng, Fei Yan, Fan Zhang, Siew-Kei Lam",IACR Cryptol. ePrint Arch. 2022: 728 ,IACR,Unranked
+17,Passenger-centric vehicle routing for first-mile transportation considering request uncertainty.,2021,"Fangxin Ning, Guiyuan Jiang, Siew-Kei Lam, Changhai Ou, Peilan He, Yidan Sun",Inf. Sci. 570: 241-261 ,ISCI,Unranked
+18,ACSL: Adaptive correlation-driven sparsity learning for deep neural network compression.,2021,"Wei He, Meiqing Wu, Siew-Kei Lam",Neural Networks 144: 465-477 ,NN,Unranked
+19,SNR-Centric Power Trace Extractors for Side-Channel Attacks.,2021,"Changhai Ou, Siew-Kei Lam, Degang Sun, Xinping Zhou, Kexin Qiao, Qu Wang",IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 40: 620-632 ,TCAD,Unranked
+20,The Science of Guessing in Collision-Optimized Divide-and-Conquer Attacks.,2021,"Changhai Ou, Siew-Kei Lam, Guiyuan Jiang",IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 40: 1039-1051 ,TCAD,Unranked
+21,Information Entropy-Based Leakage Profiling.,2021,"Changhai Ou, Xinping Zhou, Siew-Kei Lam, Chengju Zhou, Fangxin Ning",IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 40: 1052-1062 ,TCAD,Unranked
+22,Multiple-Differential Mechanism for Collision-Optimized Divide-and-Conquer Attacks.,2021,"Changhai Ou, Chengju Zhou, Siew-Kei Lam, Guiyuan Jiang",IEEE Trans. Inf. Forensics Secur. 16: 418-430 ,TIFS,Unranked
+23,XDIVINSA: eXtended DIVersifying INStruction Agent to Mitigate Power Side-Channel Leakage.,2021,"Thinh Hung Pham, Ben Marshall, Alexander Fell, Siew-Kei Lam, Daniel Page",ASAP 2021: 179-186,ASAP,Unranked
+24,Cache-Aware Dynamic Skewed Tree for Fast Memory Authentication.,2021,"Saru Vig, Siew-Kei Lam, Rohan Juneja",ASP-DAC 2021: 402-407,ASPDAC,C
+25,Edge Accelerator for Lifelong Deep Learning using Streaming Linear Discriminant Analysis.,2021,"Duvindu Piyasena, Siew-Kei Lam, Meiqing Wu",FCCM 2021: 259,FCCM,B
+26,Accelerating Continual Learning on Edge FPGA.,2021,"Duvindu Piyasena, Siew-Kei Lam, Meiqing Wu",FPL 2021: 294-300,FPL,Unranked
+27,Self-Growing Spatial Graph Network for Context-Aware Pedestrian Trajectory Prediction.,2021,"Sirin Haddad, Siew-Kei Lam",ICIP 2021: 1029-1033,ICIP,B
+28,Predicting Traffic Congestion Evolution: A Deep Meta Learning Approach.,2021,"Yidan Sun, Guiyuan Jiang, Siew Kei Lam, Peilan He",IJCAI 2021: 3031-3037,IJCAI,A*
+29,Learning Congestion Propagation Behaviors for Traffic Prediction.,2021,"Yidan Sun, Peilan He, Guiyuan Jiang, Siew-Kei Lam",ITSC 2021: 2175-2180,ITSC,Unranked
+30,Hierarchical Loop Closure Detection for Long-term Visual SLAM with Semantic-Geometric Descriptors.,2021,"Gaurav Singh, Meiqing Wu, Siew-Kei Lam, Do Van Minh",ITSC 2021: 2909-2916,ITSC,Unranked
+31,CAP: Context-Aware Pruning for Semantic Segmentation.,2021,"Wei He, Meiqing Wu, Mingfu Liang, Siew-Kei Lam",WACV 2021: 959-968,WACV,A
+32,Multi-fold Correlation Attention Network for Predicting Traffic Speeds with Heterogeneous Frequency.,2021,"Yidan Sun, Guiyuan Jiang, Siew-Kei Lam, Peilan He, Fangxin Ning",CoRR abs/2104.09083 ,CORR,Unranked
+33,XDIVINSA: eXtended DIVersifying INStruction Agent to Mitigate Power Side-Channel Leakage.,2021,"Thinh Hung Pham, Ben Marshall, Alexander Fell, Siew-Kei Lam, Daniel Page",IACR Cryptol. ePrint Arch. 2021: 1053 ,IACR,Unranked
+34,CoTree: Push the Limits of Conquerable Space in Collision-Optimized Side-Channel Attacks.,2021,"Changhai Ou, Debiao He, Zhu Wang, Kexin Qiao, Shihui Zheng, Siew-Kei Lam",IACR Cryptol. ePrint Arch. 2021: 1582 ,IACR,Unranked
+35,Multiple-Choice Hardware/Software Partitioning for Tree Task-Graph on MPSoC.,2020,"Wenjun Shi, Jigang Wu, Guiyuan Jiang, Siew-Kei Lam",Comput. J. 63: 688-700 ,CJ,Unranked
+36,Learning heterogeneous traffic patterns for travel time prediction of bus journeys.,2020,"Peilan He, Guiyuan Jiang, Siew-Kei Lam, Yidan Sun",Inf. Sci. 512: 1394-1406 ,ISCI,Unranked
+37,Improving accuracy of HPC-based malware classification for embedded platforms using gradient descent optimization.,2020,"Manaar Alam, Debdeep Mukhopadhyay, Sai Praveen Kadiyala, Siew-Kei Lam, Thambipillai Srikanthan",J. Cryptogr. Eng. 10: 289-303 ,JCE,Unranked
+38,IROS 2019 Lifelong Robotic Vision: Object Recognition Challenge [Competitions].,2020,"Heechul Bae, Eoin Brophy, Rosa H. M. Chan, Baoquan Chen, Fan Feng, Gabriele Graffieti, Vidit Goel, Xinyue Hao, Hyonyoung Han, Sathursan Kanagarajah, Somesh Kumar, Siew-Kei Lam, Tin Lun Lam, Chuanlin Lan, Qi Liu, Vincenzo Lomonaco, Liang Ma, Davide Maltoni, German Ignacio Parisi, Lorenzo Pellegrini, Duvindu Piyasena, Shiliang Pu, Qi She, Debdoot Sheet, Soonyong Song, Youngsung Son, Zhengwei Wang, Tomas E. Ward, Jianwen Wu, Meiqing Wu, Di Xie, Yangsheng Xu, Lin Yang, Qihan Yang, Qiaoyong Zhong, Liguang Zhou",IEEE Robotics Autom. Mag. 27: 11-16 ,RAM,Unranked
+39,A Lightweight Detection Algorithm For Collision-Optimized Divide-and-Conquer Attacks.,2020,"Changhai Ou, Siew-Kei Lam, Chengju Zhou, Guiyuan Jiang, Fan Zhang",IEEE Trans. Computers 69: 1694-1706 ,TC,Unranked
+40,A First Study of Compressive Sensing for Side-Channel Leakage Sampling.,2020,"Changhai Ou, Chengju Zhou, Siew-Kei Lam",IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 39: 2166-2177 ,TCAD,Unranked
+41,Hardware Performance Counter-Based Fine-Grained Malware Detection.,2020,"Sai Praveen Kadiyala, Pranav Jadhav, Siew-Kei Lam, Thambipillai Srikanthan",ACM Trans. Embed. Comput. Syst. 19: 38:1-38:17 ,TECS,Unranked
+42,Peak-Hour Vehicle Routing for First-Mile Transportation: Problem Formulation and Algorithms.,2020,"Guiyuan Jiang, Siew-Kei Lam, Fangxin Ning, Peilan He, Jidong Xie",IEEE Trans. Intell. Transp. Syst. 21: 3308-3321 ,TITS,Unranked
+43,Group Cost-Sensitive BoostLR With Vector Form Decorrelated Filters for Pedestrian Detection.,2020,"Chengju Zhou, Meiqing Wu, Siew-Kei Lam",IEEE Trans. Intell. Transp. Syst. 21: 5022-5035 ,TITS,Unranked
+44,Designing Energy-Efficient MPSoC with Untrustworthy 3PIP Cores.,2020,"Yidan Sun, Guiyuan Jiang, Siew-Kei Lam, Fangxin Ning",IEEE Trans. Parallel Distributed Syst. 31: 51-63 ,TPDS,Unranked
+45,DISSECT: Dynamic Skew-and-Split Tree for Memory Authentication.,2020,"Saru Vig, Rohan Juneja, Siew-Kei Lam",DATE 2020: 1538-1543,DATE,B
+46,Dynamically Growing Neural Network Architecture for Lifelong Deep Learning on the Edge.,2020,"Duvindu Piyasena, Miyuru Thathsara, Sathursan Kanagarajah, Siew Kei Lam, Meiqing Wu",FPL 2020: 262-268,FPL,Unranked
+47,Evaluating the Merits of Ranking in Structured Network Pruning.,2020,"Kuldeep Sharma, Nirmala Ramakrishnan, Alok Prakash, Siew Kei Lam, Thambipillai Srikanthan",ICDCS 2020: 1389-1396,ICDCS,A
+48,Self-Growing Spatial Graph Networks for Pedestrian Trajectory Prediction.,2020,"Sirin Haddad, Siew-Kei Lam",WACV 2020: 1140-1148,WACV,A
+49,Fusing Semantics and Motion State Detection for Robust Visual SLAM.,2020,"Gaurav Singh, Meiqing Wu, Siew-Kei Lam",WACV 2020: 2753-2762,WACV,A
+50,IROS 2019 Lifelong Robotic Vision Challenge - Lifelong Object Recognition Report.,2020,"Qi She, Fan Feng, Qi Liu, Rosa H. M. Chan, Xinyue Hao, Chuanlin Lan, Qihan Yang, Vincenzo Lomonaco, German Ignacio Parisi, Heechul Bae, Eoin Brophy, Baoquan Chen, Gabriele Graffieti, Vidit Goel, Hyonyoung Han, Sathursan Kanagarajah, Somesh Kumar, Siew-Kei Lam, Tin Lun Lam, Liang Ma, Davide Maltoni, Lorenzo Pellegrini, Duvindu Piyasena, Shiliang Pu, Debdoot Sheet, Soonyong Song, Youngsung Son, Zhengwei Wang, Tomas E. Ward, Jianwen Wu, Meiqing Wu, Di Xie, Yangsheng Xu, Lin Yang, Qiaoyong Zhong, Liguang Zhou",CoRR abs/2004.14774 ,CORR,Unranked
+51,Graph2Kernel Grid-LSTM: A Multi-Cued Model for Pedestrian Trajectory Prediction by Learning Adaptive Neighborhoods.,2020,"Sirin Haddad, Siew Kei Lam",CoRR abs/2007.01915 ,CORR,Unranked
+52,Self-Growing Spatial Graph Network for Context-Aware Pedestrian Trajectory Prediction.,2020,"Sirin Haddad, Siew-Kei Lam",CoRR abs/2012.06320 ,CORR,Unranked
+53,Collaborative Task Offloading with Computation Result Reusing for Mobile Edge Computing.,2019,"Zikai Zhang, Jigang Wu, Long Chen, Guiyuan Jiang, Siew-Kei Lam",Comput. J. 62: 1450-1462 ,CJ,Unranked
+54,Algorithms for Reconfiguring NoC-Based Fault-Tolerant Multiprocessor Arrays.,2019,"Jigang Wu, Yalan Wu, Guiyuan Jiang, Siew Kei Lam",J. Circuits Syst. Comput. 28: 1950111:1-1950111:24 ,JCSC,Unranked
+55,Data-path unrolling with logic folding for area-time-efficient FPGA-based FAST corner detector.,2019,"Siew-Kei Lam, Teck Chuan Lim, Meiqing Wu, Bin Cao, Bhavan A. Jasani",J. Real Time Image Process. 16: 2147-2158 ,JRTIP,Unranked
+56,Area-Time Efficient Streaming Architecture for FAST and BRIEF Detector.,2019,"Siew-Kei Lam, Guiyuan Jiang, Meiqing Wu, Bin Cao",IEEE Trans. Circuits Syst. II Express Briefs 66-II: 282-286 ,TCAS,Unranked
+57,Travel-Time Prediction of Bus Journey With Multiple Bus Trips.,2019,"Peilan He, Guiyuan Jiang, Siew-Kei Lam, Dehua Tang",IEEE Trans. Intell. Transp. Syst. 20: 4192-4205 ,TITS,Unranked
+58,High-Throughput and Area-Optimized Architecture for rBRIEF Feature Extraction.,2019,"Thinh Hung Pham, Phong Tran, Siew-Kei Lam",IEEE Trans. Very Large Scale Integr. Syst. 27: 747-756 ,TVLSI,Unranked
+59,Framework for Fast Memory Authentication Using Dynamically Skewed Integrity Tree.,2019,"Saru Vig, Rohan Juneja, Guiyuan Jiang, Siew-Kei Lam, Changhai Ou",IEEE Trans. Very Large Scale Integr. Syst. 27: 2331-2343 ,TVLSI,Unranked
+60,Efficient three-stage auction schemes for cloudlets deployment in wireless access network.,2019,"Gangqiang Zhou, Jigang Wu, Long Chen, Guiyuan Jiang, Siew-Kei Lam",Wirel. Networks 25: 3335-3349 ,WINET,Unranked
+61,TAD: time side-channel attack defense of obfuscated source code.,2019,"Alexander Fell, Thinh Hung Pham, Siew-Kei Lam",ASP-DAC 2019: 58-63,ASPDAC,C
+62,Reducing Dynamic Power in Streaming CNN Hardware Accelerators by Exploiting Computational Redundancies.,2019,"Duvindu Piyasena, Rukshan Wickramasinghe, Debdeep Paul, Siew-Kei Lam, Meiqing Wu",FPL 2019: 354-359,FPL,Unranked
+63,Predicting Travel Time of Bus Journeys with Alternative Bus Services.,2019,"Peilan He, Yidan Sun, Guiyuan Jiang, Siew-Kei Lam",ICDM Workshops 2019: 114-123,ICDM,A*
+64,Lowering Dynamic Power of a Stream-based CNN Hardware Accelerator.,2019,"Duvindu Piyasena, Rukshan Wickramasinghe, Debdeep Paul, Siew-Kei Lam, Meiqing Wu",MMSP 2019: 1-6,MMSP,C
+65,Revisiting Visual Odometry for Real-Time Performance.,2019,"Gaurav Singh, Meiqing Wu, Siew-Kei Lam",MVA 2019: 1-6,MVA,National
+66,Bus Travel Speed Prediction using Attention Network of Heterogeneous Correlation Features.,2019,"Yidan Sun, Guiyuan Jiang, Siew-Kei Lam, Shicheng Chen, Peilan He",SDM 2019: 73-81,SDM,A
+67,Hardware Efficient NIPALS Architecture for Principal Component Analysis of Hyper Spectral Images.,2019,"Sai Praveen Kadiyala, Vikram Kumar Pudi, Mohit Garg, Hau T. Ngo, Siew-Kei Lam, Thambipillai Srikanthan",SoCC 2019: 224-229,SOCC,Unranked
+68,Situation-Aware Pedestrian Trajectory Prediction with Spatio-Temporal Attention Model.,2019,"Sirin Haddad, Meiqing Wu, He Wei, Siew Kei Lam",CoRR abs/1902.05437 ,CORR,Unranked
+69,Full Collision Attack: Pushing the Limits of Exhaustible Key Spaces.,2019,"Changhai Ou, Siew-Kei Lam",IACR Cryptol. ePrint Arch. 2019: 13 ,IACR,Unranked
+70,The Art of Guessing in Combined Side-Channel Collision Attacks.,2019,"Changhai Ou, Siew-Kei Lam, Guiyuan Jiang",IACR Cryptol. ePrint Arch. 2019: 690 ,IACR,Unranked
+71,SNR-Centric Power Trace Extractors for Side-Channel Attacks.,2019,"Changhai Ou, Degang Sun, Siew-Kei Lam, Xinping Zhou, Kexin Qiao, Qu Wang",IACR Cryptol. ePrint Arch. 2019: 1487 ,IACR,Unranked
+72,Automatic Pixel-Level Pavement Crack Detection Using Information of Multi-Scale Neighborhoods.,2018,"Dihao Ai, Guiyuan Jiang, Siew Kei Lam, Chengwu Li",IEEE Access 6: 24452-24463 ,ACCESS,Unranked
+73,Algorithms for Replica Placement and Update in Tree Network.,2018,"Jigang Wu, Long Chen, Xu Wang, Guiyuan Jiang, Siew-Kei Lam, Thambipillai Srikanthan",Comput. J. 61: 273-287 ,CJ,Unranked
+74,Efficient hybrid multicast approach in wireless data center network.,2018,"Longting Zhu, Jigang Wu, Guiyuan Jiang, Long Chen, Siew-Kei Lam",Future Gener. Comput. Syst. 83: 27-36 ,FGCS,Unranked
+75,Area-Time Efficient FAST Corner Detector Using Data-Path Transposition.,2018,"Siew-Kei Lam, Teck Chuan Lim, Meiqing Wu, Bin Cao, Bhavan A. Jasani",IEEE Trans. Circuits Syst. II Express Briefs 65-II: 1224-1228 ,TCAS,Unranked
+76,Threshold-Guided Design and Optimization for Harris Corner Detector Architecture.,2018,"Bhavan A. Jasani, Siew-Kei Lam, Pramod Kumar Meher, Meiqing Wu",IEEE Trans. Circuits Syst. Video Technol. 28: 3516-3526 ,TCSV,Unranked
+77,Rapid Memory-Aware Selection of Hardware Accelerators in Programmable SoC Design.,2018,"Alok Prakash, Christopher T. Clarke, Siew-Kei Lam, Thambipillai Srikanthan",IEEE Trans. Very Large Scale Integr. Syst. 26: 445-456 ,TVLSI,Unranked
+78,LifeSim: A lifetime reliability simulator for manycore systems.,2018,"R. Rohith, Vijeta Rathore, Vivek Chaturvedi, Amit Kumar Singh, Thambipillai Srikanthan, Siew-Kei Lam",CCWC 2018: 375-381,CCWC,Unranked
+79,Side-Channel Assisted Malware Classifier with Gradient Descent Correction for Embedded Platforms.,2018,"Manaar Alam, Debdeep Mukhopadhyay, Sai Praveen Kadiyala, Siew Kei Lam, Thambipillai Srikanthan",PROOFS 2018: 1-15,CHES,A
+80,Efficient Sparse to Dense Stereo Matching Technique.,2018,"Piyush Bhandari, Meiqing Wu, Nazia Aslam, Siew-Kei Lam, Maheshkumar H. Kolekar",CVIP  2018: 157-168,CVIP,Unranked
+81,Dynamic skewed tree for fast memory integrity verification.,2018,"Saru Vig, Guiyuan Jiang, Siew-Kei Lam",DATE 2018: 642-647,DATE,B
+82,HiMap: A hierarchical mapping approach for enhancing lifetime reliability of dark silicon manycore systems.,2018,"Vijeta Rathore, Vivek Chaturvedi, Amit Kumar Singh, Thambipillai Srikanthan, R. Rohith, Siew-Kei Lam, Muhammad Shafique",DATE 2018: 991-996,DATE,B
+83,CIDPro: Custom Instructions for Dynamic Program Diversification.,2018,"Thinh Hung Pham, Alexander Fell, Arnab Kumar Biswas, Siew-Kei Lam, Nandeesha Veeranna",FPL 2018: 224-229,FPL,Unranked
+84,Stream-Based ORB Feature Extractor with Dynamic Power Optimization.,2018,"Phong Tran, Thinh Hung Pham, Siew Kei Lam, Meiqing Wu, Bhavan A. Jasani",FPT 2018: 94-101,FPT,Unranked
+85,Rapid detection of rowhammer attacks using dynamic skewed hash tree.,2018,"Saru Vig, Siew-Kei Lam, Sarani Bhattacharya, Debdeep Mukhopadhyay",HASP@ISCA 2018: 7:1-7:8,ISCA,A*
+86,Efficient Three-stage Auction Schemes for Cloudlets Deployment in Wireless Access Network.,2018,"Gangqiang Zhou, Jigang Wu, Long Chen, Guiyuan Jiang, Siew-Kei Lam",CoRR abs/1804.01512 ,CORR,Unranked
+87,CIDPro: Custom Instructions for Dynamic Program Diversification.,2018,"Thinh Hung Pham, Alexander Fell, Arnab Kumar Biswas, Siew-Kei Lam, Nandeesha Veeranna",CoRR abs/1809.01221 ,CORR,Unranked
+88,Information Entropy Based Leakage Certification.,2018,"Changhai Ou, Xinping Zhou, Siew-Kei Lam",IACR Cryptol. ePrint Arch. 2018: 959 ,IACR,Unranked
+89,Compressive Sensing based Leakage Sampling and Reconstruction: A First Study.,2018,"Changhai Ou, Chengju Zhou, Siew-Kei Lam",IACR Cryptol. ePrint Arch. 2018: 1149 ,IACR,Unranked
+90,A Framework for Fast and Robust Visual Odometry.,2017,"Meiqing Wu, Siew-Kei Lam, Thambipillai Srikanthan",IEEE Trans. Intell. Transp. Syst. 18: 3433-3448 ,TITS,Unranked
+91,Joint Charging Tour Planning and Depot Positioning for Wireless Sensor Networks Using Mobile Chargers.,2017,"Guiyuan Jiang, Siew-Kei Lam, Yidan Sun, Lijia Tu, Jigang Wu",IEEE/ACM Trans. Netw. 25: 2250-2266 ,TON,Unranked
+92,Group Cost-sensitive Boosting with Multi-scale Decorrelated Filters for Pedestrian Detection.,2017,"Chengju Zhou, Meiqing Wu, Siew-Kei Lam",BMVC 2017,BMVC,A
+93,Lowering dynamic power in stream-based harris corner detection architecture.,2017,"Siew-Kei Lam, Rakesh Kumar Bijarniya, Meiqing Wu",FPT 2017: 176-182,FPT,Unranked
+94,General Algorithm for Fault-Tolerant Virtual Machine Assignments.,2017,"Jigang Wu, Zinan He, Yaoguo Zhang, Renfei Gao, Siew Kei Lam",ISPA/IUCC 2017: 990-995,ISPA,C
+95,Customizing Skewed Trees for Fast Memory Integrity Verification in Embedded Systems.,2017,"Saru Vig, Tan Yng Tzer, Guiyuan Jiang, Siew-Kei Lam",ISVLSI 2017: 213-218,ISVLSI,Unranked
+96,QoE-Aware Task Offloading for Time Constraint Mobile Applications.,2017,"Zikai Zhang, Jigang Wu, Guiyuan Jiang, Long Chen, Siew-Kei Lam",LCN 2017: 510-513,LCN,B
+97,Fast and Accurate Pedestrian Detection using Dual-Stage Group Cost-Sensitive RealBoost with Vector Form Filters.,2017,"Chengju Zhou, Meiqing Wu, Siew-Kei Lam",ACM Multimedia 2017: 735-743,MM,Unranked
+98,Approximate compressed sensing for hardware-efficient image compression.,2017,"Sai Praveen Kadiyala, Vikram Kumar Pudi, Siew-Kei Lam",SoCC 2017: 340-345,SOCC,Unranked
+99,Algorithms for bi-objective multiple-choice hardware/software partitioning.,2016,"Wenjun Shi, Jigang Wu, Siew Kei Lam, Thambipillai Srikanthan",Comput. Electr. Eng. 50: 127-142 ,CEE,Unranked
+100,Enhanced low-complexity pruning for corner detection.,2016,"Nirmala Ramakrishnan, Meiqing Wu, Siew Kei Lam, Thambipillai Srikanthan",J. Real Time Image Process. 12: 197-213 ,JRTIP,Unranked
+101,Reducing Access Latency in Virtual Machine Assignments.,2016,"Renfei Gao, Jigang Wu, Guiyuan Jiang, Siew Kei Lam, Thambipillai Srikanthan",HPCC/SmartCity/DSS 2016: 616-622,HPCC,C
+102,Bounded iterative thresholding for lumen region detection in endoscopic images.,2016,"Pon Nidhya Elango, Siew Kei Lam",ICARCV 2016: 1-6,ICARCV,C
+103,Exploiting Configuration Dependencies for Rapid Area-efficient Customization of Soft-core Processors.,2016,"Deshya Wijesundera, Alok Prakash, Siew Kei Lam, Thambipillai Srikanthan",SCOPES 2016: 163-172,SCOPES,C
+104,Shortest Partial Path First Algorithm for Reconfigurable Processor Array with Faults.,2016,"Jigang Wu, Ningjing Liu, Siew Kei Lam, Guiyuan Jiang",Trustcom/BigDataSE/ISPA 2016: 1198-1203,TRUSTCOM,Unranked
+105,Real-time road traffic density estimation using block variance.,2016,"Kratika Garg, Siew Kei Lam, Thambipillai Srikanthan, Vedika Agarwal",WACV 2016: 1-9,WACV,A
+106,Nonparametric Technique Based High-Speed Road Surface Detection.,2015,"Meiqing Wu, Siew Kei Lam, Thambipillai Srikanthan",IEEE Trans. Intell. Transp. Syst. 16: 874-884 ,TITS,Unranked
+107,Algorithmic aspects of graph reduction for hardware/software partitioning.,2015,"Guiyuan Jiang, Jigang Wu, Siew Kei Lam, Thambipillai Srikanthan, Jizhou Sun",J. Supercomput. 71: 2251-2274 ,TJS,Unranked
+108,Fast Replica Placement and Update Strategies in Tree Networks.,2015,"Xu Wang, Jigang Wu, Guiyuan Jiang, Siew Kei Lam, Thambipillai Srikanthan",CCGRID 2015: 915-920,CCGRID,B
+109,Rapid estimation of DSPs utilization for efficient high-level synthesis.,2015,"Yan Lin Aung, Siew Kei Lam, Thambipillai Srikanthan",DSP 2015: 1261-1265,ICDSP,Unranked
+110,Adaptive Window Strategy for High-Speed and Robust KLT Feature Tracker.,2015,"Nirmala Ramakrishnan, Thambipillai Srikanthan, Siew Kei Lam, Gauri Ravindra Tulsulkar",PSIVT 2015: 355-367,PSIVT,C
+111,KnapSim - Run-time efficient hardware-software partitioning technique for FPGAs.,2015,"Kratika Garg, Yan Lin Aung, Siew Kei Lam, Thambipillai Srikanthan",SoCC 2015: 64-69,SOCC,Unranked
+112,Addressing Productivity Challenges in Domain-Specific Reconfigurable Platforms: A Case Study on Extended Kalman Filter-Based Motor Control.,2014,"Yan Lin Aung, Siew Kei Lam, Thambipillai Srikanthan",J. Low Power Electron. 10: 455-466 ,JOLPE,Unranked
+113,Rapid evaluation of custom instruction selection approaches with FPGA estimation.,2014,"Siew Kei Lam, Thambipillai Srikanthan, Christopher T. Clarke",ACM Trans. Embed. Comput. Syst. 13: 75:1-75:29 ,TECS,Unranked
+114,Parallel reconfiguration algorithms for mesh-connected processor arrays.,2014,"Jigang Wu, Guiyuan Jiang, Yuze Shen, Siew Kei Lam, Jizhou Sun, Thambipillai Srikanthan",J. Supercomput. 69: 610-628 ,TJS,Unranked
+115,Exploiting FPGA-Aware Merging of Custom Instructions for Runtime Reconfiguration.,2014,"Siew Kei Lam, Christopher T. Clarke, Thambipillai Srikanthan",ACM Trans. Reconfigurable Technol. Syst. 7: 26:1-26:15 ,TRETS,Unranked
+116,Automated thresholding for low-complexity corner detection.,2014,"Nirmala Ramakrishnan, Meiqing Wu, Siew Kei Lam, Thambipillai Srikanthan",AHS 2014: 97-103,AHS,Unranked
+117,Mask-based non-maximal suppression with iterative pruning for low-complexity corner detection.,2014,"Nirmala Ramakrishnan, Meiqing Wu, Siew Kei Lam, Thambipillai Srikanthan",ISIC 2014: 368-371,ISICIR,Unranked
+118,Vision-based pedestrian tracking system using color and motion cue.,2014,"Meiqing Wu, Siew Kei Lam, Thambipillai Srikanthan, Tushar Shah",ISIC 2014: 372-375,ISICIR,Unranked
+119,Stereo based ROIs generation for detecting pedestrians in close proximity.,2014,"Meiqing Wu, Siew Kei Lam, Thambipillai Srikanthan",ITSC 2014: 1929-1934,ITSC,Unranked
+120,Algorithmic Aspects for Bi-Objective Multiple-Choice Hardware/Software Partitioning.,2014,"Wenjun Shi, Jigang Wu, Siew Kei Lam, Thambipillai Srikanthan",PAAP 2014: 7-12,PAAP,Unranked
+121,Iris Recognition Using Stable Dark Features.,2013,"Bo Liu, Siew Kei Lam, Thambipillai Srikanthan, Weiqi Yuan",J. Comput. 8: 41-48 ,JCP,Unranked
+122,FPGA-aware techniques for rapid generation of profitable custom instructions.,2013,"Alok Prakash, Siew Kei Lam, Christopher T. Clarke, Thambipillai Srikanthan",Microprocess. Microsystems 37: 259-269 ,MAM,Unranked
+123,Efficient heuristic and tabu search for hardware/software partitioning.,2013,"Jigang Wu, Pu Wang, Siew Kei Lam, Thambipillai Srikanthan",J. Supercomput. 66: 118-134 ,TJS,Unranked
+124,Modelling communication overhead for accessing local memories in hardware accelerators.,2013,"Alok Prakash, Siew Kei Lam, Thambipillai Srikanthan, Christopher T. Clarke",ASAP 2013: 31-34,ASAP,Unranked
+125,Preprocessing technique for accelerating reconfiguration of degradable VLSI arrays.,2013,"Yuanbo Zhu, Jigang Wu, Siew Kei Lam, Thambipillai Srikanthan",ISCAS 2013: 2424-2427,ISCAS,Unranked
+126,Hardware-Software Codesign of EKF-Based Motor Control for Domain-Specific Reconfigurable Platform.,2013,"Yan Lin Aung, Siew Kei Lam, Thambipillai Srikanthan",ISED 2013: 93-97,ISED,Unranked
+127,Real-Time Image Resizing Hardware Accelerator for Object Detection Algorithms.,2013,"Gaurav Mishra, Yan Lin Aung, Meiqing Wu, Siew Kei Lam, Thambipillai Srikanthan",ISED 2013: 98-102,ISED,Unranked
+128,Iris Recognition of Defocused Images for Mobile phones.,2012,"Bo Liu, Siew Kei Lam, Thambipillai Srikanthan, Weiqi Yuan",Int. J. Pattern Recognit. Artif. Intell. 26 ,IJPRAI,Unranked
+129,Area-time estimation of C-based functions for design space exploration.,2012,"Yan Lin Aung, Siew Kei Lam, Thambipillai Srikanthan",FPT 2012: 297-300,FPT,Unranked
+130,Reconfiguration Algorithms for Degradable VLSI Arrays with Switch Faults.,2012,"Yuanbo Zhu, Jigang Wu, Siew Kei Lam, Thambipillai Srikanthan",ICPADS 2012: 356-361,ICPADS,B
+131,Exploiting stable features for iris recognition of defocused images.,2012,"Bo Liu, Siew Kei Lam, Thambipillai Srikanthan, Weiqi Yuan",ISCAS 2012: 97-100,ISCAS,Unranked
+132,Low-complexity pruning for accelerating corner detection.,2012,"Meiqing Wu, Nirmala Ramakrishnan, Siew Kei Lam, Thambipillai Srikanthan",ISCAS 2012: 1684-1687,ISCAS,Unranked
+133,Exploiting FPGA-aware merging of custom instructions for runtime reconfiguration.,2012,"Siew Kei Lam, Thambipillai Srikanthan, Christopher T. Clarke",ReCoSoC 2012: 1-8,RECOSOC,Unranked
+134,Architecture-Aware Technique for Mapping Area-Time Efficient Custom Instructions onto FPGAs.,2011,"Siew Kei Lam, Thambipillai Srikanthan, Christopher T. Clarke",IEEE Trans. Computers 60: 680-692 ,TC,Unranked
+135,A Novel Binding Algorithm to Reduce Critical Path Delay During High Level Synthesis.,2011,"Sharad Sinha, Udit Dhawan, Siew Kei Lam, Thambipillai Srikanthan",ISVLSI 2011: 278-283,ISVLSI,Unranked
+136,Utilizing Dark Features for Iris Recognition in Less Constrained Environments.,2011,"Bo Liu, Siew Kei Lam, Thambipillai Srikanthan, Weiqi Yuan",PAAP 2011: 110-114,PAAP,Unranked
+137,Automatic Compilation of C Applications for FPGA-Based Hardware Acceleration.,2011,"Lieu My Chuong, Yan Lin Aung, Siew Kei Lam, Thambipillai Srikanthan, Chai-Soon Lim",PAAP 2011: 223-227,PAAP,Unranked
+138,Instruction set customization for area-constrained FPGA designs.,2011,"Alok Prakash, Siew Kei Lam, Christopher T. Clarke, Thambipillai Srikanthan",SoCC 2011: 329-334,SOCC,Unranked
+139,Compiler-assisted technique for rapid performance estimation of FPGA-based processors.,2011,"Yan Lin Aung, Siew Kei Lam, Thambipillai Srikanthan",SoCC 2011: 341-346,SOCC,Unranked
+140,Selecting profitable custom instructions for reconfigurable processors.,2010,"Tao Li, Wu Jigang, Siew Kei Lam, Thambipillai Srikanthan, Xicheng Lu",J. Syst. Archit. 56: 340-351 ,JSA,Unranked
+141,Hierarchical Loop Partitioning for Rapid Generation of Runtime Configurations.,2010,"Siew Kei Lam, Yun Deng, Jian Hu, Xilong Zhou, Thambipillai Srikanthan",ARC 2010: 282-293,ARC,Unranked
+142,Architecture-Aware Custom Instruction Generation for Reconfigurable Processors.,2010,"Alok Prakash, Siew Kei Lam, Amit Kumar Singh, Thambipillai Srikanthan",ARC 2010: 414-419,ARC,Unranked
+143,Accelerating shortest path computations in hardware.,2010,"Siew Kei Lam, Thambipillai Srikanthan",CASE 2010: 63-68,CASE,Unranked
+144,Performance estimation framework for FPGA-based processors.,2010,"Yan Lin Aung, Siew Kei Lam, Thambipillai Srikanthan",FPT 2010: 413-416,FPT,Unranked
+145,An efficient edge and corner detector.,2010,"Song Yang, Siew Kei Lam, Thambipillai Srikanthan",ICARCV 2010: 1628-1631,ICARCV,C
+146,Run-time management of custom instructions on a partially reconfigurable architecture.,2009,"Siew Kei Lam, Huang Fan, Thambipillai Srikanthan, Wu Jigang",Int. J. Inf. Commun. Technol. 2: 50-59 ,IJICT,Unranked
+147,Rapid design of area-efficient custom instructions for reconfigurable embedded processing.,2009,"Siew Kei Lam, Thambipillai Srikanthan",J. Syst. Archit. 55: 1-14 ,JSA,Unranked
+148,Selecting Profitable Custom Instructions for Area-Time-Efficient Realization on Reconfigurable Architectures.,2009,"Siew Kei Lam, Thambipillai Srikanthan, Christopher T. Clarke",IEEE Trans. Ind. Electron. 56: 3998-4005 ,TIE,Unranked
+149,Efficient Heuristic Algorithm for Rapid Custom-Instruction Selection.,2009,"Tao Li, Wu Jigang, Siew Kei Lam, Thambipillai Srikanthan, Xicheng Lu",ACIS-ICIS 2009: 266-270,ACISICIS,Unranked
+150,Rapid design exploration framework for application-aware customization of soft core processors.,2009,"Alok Prakash, Siew Kei Lam, Amit Kumar Singh, Thambipillai Srikanthan",FPL 2009: 539-542,FPL,Unranked
+151,Area-Time Estimation of Controller for Porting C-Based Functions onto FPGA.,2009,"Lieu My Chuong, Siew Kei Lam, Thambipillai Srikanthan",IEEE International Workshop on Rapid System Prototyping 2009: 145-151,RSP,C
+152,A Short Course on Implementing FPGA Based Digital Systems.,2008,"George Rosario Jagadeesh, Siew Kei Lam, Thambipillai Srikanthan",ICPADS 2008: 741-744,ICPADS,B
+153,Rapid Area-Time Estimation Technique for Porting C-based Applications onto FPGA platforms.,2007,"Lieu My Chuong, Siew Kei Lam, Thambipillai Srikanthan",Scalable Comput. Pract. Exp. 8 ,SCPE,Unranked
+154,Estimating Area Costs of Custom Instructions for FPGA-based Reconfigurable Processors.,2007,"Siew Kei Lam, Thambipillai Srikanthan",ASAP 2007: 89-94,ASAP,Unranked
+155,Efficient Architectures for Segmentation of Endoscopic Images in Micro-Robotic Auto Navigation Systems.,2006,"C. S. Lim, Siew Kei Lam, Hui Tian, Thambipillai Srikanthan",Int. J. Humanoid Robotics 3: 523-545 ,IJHR,Unranked
+156,Rapid generation of custom instructions using predefined dataflow structures.,2006,"Siew Kei Lam, Thambipillai Srikanthan, Christopher T. Clarke",Microprocess. Microsystems 30: 355-366 ,MAM,Unranked
+157,Energy Efficient Cache Tuning with Performance Bound.,2006,"Leipo Yan, Siew Kei Lam, Thambipillai Srikanthan, Wu Jigang",DELTA 2006: 97-100,DELTA,Unranked
+158,Modeling Arbitrator Delay-Area Dependencies in Customizable Instruction Set Processors.,2006,"Siew Kei Lam, Mohammed Shoaib, Thambipillai Srikanthan",DELTA 2006: 237-242,DELTA,Unranked
+159,Efficient management of custom instructions for run-time reconfigurable instruction set processors.,2006,"Siew Kei Lam, Bharathi N. Krishnan, Thambipillai Srikanthan",FPT 2006: 261-264,FPT,Unranked
+160,VLSI-efficient schemes for high-speed construction of tangent graph.,2005,"Siew Kei Lam, K. Sridharan, Thambipillai Srikanthan",Robotics Auton. Syst. 51: 248-260 ,RAS,Unranked
+161,Morphable Structures for Reconfigurable Instruction Set Processors.,2005,"Siew Kei Lam, Yun Deng, Thambipillai Srikanthan",Asia-Pacific Computer Systems Architecture Conference 2005: 450-463,APCSAC,Unranked
+162,Area-Time Efficient Sign Detection Technique for Binary Signed-Digit Number System.,2004,"Thambipillai Srikanthan, Siew Kei Lam, Mishra Suman",IEEE Trans. Computers 53: 69-72 ,TC,Unranked
+163,Hardware-efficient schemes for logarithmic approximation and binary search with application to visibility graph construction.,2004,"Siew Kei Lam, K. Sridharan, Thambipillai Srikanthan",IEEE Trans. Ind. Electron. 51: 1346-1348 ,TIE,Unranked
+164,High-throughput image rotation using sign-prediction based redundant cordic algorithm.,2004,"Suchitra Sathyanarayana, Siew Kei Lam, Thambipillai Srikanthan",ICIP 2004: 2833-2836,ICIP,B
+165,Implementing Otsu's thresholding process using area-time efficient logarithmic approximation unit.,2003,"Hui Tian, Siew Kei Lam, Thambipillai Srikanthan",ISCAS  2003: 21-24,ISCAS,Unranked
+166,Low cost logarithmic techniques for high-precision computations.,2003,"Siew Kei Lam, Devendra K. Chaudhaiy, Thambipillai Srikanthan",ISCAS  2003: 125-128,ISCAS,Unranked
+167,Architectural design and analysis toolbox to implement shortest path algorithms in hardware.,2003,"K. H. Quek, Siew Kei Lam, N. K. Agrawal, Thambipillai Srikanthan",ISCAS  2003: 224-227,ISCAS,Unranked
+168,Environment Modelling for Robot Navigation Using VLSI-Efficient Logarithmic Approximation Method.,2002,"Siew Kei Lam, Thambipillai Srikanthan",J. Intell. Robotic Syst. 35: 23-40 ,JIRS,Unranked
+169,A linear approximation based hybrid approach for binary logarithmic conversion.,2002,"Siew Kei Lam, Thambipillai Srikanthan",Microprocess. Microsystems 26: 353-361 ,MAM,Unranked
+170,Fuzzy-ART based image compression for hardware implementation.,2002,"C. S. Lim, Thambipillai Srikanthan, Vijayan K. Asari, Siew Kei Lam",APCCAS  2002: 147-150,APCCAS,Unranked
+171,Incorporating area-time flexibility to a binary signed-digit adder.,2002,"Siew Kei Lam, Thambipillai Srikanthan, Nitin Goyal, Neeraj Tyagi",APCCAS  2002: 485-489,APCCAS,Unranked
+172,An efficient architecture for adaptive progressive thresholding.,2002,"Hui Tian, Siew Kei Lam, Thambipillai Srikanthan, Chip-Hong Chang",APCCAS  2002: 513-516,APCCAS,Unranked
+173,Study on the Effect of Object to Camera Distance on Polynomial Expansion Coefficients in Barrel Distortion Correction.,2002,"Hui Tian, Thambipillai Srikanthan, Vijayan K. Asari, Siew Kei Lam",SSIAI 2002: 255-259,SSIAI,Unranked
+174,High-Speed Environment Representation Scheme for Dynamic Path Planning.,2001,"Siew Kei Lam, Thambipillai Srikanthan",J. Intell. Robotic Syst. 32: 307-319 ,JIRS,Unranked
+175,VLSI based hardware accelerator for compute intensive routing applications.,2000,Siew-Kei Lam,"Nanyang Technological University, Singapore, 2000",NAN,Unranked
+176,Dynamic multicast routing in VLSI.,2000,"Siew Kei Lam, Thambipillai Srikanthan",Comput. Commun. 23: 1055-1063 ,COMCOM,Unranked

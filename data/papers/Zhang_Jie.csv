@@ -1,0 +1,343 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Teacher-apprentices RL (TARL): leveraging complex policy distribution through generative adversarial hypernetwork in reinforcement learning.,2023,"Shi Yuan Tang, Athirai A. Irissappane, Frans A. Oliehoek, Jie Zhang",Auton. Agents Multi Agent Syst. 37: 25 ,AAMAS,A*
+1,DaisyRec 2.0: Benchmarking Recommendation for Rigorous Evaluation.,2023,"Zhu Sun, Hui Fang, Jie Yang, Xinghua Qu, Hongyang Liu, Di Yu, Yew-Soon Ong, Jie Zhang",IEEE Trans. Pattern Anal. Mach. Intell. 45: 8206-8226 ,PAMI,Unranked
+2,Learning to Solve 3-D Bin Packing Problem via Deep Reinforcement Learning and Constraint Programming.,2023,"Yuan Jiang, Zhiguang Cao, Jie Zhang",IEEE Trans. Cybern. 53: 2864-2875 ,TCYB,Unranked
+3,A Deep Reinforcement Learning Recommender System With Multiple Policies for Recommendations.,2023,"Mingsheng Fu, Liwei Huang, Ananya Rao, Athirai A. Irissappane, Jie Zhang, Hong Qu",IEEE Trans. Ind. Informatics 19: 2049-2061 ,TII,Unranked
+4,Learning to Solve Multiple-TSP With Time Window and Rejections via Deep Reinforcement Learning.,2023,"Rongkai Zhang, Cong Zhang, Zhiguang Cao, Wen Song, Puay Siew Tan, Jie Zhang, Bihan Wen, Justin Dauwels",IEEE Trans. Intell. Transp. Syst. 24: 1325-1336 ,TITS,Unranked
+5,Dynamic Opinion Maximization in Social Networks.,2023,"Qiang He, Hui Fang, Jie Zhang, Xingwei Wang",IEEE Trans. Knowl. Data Eng. 35: 350-361 ,TKDE,Unranked
+6,Learning Large Neighborhood Search for Vehicle Routing in Airport Ground Handling.,2023,"Jianan Zhou, Yaoxin Wu, Zhiguang Cao, Wen Song, Jie Zhang, Zhenghua Chen",IEEE Trans. Knowl. Data Eng. 35: 9769-9782 ,TKDE,Unranked
+7,A Critical Study on Data Leakage in Recommender System Offline Evaluation.,2023,"Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li",ACM Trans. Inf. Syst. 41: 75:1-75:27 ,TOIS,Unranked
+8,A Semi-Centralized Trust Management Model Based on Blockchain for Data Exchange in IoT System.,2023,"Yuan Liu, Chuang Zhang, Yu Yan, Xin Zhou, Zhihong Tian, Jie Zhang",IEEE Trans. Serv. Comput. 16: 858-871 ,TSC,Unranked
+9,Reinforcement Learning Enhanced Weighted Sampling for Accurate Subgraph Counting on Fully Dynamic Graph Streams.,2023,"Kaixin Wang, Cheng Long, Da Yan, Jie Zhang, H. V. Jagadish",ICDE 2023: 1084-1097,ICDE,A*
+10,Disentangling Motives behind Item Consumption and Social Connection for Mutually-enhanced Joint Prediction.,2023,"Youchen Sun, Zhu Sun, Xiao Sha, Jie Zhang, Yew Soon Ong",RecSys 2023: 613-624,RECSYS,Unranked
+11,Multi-view graph contrastive learning for solving vehicle routing problems.,2023,"Yuan Jiang, Zhiguang Cao, Yaoxin Wu, Jie Zhang",UAI 2023: 984-994,UAI,A
+12,WSDM 2023 Workshop on Interactive Recommender Systems.,2023,"Yong Liu, Hao Zhang, Zhu Sun, Shoujin Wang, Jie Zhang",WSDM 2023: 1275-1276,WSDM,A
+13,"Proceedings of the 17th ACM Conference on Recommender Systems, RecSys 2023, Singapore, Singapore, September 18-22, 2023.",2023,"Jie Zhang, Li Chen, Shlomo Berkovsky, Min Zhang, Tommaso Di Noia, Justin Basilico, Luiz Pizzato, Yang Song",ACM 2023 ,RECSYS,Unranked
+14,Learning Large Neighborhood Search for Vehicle Routing in Airport Ground Handling.,2023,"Jianan Zhou, Yaoxin Wu, Zhiguang Cao, Wen Song, Jie Zhang, Zhenghua Chen",CoRR abs/2302.13797 ,CORR,Unranked
+15,Neural Airport Ground Handling.,2023,"Yaoxin Wu, Jianan Zhou, Yunwen Xia, Xianli Zhang, Zhiguang Cao, Jie Zhang",CoRR abs/2303.02442 ,CORR,Unranked
+16,Retraining A Graph-based Recommender with Interests Disentanglement.,2023,"Yitong Ji, Aixin Sun, Jie Zhang",CoRR abs/2305.03624 ,CORR,Unranked
+17,Towards Omni-generalizable Neural Methods for Vehicle Routing Problems.,2023,"Jianan Zhou, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang",CoRR abs/2305.19587 ,CORR,Unranked
+18,Our Model Achieves Excellent Performance on MovieLens: What Does it Mean?,2023,"Yu-chen Fan, Yitong Ji, Jie Zhang, Aixin Sun",CoRR abs/2307.09985 ,CORR,Unranked
+19,Integrating social influence modeling and user modeling for trust prediction in signed networks.,2022,"Hui Fang, Xiaoming Li, Jie Zhang",Artif. Intell. 302: 103628 ,AI,Australasian B
+20,A sub-action aided deep reinforcement learning framework for latency-sensitive network slicing.,2022,"Da Xiao, Shuo Chen, Wei Ni, Jie Zhang, Jian (Andrew) Zhang, Ren Ping Liu",Comput. Networks 217: 109279 ,CN,National
+21,Learning variable ordering heuristics for solving Constraint Satisfaction Problems.,2022,"Wen Song, Zhiguang Cao, Jie Zhang, Chi Xu, Andrew Lim",Eng. Appl. Artif. Intell. 109: 104603 ,EAAI,Unranked
+22,ACDC: Online unsupervised cross-domain adaptation.,2022,"Marcus de Carvalho, Mahardhika Pratama, Jie Zhang, Edward Kien Yee Yapp",Knowl. Based Syst. 253: 109486 ,KBS,Unranked
+23,Disentangling Multi-Facet Social Relations for Recommendation.,2022,"Xiao Sha, Zhu Sun, Jie Zhang",IEEE Trans. Comput. Soc. Syst. 9: 867-878 ,TCSS,Unranked
+24,TriATNE: Tripartite Adversarial Training for Network Embeddings.,2022,"Qi-dong Liu, Cheng Long, Jie Zhang, Mingliang Xu, Pei Lv",IEEE Trans. Cybern. 52: 9634-9645 ,TCYB,Unranked
+25,Deep Reinforcement Learning Framework for Category-Based Item Recommendation.,2022,"Mingsheng Fu, Anubha Agrawal, Athirai A. Irissappane, Jie Zhang, Liwei Huang, Hong Qu",IEEE Trans. Cybern. 52: 12028-12041 ,TCYB,Unranked
+26,Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem.,2022,"Jingwen Li, Yining Ma, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, Jie Zhang",IEEE Trans. Cybern. 52: 13572-13585 ,TCYB,Unranked
+27,Heterogeneous Attentions for Solving Pickup and Delivery Problem via Deep Reinforcement Learning.,2022,"Jingwen Li, Liang Xin, Zhiguang Cao, Andrew Lim, Wen Song, Jie Zhang",IEEE Trans. Intell. Transp. Syst. 23: 2306-2315 ,TITS,Unranked
+28,GP3: Gaussian Process Path Planning for Reliable Shortest Path in Transportation Networks.,2022,"Hongliang Guo, Xuejie Hou, Zhiguang Cao, Jie Zhang",IEEE Trans. Intell. Transp. Syst. 23: 11575-11590 ,TITS,Unranked
+29,Point-of-Interest Recommendation for Users-Businesses With Uncertain Check-ins.,2022,"Zhu Sun, Chen Li, Yu Lei, Lu Zhang, Jie Zhang, Shunpan Liang",IEEE Trans. Knowl. Data Eng. 34: 5925-5938 ,TKDE,Unranked
+30,Learning Improvement Heuristics for Solving Routing Problems.,2022,"Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang, Andrew Lim",IEEE Trans. Neural Networks Learn. Syst. 33: 5057-5069 ,TNN,Unranked
+31,VRepChain: A Decentralized and Privacy-Preserving Reputation System for Social Internet of Vehicles Based on Blockchain.,2022,"Yuan Liu, Zehui Xiong, Qin Hu, Dusit Niyato, Jie Zhang, Chunyan Miao, Cyril Leung, Zhihong Tian",IEEE Trans. Veh. Technol. 71: 13242-13253 ,TVT,Unranked
+32,Learning to Solve Routing Problems via Distributionally Robust Optimization.,2022,"Yuan Jiang, Yaoxin Wu, Zhiguang Cao, Jie Zhang",AAAI 2022: 9786-9794,AAAI,A*
+33,Learning Scenario Representation for Solving Two-stage Stochastic Integer Programs.,2022,"Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang",ICLR 2022,ICLR,A*
+34,Do Loyal Users Enjoy Better Recommendations?: Understanding Recommender Accuracy from a Time Perspective.,2022,"Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li",ICTIR 2022: 92-97,ICTIR,Unranked
+35,Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences.,2022,"Lu Zhang, Zhu Sun, Ziqing Wu, Jie Zhang, Yew Soon Ong, Xinghua Qu",IJCAI 2022: 3751-3757,IJCAI,A*
+36,Graph Learning Assisted Multi-Objective Integer Programming.,2022,"Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang, Abhishek Gupta, Mingyan Lin",NeurIPS 2022,NIPS,Unranked
+37,Class-Incremental Learning via Knowledge Amalgamation.,2022,"Marcus de Carvalho, Mahardhika Pratama, Jie Zhang, Yajuan Sun",ECML/PKDD  2022: 36-50,PKDD,Unranked
+38,Prototype Feature Extraction for Multi-task Learning.,2022,"Shen Xin, Yuhang Jiao, Cheng Long, Yuguang Wang, Xiaowei Wang, Sen Yang, Ji Liu, Jie Zhang",WWW 2022: 2472-2481,WWW,A*
+39,Learning to Solve Routing Problems via Distributionally Robust Optimization.,2022,"Yuan Jiang, Yaoxin Wu, Zhiguang Cao, Jie Zhang",CoRR abs/2202.07241 ,CORR,Unranked
+40,Recommender May Not Favor Loyal Users.,2022,"Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li",CoRR abs/2204.05927 ,CORR,Unranked
+41,DaisyRec 2.0: Benchmarking Recommendation for Rigorous Evaluation.,2022,"Zhu Sun, Hui Fang, Jie Yang, Xinghua Qu, Hongyang Liu, Di Yu, Yew-Soon Ong, Jie Zhang",CoRR abs/2206.10848 ,CORR,Unranked
+42,A Multi-Channel Next POI Recommendation Framework with Multi-Granularity Check-in Signals.,2022,"Zhu Sun, Yu Lei, Lu Zhang, Chen Li, Yew-Soon Ong, Jie Zhang",CoRR abs/2209.00472 ,CORR,Unranked
+43,Class-Incremental Learning via Knowledge Amalgamation.,2022,"Marcus de Carvalho, Mahardhika Pratama, Jie Zhang, Yajuan San",CoRR abs/2209.02112 ,CORR,Unranked
+44,Learning to Solve Multiple-TSP with Time Window and Rejections via Deep Reinforcement Learning.,2022,"Rongkai Zhang, Cong Zhang, Zhiguang Cao, Wen Song, Puay Siew Tan, Jie Zhang, Bihan Wen, Justin Dauwels",CoRR abs/2209.06094 ,CORR,Unranked
+45,Reinforcement Learning Enhanced Weighted Sampling for Accurate Subgraph Counting on Fully Dynamic Graph Streams.,2022,"Kaixin Wang, Cheng Long, Da Yan, Jie Zhang, H. V. Jagadish",CoRR abs/2211.06793 ,CORR,Unranked
+46,Learning to Search for Job Shop Scheduling via Deep Reinforcement Learning.,2022,"Cong Zhang, Wen Song, Zhiguang Cao, Jie Zhang, Puay Siew Tan, Chi Xu",CoRR abs/2211.10936 ,CORR,Unranked
+47,Decision-making with Imaginary Opponent Models.,2022,"Jing Sun, Shuo Chen, Cong Zhang, Jie Zhang",CoRR abs/2211.11940 ,CORR,Unranked
+48,Hierarchical attentive knowledge graph embedding for personalized recommendation.,2021,"Xiao Sha, Zhu Sun, Jie Zhang",Electron. Commer. Res. Appl. 48: 101071 ,ECRA,Unranked
+49,Step-Wise Deep Learning Models for Solving Routing Problems.,2021,"Liang Xin, Wen Song, Zhiguang Cao, Jie Zhang",IEEE Trans. Ind. Informatics 17: 4861-4871 ,TII,Unranked
+50,Multi-Decoder Attention Model with Embedding Glimpse for Solving Vehicle Routing Problems.,2021,"Liang Xin, Wen Song, Zhiguang Cao, Jie Zhang",AAAI 2021: 12042-12049,AAAI,A*
+51,Preventing Overfitting via Sample Reweighting for Recommender System Incremental Update (Student Abstract).,2021,"Danni Peng, Xiaobo Hu, Anxiang Zeng, Jie Zhang",AAAI 2021: 15863-15864,AAAI,A*
+52,Learning Complex Policy Distribution with CEM Guided Adversarial Hypernetwork.,2021,"Shi Yuan Tang, Athirai A. Irissappane, Frans A. Oliehoek, Jie Zhang",AAMAS 2021: 1308-1316,ATAL,Unranked
+53,Solving 3D Bin Packing Problem via Multimodal Deep Reinforcement Learning.,2021,"Yuan Jiang, Zhiguang Cao, Jie Zhang",AAMAS 2021: 1548-1550,ATAL,Unranked
+54,A Blockchain-Enabled Quantitative Approach to Trust and Reputation Management with Sparse Evidence.,2021,"Leonid Zeynalvand, Tie Luo, Ewa Andrejczuk, Dusit Niyato, Sin G. Teo, Jie Zhang",AAMAS 2021: 1707-1708,ATAL,Unranked
+55,ATNN: Adversarial Two-Tower Neural Network for New Item's Popularity Prediction in E-commerce.,2021,"Shen Xin, Zhao Li, Pengcheng Zou, Cheng Long, Jie Zhang, Jiajun Bu, Jingren Zhou",ICDE 2021: 2499-2510,ICDE,A*
+56,NeuroLKH: Combining Deep Learning Model with Lin-Kernighan-Helsgaun Heuristic for Solving the Traveling Salesman Problem.,2021,"Liang Xin, Wen Song, Zhiguang Cao, Jie Zhang",NeurIPS 2021: 7472-7483,NIPS,Unranked
+57,Learning Large Neighborhood Search Policy for Integer Programming.,2021,"Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang",NeurIPS 2021: 30075-30087,NIPS,Unranked
+58,Learning an Adaptive Meta Model-Generator for Incrementally Updating Recommender Systems.,2021,"Danni Peng, Sinno Jialin Pan, Jie Zhang, Anxiang Zeng",RecSys 2021: 411-421,RECSYS,Unranked
+59,Adaptive Holding for Online Bottleneck Matching with Delays.,2021,"Kaixin Wang, Cheng Long, Yongxin Tong, Jie Zhang, Yi Xu",SDM 2021: 235-243,SDM,A
+60,Exploiting Human Trust to Improve Recommender Systems.,2021,Jie Zhang,UMAP  2021: 181,UM,Unranked
+61,"Proceedings of the 22nd International Workshop on Trust in Agent Societies (TRUST 2021) Co-located with the 20th International Conferences on Autonomous Agents and Multiagent Systems (AAMAS 2021), London, UK, May 3-7, 2021.",2021,"Dongxia Wang, Rino Falcone, Jie Zhang","CEUR Workshop Proceedings 3022, CEUR-WS.org 2021 ",ATAL,Unranked
+62,SelfCF: A Simple Framework for Self-supervised Collaborative Filtering.,2021,"Xin Zhou, Aixin Sun, Yong Liu, Jie Zhang, Chunyan Miao",CoRR abs/2107.03019 ,CORR,Unranked
+63,ACDC: Online Unsupervised Cross-Domain Adaptation.,2021,"Marcus de Carvalho, Mahardhika Pratama, Jie Zhang, Edward Kien Yee Yapp",CoRR abs/2110.01326 ,CORR,Unranked
+64,Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem.,2021,"Jingwen Li, Yining Ma, Ruize Gao, Zhiguang Cao, Andrew Lim, Wen Song, Jie Zhang",CoRR abs/2110.02629 ,CORR,Unranked
+65,Heterogeneous Attentions for Solving Pickup and Delivery Problem via Deep Reinforcement Learning.,2021,"Jingwen Li, Liang Xin, Zhiguang Cao, Andrew Lim, Wen Song, Jie Zhang",CoRR abs/2110.02634 ,CORR,Unranked
+66,NeuroLKH: Combining Deep Learning Model with Lin-Kernighan-Helsgaun Heuristic for Solving the Traveling Salesman Problem.,2021,"Liang Xin, Wen Song, Zhiguang Cao, Jie Zhang",CoRR abs/2110.07983 ,CORR,Unranked
+67,Learning Large Neighborhood Search Policy for Integer Programming.,2021,"Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang",CoRR abs/2111.03466 ,CORR,Unranked
+68,Learning an Adaptive Meta Model-Generator for Incrementally Updating Recommender Systems.,2021,"Danni Peng, Sinno Jialin Pan, Jie Zhang, Anxiang Zeng",CoRR abs/2111.04282 ,CORR,Unranked
+69,"A 2020 perspective on ""A generalized stereotype learning approach and its instantiation in trust modeling"".",2020,"Hui Fang, Jie Zhang, Murat Sensoy",Electron. Commer. Res. Appl. 40: 100955 ,ECRA,Unranked
+70,Modeling hierarchical category transition for next POI recommendation with uncertain check-ins.,2020,"Lu Zhang, Zhu Sun, Jie Zhang, Horst Kloeden, Felix Klanner",Inf. Sci. 515: 169-190 ,ISCI,Unranked
+71,Cost-sensitive deep forest for price prediction.,2020,"Chao Ma, Zhenbing Liu, Zhiguang Cao, Wen Song, Jie Zhang, Weiliang Zeng",Pattern Recognit. 107: 107499 ,PR,Unranked
+72,Learning Network Representations With Different Order Structural Information.,2020,"Qi-dong Liu, Xin Zhou, Cheng Long, Jie Zhang, Mingliang Xu",IEEE Trans. Comput. Soc. Syst. 7: 907-914 ,TCSS,Unranked
+73,Information Theoretical Analysis of Unfair Rating Attacks Under Subjectivity.,2020,"Dongxia Wang, Tim Muller, Jie Zhang, Yang Liu",IEEE Trans. Inf. Forensics Secur. 15: 816-828 ,TIFS,Unranked
+74,An Attentional Recurrent Neural Network for Personalized Next Location Recommendation.,2020,"Qing Guo, Zhu Sun, Jie Zhang, Yin-Leng Theng",AAAI 2020: 83-90,AAAI,A*
+75,A Skip-Connected Evolving Recurrent Neural Network for Data Stream Classification under Label Latency Scenario.,2020,"Monidipa Das, Mahardhika Pratama, Jie Zhang, Yew-Soon Ong",AAAI 2020: 3717-3724,AAAI,A*
+76,AATEAM: Achieving the Ad Hoc Teamwork by Employing the Attention Mechanism.,2020,"Shuo Chen, Ewa Andrejczuk, Zhiguang Cao, Jie Zhang",AAAI 2020: 7095-7102,AAAI,A*
+77,COBRA: Context-Aware Bernoulli Neural Networks for Reputation Assessment.,2020,"Leonid Zeynalvand, Tie Luo, Jie Zhang",AAAI 2020: 7317-7324,AAAI,A*
+78,Multi-Channel Sellers Traffic Allocation in Large-scale E-commerce Promotion.,2020,"Shen Xin, Yizhou Ye, Martin Ester, Cheng Long, Jie Zhang, Zhao Li, Kaiying Yuan, Yanghua Li",CIKM 2020: 2845-2852,CIKM,A
+79,Efficient Community Search over Large Directed Graph: An Augmented Index-based Approach.,2020,"Yankai Chen, Jie Zhang, Yixiang Fang, Xin Cao, Irwin King",IJCAI 2020: 3544-3550,IJCAI,A*
+80,An Interactive Multi-Task Learning Framework for Next POI Recommendation with Uncertain Check-ins.,2020,"Lu Zhang, Zhu Sun, Jie Zhang, Yu Lei, Chen Li, Ziqing Wu, Horst Kloeden, Felix Klanner",IJCAI 2020: 3551-3557,IJCAI,A*
+81,Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning.,2020,"Cong Zhang, Wen Song, Zhiguang Cao, Jie Zhang, Puay Siew Tan, Chi Xu",NeurIPS 2020,NIPS,Unranked
+82,Are We Evaluating Rigorously? Benchmarking Recommendation for Reproducible Evaluation and Fair Comparison.,2020,"Zhu Sun, Di Yu, Hui Fang, Jie Yang, Xinghua Qu, Jie Zhang, Cong Geng",RecSys 2020: 23-32,RECSYS,Unranked
+83,A Re-visit of the Popularity Baseline in Recommender Systems.,2020,"Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li",SIGIR 2020: 1749-1752,SIGIR,A*
+84,A Re-visit of the Popularity Baseline in Recommender Systems.,2020,"Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li",CoRR abs/2005.13829 ,CORR,Unranked
+85,On Offline Evaluation of Recommender Systems.,2020,"Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li",CoRR abs/2010.11060 ,CORR,Unranked
+86,Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning.,2020,"Cong Zhang, Wen Song, Zhiguang Cao, Jie Zhang, Puay Siew Tan, Chi Xu",CoRR abs/2010.12367 ,CORR,Unranked
+87,Delayed Feedback Modeling for the Entire Space Conversion Rate Prediction.,2020,"Yanshi Wang, Jie Zhang, Qing Da, Anxiang Zeng",CoRR abs/2011.11826 ,CORR,Unranked
+88,Multi-Decoder Attention Model with Embedding Glimpse for Solving Vehicle Routing Problems.,2020,"Liang Xin, Wen Song, Zhiguang Cao, Jie Zhang",CoRR abs/2012.10638 ,CORR,Unranked
+89,Which Channel to Ask My Question?: Personalized Customer Service Request Stream Routing Using Deep Reinforcement Learning.,2019,"Zining Liu, Chong Long, Xiaolu Lu, Zehong Hu, Jie Zhang, Yafang Wang",IEEE Access 7: 107744-107756 ,ACCESS,Unranked
+90,Research commentary on recommendations with side information: A survey and research directions.,2019,"Zhu Sun, Qing Guo, Jie Yang, Hui Fang, Guibing Guo, Jie Zhang, Robin Burke",Electron. Commer. Res. Appl. 37 ,ECRA,Unranked
+91,Improving IoT Data Quality in Mobile Crowd Sensing: A Cross Validation Approach.,2019,"Tie Luo, Jianwei Huang, Salil S. Kanhere, Jie Zhang, Sajal K. Das",IEEE Internet Things J. 6: 5651-5664 ,IOTJ,Unranked
+92,A Sampling Approach for Proactive Project Scheduling under Generalized Time-dependent Workability Uncertainty.,2019,"Wen Song, Donghun Kang, Jie Zhang, Zhiguang Cao, Hui Xi",J. Artif. Intell. Res. 64: 385-427 ,JAIR,Unranked
+93,Securing Android App Markets via Modeling and Predicting Malware Spread Between Markets.,2019,"Guozhu Meng, Matthew Patrick, Yinxing Xue, Yang Liu, Jie Zhang",IEEE Trans. Inf. Forensics Secur. 14: 1944-1959 ,TIFS,Unranked
+94,Exploring Communities in Large Profiled Graphs.,2019,"Yankai Chen, Yixiang Fang, Reynold Cheng, Yun Li, Xiaojun Chen, Jie Zhang",IEEE Trans. Knowl. Data Eng. 31: 1624-1629 ,TKDE,Unranked
+95,Introduction to the Special Section on Trust and AI.,2019,"Jie Zhang, Jamal Bentahar, Rino Falcone, Timothy J. Norman, Murat Sensoy",ACM Trans. Internet Techn. 19 ,TOIT,Unranked
+96,Supervised User Ranking in Signed Social Networks.,2019,"Xiaoming Li, Hui Fang, Jie Zhang",AAAI 2019: 184-191,AAAI,A*
+97,General Robustness Evaluation of Incentive Mechanism against Bounded Rationality Using Continuum-Armed Bandits.,2019,"Zehong Hu, Jie Zhang, Zhao Li",AAAI 2019: 6070-6078,AAAI,A*
+98,Fraud Regulating Policy for E-Commerce via Constrained Contextual Bandits.,2019,"Zehong Hu, Zhen Wang, Zhao Li, Shichang Hu, Shasha Ruan, Jie Zhang",AAMAS 2019: 1377-1385,ATAL,Unranked
+99,Exploring Communities in Large Profiled Graphs (Extended Abstract).,2019,"Yankai Chen, Yixiang Fang, Reynold Cheng, Yun Li, Xiaojun Chen, Jie Zhang",ICDE 2019: 2159-2160,ICDE,A*
+100,MUSE-RNN: A Multilayer Self-Evolving Recurrent Neural Network for Data Stream Classification.,2019,"Monidipa Das, Mahardhika Pratama, Septiviana Savitri, Jie Zhang",ICDM 2019: 110-119,ICDM,A*
+101,Modeling Heterogeneous Influences for Point-of-Interest Recommendation in Location-Based Social Networks.,2019,"Qing Guo, Zhu Sun, Jie Zhang, Yin-Leng Theng",ICWE 2019: 72-80,ICWE,B
+102,ATSIS: Achieving the Ad hoc Teamwork by Sub-task Inference and Selection.,2019,"Shuo Chen, Ewa Andrejczuk, Athirai Aravazhi Irissappane, Jie Zhang",IJCAI 2019: 172-179,IJCAI,A*
+103,Exploring Communities in Large Profiled Graphs.,2019,"Yankai Chen, Yixiang Fang, Reynold Cheng, Yun Li, Xiaojun Chen, Jie Zhang",CoRR abs/1901.05451 ,CORR,Unranked
+104,Research Commentary on Recommendations with Side Information: A Survey and Research Directions.,2019,"Zhu Sun, Qing Guo, Jie Yang, Hui Fang, Guibing Guo, Jie Zhang, Robin Burke",CoRR abs/1909.12807 ,CORR,Unranked
+105,Attentive Knowledge Graph Embedding for Personalized Recommendation.,2019,"Xiao Sha, Zhu Sun, Jie Zhang",CoRR abs/1910.08288 ,CORR,Unranked
+106,Which Channel to Ask My Question? Personalized Customer Service RequestStream Routing using DeepReinforcement Learning.,2019,"Zining Liu, Chong Long, Xiaolu Lu, Zehong Hu, Jie Zhang, Yafang Wang",CoRR abs/1911.10521 ,CORR,Unranked
+107,Learning Improvement Heuristics for Solving the Travelling Salesman Problem.,2019,"Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang, Andrew Lim",CoRR abs/1912.05784 ,CORR,Unranked
+108,COBRA: Context-aware Bernoulli Neural Networks for Reputation Assessment.,2019,"Leonid Zeynalvand, Tie Luo, Jie Zhang",CoRR abs/1912.08446 ,CORR,Unranked
+109,Learning Variable Ordering Heuristics for Solving Constraint Satisfaction Problems.,2019,"Wen Song, Zhiguang Cao, Jie Zhang, Andrew Lim",CoRR abs/1912.10762 ,CORR,Unranked
+110,A generalized stereotype learning approach and its instantiation in trust modeling.,2018,"Hui Fang, Jie Zhang, Murat Sensoy",Electron. Commer. Res. Appl. 30: 149-158 ,ECRA,Unranked
+111,BPRH: Bayesian personalized ranking for heterogeneous implicit feedback.,2018,"Huihuai Qiu, Yun Liu, Guibing Guo, Zhu Sun, Jie Zhang, Hai Thanh Nguyen",Inf. Sci. 453: 80-98 ,ISCI,Unranked
+112,"ACM UMAP 2018 - User Modeling, Adaptation and Personalization: 8-11 July, 2018 at NTU, Singapore.",2018,"Jie Zhang, Tanja Mitrovic, David Chin, Li Chen",SIGWEB Newsl. 2018: 2:1-2:5 ,SIGWEB,Unranked
+113,An agent-based simulation system for multi-project scheduling under uncertainty.,2018,"Wen Song, Hui Xi, Donghun Kang, Jie Zhang",Simul. Model. Pract. Theory 86: 187-203 ,SIMPRA,Unranked
+114,Toward General Robustness Evaluation of Incentive Mechanism Against Bounded Rationality.,2018,"Zehong Hu, Jie Zhang",IEEE Trans. Comput. Soc. Syst. 5: 698-712 ,TCSS,Unranked
+115,A Bayesian Multiagent Trust Model for Social Networks.,2018,"Noel Sardana, Robin Cohen, Jie Zhang, Shuo Chen",IEEE Trans. Comput. Soc. Syst. 5: 995-1008 ,TCSS,Unranked
+116,A Multiagent-Based Approach for Vehicle Routing by Considering Both Arriving on Time and Total Travel Time.,2018,"Zhiguang Cao, Hongliang Guo, Jie Zhang",ACM Trans. Intell. Syst. Technol. 9: 25:1-25:21 ,TIST,Unranked
+117,FILE: A Novel Framework for Predicting Social Status in Signed Networks.,2018,"Xiaoming Li, Hui Fang, Jie Zhang",AAAI 2018: 330-337,AAAI,A*
+118,POMDP-Based Decision Making for Fast Event Handling in VANETs.,2018,"Shuo Chen, Athirai Aravazhi Irissappane, Jie Zhang",AAAI 2018: 4646-4653,AAAI,A*
+119,Risk-Aware Proactive Scheduling via Conditional Value-at-Risk.,2018,"Wen Song, Donghun Kang, Jie Zhang, Hui Xi",AAAI 2018: 6278-6285,AAAI,A*
+120,An Operation Network for Abstractive Sentence Compression.,2018,"Naitong Yu, Jie Zhang, Minlie Huang, Xiaoyan Zhu",COLING 2018: 1065-1076,COLING,B
+121,MASA: Multi-Agent Subjectivity Alignment for Trustworthy Internet of Things.,2018,"Leonid Zeynalvand, Jie Zhang, Shuo Chen, Tony T. Luo",FUSION 2018: 2013-2020,FUSION,C
+122,A Novel Strategy for Active Task Assignment in Crowd Labeling.,2018,"Zehong Hu, Jie Zhang",IJCAI 2018: 1538-1545,IJCAI,A*
+123,Inference Aided Reinforcement Learning for Incentive Mechanism Design in Crowdsourcing.,2018,"Zehong Hu, Yitao Liang, Jie Zhang, Zhao Li, Yang Liu",NeurIPS 2018: 5512-5522,NIPS,Unranked
+124,Recurrent knowledge graph embedding for effective recommendation.,2018,"Zhu Sun, Jie Yang, Jie Zhang, Alessandro Bozzon, Long-Kai Huang, Chi Xu",RecSys 2018: 297-305,RECSYS,Unranked
+125,Who is Your Best Friend?: Ranking Social Network Friends According to Trust Relationship.,2018,"Xiaoming Li, Hui Fang, Qing Yang, Jie Zhang",UMAP 2018: 301-309,UM,Unranked
+126,"Proceedings of the 26th Conference on User Modeling, Adaptation and Personalization, UMAP 2018, Singapore, July 08-11, 2018.",2018,"Tanja Mitrovic, Jie Zhang, Li Chen, David Chin",ACM 2018 ,UM,Unranked
+127,"Adjunct Publication of the 26th Conference on User Modeling, Adaptation and Personalization, UMAP 2018, Singapore, July 08-11, 2018.",2018,"Tanja Mitrovic, Jie Zhang, Li Chen, David Chin",ACM 2018 ,UM,Unranked
+128,Inference Aided Reinforcement Learning for Incentive Mechanism Design in Crowdsourcing.,2018,"Zehong Hu, Yitao Liang, Yang Liu, Jie Zhang",CoRR abs/1806.00206 ,CORR,Unranked
+129,Filtering unfair ratings from dishonest advisors in multi-criteria e-markets: a biclustering-based approach.,2017,"Athirai Aravazhi Irissappane, Jie Zhang",Auton. Agents Multi Agent Syst. 31: 36-65 ,AAMAS,A*
+130,A multi-unit combinatorial auction based approach for decentralized multi-project scheduling.,2017,"Wen Song, Donghun Kang, Jie Zhang, Hui Xi",Auton. Agents Multi Agent Syst. 31: 1548-1577 ,AAMAS,A*
+131,Artificial Intelligence Research in Singapore: Assisting the Development of a Smart Nation.,2017,"Pradeep Varakantham, Bo An, Bryan Low, Jie Zhang",AI Mag. 38: 102-105 ,AIM,Unranked
+132,Measuring similarity of users with qualitative preferences for service selection.,2017,"Hongbing Wang, Hualan Wang, Guibing Guo, Yangyu Tang, Jie Zhang",Knowl. Inf. Syst. 51: 561-594 ,KAIS,Unranked
+133,Factored similarity models with social trust for top-N item recommendation.,2017,"Guibing Guo, Jie Zhang, Feida Zhu, Xingwei Wang",Knowl. Based Syst. 122: 17-25 ,KBS,Unranked
+134,CONGRESS: A Hybrid Reputation System for Coping with Rating Subjectivity.,2017,"Yuan Liu, Jie Zhang, Quanyan Zhu, Xingwei Wang",IEEE Trans. Comput. Soc. Syst. 4: 163-178 ,TCSS,Unranked
+135,Routing Multiple Vehicles Cooperatively: Minimizing Road Network Breakdown Probability.,2017,"Hongliang Guo, Zhiguang Cao, Madhavan Seshadri, Jie Zhang, Dusit Niyato, Ulrich Fastenrath",IEEE Trans. Emerg. Top. Comput. Intell. 1: 112-124 ,TETCI,Unranked
+136,Auditing Anti-Malware Tools by Evolving Android Malware and Dynamic Loading Technique.,2017,"Yinxing Xue, Guozhu Meng, Yang Liu, Tian Huat Tan, Hongxu Chen, Jun Sun, Jie Zhang",IEEE Trans. Inf. Forensics Secur. 12: 1529-1544 ,TIFS,Unranked
+137,A Unified Framework for Vehicle Rerouting and Traffic Light Control to Reduce Traffic Congestion.,2017,"Zhiguang Cao, Siwei Jiang, Jie Zhang, Hongliang Guo",IEEE Trans. Intell. Transp. Syst. 18: 1958-1973 ,TITS,Unranked
+138,Integrating Trust with User Preference for Effective Web Service Composition.,2017,"Hongbing Wang, Bin Zou, Guibing Guo, Danrong Yang, Jie Zhang",IEEE Trans. Serv. Comput. 10: 574-588 ,TSC,Unranked
+139,Collusive Opinion Fraud Detection in Online Reviews: A Probabilistic Modeling Approach.,2017,"Chang Xu, Jie Zhang",ACM Trans. Web 11: 25:1-25:28 ,TWEB,Unranked
+140,Exploiting both Vertical and Horizontal Dimensions of Feature Hierarchy for Effective Recommendation.,2017,"Zhu Sun, Jie Yang, Jie Zhang, Alessandro Bozzon",AAAI 2017: 189-195,AAAI,A*
+141,Maximizing the Probability of Arriving on Time: A Practical Q-Learning Method.,2017,"Zhiguang Cao, Hongliang Guo, Jie Zhang, Frans A. Oliehoek, Ulrich Fastenrath",AAAI 2017: 4481-4487,AAAI,A*
+142,Rethinking the Link Prediction Problem in Signed Social Networks.,2017,"Xiaoming Li, Hui Fang, Jie Zhang",AAAI 2017: 4955-4956,AAAI,A*
+143,A Sampling Based Approach for Proactive Project Scheduling with Time-Dependent Duration Uncertainty.,2017,"Wen Song, Donghun Kang, Jie Zhang, Hui Xi",AAAI 2017: 4985-4986,AAAI,A*
+144,A Feature-Based Approach for the Redefined Link Prediction Problem in Signed Networks.,2017,"Xiaoming Li, Hui Fang, Jie Zhang",ADMA 2017: 165-179,ADMA,C
+145,Proactive Project Scheduling with Time-dependent Workability Uncertainty.,2017,"Wen Song, Donghun Kang, Jie Zhang, Hui Xi",AAMAS 2017: 221-229,ATAL,Unranked
+146,A Trust-based Mixture of Gaussian Processes Model for Robust Participatory Sensing.,2017,"Qikun Xiang, Jie Zhang, Ido Nevat, Pengfei Zhang",AAMAS 2017: 1760-1762,ATAL,Unranked
+147,Automatic Construction of Agent-based Simulation Using Business Process Diagrams and Ontology-based Models.,2017,"Donghun Kang, Zhenchao C. Bing, Wen Song, Zehong Hu, Shuo Chen, Jie Zhang, Hui Xi",AAMAS 2017: 1793-1795,ATAL,Unranked
+148,Interacting Attention-gated Recurrent Networks for Recommendation.,2017,"Wenjie Pei, Jie Yang, Zhu Sun, Jie Zhang, Alessandro Bozzon, David M. J. Tax",CIKM 2017: 1459-1468,CIKM,A
+149,Multi-source fusion in subjective logic.,2017,"Audun Jøsang, Dongxia Wang, Jie Zhang",FUSION 2017: 1-8,FUSION,C
+150,Multi-source trust revision.,2017,"Audun Jøsang, Jie Zhang, Dongxia Wang",FUSION 2017: 1-8,FUSION,C
+151,A Flexible Privacy-Preserving Framework for Singular Value Decomposition Under Internet of Things Environment.,2017,"Shuo Chen, Rongxing Lu, Jie Zhang",IFIPTM 2017: 21-37,IFIPTM,Unranked
+152,Optimal Posted-Price Mechanism in Microtask Crowdsourcing.,2017,"Zehong Hu, Jie Zhang",IJCAI 2017: 228-234,IJCAI,A*
+153,MRLR: Multi-level Representation Learning for Personalized Ranking in Recommendation.,2017,"Zhu Sun, Jie Yang, Jie Zhang, Alessandro Bozzon, Yu Chen, Chi Xu",IJCAI 2017: 2807-2813,IJCAI,A*
+154,A Trust-based Mixture of Gaussian Processes Model for Reliable Regression in Participatory Sensing.,2017,"Qikun Xiang, Jie Zhang, Ido Nevat, Pengfei Zhang",IJCAI 2017: 3866-3872,IJCAI,A*
+155,Online Reputation Fraud Campaign Detection in User Ratings.,2017,"Chang Xu, Jie Zhang, Zhu Sun",IJCAI 2017: 3873-3879,IJCAI,A*
+156,Multiagent-based cooperative vehicle routing using node pressure and auctions.,2017,"Madhavan Seshadri, Zhiguang Cao, Hongliang Guo, Jie Zhang, Ulrich Fastenrath",ITSC 2017: 1-7,ITSC,Unranked
+157,Joint Subjective Opinions.,2017,"Magdalena Ivanovska, Audun Jøsang, Jie Zhang, Shuo Chen",MDAI 2017: 220-233,MDAI,B
+158,CitRec 2017: International Workshop on Recommender Systems for Citizens.,2017,"Jie Yang, Zhu Sun, Alessandro Bozzon, Jie Zhang, Martha A. Larson",RecSys 2017: 388-389,RECSYS,Unranked
+159,Learning hierarchical category influence on both users and items for effective recommendation.,2017,"Zhu Sun, Guibing Guo, Jie Zhang",SAC 2017: 1679-1684,SAC,B
+160,Learning hierarchical category influence on both users and items for effective recommendation.,2017,"Zhu Sun, Guibing Guo, Jie Zhang",SAC 2017: 1679-1684,SAC,Multiconference
+161,Aspect-aware Point-of-Interest Recommendation with Geo-Social Influence.,2017,"Qing Guo, Zhu Sun, Jie Zhang, Qi Chen, Yin-Leng Theng",UMAP  2017: 17-22,UM,Unranked
+162,A Unified Latent Factor Model for Effective Category-Aware Recommendation.,2017,"Zhu Sun, Guibing Guo, Jie Zhang, Chi Xu",UMAP 2017: 389-390,UM,Unranked
+163,"Proceedings of International Workshop on Citizens for Recommender Systems, CitRec@RecSys 2017, 31 August 2017, Como, Italy.",2017,"Jie Yang, Zhu Sun, Alessandro Bozzon, Jie Zhang, Martha A. Larson",ACM 2017 ,RECSYS,Unranked
+164,A Flexible Privacy-preserving Framework for Singular Value Decomposition under Internet of Things Environment.,2017,"Shuo Chen, Rongxing Lu, Jie Zhang",CoRR abs/1703.06659 ,CORR,Unranked
+165,Interacting Attention-gated Recurrent Networks for Recommendation.,2017,"Wenjie Pei, Jie Yang, Zhu Sun, Jie Zhang, Alessandro Bozzon, David M. J. Tax",CoRR abs/1709.01532 ,CORR,Unranked
+166,An Efficient Fog-Assisted Unstable Sensor Detection Scheme with Privacy Preserved.,2017,"Shuo Chen, Rongxing Lu, Jie Zhang",CoRR abs/1711.10190 ,CORR,Unranked
+167,A simulation framework for measuring robustness of incentive mechanisms and its implementation in reputation systems.,2016,"Yuan Liu, Jie Zhang, Bo An, Sandip Sen",Auton. Agents Multi Agent Syst. 30: 581-600 ,AAMAS,A*
+168,ProMoca: Probabilistic Modeling and Analysis of Agents in Commitment Protocols.,2016,"Akin Günay, Yang Liu, Jie Zhang",J. Artif. Intell. Res. 57: 465-508 ,JAIR,Unranked
+169,An ontological representation for trust-based decision making in transportation environments.,2016,"Robin Cohen, John Finnson, Thomas T. Tran, Jie Zhang",Multiagent Grid Syst. 12: 319-342 ,MAGS,Unranked
+170,Improved EGT-Based Robustness Analysis of Negotiation Strategies in Multiagent Systems via Model Checking.,2016,"Songzheng Song, Jianye Hao, Yang Liu, Jun Sun, Ho-fung Leung, Jie Zhang",IEEE Trans. Hum. Mach. Syst. 46: 197-208 ,THMS,Unranked
+171,Finding the Shortest Path in Stochastic Vehicle Routing: A Cardinality Minimization Approach.,2016,"Zhiguang Cao, Hongliang Guo, Jie Zhang, Dusit Niyato, Ulrich Fastenrath",IEEE Trans. Intell. Transp. Syst. 17: 1688-1702 ,TITS,Unranked
+172,A Novel Recommendation Model Regularized with User Trust and Item Ratings.,2016,"Guibing Guo, Jie Zhang, Neil Yorke-Smith",IEEE Trans. Knowl. Data Eng. 28: 1607-1620 ,TKDE,Unranked
+173,Improving the Efficiency of Stochastic Vehicle Routing: A Partial Lagrange Multiplier Method.,2016,"Zhiguang Cao, Hongliang Guo, Jie Zhang, Dusit Niyato, Ulrich Fastenrath",IEEE Trans. Veh. Technol. 65: 3993-4005 ,TVT,Unranked
+174,A Novel Evidence-Based Bayesian Similarity Measure for Recommender Systems.,2016,"Guibing Guo, Jie Zhang, Neil Yorke-Smith",ACM Trans. Web 10: 8:1-8:30 ,TWEB,Unranked
+175,A Scalable Framework to Choose Sellers in E-Marketplaces Using POMDPs.,2016,"Athirai Aravazhi Irissappane, Frans A. Oliehoek, Jie Zhang",AAAI 2016: 158-164,AAAI,A*
+176,Efficient Computation of Emergent Equilibrium in Agent-Based Simulation.,2016,"Zehong Hu, Meng Sha, Moath H. A. Jarrah, Jie Zhang, Hui Xi",AAAI 2016: 2501-2508,AAAI,A*
+177,Is It Harmful When Advisors Only Pretend to Be Honest?,2016,"Dongxia Wang, Tim Muller, Jie Zhang, Yang Liu",AAAI 2016: 2551-2557,AAAI,A*
+178,Multiagent-Based Route Guidance for Increasing the Chance of Arrival on Time.,2016,"Zhiguang Cao, Hongliang Guo, Jie Zhang, Ulrich Fastenrath",AAAI 2016: 3814-3820,AAAI,A*
+179,A Language for Trust Modelling.,2016,"Tim Muller, Jie Zhang, Yang Liu",AAMAS Workshops  2016: 1-12,ATAL,Unranked
+180,Collusion-resistant Spatial Phenomena Crowdsourcing via Mixture of Gaussian Processes Regression.,2016,"Qikun Xiang, Ido Nevat, Pengfei Zhang, Jie Zhang",TRUST@AAMAS 2016: 19-30,ATAL,Unranked
+181,A Language for Trust Modelling.,2016,"Tim Muller, Jie Zhang, Yang Liu",TRUST@AAMAS 2016: 63-70,ATAL,Unranked
+182,Decentralized Multi-Project Scheduling via Multi-Unit Combinatorial Auction.,2016,"Wen Song, Donghun Kang, Jie Zhang, Hui Xi",AAMAS 2016: 836-844,ATAL,Unranked
+183,Mystique: Evolving Android Malware for Auditing Anti-Malware Tools.,2016,"Guozhu Meng, Yinxing Xue, Mahinthan Chandramohan, Annamalai Narayanan, Yang Liu, Jie Zhang, Tieming Chen",AsiaCCS 2016: 365-376,CCS,A*
+184,How to Use Information Theory to Mitigate Unfair Rating Attacks.,2016,"Tim Muller, Dongxia Wang, Yang Liu, Jie Zhang",IFIPTM 2016: 17-32,IFIPTM,Unranked
+185,Limitations on Robust Ratings and Predictions.,2016,"Tim Muller, Yang Liu, Jie Zhang",IFIPTM 2016: 113-126,IFIPTM,Unranked
+186,A Distributed and Scalable Machine Learning Approach for Big Data.,2016,"Hongliang Guo, Jie Zhang",IJCAI 2016: 1512-1518,IJCAI,A*
+187,"Semantic modelling of Android malware for effective malware comprehension, detection, and classification.",2016,"Guozhu Meng, Yinxing Xue, Zhengzi Xu, Yang Liu, Jie Zhang, Annamalai Narayanan",ISSTA 2016: 306-317,ISSTA,A
+188,Learning Hierarchical Feature Influence for Recommendation by Recursive Regularization.,2016,"Jie Yang, Zhu Sun, Alessandro Bozzon, Jie Zhang",RecSys 2016: 51-58,RECSYS,Unranked
+189,Effective Recommendation with Category Hierarchy.,2016,"Zhu Sun, Guibing Guo, Jie Zhang",UMAP 2016: 299-300,UM,Unranked
+190,TBPR: Trinity Preference based Bayesian Personalized Ranking for Multivariate Implicit Feedback.,2016,"Hui-Huai Qiu, Guibing Guo, Jie Zhang, Zhu Sun, Hai Thanh Nguyen, Yun Liu",UMAP 2016: 305-306,UM,Unranked
+191,"Incentives and Trust in Electronic Communities, Papers from the 2016 AAAI Workshop, Phoenix, Arizona, USA, February 12, 2016.",2016,"Jie Zhang, Zeinab Noorian, Stephen Marsh","AAAI Technical Report WS-16-09, AAAI Press 2016 ",AAAI,A*
+192,"Proceedings of the 18th International Workshop on Trust in Agent Societies co-located with the 15th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2016), Singapore, Singapore, May 10, 2016.",2016,"Jie Zhang, Robin Cohen, Murat Sensoy","CEUR Workshop Proceedings 1578, CEUR-WS.org 2016 ",ATAL,Unranked
+193,Collaborative Security: A Survey and Taxonomy.,2015,"Guozhu Meng, Yang Liu, Jie Zhang, Alexander Pokluda, Raouf Boutaba",ACM Comput. Surv. 48: 1:1-1:42 ,CSUR,Unranked
+194,Multi-faceted trust and distrust prediction for recommender systems.,2015,"Hui Fang, Guibing Guo, Jie Zhang",Decis. Support Syst. 71: 37-47 ,DSS,Unranked
+195,A Case-Based Reasoning Framework to Choose Trust Models for Different E-Marketplace Environments.,2015,"Athirai Aravazhi Irissappane, Jie Zhang",J. Artif. Intell. Res. 52: 477-505 ,JAIR,Unranked
+196,Leveraging multiviews of trust and similarity to enhance clustering-based recommender systems.,2015,"Guibing Guo, Jie Zhang, Neil Yorke-Smith",Knowl. Based Syst. 74: 14-27 ,KBS,Unranked
+197,A priori trust inference with context-aware stereotypical deep learning.,2015,"Peng Zhou, Xiaojing Gu, Jie Zhang, Minrui Fei",Knowl. Based Syst. 88: 97-106 ,KBS,Unranked
+198,A Simple and Fast Hypervolume Indicator-Based Multiobjective Evolutionary Algorithm.,2015,"Siwei Jiang, Jie Zhang, Yew-Soon Ong, Allan N. Zhang, Puay Siew Tan",IEEE Trans. Cybern. 45: 2202-2213 ,TCYB,Unranked
+199,Toward Energy-Efficient Trust System Through Watchdog Optimization for WSNs.,2015,"Peng Zhou, Siwei Jiang, Athirai Aravazhi Irissappane, Jie Zhang, Jianying Zhou, Joseph Chee Ming Teo",IEEE Trans. Inf. Forensics Secur. 10: 613-625 ,TIFS,Unranked
+200,Introduction to Theme Section on Trust in Social Networks and Systems.,2015,"Timothy J. Norman, K. Suzanne Barber, Rino Falcone, Jie Zhang",ACM Trans. Internet Techn. 15: 12:1-12:2 ,TOIT,Unranked
+201,A personalized credibility model for recommending messages in social participatory media environments.,2015,"Aaditeshwar Seth, Jie Zhang, Robin Cohen",World Wide Web 18: 111-137 ,WWW,A*
+202,A Reputation Revision Mechanism to Mitigate the Negative Effects of Misreported Ratings.,2015,"Siyuan Liu, Chunyan Miao, Yuan Liu, Hui Fang, Han Yu, Jie Zhang, Yueting Chai, Cyril Leung",ICEC 2015: 7:1-7:8,ACMICEC,Unranked
+203,TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings.,2015,"Guibing Guo, Jie Zhang, Neil Yorke-Smith",AAAI 2015: 123-129,AAAI,A*
+204,Automated Analysis of Commitment Protocols Using Probabilistic Model Checking.,2015,"Akin Günay, Songzheng Song, Yang Liu, Jie Zhang",AAAI 2015: 2060-2066,AAAI,A*
+205,Detecting Accounting Frauds in Publicly Traded U.S. Firms: A Machine Learning Approach.,2015,"Bin Li, Julia Yu, Jie Zhang, Bin Ke",ACML 2015: 173-188,ACML,Unranked
+206,Improving Sybil Detection via Graph Pruning and Regularization Techniques.,2015,"Huanhuan Zhang, Jie Zhang, Carol J. Fung, Chang Xu",ACML 2015: 189-204,ACML,Unranked
+207,The Fallacy of Endogenous Discounting of Trust Recommendations.,2015,"Tim Muller, Yang Liu, Jie Zhang",AAMAS 2015: 563-572,ATAL,Unranked
+208,Using Information Theory to Improve the Robustness of Trust Systems.,2015,"Dongxia Wang, Tim Muller, Athirai Aravazhi Irissappane, Jie Zhang, Yang Liu",AAMAS 2015: 791-799,ATAL,Unranked
+209,An Agent-based Simulation System for Dynamic Project Scheduling and Online Disruption Resolving.,2015,"Hui Xi, Chi Keong Goh, Partha Sarathi Dutta, Meng Sha, Jie Zhang",AAMAS 2015: 1759-1760,ATAL,Unranked
+210,Towards Collusive Fraud Detection in Online Reviews.,2015,"Chang Xu, Jie Zhang",ICDM 2015: 1051-1056,ICDM,A*
+211,Optimal and Effective Web Service Composition with Trust and User Preference.,2015,"Hongbing Wang, Bin Zou, Guibing Guo, Jie Zhang, Zhengping Yang",ICWS 2015: 329-336,ICWS,A
+212,Quantifying Robustness of Trust Systems against Collusive Unfair Rating Attacks Using Information Theory.,2015,"Dongxia Wang, Tim Muller, Jie Zhang, Yang Liu",IJCAI 2015: 111-117,IJCAI,A*
+213,Secure Routing in Wireless Sensor Networks via POMDPs.,2015,"Athirai Aravazhi Irissappane, Jie Zhang, Frans A. Oliehoek, Partha Sarathi Dutta",IJCAI 2015: 2617-2623,IJCAI,A*
+214,Combating Product Review Spam Campaigns via Multiple Heterogeneous Pairwise Features.,2015,"Chang Xu, Jie Zhang",SDM 2015: 172-180,SDM,A
+215,LibRec: A Java Library for Recommender Systems.,2015,"Guibing Guo, Jie Zhang, Zhu Sun, Neil Yorke-Smith",UMAP Workshops 2015,UM,Unranked
+216,Exploiting Implicit Item Relationships for Recommender Systems.,2015,"Zhu Sun, Guibing Guo, Jie Zhang",UMAP 2015: 252-264,UM,Unranked
+217,An Incentive Mechanism to Elicit Truthful Opinions for Crowdsourced Multiple Choice Consensus Tasks.,2015,"Siyuan Liu, Chunyan Miao, Yuan Liu, Han Yu, Jie Zhang, Cyril Leung",WI-IAT  2015: 96-103,WEBI,Unranked
+218,Automated Agent Behavior Construction for Protocol-Based Multiagent Systems.,2015,"Akin Günay, Yang Liu, Jie Zhang, Partha Sarathi Dutta",WI-IAT  2015: 300-307,WEBI,Unranked
+219,"13th Annual Conference on Privacy, Security and Trust, PST 2015, Izmir, Turkey, July 21-23, 2015.",2015,"Ali A. Ghorbani, Vicenç Torra, Hüseyin Hisil, Ali Miri, Ahmet Koltuksuz, Jie Zhang, Murat Sensoy, Joaquín García-Alfaro, Ibrahim Zincir","IEEE Computer Society 2015, ISBN 978-1-4673-7828-4 ",PST,C
+220,Scaling POMDPs For Selecting Sellers in E-markets-Extended Version.,2015,"Athirai Aravazhi Irissappane, Frans A. Oliehoek, Jie Zhang",CoRR abs/1511.09147 ,CORR,Unranked
+221,Trust-oriented buyer strategies for seller reporting and selection in competitive electronic marketplaces.,2014,"Zeinab Noorian, Jie Zhang, Yuan Liu, Stephen Marsh, Michael W. Fleming",Auton. Agents Multi Agent Syst. 28: 896-933 ,AAMAS,A*
+222,An Integrated Clustering-Based Approach to Filtering Unfair Multi-Nominal Testimonies.,2014,"Siyuan Liu, Jie Zhang, Chunyan Miao, Yin-Leng Theng, Alex C. Kot",Comput. Intell. 30: 316-341 ,CI,Unranked
+223,A Super-Agent-Based Framework for Reputation Management and Community Formation in Decentralized Systems.,2014,"Yao Wang, Jie Zhang, Julita Vassileva",Comput. Intell. 30: 722-751 ,CI,Unranked
+224,An incentive mechanism designed for e-marketplaces with limited inventory.,2014,"Yuan Liu, Jie Zhang",Electron. Commer. Res. Appl. 13: 110-127 ,ECRA,Unranked
+225,Reputation mechanism for e-commerce in virtual reality environments.,2014,"Hui Fang, Jie Zhang, Murat Sensoy, Nadia Magnenat-Thalmann",Electron. Commer. Res. Appl. 13: 409-422 ,ECRA,Unranked
+226,Leveraging prior ratings for recommender systems in e-commerce.,2014,"Guibing Guo, Jie Zhang, Daniel Thalmann, Neil Yorke-Smith",Electron. Commer. Res. Appl. 13: 440-455 ,ECRA,Unranked
+227,Multiobjective optimization based on reputation.,2014,"Siwei Jiang, Jie Zhang, Yew-Soon Ong",Inf. Sci. 286: 125-146 ,ISCI,Unranked
+228,Estimating feature ratings through an effective review selection approach.,2014,"Chong Long, Jie Zhang, Minlie Huang, Xiaoyan Zhu, Ming Li, Bin Ma",Knowl. Inf. Syst. 38: 419-446 ,KAIS,Unranked
+229,Merging trust in collaborative filtering to alleviate data sparsity and cold start.,2014,"Guibing Guo, Jie Zhang, Daniel Thalmann",Knowl. Based Syst. 57: 57-68 ,KBS,Unranked
+230,Consistencies and Contradictions of Performance Metrics in Multiobjective Optimization.,2014,"Siwei Jiang, Yew-Soon Ong, Jie Zhang, Liang Feng",IEEE Trans. Cybern. 44: 2391-2404 ,TCYB,Unranked
+231,TopicMF: Simultaneously Exploiting Ratings and Reviews for Recommendation.,2014,"Yang Bao, Hui Fang, Jie Zhang",AAAI 2014: 2-8,AAAI,A*
+232,Leveraging Decomposed Trust in Probabilistic Matrix Factorization for Effective Recommendation.,2014,"Hui Fang, Yang Bao, Jie Zhang",AAAI 2014: 30-36,AAAI,A*
+233,RepRev: Mitigating the Negative Effects of Misreported Ratings.,2014,"Yuan Liu, Siyuan Liu, Jie Zhang, Hui Fang, Han Yu, Chunyan Miao",AAAI 2014: 3124-3125,AAAI,A*
+234,Reputation-Aware Continuous Double Auction.,2014,"Yuan Liu, Jie Zhang, Han Yu, Chunyan Miao",AAAI 2014: 3126-3127,AAAI,A*
+235,ETAF: An extended trust antecedents framework for trust prediction.,2014,"Guibing Guo, Jie Zhang, Daniel Thalmann, Neil Yorke-Smith",ASONAM 2014: 540-547,ASUNAM,Unranked
+236,Subjectivity grouping: learning from users' rating behavior.,2014,"Hui Fang, Jie Zhang, Nadia Magnenat-Thalmann",AAMAS 2014: 1241-1248,ATAL,Unranked
+237,A POMDP based approach to optimally select sellers in electronic marketplaces.,2014,"Athirai Aravazhi Irissappane, Frans A. Oliehoek, Jie Zhang",AAMAS 2014: 1329-1336,ATAL,Unranked
+238,A practical robustness measure of incentive mechanisms.,2014,"Yuan Liu, Jie Zhang, Bo An, Sandip Sen",AAMAS 2014: 1379-1380,ATAL,Unranked
+239,A biclustering-based approach to filter dishonest advisors in multi-criteria e-marketplaces.,2014,"Athirai Aravazhi Irissappane, Siwei Jiang, Jie Zhang",AAMAS 2014: 1385-1386,ATAL,Unranked
+240,A pheromone-based traffic management model for vehicle re-routing and traffic light control.,2014,"Siwei Jiang, Jie Zhang, Yew-Soon Ong",AAMAS 2014: 1479-1480,ATAL,Unranked
+241,A testbed to evaluate the robustness of reputation systems in e-marketplaces.,2014,"Athirai Aravazhi Irissappane, Jie Zhang",AAMAS 2014: 1629-1630,ATAL,Unranked
+242,An extensive model checking framework for multi-agent systems.,2014,"Songzheng Song, Yang Liu, Jie Zhang, Jun Sun",AAMAS 2014: 1645-1646,ATAL,Unranked
+243,On Robustness of Trust Systems.,2014,"Tim Muller, Yang Liu, Sjouke Mauw, Jie Zhang",IFIPTM 2014: 44-60,IFIPTM,Unranked
+244,Exploiting Trust and Distrust Information to Combat Sybil Attack in Online Social Networks.,2014,"Huanhuan Zhang, Chang Xu, Jie Zhang",IFIPTM 2014: 77-92,IFIPTM,Unranked
+245,A data-driven method for stochastic shortest path problem.,2014,"Zhiguang Cao, Hongliang Guo, Jie Zhang, Dusit Niyato, Ulrich Fastenrath",ITSC 2014: 1045-1052,ITSC,Unranked
+246,Routing multiple cars in large scale networks: Minimizing road network breakdown probability.,2014,"Hongliang Guo, Zhiguang Cao, Jie Zhang, Dusit Niyato, Ulrich Fastenrath",ITSC 2014: 2180-2187,ITSC,Unranked
+247,From ratings to trust: an empirical study of implicit trust in recommender systems.,2014,"Guibing Guo, Jie Zhang, Daniel Thalmann, Anirban Basu, Neil Yorke-Smith",SAC 2014: 248-253,SAC,B
+248,From ratings to trust: an empirical study of implicit trust in recommender systems.,2014,"Guibing Guo, Jie Zhang, Daniel Thalmann, Anirban Basu, Neil Yorke-Smith",SAC 2014: 248-253,SAC,Multiconference
+249,Privacy preserving trusted social feedback.,2014,"Anirban Basu, Juan Camilo Corena, Shinsaku Kiyomoto, Stephen Marsh, Jaideep Vaidya, Guibing Guo, Jie Zhang, Yutaka Miyake",SAC 2014: 1706-1711,SAC,B
+250,Privacy preserving trusted social feedback.,2014,"Anirban Basu, Juan Camilo Corena, Shinsaku Kiyomoto, Stephen Marsh, Jaideep Vaidya, Guibing Guo, Jie Zhang, Yutaka Miyake",SAC 2014: 1706-1711,SAC,Multiconference
+251,A multi-hop reputation announcement scheme for VANETs.,2014,"Zhiguang Cao, Qin Li, Hoon Wei Lim, Jie Zhang",SOLI 2014: 238-243,SOLI,Unranked
+252,Towards Robust and Effective Trust Management for Security: A Survey.,2014,"Dongxia Wang, Tim Muller, Yang Liu, Jie Zhang",TrustCom 2014: 511-518,TRUSTCOM,Unranked
+253,SocialTrust: Adaptive Trust Oriented Incentive Mechanism for Social Commerce.,2014,"Zeinab Noorian, Mohsen Mohkami, Yuan Liu, Hui Fang, Julita Vassileva, Jie Zhang",WI-IAT  2014: 250-257,WEBI,Unranked
+254,"Trust Management VIII - 8th IFIP WG 11.11 International Conference, IFIPTM 2014, Singapore, July 7-10, 2014. Proceedings.",2014,"Jianying Zhou, Nurit Gal-Oz, Jie Zhang, Ehud Gudes","IFIP Advances in Information and Communication Technology 430, Springer 2014, ISBN 978-3-662-43812-1 ",IFIPTM,Unranked
+255,Improving trust modeling through the limit of advisor network size and use of referrals.,2013,"Joshua Gorner, Jie Zhang, Robin Cohen",Electron. Commer. Res. Appl. 12: 112-123 ,ECRA,Unranked
+256,Towards effective online review systems in the Chinese context: A cross-cultural empirical study.,2013,"Hui Fang, Jie Zhang, Yang Bao, Qinghua Zhu",Electron. Commer. Res. Appl. 12: 208-220 ,ECRA,Unranked
+257,SocConnect: A personalized social network aggregator and recommender.,2013,"Jie Zhang, Yuan Wang, Julita Vassileva",Inf. Process. Manag. 49: 721-737 ,IPM,Unranked
+258,Trust modeling for message relay control and local action decision making in VANETs.,2013,"Jie Zhang, Chen Chen, Robin Cohen",Secur. Commun. Networks 6: 1-14 ,SCN,National
+259,A framework for trust modeling in multiagent electronic marketplaces with buying advisors to consider varying seller behavior and the limiting of seller bids.,2013,"Jie Zhang, Robin Cohen",ACM Trans. Intell. Syst. Technol. 4: 24:1-24:22 ,TIST,Unranked
+260,Qualitative preference-based service selection for multiple agents.,2013,"Hongbing Wang, Jie Zhang, Cheng Wan, Shizhi Shao, Robin Cohen",Web Intell. Agent Syst. 11: 263-282 ,WIAS,Unranked
+261,A trust model stemmed from the diffusion theory for opinion evaluation.,2013,"Hui Fang, Jie Zhang, Nadia Magnenat-Thalmann",AAMAS 2013: 805-812,ATAL,Unranked
+262,An evolutionary model for constructing robust trust networks.,2013,"Siwei Jiang, Jie Zhang, Yew-Soon Ong",AAMAS 2013: 813-820,ATAL,Unranked
+263,Robustness evaluation of incentive mechanisms.,2013,"Yuan Liu, Jie Zhang",AAMAS 2013: 1293-1294,ATAL,Unranked
+264,Uncovering collusive spammers in Chinese review websites.,2013,"Chang Xu, Jie Zhang, Kuiyu Chang, Chong Long",CIKM 2013: 979-988,CIKM,A
+265,Recommending Messages to Users in Social Networks: A Cross-Site Study.,2013,"Robin Cohen, Noel Sardana, Kamal Rahim, Disney Yan Lam, M. Li, O. Maccarthy, E. Woo, Jie Zhang, Guibing Guo",ICMLA  2013: 445-450,ICMLA,C
+266,A Framework to Choose Trust Models for Different E-Marketplace Environments.,2013,"Athirai Aravazhi Irissappane, Siwei Jiang, Jie Zhang",IJCAI 2013: 213-219,IJCAI,A*
+267,Misleading Opinions Provided by Advisors: Dishonesty or Subjectivity.,2013,"Hui Fang, Yang Bao, Jie Zhang",IJCAI 2013: 1983-1989,IJCAI,A*
+268,A Novel Bayesian Similarity Measure for Recommender Systems.,2013,"Guibing Guo, Jie Zhang, Neil Yorke-Smith",IJCAI 2013: 2619-2625,IJCAI,A*
+269,Prior ratings: a new information source for recommender systems in e-commerce.,2013,"Guibing Guo, Jie Zhang, Daniel Thalmann, Neil Yorke-Smith",RecSys 2013: 383-386,RECSYS,Unranked
+270,"Eleventh Annual International Conference on Privacy, Security and Trust, PST 2013, 10-12 July, 2013, Tarragona, Catalonia, Spain, July 10-12, 2013.",2013,"Jordi Castellà-Roca, Josep Domingo-Ferrer, Joaquín García-Alfaro, Ali A. Ghorbani, Christian Damsgaard Jensen, Jesús A. Manjón, Iosif-Viorel Onut, Natalia Stakhanova, Vicenç Torra, Jie Zhang","IEEE Computer Society 2013, ISBN 978-1-4673-5839-2 ",PST,C
+271,Combining Trust Modeling and Mechanism Design for promoting Honesty in E-Marketplaces.,2012,"Jie Zhang, Robin Cohen, Kate Larson",Comput. Intell. 28: 549-578 ,CI,Unranked
+272,Effective Acquaintance Management based on Bayesian Learning for Distributed Intrusion Detection Networks.,2012,"Carol J. Fung, Jie Zhang, Raouf Boutaba",IEEE Trans. Netw. Serv. Manag. 9: 320-332 ,TNSM,Unranked
+273,A Reputation-Based Announcement Scheme for VANETs.,2012,"Qin Li, Amizah Malip, Keith M. Martin, Siaw-Lynn Ng, Jie Zhang",IEEE Trans. Veh. Technol. 61: 4095-4108 ,TVT,Unranked
+274,Design of an incentive mechanism to promote honesty in e-marketplaces with limited inventory.,2012,"Yuan Liu, Jie Zhang, Qin Li",ICEC 2012: 54-61,ACMICEC,Unranked
+275,A multiagent evolutionary framework based on trust for multiobjective optimization.,2012,"Siwei Jiang, Jie Zhang, Yew-Soon Ong",AAMAS 2012: 299-306,ATAL,Unranked
+276,SARC: subjectivity alignment for reputation computation.,2012,"Hui Fang, Jie Zhang, Murat Sensoy, Nadia Magnenat-Thalmann",AAMAS 2012: 1365-1366,ATAL,Unranked
+277,WCP-Nets: A Weighted Extension to CP-Nets for Web Service Selection.,2012,"Hongbing Wang, Jie Zhang, Wenlong Sun, Hongye Song, Guibing Guo, Xiang Zhou",ICSOC 2012: 298-312,ICSOC,A
+278,Robustness of Trust Models and Combinations for Handling Unfair Ratings.,2012,"Lizi Zhang, Siwei Jiang, Jie Zhang, Wee Keong Ng",IFIPTM 2012: 36-51,IFIPTM,Unranked
+279,An Incentive Mechanism to Promote Honesty in E-marketplaces with Limited Inventory.,2012,"Yuan Liu, Jie Zhang, Qin Li",IFIPTM 2012: 209-216,IFIPTM,Unranked
+280,Detecting Imprudence of 'Reliable' Sellers in Online Auction Sites.,2012,"Xin Liu, Anwitaman Datta, Hui Fang, Jie Zhang",TrustCom 2012: 246-253,TRUSTCOM,Unranked
+281,"Feedback as ""Shadow of the Present"": An Alternative to Reputation Systems for E-marketplaces.",2012,"Qin Li, Jie Zhang, Keith M. Martin",TrustCom 2012: 334-341,TRUSTCOM,Unranked
+282,Determining the Optimal Reporting Strategy in Competitive E-marketplaces.,2012,"Zeinab Noorian, Jie Zhang, Michael W. Fleming, Stephen Marsh",TrustCom 2012: 350-357,TRUSTCOM,Unranked
+283,A Generalized Stereotypical Trust Model.,2012,"Hui Fang, Jie Zhang, Murat Sensoy, Nadia Magnenat-Thalmann",TrustCom 2012: 698-705,TRUSTCOM,Unranked
+284,Reasoning about user trustworthiness with non-binary advice from peers.,2012,"John Finnson, Robin Cohen, Jie Zhang, Thomas T. Tran, Umar Farooq Minhas",UMAP Workshops 2012,UM,Unranked
+285,A Framework for Modeling Trustworthiness of Users in Mobile Vehicular Ad-Hoc Networks and Its Validation through Simulated Traffic Flow.,2012,"John Finnson, Jie Zhang, Thomas T. Tran, Umar Farooq Minhas, Robin Cohen",UMAP 2012: 76-87,UM,Unranked
+286,A Simple But Effective Method to Incorporate Trusted Neighbors in Recommender Systems.,2012,"Guibing Guo, Jie Zhang, Daniel Thalmann",UMAP 2012: 114-125,UM,Unranked
+287,Towards a comprehensive testbed to evaluate the robustness of reputation systems against unfair rating attack.,2012,"Athirai Aravazhi Irissappane, Siwei Jiang, Jie Zhang",UMAP Workshops 2012,UM,Unranked
+288,A Context-Aware Framework for Detecting Unfair Ratings in an Unknown Real Environment.,2012,"Cheng Wan, Jie Zhang, Athirai Aravazhi Irissappane",Web Intelligence 2012: 563-567,WEBI,Unranked
+289,Service Selection Based on Similarity Measurement for Conditional Qualitative Preference.,2012,"Hongbing Wang, Jie Zhang, Hualan Wang, Yangyu Tang, Guibing Guo",Web Intelligence 2012: 612-619,WEBI,Unranked
+290,Trust Management and Admission Control for Host-Based Collaborative Intrusion Detection.,2011,"Carol J. Fung, Jie Zhang, Issam Aib, Raouf Boutaba",J. Netw. Syst. Manag. 19: 257-277 ,JNSM,Unranked
+291,Dirichlet-Based Trust Management for Effective Collaborative Intrusion Detection Networks.,2011,"Carol J. Fung, Jie Zhang, Issam Aib, Raouf Boutaba",IEEE Trans. Netw. Serv. Manag. 8: 79-91 ,TNSM,Unranked
+292,A Multifaceted Approach to Modeling Agent Trust for Effective Communication in the Application of Mobile Ad Hoc Vehicular Networks.,2011,"Umar Farooq Minhas, Jie Zhang, Thomas T. Tran, Robin Cohen",IEEE Trans. Syst. Man Cybern. Part C 41: 407-420 ,TSMC,Unranked
+293,Design of a multiagent-based e-marketplace to secure service trading on the internet.,2011,"Qin Li, Keith M. Martin, Jie Zhang",ICEC 2011: 1:1-1:9,ACMICEC,Unranked
+294,A Survey on Trust Management for VANETs.,2011,Jie Zhang,AINA 2011: 105-112,AINA,B
+295,An Empirical Analysis of the Impact of Online Reviews on Product Sales in the Chinese Context.,2011,"Hui Fang, Qinghua Zhu, Jie Zhang",AINA 2011: 183-190,AINA,B
+296,iCLUB: an integrated clustering-based approach to improve the robustness of reputation systems.,2011,"Siyuan Liu, Jie Zhang, Chunyan Miao, Yin Leng Theng, Alex C. Kot",AAMAS 2011: 1151-1152,ATAL,Unranked
+297,Asymmetric Pareto-adaptive Scheme for Multiobjective Optimization.,2011,"Siwei Jiang, Jie Zhang, Yew-Soon Ong",Australasian Conference on Artificial Intelligence 2011: 351-360,AUSAI,Unranked
+298,Multiobjective optimization by decomposition with Pareto-adaptive weight vectors.,2011,"Siwei Jiang, Zhihua Cai, Jie Zhang, Yew-Soon Ong",ICNC 2011: 1260-1264,ICNC,National
+299,Collaborative Approaches to Complementing Qualitative Preferences of Agents for Effective Service Selection.,2011,"Hongbing Wang, Jie Zhang, Yangyu Tang, Shizhi Shao",ICTAI 2011: 51-58,ICTAI,B
+300,Improving the use of advisor networks for multi-agent trust modelling.,2011,"Joshua Gorner, Jie Zhang, Robin Cohen",PST 2011: 71-78,PST,C
+301,Design of a Reputation System Based on Dynamic Coalition Formation.,2011,"Yuan Liu, Jie Zhang, Quanyan Zhu",SocInfo 2011: 135-144,SOCINFO,Unranked
+302,IntRank: Interaction Ranking-Based Trustworthy Friend Recommendation.,2011,"Lizi Zhang, Hui Fang, Wee Keong Ng, Jie Zhang",TrustCom 2011: 266-273,TRUSTCOM,Unranked
+303,A Reputation Mechanism for Virtual Reality - Five-Sense Oriented Feedback Provision and Subjectivity Alignment.,2011,"Hui Fang, Jie Zhang, Murat Sensoy, Nadia Magnenat-Thalmann",TrustCom 2011: 312-319,TRUSTCOM,Unranked
+304,Coping with Poor Advice from Peers in Peer-Based Intelligent Tutoring: The Case of Avoiding Bad Annotations of Learning Objects.,2011,"John Champaign, Jie Zhang, Robin Cohen",UMAP 2011: 38-49,UM,Unranked
+305,"Trust, Reputation and User Modeling.",2011,"Julita Vassileva, Jie Zhang",UMAP Workshops 2011: 225-229,UM,Unranked
+306,The Influence of Interaction Attributes on Trust in Virtual Communities.,2011,"Lizi Zhang, Cheun Pin Tan, Siyi Li, Hui Fang, Pramodh Rai, Yao Chen, Rohit Luthra, Wee Keong Ng, Jie Zhang",UMAP Workshops 2011: 268-279,UM,Unranked
+307,Handling Subjective User Feedback for Reputation Computation in Virtual Reality.,2011,"Hui Fang, Murat Sensoy, Jie Zhang, Nadia Magnenat-Thalmann",UMAP Workshops 2011: 292-303,UM,Unranked
+308,Improving PGP Web of Trust through the Expansion of Trusted Neighborhood.,2011,"Guibing Guo, Jie Zhang, Julita Vassileva",Web Intelligence 2011: 489-494,WEBI,Unranked
+309,A Scalable and Effective Trust-Based Framework for Vehicular Ad-Hoc Networks.,2010,"Jie Zhang, Chen Chen, Robin Cohen",J. Wirel. Mob. Networks Ubiquitous Comput. Dependable Appl. 1: 3-15 ,JOWUA,Unranked
+310,Towards Effective Recommendation of Social Data across Social Networking Sites.,2010,"Yuan Wang, Jie Zhang, Julita Vassileva",AIMSA 2010: 61-70,AIMSA,National
+311,Effective acquaintance management for Collaborative Intrusion Detection Networks.,2010,"Carol J. Fung, Jie Zhang, Raouf Boutaba",CNSM 2010: 158-165,CNSM,B
+312,A Review Selection Approach for Accurate Feature Rating Estimation.,2010,"Chong Long, Jie Zhang, Xiaoyan Zhu",COLING  2010: 766-774,COLING,B
+313,Intelligent Agents in Mobile Vehicular Ad-Hoc Networks: Leveraging Trust Modeling Based on Direct Experience with Incentives for Honesty.,2010,"Umar Farooq Minhas, Jie Zhang, Thomas T. Tran, Robin Cohen",IAT 2010: 243-247,IAT,Unranked
+314,Leveraging a Social Network of Trust for Promoting Honesty in E-Marketplaces.,2010,"Jie Zhang, Robin Cohen, Kate Larson",IFIPTM 2010: 216-231,IFIPTM,Unranked
+315,Bayesian Credibility Modeling for Personalized Recommendation in Participatory Media.,2010,"Aaditeshwar Seth, Jie Zhang, Robin Cohen",UMAP 2010: 279-290,UM,Unranked
+316,Secure and Efficient Trust Opinion Aggregation for Vehicular Ad-Hoc Networks.,2010,"Chen Chen, Jie Zhang, Robin Cohen, Pin-Han Ho",VTC Fall 2010: 1-5,VTC,B
+317,Effective Web Service Selection via Communities Formed by Super-Agents.,2010,"Yao Wang, Jie Zhang, Julita Vassileva",Web Intelligence 2010: 549-556,WEBI,Unranked
+318,Web Service Selection for Multiple Agents with Incomplete Preferences.,2010,"Hongbing Wang, Jie Zhang, Cheng Wan, Shizhi Shao, Robin Cohen, Junjie Xu, Peicheng Li",Web Intelligence 2010: 565-572,WEBI,Unranked
+319,POYRAZ: Context-Aware Service Selection under Deception.,2009,"Murat Sensoy, Jie Zhang, Pinar Yolum, Robin Cohen",Comput. Intell. 25: 335-366 ,CI,Unranked
+320,Robust and scalable trust management for collaborative intrusion detection.,2009,"Carol J. Fung, Jie Zhang, Issam Aib, Raouf Boutaba",Integrated Network Management 2009: 33-40,IM,B
+321,Specialized Review Selection for Feature Rating Estimation.,2009,"Chong Long, Jie Zhang, Minlie Huang, Xiaoyan Zhu, Ming Li, Bin Ma",Web Intelligence 2009: 214-221,WEBI,Unranked
+322,Evaluating the trustworthiness of advice about seller agents in e-marketplaces: A personalized approach.,2008,"Jie Zhang, Robin Cohen",Electron. Commer. Res. Appl. 7: 330-340 ,ECRA,Unranked
+323,Seller Bidding in a Trust-Based Incentive Mechanism for Dynamic E-Marketplaces.,2008,"Jie Zhang, Robin Cohen",Canadian AI 2008: 368-379,AI,Australasian B
+324,A Trust-Based Incentive Mechanism for E-Marketplaces.,2008,"Jie Zhang, Robin Cohen, Kate Larson",AAMAS-TRUST 2008: 135-161,ATAL,Unranked
+325,Trust Management for Host-Based Collaborative Intrusion Detection.,2008,"Carol J. Fung, Olga Baysal, Jie Zhang, Issam Aib, Raouf Boutaba",DSOM 2008: 109-122,DSOM,Unranked
+326,A Social Network Based Approach to Personalized Recommendation of Participatory Media Content.,2008,"Aaditeshwar Seth, Jie Zhang",ICWSM 2008,ICWSM,A
+327,A Detailed Comparison of Probabilistic Approaches for Coping with Unfair Ratings in Trust and Reputation Systems.,2008,"Jie Zhang, Murat Sensoy, Robin Cohen",PST 2008: 189-200,PST,C
+328,A Comprehensive Approach for Sharing Semantic Web Trust Ratings.,2007,"Jie Zhang, Robin Cohen",Comput. Intell. 23: 302-319 ,CI,Unranked
+329,A familiarity-based trust model for effective selection of sellers in multiagent e-commerce systems.,2007,"Jie Zhang, Ali A. Ghorbani, Robin Cohen",Int. J. Inf. Sec. 6: 333-344 ,IJISEC,Unranked
+330,Design of a Mechanism for Promoting Honesty in E-Marketplaces.,2007,"Jie Zhang, Robin Cohen",AAAI 2007: 1495-1500,AAAI,A*
+331,Engendering Trust in Buying and Selling Agents by Discouraging the Reporting of Unfair Ratings.,2007,"Jie Zhang, Robin Cohen",AAAI Spring Symposium: Interaction Challenges for Intelligent Assistants 2007: 139-,AAAISS,Unranked
+332,An incentive mechanism for eliciting fair ratings of sellers in e-marketplaces.,2007,"Jie Zhang, Robin Cohen",AAMAS 2007: 108,ATAL,Unranked
+333,GUMSAWS: A Generic User Modeling Server for Adaptive Web Systems.,2007,"Jie Zhang, Ali A. Ghorbani",CNSR 2007: 117-124,CNSR,Unranked
+334,Engendering Trust in Buying and Selling Agents by Discouraging the Reporting of Unfair Ratings.,2007,"Jie Zhang, Robin Cohen",Interaction Challenges for Intelligent Assistants 2007: 139-,ICIA,Unranked
+335,Trusting advice from other buyers in e-marketplaces: the problem of unfair ratings.,2006,"Jie Zhang, Robin Cohen",ICEC 2006: 225-234,ACMICEC,Unranked
+336,A Trust Model for Sharing Ratings of Information Providers on the Semantic Web.,2006,"Jie Zhang, Robin Cohen",CSWWS 2006: 45-61,CSWWS,Unranked
+337,An improved familiarity measurement for formalization of trust in e-commerce based multiagent systems.,2006,"Jie Zhang, Ali A. Ghorbani, Robin Cohen",PST 2006: 19,PST,C
+338,PENS: A Personalized Electronic News System.,2005,"Mehran Nadjarbashi-Noghani, Jie Zhang, Hossein Sadat, Ali A. Ghorbani",CNSR 2005: 31-38,CNSR,Unranked
+339,Value-Centric Trust Model with Improved Familiarity Measurement.,2005,"Jie Zhang, Ali A. Ghorbani",IJCAI 2005: 1670-1671,IJCAI,A*
+340,The Reconstruction of User Sessions from a Server Log Using Improved Time-Oriented Heuristics.,2004,"Jie Zhang, Ali A. Ghorbani",CNSR 2004: 315-322,CNSR,Unranked
+341,Familiarity and Trust: Measuring Familiarity with a Web Site.,2004,"Jie Zhang, Ali A. Ghorbani",PST 2004: 23-28,PST,C

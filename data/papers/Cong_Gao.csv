@@ -1,0 +1,254 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Effectiveness Perspectives and a Deep Relevance Model for Spatial Keyword Queries.,2023,"Shang Liu, Gao Cong, Kaiyu Feng, Wanli Gu, Fuzheng Zhang",Proc. ACM Manag. Data 1: 11:1-11:25 ,PACMMOD,Unranked
+1,The RLR-Tree: A Reinforcement Learning Based R-Tree for Spatial Data.,2023,"Tu Gu, Kaiyu Feng, Gao Cong, Cheng Long, Zheng Wang, Sheng Wang",Proc. ACM Manag. Data 1: 63:1-63:26 ,PACMMOD,Unranked
+2,Mining Geospatial Relationships from Text.,2023,"Pasquale Balsebre, Dezhong Yao, Gao Cong, Weiming Huang, Zhen Hai",Proc. ACM Manag. Data 1: 93:1-93:26 ,PACMMOD,Unranked
+3,WISK: A Workload-aware Learned Index for Spatial Keyword Queries.,2023,"Yufan Sheng, Xin Cao, Yixiang Fang, Kaiqi Zhao, Jianzhong Qi, Gao Cong, Wenjie Zhang",Proc. ACM Manag. Data 1: 187:1-187:27 ,PACMMOD,Unranked
+4,Towards Designing and Learning Piecewise Space-Filling Curves.,2023,"Jiangneng Li, Zheng Wang, Gao Cong, Cheng Long, Han Mao Kiah, Bin Cui",Proc. VLDB Endow. 16: 2158-2171 ,PVLDB,Unranked
+5,Similar Sports Play Retrieval With Deep Reinforcement Learning.,2023,"Zheng Wang, Cheng Long, Gao Cong",IEEE Trans. Knowl. Data Eng. 35: 4253-4266 ,TKDE,Unranked
+6,Region Embedding With Intra and Inter-View Contrastive Learning.,2023,"Liang Zhang, Cheng Long, Gao Cong",IEEE Trans. Knowl. Data Eng. 35: 9031-9036 ,TKDE,Unranked
+7,Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning.,2023,"Qianru Zhang, Zheng Wang, Cheng Long, Chao Huang, Siu-Ming Yiu, Yiding Liu, Gao Cong, Jieming Shi",ICDE 2023: 246-258,ICDE,A*
+8,Multivariate Time-series Imputation with Disentangled Temporal Representations.,2023,"Shuai Liu, Xiucheng Li, Gao Cong, Yile Chen, Yue Jiang",ICLR 2023,ICLR,A*
+9,Urban Region Representation Learning with OpenStreetMap Building Footprints.,2023,"Yi Li, Weiming Huang, Gao Cong, Hao Wang, Zheng Wang",KDD 2023: 1363-1373,KDD,A*
+10,Improving the Inference of Topic Models via Infinite Latent State Replications.,2023,"Daniel Rugeles, Zhen Hai, Juan Felipe Carmona, Manoranjan Dash, Gao Cong",CoRR abs/2301.12974 ,CORR,Unranked
+11,WISK: A Workload-aware Learned Index for Spatial Keyword Queries.,2023,"Yufan Sheng, Xin Cao, Yixiang Fang, Kaiqi Zhao, Jianzhong Qi, Gao Cong, Wenjie Zhang",CoRR abs/2302.14287 ,CORR,Unranked
+12,On the Opportunities and Challenges of Foundation Models for Geospatial Artificial Intelligence.,2023,"Gengchen Mai, Weiming Huang, Jin Sun, Suhang Song, Deepak Mishra, Ninghao Liu, Song Gao, Tianming Liu, Gao Cong, Yingjie Hu, Chris Cundy, Ziyuan Li, Rui Zhu, Ni Lao",CoRR abs/2304.06798 ,CORR,Unranked
+13,CityFM: City Foundation Models to Solve Urban Challenges.,2023,"Pasquale Balsebre, Weiming Huang, Gao Cong, Yi Li",CoRR abs/2310.00583 ,CORR,Unranked
+14,Exploring Progress in Multivariate Time Series Forecasting: Comprehensive Benchmarking and Heterogeneity Analysis.,2023,"Zezhi Shao, Fei Wang, Yongjun Xu, Wei Wei, Chengqing Yu, Zhao Zhang, Di Yao, Guangyin Jin, Xin Cao, Gao Cong, Christian S. Jensen, Xueqi Cheng",CoRR abs/2310.06119 ,CORR,Unranked
+15,"A Survey on Trajectory Data Management, Analytics, and Learning.",2022,"Sheng Wang, Zhifeng Bao, J. Shane Culpepper, Gao Cong",ACM Comput. Surv. 54: 39:1-39:36 ,CSUR,Unranked
+16,QueryFormer: A Tree Transformer Model for Query Plan Representation.,2022,"Yue Zhao, Gao Cong, Jiachen Shi, Chunyan Miao",Proc. VLDB Endow. 15: 1658-1670 ,PVLDB,Unranked
+17,ABC: Attributed Bipartite Co-clustering.,2022,"Junghoon Kim, Kaiyu Feng, Gao Cong, Diwen Zhu, Wenyuan Yu, Chunyan Miao",Proc. VLDB Endow. 15: 2134-2147 ,PVLDB,Unranked
+18,Example-based Spatial Pattern Matching.,2022,"Yue Chen, Kaiyu Feng, Gao Cong, Han Mao Kiah",Proc. VLDB Endow. 15: 2572-2584 ,PVLDB,Unranked
+19,Learned Index Benefits: Machine Learning Based Index Performance Estimation.,2022,"Jiachen Shi, Gao Cong, Xiaoli Li",Proc. VLDB Endow. 15: 3950-3962 ,PVLDB,Unranked
+20,Let Trajectories Speak Out the Traffic Bottlenecks.,2022,"Hui Luo, Zhifeng Bao, Gao Cong, J. Shane Culpepper, Nguyen Lu Dang Khoa",ACM Trans. Intell. Syst. Technol. 13: 8:1-8:21 ,TIST,Unranked
+21,A Synopsis Based Approach for Itemset Frequency Estimation over Massive Multi-Transaction Stream.,2022,"Guangtao Wang, Gao Cong, Ying Zhang, Zhen Hai, Jieping Ye",ACM Trans. Knowl. Discov. Data 16: 29:1-29:30 ,TKDD,Unranked
+22,PGeoTopic: A Distributed Solution for Mining Geographical Topic Models.,2022,"Kaiqi Zhao, Gao Cong, Xiucheng Li",IEEE Trans. Knowl. Data Eng. 34: 881-893 ,TKDE,Unranked
+23,Deterministic Inference of Topic Models via Maximal Latent State Replication.,2022,"Daniel Rugeles, Zhen Hai, Manoranjan Dash, Gao Cong",IEEE Trans. Knowl. Data Eng. 34: 1684-1695 ,TKDE,Unranked
+24,A Linear Time Approach to Computing Time Series Similarity Based on Deep Metric Learning.,2022,"Di Yao, Gao Cong, Chao Zhang, Xuying Meng, Rongchang Duan, Jingping Bi",IEEE Trans. Knowl. Data Eng. 34: 4554-4571 ,TKDE,Unranked
+25,Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting.,2022,"Shengnan Guo, Youfang Lin, Huaiyu Wan, Xiucheng Li, Gao Cong",IEEE Trans. Knowl. Data Eng. 34: 5415-5428 ,TKDE,Unranked
+26,Unsupervised Selectivity Estimation by Integrating Gaussian Mixture Models and an Autoregressive Model.,2022,"Zizhong Meng, Peizhi Wu, Gao Cong, Rong Zhu, Shuai Ma",EDBT 2022: 2:247-2:259,EDBT,A
+27,TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation.,2022,"Di Yao, Haonan Hu, Lun Du, Gao Cong, Shi Han, Jingping Bi",KDD 2022: 2275-2285,KDD,A*
+28,Entity Resolution with Hierarchical Graph Attention Networks.,2022,"Dezhong Yao, Yuhong Gu, Gao Cong, Hai Jin, Xinqiao Lv",SIGMOD Conference 2022: 429-442,SIGMOD,A*
+29,DMCS : Density Modularity based Community Search.,2022,"Junghoon Kim, Siqiang Luo, Gao Cong, Wenyuan Yu",SIGMOD Conference 2022: 889-903,SIGMOD,A*
+30,SAM: Database Generation from Query Workloads with Supervised Autoregressive Models.,2022,"Jingyi Yang, Peizhi Wu, Gao Cong, Tieying Zhang, Xiao He",SIGMOD Conference 2022: 1542-1555,SIGMOD,A*
+31,The Datasets Dilemma: How Much Do We Really Know About Recommendation Datasets?,2022,"Jin Yao Chin, Yile Chen, Gao Cong",WSDM 2022: 141-149,WSDM,A
+32,Geospatial Entity Resolution.,2022,"Pasquale Balsebre, Dezhong Yao, Gao Cong, Zhen Hai",WWW 2022: 3061-3070,WWW,A*
+33,Points-of-Interest Relationship Inference with Spatial-enriched Graph Neural Networks.,2022,"Yile Chen, Xiucheng Li, Gao Cong, Cheng Long, Zhifeng Bao, Shang Liu, Wanli Gu, Fuzheng Zhang",CoRR abs/2202.13686 ,CORR,Unranked
+34,DMCS : Density Modularity based Community Search.,2022,"Junghoon Kim, Siqiang Luo, Gao Cong, Wenyuan Yu",CoRR abs/2204.07720 ,CORR,Unranked
+35,Not All Neighbors Are Worth Attending to: Graph Selective Attention Networks for Semi-supervised Learning.,2022,"Tiantian He, Haicang Zhou, Yew-Soon Ong, Gao Cong",CoRR abs/2210.07715 ,CORR,Unranked
+36,Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning.,2022,"Qianru Zhang, Zheng Wang, Cheng Long, Chao Huang, Siu-Ming Yiu, Yiding Liu, Gao Cong, Jieming Shi",CoRR abs/2211.08415 ,CORR,Unranked
+37,Region Embedding with Intra and Inter-View Contrastive Learning.,2022,"Liang Zhang, Cheng Long, Gao Cong",CoRR abs/2211.08975 ,CORR,Unranked
+38,Points-of-Interest Relationship Inference with Spatial-enriched Graph Neural Networks.,2021,"Yile Chen, Xiucheng Li, Gao Cong, Cheng Long, Zhifeng Bao, Shang Liu, Wanli Gu, Fuzheng Zhang",Proc. VLDB Endow. 15: 504-512 ,PVLDB,Unranked
+39,Cardinality Estimation in DBMS: A Comprehensive Benchmark Evaluation.,2021,"Yuxing Han, Ziniu Wu, Peizhi Wu, Rong Zhu, Jingyi Yang, Liang Wei Tan, Kai Zeng, Gao Cong, Yanzhao Qin, Andreas Pfadler, Zhengping Qian, Jingren Zhou, Jiangneng Li, Bin Cui",Proc. VLDB Endow. 15: 752-765 ,PVLDB,Unranked
+40,Similar Trajectory Search with Spatio-Temporal Deep Representation Learning.,2021,"David Alexander Tedjopurnomo, Xiucheng Li, Zhifeng Bao, Gao Cong, Farhana Murtaza Choudhury, A. Kai Qin",ACM Trans. Intell. Syst. Technol. 12: 77:1-77:26 ,TIST,Unranked
+41,Location- and keyword-based querying of geo-textual data: a survey.,2021,"Zhida Chen, Lisi Chen, Gao Cong, Christian S. Jensen",VLDB J. 30: 603-640 ,VLDB,A*
+42,Robust Road Network Representation Learning: When Traffic Patterns Meet Traveling Semantics.,2021,"Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long, Yiding Liu, Arun Kumar Chandran, Richard Ellison",CIKM 2021: 211-220,CIKM,A
+43,STAR: A Cache-based Distributed Warehouse System for Spatial Data Streams.,2021,"Zhida Chen, Gao Cong, Walid G. Aref",SIGSPATIAL/GIS 2021: 606-615,GIS,Unranked
+44,Trajectory Simplification with Reinforcement Learning.,2021,"Zheng Wang, Cheng Long, Gao Cong",ICDE 2021: 684-695,ICDE,A*
+45,Error-Bounded Online Trajectory Simplification with Multi-Agent Reinforcement Learning.,2021,"Zheng Wang, Cheng Long, Gao Cong, Qianru Zhang",KDD 2021: 1758-1768,KDD,A*
+46,A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation.,2021,"Peizhi Wu, Gao Cong",SIGMOD Conference 2021: 2009-2022,SIGMOD,A*
+47,Sinkhorn Collaborative Filtering.,2021,"Xiucheng Li, Jin Yao Chin, Yile Chen, Gao Cong",WWW 2021: 582-592,WWW,A*
+48,"Proceedings of the CIKM 2021 Workshops co-located with 30th ACM International Conference on Information and Knowledge Management (CIKM 2021), Gold Coast, Queensland, Australia, November 1-5, 2021.",2021,"Gao Cong, Maya Ramanath","CEUR Workshop Proceedings 3052, CEUR-WS.org 2021 ",CIKM,A
+49,The RLR-Tree: A Reinforcement Learning Based R-Tree for Spatial Data.,2021,"Tu Gu, Kaiyu Feng, Gao Cong, Cheng Long, Zheng Wang, Sheng Wang",CoRR abs/2103.04541 ,CORR,Unranked
+50,Global Context Enhanced Graph Neural Networks for Session-based Recommendation.,2021,"Ziyang Wang, Wei Wei, Gao Cong, Xiao-Li Li, Xian-Ling Mao, Minghui Qiu",CoRR abs/2106.05081 ,CORR,Unranked
+51,A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation.,2021,"Peizhi Wu, Gao Cong",CoRR abs/2107.12295 ,CORR,Unranked
+52,Let Trajectories Speak Out the Traffic Bottlenecks.,2021,"Hui Luo, Zhifeng Bao, Gao Cong, J. Shane Culpepper, Nguyen Lu Dang Khoa",CoRR abs/2107.12948 ,CORR,Unranked
+53,Cardinality Estimation in DBMS: A Comprehensive Benchmark Evaluation.,2021,"Yuxing Han, Ziniu Wu, Peizhi Wu, Rong Zhu, Jingyi Yang, Liang Wei Tan, Kai Zeng, Gao Cong, Yanzhao Qin, Andreas Pfadler, Zhengping Qian, Jingren Zhou, Jiangneng Li, Bin Cui",CoRR abs/2109.05877 ,CORR,Unranked
+54,Modeling Marked Temporal Point Process Using Multi-relation Structure RNN.,2020,"Hongyun Cai, Thanh Tung Nguyen, Yan Li, Vincent W. Zheng, Binbin Chen, Gao Cong, Xiaoli Li",Cogn. Comput. 12: 499-512 ,COGCOM,Unranked
+55,SSTD: A Distributed System on Streaming Spatio-Textual Data.,2020,"Yue Chen, Zhida Chen, Gao Cong, Ahmed R. Mahmood, Walid G. Aref",Proc. VLDB Endow. 13: 2284-2296 ,PVLDB,Unranked
+56,Efficient and Effective Similar Subtrajectory Search with Deep Reinforcement Learning.,2020,"Zheng Wang, Cheng Long, Gao Cong, Yiding Liu",Proc. VLDB Endow. 13: 2312-2325 ,PVLDB,Unranked
+57,SURGE: Continuous Detection of Bursty Regions Over a Stream of Spatial Objects.,2020,"Kaiyu Feng, Tao Guo, Gao Cong, Sourav S. Bhowmick, Shuai Ma",IEEE Trans. Knowl. Data Eng. 32: 2254-2268 ,TKDE,Unranked
+58,Structural Relationship Representation Learning with Graph Embedding for Personalized Product Search.,2020,"Shang Liu, Wanli Gu, Gao Cong, Fuzheng Zhang",CIKM 2020: 915-924,CIKM,A
+59,Spatial Transition Learning on Road Networks with Deep Probabilistic Models.,2020,"Xiucheng Li, Gao Cong, Yun Cheng",ICDE 2020: 349-360,ICDE,A*
+60,Online Anomalous Trajectory Detection with Deep Generative Sequence Modeling.,2020,"Yiding Liu, Kaiqi Zhao, Gao Cong, Zhifeng Bao",ICDE 2020: 949-960,ICDE,A*
+61,Global Context Enhanced Graph Neural Networks for Session-based Recommendation.,2020,"Ziyang Wang, Wei Wei, Gao Cong, Xiao-Li Li, Xianling Mao, Minghui Qiu",SIGIR 2020: 169-178,SIGIR,A*
+62,HME: A Hyperbolic Metric Embedding Approach for Next-POI Recommendation.,2020,"Shanshan Feng, Lucas Vinh Tran, Gao Cong, Lisi Chen, Jing Li, Fan Li",SIGIR 2020: 1429-1438,SIGIR,A*
+63,Densely Connected User Community and Location Cluster Search in Location-Based Social Networks.,2020,"Junghoon Kim, Tao Guo, Kaiyu Feng, Gao Cong, Arijit Khan, Farhana Murtaza Choudhury",SIGMOD Conference 2020: 2199-2209,SIGMOD,A*
+64,STAR: A Distributed Stream Warehouse System for Spatial Data.,2020,"Zhida Chen, Gao Cong, Walid G. Aref",SIGMOD Conference 2020: 2761-2764,SIGMOD,A*
+65,Context-aware Deep Model for Joint Mobility and Time Prediction.,2020,"Yile Chen, Cheng Long, Gao Cong, Chenliang Li",WSDM 2020: 106-114,WSDM,A
+66,HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems.,2020,"Lucas Vinh Tran, Yi Tay, Shuai Zhang, Gao Cong, Xiaoli Li",WSDM 2020: 609-617,WSDM,A
+67,Efficient and Effective Similar Subtrajectory Search with Deep Reinforcement Learning.,2020,"Zheng Wang, Cheng Long, Gao Cong, Yiding Liu",CoRR abs/2003.02542 ,CORR,Unranked
+68,"A Survey on Trajectory Data Management, Analytics, and Learning.",2020,"Sheng Wang, Zhifeng Bao, J. Shane Culpepper, Gao Cong",CoRR abs/2003.11547 ,CORR,Unranked
+69,Exploring Global Information for Session-based Recommendation.,2020,"Ziyang Wang, Wei Wei, Gao Cong, Xiao-Li Li, Xian-Ling Mao, Minghui Qiu, Shanshan Feng",CoRR abs/2011.10173 ,CORR,Unranked
+70,Exploiting Repeated Behavior Pattern and Long-term Item dependency for Session-based Recommendation.,2020,"Ziyang Wang, Wei Wei, Gao Cong, Xian-Ling Mao, Xiao-Li Li, Shanshan Feng",CoRR abs/2012.05422 ,CORR,Unranked
+71,"Social Big Data: Mining, Applications, and Beyond.",2019,"Xiuzhen Zhang, Shuliang Wang, Gao Cong, Alfredo Cuzzocrea",Complex. 2019: 2059075:1-2059075:2 ,COMPLEXITY,Unranked
+72,Finding Attribute-Aware Similar Region for Data Analysis.,2019,"Kaiyu Feng, Gao Cong, Christian S. Jensen, Tao Guo",Proc. VLDB Endow. 12: 1414-1426 ,PVLDB,Unranked
+73,Exploring market competition over topics in spatio-temporal document collections.,2019,"Kaiqi Zhao, Gao Cong, Jin Yao Chin, Rong Wen",VLDB J. 28: 123-145 ,VLDB,A*
+74,Evaluating pattern matching queries for spatial databases.,2019,"Yixiang Fang, Yun Li, Reynold Cheng, Nikos Mamoulis, Gao Cong",VLDB J. 28: 649-673 ,VLDB,A*
+75,Computing Trajectory Similarity in Linear Time: A Generic Seed-Guided Neural Metric Learning Approach.,2019,"Di Yao, Gao Cong, Chao Zhang, Jingping Bi",ICDE 2019: 1358-1369,ICDE,A*
+76,Effective and Efficient Sports Play Retrieval with Deep Representation Learning.,2019,"Zheng Wang, Cheng Long, Gao Cong, Ce Ju",KDD 2019: 499-509,KDD,A*
+77,Interact and Decide: Medley of Sub-Attention Networks for Effective Group Recommendation.,2019,"Lucas Vinh Tran, Tuan-Anh Nguyen Pham, Yi Tay, Yiding Liu, Gao Cong, Xiaoli Li",SIGIR 2019: 255-264,SIGIR,A*
+78,Learning Travel Time Distributions with Deep Generative Model.,2019,"Xiucheng Li, Gao Cong, Aixin Sun, Yun Cheng",WWW 2019: 1017-1027,WWW,A*
+79,Spatio-Textual Data.,2019,"Gao Cong, Christian S. Jensen",Encyclopedia of Big Data Technologies 2019,BDT,Unranked
+80,Interaction-aware Kalman Neural Networks for Trajectory Prediction.,2019,"Ce Ju, Zheng Wang, Cheng Long, Xiaoyu Zhang, Gao Cong, Dong Eui Chang",CoRR abs/1902.10928 ,CORR,Unranked
+81,PANDA: A System for Partial Topology-based Search on Large Networks.,2018,"Miao Xie, Sourav S. Bhowmick, Hao Su, Gao Cong, Wook-Shin Han",Proc. VLDB Endow. 11: 1966-1969 ,PVLDB,Unranked
+82,Linking Fine-Grained Locations in User Comments.,2018,"Jialong Han, Aixin Sun, Gao Cong, Wayne Xin Zhao, Zongcheng Ji, Minh C. Phan",IEEE Trans. Knowl. Data Eng. 30: 59-72 ,TKDE,Unranked
+83,Reverse k Nearest Neighbor Search over Trajectories.,2018,"Sheng Wang, Zhifeng Bao, J. Shane Culpepper, Timos Sellis, Gao Cong",IEEE Trans. Knowl. Data Eng. 30: 757-771 ,TKDE,Unranked
+84,ANR: Aspect-based Neural Recommender.,2018,"Jin Yao Chin, Kaiqi Zhao, Shafiq R. Joty, Gao Cong",CIKM 2018: 147-156,CIKM,A
+85,On Spatial Pattern Matching.,2018,"Yixiang Fang, Reynold Cheng, Gao Cong, Nikos Mamoulis, Yun Li",ICDE 2018: 293-304,ICDE,A*
+86,Deep Representation Learning for Trajectory Similarity Computation.,2018,"Xiucheng Li, Kaiqi Zhao, Gao Cong, Christian S. Jensen, Wei Wei",ICDE 2018: 617-628,ICDE,A*
+87,Inf2vec: Latent Representation Model for Social Influence Embedding.,2018,"Shanshan Feng, Gao Cong, Arijit Khan, Xiucheng Li, Yong Liu, Yeow Meng Chee",ICDE 2018: 941-952,ICDE,A*
+88,SURGE: Continuous Detection of Bursty Regions over a Stream of Spatial Objects.,2018,"Kaiyu Feng, Tao Guo, Gao Cong, Sourav S. Bhowmick, Shuai Ma",ICDE 2018: 1292-1295,ICDE,A*
+89,SpaceKey: Exploring Patterns in Spatial Databases.,2018,"Yixiang Fang, Reynold Cheng, Jikun Wang, Lukito Budiman, Gao Cong, Nikos Mamoulis",ICDE 2018: 1577-1580,ICDE,A*
+90,Linking Fine-Grained Locations in User Comments (Extended Abstract).,2018,"Jialong Han, Aixin Sun, Gao Cong, Wayne Xin Zhao, Zongcheng Ji, Minh C. Phan",ICDE 2018: 1763-1764,ICDE,A*
+91,Reverse k Nearest Neighbor Search over Trajectories (Extended Abstract).,2018,"Sheng Wang, Zhifeng Bao, J. Shane Culpepper, Timos Sellis, Gao Cong",ICDE 2018: 1785-1786,ICDE,A*
+92,High-dimensional Similarity Learning via Dual-sparse Random Projection.,2018,"Dezhong Yao, Peilin Zhao, Tuan-Anh Nguyen Pham, Gao Cong",IJCAI 2018: 3005-3011,IJCAI,A*
+93,Periodic-CRN: A Convolutional Recurrent Model for Crowd Density Prediction with Recurring Periodic Patterns.,2018,"Ali Zonoozi, Jung-jae Kim, Xiao-Li Li, Gao Cong",IJCAI 2018: 3732-3738,IJCAI,A*
+94,Efficient Similar Region Search with Deep Metric Learning.,2018,"Yiding Liu, Kaiqi Zhao, Gao Cong",KDD 2018: 1850-1859,KDD,A*
+95,Efficient Selection of Geospatial Data on Maps for Interactive and Visualized Exploration.,2018,"Tao Guo, Kaiyu Feng, Gao Cong, Zhifeng Bao",SIGMOD Conference 2018: 567-582,SIGMOD,A*
+96,Finding Seeds and Relevant Tags Jointly: For Targeted Influence Maximization in Social Networks.,2018,"Xiangyu Ke, Arijit Khan, Gao Cong",SIGMOD Conference 2018: 1097-1111,SIGMOD,A*
+97,POIsam: a System for Efficient Selection of Large-scale Geospatial Data on Maps.,2018,"Tao Guo, Mingzhao Li, Peishan Li, Zhifeng Bao, Gao Cong",SIGMOD Conference 2018: 1677-1680,SIGMOD,A*
+98,"Databases Theory and Applications - 29th Australasian Database Conference, ADC 2018, Gold Coast, QLD, Australia, May 24-27, 2018, Proceedings.",2018,"Junhu Wang, Gao Cong, Jinjun Chen, Jianzhong Qi","Lecture Notes in Computer Science 10837, Springer 2018, ISBN 978-3-319-92012-2 ",ADC,Australasian B
+99,Spatiotemporal Topic Detection from Social Media.,2018,"Kaiqi Zhao, Quan Yuan, Gao Cong",Encyclopedia of Social Network Analysis and Mining. 2nd Ed. 2018,SNAM,Unranked
+100,Heron Inference for Bayesian Graphical Models.,2018,"Daniel Rugeles, Zhen Hai, Gao Cong, Manoranjan Dash",CoRR abs/1802.06526 ,CORR,Unranked
+101,Attention-based Group Recommendation.,2018,"Tran Dang Quang Vinh, Tuan-Anh Nguyen Pham, Gao Cong, Xiao-Li Li",CoRR abs/1804.04327 ,CORR,Unranked
+102,Hyperbolic Recommender Systems.,2018,"Tran Dang Quang Vinh, Yi Tay, Shuai Zhang, Gao Cong, Xiao-Li Li",CoRR abs/1809.01703 ,CORR,Unranked
+103,Representation Learning for Spatial Graphs.,2018,"Zheng Wang, Ce Ju, Gao Cong, Cheng Long",CoRR abs/1812.06668 ,CORR,Unranked
+104,An Experimental Evaluation of Point-of-interest Recommendation in Location-based Social Networks.,2017,"Yiding Liu, Tuan-Anh Nguyen Pham, Gao Cong, Quan Yuan",Proc. VLDB Endow. 10: 1010-1021 ,PVLDB,Unranked
+105,Influence Maximization in Trajectory Databases.,2017,"Long Guo, Dongxiang Zhang, Gao Cong, Wei Wu, Kian-Lee Tan",IEEE Trans. Knowl. Data Eng. 29: 627-641 ,TKDE,Unranked
+106,Analyzing Sentiments in One Go: A Supervised Joint Topic Modeling Approach.,2017,"Zhen Hai, Gao Cong, Kuiyu Chang, Peng Cheng, Chunyan Miao",IEEE Trans. Knowl. Data Eng. 29: 1172-1185 ,TKDE,Unranked
+107,MR-NTD: Manifold Regularization Nonnegative Tucker Decomposition for Tensor Data Dimension Reduction and Representation.,2017,"Xutao Li, Michael K. Ng, Gao Cong, Yunming Ye, Qingyao Wu",IEEE Trans. Neural Networks Learn. Syst. 28: 1787-1800 ,TNN,Unranked
+108,PANDA: toward partial topology-based search on large networks in a single machine.,2017,"Miao Xie, Sourav S. Bhowmick, Gao Cong, Qing Wang",VLDB J. 26: 203-228 ,VLDB,A*
+109,POI2Vec: Geographical Latent Representation for Predicting Future Visitors.,2017,"Shanshan Feng, Gao Cong, Bo An, Yeow Meng Chee",AAAI 2017: 102-108,AAAI,A*
+110,A Novel Cascade Model for Learning Latent Similarity from Heterogeneous Sequential Data of MOOC.,2017,"Zhuoxuan Jiang, Shanshan Feng, Gao Cong, Chunyan Miao, Xiaoming Li",EMNLP 2017: 2768-2773,EMNLP,A*
+111,Influence Maximization in Trajectory Databases.,2017,"Long Guo, Dongxiang Zhang, Gao Cong, Wei Wu, Kian-Lee Tan",ICDE 2017: 27-28,ICDE,A*
+112,Proxies for Shortest Path and Distance Queries.,2017,"Shuai Ma, Kaiyu Feng, Jianxin Li, Haixun Wang, Gao Cong, Jinpeng Huai",ICDE 2017: 61-62,ICDE,A*
+113,Distributed Publish/Subscribe Query Processing on the Spatio-Textual Data Stream.,2017,"Zhida Chen, Gao Cong, Zhenjie Zhang, Tom Z. J. Fu, Lisi Chen",ICDE 2017: 1095-1106,ICDE,A*
+114,Robust Self-Tuning Sparse Subspace Clustering.,2017,"Guangtao Wang, Jiayu Zhou, Jingjie Ni, Tingjin Luo, Wei Long, Hai Zhen, Gao Cong, Jieping Ye",ICDM Workshops 2017: 858-865,ICDM,A*
+115,Discovering Pollution Sources and Propagation Patterns in Urban Area.,2017,"Xiucheng Li, Yun Cheng, Gao Cong, Lisi Chen",KDD 2017: 1863-1872,KDD,A*
+116,Biclustering: An application of Dual Topic Models.,2017,"Daniel Rugeles, Kaiqi Zhao, Gao Cong, Manoranjan Dash, Shonali Krishnaswamy",SDM 2017: 453-461,SDM,A
+117,Distributed Algorithms on Exact Personalized PageRank.,2017,"Tao Guo, Xin Cao, Gao Cong, Jiaheng Lu, Xuemin Lin",SIGMOD Conference 2017: 479-494,SIGMOD,A*
+118,PRED: Periodic Region Detection for Mobility Modeling of Social Media Users.,2017,"Quan Yuan, Wei Zhang, Chao Zhang, Xinhe Geng, Gao Cong, Jiawei Han",WSDM 2017: 263-272,WSDM,A
+119,A General Model for Out-of-town Region Recommendation.,2017,"Tuan-Anh Nguyen Pham, Xutao Li, Gao Cong",WWW 2017: 401-410,WWW,A*
+120,"Advanced Data Mining and Applications - 13th International Conference, ADMA 2017, Singapore, November 5-6, 2017, Proceedings.",2017,"Gao Cong, Wen-Chih Peng, Wei Emma Zhang, Chengliang Li, Aixin Sun","Lecture Notes in Computer Science 10604, Springer 2017, ISBN 978-3-319-69178-7 ",ADMA,C
+121,Reverse k Nearest Neighbor Search over Trajectories.,2017,"Sheng Wang, Zhifeng Bao, J. Shane Culpepper, Timos K. Sellis, Gao Cong",CoRR abs/1704.03978 ,CORR,Unranked
+122,SURGE: Continuous Detection of Bursty Regions Over a Stream of Spatial Objects.,2017,"Kaiyu Feng, Tao Guo, Gao Cong, Sourav S. Bhowmick, Shuai Ma",CoRR abs/1709.09287 ,CORR,Unranked
+123,Maximizing influence under influence loss constraint in social networks.,2016,"Yifeng Zeng, Xuefeng Chen, Gao Cong, Shengchao Qin, Jing Tang, Yanping Xiang",Expert Syst. Appl. 55: 255-267 ,ESWA,Unranked
+124,Towards Personalized Maps: Mining User Preferences from Geo-textual Data.,2016,"Kaiqi Zhao, Yiding Liu, Quan Yuan, Lisi Chen, Zhida Chen, Gao Cong",Proc. VLDB Endow. 9: 1545-1548 ,PVLDB,Unranked
+125,A System for Region Search and Exploration.,2016,"Kaiyu Feng, Kaiqi Zhao, Yiding Liu, Gao Cong",Proc. VLDB Endow. 9: 1549-1552 ,PVLDB,Unranked
+126,Learning to Find Topic Experts in Twitter via Different Relations.,2016,"Wei Wei, Gao Cong, Chunyan Miao, Feida Zhu, Guohui Li",IEEE Trans. Knowl. Data Eng. 28: 1764-1778 ,TKDE,Unranked
+127,Proxies for Shortest Path and Distance Queries.,2016,"Shuai Ma, Kaiyu Feng, Jianxin Li, Haixun Wang, Gao Cong, Jinpeng Huai",IEEE Trans. Knowl. Data Eng. 28: 1835-1850 ,TKDE,Unranked
+128,A General Recommendation Model for Heterogeneous Networks.,2016,"Tuan-Anh Nguyen Pham, Xutao Li, Gao Cong, Zhenjie Zhang",IEEE Trans. Knowl. Data Eng. 28: 3140-3153 ,TKDE,Unranked
+129,Annotating Points of Interest with Geo-tagged Tweets.,2016,"Kaiqi Zhao, Gao Cong, Aixin Sun",CIKM 2016: 417-426,CIKM,A
+130,Efficient Processing of Location-Aware Group Preference Queries.,2016,"Miao Li, Lisi Chen, Gao Cong, Yu Gu, Ge Yu",CIKM 2016: 559-568,CIKM,A
+131,Querying and mining geo-textual data for exploration: Challenges and opportunities.,2016,"Gao Cong, Kaiyu Feng, Kaiqi Zhao",ICDE Workshops 2016: 165-168,ICDE,A*
+132,ConTrack: A Scalable Method for Tracking Multiple Concepts in Large Scale Multidimensional Data.,2016,"Ali Zonoozi, Qirong Ho, Shonali Krishnaswamy, Gao Cong",ICDM 2016: 759-768,ICDM,A*
+133,Topic Exploration in Spatio-Temporal Document Collections.,2016,"Kaiqi Zhao, Lisi Chen, Gao Cong",SIGMOD Conference 2016: 985-998,SIGMOD,A*
+134,Towards Best Region Search for Data Exploration.,2016,"Kaiyu Feng, Gao Cong, Sourav S. Bhowmick, Wen-Chih Peng, Chunyan Miao",SIGMOD Conference 2016: 1055-1070,SIGMOD,A*
+135,Querying Geo-Textual Data: Spatial Keyword Queries and Beyond.,2016,"Gao Cong, Christian S. Jensen",SIGMOD Conference 2016: 2207-2212,SIGMOD,A*
+136,Joint Recognition and Linking of Fine-Grained Locations from Tweets.,2016,"Zongcheng Ji, Aixin Sun, Gao Cong, Jialong Han",WWW 2016: 1271-1281,WWW,A*
+137,Distributed Publish/Subscribe Query Processing on the Spatio-Textual Data Stream.,2016,"Zhida Chen, Gao Cong, Zhenjie Zhang, Tom Z. J. Fu, Lisi Chen",CoRR abs/1612.02564 ,CORR,Unranked
+138,An Association-Based Unified Framework for Mining Features and Opinion Words.,2015,"Zhen Hai, Kuiyu Chang, Gao Cong, Christopher C. Yang",ACM Trans. Intell. Syst. Technol. 6: 26:1-26:21 ,TIST,Unranked
+139,Efficient Processing of Spatial Group Keyword Queries.,2015,"Xin Cao, Gao Cong, Tao Guo, Christian S. Jensen, Beng Chin Ooi",ACM Trans. Database Syst. 40: 13:1-13:48 ,TODS,Unranked
+140,"Who, Where, When, and What: A Nonparametric Bayesian Approach to Context-aware Recommendation and Search for Twitter Users.",2015,"Quan Yuan, Gao Cong, Kaiqi Zhao, Zongyang Ma, Aixin Sun",ACM Trans. Inf. Syst. 33: 2:1-2:33 ,TOIS,Unranked
+141,On Information Coverage for Location Category Based Point-of-Interest Recommendation.,2015,"Xuefeng Chen, Yifeng Zeng, Gao Cong, Shengchao Qin, Yanping Xiang, Yuanshun Dai",AAAI 2015: 37-43,AAAI,A*
+142,A Tri-Role Topic Model for Domain-Specific Question Answering.,2015,"Zongyang Ma, Aixin Sun, Quan Yuan, Gao Cong",AAAI 2015: 224-230,AAAI,A*
+143,Mining User Intents in Twitter: A Semi-Supervised Approach to Inferring Intent Categories for Tweets.,2015,"Jinpeng Wang, Gao Cong, Wayne Xin Zhao, Xiaoming Li",AAAI 2015: 318-324,AAAI,A*
+144,DynaDiffuse: A Dynamic Diffusion Model for Continuous Time Constrained Influence Maximization.,2015,"Miao Xie, Qiusong Yang, Qing Wang, Gao Cong, Gerard de Melo",AAAI 2015: 346-352,AAAI,A*
+145,Where you Instagram?: Associating Your Instagram Photos with Points of Interest.,2015,"Xutao Li, Tuan-Anh Nguyen Pham, Gao Cong, Quan Yuan, Xiaoli Li, Shonali Krishnaswamy",CIKM 2015: 1231-1240,CIKM,A
+146,Efficient algorithms for answering reverse spatial-keyword nearest neighbor queries.,2015,"Ying Lu, Gao Cong, Jiaheng Lu, Cyrus Shahabi",SIGSPATIAL/GIS 2015: 82:1-82:4,GIS,Unranked
+147,Temporal Spatial-Keyword Top-k publish/subscribe.,2015,"Lisi Chen, Gao Cong, Xin Cao, Kian-Lee Tan",ICDE 2015: 255-266,ICDE,A*
+148,A general graph-based model for recommendation in event-based social networks.,2015,"Tuan-Anh Nguyen Pham, Xutao Li, Gao Cong, Zhenjie Zhang",ICDE 2015: 567-578,ICDE,A*
+149,SAR: A sentiment-aspect-region model for user preference analysis in geo-tagged reviews.,2015,"Kaiqi Zhao, Gao Cong, Quan Yuan, Kenny Q. Zhu",ICDE 2015: 675-686,ICDE,A*
+150,Personalized Ranking Metric Embedding for Next New POI Recommendation.,2015,"Shanshan Feng, Xutao Li, Yifeng Zeng, Gao Cong, Yeow Meng Chee, Quan Yuan",IJCAI 2015: 2069-2075,IJCAI,A*
+151,Rank-GeoFM: A Ranking based Geographical Factorization Method for Point of Interest Recommendation.,2015,"Xutao Li, Gao Cong, Xiaoli Li, Tuan-Anh Nguyen Pham, Shonali Krishnaswamy",SIGIR 2015: 433-442,SIGIR,A*
+152,Diversity-Aware Top-k Publish/Subscribe for Text Stream.,2015,"Lisi Chen, Gao Cong",SIGMOD Conference 2015: 347-362,SIGMOD,A*
+153,Efficient Algorithms for Answering the m-Closest Keywords Query.,2015,"Tao Guo, Xin Cao, Gao Cong",SIGMOD Conference 2015: 405-418,SIGMOD,A*
+154,3D Subspace Clustering for Value Investing.,2014,"Kelvin Sim, Vivekanand Gopalkrishnan, Clifton Phua, Gao Cong",IEEE Intell. Syst. 29: 52-59 ,EXPERT,Unranked
+155,Where your photo is taken: Geolocation prediction for social images.,2014,"Bo Liu, Quan Yuan, Gao Cong, Dong Xu",J. Assoc. Inf. Sci. Technol. 65: 1232-1243 ,JASIS,Unranked
+156,Retrieving Regions of Interest for User Exploration.,2014,"Xin Cao, Gao Cong, Christian S. Jensen, Man Lung Yiu",Proc. VLDB Endow. 7: 733-744 ,PVLDB,Unranked
+157,SOPS: A System for Efficient Processing of Spatial-Keyword Publish/Subscribe.,2014,"Lisi Chen, Yan Cui, Gao Cong, Xin Cao",Proc. VLDB Endow. 7: 1601-1604 ,PVLDB,Unranked
+158,Effective and Efficient Clustering Methods for Correlated Probabilistic Graphs.,2014,"Yu Gu, Chunpeng Gao, Gao Cong, Ge Yu",IEEE Trans. Knowl. Data Eng. 26: 1117-1130 ,TKDE,Unranked
+159,Influence Spreading Path and Its Application to the Time Constrained Social Influence Maximization Problem and Beyond.,2014,"Bo Liu, Gao Cong, Yifeng Zeng, Dong Xu, Yeow Meng Chee",IEEE Trans. Knowl. Data Eng. 26: 1904-1917 ,TKDE,Unranked
+160,Efficient Algorithms and Cost Models for Reverse Spatial-Keyword k-Nearest Neighbor Search.,2014,"Ying Lu, Jiaheng Lu, Gao Cong, Wei Wu, Cyrus Shahabi",ACM Trans. Database Syst. 39: 13:1-13:46 ,TODS,Unranked
+161,Influence Maximization with Novelty Decay in Social Networks.,2014,"Shanshan Feng, Xuefeng Chen, Gao Cong, Yifeng Zeng, Yeow Meng Chee, Yanping Xiang",AAAI 2014: 37-43,AAAI,A*
+162,Graph-based Point-of-interest Recommendation with Geographical and Temporal Influences.,2014,"Quan Yuan, Gao Cong, Aixin Sun",CIKM 2014: 659-668,CIKM,A
+163,Tagging Your Tweets: A Probabilistic Modeling of Hashtag Annotation in Twitter.,2014,"Zongyang Ma, Aixin Sun, Quan Yuan, Gao Cong",CIKM 2014: 999-1008,CIKM,A
+164,Distributed Spatial Keyword Querying on Road Networks.,2014,"Siqiang Luo, Yifeng Luo, Shuigeng Zhou, Gao Cong, Jihong Guan",EDBT 2014: 235-246,EDBT,A
+165,COM: a generative model for group recommendation.,2014,"Quan Yuan, Gao Cong, Chin-Yew Lin",KDD 2014: 163-172,KDD,A*
+166,Coarse-to-fine review selection via supervised joint aspect and sentiment model.,2014,"Zhen Hai, Gao Cong, Kuiyu Chang, Wenting Liu, Peng Cheng",SIGIR 2014: 617-626,SIGIR,A*
+167,In search of influential event organizers in online social networks.,2014,"Kaiyu Feng, Gao Cong, Sourav S. Bhowmick, Shuai Ma",SIGMOD Conference 2014: 63-74,SIGMOD,A*
+168,A survey on enhanced subspace clustering.,2013,"Kelvin Sim, Vivekanand Gopalkrishnan, Arthur Zimek, Gao Cong",Data Min. Knowl. Discov. 26: 332-397 ,DATAMINE,Unranked
+169,Novel document detection for massive data streams using distributed dictionary learning.,2013,"Shiva Prasad Kasiviswanathan, Gao Cong, Prem Melville, Richard D. Lawrence",IBM J. Res. Dev. 57: 9 ,IBMRD,Unranked
+170,On predicting the popularity of newly emerging hashtags in Twitter.,2013,"Zongyang Ma, Aixin Sun, Gao Cong",J. Assoc. Inf. Sci. Technol. 64: 1399-1410 ,JASIS,Unranked
+171,Spatial Keyword Query Processing: An Experimental Evaluation.,2013,"Lisi Chen, Gao Cong, Christian S. Jensen, Dingming Wu",Proc. VLDB Endow. 6: 217-228 ,PVLDB,Unranked
+172,Front Matter.,2013,"Gao Cong, Jens Dittrich",Proc. VLDB Endow. 7: i-ix ,PVLDB,Unranked
+173,Centroid-Based Actionable 3D Subspace Clustering.,2013,"Kelvin Sim, Ghim-Eng Yap, David R. Hardoon, Vivekanand Gopalkrishnan, Gao Cong, Suryani Lukman",IEEE Trans. Knowl. Data Eng. 25: 1213-1226 ,TKDE,Unranked
+174,Efficient proximity detection among mobile objects in road networks with self-adjustment methods.,2013,"Yaqiong Liu, Hock Soon Seah, Gao Cong",SIGSPATIAL/GIS 2013: 124-133,GIS,Unranked
+175,KORS: Keyword-aware Optimal Route Search System.,2013,"Xin Cao, Lisi Chen, Gao Cong, Jihong Guan, Nhan-Tue Phan, Xiaokui Xiao",ICDE 2013: 1340-1343,ICDE,A*
+176,"Who, where, when and what: discover spatio-temporal topics for twitter users.",2013,"Quan Yuan, Gao Cong, Zongyang Ma, Aixin Sun, Nadia Magnenat-Thalmann",KDD 2013: 605-613,KDD,A*
+177,Time-aware point-of-interest recommendation.,2013,"Quan Yuan, Gao Cong, Zongyang Ma, Aixin Sun, Nadia Magnenat-Thalmann",SIGIR 2013: 363-372,SIGIR,A*
+178,An efficient query indexing mechanism for filtering geo-textual data.,2013,"Lisi Chen, Gao Cong, Xin Cao",SIGMOD Conference 2013: 749-760,SIGMOD,A*
+179,An evaluation of classification models for question topic categorization.,2012,"Bo Qu, Gao Cong, Cuiping Li, Aixin Sun, Hong Chen",J. Assoc. Inf. Sci. Technol. 63: 889-903 ,JASIS,Unranked
+180,Extracting representative motion flows for effective video retrieval.,2012,"Zhe Zhao, Bin Cui, Gao Cong, Zi Huang, Heng Tao Shen",Multim. Tools Appl. 58: 687-711 ,MTA,Unranked
+181,Shortest Path and Distance Queries on Road Networks: An Experimental Evaluation.,2012,"Lingkun Wu, Xiaokui Xiao, Dingxiong Deng, Gao Cong, Andy Diwen Zhu, Shuigeng Zhou",Proc. VLDB Endow. 5: 406-417 ,PVLDB,Unranked
+182,Keyword-aware Optimal Route Search.,2012,"Xin Cao, Lisi Chen, Gao Cong, Xiaokui Xiao",Proc. VLDB Endow. 5: 1136-1147 ,PVLDB,Unranked
+183,SWORS: A System for the Efficient Retrieval of Relevant Spatial Web Objects.,2012,"Xin Cao, Gao Cong, Christian S. Jensen, Jun Jie Ng, Beng Chin Ooi, Nhan-Tue Phan, Dingming Wu",Proc. VLDB Endow. 5: 1914-1917 ,PVLDB,Unranked
+184,DISKs: A System for Distributed Spatial Group Keyword Search on Road Networks.,2012,"Siqiang Luo, Yifeng Luo, Shuigeng Zhou, Gao Cong, Jihong Guan",Proc. VLDB Endow. 5: 1966-1969 ,PVLDB,Unranked
+185,On the Complexity of View Update Analysis and Its Application to Annotation Propagation.,2012,"Gao Cong, Wenfei Fan, Floris Geerts, Jianzhong Li, Jizhou Luo",IEEE Trans. Knowl. Data Eng. 24: 506-519 ,TKDE,Unranked
+186,Joint Top-K Spatial Keyword Query Processing.,2012,"Dingming Wu, Man Lung Yiu, Gao Cong, Christian S. Jensen",IEEE Trans. Knowl. Data Eng. 24: 1889-1903 ,TKDE,Unranked
+187,Partial Evaluation for Distributed XPath Query Processing and Beyond.,2012,"Gao Cong, Wenfei Fan, Anastasios Kementsietsidis, Jianzhong Li, Xianmin Liu",ACM Trans. Database Syst. 37: 32:1-32:43 ,TODS,Unranked
+188,Approaches to Exploring Category Information for Question Retrieval in Community Question-Answer Archives.,2012,"Xin Cao, Gao Cong, Bin Cui, Christian S. Jensen, Quan Yuan",ACM Trans. Inf. Syst. 30: 7:1-7:38 ,TOIS,Unranked
+189,A framework for efficient spatial web object retrieval.,2012,"Dingming Wu, Gao Cong, Christian S. Jensen",VLDB J. 21: 797-822 ,VLDB,A*
+190,Evolutionary taxonomy construction from dynamic tag space.,2012,"Junjie Yao, Bin Cui, Gao Cong, Yuxin Huang",World Wide Web 15: 581-602 ,WWW,A*
+191,One seed to find them all: mining opinion features via association.,2012,"Zhen Hai, Kuiyu Chang, Gao Cong",CIKM 2012: 255-264,CIKM,A
+192,Topic-driven reader comments summarization.,2012,"Zongyang Ma, Aixin Sun, Quan Yuan, Gao Cong",CIKM 2012: 265-274,CIKM,A
+193,Spatial Keyword Queries.,2012,Gao Cong,DASFAA Workshops 2012: 250,DASFAA,B
+194,Spatial Keyword Querying.,2012,"Xin Cao, Lisi Chen, Gao Cong, Christian S. Jensen, Qiang Qu, Anders Skovsgaard, Dingming Wu, Man Lung Yiu",ER 2012: 16-29,ER,A
+195,Time Constrained Influence Maximization in Social Networks.,2012,"Bo Liu, Gao Cong, Dong Xu, Yifeng Zeng",ICDM 2012: 439-448,ICDM,A*
+196,Overlapping decomposition for causal graphical modeling.,2012,"Lei Han, Guojie Song, Gao Cong, Kunqing Xie",KDD 2012: 114-122,KDD,A*
+197,Author Name Disambiguation Using a New Categorical Distribution Similarity.,2012,"Shaohua Li, Gao Cong, Chunyan Miao",ECML/PKDD  2012: 569-584,PKDD,Unranked
+198,Category hierarchy maintenance: a data-driven approach.,2012,"Quan Yuan, Gao Cong, Aixin Sun, Chin-Yew Lin, Nadia Magnenat-Thalmann",SIGIR 2012: 791-800,SIGIR,A*
+199,Will this #hashtag be popular tomorrow?,2012,"Zongyang Ma, Aixin Sun, Gao Cong",SIGIR 2012: 1173-1174,SIGIR,A*
+200,Functional Feature Extraction and Chemical Retrieval.,2012,"Peng Tang, Siu Cheung Hui, Gao Cong",SSDBM 2012: 507-525,SSDBM,B
+201,Enhancing naive bayes with various smoothing methods for short text classification.,2012,"Quan Yuan, Gao Cong, Nadia Magnenat-Thalmann",WWW  2012: 645-646,WWW,A*
+202,Shortest Path and Distance Queries on Road Networks: An Experimental Evaluation.,2012,"Lingkun Wu, Xiaokui Xiao, Dingxiong Deng, Gao Cong, Andy Diwen Zhu, Shuigeng Zhou",CoRR abs/1201.6564 ,CORR,Unranked
+203,Efficient Spatial Keyword Search in Trajectory Databases.,2012,"Gao Cong, Hua Lu, Beng Chin Ooi, Dongxiang Zhang, Meihui Zhang",CoRR abs/1205.2880 ,CORR,Unranked
+204,Keyword-aware Optimal Route Search.,2012,"Xin Cao, Lisi Chen, Gao Cong, Xiaokui Xiao",CoRR abs/1208.0077 ,CORR,Unranked
+205,Simulated Annealing Based Influence Maximization in Social Networks.,2011,"Qingye Jiang, Guojie Song, Gao Cong, Yu Wang, Wenjun Si, Kunqing Xie",AAAI 2011: 127-132,AAAI,A*
+206,Integrating Community Question and Answer Archives.,2011,"Wei Wei, Gao Cong, Xiaoli Li, See-Kiong Ng, Guohui Li",AAAI 2011: 1255-1260,AAAI,A*
+207,Efficient continuously moving top-k spatial keyword query processing.,2011,"Dingming Wu, Man Lung Yiu, Christian S. Jensen, Gao Cong",ICDE 2011: 541-552,ICDE,A*
+208,Reverse spatial and textual k nearest neighbor search.,2011,"Jiaheng Lu, Ying Lu, Gao Cong",SIGMOD Conference 2011: 349-360,SIGMOD,A*
+209,Collective spatial keyword querying.,2011,"Xin Cao, Gao Cong, Christian S. Jensen, Beng Chin Ooi",SIGMOD Conference 2011: 373-384,SIGMOD,A*
+210,Updating XML views and querying XML views with update syntax.,2010,"Gao Cong, Yingxin Li",Int. J. Comput. Sci. Eng. 5: 118-126 ,IJCSE,Unranked
+211,Retrieving Top-k Prestige-Based Relevant Spatial Web Objects.,2010,"Xin Cao, Gao Cong, Christian S. Jensen",Proc. VLDB Endow. 3: 373-384 ,PVLDB,Unranked
+212,Mining Significant Semantic Locations From GPS Data.,2010,"Xin Cao, Gao Cong, Christian S. Jensen",Proc. VLDB Endow. 3: 1009-1020 ,PVLDB,Unranked
+213,Exploring domain-specific term weight in archived question search.,2010,"Zhaoyan Ming, Tat-Seng Chua, Gao Cong",CIKM 2010: 1605-1608,CIKM,A
+214,ISIS: A New Approach for Efficient Similarity Search in Sparse Databases.,2010,"Bin Cui, Jiakui Zhao, Gao Cong",DASFAA  2010: 231-245,DASFAA,B
+215,Using Transactional Data from ERP Systems for Expert Finding.,2010,"Lars K. Schunk, Gao Cong",DEXA  2010: 267-276,DEXA,C
+216,Community-based greedy algorithm for mining top-K influential nodes in mobile social networks.,2010,"Yu Wang, Gao Cong, Guojie Song, Kunqing Xie",KDD 2010: 1039-1048,KDD,A*
+217,Content-enriched classifier for web video classification.,2010,"Bin Cui, Ce Zhang, Gao Cong",SIGIR 2010: 619-626,SIGIR,A*
+218,Evolutionary Taxonomy Construction from Dynamic Tag Space.,2010,"Bin Cui, Junjie Yao, Gao Cong, Yuxin Huang",WISE 2010: 105-119,WISE,B
+219,A generalized framework of exploring category information for question retrieval in community question answer archives.,2010,"Xin Cao, Gao Cong, Bin Cui, Christian S. Jensen",WWW 2010: 201-210,WWW,A*
+220,Efficient Retrieval of the Top-k Most Relevant Spatial Web Objects.,2009,"Gao Cong, Christian S. Jensen, Dingming Wu",Proc. VLDB Endow. 2: 337-348 ,PVLDB,Unranked
+221,The use of categorization information in language models for question retrieval.,2009,"Xin Cao, Gao Cong, Bin Cui, Christian S. Jensen, Ce Zhang",CIKM 2009: 265-274,CIKM,A
+222,A Revisit of Query Expansion with Different Semantic Levels.,2009,"Ce Zhang, Bin Cui, Gao Cong, Yu-Jing Wang",DASFAA 2009: 662-676,DASFAA,B
+223,Routing Questions to the Right Users in Online Communities.,2009,"Yanhong Zhou, Gao Cong, Bin Cui, Christian S. Jensen, Junjie Yao",ICDE 2009: 700-711,ICDE,A*
+224,Efficient Algorithm for Computing Link-Based Similarity in Real World Networks.,2009,"Yuanzhe Cai, Gao Cong, Xu Jia, Hongyan Liu, Jun He, Jiaheng Lu, Xiaoyong Du",ICDM 2009: 734-739,ICDM,A*
+225,Updating Recursive XML Views of Relations.,2008,"Byron Choi, Gao Cong, Wenfei Fan, Stratis Viglas",J. Comput. Sci. Technol. 23: 516-537 ,JCST,Unranked
+226,Using Conditional Random Fields to Extract Contexts and Answers of Questions from Online Forums.,2008,"Shilin Ding, Gao Cong, Chin-Yew Lin, Xiaoyan Zhu",ACL 2008: 710-718,ACL,A*
+227,Finding question-answer pairs from online forums.,2008,"Gao Cong, Long Wang, Chin-Yew Lin, Young-In Song, Yueheng Sun",SIGIR 2008: 467-474,SIGIR,A*
+228,Semantic similarity based on compact concept ontology.,2008,"Ce Zhang, Yu-Jing Wang, Bin Cui, Gao Cong",WWW 2008: 1125-1126,WWW,A*
+229,Mining Sequential Patterns and Tree Patterns to Detect Erroneous Sentences.,2007,"Guihua Sun, Gao Cong, Xiaohua Liu, Chin-Yew Lin, Ming Zhou",AAAI 2007: 925-930,AAAI,A*
+230,Detecting Erroneous Sentences using Automatically Mined Sequential Patterns.,2007,"Guihua Sun, Xiaohua Liu, Gao Cong, Ming Zhou, Zhongyang Xiong, John Lee, Chin-Yew Lin",ACL 2007,ACL,A*
+231,Query and Update Through XML Views.,2007,Gao Cong,DNIS 2007: 81-95,DNIS,Unranked
+232,Updating Recursive XML Views of Relations.,2007,"Byron Choi, Gao Cong, Wenfei Fan, Stratis Viglas",ICDE 2007: 766-775,ICDE,A*
+233,Querying xml with update syntax.,2007,"Wenfei Fan, Gao Cong, Philip Bohannon",SIGMOD Conference 2007: 293-304,SIGMOD,A*
+234,Distributed query evaluation with performance guarantees.,2007,"Gao Cong, Wenfei Fan, Anastasios Kementsietsidis",SIGMOD Conference 2007: 509-520,SIGMOD,A*
+235,Improving Data Quality: Consistency and Accuracy.,2007,"Gao Cong, Wenfei Fan, Floris Geerts, Xibei Jia, Shuai Ma",VLDB 2007: 315-326,VLDB,A*
+236,Annotation propagation revisited for key preserving views.,2006,"Gao Cong, Wenfei Fan, Floris Geerts",CIKM 2006: 632-641,CIKM,A
+237,Summarizing Frequent Patterns Using Profiles.,2006,"Gao Cong, Bin Cui, Yingxin Li, Zonghong Zhang",DASFAA 2006: 171-186,DASFAA,B
+238,An Estimation System for XPath Expressions.,2006,"Hanyu Li, Mong-Li Lee, Wynne Hsu, Gao Cong",ICDE 2006: 54,ICDE,A*
+239,Exploring composite acoustic features for efficient music similarity query.,2006,"Bin Cui, Jialie Shen, Gao Cong, Heng Tao Shen, Cui Yu",ACM Multimedia 2006: 412-420,MM,Unranked
+240,Using Partial Evaluation in Distributed Query Evaluation.,2006,"Peter Buneman, Gao Cong, Wenfei Fan, Anastasios Kementsietsidis",VLDB 2006: 211-222,VLDB,A*
+241,On Effective E-mail Classification via Neural Networks.,2005,"Bin Cui, Anirban Mondal, Jialie Shen, Gao Cong, Kian-Lee Tan",DEXA 2005: 85-94,DEXA,C
+242,Mining Top-k Covering Rule Groups for Gene Expression Data.,2005,"Gao Cong, Kian-Lee Tan, Anthony K. H. Tung, Xin Xu",SIGMOD Conference 2005: 670-681,SIGMOD,A*
+243,Semi-supervised Text Classification Using Partitioned EM.,2004,"Gao Cong, Wee Sun Lee, Haoran Wu, Bing Liu",DASFAA 2004: 482-493,DASFAA,B
+244,Go Green: Recycle and Reuse Frequent Patterns.,2004,"Gao Cong, Beng Chin Ooi, Kian-Lee Tan, Anthony K. H. Tung",ICDE 2004: 128-139,ICDE,A*
+245,Mining Frequent Closed Patterns in Microarray Data.,2004,"Gao Cong, Kian-Lee Tan, Anthony K. H. Tung, Feng Pan",ICDM 2004: 363-366,ICDM,A*
+246,Incremental maintenance of quotient cube for median.,2004,"Cuiping Li, Gao Cong, Anthony K. H. Tung, Shan Wang",KDD 2004: 226-235,KDD,A*
+247,FARMER: Finding Interesting Rule Groups in Microarray Datasets.,2004,"Gao Cong, Anthony K. H. Tung, Xin Xu, Feng Pan, Jiong Yang",SIGMOD Conference 2004: 143-154,SIGMOD,A*
+248,COBBLER: Combining Column and Row Enumeration for Closed Pattern Discovery.,2004,"Feng Pan, Anthony K. H. Tung, Gao Cong, Xin Xu",SSDBM 2004: 21-30,SSDBM,B
+249,Semantic Mining and Analysis of Gene Expression Data.,2004,"Xin Xu, Gao Cong, Beng Chin Ooi, Kian-Lee Tan, Anthony K. H. Tung",VLDB 2004: 1261-1264,VLDB,A*
+250,Carpenter: finding closed patterns in long biological datasets.,2003,"Feng Pan, Gao Cong, Anthony K. H. Tung, Jiong Yang, Mohammed Javeed Zaki",KDD 2003: 637-642,KDD,A*
+251,Speed-up Iterative Frequent Itemset Mining with Constraint Changes.,2002,"Gao Cong, Bing Liu",ICDM 2002: 107-114,ICDM,A*
+252,Discovering Frequent Substructures from Hierarchical Semi-structured Data.,2002,"Gao Cong, Lan Yi, Bing Liu, Ke Wang",SDM 2002: 175-192,SDM,A

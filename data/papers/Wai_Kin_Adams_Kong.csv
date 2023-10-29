@@ -1,0 +1,111 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,A fully differentiable ligand pose optimization framework guided by deep learning and a traditional scoring function.,2023,"Zechen Wang, Liangzhen Zheng, Sheng Wang, Mingzhi Lin, Zhihao Wang, Adams Wai-Kin Kong, Yuguang Mu, Yanjie Wei, Weifeng Li",Briefings Bioinform. 24 ,BIB,Unranked
+1,A Practical Upper Bound for the Worst-Case Attribution Deviations.,2023,"Fan Wang, Adams Wai-Kin Kong",CVPR 2023: 24616-24625,CVPR,A*
+2,Flexible-modal Deception Detection with Audio-Visual Adapter.,2023,"Zhaoxu Li, Zitong Yu, Nithish Muthuchamy Selvaraj, Xiaobao Guo, Bingquan Shen, Adams Wai-Kin Kong, Alex C. Kot",CoRR abs/2302.05727 ,CORR,Unranked
+3,A Practical Upper Bound for the Worst-Case Attribution Deviations.,2023,"Fan Wang, Adams Wai-Kin Kong",CoRR abs/2303.00340 ,CORR,Unranked
+4,TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition.,2023,"Shilin Lu, Yanzhu Liu, Adams Wai-Kin Kong",CoRR abs/2307.12493 ,CORR,Unranked
+5,Using double attention for text tattoo localisation.,2022,"Xingpeng Xu, Shitala Prasad, Kuanhong Cheng, Adams Wai-Kin Kong",IET Biom. 11: 199-214 ,IET-BMT,Unranked
+6,Pure Transformer with Integrated Experts for Scene Text Recognition.,2022,"Yew Lee Tan, Adams Wai-Kin Kong, Jung-Jae Kim",ECCV  2022: 481-497,ECCV,A*
+7,Transferable Adversarial Attack based on Integrated Gradients.,2022,"Yi Huang, Adams Wai-Kin Kong",ICLR 2022,ICLR,A*
+8,Portmanteauing Features for Scene Text Recognition.,2022,"Yew Lee Tan, Ernest Yu Kai Chew, Adams Wai-Kin Kong, Jung-Jae Kim, Joo Hwee Lim",ICPR 2022: 1499-1505,ICPR,B
+9,Exploiting the Relationship Between Kendall's Rank Correlation and Cosine Similarity for Attribution Protection.,2022,"Fan Wang, Adams Wai-Kin Kong",NeurIPS 2022,NIPS,Unranked
+10,Exploiting the Relationship Between Kendall's Rank Correlation and Cosine Similarity for Attribution Protection.,2022,"Fan Wang, Adams Wai-Kin Kong",CoRR abs/2205.07279 ,CORR,Unranked
+11,Transferable Adversarial Attack based on Integrated Gradients.,2022,"Yi Huang, Adams Wai-Kin Kong",CoRR abs/2205.13152 ,CORR,Unranked
+12,Pure Transformer with Integrated Experts for Scene Text Recognition.,2022,"Yew Lee Tan, Adams Wai-Kin Kong, Jung-Jae Kim",CoRR abs/2211.04963 ,CORR,Unranked
+13,Portmanteauing Features for Scene Text Recognition.,2022,"Yew Lee Tan, Ernest Yu Kai Chew, Adams Wai-Kin Kong, Jung-Jae Kim, Joo Hwee Lim",CoRR abs/2211.05036 ,CORR,Unranked
+14,Pixel-wise ordinal classification for salient object grading.,2021,"Yanzhu Liu, Yanan Wang, Adams Wai-Kin Kong",Image Vis. Comput. 106: 104086 ,IVC,Unranked
+15,Segmenting Vitiligo on Clinical Face Images Using CNN Trained on Synthetic and Internet Images.,2021,"Yanling Li, Adams Wai-Kin Kong, Steven Thng",IEEE J. Biomed. Health Informatics 25: 3082-3093 ,TITB,Unranked
+16,A portrait photo-to-tattoo transform based on digital tattooing.,2020,"Xingpeng Xu, Wojciech Michal Matkowski, Adams Wai-Kin Kong",Multim. Tools Appl. 79: 24367-24392 ,MTA,Unranked
+17,"A survey on image and video cosegmentation: Methods, challenges and analyses.",2020,"Yan Ren, Adams Wai-Kin Kong, Licheng Jiao",Pattern Recognit. 103: 107297 ,PR,Unranked
+18,Palmprint Recognition in Uncontrolled and Uncooperative Environment.,2020,"Wojciech Michal Matkowski, Tingting Chai, Adams Wai-Kin Kong",IEEE Trans. Inf. Forensics Secur. 15: 1601-1615 ,TIFS,Unranked
+19,New Threats Against Object Detector with Non-local Block.,2020,"Yi Huang, Fan Wang, Adams Wai-Kin Kong, Kwok-Yan Lam",ECCV  2020: 481-497,ECCV,A*
+20,Gender and Ethnicity Classification based on Palmprint and Palmar Hand Images from Uncontrolled Environment.,2020,"Wojciech Michal Matkowski, Adams Wai-Kin Kong",IJCB 2020: 1-7,ICB,Unranked
+21,Gender and Ethnicity Classification based on Palmprint and Palmar Hand Images from Uncontrolled Environment.,2020,"Wojciech Michal Matkowski, Adams Wai-Kin Kong",CoRR abs/2008.02500 ,CORR,Unranked
+22,A study on wrist identification for forensic investigation.,2019,"Wojciech Michal Matkowski, Frodo Kin Sun Chan, Adams Wai-Kin Kong",Image Vis. Comput. 88: 96-112 ,IVC,Unranked
+23,Adversarial Signboard against Object Detector.,2019,"Yi Huang, Adams Wai-Kin Kong, Kwok-Yan Lam",BMVC 2019: 231,BMVC,A
+24,Palmprint Recognition Using Realistic Animation Aided Data Augmentation.,2019,"Swarup Pranjal, Adams Wai-Kin Kong",BTAS 2019: 1-9,BTAS,Unranked
+25,The Nipple-Areola Complex for Criminal Identification.,2019,"Wojciech Michal Matkowski, Krzysztof Matkowski, Adams Wai-Kin Kong, Cory Lloyd Hall",ICB 2019: 1-6,ICB,Unranked
+26,Probabilistic Deep Ordinal Regression Based on Gaussian Processes.,2019,"Yanzhu Liu, Fan Wang, Adams Wai-Kin Kong",ICCV 2019: 5300-5308,ICCV,A*
+27,Giant Panda Face Recognition Using Small Dataset.,2019,"Wojciech Michal Matkowski, Adams Wai-Kin Kong, Han Su, Peng Chen, Rong Hou, Zhihe Zhang",ICIP 2019: 1680-1684,ICIP,B
+28,Towards Touch-to-Access Device Authentication Using Induced Body Electric Potentials.,2019,"Zhenyu Yan, Qun Song, Rui Tan, Yang Li, Adams Wai-Kin Kong",MobiCom 2019: 23:1-23:16,MOBICOM,A*
+29,Attacking Object Detectors Without Changing the Target Object.,2019,"Yi Huang, Adams Wai-Kin Kong, Kwok-Yan Lam",PRICAI  2019: 3-15,PRICAI,B
+30,Towards Touch-to-Access Device Authentication Using Induced Body Electric Potentials.,2019,"Zhenyu Yan, Qun Song, Rui Tan, Yang Li, Adams Wai-Kin Kong",CoRR abs/1902.07057 ,CORR,Unranked
+31,Giant Panda Face Recognition Using Small Dataset.,2019,"Wojciech Michal Matkowski, Adams Wai-Kin Kong, Han Su, Peng Chen, Rong Hou, Zhihe Zhang",CoRR abs/1905.11163 ,CORR,Unranked
+32,The Nipple-Areola Complex for Criminal Identification.,2019,"Wojciech Michal Matkowski, Krzysztof Matkowski, Adams Wai-Kin Kong, Cory Lloyd Hall",CoRR abs/1905.11651 ,CORR,Unranked
+33,A Study on Wrist Identification for Forensic Investigation.,2019,"Wojciech Michal Matkowski, Frodo Kin Sun Chan, Adams Wai-Kin Kong",CoRR abs/1910.03213 ,CORR,Unranked
+34,Palmprint Recognition in Uncontrolled and Uncooperative Environment.,2019,"Wojciech Michal Matkowski, Tingting Chai, Adams Wai-Kin Kong",CoRR abs/1911.12514 ,CORR,Unranked
+35,A further study of low resolution androgenic hair patterns as a soft biometric trait.,2018,"Frodo Kin-Sun Chan, Adams Wai-Kin Kong",Image Vis. Comput. 69: 125-142 ,IVC,Unranked
+36,From the Perspective of CNN to Adversarial Iris Images.,2018,"Yi Huang, Adams Wai-Kin Kong, Kwok-Yan Lam",BTAS 2018: 1-10,BTAS,Unranked
+37,A Constrained Deep Neural Network for Ordinal Regression.,2018,"Yanzhu Liu, Adams Wai-Kin Kong, Chi Keong Goh",CVPR 2018: 831-839,CVPR,A*
+38,Using Object Information for Spotting Text.,2018,"Shitala Prasad, Adams Wai-Kin Kong",ECCV  2018: 559-576,ECCV,A*
+39,A Meta-Recognition Based Skin Marks Matching Algorithm with Feature Fusion for Forensic Identification.,2018,"Peicong Yu, Adams Wai-Kin Kong",ICB 2018: 111-117,ICB,Unranked
+40,A multi-model restoration algorithm for recovering blood vessels in skin images.,2017,"Xiaojie Li, Adams Wai-Kin Kong",Image Vis. Comput. 61: 40-53 ,IVC,Unranked
+41,A Study of Distinctiveness of Skin Texture for Forensic Applications Through Comparison With Blood Vessels.,2017,"Frodo Kin-Sun Chan, Xiaojie Li, Adams Wai-Kin Kong",IEEE Trans. Inf. Forensics Secur. 12: 1900-1915 ,TIFS,Unranked
+42,Deep Ordinal Regression Based on Data Relationship for Small Datasets.,2017,"Yanzhu Liu, Adams Wai-Kin Kong, Chi Keong Goh",IJCAI 2017: 2372-2378,IJCAI,A*
+43,Using multiple models to uncover blood vessel patterns in color images for forensic analysis.,2016,"Chaoying Tang, Hengyi Zhang, Adams Wai-Kin Kong",Inf. Fusion 32: 26-39 ,INFFUS,Unranked
+44,A Fully Automatic Method for Gridding Bright Field Images of Bead-Based Microarrays.,2016,"Abhik Datta, Adams Wai-Kin Kong, Kin-Choong Yow",IEEE J. Biomed. Health Informatics 20: 1148-1159 ,TITB,Unranked
+45,Using a CNN ensemble for detecting pornographic and upskirt images.,2016,"Yi Huang, Adams Wai-Kin Kong",BTAS 2016: 1-7,BTAS,Unranked
+46,Tattoo detection based on CNN and remarks on the NIST database.,2016,"Qingyong Xu, Soham Ghosh, Xingpeng Xu, Yi Huang, Adams Wai-Kin Kong",ICB 2016: 1-7,ICB,Unranked
+47,A geometric-based tattoo retrieval system.,2016,"Xingpeng Xu, Adams Wai-Kin Kong",ICPR 2016: 3019-3024,ICPR,B
+48,Learning from small data: A pairwise approach for ordinal regression.,2016,"Yanzhu Liu, Xiaojie Li, Adams Wai-Kin Kong, Chi Keong Goh",SSCI 2016: 1-6,SSCI,Unranked
+49,A Statistical Analysis of IrisCode and Its Security Implications.,2015,Adams Wai-Kin Kong,IEEE Trans. Pattern Anal. Mach. Intell. 37: 513-528 ,PAMI,Unranked
+50,On Criminal Identification in Color Skin Images Using Skin Marks (RPPVSM) and Fusion With Inferred Vein Patterns.,2015,"Arfika Nurhudatiana, Adams Wai-Kin Kong",IEEE Trans. Inf. Forensics Secur. 10: 916-931 ,TIFS,Unranked
+51,Using Hair Follicles with Leg Geometry to Align Androgenic Hair Patterns.,2015,"Frodo Kin-Sun Chan, Adams Wai-Kin Kong",EISIC 2015: 137-140,EISIC,Unranked
+52,Identifying Critical Factors Influencing Quality of Blood Vessel Information in JPEG Compressed Skin Images.,2015,"Xiaojie Li, Adams Wai-Kin Kong",SSCI 2015: 210-217,SSCI,Unranked
+53,A Study on Low Resolution Androgenic Hair Patterns for Criminal and Victim Identification.,2014,"Han Su, Adams Wai-Kin Kong",IEEE Trans. Inf. Forensics Secur. 9: 666-680 ,TIFS,Unranked
+54,A study of similarity between genetically identical body vein patterns.,2014,"Hengyi Zhang, Chaoying Tang, Xiaojie Li, Adams Wai-Kin Kong",CIBIM 2014: 151-159,CIBIM,Unranked
+55,A preliminary report on a full-body imaging system for effectively collecting and processing biometric traits of prisoners.,2014,"Nhat Quang Huynh, Xingpeng Xu, Adams Wai-Kin Kong, Sathyan Subbiah",CIBIM 2014: 167-174,CIBIM,Unranked
+56,Speeding up the knowledge-based deblocking method for efficient forensic analysis.,2014,"Yanzhu Liu, Xiaojie Li, Adams Wai-Kin Kong",CIBIM 2014: 185-194,CIBIM,Unranked
+57,Vein Pattern Visualization through Multiple Mapping Models and Local Parameter Estimation for Forensic Investigation.,2014,"Hamid Reza Sharifzadeh, Hengyi Zhang, Adams Wai-Kin Kong",ICPR 2014: 160-165,ICPR,B
+58,A Preliminary Study of Lower Leg Geometry as a Soft Biometric Trait for Forensic Investigation.,2014,"Md. Rabiul Islam, Frodo Kin-Sun Chan, Adams Wai-Kin Kong",ICPR 2014: 427-431,ICPR,B
+59,Using Leg Geometry to Align Androgenic Hair Patterns in Low Resolution Images for Criminal and Victim Identification.,2014,"Frodo Kin-Sun Chan, Adams Wai-Kin Kong",ICPR 2014: 495-500,ICPR,B
+60,The Individuality of Relatively Permanent Pigmented or Vascular Skin Marks (RPPVSM) in Independently and Uniformly Distributed Patterns.,2013,"Arfika Nurhudatiana, Adams Wai-Kin Kong, Keyan Matinpour, Deborah Chon, Lisa Altieri, Siu-Yeung Cho, Noah Craft",IEEE Trans. Inf. Forensics Secur. 8: 998-1012 ,TIFS,Unranked
+61,Modeling IrisCode and Its Variants as Convex Polyhedral Cones and Its Security Implications.,2013,Adams Wai-Kin Kong,IEEE Trans. Image Process. 22: 1148-1160 ,TIP,Unranked
+62,A fast point pattern matching algorithm for robust spatially addressable bead encoding.,2013,"Abhik Datta, Adams Wai-Kin Kong, Soumita Ghosh, Dieter Trau",BIBE 2013: 1-7,BIBE,C
+63,Automated identification of Relatively Permanent Pigmented or Vascular Skin Marks (RPPVSM).,2013,"Arfika Nurhudatiana, Adams Wai-Kin Kong, Lisa Altieri, Noah Craft",ICASSP 2013: 2984-2988,ICASSP,Unranked
+64,Restoring blood vessel patterns from JPEG compressed skin images for forensic analysis.,2013,"Xiaojie Li, Adams Wai-Kin Kong",WIFS 2013: 19-24,WIFS,Unranked
+65,An Introduction to the IrisCode Theory.,2013,"Adams Wai-Kin Kong, David Zhang, Mohamed Kamel",Handbook of Iris Recognition 2013: 321-336,ACVPR,Unranked
+66,IrisCode Decompression Based on the Dependence between Its Bit Pairs.,2012,Adams Wai-Kin Kong,IEEE Trans. Pattern Anal. Mach. Intell. 34: 506-520 ,PAMI,Unranked
+67,Matching vein patterns from color images for forensic investigation.,2012,"Hengyi Zhang, Chaoying Tang, Adams Wai-Kin Kong, Noah Craft",BTAS 2012: 77-84,BTAS,Unranked
+68,Visualizing vein patterns from color skin images based on image mapping for forensics analysis.,2012,"Chaoying Tang, Hengyi Zhang, Adams Wai-Kin Kong, Noah Craft",ICPR 2012: 2387-2390,ICPR,B
+69,Using a Knowledge-Based Approach to Remove Blocking Artifacts in Skin Images for Forensic Analysis.,2011,"Chaoying Tang, Adams Wai-Kin Kong, Noah Craft",IEEE Trans. Inf. Forensics Secur. 6: 1038-1049 ,TIFS,Unranked
+70,Uncovering vein patterns from color skin images for forensic analysis.,2011,"Chaoying Tang, Adams Wai-Kin Kong, Noah Craft",CVPR 2011: 665-672,CVPR,A*
+71,A knowledge-based algorithm to remove blocking artifacts in skin images for forensic analysis.,2011,"Chaoying Tang, Adams Wai-Kin Kong, Noah Craft",ICASSP 2011: 1928-1931,ICASSP,Unranked
+72,Fundamental statistics of relatively permanent pigmented or vascular skin marks for criminal and victim identification.,2011,"Arfika Nurhudatiana, Adams Wai-Kin Kong, Keyan Matinpour, Siu-Yeung Cho, Noah Craft",IJCB 2011: 1-6,ICB,Unranked
+73,An Analysis of IrisCode.,2010,"Adams Wai-Kin Kong, David Zhang, Mohamed S. Kamel",IEEE Trans. Image Process. 19: 522-532 ,TIP,Unranked
+74,An alternative Gabor filtering scheme.,2010,Adams Wai-Kin Kong,ICIP 2010: 1925-1928,ICIP,B
+75,A survey of palmprint recognition.,2009,"Adams Wai-Kin Kong, David Dapeng Zhang, Mohamed S. Kamel",Pattern Recognit. 42: 1408-1418 ,PR,Unranked
+76,An Analysis of Gabor Detection.,2009,Adams Wai-Kin Kong,ICIAR 2009: 64-72,ICIAR,C
+77,Three measures for secure palmprint identification.,2008,"Adams Wai-Kin Kong, David Zhang, Mohamed Kamel",Pattern Recognit. 41: 1329-1337 ,PR,Unranked
+78,An evaluation of Gabor orientation as a feature for face recognition.,2008,Adams Wai-Kin Kong,ICPR 2008: 1-4,ICPR,B
+79,Palmprint Identification Based on Generalization of IrisCode.,2007,Adams Wai-Kin Kong,"University of Waterloo, Ontario, Canada, 2007",NAN,Unranked
+80,Palmprint Identification by Fused Wavelet Characteristics.,2007,"Guangming Lu, David Zhang, Adams Wai-Kin Kong, Qingmin Liao",Image Pattern Recognition 2007: 225-242,SMPAI,Unranked
+81,Palmprint identification using feature-level fusion.,2006,"Adams Wai-Kin Kong, David Zhang, Mohamed Kamel",Pattern Recognit. 39: 478-487 ,PR,Unranked
+82,An analysis of BioHashing and its variants.,2006,"Adams Wai-Kin Kong, King Hong Cheung, David Zhang, Mohamed S. Kamel, Jane You",Pattern Recognit. 39: 1359-1368 ,PR,Unranked
+83,A study of identical twins' palmprints for personal verification.,2006,"Adams Wai-Kin Kong, David Zhang, Guangming Lu",Pattern Recognit. 39: 2149-2156 ,PR,Unranked
+84,Analysis of Brute-Force Break-Ins of a Palmprint Authentication System.,2006,"Adams Wai-Kin Kong, David Zhang, Mohamed Kamel",IEEE Trans. Syst. Man Cybern. Part B 36: 1201-1205 ,TSMC,Unranked
+85,Revealing the Secret of FaceHashing.,2006,"King Hong Cheung, Adams Wai-Kin Kong, David Zhang, Mohamed Kamel, Jane You",ICB 2006: 106-112,ICB,Unranked
+86,A Study of Identical Twins' Palmprints for Personal Authentication.,2006,"Adams Wai-Kin Kong, David Zhang, Guangming Lu",ICB 2006: 668-674,ICB,Unranked
+87,An Anatomy of IrisCode for Precise Phase Representation.,2006,"Adams Wai-Kin Kong, David Zhang, Mohamed Kamel",ICPR  2006: 429-432,ICPR,B
+88,Does EigenPalm work? A System and Evaluation Perspective.,2006,"King Hong Cheung, Adams Wai-Kin Kong, David Zhang, Mohamed Kamel, Jane You",ICPR  2006: 445-448,ICPR,B
+89,Online Palmprint Identification System for Civil Applications.,2005,"David Zhang, Guangming Lu, Adams Wai-Kin Kong, Michael Wong",J. Comput. Sci. Technol. 20: 70-76 ,JCST,Unranked
+90,A Study of Brute-Force Break-ins of a Palmprint Verification System.,2005,"Adams Wai-Kin Kong, David Zhang, Mohamed Kamel",AVBPA 2005: 447-454,AVBPA,Unranked
+91,An Analysis on Invertibility of Cancelable Biometrics based on BioHashing.,2005,"King Hong Cheung, Adams Wai-Kin Kong, Jane You, David Zhang",CISST 2005: 40-45,CISST,Unranked
+92,An Analysis on Accuracy of Cancelable Biometrics Based on BioHashing.,2005,"King Hong Cheung, Adams Wai-Kin Kong, David Zhang, Mohamed Kamel, Jane You, Ho-Wang Lam",KES  2005: 1168-1172,KES,B
+93,A Novel Personal Authentication System Using Palmprint Technology.,2005,"David Zhang, Guangming Lu, Adams Wai-Kin Kong, Michael Wong",PReMI 2005: 147-156,PREMI,Unranked
+94,A new approach to appearance-based face recognition.,2005,"King Hong Cheung, Adams Wai-Kin Kong, Jane You, Qin Li, David Zhang, Prabir Bhattacharya",SMC 2005: 1686-1691,SMC,B
+95,On hierarchical palmprint coding with multiple features for personal identification in large databases.,2004,"Jane You, Adams Wai-Kin Kong, David Zhang, King Hong Cheung",IEEE Trans. Circuits Syst. Video Technol. 14: 234-243 ,TCSV,Unranked
+96,Palmprint Authentication System for Civil Applications.,2004,"David Zhang, Guangming Lu, Adams Wai-Kin Kong, Michael Wong",ECCV Workshop BioAW 2004: 217-228,ECCV,A*
+97,A New Approach to Personal Identification in Large Databases by Hierarchical Palmprint Coding with Multi-features.,2004,"Jane You, Adams Wai-Kin Kong, David Zhang, King Hong Cheung",ICBA 2004: 739-745,ICBA,Unranked
+98,Feature-Level Fusion for Effective Palmprint Authentication.,2004,"Adams Wai-Kin Kong, David Zhang",ICBA 2004: 761-767,ICBA,Unranked
+99,A study of aggregated 2D Gabor features on appearance-based face recognition.,2004,"King Hong Cheung, Jane You, Adams Wai-Kin Kong, David Zhang",ICIG 2004: 310-313,ICIG,National
+100,Competitive Coding Scheme for Palmprint Verification.,2004,"Adams Wai-Kin Kong, David Zhang",ICPR  2004: 520-523,ICPR,B
+101,"Palmprint Authentication Technologies, Systems and Applications.",2004,"David Zhang, Guangming Lu, Adams Wai-Kin Kong, Michael Wong",SINOBIOMETRICS 2004: 78-89,SINOBIOMETRICS,Unranked
+102,Detecting Eyelash and Reflection for Accurate Iris Segmentation.,2003,"Adams Wai-Kin Kong, David Zhang",Int. J. Pattern Recognit. Artif. Intell. 17: 1025-1034 ,IJPRAI,Unranked
+103,Online Palmprint Identification.,2003,"David Zhang, Adams Wai-Kin Kong, Jane You, Michael Wong",IEEE Trans. Pattern Anal. Mach. Intell. 25: 1041-1050 ,PAMI,Unranked
+104,Palmprint feature extraction using 2-D Gabor filters.,2003,"Adams Wai-Kin Kong, David Zhang, Wenxin Li",Pattern Recognit. 36: 2339-2347 ,PR,Unranked
+105,An Integration of Principal Component Analysis and Self-Organizing Map for Effective Palmprint Retrieval.,2003,"King Hong Cheung, Adams Wai-Kin Kong, Jane You, David Zhang",CAINE 2003: 101-104,CAINE,C
+106,On Hierarchical Palmprint Coding with Multi-Features for Personal Identification in Large Databases.,2003,"Jane You, Adams Wai-Kin Kong, David Zhang, King Hong Cheung",CAINE 2003: 105-108,CAINE,C
+107,On Effective Palmprint Retrieval for Personal Identification.,2003,"King Hong Cheung, Adams Wai-Kin Kong, Jane You, David Zhang",CISST 2003: 111-117,CISST,Unranked
+108,A New Approach to Personal Identification Via Hierarchical Palmprint Coding.,2003,"Jane You, David Zhang, King Hong Cheung, Adams Wai-Kin Kong",CISST 2003: 531-537,CISST,Unranked
+109,Palmprint Texture Analysis Based on Low-Resolution Images for Personal Authentication.,2002,"Adams Wai-Kin Kong, David Zhang",ICPR  2002: 807-810,ICPR,B

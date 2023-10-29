@@ -1,0 +1,482 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,A survey on semantic processing techniques.,2024,"Rui Mao, Kai He, Xulang Zhang, Guanyi Chen, Jinjie Ni, Zonglin Yang, Erik Cambria",Inf. Fusion 101: 101988 ,INFFUS,Unranked
+1,A survey on deep reinforcement learning for audio-based applications.,2023,"Siddique Latif, Heriberto Cuayáhuitl, Farrukh Pervez, Fahad Shamshad, Hafiz Shehbaz Ali, Erik Cambria",Artif. Intell. Rev. 56: 2193-2240 ,AIR,Unranked
+2,Recent advances in deep learning based dialogue systems: a systematic survey.,2023,"Jinjie Ni, Tom Young, Vlad Pandelea, Fuzhao Xue, Erik Cambria",Artif. Intell. Rev. 56: 3055-3155 ,AIR,Unranked
+3,A survey on syntactic processing techniques.,2023,"Xulang Zhang, Rui Mao, Erik Cambria",Artif. Intell. Rev. 56: 5645-5728 ,AIR,Unranked
+4,Survey on sentiment analysis: evolution of research methods and topics.,2023,"Jingfeng Cui, Zhaoxia Wang, Seng-Beng Ho, Erik Cambria",Artif. Intell. Rev. 56: 8469-8510 ,AIR,Unranked
+5,Time expression recognition and normalization: a survey.,2023,"Xiaoshi Zhong, Erik Cambria",Artif. Intell. Rev. 56: 9115-9140 ,AIR,Unranked
+6,A brief survey on recent advances in coreference resolution.,2023,"Ruicheng Liu, Rui Mao, Anh Tuan Luu, Erik Cambria",Artif. Intell. Rev. 56: 14439-14481 ,AIR,Unranked
+7,A Mixed Approach for Aggressive Political Discourse Analysis on Twitter.,2023,"Javier Torregrosa, Sergio D'Antonio-Maceiras, Guillermo Villar-Rodríguez, Amir Hussain, Erik Cambria, David Camacho",Cogn. Comput. 15: 440-465 ,COGCOM,Unranked
+8,Learning-Based Stock Trending Prediction by Incorporating Technical Indicators and Social Media Sentiment.,2023,"Zhaoxia Wang, Zhenda Hu, Fang Li, Seng-Beng Ho, Erik Cambria",Cogn. Comput. 15: 1092-1102 ,COGCOM,Unranked
+9,Enhancing Arabic-text feature extraction utilizing label-semantic augmentation in few/zero-shot learning.,2023,"Seham Basabain, Erik Cambria, Khalid Alomar, Amir Hussain",Expert Syst. J. Knowl. Eng. 40 ,ES,Unranked
+10,Virtual prompt pre-training for prototype-based few-shot relation extraction.,2023,"Kai He, Yucheng Huang, Rui Mao, Tieliang Gong, Chen Li, Erik Cambria",Expert Syst. Appl. 213: 118927 ,ESWA,Unranked
+11,Will Affective Computing Emerge From Foundation Models and General Artificial Intelligence? A First Evaluation of ChatGPT.,2023,"Mostafa M. Amin, Erik Cambria, Björn W. Schuller",IEEE Intell. Syst. 38: 15-23 ,EXPERT,Unranked
+12,Can ChatGPT's Responses Boost Traditional Natural Language Processing?,2023,"Mostafa M. Amin, Erik Cambria, Björn W. Schuller",IEEE Intell. Syst. 38: 5-11 ,EXPERT,Unranked
+13,A Hotel Ranking Model Through Online Reviews With Aspect-Based Sentiment Analysis.,2023,"Tian-Hui You, Ling Ling Tao, Erik Cambria",Int. J. Inf. Technol. Decis. Mak. 22: 89-113 ,IJITDM,Unranked
+14,Fusing topology contexts and logical rules in language models for knowledge graph completion.,2023,"Qika Lin, Rui Mao, Jun Liu, Fangzhi Xu, Erik Cambria",Inf. Fusion 90: 253-264 ,INFFUS,Unranked
+15,Dynamic interactive multiview memory network for emotion recognition in conversation.,2023,"Jintao Wen, Dazhi Jiang, Geng Tu, Cheng Liu, Erik Cambria",Inf. Fusion 91: 123-133 ,INFFUS,Unranked
+16,Multitask learning for multilingual intent detection and slot filling in dialogue systems.,2023,"Mauajama Firdaus, Asif Ekbal, Erik Cambria",Inf. Fusion 91: 299-315 ,INFFUS,Unranked
+17,"Multimodal sentiment analysis: A systematic review of history, datasets, multimodal fusion methods, applications, challenges and future directions.",2023,"Ankita Gandhi, Kinjal Adhvaryu, Soujanya Poria, Erik Cambria, Amir Hussain",Inf. Fusion 91: 424-444 ,INFFUS,Unranked
+18,Multi-source aggregated classification for stock price movement prediction.,2023,"Yu Ma, Rui Mao, Qika Lin, Peng Wu, Erik Cambria",Inf. Fusion 91: 515-528 ,INFFUS,Unranked
+19,KnowleNet: Knowledge fusion network for multimodal sarcasm detection.,2023,"Tan Yue, Rui Mao, Heng Wang, Zonghai Hu, Erik Cambria",Inf. Fusion 100: 101921 ,INFFUS,Unranked
+20,MEGACare: Knowledge-guided multi-view hypergraph predictive framework for healthcare.,2023,"Jialun Wu, Kai He, Rui Mao, Chen Li, Erik Cambria",Inf. Fusion 100: 101939 ,INFFUS,Unranked
+21,A survey on XAI and natural language explanations.,2023,"Erik Cambria, Lorenzo Malandri, Fabio Mercorio, Mario Mezzanzanica, Navid Nobani",Inf. Process. Manag. 60: 103111 ,IPM,Unranked
+22,Semantic matching in machine reading comprehension: An empirical study.,2023,"Qian Liu, Rui Mao, Xiubo Geng, Erik Cambria",Inf. Process. Manag. 60: 103145 ,IPM,Unranked
+23,Gated recurrent unit with multilingual universal sentence encoder for Arabic aspect-based sentiment analysis.,2023,"Mohammad Al-Smadi, Mahmoud M. Hammad, Sa'ad A. Al-Zboon, Saja AL-Tawalbeh, Erik Cambria",Knowl. Based Syst. 261: 107540 ,KBS,Unranked
+24,A semantics-aware approach for multilingual natural language inference.,2023,"Phuong Le-Hong, Erik Cambria",Lang. Resour. Evaluation 57: 611-639 ,LRE,Unranked
+25,MiMuSA - mimicking human language understanding for fine-grained multi-class sentiment analysis.,2023,"Zhaoxia Wang, Zhenda Hu, Seng-Beng Ho, Erik Cambria, Ah-Hwee Tan",Neural Comput. Appl. 35: 15907-15921 ,NCA,B
+26,Few pixels attacks with generative model.,2023,"Yang Li, Quan Pan, Zhaowen Feng, Erik Cambria",Pattern Recognit. 144: 109849 ,PR,Unranked
+27,Guest Editorial Neurosymbolic AI for Sentiment Analysis.,2023,"Frank Xing, Björn W. Schuller, Iti Chaturvedi, Erik Cambria, Amir Hussain",IEEE Trans. Affect. Comput. 14: 1711-1715 ,TAFFCO,Unranked
+28,Meta-Based Self-Training and Re-Weighting for Aspect-Based Sentiment Analysis.,2023,"Kai He, Rui Mao, Tieliang Gong, Chen Li, Erik Cambria",IEEE Trans. Affect. Comput. 14: 1731-1742 ,TAFFCO,Unranked
+29,The Biases of Pre-Trained Language Models: An Empirical Study on Prompt-Based Sentiment Analysis and Emotion Detection.,2023,"Rui Mao, Qian Liu, Kai He, Wei Li, Erik Cambria",IEEE Trans. Affect. Comput. 14: 1743-1753 ,TAFFCO,Unranked
+30,ECPEC: Emotion-Cause Pair Extraction in Conversations.,2023,"Wei Li, Yang Li, Vlad Pandelea, Mengshi Ge, Luyao Zhu, Erik Cambria",IEEE Trans. Affect. Comput. 14: 1754-1765 ,TAFFCO,Unranked
+31,AutoML-Emo: Automatic Knowledge Selection Using Congruent Effect for Emotion Identification in Conversations.,2023,"Dazhi Jiang, Runguo Wei, Jintao Wen, Geng Tu, Erik Cambria",IEEE Trans. Affect. Comput. 14: 1845-1856 ,TAFFCO,Unranked
+32,Ensemble Hybrid Learning Methods for Automated Depression Detection.,2023,"Luna Ansari, Shaoxiong Ji, Qian Chen, Erik Cambria",IEEE Trans. Comput. Soc. Syst. 10: 211-219 ,TCSS,Unranked
+33,Multitask Balanced and Recalibrated Network for Medical Code Prediction.,2023,"Wei Sun, Shaoxiong Ji, Erik Cambria, Pekka Marttinen",ACM Trans. Intell. Syst. Technol. 14: 17:1-17:20 ,TIST,Unranked
+34,Incorporating Multiple Knowledge Sources for Targeted Aspect-based Financial Sentiment Analysis.,2023,"Kelvin Du, Frank Xing, Erik Cambria",ACM Trans. Manag. Inf. Syst. 14: 23:1-23:24 ,TMIS,Unranked
+35,SKIER: A Symbolic Knowledge Integrated Model for Conversational Emotion Recognition.,2023,"Wei Li, Luyao Zhu, Rui Mao, Erik Cambria",AAAI 2023: 13121-13129,AAAI,A*
+36,MetaPro Online: A Computational Metaphor Processing Online System.,2023,"Rui Mao, Xiao Li, Kai He, Mengshi Ge, Erik Cambria",ACL  2023: 127-135,ACL,A*
+37,TECHS: Temporal Logical Graph Networks for Explainable Extrapolation Reasoning.,2023,"Qika Lin, Jun Liu, Rui Mao, Fangzhi Xu, Erik Cambria",ACL  2023: 1281-1293,ACL,A*
+38,Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning.,2023,"Ran Zhou, Xin Li, Lidong Bing, Erik Cambria, Chunyan Miao",ACL  2023: 4018-4031,ACL,A*
+39,PAED: Zero-Shot Persona Attribute Extraction in Dialogues.,2023,"Luyao Zhu, Wei Li, Rui Mao, Vlad Pandelea, Erik Cambria",ACL  2023: 9771-9787,ACL,A*
+40,Finding the Pillars of Strength for Multi-Head Attention.,2023,"Jinjie Ni, Rui Mao, Zonglin Yang, Han Lei, Erik Cambria",ACL  2023: 14526-14540,ACL,A*
+41,End-to-end Case-Based Reasoning for Commonsense Knowledge Base Completion.,2023,"Zonglin Yang, Xinya Du, Erik Cambria, Claire Cardie",EACL 2023: 3491-3504,EACL,A
+42,A Multi-task Learning Model for Gold-two-mention Co-reference Resolution.,2023,"Ruicheng Liu, Guanyi Chen, Rui Mao, Erik Cambria",IJCNN 2023: 1-8,IJCNN,B
+43,ALLEGET Keynote Remarks: Emerging Topics in Sentiment Analysis.,2023,Erik Cambria,Intelligent Environments  2023: 51-52,INTENV,Unranked
+44,"The MuSe 2023 Multimodal Sentiment Analysis Challenge: Mimicked Emotions, Cross-Cultural Humour, and Personalisation.",2023,"Lukas Christ, Shahin Amiriparian, Alice Baird, Alexander Kathan, Niklas Müller, Steffen Klug, Chris Gagne, Panagiotis Tzirakis, Lukas Stappen, Eva-Maria Meßner, Andreas König, Alan Cowen, Erik Cambria, Björn W. Schuller",MuSe@ACM Multimedia 2023: 1-10,MUSE,Unranked
+45,"Proceedings of the 4th on Multimodal Sentiment Analysis Challenge and Workshop: Mimicked Emotions, Humour and Personalisation, MuSe 2023, Ottawa, ON, Canada, 2 November 2023.",2023,"Shahin Amiriparian, Lukas Christ, Andreas König, Alan Cowen, Eva-Maria Meßner, Erik Cambria, Bjorn W. Schuller",ACM 2023 ,MUSE,Unranked
+46,FinXABSA: Explainable Finance through Aspect-Based Sentiment Analysis.,2023,"Keane Ong, Wihan van der Heever, Ranjan Satapathy, Gianmarco Mengaldo, Erik Cambria",CoRR abs/2303.02563 ,CORR,Unranked
+47,Will Affective Computing Emerge from Foundation Models and General AI? A First Evaluation on ChatGPT.,2023,"Mostafa M. Amin, Erik Cambria, Björn W. Schuller",CoRR abs/2303.03186 ,CORR,Unranked
+48,Adaptive Knowledge Distillation between Text and Speech Pre-trained Models.,2023,"Jinjie Ni, Yukun Ma, Wen Wang, Qian Chen, Dianwen Ng, Han Lei, Trung Hieu Nguyen, Chong Zhang, Bin Ma, Erik Cambria",CoRR abs/2303.03600 ,CORR,Unranked
+49,Logical Reasoning over Natural Language as Knowledge Representation: A Survey.,2023,"Zonglin Yang, Xinya Du, Rui Mao, Jinjie Ni, Erik Cambria",CoRR abs/2303.12023 ,CORR,Unranked
+50,"MER 2023: Multi-label Learning, Modality Robustness, and Semi-Supervised Learning.",2023,"Zheng Lian, Haiyang Sun, Licai Sun, Jinming Zhao, Ye Liu, Bin Liu, Jiangyan Yi, Meng Wang, Erik Cambria, Guoying Zhao, Björn W. Schuller, Jianhua Tao",CoRR abs/2304.08981 ,CORR,Unranked
+51,Domain-specific Continued Pretraining of Language Models for Capturing Long Context in Mental Health.,2023,"Shaoxiong Ji, Tianlin Zhang, Kailai Yang, Sophia Ananiadou, Erik Cambria, Jörg Tiedemann",CoRR abs/2304.10447 ,CORR,Unranked
+52,A Review of Deep Learning for Video Captioning.,2023,"Moloud Abdar, Meenakshi Kollati, Swaraja Kuraparthi, Farhad Pourpanah, Daniel McDuff, Mohammad Ghavamzadeh, Shuicheng Yan, Abduallah Mohamed, Abbas Khosravi, Erik Cambria, Fatih Porikli",CoRR abs/2304.11431 ,CORR,Unranked
+53,"The MuSe 2023 Multimodal Sentiment Analysis Challenge: Mimicked Emotions, Cross-Cultural Humour, and Personalisation.",2023,"Lukas Christ, Shahin Amiriparian, Alice Baird, Alexander Kathan, Niklas Müller, Steffen Klug, Chris Gagne, Panagiotis Tzirakis, Eva-Maria Meßner, Andreas König, Alan Cowen, Erik Cambria, Björn W. Schuller",CoRR abs/2305.03369 ,CORR,Unranked
+54,Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning.,2023,"Ran Zhou, Xin Li, Lidong Bing, Erik Cambria, Chunyan Miao",CoRR abs/2305.13628 ,CORR,Unranked
+55,Finding the Pillars of Strength for Multi-Head Attention.,2023,"Jinjie Ni, Rui Mao, Zonglin Yang, Han Lei, Erik Cambria",CoRR abs/2305.14380 ,CORR,Unranked
+56,"Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation From Deductive, Inductive and Abductive Views.",2023,"Fangzhi Xu, Qika Lin, Jiawei Han, Tianzhe Zhao, Jun Liu, Erik Cambria",CoRR abs/2306.09841 ,CORR,Unranked
+57,Recent Developments in Recommender Systems: A Survey.,2023,"Yang Li, Kangbo Liu, Ranjan Satapathy, Suhang Wang, Erik Cambria",CoRR abs/2306.12680 ,CORR,Unranked
+58,Can ChatGPT's Responses Boost Traditional Natural Language Processing?,2023,"Mostafa M. Amin, Erik Cambria, Björn W. Schuller",CoRR abs/2307.04648 ,CORR,Unranked
+59,TbExplain: A Text-based Explanation Method for Scene Classification Models with the Statistical Prediction Correction.,2023,"Amirhossein Aminimehr, Pouya Khani, Amirali Molaei, Amirmohammad Kazemeini, Erik Cambria",CoRR abs/2307.10003 ,CORR,Unranked
+60,EnTri: Ensemble Learning with Tri-level Representations for Explainable Scene Recognition.,2023,"Amirhossein Aminimehr, Amirali Molaei, Erik Cambria",CoRR abs/2307.12442 ,CORR,Unranked
+61,GPTEval: A Survey on Assessments of ChatGPT and GPT-4.,2023,"Rui Mao, Guanyi Chen, Xulang Zhang, Frank Guerin, Erik Cambria",CoRR abs/2308.12488 ,CORR,Unranked
+62,A Wide Evaluation of ChatGPT on Affective Computing Tasks.,2023,"Mostafa M. Amin, Rui Mao, Erik Cambria, Björn W. Schuller",CoRR abs/2308.13911 ,CORR,Unranked
+63,Large Language Models for Automated Open-domain Scientific Hypotheses Discovery.,2023,"Zonglin Yang, Xinya Du, Junxian Li, Jie Zheng, Soujanya Poria, Erik Cambria",CoRR abs/2309.02726 ,CORR,Unranked
+64,A Comprehensive Review on Financial Explainable AI.,2023,"Wei Jie Yeo, Wihan van der Heever, Rui Mao, Erik Cambria, Ranjan Satapathy, Gianmarco Mengaldo",CoRR abs/2309.11960 ,CORR,Unranked
+65,"A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics.",2023,"Kai He, Rui Mao, Qika Lin, Yucheng Ruan, Xiang Lan, Mengling Feng, Erik Cambria",CoRR abs/2310.05694 ,CORR,Unranked
+66,Arabic question answering system: a survey.,2022,"Tahani H. Alwaneen, Aqil M. Azmi, Hatim A. Aboalsamh, Erik Cambria, Amir Hussain",Artif. Intell. Rev. 55: 207-253 ,AIR,Unranked
+67,A survey on personality-aware recommendation systems.,2022,"Sahraoui Dhelim, Nyothiri Aung, Mohammed Amine Bouras, Huansheng Ning, Erik Cambria",Artif. Intell. Rev. 55: 2409-2454 ,AIR,Unranked
+68,Soft computing for recommender systems and sentiment analysis.,2022,"Lorenzo Malandri, Carlos Porcel, Frank Xing, Jesús Serrano-Guerrero, Erik Cambria",Appl. Soft Comput. 118: 108246 ,ASC,Unranked
+69,Arabic sentiment analysis using dependency-based rules and deep neural networks.,2022,"Arwa Diwali, Kia Dashtipour, Kawther Saeedi, Mandar Gogate, Erik Cambria, Amir Hussain",Appl. Soft Comput. 127: 109377 ,ASC,Unranked
+70,JCBIE: a joint continual learning neural network for biomedical information extraction.,2022,"Kai He, Rui Mao, Tieliang Gong, Erik Cambria, Chen Li",BMC Bioinform. 23: 549 ,BMCBI,Unranked
+71,Guest Editorial: A Decade of Sentic Computing.,2022,"Erik Cambria, Amir Hussain",Cogn. Comput. 14: 1-4 ,COGCOM,Unranked
+72,Ten Years of Sentic Computing.,2022,"Yosephine Susanto, Erik Cambria, Ng Bee Chin, Amir Hussain",Cogn. Comput. 14: 5-23 ,COGCOM,Unranked
+73,Mood of the Planet: Challenging Visions of Big Data in the Arts.,2022,"Vibeke Sørensen, J. Stephen Lansing, Nagaraju Thummanapalli, Erik Cambria",Cogn. Comput. 14: 310-321 ,COGCOM,Unranked
+74,Improving Zero-Shot Learning Baselines with Commonsense Knowledge.,2022,"Abhinaba Roy, Deepanway Ghosal, Erik Cambria, Navonil Majumder, Rada Mihalcea, Soujanya Poria",Cogn. Comput. 14: 2212-2222 ,COGCOM,Unranked
+75,Deep Learning-based Text Classification: A Comprehensive Review.,2022,"Shervin Minaee, Nal Kalchbrenner, Erik Cambria, Narjes Nikzad, Meysam Chenaghlu, Jianfeng Gao",ACM Comput. Surv. 54: 62:1-62:40 ,CSUR,Unranked
+76,OntoSenticNet 2: Enhancing Reasoning Within Sentiment Analysis.,2022,"Mauro Dragoni, Ivan Donadello, Erik Cambria",IEEE Intell. Syst. 37: 103-110 ,EXPERT,Unranked
+77,Polarity and Subjectivity Detection with Multitask Learning and BERT Embedding.,2022,"Ranjan Satapathy, Shweta Pardeshi, Erik Cambria",Future Internet 14: 191 ,FI,Unranked
+78,BiERU: Bidirectional emotional recurrent unit for conversational sentiment analysis.,2022,"Wei Li, Wei Shao, Shaoxiong Ji, Erik Cambria",Neurocomputing 467: 73-82 ,IJON,Unranked
+79,Multitask learning for emotion and personality traits detection.,2022,"Yang Li, Amirmohammad Kazemeini, Yash Mehta, Erik Cambria",Neurocomputing 493: 340-350 ,IJON,Unranked
+80,MetaPro: A computational metaphor processing model for text pre-processing.,2022,"Rui Mao, Xiao Li, Mengshi Ge, Erik Cambria",Inf. Fusion 86-87: 30-43 ,INFFUS,Unranked
+81,Gender-based multi-aspect sentiment detection using multilabel learning.,2022,"J. Ashok Kumar, Tina Esther Trueman, Erik Cambria",Inf. Sci. 606: 453-468 ,ISCI,Unranked
+82,Aspect-based sentiment analysis via affective knowledge enhanced graph convolutional networks.,2022,"Bin Liang, Hang Su, Lin Gui, Erik Cambria, Ruifeng Xu",Knowl. Based Syst. 235: 107643 ,KBS,Unranked
+83,Guest Editorial: Explainable artificial intelligence for sentiment analysis.,2022,"Erik Cambria, Akshi Kumar, Mahmoud Al-Ayyoub, Newton Howard",Knowl. Based Syst. 238: 107920 ,KBS,Unranked
+84,Soft labeling constraint for generalizing from sentiments in single domain.,2022,"Abhinaba Roy, Erik Cambria",Knowl. Based Syst. 245: 108346 ,KBS,Unranked
+85,Deep-attack over the deep reinforcement learning.,2022,"Yang Li, Quan Pan, Erik Cambria",Knowl. Based Syst. 250: 108965 ,KBS,Unranked
+86,Does semantics aid syntax? An empirical study on named entity recognition and classification.,2022,"Xiaoshi Zhong, Erik Cambria, Amir Hussain",Neural Comput. Appl. 34: 8373-8384 ,NCA,B
+87,Suicidal ideation and mental disorder detection with attentive relation networks.,2022,"Shaoxiong Ji, Xue Li, Zi Huang, Erik Cambria",Neural Comput. Appl. 34: 10309-10319 ,NCA,B
+88,Toward hardware-aware deep-learning-based dialogue systems.,2022,"Vlad Pandelea, Edoardo Ragusa, Tom Young, Paolo Gastaldo, Erik Cambria",Neural Comput. Appl. 34: 10397-10408 ,NCA,B
+89,Intelligent fake reviews detection based on aspect extraction and analysis using deep learning.,2022,"Gourav Bathla, Pardeep Singh, Rahul Kumar Singh, Erik Cambria, Rajeev Tiwari",Neural Comput. Appl. 34: 20213-20229 ,NCA,B
+90,Landmark calibration for facial expressions and fish classification.,2022,"Iti Chaturvedi, Qian Chen, Erik Cambria, Desmond McConnell",Signal Image Video Process. 16: 377-384 ,SIVP,Unranked
+91,Gaussian correction for adversarial learning of boundaries.,2022,"Iti Chaturvedi, Qian Chen, Roy E. Welsch, Kishor Thapa, Erik Cambria",Signal Process. Image Commun. 109: 116841 ,SPIC,Unranked
+92,Guest Editorial: Sentiment Analysis as a Multidisciplinary Research Area.,2022,"Erik Cambria, Frank Xing, Mike Thelwall, Roy E. Welsch",IEEE Trans. Artif. Intell. 3: 638-641 ,TAI,Unranked
+93,Context- and Sentiment-Aware Networks for Emotion Recognition in Conversation.,2022,"Geng Tu, Jintao Wen, Cheng Liu, Dazhi Jiang, Erik Cambria",IEEE Trans. Artif. Intell. 3: 699-708 ,TAI,Unranked
+94,Real-Time Video Emotion Recognition Based on Reinforcement Learning and Domain Knowledge.,2022,"Ke Zhang, Yuanqing Li, Jingyu Wang, Erik Cambria, Xuelong Li",IEEE Trans. Circuits Syst. Video Technol. 32: 1034-1047 ,TCSV,Unranked
+95,"A Survey on Knowledge Graphs: Representation, Acquisition, and Applications.",2022,"Shaoxiong Ji, Shirui Pan, Erik Cambria, Pekka Marttinen, Philip S. Yu",IEEE Trans. Neural Networks Learn. Syst. 33: 494-514 ,TNN,Unranked
+96,Explainable Metaphor Identification Inspired by Conceptual Metaphor Theory.,2022,"Mengshi Ge, Rui Mao, Erik Cambria",AAAI 2022: 10681-10689,AAAI,A*
+97,HiTKG: Towards Goal-Oriented Conversations via Multi-Hierarchy Learning.,2022,"Jinjie Ni, Vlad Pandelea, Tom Young, Haicang Zhou, Erik Cambria",AAAI 2022: 11112-11120,AAAI,A*
+98,Fusing Task-Oriented and Open-Domain Dialogues in Conversational Agents.,2022,"Tom Young, Frank Xing, Vlad Pandelea, Jinjie Ni, Erik Cambria",AAAI 2022: 11622-11629,AAAI,A*
+99,MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER.,2022,"Ran Zhou, Xin Li, Ruidan He, Lidong Bing, Erik Cambria, Luo Si, Chunyan Miao",ACL  2022: 2251-2262,ACL,A*
+100,Hierarchical Attention Network for Explainable Depression Detection on Twitter Aided by Metaphor Concept Mappings.,2022,"Sooji Han, Rui Mao, Erik Cambria",COLING 2022: 94-104,COLING,B
+101,ConNER: Consistency Training for Cross-lingual Named Entity Recognition.,2022,"Ran Zhou, Xin Li, Lidong Bing, Erik Cambria, Luo Si, Chunyan Miao",EMNLP 2022: 8438-8449,EMNLP,A*
+102,Sentic Parser: A Graph-Based Approach to Concept Extraction for Sentiment Analysis.,2022,"Erik Cambria, Rui Mao, Sooji Han, Qian Liu",ICDM  2022: 1-8,ICDM,A*
+103,Making Sense of Sentiments for Aesthetic Plastic Surgery.,2022,"Anand Choudhary, Erik Cambria",ICDM  2022: 411-418,ICDM,A*
+104,Stress Identification in Online Social Networks.,2022,"Ashok Kumar J, Tina Esther Trueman, Erik Cambria",ICDM  2022: 427-434,ICDM,A*
+105,Does Social Media Sentiment Predict Bitcoin Trading Volume?,2022,"Jayit Saha, Smit Patel, Frank Xing, Erik Cambria",ICIS 2022,ICIS,C
+106,Saving Earth One Tweet at a Time through the Lens of Artificial Intelligence.,2022,"Cuc Duong, Qian Liu, Rui Mao, Erik Cambria",IJCNN 2022: 1-9,IJCNN,B
+107,Stress Detection from Social Media Articles: New Dataset Benchmark and Analytical Study.,2022,"Aryan Rastogi, Qiang Liu, Erik Cambria",IJCNN 2022: 1-8,IJCNN,B
+108,SenticNet 7: A Commonsense-based Neurosymbolic AI Framework for Explainable Sentiment Analysis.,2022,"Erik Cambria, Qian Liu, Sergio Decherchi, Frank Xing, Kenneth Kwok",LREC 2022: 3829-3839,LREC,B
+109,MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare.,2022,"Shaoxiong Ji, Tianlin Zhang, Luna Ansari, Jie Fu, Prayag Tiwari, Erik Cambria",LREC 2022: 7184-7190,LREC,B
+110,"The MuSe 2022 Multimodal Sentiment Analysis Challenge: Humor, Emotional Reactions, and Stress.",2022,"Lukas Christ, Shahin Amiriparian, Alice Baird, Panagiotis Tzirakis, Alexander Kathan, Niklas Müller, Lukas Stappen, Eva-Maria Meßner, Andreas König, Alan Cowen, Erik Cambria, Björn W. Schuller",MuSe @ ACM Multimedia 2022: 5-14,MM,Unranked
+111,"MuSe 2022 Challenge: Multimodal Humour, Emotional Reactions, and Stress.",2022,"Shahin Amiriparian, Lukas Christ, Andreas König, Eva-Maria Meßner, Alan Cowen, Erik Cambria, Björn W. Schuller",ACM Multimedia 2022: 7389-7391,MM,Unranked
+112,"MuSe@MM 2022: Proceedings of the 3rd International on Multimodal Sentiment Analysis Workshop and Challenge, Lisboa, Portugal, 10 October 2022.",2022,"Shahin Amiriparian, Lukas Christ, Andreas König, Alan Cowen, Eva-Maria Meßner, Erik Cambria, Björn W. Schuller","ACM 2022, ISBN 978-1-4503-9484-0 ",MM,Unranked
+113,Polarity and Subjectivity Detection with Multitask Learning and BERT Embedding.,2022,"Ranjan Satapathy, Shweta Pardeshi, Erik Cambria",CoRR abs/2201.05363 ,CORR,Unranked
+114,Deep-Attack over the Deep Reinforcement Learning.,2022,"Yang Li, Quan Pan, Erik Cambria",CoRR abs/2205.00807 ,CORR,Unranked
+115,"The ICML 2022 Expressive Vocalizations Workshop and Competition: Recognizing, Generating, and Personalizing Vocal Bursts.",2022,"Alice Baird, Panagiotis Tzirakis, Gauthier Gidel, Marco Jiralerspong, Eilif B. Muller, Kory W. Mathewson, Björn W. Schuller, Erik Cambria, Dacher Keltner, Alan Cowen",CoRR abs/2205.01780 ,CORR,Unranked
+116,"The MuSe 2022 Multimodal Sentiment Analysis Challenge: Humor, Emotional Reactions, and Stress.",2022,"Lukas Christ, Shahin Amiriparian, Alice Baird, Panagiotis Tzirakis, Alexander Kathan, Niklas Müller, Lukas Stappen, Eva-Maria Meßner, Andreas König, Alan Cowen, Erik Cambria, Björn W. Schuller",CoRR abs/2207.05691 ,CORR,Unranked
+117,"Proceedings of the ICML 2022 Expressive Vocalizations Workshop and Competition: Recognizing, Generating, and Personalizing Vocal Bursts.",2022,"Alice Baird, Panagiotis Tzirakis, Gauthier Gidel, Marco Jiralerspong, Eilif B. Muller, Kory W. Mathewson, Björn W. Schuller, Erik Cambria, Dacher Keltner, Alan Cowen",CoRR abs/2207.06958 ,CORR,Unranked
+118,Hierarchical Attention Network for Explainable Depression Detection on Twitter Aided by Metaphor Concept Mappings.,2022,"Sooji Han, Rui Mao, Erik Cambria",CoRR abs/2209.07494 ,CORR,Unranked
+119,"Knowledge Representation for Conceptual, Motivational, and Affective Processes in Natural Language Communication.",2022,"Seng-Beng Ho, Zhaoxia Wang, Boon-Kiat Quek, Erik Cambria",CoRR abs/2210.08994 ,CORR,Unranked
+120,ConNER: Consistency Training for Cross-lingual Named Entity Recognition.,2022,"Ran Zhou, Xin Li, Lidong Bing, Erik Cambria, Luo Si, Chunyan Miao",CoRR abs/2211.09394 ,CORR,Unranked
+121,Language Models as Inductive Reasoners.,2022,"Zonglin Yang, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei",CoRR abs/2212.10923 ,CORR,Unranked
+122,Stock trading rule discovery with double deep Q-network.,2021,"Yong Shi, Wei Li, Luyao Zhu, Kun Guo, Erik Cambria",Appl. Soft Comput. 107: 107320 ,ASC,Unranked
+123,A Convolutional Stacked Bidirectional LSTM with a Multiplicative Attention Mechanism for Aspect Category and Sentiment Detection.,2021,"Ashok Kumar J, Tina Esther Trueman, Erik Cambria",Cogn. Comput. 13: 1423-1432 ,COGCOM,Unranked
+124,Toward Aspect-Level Sentiment Modification Without Parallel Data.,2021,"Qingnan Jiang, Lei Chen, Wei Zhao, Min Yang, Erik Cambria",IEEE Intell. Syst. 36: 75-81 ,EXPERT,Unranked
+125,Sentiment Analysis and Topic Recognition in Video Transcriptions.,2021,"Lukas Stappen, Alice Baird, Erik Cambria, Björn W. Schuller",IEEE Intell. Syst. 36: 88-95 ,EXPERT,Unranked
+126,Adaptive Modality Distillation for Separable Multimodal Sentiment Analysis.,2021,"Wei Peng, Xiaopeng Hong, Guoying Zhao, Erik Cambria",IEEE Intell. Syst. 36: 82-89 ,EXPERT,Unranked
+127,This! Identifying New Sentiment Slang Through Orthographic Pleonasm Online: Yasss Slay Gorg Queen Ilysm.,2021,"Mike Thelwall, Erik Cambria",IEEE Intell. Syst. 36: 114-120 ,EXPERT,Unranked
+128,Combining Sentiment Lexicons and Content-Based Features for Depression Detection.,2021,"Raymond Chiong, Gregorious Satia Budhi, Sandeep Dhakal, Erik Cambria",IEEE Intell. Syst. 36: 99-105 ,EXPERT,Unranked
+129,ABCDM: An Attention-based Bidirectional CNN-RNN Deep Model for sentiment analysis.,2021,"Mohammad Ehsan Basiri, Shahla Nemati, Moloud Abdar, Erik Cambria, U. Rajendra Acharya",Future Gener. Comput. Syst. 115: 279-294 ,FGCS,Unranked
+130,Comment toxicity detection via a multichannel convolutional bidirectional gated recurrent unit.,2021,"Ashok Kumar J, S. Abiramy, Tina Esther Trueman, Erik Cambria",Neurocomputing 441: 272-278 ,IJON,Unranked
+131,A novel context-aware multimodal framework for persian sentiment analysis.,2021,"Kia Dashtipour, Mandar Gogate, Erik Cambria, Amir Hussain",Neurocomputing 457: 377-388 ,IJON,Unranked
+132,Knowledge graph representation and reasoning.,2021,"Erik Cambria, Shaoxiong Ji, Shirui Pan, Philip S. Yu",Neurocomputing 461: 494-496 ,IJON,Unranked
+133,Predicting video engagement using heterogeneous DeepWalk.,2021,"Iti Chaturvedi, Kishor Thapa, Sandro Cavallari, Erik Cambria, Roy E. Welsch",Neurocomputing 465: 228-237 ,IJON,Unranked
+134,Phonetic-enriched text representation for Chinese sentiment analysis with reinforcement learning.,2021,"Haiyun Peng, Yukun Ma, Soujanya Poria, Yang Li, Erik Cambria",Inf. Fusion 70: 88-99 ,INFFUS,Unranked
+135,Information fusion for affective computing and sentiment analysis.,2021,"Amir Hussain, Erik Cambria, Soujanya Poria, Ahmad Y. A. Hawalah, Francisco Herrera",Inf. Fusion 71: 97-98 ,INFFUS,Unranked
+136,Taylor's theorem: A new perspective for neural tensor networks.,2021,"Wei Li, Luyao Zhu, Erik Cambria",Knowl. Based Syst. 228: 107258 ,KBS,Unranked
+137,Graph routing between capsules.,2021,"Yang Li, Wei Zhao, Erik Cambria, Suhang Wang, Steffen Eger",Neural Networks 143: 345-354 ,NN,Unranked
+138,Sequential fusion of facial appearance and dynamics for depression recognition.,2021,"Qian Chen, Iti Chaturvedi, Shaoxiong Ji, Erik Cambria",Pattern Recognit. Lett. 150: 115-121 ,PRL,Unranked
+139,Emotion Recognition on Edge Devices: Training and Deployment.,2021,"Vlad Pandelea, Edoardo Ragusa, Tommaso Apicella, Paolo Gastaldo, Erik Cambria",Sensors 21: 4496 ,SENSORS,Unranked
+140,Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications.,2021,"Shaoxiong Ji, Shirui Pan, Xue Li, Erik Cambria, Guodong Long, Zi Huang",IEEE Trans. Comput. Soc. Syst. 8: 214-226 ,TCSS,Unranked
+141,Guest Editorial: Industrial Internet of Things: Where Are We and What Is Next?,2021,"Francesco Piccialli, Nik Bessis, Erik Cambria",IEEE Trans. Ind. Informatics 17: 7700-7703 ,TII,Unranked
+142,A Prototype System for Monitoring Emotion and Sentiment Trends Towards Nuclear Energy on Twitter Using Deep Learning.,2021,"Snehameena Arumugam, Likai Peng, Jin-Cheon Na, Guangze Lin, Roopika Ganesh, Xiaoyin Li, Qing Chen, Shirley S. Ho, Erik Cambria",ICADL 2021: 471-479,ICADL,Unranked
+143,A Multitask Learning Framework for Multimodal Sentiment Analysis.,2021,"Dazhi Jiang, Runguo Wei, Hao Liu, Jintao Wen, Geng Tu, Lin Zheng, Erik Cambria",ICDM  2021: 151-157,INCDM,Unranked
+144,Interpretable Representation Learning for Personality Detection.,2021,"Amirmohammad Kazemeini, Sudipta Singha Roy, Robert E. Mercer, Erik Cambria",ICDM  2021: 158-165,INCDM,Unranked
+145,DUSE: A New Benchmark Dataset for Drug User Sentiment Extraction.,2021,"Ashok Kumar J, Erik Cambria, Tina Esther Trueman",ICDM  2021: 174-178,INCDM,Unranked
+146,"The MuSe 2021 Multimodal Sentiment Analysis Challenge: Sentiment, Emotion, Physiological-Emotion, and Stress.",2021,"Lukas Stappen, Alice Baird, Lukas Christ, Lea Schumann, Benjamin Sertolli, Eva-Maria Meßner, Erik Cambria, Guoying Zhao, Björn W. Schuller",MuSe @ ACM Multimedia 2021: 5-14,MM,Unranked
+147,MuSe-Toolbox: The Multimodal Sentiment Analysis Continuous Annotation Fusion and Discrete Class Transformation Toolbox.,2021,"Lukas Stappen, Lea Schumann, Benjamin Sertolli, Alice Baird, Benjamin Weigel, Erik Cambria, Björn W. Schuller",MuSe @ ACM Multimedia 2021: 75-82,MM,Unranked
+148,"MuSe 2021 Challenge: Multimodal Emotion, Sentiment, Physiological-Emotion, and Stress Detection.",2021,"Lukas Stappen, Eva-Maria Meßner, Erik Cambria, Guoying Zhao, Björn W. Schuller",ACM Multimedia 2021: 5706-5707,MM,Unranked
+149,Multitask Recalibrated Aggregation Network for Medical Code Prediction.,2021,"Wei Sun, Shaoxiong Ji, Erik Cambria, Pekka Marttinen",ECML/PKDD  2021: 367-383,PKDD,Unranked
+150,Transformer-Based Bidirectional Encoder Representations for Emotion Detection from Text.,2021,"Ashok Kumar J, Erik Cambria, Tina Esther Trueman",SSCI 2021: 1-6,SSCI,Unranked
+151,"MuSe '21: Proceedings of the 2nd on Multimodal Sentiment Analysis Challenge, Virtual Event, China, 24 October 2021.",2021,"Björn W. Schuller, Lukas Stappen, Eva-Maria Meßner, Erik Cambria, Guoying Zhao","ACM 2021, ISBN 978-1-4503-8678-4 ",MM,Unranked
+152,A Survey on Deep Reinforcement Learning for Audio-Based Applications.,2021,"Siddique Latif, Heriberto Cuayáhuitl, Farrukh Pervez, Fahad Shamshad, Hafiz Shehbaz Ali, Erik Cambria",CoRR abs/2101.00240 ,CORR,Unranked
+153,Multitask Learning for Emotion and Personality Detection.,2021,"Yang Li, Amirmohammad Kazameini, Yash Mehta, Erik Cambria",CoRR abs/2101.02346 ,CORR,Unranked
+154,A Survey on Personality-Aware Recommendation Systems.,2021,"Sahraoui Dhelim, Nyothiri Aung, Mohammed Amine Bouras, Huansheng Ning, Erik Cambria",CoRR abs/2101.12153 ,CORR,Unranked
+155,A Novel Context-Aware Multimodal Framework for Persian Sentiment Analysis.,2021,"Kia Dashtipour, Mandar Gogate, Erik Cambria, Amir Hussain",CoRR abs/2103.02636 ,CORR,Unranked
+156,Multitask Recalibrated Aggregation Network for Medical Code Prediction.,2021,"Wei Sun, Shaoxiong Ji, Erik Cambria, Pekka Marttinen",CoRR abs/2104.00952 ,CORR,Unranked
+157,"The MuSe 2021 Multimodal Sentiment Analysis Challenge: Sentiment, Emotion, Physiological-Emotion, and Stress.",2021,"Lukas Stappen, Alice Baird, Lukas Christ, Lea Schumann, Benjamin Sertolli, Eva-Maria Messner, Erik Cambria, Guoying Zhao, Björn W. Schuller",CoRR abs/2104.07123 ,CORR,Unranked
+158,BLM-17m: A Large-Scale Dataset for Black Lives Matter Topic Detection on Twitter.,2021,"Hasan Kemik, Nusret Özates, Meysam Asgari-Chenaghlu, Erik Cambria",CoRR abs/2105.01331 ,CORR,Unranked
+159,Recent Advances in Deep Learning Based Dialogue Systems: A Systematic Survey.,2021,"Jinjie Ni, Tom Young, Vlad Pandelea, Fuzhao Xue, Vinay Adiga, Erik Cambria",CoRR abs/2105.04387 ,CORR,Unranked
+160,"MICE: A Crosslinguistic Emotion Corpus in Malay, Indonesian, Chinese and English.",2021,"Ng Bee Chin, Yosephine Susanto, Erik Cambria",CoRR abs/2106.04831 ,CORR,Unranked
+161,Graph Routing between Capsules.,2021,"Yang Li, Wei Zhao, Erik Cambria, Suhang Wang, Steffen Eger",CoRR abs/2106.11531 ,CORR,Unranked
+162,MuSe-Toolbox: The Multimodal Sentiment Analysis Continuous Annotation Fusion and Discrete Class Transformation Toolbox.,2021,"Lukas Stappen, Lea Schumann, Benjamin Sertolli, Alice Baird, Benjamin Weigel, Erik Cambria, Björn W. Schuller",CoRR abs/2107.11757 ,CORR,Unranked
+163,MELM: Data Augmentation with Masked Entity Language Modeling for Cross-lingual NER.,2021,"Ran Zhou, Ruidan He, Xin Li, Lidong Bing, Erik Cambria, Luo Si, Chunyan Miao",CoRR abs/2108.13655 ,CORR,Unranked
+164,Multi-task Balanced and Recalibrated Network for Medical Code Prediction.,2021,"Wei Sun, Shaoxiong Ji, Erik Cambria, Pekka Marttinen",CoRR abs/2109.02418 ,CORR,Unranked
+165,Fusing task-oriented and open-domain dialogues in conversational agents.,2021,"Tom Young, Frank Z. Xing, Vlad Pandelea, Jinjie Ni, Erik Cambria",CoRR abs/2109.04137 ,CORR,Unranked
+166,MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare.,2021,"Shaoxiong Ji, Tianlin Zhang, Luna Ansari, Jie Fu, Prayag Tiwari, Erik Cambria",CoRR abs/2110.15621 ,CORR,Unranked
+167,Recent trends in deep learning based personality detection.,2020,"Yash Mehta, Navonil Majumder, Alexander F. Gelbukh, Erik Cambria",Artif. Intell. Rev. 53: 2313-2339 ,AIR,Unranked
+168,User reviews: Sentiment analysis using lexicon integrated two-channel CNN-LSTM​ family models.,2020,"Wei Li, Luyao Zhu, Yong Shi, Kun Guo, Erik Cambria",Appl. Soft Comput. 94: 106435 ,ASC,Unranked
+169,Predicting political sentiments of voters from Twitter in multi-party contexts.,2020,"Aparup Khatua, Apalak Khatua, Erik Cambria",Appl. Soft Comput. 97: 106743 ,ASC,Unranked
+170,How Intense Are You? Predicting Intensities of Emotions and Sentiments using Stacked Ensemble [Application Notes].,2020,"Md. Shad Akhtar, Asif Ekbal, Erik Cambria",IEEE Comput. Intell. Mag. 15: 64-75 ,CIM,Unranked
+171,Bridging Cognitive Models and Recommender Systems.,2020,"Cecilio Angulo, Zoe Falomir, Davide Anguita, Núria Agell, Erik Cambria",Cogn. Comput. 12: 426-427 ,COGCOM,Unranked
+172,A Review of Shorthand Systems: From Brachygraphy to Microtext and Beyond.,2020,"Ranjan Satapathy, Erik Cambria, Andrea Nanetti, Amir Hussain",Cogn. Comput. 12: 778-792 ,COGCOM,Unranked
+173,Extracting Time Expressions and Named Entities with Constituent-Based Tagging Schemes.,2020,"Xiaoshi Zhong, Erik Cambria, Amir Hussain",Cogn. Comput. 12: 844-862 ,COGCOM,Unranked
+174,Intent Classification for Dialogue Utterances.,2020,"Jetze Schuurmans, Flavius Frasincar, Erik Cambria",IEEE Intell. Syst. 35: 82-88 ,EXPERT,Unranked
+175,Crowd Intelligence: Conducting Asymmetric Impact-Performance Analysis Based on Online Reviews.,2020,"Jian-Wu Bi, Yang Liu, Zhi-Ping Fan, Erik Cambria",IEEE Intell. Syst. 35: 92-98 ,EXPERT,Unranked
+176,Commonsense Knowledge Enhanced Memory Network for Stance Classification.,2020,"Jiachen Du, Lin Gui, Ruifeng Xu, Yunqing Xia, Xuan Wang, Erik Cambria",IEEE Intell. Syst. 35: 102-109 ,EXPERT,Unranked
+177,The Hourglass Model Revisited.,2020,"Yosephine Susanto, Andrew G. Livingstone, Ng Bee Chin, Erik Cambria",IEEE Intell. Syst. 35: 96-102 ,EXPERT,Unranked
+178,A review of sentiment analysis research in Arabic language.,2020,"Oumaima Oueslati, Erik Cambria, Moez Ben HajHmida, Habib Ounelli",Future Gener. Comput. Syst. 112: 408-430 ,FGCS,Unranked
+179,Dialogue systems with audio context.,2020,"Tom Young, Vlad Pandelea, Soujanya Poria, Erik Cambria",Neurocomputing 388: 102-109 ,IJON,Unranked
+180,Balancing computational complexity and generalization ability: A novel design for ELM.,2020,"Edoardo Ragusa, Paolo Gastaldo, Rodolfo Zunino, Erik Cambria",Neurocomputing 401: 405-417 ,IJON,Unranked
+181,Popularity prediction on vacation rental websites.,2020,"Yang Li, Suhang Wang, Yukun Ma, Quan Pan, Erik Cambria",Neurocomputing 412: 372-380 ,IJON,Unranked
+182,Multi-Level Fine-Scaled Sentiment Sensing with Ambivalence Handling.,2020,"Zhaoxia Wang, Seng-Beng Ho, Erik Cambria",Int. J. Uncertain. Fuzziness Knowl. Based Syst. 28: 683-697 ,IJUFKS,Unranked
+183,Anaphora and coreference resolution: A review.,2020,"Rhea Sukthanker, Soujanya Poria, Erik Cambria, Ramkumar Thirunavukarasu",Inf. Fusion 59: 139-162 ,INFFUS,Unranked
+184,"The four dimensions of social network analysis: An overview of research methods, applications, and software tools.",2020,"David Camacho, Ángel Panizo-LLedot, Gema Bello Orgaz, Antonio González-Pardo, Erik Cambria",Inf. Fusion 63: 88-120 ,INFFUS,Unranked
+185,A survey on empathetic dialogue systems.,2020,"Yukun Ma, Khanh Linh Nguyen, Frank Z. Xing, Erik Cambria",Inf. Fusion 64: 50-70 ,INFFUS,Unranked
+186,Social Media Marketing and Financial Forecasting.,2020,"Frank Z. Xing, Soujanya Poria, Erik Cambria, Roy E. Welsch",Inf. Process. Manag. 57: 102314 ,IPM,Unranked
+187,"What do people think about this monument? Understanding negative reviews via deep learning, clustering and descriptive rules.",2020,"Ana Valdivia, Eugenio Martínez-Cámara, Iti Chaturvedi, María Victoria Luzón, Erik Cambria, Yew-Soon Ong, Francisco Herrera",J. Ambient Intell. Humaniz. Comput. 11: 39-52 ,JAIHC,Unranked
+188,A review of emotion sensing: categorization models and algorithms.,2020,"Zhaoxia Wang, Seng-Beng Ho, Erik Cambria",Multim. Tools Appl. 79: 35553-35582 ,MTA,Unranked
+189,End-to-End latent-variable task-oriented dialogue system with exact log-likelihood optimization.,2020,"Haotian Xu, Haiyun Peng, Haoran Xie, Erik Cambria, Liuyang Zhou, Weiguo Zheng",World Wide Web 23: 1989-2002 ,WWW,A*
+190,Dilated Convolutional Attention Network for Medical Code Assignment from Clinical Text.,2020,"Shaoxiong Ji, Erik Cambria, Pekka Marttinen",ClinicalNLP@EMNLP 2020: 73-78,ACL-CLINICALNLP,Unranked
+191,Genetic Programming for Domain Adaptation in Product Reviews.,2020,"Iti Chaturvedi, Erik Cambria, Sandro Cavallari, Roy E. Welsch",CEC 2020: 1-8,CEC,B
+192,SenticNet 6: Ensemble Application of Symbolic and Subsymbolic AI for Sentiment Analysis.,2020,"Erik Cambria, Yang Li, Frank Z. Xing, Soujanya Poria, Kenneth Kwok",CIKM 2020: 105-114,CIKM,A
+193,Financial Sentiment Analysis: An Investigation into Common Mistakes and Silver Bullets.,2020,"Frank Z. Xing, Lorenzo Malandri, Yue Zhang, Erik Cambria",COLING 2020: 978-987,COLING,B
+194,"One Belt, One Road, One Sentiment? A Hybrid Approach to Gauging Public Opinions on the New Silk Road Initiative.",2020,"Jonathan Kevin Chandra, Erik Cambria, Andrea Nanetti",ICDM  2020: 7-14,ICDM,A*
+195,COAL: Convolutional Online Adaptation Learning for Opinion Mining.,2020,"Iti Chaturvedi, Edoardo Ragusa, Paolo Gastaldo, Erik Cambria",ICDM  2020: 15-22,ICDM,A*
+196,Bottom-Up and Top-Down: Predicting Personality with Psycholinguistic and Language Model Features.,2020,"Yash Mehta, Samin Fatehi, Amirmohammad Kazameini, Clemens Stachl, Erik Cambria, Sauleh Eetemadi",ICDM 2020: 1184-1189,ICDM,A*
+197,New Avenues in Mobile Tourism.,2020,"Claudia Guerreiro, Erik Cambria, Hien T. Nguyen",IJCNN 2020: 1-8,IJCNN,B
+198,Deciphering Public Opinion of Nuclear Energy on Twitter.,2020,"Aparup Khatua, Erik Cambria, Shirley S. Ho, Jin-Cheon Na",IJCNN 2020: 1-8,IJCNN,B
+199,"MuSe 2020 Challenge and Workshop: Multimodal Sentiment Analysis, Emotion-target Engagement and Trustworthiness Detection in Real-life Media: Emotional Car Reviews in-the-wild.",2020,"Lukas Stappen, Alice Baird, Georgios Rizos, Panagiotis Tzirakis, Xinchen Du, Felix Hafner, Lea Schumann, Adria Mallol-Ragolta, Björn W. Schuller, Iulia Lefter, Erik Cambria, Ioannis Kompatsiaris",MuSe @ ACM Multimedia 2020: 35-44,MM,Unranked
+200,"Summary of MuSe 2020: Multimodal Sentiment Analysis, Emotion-target Engagement and Trustworthiness Detection in Real-life Media.",2020,"Lukas Stappen, Björn W. Schuller, Iulia Lefter, Erik Cambria, Ioannis Kompatsiaris",ACM Multimedia 2020: 4769-4770,MM,Unranked
+201,JUSTers at SemEval-2020 Task 4: Evaluating Transformer Models against Commonsense Validation and Explanation.,2020,"Ali Fadel, Mahmoud Al-Ayyoub, Erik Cambria",SemEval@COLING 2020: 535-542,SEMEVAL,Unranked
+202,"MuSe'20: Proceedings of the 1st International on Multimodal Sentiment Analysis in Real-life Media Challenge and Workshop, Seattle, WA, USA, October 16, 2020.",2020,"Björn W. Schuller, Iulia Lefter, Erik Cambria, Ioannis Kompatsiaris, Lukas Stappen","ACM 2020, ISBN 978-1-4503-8157-4 ",MM,Unranked
+203,"A Survey on Knowledge Graphs: Representation, Acquisition and Applications.",2020,"Shaoxiong Ji, Shirui Pan, Erik Cambria, Pekka Marttinen, Philip S. Yu",CoRR abs/2002.00388 ,CORR,Unranked
+204,"The Four Dimensions of Social Network Analysis: An Overview of Research Methods, Applications, and Software Tools.",2020,"David Camacho, Ángel Panizo-LLedot, Gema Bello Orgaz, Antonio González-Pardo, Erik Cambria",CoRR abs/2002.09485 ,CORR,Unranked
+205,Deep Learning Based Text Classification: A Comprehensive Review.,2020,"Shervin Minaee, Nal Kalchbrenner, Erik Cambria, Narjes Nikzad, Meysam Chenaghlu, Jianfeng Gao",CoRR abs/2004.03705 ,CORR,Unranked
+206,Suicidal Ideation and Mental Disorder Detection with Attentive Relation Networks.,2020,"Shaoxiong Ji, Xue Li, Zi Huang, Erik Cambria",CoRR abs/2004.07601 ,CORR,Unranked
+207,MuSe 2020 - The First International Multimodal Sentiment Analysis in Real-life Media Challenge and Workshop.,2020,"Lukas Stappen, Alice Baird, Georgios Rizos, Panagiotis Tzirakis, Xinchen Du, Felix Hafner, Lea Schumann, Adria Mallol-Ragolta, Björn W. Schuller, Iulia Lefter, Erik Cambria, Ioannis Kompatsiaris",CoRR abs/2004.14858 ,CORR,Unranked
+208,A review of sentiment analysis research in Arabic language.,2020,"Oumaima Oueslati, Erik Cambria, Moez Ben HajHmida, Habib Ounelli",CoRR abs/2005.12240 ,CORR,Unranked
+209,BiERU: Bidirectional Emotional Recurrent Unit for Conversational Sentiment Analysis.,2020,"Wei Li, Wei Shao, Shaoxiong Ji, Erik Cambria",CoRR abs/2006.00492 ,CORR,Unranked
+210,Dilated Convolutional Attention Network for Medical Code Assignment from Clinical Text.,2020,"Shaoxiong Ji, Erik Cambria, Pekka Marttinen",CoRR abs/2009.14578 ,CORR,Unranked
+211,Personality Trait Detection Using Bagged SVM over BERT Word Embedding Ensembles.,2020,"Amirmohammad Kazameini, Samin Fatehi, Yash Mehta, Sauleh Eetemadi, Erik Cambria",CoRR abs/2010.01309 ,CORR,Unranked
+212,Improving Zero Shot Learning Baselines with Commonsense Knowledge.,2020,"Abhinaba Roy, Deepanway Ghosal, Erik Cambria, Navonil Majumder, Rada Mihalcea, Soujanya Poria",CoRR abs/2012.06236 ,CORR,Unranked
+213,Computational Intelligence for Affective Computing and Sentiment Analysis [Guest Editorial].,2019,"Erik Cambria, Soujanya Poria, Amir Hussain, Bing Liu",IEEE Comput. Intell. Mag. 14: 16-17 ,CIM,Unranked
+214,Embedding Both Finite and Infinite Communities on Graphs [Application Notes].,2019,"Sandro Cavallari, Erik Cambria, Hongyun Cai, Kevin Chen-Chuan Chang, Vincent W. Zheng",IEEE Comput. Intell. Mag. 14: 39-50 ,CIM,Unranked
+215,Learning with Similarity Functions: a Tensor-Based Framework.,2019,"Edoardo Ragusa, Paolo Gastaldo, Rodolfo Zunino, Erik Cambria",Cogn. Comput. 11: 31-49 ,COGCOM,Unranked
+216,Technical analysis and sentiment embeddings for market trend prediction.,2019,"Andrea Picasso Ratto, Simone Merello, Yukun Ma, Luca Oneto, Erik Cambria",Expert Syst. Appl. 135: 60-70 ,ESWA,Unranked
+217,Supervised Learning for Fake News Detection.,2019,"Julio C. S. Reis, André Correia, Fabricio Murai, Adriano Veloso, Fabrício Benevenuto, Erik Cambria",IEEE Intell. Syst. 34: 76-81 ,EXPERT,Unranked
+218,Sentiment and Sarcasm Classification With Multitask Learning.,2019,"Navonil Majumder, Soujanya Poria, Haiyun Peng, Niyati Chhaya, Erik Cambria, Alexander F. Gelbukh",IEEE Intell. Syst. 34: 38-43 ,EXPERT,Unranked
+219,Learning From Personal Longitudinal Dialog Data.,2019,"Charles Welch, Verónica Pérez-Rosas, Jonathan K. Kummerfeld, Rada Mihalcea, Erik Cambria",IEEE Intell. Syst. 34: 16-23 ,EXPERT,Unranked
+220,Type Like a Man! Inferring Gender from Keystroke Dynamics in Live-Chats.,2019,"Abeer A. N. Buker, Giorgio Roffo, Alessandro Vinciarelli, Erik Cambria",IEEE Intell. Syst. 34: 53-59 ,EXPERT,Unranked
+221,Inconsistencies on TripAdvisor reviews: A unified index between users and Sentiment Analysis Methods.,2019,"Ana Valdivia, Emiliya Hrabova, Iti Chaturvedi, María Victoria Luzón, Luigi Troiano, Erik Cambria, Francisco Herrera",Neurocomputing 353: 3-16 ,IJON,Unranked
+222,Modelling customer satisfaction from online reviews using ensemble neural network and effect-based Kano model.,2019,"Jian-Wu Bi, Yang Liu, Zhi-Ping Fan, Erik Cambria",Int. J. Prod. Res. 57: 7068-7088 ,IJPR,Unranked
+223,A tale of two epidemics: Contextual Word2Vec for classifying twitter streams during outbreaks.,2019,"Aparup Khatua, Apalak Khatua, Erik Cambria",Inf. Process. Manag. 56: 247-257 ,IPM,Unranked
+224,Cognitive-inspired domain adaptation of sentiment lexicons.,2019,"Frank Z. Xing, Filippo Pallucchini, Erik Cambria",Inf. Process. Manag. 56: 554-564 ,IPM,Unranked
+225,Disentangled Variational Auto-Encoder for semi-supervised learning.,2019,"Yang Li, Quan Pan, Suhang Wang, Haiyun Peng, Tao Yang, Erik Cambria",Inf. Sci. 482: 73-85 ,ISCI,Unranked
+226,Growing semantic vines for robust asset allocation.,2019,"Frank Z. Xing, Erik Cambria, Roy E. Welsch",Knowl. Based Syst. 165: 297-305 ,KBS,Unranked
+227,Learning binary codes with neural collaborative filtering for efficient recommendation systems.,2019,"Yang Li, Suhang Wang, Quan Pan, Haiyun Peng, Tao Yang, Erik Cambria",Knowl. Based Syst. 172: 64-75 ,KBS,Unranked
+228,Sentiment-aware volatility forecasting.,2019,"Frank Z. Xing, Erik Cambria, Yue Zhang",Knowl. Based Syst. 176: 68-76 ,KBS,Unranked
+229,Learning short-text semantic similarity with word embeddings and external knowledge sources.,2019,"Hien T. Nguyen, Phuc H. Duong, Erik Cambria",Knowl. Based Syst. 182 ,KBS,Unranked
+230,Fuzzy commonsense reasoning for multimodal sentiment analysis.,2019,"Iti Chaturvedi, Ranjan Satapathy, Sandro Cavallari, Erik Cambria",Pattern Recognit. Lett. 125: 264-270 ,PRL,Unranked
+231,DialogueRNN: An Attentive RNN for Emotion Detection in Conversations.,2019,"Navonil Majumder, Soujanya Poria, Devamanyu Hazarika, Rada Mihalcea, Alexander F. Gelbukh, Erik Cambria",AAAI 2019: 6818-6825,AAAI,A*
+232,MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations.,2019,"Soujanya Poria, Devamanyu Hazarika, Navonil Majumder, Gautam Naik, Erik Cambria, Rada Mihalcea",ACL  2019: 527-536,ACL,A*
+233,Towards Scalable and Reliable Capsule Networks for Challenging NLP Applications.,2019,"Wei Zhao, Haiyun Peng, Steffen Eger, Erik Cambria, Min Yang",ACL  2019: 1549-1559,ACL,A*
+234,PerSent 2.0: Persian Sentiment Lexicon Enriched with Domain-Specific Words.,2019,"Kia Dashtipour, Ali Raza, Alexander F. Gelbukh, Rui Zhang, Erik Cambria, Amir Hussain",BICS 2019: 497-509,BICS,Unranked
+235,Fusing Phonetic Features and Chinese Character Representation for Sentiment Analysis.,2019,"Haiyun Peng, Soujanya Poria, Yang Li, Erik Cambria",CICLing  2019: 151-165,CICLING,C
+236,Sentiment Analysis of Influential Messages for Political Election Forecasting.,2019,"Oumayma Oueslati, Moez Ben Haj Hmida, Habib Ounelli, Erik Cambria",CICLing  2019: 280-292,CICLING,C
+237,Microtext Normalization for Chatbots.,2019,"Ranjan Satapathy, Erik Cambria, Nadia Magnenat-Thalmann",CICLing  2019: 293-303,CICLING,C
+238,Tweeting in Support of LGBT?: A Deep Learning Approach.,2019,"Aparup Khatua, Erik Cambria, Kuntal Ghosh, Nabendu Chaki, Apalak Khatua",COMAD/CODS 2019: 342-345,COMAD,National
+239,PhonSenticNet: A Cognitive Approach to Microtext Normalization for Concept-Level Sentiment Analysis.,2019,"Ranjan Satapathy, Aalind Singh, Erik Cambria",CSoNet 2019: 177-188,CSONET,Unranked
+240,A Novel Non-Iterative Parameter Estimation Method for Interval Type-2 Fuzzy Neural Networks Based on a Dynamic Cost Function.,2019,"Mojtaba Ahmadieh Khanesar, Saima Hassan, Erik Cambria, Erdal Kayacan",FUZZ-IEEE 2019: 1-6,FUZZIEEE,Unranked
+241,Understanding the Role of Social Media in Backpacker Tourism.,2019,"Claudia Guerreiro, Erik Cambria, Hien T. Nguyen",ICDM Workshops 2019: 530-537,ICDM,A*
+242,An Attention-Based Model for Learning Dynamic Interaction Networks.,2019,"Sandro Cavallari, Soujanya Poria, Erik Cambria, Vincent W. Zheng, Hongyun Cai",IJCNN 2019: 1-8,IJCNN,B
+243,Ensemble Application of Transfer Learning and Sample Weighting for Stock Market Prediction.,2019,"Simone Merello, Andrea Picasso Ratto, Luca Oneto, Erik Cambria",IJCNN 2019: 1-8,IJCNN,B
+244,Seq2Seq Deep Learning Models for Microtext Normalization.,2019,"Ranjan Satapathy, Yang Li, Sandro Cavallari, Erik Cambria",IJCNN 2019: 1-8,IJCNN,B
+245,Predicting Future Market Trends: Which Is the Optimal Window?,2019,"Simone Merello, Andrea Picasso Ratto, Luca Oneto, Erik Cambria",INNSBDDL 2019: 180-185,INNS,Unranked
+246,Can a Humanoid Robot be part of the Organizational Workforce? A User Study Leveraging Sentiment Analysis.,2019,"Nidhi Mishra, Manoj Ramanathan, Ranjan Satapathy, Erik Cambria, Nadia Magnenat-Thalmann",RO-MAN 2019: 1-7,RO-MAN,Unranked
+247,Phonetic-enriched Text Representation for Chinese Sentiment Analysis with Reinforcement Learning.,2019,"Haiyun Peng, Yukun Ma, Soujanya Poria, Yang Li, Erik Cambria",CoRR abs/1901.07880 ,CORR,Unranked
+248,Sentiment and Sarcasm Classification with Multitask Learning.,2019,"Navonil Majumder, Soujanya Poria, Haiyun Peng, Niyati Chhaya, Erik Cambria, Alexander F. Gelbukh",CoRR abs/1901.08014 ,CORR,Unranked
+249,Aspect-Sentiment Embeddings for Company Profiling and Employee Opinion Mining.,2019,"Rajiv Bajpai, Devamanyu Hazarika, Kunal Singh, Sruthi Gorantla, Erik Cambria, Roger Zimmermann",CoRR abs/1902.08342 ,CORR,Unranked
+250,"""Hang in There"": Lexical and Visual Analysis to Identify Posts Warranting Empathetic Responses.",2019,"Mimansa Jaiswal, Sairam Tabibu, Erik Cambria",CoRR abs/1903.05210 ,CORR,Unranked
+251,PhonSenticNet: A Cognitive Approach to Microtext Normalization for Concept-Level Sentiment Analysis.,2019,"Ranjan Satapathy, Aalind Singh, Erik Cambria",CoRR abs/1905.01967 ,CORR,Unranked
+252,Can a Humanoid Robot be part of the Organizational Workforce? A User Study Leveraging Sentiment Analysis.,2019,"Nidhi Mishra, Manoj Ramanathan, Ranjan Satapathy, Erik Cambria, Nadia Magnenat-Thalmann",CoRR abs/1905.08937 ,CORR,Unranked
+253,Towards Scalable and Reliable Capsule Networks for Challenging NLP Applications.,2019,"Wei Zhao, Haiyun Peng, Steffen Eger, Erik Cambria, Min Yang",CoRR abs/1906.02829 ,CORR,Unranked
+254,Business Taxonomy Construction Using Concept-Level Hierarchical Clustering.,2019,"Haodong Bai, Frank Z. Xing, Erik Cambria, Win-Bin Huang",CoRR abs/1906.09694 ,CORR,Unranked
+255,Recent Trends in Deep Learning Based Personality Detection.,2019,"Yash Mehta, Navonil Majumder, Alexander F. Gelbukh, Erik Cambria",CoRR abs/1908.03628 ,CORR,Unranked
+256,Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications.,2019,"Shaoxiong Ji, Shirui Pan, Xue Li, Erik Cambria, Guodong Long, Zi Huang",CoRR abs/1910.12611 ,CORR,Unranked
+257,Natural language based financial forecasting: a survey.,2018,"Frank Z. Xing, Erik Cambria, Roy E. Welsch",Artif. Intell. Rev. 50: 49-73 ,AIR,Unranked
+258,Recent Trends in Deep Learning Based Natural Language Processing [Review Article].,2018,"Tom Young, Devamanyu Hazarika, Soujanya Poria, Erik Cambria",IEEE Comput. Intell. Mag. 13: 55-75 ,CIM,Unranked
+259,Intelligent Asset Allocation via Market Sentiment Views.,2018,"Frank Z. Xing, Erik Cambria, Roy E. Welsch",IEEE Comput. Intell. Mag. 13: 25-34 ,CIM,Unranked
+260,Sentic LSTM: a Hybrid Network for Targeted Aspect-Based Sentiment Analysis.,2018,"Yukun Ma, Haiyun Peng, Tahir Khan, Erik Cambria, Amir Hussain",Cogn. Comput. 10: 639-650 ,COGCOM,Unranked
+261,Relation Extraction of Medical Concepts Using Categorization and Sentiment Analysis.,2018,"Anupam Mondal, Erik Cambria, Dipankar Das, Amir Hussain, Sivaji Bandyopadhyay",Cogn. Comput. 10: 670-685 ,COGCOM,Unranked
+262,Public Mood-Driven Asset Allocation: the Importance of Financial Sentiment in Portfolio Management.,2018,"Lorenzo Malandri, Frank Z. Xing, Carlotta Orsenigo, Carlo Vercellis, Erik Cambria",Cogn. Comput. 10: 1167-1176 ,COGCOM,Unranked
+263,OntoSenticNet: A Commonsense Ontology for Sentiment Analysis.,2018,"Mauro Dragoni, Soujanya Poria, Erik Cambria",IEEE Intell. Syst. 33: 77-85 ,EXPERT,Unranked
+264,Multimodal Sentiment Analysis: Addressing Key Issues and Setting Up the Baselines.,2018,"Soujanya Poria, Navonil Majumder, Devamanyu Hazarika, Erik Cambria, Alexander F. Gelbukh, Amir Hussain",IEEE Intell. Syst. 33: 17-25 ,EXPERT,Unranked
+265,Semi-supervised learning for big social data analysis.,2018,"Amir Hussain, Erik Cambria",Neurocomputing 275: 1662-1673 ,IJON,Unranked
+266,Distinguishing between facts and opinions for sentiment analysis: Survey and challenges.,2018,"Iti Chaturvedi, Erik Cambria, Roy E. Welsch, Francisco Herrera",Inf. Fusion 44: 65-77 ,INFFUS,Unranked
+267,Consensus vote models for detecting and filtering neutrality in sentiment analysis.,2018,"Ana Valdivia, María Victoria Luzón, Erik Cambria, Francisco Herrera",Inf. Fusion 44: 126-135 ,INFFUS,Unranked
+268,A Generative Model for category text generation.,2018,"Yang Li, Quan Pan, Suhang Wang, Tao Yang, Erik Cambria",Inf. Sci. 450: 301-315 ,ISCI,Unranked
+269,Bayesian network based extreme learning machine for subjectivity detection.,2018,"Iti Chaturvedi, Edoardo Ragusa, Paolo Gastaldo, Rodolfo Zunino, Erik Cambria",J. Frankl. Inst. 355: 1780-1797 ,JFI,Unranked
+270,Learning multi-grained aspect target sequence for Chinese sentiment analysis.,2018,"Haiyun Peng, Yukun Ma, Yang Li, Erik Cambria",Knowl. Based Syst. 148: 167-176 ,KBS,Unranked
+271,Multimodal sentiment analysis using hierarchical fusion with context modeling.,2018,"Navonil Majumder, Devamanyu Hazarika, Alexander F. Gelbukh, Erik Cambria, Soujanya Poria",Knowl. Based Syst. 161: 124-133 ,KBS,Unranked
+272,Ensemble application of ELM and GPU for real-time multimodal sentiment analysis.,2018,"Ha Nguyen Tran, Erik Cambria",Memetic Comput. 10: 3-13 ,MEMETIC,Unranked
+273,A survey of graph processing on graphics processing units.,2018,"Ha Nguyen Tran, Erik Cambria",J. Supercomput. 74: 2086-2115 ,TJS,Unranked
+274,SenticNet 5: Discovering Conceptual Primitives for Sentiment Analysis by Means of Context Embeddings.,2018,"Erik Cambria, Soujanya Poria, Devamanyu Hazarika, Kenneth Kwok",AAAI 2018: 1795-1802,AAAI,A*
+275,Augmenting End-to-End Dialogue Systems With Commonsense Knowledge.,2018,"Tom Young, Erik Cambria, Iti Chaturvedi, Hao Zhou, Subham Biswas, Minlie Huang",AAAI 2018: 4970-4977,AAAI,A*
+276,Memory Fusion Network for Multi-view Sequential Learning.,2018,"Amir Zadeh, Paul Pu Liang, Navonil Mazumder, Soujanya Poria, Erik Cambria, Louis-Philippe Morency",AAAI 2018: 5634-5641,AAAI,A*
+277,Multi-attention Recurrent Network for Human Communication Comprehension.,2018,"Amir Zadeh, Paul Pu Liang, Soujanya Poria, Prateek Vij, Erik Cambria, Louis-Philippe Morency",AAAI 2018: 5642-5649,AAAI,A*
+278,Targeted Aspect-Based Sentiment Analysis via Embedding Commonsense Knowledge into an Attentive LSTM.,2018,"Yukun Ma, Haiyun Peng, Erik Cambria",AAAI 2018: 5876-5883,AAAI,A*
+279,Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph.,2018,"Amir Zadeh, Paul Pu Liang, Soujanya Poria, Erik Cambria, Louis-Philippe Morency",ACL  2018: 2236-2246,ACL,A*
+280,Sounds of Silence Breakers: Exploring Sexual Violence on Twitter.,2018,"Aparup Khatua, Erik Cambria, Apalak Khatua",ASONAM 2018: 397-400,ASUNAM,Unranked
+281,A Deep Learning Approach for Multimodal Deception Detection.,2018,"Gangeshwar Krishnamurthy, Navonil Majumder, Soujanya Poria, Erik Cambria",CICLing  2018: 87-96,CICLING,C
+282,Aspect-Sentiment Embeddings for Company Profiling and Employee Opinion Mining.,2018,"Rajiv Bajpai, Devamanyu Hazarika, Kunal Singh, Sruthi Gorantla, Erik Cambria, Roger Zimmermann",CICLing  2018: 142-160,CICLING,C
+283,Text-Image Sentiment Analysis.,2018,"Qian Chen, Edoardo Ragusa, Iti Chaturvedi, Erik Cambria, Rodolfo Zunino",CICLing  2018: 169-180,CICLING,C
+284,CASCADE: Contextual Sarcasm Detection in Online Discussion Forums.,2018,"Devamanyu Hazarika, Soujanya Poria, Sruthi Gorantla, Erik Cambria, Roger Zimmermann, Rada Mihalcea",COLING 2018: 1837-1848,COLING,B
+285,ICON: Interactive Conversational Memory Network for Multimodal Emotion Detection.,2018,"Devamanyu Hazarika, Soujanya Poria, Rada Mihalcea, Erik Cambria, Roger Zimmermann",EMNLP 2018: 2594-2604,EMNLP,A*
+286,IARM: Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis.,2018,"Navonil Majumder, Soujanya Poria, Alexander F. Gelbukh, Md. Shad Akhtar, Erik Cambria, Asif Ekbal",EMNLP 2018: 3402-3411,EMNLP,A*
+287,Semantic Sentiment Analysis Challenge at ESWC2018.,2018,"Mauro Dragoni, Erik Cambria",SemWebEval@ESWC 2018: 117-128,ESWS,Unranked
+288,Semantically Enhanced Models for Commonsense Knowledge Acquisition.,2018,"Ikhlas Alhussien, Erik Cambria, Zhang NengSheng",ICDM Workshops 2018: 1014-1021,ICDM,A*
+289,Investigating Timing and Impact of News on the Stock Market.,2018,"Simone Merello, Andrea Picasso Ratto, Yukun Ma, Luca Oneto, Erik Cambria",ICDM Workshops 2018: 1348-1354,ICDM,A*
+290,Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis.,2018,"Devamanyu Hazarika, Soujanya Poria, Prateek Vij, Gangeshwar Krishnamurthy, Erik Cambria, Roger Zimmermann",NAACL-HLT  2018: 266-270,NAACL,A
+291,Conversational Memory Network for Emotion Recognition in Dyadic Dialogue Videos.,2018,"Devamanyu Hazarika, Soujanya Poria, Amir Zadeh, Erik Cambria, Louis-Philippe Morency, Roger Zimmermann",NAACL-HLT 2018: 2122-2132,NAACL,A
+292,Discovering Bayesian Market Views for Intelligent Asset Allocation.,2018,"Frank Z. Xing, Erik Cambria, Lorenzo Malandri, Carlo Vercellis",ECML/PKDD  2018: 120-135,PKDD,Unranked
+293,Learning Visual Concepts in Images Using Temporal Convolutional Networks.,2018,"Qian Chen, Iti Chaturvedi, Soujanya Poria, Erik Cambria, Lorenzo Malandri",SSCI 2018: 1280-1284,SSCI,Unranked
+294,Singlish SenticNet: A Concept-Based Sentiment Resource for Singapore English.,2018,"Danyuan Ho, Diyana Hamzah, Soujanya Poria, Erik Cambria",SSCI 2018: 1285-1291,SSCI,Unranked
+295,BabelSenticNet: A Commonsense Reasoning Framework for Multilingual Sentiment Analysis.,2018,"David Vilares, Haiyun Peng, Ranjan Satapathy, Erik Cambria",SSCI 2018: 1292-1298,SSCI,Unranked
+296,Ensemble of Technical Analysis and Machine Learning for Market Trend Prediction.,2018,"Andrea Picasso Ratto, Simone Merello, Luca Oneto, Yukun Ma, Lorenzo Malandri, Erik Cambria",SSCI 2018: 2090-2096,SSCI,Unranked
+297,WME 3.0: An Enhanced and Validated Lexicon of Medical Concepts.,2018,"Anupam Mondal, Dipankar Das, Erik Cambria, Sivaji Bandyopadhyay",GWC 2018: 10-16,WORDNET,Unranked
+298,Time Expression Recognition Using a Constituent-based Tagging Scheme.,2018,"Xiaoshi Zhong, Erik Cambria",WWW 2018: 983-992,WWW,A*
+299,"Proceedings of 4th Workshop on Sentic Computing, Sentiment Analysis, Opinion Mining, and Emotion Detection (EMSASW 2018) Co-located with the 15th Extended Semantic Web Conference 2018 (ESWC 2018), Heraklion, Greece, June 4, 2018.",2018,"Diego Reforgiato Recupero, Mauro Dragoni, Davide Buscaldi, Mehwish Alam, Erik Cambria","CEUR Workshop Proceedings 2111, CEUR-WS.org 2018 ",ESWS,Unranked
+300,"Sentiment Analysis, Basic Tasks of.",2018,"Iti Chaturvedi, Soujanya Poria, Erik Cambria",Encyclopedia of Social Network Analysis and Mining. 2nd Ed. 2018,SNAM,Unranked
+301,Multi-attention Recurrent Network for Human Communication Comprehension.,2018,"Amir Zadeh, Paul Pu Liang, Soujanya Poria, Prateek Vij, Erik Cambria, Louis-Philippe Morency",CoRR abs/1802.00923 ,CORR,Unranked
+302,Memory Fusion Network for Multi-view Sequential Learning.,2018,"Amir Zadeh, Paul Pu Liang, Navonil Mazumder, Soujanya Poria, Erik Cambria, Louis-Philippe Morency",CoRR abs/1802.00927 ,CORR,Unranked
+303,Discovering Bayesian Market Views for Intelligent Asset Allocation.,2018,"Frank Z. Xing, Erik Cambria, Lorenzo Malandri, Carlo Vercellis",CoRR abs/1802.09911 ,CORR,Unranked
+304,A Deep Learning Approach for Multimodal Deception Detection.,2018,"Gangeshwar Krishnamurthy, Navonil Majumder, Soujanya Poria, Erik Cambria",CoRR abs/1803.00344 ,CORR,Unranked
+305,Multimodal Sentiment Analysis: Addressing Key Issues and Setting up Baselines.,2018,"Soujanya Poria, Navonil Majumder, Devamanyu Hazarika, Erik Cambria, Amir Hussain, Alexander F. Gelbukh",CoRR abs/1803.07427 ,CORR,Unranked
+306,CASCADE: Contextual Sarcasm Detection in Online Discussion Forums.,2018,"Devamanyu Hazarika, Soujanya Poria, Sruthi Gorantla, Erik Cambria, Roger Zimmermann, Rada Mihalcea",CoRR abs/1805.06413 ,CORR,Unranked
+307,Anaphora and Coreference Resolution: A Review.,2018,"Rhea Sukthanker, Soujanya Poria, Erik Cambria, Ramkumar Thirunavukarasu",CoRR abs/1805.11824 ,CORR,Unranked
+308,Multimodal Sentiment Analysis using Hierarchical Fusion with Context Modeling.,2018,"Navonil Majumder, Devamanyu Hazarika, Alexander F. Gelbukh, Erik Cambria, Soujanya Poria",CoRR abs/1806.06228 ,CORR,Unranked
+309,Concept-Based Embeddings for Natural Language Processing.,2018,"Yukun Ma, Erik Cambria",CoRR abs/1807.05519 ,CORR,Unranked
+310,GPU-based Commonsense Paradigms Reasoning for Real-Time Query Answering and Multimodal Analysis.,2018,"Ha Nguyen Tran, Erik Cambria",CoRR abs/1807.08804 ,CORR,Unranked
+311,Semantically Enhanced Models for Commonsense Knowledge Acquisition.,2018,"Ikhlas Alhussien, Erik Cambria, Zhang NengSheng",CoRR abs/1809.04708 ,CORR,Unranked
+312,MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations.,2018,"Soujanya Poria, Devamanyu Hazarika, Navonil Majumder, Gautam Naik, Erik Cambria, Rada Mihalcea",CoRR abs/1810.02508 ,CORR,Unranked
+313,Named Entity Analysis and Extraction with Uncommon Words.,2018,"Xiaoshi Zhong, Erik Cambria, Jagath C. Rajapakse",CoRR abs/1810.06818 ,CORR,Unranked
+314,DialogueRNN: An Attentive RNN for Emotion Detection in Conversations.,2018,"Navonil Majumder, Soujanya Poria, Devamanyu Hazarika, Rada Mihalcea, Alexander F. Gelbukh, Erik Cambria",CoRR abs/1811.00405 ,CORR,Unranked
+315,Discovering Power Laws in Entity Length.,2018,"Xiaoshi Zhong, Erik Cambria, Jagath C. Rajapakse",CoRR abs/1811.03325 ,CORR,Unranked
+316,Multilingual sentiment analysis: from formal to informal and scarce resource languages.,2017,"Siaw Ling Lo, Erik Cambria, Raymond Chiong, David Cornforth",Artif. Intell. Rev. 48: 499-527 ,AIR,Unranked
+317,Semi-supervised Learning for Affective Common-Sense Reasoning.,2017,"Luca Oneto, Federica Bisio, Erik Cambria, Davide Anguita",Cogn. Comput. 9: 18-42 ,COGCOM,Unranked
+318,SLT-Based ELM for Big Social Data Analysis.,2017,"Luca Oneto, Federica Bisio, Erik Cambria, Davide Anguita",Cogn. Comput. 9: 259-274 ,COGCOM,Unranked
+319,A Review of Sentiment Analysis Research in Chinese Language.,2017,"Haiyun Peng, Erik Cambria, Amir Hussain",Cogn. Comput. 9: 423-435 ,COGCOM,Unranked
+320,Storages Are Not Forever.,2017,"Erik Cambria, Anupam Chattopadhyay, Eike Linn, Bappaditya Mandal, Bebo White",Cogn. Comput. 9: 646-658 ,COGCOM,Unranked
+321,Learning Word Representations for Sentiment Analysis.,2017,"Yang Li, Quan Pan, Tao Yang, Suhang Wang, Jiliang Tang, Erik Cambria",Cogn. Comput. 9: 843-851 ,COGCOM,Unranked
+322,Subjectivity Detection in Nuclear Energy Tweets.,2017,"Ranjan Satapathy, Iti Chaturvedi, Erik Cambria, Shirley S. Ho, Jin-Cheon Na",Computación y Sistemas 21 ,CYS,Unranked
+323,Deep Learning-Based Document Modeling for Personality Detection from Text.,2017,"Navonil Majumder, Soujanya Poria, Alexander F. Gelbukh, Erik Cambria",IEEE Intell. Syst. 32: 74-79 ,EXPERT,Unranked
+324,Sentiment Analysis Is a Big Suitcase.,2017,"Erik Cambria, Soujanya Poria, Alexander F. Gelbukh, Mike Thelwall",IEEE Intell. Syst. 32: 74-80 ,EXPERT,Unranked
+325,Ensemble application of convolutional neural networks and multiple kernel learning for multimodal sentiment analysis.,2017,"Soujanya Poria, Haiyun Peng, Amir Hussain, Newton Howard, Erik Cambria",Neurocomputing 261: 217-230 ,IJON,Unranked
+326,A review of affective computing: From unimodal analysis to multimodal fusion.,2017,"Soujanya Poria, Erik Cambria, Rajiv Bajpai, Amir Hussain",Inf. Fusion 37: 98-125 ,INFFUS,Unranked
+327,Affective Reasoning for Big Social Data Analysis.,2017,"Erik Cambria, Amir Hussain, Alessandro Vinciarelli",IEEE Trans. Affect. Comput. 8: 426-427 ,TAFFCO,Unranked
+328,Time Expression Analysis and Recognition Using Syntactic Token Types and General Heuristic Rules.,2017,"Xiaoshi Zhong, Aixin Sun, Erik Cambria",ACL  2017: 420-429,ACL,A*
+329,Context-Dependent Sentiment Analysis in User-Generated Videos.,2017,"Soujanya Poria, Erik Cambria, Devamanyu Hazarika, Navonil Majumder, Amir Zadeh, Louis-Philippe Morency",ACL  2017: 873-883,ACL,A*
+330,CSenticNet: A Concept-Level Resource for Sentiment Analysis in Chinese Language.,2017,"Haiyun Peng, Erik Cambria",CICLing  2017: 90-104,CICLING,C
+331,Benchmarking Multimodal Sentiment Analysis.,2017,"Erik Cambria, Devamanyu Hazarika, Soujanya Poria, Amir Hussain, R. B. V. Subramanyam",CICLing  2017: 166-179,CICLING,C
+332,ASR Hypothesis Reranking Using Prior-Informed Restricted Boltzmann Machine.,2017,"Yukun Ma, Erik Cambria, Benjamin Bigot",CICLing  2017: 503-514,CICLING,C
+333,Efficient Semantic Search Over Structured Web Data: A GPU Approach.,2017,"Ha Nguyen Tran, Erik Cambria, Hoang Giang Do",CICLing  2017: 549-562,CICLING,C
+334,Classifying World Englishes from a Lexical Perspective: A Corpus-Based Approach.,2017,"Frank Z. Xing, Danyuan Ho, Diyana Hamzah, Erik Cambria",CICLing  2017: 564-575,CICLING,C
+335,Learning Community Embedding with Community Detection and Node Embedding on Graphs.,2017,"Sandro Cavallari, Vincent W. Zheng, Hongyun Cai, Kevin Chen-Chuan Chang, Erik Cambria",CIKM 2017: 377-386,CIKM,A
+336,Open Secrets and Wrong Rights: Automatic Satire Detection in English Text.,2017,"Aishwarya N. Reganti, Tushar Maheshwari, Amitava Das, Erik Cambria",CSCW Companion 2017: 291-294,CSCW,A
+337,Tensor Fusion Network for Multimodal Sentiment Analysis.,2017,"Amir Zadeh, Minghai Chen, Soujanya Poria, Erik Cambria, Louis-Philippe Morency",EMNLP 2017: 1103-1114,EMNLP,A*
+338,Semantic Sentiment Analysis Challenge at ESWC2017.,2017,"Diego Reforgiato Recupero, Erik Cambria, Emanuele Di Rosa",SemWebEval@ESWC 2017: 109-123,ESWS,Unranked
+339,Learning Word Vectors in Deep Walk using Convolution.,2017,"Iti Chaturvedi, Erik Cambria, Sandro Cavallari, Vincent Wenchen Zheng",FLAIRS 2017: 323-328,FLAIRS,Unranked
+340,MediConceptNet: An Affinity Score Based Medical Concept Network.,2017,"Anupam Mondal, Erik Cambria, Dipankar Das, Sivaji Bandyopadhyay",FLAIRS 2017: 335-340,FLAIRS,Unranked
+341,Radical-Based Hierarchical Embeddings for Chinese Sentiment Analysis at Sentence Level.,2017,"Haiyun Peng, Erik Cambria, Xiaomei Zou",FLAIRS 2017: 347-352,FLAIRS,Unranked
+342,Tracing Linguistic Relations in Winning and Losing Sides of Explicit Opposing Groups.,2017,"Ceyda Sanli, Anupam Mondal, Erik Cambria",FLAIRS 2017: 365-370,FLAIRS,Unranked
+343,"""Hang In There: "" Lexical and Visual Analysis to Identify Posts Warranting Empathetic Responses.",2017,"Mimansa Jaiswal, Sairam Tabibu, Erik Cambria",FLAIRS 2017: 377-381,FLAIRS,Unranked
+344,Let's Chat about Brexit! A Politically-Sensitive Dialog System Based on Twitter Data.,2017,"Aparup Khatua, Erik Cambria, Apalak Khatua, Iti Chaturvedi",ICDM Workshops 2017: 393-398,ICDM,A*
+345,Phonetic-Based Microtext Normalization for Twitter Sentiment Analysis.,2017,"Ranjan Satapathy, Claudia Guerreiro, Iti Chaturvedi, Erik Cambria",ICDM Workshops 2017: 407-413,ICDM,A*
+346,Multi-level Multiple Attentions for Contextual Multimodal Sentiment Analysis.,2017,"Soujanya Poria, Erik Cambria, Devamanyu Hazarika, Navonil Majumder, Amir Zadeh, Louis-Philippe Morency",ICDM 2017: 1033-1038,ICDM,A*
+347,Ensemble application of convolutional and recurrent neural networks for multi-label text categorization.,2017,"Guibin Chen, Deheng Ye, Zhenchang Xing, Jieshan Chen, Erik Cambria",IJCNN 2017: 2377-2383,IJCNN,B
+348,Predicting evolving chaotic time series with fuzzy neural networks.,2017,"Frank Z. Xing, Erik Cambria, Xiaomei Zou",IJCNN 2017: 3176-3183,IJCNN,B
+349,Adaptive two-stage feature selection for sentiment classification.,2017,"Chi Xu, Puay Siew Tan, Erik Cambria",SMC 2017: 1238-1243,SMC,B
+350,Employing sentiment-based affinity and gravity scores to identify relations of medical concepts.,2017,"Anupam Mondal, Erik Cambria, Dipankar Das, Sivaji Bandyopadhyay",SSCI 2017: 1-7,SSCI,Unranked
+351,Auto-categorization of medical concepts and contexts.,2017,"Anupam Mondal, Erik Cambria, Antonio Feraco, Dipankar Das, Sivaji Bandyopadhyay",SSCI 2017: 1-7,SSCI,Unranked
+352,Tracing Linguistic Relations in Winning and Losing Sides of Explicit Opposing Groups.,2017,"Ceyda Sanli, Anupam Mondal, Erik Cambria",CoRR abs/1703.00317 ,CORR,Unranked
+353,Developing a concept-level knowledge base for sentiment analysis in Singlish.,2017,"Rajiv Bajpai, Soujanya Poria, Danyuan Ho, Erik Cambria",CoRR abs/1707.04408 ,CORR,Unranked
+354,Tensor Fusion Network for Multimodal Sentiment Analysis.,2017,"Amir Zadeh, Minghai Chen, Soujanya Poria, Erik Cambria, Louis-Philippe Morency",CoRR abs/1707.07250 ,CORR,Unranked
+355,Benchmarking Multimodal Sentiment Analysis.,2017,"Erik Cambria, Devamanyu Hazarika, Soujanya Poria, Amir Hussain, R. B. V. Subramanyam",CoRR abs/1707.09538 ,CORR,Unranked
+356,Recent Trends in Deep Learning Based Natural Language Processing.,2017,"Tom Young, Devamanyu Hazarika, Soujanya Poria, Erik Cambria",CoRR abs/1708.02709 ,CORR,Unranked
+357,Disentangled Variational Auto-Encoder for Semi-supervised Learning.,2017,"Yang Li, Quan Pan, Suhang Wang, Haiyun Peng, Tao Yang, Erik Cambria",CoRR abs/1709.05047 ,CORR,Unranked
+358,Basic tasks of sentiment analysis.,2017,"Iti Chaturvedi, Soujanya Poria, Erik Cambria",CoRR abs/1710.06536 ,CORR,Unranked
+359,A concept-level approach to the analysis of online review helpfulness.,2016,"Atika Qazi, Karim Bux Shah Syed, Ram Gopal Raj, Erik Cambria, Muhammad Tahir, Daniyal M. Al-Ghazzawi",Comput. Hum. Behav. 58: 75-81 ,CHB,Unranked
+360,Computational Intelligence for Big Social Data Analysis [Guest Editorial].,2016,"Erik Cambria, Newton Howard, Yunqing Xia, Tat-Seng Chua",IEEE Comput. Intell. Mag. 11: 8-9 ,CIM,Unranked
+361,Statistical Learning Theory and ELM for Big Social Data Analysis.,2016,"Luca Oneto, Federica Bisio, Erik Cambria, Davide Anguita",IEEE Comput. Intell. Mag. 11: 45-55 ,CIM,Unranked
+362,Unsupervised Commonsense Knowledge Enrichment for Domain-Specific Sentiment Analysis.,2016,"Nir Ofek, Soujanya Poria, Lior Rokach, Erik Cambria, Amir Hussain, Asaf Shabtai",Cogn. Comput. 8: 467-477 ,COGCOM,Unranked
+363,Multilingual Sentiment Analysis: State of the Art and Independent Comparison of Techniques.,2016,"Kia Dashtipour, Soujanya Poria, Amir Hussain, Erik Cambria, Ahmad Y. A. Hawalah, Alexander F. Gelbukh, Qiang Zhou",Cogn. Comput. 8: 757-771 ,COGCOM,Unranked
+364,Erratum to: Multilingual Sentiment Analysis: State of the Art and Independent Comparison of Techniques.,2016,"Kia Dashtipour, Soujanya Poria, Amir Hussain, Erik Cambria, Ahmad Y. A. Hawalah, Alexander F. Gelbukh, Qiang Zhou",Cogn. Comput. 8: 772-775 ,COGCOM,Unranked
+365,Towards GPU-Based Common-Sense Reasoning: Using Fast Subgraph Matching.,2016,"Ha Nguyen Tran, Erik Cambria, Amir Hussain",Cogn. Comput. 8: 1074-1086 ,COGCOM,Unranked
+366,Affective Computing and Sentiment Analysis.,2016,Erik Cambria,IEEE Intell. Syst. 31: 102-107 ,EXPERT,Unranked
+367,"Fusing audio, visual and textual clues for sentiment analysis from multimodal content.",2016,"Soujanya Poria, Erik Cambria, Newton Howard, Guang-Bin Huang, Amir Hussain",Neurocomputing 174: 50-59 ,IJON,Unranked
+368,Emotion and sentiment in social and expressive media: Introduction to the special issue.,2016,"Paolo Rosso, Cristina Bosco, Rossana Damiano, Viviana Patti, Erik Cambria",Inf. Process. Manag. 52: 1-4 ,IPM,Unranked
+369,"Polarity shift detection, elimination and ensemble: A three-stage model for document-level sentiment analysis.",2016,"Rui Xia, Feng Xu, Jianfei Yu, Yong Qi, Erik Cambria",Inf. Process. Manag. 52: 36-45 ,IPM,Unranked
+370,A multilingual semi-supervised approach in deriving Singlish sentic patterns for polarity detection.,2016,"Siaw Ling Lo, Erik Cambria, Raymond Chiong, David Cornforth",Knowl. Based Syst. 105: 236-247 ,KBS,Unranked
+371,New avenues in knowledge bases for natural language processing.,2016,"Erik Cambria, Björn W. Schuller, Yunqing Xia, Bebo White",Knowl. Based Syst. 108: 1-4 ,KBS,Unranked
+372,Aspect extraction for opinion mining with a deep convolutional neural network.,2016,"Soujanya Poria, Erik Cambria, Alexander F. Gelbukh",Knowl. Based Syst. 108: 42-49 ,KBS,Unranked
+373,Learning word dependencies in text by means of a deep recurrent belief network.,2016,"Iti Chaturvedi, Yew-Soon Ong, Ivor W. Tsang, Roy E. Welsch, Erik Cambria",Knowl. Based Syst. 108: 144-154 ,KBS,Unranked
+374,PerSent: A Freely Available Persian Sentiment Lexicon.,2016,"Kia Dashtipour, Amir Hussain, Qiang Zhou, Alexander F. Gelbukh, Ahmad Y. A. Hawalah, Erik Cambria",BICS 2016: 310-320,BICS,Unranked
+375,Developing a Concept-Level Knowledge Base for Sentiment Analysis in Singlish.,2016,"Rajiv Bajpai, Danyuan Ho, Erik Cambria",CICLing  2016: 347-361,CICLING,C
+376,GpSense: A GPU-Friendly Method for Commonsense Subgraph Matching in Massively Parallel Architectures.,2016,"Ha Nguyen Tran, Erik Cambria",CICLing  2016: 547-559,CICLING,C
+377,Label Embedding for Zero-shot Fine-grained Named Entity Typing.,2016,"Yukun Ma, Erik Cambria, Sa Gao",COLING 2016: 171-180,COLING,B
+378,A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks.,2016,"Soujanya Poria, Erik Cambria, Devamanyu Hazarika, Prateek Vij",COLING 2016: 1601-1612,COLING,B
+379,SenticNet 4: A Semantic Resource for Sentiment Analysis Based on Conceptual Primitives.,2016,"Erik Cambria, Soujanya Poria, Rajiv Bajpai, Björn W. Schuller",COLING 2016: 2666-2677,COLING,B
+380,GECKA3D: A 3D Game Engine for Commonsense Knowledge Acquisition.,2016,"Erik Cambria, Tam V. Nguyen, Brian Cheng, Kenneth Kwok, Jose Sepulveda",FLAIRS 2016: 299-303,FLAIRS,Unranked
+381,Convolutional MKL Based Multimodal Emotion Recognition and Sentiment Analysis.,2016,"Soujanya Poria, Iti Chaturvedi, Erik Cambria, Amir Hussain",ICDM 2016: 439-448,ICDM,A*
+382,Bayesian Deep Convolution Belief Networks for Subjectivity Detection.,2016,"Iti Chaturvedi, Erik Cambria, Soujanya Poria, Rajiv Bajpai",ICDM Workshops 2016: 916-923,ICDM,A*
+383,Weakly supervised semantic segmentation with superpixel embedding.,2016,"Frank Z. Xing, Erik Cambria, Win-Bin Huang, Yang Xu",ICIP 2016: 1269-1273,ICIP,B
+384,Sentic LDA: Improving on LDA with semantic similarity for aspect-based sentiment analysis.,2016,"Soujanya Poria, Iti Chaturvedi, Erik Cambria, Federica Bisio",IJCNN 2016: 4465-4473,IJCNN,B
+385,Lyapunov filtering of objectivity for Spanish Sentiment Model.,2016,"Iti Chaturvedi, Erik Cambria, David Vilares",IJCNN 2016: 4474-4481,IJCNN,B
+386,"WME: Sense, Polarity and Affinity based Concept Resource for Medical Events.",2016,"Anupam Mondal, Dipankar Das, Erik Cambria, Sivaji Bandyopadhyay",GWC 2016: 243-248,WORDNET,Unranked
+387,Sentiment-Oriented Information Retrieval: Affective Analysis of Documents Based on the SenticNet Framework.,2016,"Federica Bisio, Claudia Meda, Paolo Gastaldo, Rodolfo Zunino, Erik Cambria",Sentiment Analysis and Ontology Engineering 2016: 175-197,SCI,Unranked
+388,"Proceedings of the 4th Workshop on Sentiment Analysis where AI meets Psychology (SAAIP 2016) co-located with 25th International Joint Conference on Artificial Intelligence (IJCAI 2016), New York City, USA, July 10, 2016.",2016,"Sivaji Bandyopadhyay, Dipankar Das, Erik Cambria, Braja Gopal Patra","CEUR Workshop Proceedings 1619, CEUR-WS.org 2016 ",IJCAI,A*
+389,GECKA3D: A 3D Game Engine for Commonsense Knowledge Acquisition.,2016,"Erik Cambria, Tam V. Nguyen, Brian Cheng, Kenneth Kwok, Jose Sepulveda",CoRR abs/1602.01178 ,CORR,Unranked
+390,A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks.,2016,"Soujanya Poria, Erik Cambria, Devamanyu Hazarika, Prateek Vij",CoRR abs/1610.08815 ,CORR,Unranked
+391,From Node Embedding To Community Embedding.,2016,"Vincent W. Zheng, Sandro Cavallari, Hongyun Cai, Kevin Chen-Chuan Chang, Erik Cambria",CoRR abs/1610.09950 ,CORR,Unranked
+392,New Trends of Learning in Computational Intelligence [Guest Editorial].,2015,"Guang-Bin Huang, Erik Cambria, Kar-Ann Toh, Bernard Widrow, Zongben Xu",IEEE Comput. Intell. Mag. 10: 16-17 ,CIM,Unranked
+393,New Trends of Learning in Computational Intelligence (Part II) [Guest Editorial].,2015,"Guang-Bin Huang, Erik Cambria, Kar-Ann Toh, Bernard Widrow, Zongben Xu",IEEE Comput. Intell. Mag. 10: 8 ,CIM,Unranked
+394,Sentiment Data Flow Analysis by Means of Dynamic Linguistic Patterns.,2015,"Soujanya Poria, Erik Cambria, Alexander F. Gelbukh, Federica Bisio, Amir Hussain",IEEE Comput. Intell. Mag. 10: 26-36 ,CIM,Unranked
+395,Sentic Computing.,2015,"Erik Cambria, Amir Hussain",Cogn. Comput. 7: 183-185 ,COGCOM,Unranked
+396,AspNet: Aspect Extraction by Bootstrapping Generalization and Propagation Using an Aspect Network.,2015,"Yunqing Xia, Erik Cambria, Amir Hussain",Cogn. Comput. 7: 241-253 ,COGCOM,Unranked
+397,Word Polarity Disambiguation Using Bayesian Model and Opinion-Level Features.,2015,"Yunqing Xia, Erik Cambria, Amir Hussain, Huan Zhao",Cogn. Comput. 7: 369-380 ,COGCOM,Unranked
+398,Acoustic template-matching for automatic emergency state detection: An ELM based algorithm.,2015,"Emanuele Principi, Stefano Squartini, Erik Cambria, Francesco Piazza",Neurocomputing 149: 426-434 ,IJON,Unranked
+399,An ELM-based model for affective analogical reasoning.,2015,"Erik Cambria, Paolo Gastaldo, Federica Bisio, Rodolfo Zunino",Neurocomputing 149: 443-455 ,IJON,Unranked
+400,Document Representation with Statistical Word Senses in Cross-Lingual Document Clustering.,2015,"Guoyu Tang, Yunqing Xia, Erik Cambria, Peng Jin, Thomas Fang Zheng",Int. J. Pattern Recognit. Artif. Intell. 29: 1559003:1-1559003:26 ,IJPRAI,Unranked
+401,Towards an intelligent framework for multimodal affective data analysis.,2015,"Soujanya Poria, Erik Cambria, Amir Hussain, Guang-Bin Huang",Neural Networks 63: 104-116 ,NN,Unranked
+402,AffectiveSpace 2: Enabling Affective Intuition for Concept-Level Sentiment Analysis.,2015,"Erik Cambria, Jie Fu, Federica Bisio, Soujanya Poria",AAAI 2015: 508-514,AAAI,A*
+403,The CLSA Model: A Novel Framework for Concept-Level Sentiment Analysis.,2015,"Erik Cambria, Soujanya Poria, Federica Bisio, Rajiv Bajpai, Iti Chaturvedi",CICLing  2015: 3-22,CICLING,C
+404,Modelling Public Sentiment in Twitter: Using Linguistic Patterns to Enhance Supervised Learning.,2015,"Prerna Chikersal, Soujanya Poria, Erik Cambria, Alexander F. Gelbukh, Chng Eng Siong",CICLing  2015: 49-65,CICLING,C
+405,Muscle synergies for reliable classification of arm motions using myoelectric interface.,2015,"Chris Wilson Antuvan, Federica Bisio, Erik Cambria, Lorenzo Masia",EMBC 2015: 1136-1139,EMBC,Unranked
+406,Deep Convolutional Neural Network Textual Features and Multiple Kernel Learning for Utterance-level Multimodal Sentiment Analysis.,2015,"Soujanya Poria, Erik Cambria, Alexander F. Gelbukh",EMNLP 2015: 2539-2544,EMNLP,A*
+407,Semantic Outlier Detection for Affective Common-Sense Reasoning and Concept-Level Sentiment Analysis.,2015,"Erik Cambria, Giuseppe Melfi",FLAIRS 2015: 276-281,FLAIRS,Unranked
+408,GECKA: Game Engine for Commonsense Knowledge Acquisition.,2015,"Erik Cambria, Dheeraj Rajagopal, Kenneth Kwok, Jose Sepulveda",FLAIRS 2015: 282-287,FLAIRS,Unranked
+409,Discriminative Bi-Term Topic Model for Headline-Based Social News Clustering.,2015,"Yunqing Xia, Nan Tang, Amir Hussain, Erik Cambria",FLAIRS 2015: 311-316,FLAIRS,Unranked
+410,Feature Ensemble Plus Sample Selection: Domain Adaptation for Sentiment Classification (Extended Abstract).,2015,"Rui Xia, Chengqing Zong, Xuelei Hu, Erik Cambria",IJCAI 2015: 4229-4233,IJCAI,A*
+411,A learning scheme based on similarity functions for affective common-sense reasoning.,2015,"Federica Bisio, Paolo Gastaldo, Rodolfo Zunino, Erik Cambria",IJCNN 2015: 1-6,IJCNN,B
+412,SeNTU: Sentiment Analysis of Tweets by Combining a Rule-based Classifier with Supervised Learning.,2015,"Prerna Chikersal, Soujanya Poria, Erik Cambria",SemEval@NAACL-HLT 2015: 647-651,SEMEVAL,Unranked
+413,"Proceedings of the third International Workshop on Natural Language Processing for Social Media, SocialNLP@NAACL 2015, Denver, Colorado, USA, June 5, 2015.",2015,"Shou-de Lin, Lun-Wei Ku, Cheng-Te Li, Erik Cambria","Association for Computational Linguistics 2015, ISBN 978-1-941643-48-8 ",ACL-SOCIALNLP,Unranked
+414,"Proceedings of the 2nd International Workshop on Emotion and Sentiment in Social and Expressive Media: Opportunities and Challenges for Emotion-aware Multiagent Systems co-located with 14th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2015), Istanbul, Turkey, May 5, 2015.",2015,"Cristina Bosco, Erik Cambria, Rossana Damiano, Viviana Patti, Paolo Rosso","CEUR Workshop Proceedings 1351, CEUR-WS.org 2015 ",ATAL,Unranked
+415,"Joint Proceedings of the 1th Workshop on Semantic Sentiment Analysis (SSA2014), and the Workshop on Social Media and Linked Data for Emergency Response (SMILE 2014) co-located with 11th European Semantic Web Conference (ESWC 2014), Crete, Greece, May 25th, 2014.",2015,"Aldo Gangemi, Harith Alani, Malvina Nissim, Erik Cambria, Diego Reforgiato Recupero, Vitaveska Lanfranchi, Tomi Kauppinen","CEUR Workshop Proceedings 1329, CEUR-WS.org 2015 ",ESWS,Unranked
+416,Computational Intelligence for Natural Language Processing [Guest Editorial].,2014,"Erik Cambria, Bebo White, Tariq S. Durrani, Newton Howard",IEEE Comput. Intell. Mag. 9: 19-63 ,CIM,Unranked
+417,Jumping NLP Curves: A Review of Natural Language Processing Research [Review Article].,2014,"Erik Cambria, Bebo White",IEEE Comput. Intell. Mag. 9: 48-57 ,CIM,Unranked
+418,Semantic Multidimensional Scaling for Open-Domain Sentiment Analysis.,2014,"Erik Cambria, Yangqiu Song, Haixun Wang, Newton Howard",IEEE Intell. Syst. 29: 44-51 ,EXPERT,Unranked
+419,Guest Editorial: Big Social Data Analysis.,2014,"Erik Cambria, Haixun Wang, Bebo White",Knowl. Based Syst. 69: 1-2 ,KBS,Unranked
+420,Sentic patterns: Dependency-based rules for concept-level sentiment analysis.,2014,"Soujanya Poria, Erik Cambria, Grégoire Winterstein, Guang-Bin Huang",Knowl. Based Syst. 69: 45-63 ,KBS,Unranked
+421,EmoSenticSpace: A novel framework for affective common-sense reasoning.,2014,"Soujanya Poria, Alexander F. Gelbukh, Erik Cambria, Amir Hussain, Guang-Bin Huang",Knowl. Based Syst. 69: 108-123 ,KBS,Unranked
+422,Affective neural networks and cognitive learning systems for big data analysis.,2014,"Amir Hussain, Erik Cambria, Björn W. Schuller, Newton Howard",Neural Networks 58: 1-3 ,NN,Unranked
+423,SenticNet 3: A Common and Common-Sense Knowledge Base for Cognition-Driven Sentiment Analysis.,2014,"Erik Cambria, Daniel Olsher, Dheeraj Rajagopal",AAAI 2014: 1515-1521,AAAI,A*
+424,A Rule-Based Approach to Aspect Extraction from Product Reviews.,2014,"Soujanya Poria, Erik Cambria, Lun-Wei Ku, Chen Gui, Alexander F. Gelbukh",SocialNLP@COLING 2014: 28-37,ACL-SOCIALNLP,Unranked
+425,ESWC'14 Challenge on Concept-Level Sentiment Analysis.,2014,"Diego Reforgiato Recupero, Erik Cambria",SemWebEval@ESWC 2014: 3-20,ESWS,Unranked
+426,Common and Common-Sense Knowledge Integration for Concept-Level Sentiment Analysis.,2014,"Erik Cambria, Newton Howard",FLAIRS 2014,FLAIRS,Unranked
+427,Using Word Sense as a Latent Variable in LDA Can Improve Topic Modeling.,2014,"Yunqing Xia, Guoyu Tang, Huan Zhao, Erik Cambria, Thomas Fang Zheng",ICAART  2014: 532-537,ICAART,B
+428,Commonsense Knowledge as the Glue in a Hybrid Model of Computational Creativity.,2014,"Andrés Gómez de Silva Garza, Erik Cambria, Rafael Pérez y Pérez",ICDM Workshops 2014: 360-364,ICDM,A*
+429,A Localization Toolkit for Sentic Net.,2014,"Yunqing Xia, Xiaoyu Li, Erik Cambria, Amir Hussain",ICDM Workshops 2014: 403-408,ICDM,A*
+430,Sentic API: A Common and Common-Sense Knowledge API for Cognition-Driven Sentiment Analysis.,2014,"Erik Cambria, Soujanya Poria, Alexander F. Gelbukh, Kenneth Kwok",#MSM 2014: 19-24,MSM,Unranked
+431,Concept-level sentiment analysis: a world wide web conference 2014 tutorial.,2014,Erik Cambria,WWW  2014: 187-188,WWW,A*
+432,Collective copyright: enabling the natural evolution of content creation in the web era.,2014,"Emanuele Lunadei, Christian Valdivia Torres, Erik Cambria",WWW  2014: 1103-1108,WWW,A*
+433,"Proceedings of the Second Workshop on Natural Language Processing for Social Media, SocialNLP@COLING 2014, Dublin, Ireland, August 24, 2014.",2014,"Shou-de Lin, Lun-Wei Ku, Erik Cambria, Tsung-Ting Kuo","Association for Computational Linguistics and Dublin City University 2014, ISBN 978-1-873769-45-4 ",ACL-SOCIALNLP,Unranked
+434,"Semantic Web Evaluation Challenge - SemWebEval 2014 at ESWC 2014, Anissaras, Crete, Greece, May 25-29, 2014, Revised Selected Papers.",2014,"Valentina Presutti, Milan Stankovic, Erik Cambria, Iván Cantador, Angelo Di Iorio, Tommaso Di Noia, Christoph Lange, Diego Reforgiato Recupero, Anna Tordai","Communications in Computer and Information Science 475, Springer 2014, ISBN 978-3-319-12023-2 ",ESWS,Unranked
+435,Common Sense Knowledge for Handwritten Chinese Text Recognition.,2013,"Qiu-Feng Wang, Erik Cambria, Cheng-Lin Liu, Amir Hussain",Cogn. Comput. 5: 234-242 ,COGCOM,Unranked
+436,Knowledge-Based Approaches to Concept-Level Sentiment Analysis.,2013,"Erik Cambria, Björn W. Schuller, Bing Liu, Haixun Wang, Catherine Havasi",IEEE Intell. Syst. 28: 12-14 ,EXPERT,Unranked
+437,New Avenues in Opinion Mining and Sentiment Analysis.,2013,"Erik Cambria, Björn W. Schuller, Yunqing Xia, Catherine Havasi",IEEE Intell. Syst. 28: 15-21 ,EXPERT,Unranked
+438,Statistical Approaches to Concept-Level Sentiment Analysis.,2013,"Erik Cambria, Björn W. Schuller, Bing Liu, Haixun Wang, Catherine Havasi",IEEE Intell. Syst. 28: 6-9 ,EXPERT,Unranked
+439,Feature Ensemble Plus Sample Selection: Domain Adaptation for Sentiment Classification.,2013,"Rui Xia, Chengqing Zong, Xuelei Hu, Erik Cambria",IEEE Intell. Syst. 28: 10-18 ,EXPERT,Unranked
+440,Extreme Learning Machines.,2013,"Erik Cambria, Guang-Bin Huang, Liyanaarachchi Lekamalage Chamara Kasun, Hongming Zhou, Chi-Man Vong, Jiarun Lin, Jianping Yin, Zhiping Cai, Qiang Liu, Kuan Li, Victor C. M. Leung, Liang Feng, Yew-Soon Ong, Meng-Hiot Lim, Anton Akusok, Amaury Lendasse, Francesco Corona, Rui Nian, Yoan Miche, Paolo Gastaldo, Rodolfo Zunino, Sergio Decherchi, Xuefeng Yang, Kezhi Mao, Beom-Seok Oh, Je-Hyoung Jeon, Kar-Ann Toh, Andrew Beng Jin Teoh, Jaihie Kim, Hanchao Yu, Yiqiang Chen, Junfa Liu",IEEE Intell. Syst. 28: 30-59 ,EXPERT,Unranked
+441,Intention awareness: improving upon situation awareness in human-centric environments.,2013,"Newton Howard, Erik Cambria",Hum. centric Comput. Inf. Sci. 3: 9 ,HCIS,Unranked
+442,Circular-ELM for the reduced-reference assessment of perceived image quality.,2013,"Sergio Decherchi, Paolo Gastaldo, Rodolfo Zunino, Erik Cambria, Judith Redi",Neurocomputing 102: 78-89 ,IJON,Unranked
+443,Data intensive review mining for sentiment classification across heterogeneous domains.,2013,"Federica Bisio, Paolo Gastaldo, Chiara Peretti, Rodolfo Zunino, Erik Cambria",ASONAM 2013: 1061-1067,ASUNAM,Unranked
+444,Sentic blending: Scalable multimodal fusion for the continuous interpretation of semantics and sentics.,2013,"Erik Cambria, Newton Howard, Jane Yung-jen Hsu, Amir Hussain",CIHLI 2013: 108-117,CIHLI,Unranked
+445,Inducing Word Senses for Cross-lingual Document Clustering.,2013,"Guoyu Tang, Yunqing Xia, Erik Cambria, Peng Jin",CIS 2013: 409-414,CIS,C
+446,Inducing Word Senses for Cross-lingual Document Clustering.,2013,"Guoyu Tang, Yunqing Xia, Erik Cambria, Peng Jin",CIS 2013: 409-414,CIS,National
+447,Enhancing Sentiment Classification Performance Using Bi-Tagged Phrases.,2013,"Basant Agarwal, Namita Mittal, Erik Cambria",ICDM Workshops 2013: 892-895,ICDM,A*
+448,Commonsense-based topic modeling.,2013,"Dheeraj Rajagopal, Daniel Olsher, Erik Cambria, Kenneth Kwok",WISDOM 2013: 6:1-6:8,KDD,A*
+449,An Introduction to Concept-Level Sentiment Analysis.,2013,Erik Cambria,MICAI  2013: 478-483,MICAI,Unranked
+450,Common Sense Knowledge Based Personality Recognition from Text.,2013,"Soujanya Poria, Alexander F. Gelbukh, Basant Agarwal, Erik Cambria, Newton Howard",MICAI  2013: 484-496,MICAI,Unranked
+451,Erratum: Common Sense Knowledge Based Personality Recognition from Text.,2013,"Soujanya Poria, Alexander F. Gelbukh, Basant Agarwal, Erik Cambria, Newton Howard",MICAI  2013,MICAI,Unranked
+452,A graph-based approach to commonsense concept extraction and semantic similarity detection.,2013,"Dheeraj Rajagopal, Erik Cambria, Daniel Olsher, Kenneth Kwok",WWW  2013: 565-570,WWW,A*
+453,"Sentic Computing for Social Media Analysis, Representation, and Retrieval.",2013,"Erik Cambria, Marco Grassi, Soujanya Poria, Amir Hussain",Social Media Retrieval 2013: 191-215,CCN,Unranked
+454,"Proceedings of the First International Workshop on Emotion and Sentiment in Social and Expressive Media: approaches and perspectives from AI (ESSEM 2013) A workshop of the XIII International Conference of the Italian Association for Artificial Intelligence (AI*IA 2013), Turin, Italy, December 3, 2013.",2013,"Cristina Battaglino, Cristina Bosco, Erik Cambria, Rossana Damiano, Viviana Patti, Paolo Rosso","CEUR Workshop Proceedings 1096, CEUR-WS.org 2013 ",AIIA,Unranked
+455,"Proceedings of the Second International Workshop on Issues of Sentiment Discovery and Opinion Mining, WISDOM 2013, Chicago, IL, USA, August 11, 2013.",2013,"Erik Cambria, Bing Liu, Yongzheng Zhang, Yunqing Xia","ACM 2013, ISBN 978-1-4503-2332-1 ",KDD,A*
+456,"Sentic Album: Content-, Concept-, and Context-Based Online Personal Photo Management System.",2012,"Erik Cambria, Amir Hussain",Cogn. Comput. 4: 477-496 ,COGCOM,Unranked
+457,Sentic PROMs: Application of sentic computing to the development of a novel unified framework for measuring health-care quality.,2012,"Erik Cambria, Tim Benson, Chris Eckl, Amir Hussain",Expert Syst. Appl. 39: 10533-10543 ,ESWA,Unranked
+458,Sentic Computing for social media marketing.,2012,"Erik Cambria, Marco Grassi, Amir Hussain, Catherine Havasi",Multim. Tools Appl. 59: 557-577 ,MTA,Unranked
+459,Sentic Activation: A Two-Level Affective Common Sense Reasoning Framework.,2012,"Erik Cambria, Daniel Olsher, Kenneth Kwok",AAAI 2012: 186-192,AAAI,A*
+460,Sentic Neural Networks: A Novel Cognitive Model for Affective Common Sense Reasoning.,2012,"Thomas Mazzocco, Erik Cambria, Amir Hussain, Qiu-Feng Wang",BICS 2012: 12-21,BICS,Unranked
+461,Sentic Panalogy: Swapping Affective Common Sense Reasoning Strategies and Foci.,2012,"Erik Cambria, Daniel Olsher, Kenneth Kwok",CogSci 2012,COGSCI,Unranked
+462,SenticNet 2: A Semantic and Affective Resource for Opinion Mining and Sentiment Analysis.,2012,"Erik Cambria, Catherine Havasi, Amir Hussain",FLAIRS 2012,FLAIRS,Unranked
+463,Enriching SenticNet Polarity Scores through Semi-Supervised Fuzzy Clustering.,2012,"Soujanya Poria, Alexander F. Gelbukh, Erik Cambria, Dipankar Das, Sivaji Bandyopadhyay",ICDM Workshops 2012: 709-716,ICDM,A*
+464,Towards IMACA: Intelligent Multimodal Affective Conversational Agent.,2012,"Amir Hussain, Erik Cambria, Thomas Mazzocco, Marco Grassi, Qiu-Feng Wang, Tariq S. Durrani",ICONIP  2012: 656-663,ICONIP,B
+465,Towards a Chinese Common and Common Sense Knowledge Base for Sentiment Analysis.,2012,"Erik Cambria, Amir Hussain, Tariq S. Durrani, Jiajun Zhang",IEA/AIE 2012: 437-446,IEAAIE,Unranked
+466,Clustering Social Networks Using Interaction Semantics and Sentics.,2012,"Praphul Chandra, Erik Cambria, Amir Hussain",ISNN  2012: 379-385,ISNN,C
+467,Sentic Maxine: Multimodal Affective Fusion and Emotional Paths.,2012,"Isabelle Hupont, Erik Cambria, Eva Cerezo, Amir Hussain, Sandra Baldassarri",ISNN  2012: 555-565,ISNN,C
+468,Affective Common Sense Knowledge Acquisition for Sentiment Analysis.,2012,"Erik Cambria, Yunqing Xia, Amir Hussain",LREC 2012: 3580-3585,LREC,B
+469,Application of common sense computing for the development of a novel knowledge-based opinion mining engine.,2011,Erik Cambria,"University of Stirling, UK, 2011",NAN,Unranked
+470,Sentic Web: A New Paradigm for Managing Social Media Affective Information.,2011,"Marco Grassi, Erik Cambria, Amir Hussain, Francesco Piazza",Cogn. Comput. 3: 480-489 ,COGCOM,Unranked
+471,The Hourglass of Emotions.,2011,"Erik Cambria, Andrew G. Livingstone, Amir Hussain",COST 2102 Training School 2011: 144-157,COST,Unranked
+472,Isanette: A Common and Common Sense Knowledge Base for Opinion Mining.,2011,"Erik Cambria, Yangqiu Song, Haixun Wang, Amir Hussain",ICDM Workshops 2011: 315-322,ICDM,A*
+473,Sentic Medoids: Organizing Affective Common Sense Knowledge in a Multi-Dimensional Vector Space.,2011,"Erik Cambria, Thomas Mazzocco, Amir Hussain, Chris Eckl",ISNN  2011: 601-610,ISNN,C
+474,Semantic Models for Style-Based Text Clustering.,2011,"Alessio Leoncini, Fabio Sangiacomo, Chiara Peretti, Sonia Argentesi, Rodolfo Zunino, Erik Cambria",ICSC 2011: 75-82,SEMCO,Unranked
+475,SenticNet: A Publicly Available Semantic Resource for Opinion Mining.,2010,"Erik Cambria, Robyn Speer, Catherine Havasi, Amir Hussain",AAAI Fall Symposium: Commonsense Knowledge 2010,AAAIFS,Unranked
+476,Switching Between Different Ways to Think - Multiple Approaches to Affective Common Sense Reasoning.,2010,"Erik Cambria, Thomas Mazzocco, Amir Hussain, Tariq S. Durrani",COST 2102 Conference 2010: 56-69,COST,Unranked
+477,Sentic Avatar: Multimodal Affective Conversational Agent with Common Sense.,2010,"Erik Cambria, Isabelle Hupont, Amir Hussain, Eva Cerezo, Sandra Baldassarri",COST 2102 Training School 2010: 81-95,COST,Unranked
+478,SenticSpace: Visualizing Opinions and Sentiments in a Multi-dimensional Vector Space.,2010,"Erik Cambria, Amir Hussain, Catherine Havasi, Chris Eckl",KES  2010: 385-393,KES,B
+479,Sentic Computing: Exploitation of Common Sense for the Development of Emotion-Sensitive Systems.,2009,"Erik Cambria, Amir Hussain, Catherine Havasi, Chris Eckl",COST 2102 Training School 2009: 148-156,COST,Unranked
+480,Common Sense Computing: From the Society of Mind to Digital Intuition and beyond.,2009,"Erik Cambria, Amir Hussain, Catherine Havasi, Chris Eckl",COST 2101/2102 Conference 2009: 252-259,COST,Unranked

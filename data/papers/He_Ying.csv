@@ -1,0 +1,236 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Robust and Accurate Feature Detection on Point Clouds.,2023,"Zheng Liu, Xiaopeng Xin, Zheng Xu, Weijie Zhou, Chunxue Wang, Renjie Chen, Ying He",Comput. Aided Des. 164: 103592 ,CAD,Unranked
+1,GBGVD: Growth-based geodesic Voronoi diagrams.,2023,"Yunjia Qi, Chen Zong, Yunxiao Zhang, Shuang-Min Chen, Minfeng Xu, Lingqiang Ran, Jian Xu, Shiqing Xin, Ying He",Graph. Model. 129: 101196 ,CVGIP,Unranked
+2,Flattening-Net: Deep Regular 2D Representation for 3D Point Cloud Analysis.,2023,"Qijian Zhang, Junhui Hou, Yue Qian, Yiming Zeng, Juyong Zhang, Ying He",IEEE Trans. Pattern Anal. Mach. Intell. 45: 9726-9742 ,PAMI,Unranked
+3,Masonry Shell Structures with Discrete Equivalence Classes.,2023,"Rulin Chen, Pengyun Qiu, Peng Song, Bailin Deng, Ziqi Wang, Ying He",ACM Trans. Graph. 42: 115:1-115:12 ,TOG,Unranked
+4,STD-Net: Structure-Preserving and Topology-Adaptive Deformation Network for Single-View 3D Reconstruction.,2023,"Aihua Mao, Canglan Dai, Qing Liu, Jie Yang, Lin Gao, Ying He, Yong-Jin Liu",IEEE Trans. Vis. Comput. Graph. 29: 1785-1798 ,TVCG,Unranked
+5,A Variational Framework for Curve Shortening in Various Geometric Domains.,2023,"Na Yuan, Peihui Wang, Wenlong Meng, Shuang-Min Chen, Jian Xu, Shiqing Xin, Ying He, Wenping Wang",IEEE Trans. Vis. Comput. Graph. 29: 1951-1963 ,TVCG,Unranked
+6,OPE-SR: Orthogonal Position Encoding for Designing a Parameter-free Upsampling Module in Arbitrary-scale Image Super-Resolution.,2023,"Gaochao Song, Qian Sun, Luo Zhang, Ran Su, Jianfeng Shi, Ying He",CVPR 2023: 10009-10020,CVPR,A*
+7,IterativePFN: True Iterative Point Cloud Filtering.,2023,"Dasith de Silva Edirimuni, Xuequan Lu, Zhiwen Shao, Gang Li, Antonio Robles-Kelly, Ying He",CVPR 2023: 13530-13539,CVPR,A*
+8,OPE-SR: Orthogonal Position Encoding for Designing a Parameter-free Upsampling Module in Arbitrary-scale Image Super-Resolution.,2023,"Gaochao Song, Luo Zhang, Ran Su, Jianfeng Shi, Ying He, Qian Sun",CoRR abs/2303.01091 ,CORR,Unranked
+9,NeUDF: Learning Unsigned Distance Fields from Multi-view Images for Reconstructing Non-watertight Models.,2023,"Fei Hou, Jukai Deng, Xuhui Chen, Wencheng Wang, Ying He",CoRR abs/2303.15368 ,CORR,Unranked
+10,Bi-directional Deformation for Parameterization of Neural Implicit Surfaces.,2023,"Baixin Xu, Jiangbei Hu, Fei Hou, Kwan-Yee Lin, Wayne Wu, Chen Qian, Ying He",CoRR abs/2310.05524 ,CORR,Unranked
+11,An Accuracy Controllable and Memory Efficient Method for Computing High-Quality Geodesic Distances on Triangle Meshes.,2022,"Yohanes Yudhi Adikusuma, Jie Du, Zheng Fang, Ying He",Comput. Aided Des. 150: 103333 ,CAD,Unranked
+12,Constructing self-supporting surfaces with planar quadrilateral elements.,2022,"Long Ma, Sidan Yao, Jianmin Zheng, Yang Liu, Yuanfeng Zhou, Shi-Qing Xin, Ying He",Comput. Vis. Media 8: 571-583 ,CVM,Unranked
+13,RegGeoNet: Learning Regular Representations for Large-Scale 3D Point Clouds.,2022,"Qijian Zhang, Junhui Hou, Yue Qian, Antoni B. Chan, Juyong Zhang, Ying He",Int. J. Comput. Vis. 130: 3100-3122 ,IJCV,Unranked
+14,Iterative poisson surface reconstruction (iPSR) for unoriented points.,2022,"Fei Hou, Chiyu Wang, Wencheng Wang, Hong Qin, Chen Qian, Ying He",ACM Trans. Graph. 41: 128:1-128:13 ,TOG,Unranked
+15,Low Rank Matrix Approximation for 3D Geometry Filtering.,2022,"Xuequan Lu, Scott Schaefer, Jun Luo, Lizhuang Ma, Ying He",IEEE Trans. Vis. Comput. Graph. 28: 1835-1847 ,TVCG,Unranked
+16,C3 Assignment: Camera Cubemap Color Assignment for Creative Interior Design.,2022,"Juncong Lin, Pintong Xiao, Yinan Fu, Yubin Shi, Hongran Wang, Shihui Guo, Ying He, Tong-Yee Lee",IEEE Trans. Vis. Comput. Graph. 28: 2895-2908 ,TVCG,Unranked
+17,Geodesic Tracks: Computing Discrete Geodesics With Track-Based Steiner Point Propagation.,2022,"Wenlong Meng, Shiqing Xin, Changhe Tu, Shuang-Min Chen, Ying He, Wenping Wang",IEEE Trans. Vis. Comput. Graph. 28: 4887-4901 ,TVCG,Unranked
+18,GeodesicEmbedding (GE): A High-Dimensional Embedding Approach for Fast Geodesic Distance Queries.,2022,"Qianwei Xia, Juyong Zhang, Zheng Fang, Jin Li, Mingyue Zhang, Bailin Deng, Ying He",IEEE Trans. Vis. Comput. Graph. 28: 4930-4939 ,TVCG,Unranked
+19,IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment.,2022,"Yiming Zeng, Yue Qian, Qijian Zhang, Junhui Hou, Yixuan Yuan, Ying He",CVPR 2022: 6328-6337,CVPR,A*
+20,Audio-Driven Stylized Gesture Generation with Flow-Based Model.,2022,"Sheng Ye, Yu-Hui Wen, Yanan Sun, Ying He, Ziyang Zhang, Yaoyuan Wang, Weihua He, Yong-Jin Liu",ECCV  2022: 712-728,ECCV,A*
+21,Flexible Portrait Image Editing with Fine-Grained Control.,2022,"Linlin Liu, Qian Fu, Fei Hou, Ying He",CoRR abs/2204.01318 ,CORR,Unranked
+22,Hierarchical Vectorization for Portrait Images.,2022,"Qian Fu, Linlin Liu, Fei Hou, Ying He",CoRR abs/2205.11880 ,CORR,Unranked
+23,Iterative Poisson Surface Reconstruction (iPSR) for Unoriented Points.,2022,"Fei Hou, Chiyu Wang, Wencheng Wang, Hong Qin, Chen Qian, Ying He",CoRR abs/2209.09510 ,CORR,Unranked
+24,On the Vertex-oriented Triangle Propagation (VTP) Algorithm: Parallelization and Approximation.,2021,"Jie Du, Ying He, Zheng Fang, Wenlong Meng, Shi-Qing Xin",Comput. Aided Des. 130: 102943 ,CAD,Unranked
+25,A Variational Framework for Computing Geodesic Paths on Sweep Surfaces.,2021,"Wenlong Meng, Shiqing Xin, Jinhui Zhao, Shuang-Min Chen, Changhe Tu, Ying He",Comput. Aided Des. 140: 103077 ,CAD,Unranked
+26,Poisson Vector Graphics (PVG)-Guided Face Color Transfer in Videos.,2021,"Qian Fu, Ying He, Fei Hou, Qian Sun, Anxiang Zeng, Zhenchuan Huang, Juyong Zhang, Yong-Jin Liu",IEEE Computer Graphics and Applications 41: 152-163 ,CGA,Unranked
+27,Parallel and Scalable Heat Methods for Geodesic Distance Computation.,2021,"Jiong Tao, Juyong Zhang, Bailin Deng, Zheng Fang, Yue Peng, Ying He",IEEE Trans. Pattern Anal. Mach. Intell. 43: 579-594 ,PAMI,Unranked
+28,Blur Removal Via Blurred-Noisy Image Pair.,2021,"Chunzhi Gu, Xuequan Lu, Ying He, Chao Zhang",IEEE Trans. Image Process. 30: 345-359 ,TIP,Unranked
+29,Deep Magnification-Flexible Upsampling Over 3D Point Clouds.,2021,"Yue Qian, Junhui Hou, Sam Kwong, Ying He",IEEE Trans. Image Process. 30: 8354-8367 ,TIP,Unranked
+30,Automatic Sitting Pose Generation for Ergonomic Ratings of Chairs.,2021,"Aihua Mao, Hong Zhang, Zhenfeng Xie, Minjing Yu, Yong-Jin Liu, Ying He",IEEE Trans. Vis. Comput. Graph. 27: 1890-1903 ,TVCG,Unranked
+31,Pointfilter: Point Cloud Filtering via Encoder-Decoder Modeling.,2021,"Dongbo Zhang, Xuequan Lu, Hong Qin, Ying He",IEEE Trans. Vis. Comput. Graph. 27: 2015-2027 ,TVCG,Unranked
+32,An electromyogram-based tapping gesture model with differentiated vibration feedback by low-fidelity actuators.,2021,"Pengfei Xu, Zhongke Wu, Xingce Wang, Yan Fu, Ying He",Virtual Real. 25: 383-397 ,VR,A*
+33,CorrNet3D: Unsupervised End-to-End Learning of Dense Correspondence for 3D Point Clouds.,2021,"Yiming Zeng, Yue Qian, Zhiyu Zhu, Junhui Hou, Hui Yuan, Ying He",CVPR 2021: 6052-6061,CVPR,A*
+34,PU-Flow: a Point Cloud Upsampling Networkwith Normalizing Flows.,2021,"Aihua Mao, Zihui Du, Junhui Hou, Yaqi Duan, Yong-Jin Liu, Ying He",CoRR abs/2107.05893 ,CORR,Unranked
+35,GeodesicEmbedding (GE): A High-Dimensional Embedding Approach for Fast Geodesic Distance Queries.,2021,"Qianwei Xia, Juyong Zhang, Zheng Fang, Jin Li, Mingyue Zhang, Bailin Deng, Ying He",CoRR abs/2108.13821 ,CORR,Unranked
+36,HLO: Half-kernel Laplacian operator for surface smoothing.,2020,"Wei Pan, Xuequan Lu, Yuanhao Gong, Wenming Tang, Jun Liu, Ying He, Guoping Qiu",Comput. Aided Des. 121: 102807 ,CAD,Unranked
+37,Dirichlet energy of Delaunay meshes and intrinsic Delaunay triangulations.,2020,"Zipeng Ye, Ran Yi, Wen-Yong Gong, Ying He, Yong-Jin Liu",Comput. Aided Des. 126: 102851 ,CAD,Unranked
+38,Computing Smooth Quasi-geodesic Distance Field (QGDF) with Quadratic Programming.,2020,"Luming Cao, Junhao Zhao, Jian Xu, Shuang-Min Chen, Guozhu Liu, Shiqing Xin, Yuanfeng Zhou, Ying He",Comput. Aided Des. 127: 102879 ,CAD,Unranked
+39,Robust Computation of 3D Apollonius Diagrams.,2020,"Peihui Wang, Na Yuan, Yuewen Ma, Shiqing Xin, Ying He, Shuang-Min Chen, Jian Xu, Wenping Wang",Comput. Graph. Forum 39: 43-55 ,CGF,Unranked
+40,Preface.,2020,"Shi-Min Hu, Ying He, Belén Masiá",J. Comput. Sci. Technol. 35: 491-492 ,JCST,Unranked
+41,Fast Construction of Discrete Geodesic Graphs.,2020,"Yohanes Yudhi Adikusuma, Zheng Fang, Ying He",ACM Trans. Graph. 39: 14:1-14:14 ,TOG,Unranked
+42,Poisson Vector Graphics (PVG).,2020,"Fei Hou, Qian Sun, Zheng Fang, Yong-Jin Liu, Shi-Min Hu, Hong Qin, Aimin Hao, Ying He",IEEE Trans. Vis. Comput. Graph. 26: 1361-1371 ,TVCG,Unranked
+43,PhysioTreadmill: An Auto-Controlled Treadmill Featuring Physiological-Data-Driven Visual/Audio Feedback.,2020,"Shaolong Liu, Xingce Wang, Zhongke Wu, Ying He",CW 2020: 219-226,CW,C
+44,PUGeo-Net: A Geometry-Centric Network for 3D Point Cloud Upsampling.,2020,"Yue Qian, Junhui Hou, Sam Kwong, Ying He",ECCV  2020: 752-769,ECCV,A*
+45,Deep Patch-Based Human Segmentation.,2020,"Dongbo Zhang, Zheng Fang, Xuequan Lu, Hong Qin, Antonio Robles-Kelly, Chao Zhang, Ying He",ICONIP  2020: 229-240,ICONIP,B
+46,Pointfilter: Point Cloud Filtering via Encoder-Decoder Modeling.,2020,"Dongbo Zhang, Xuequan Lu, Hong Qin, Ying He",CoRR abs/2002.05968 ,CORR,Unranked
+47,PUGeo-Net: A Geometry-centric Network for 3D Point Cloud Upsampling.,2020,"Yue Qian, Junhui Hou, Sam Kwong, Ying He",CoRR abs/2002.10277 ,CORR,Unranked
+48,STD-Net: Structure-preserving and Topology-adaptive Deformation Network for 3D Reconstruction from a Single Image.,2020,"Aihua Mao, Canglan Dai, Lin Gao, Ying He, Yong-Jin Liu",CoRR abs/2003.03551 ,CORR,Unranked
+49,MOPS-Net: A Matrix Optimization-driven Network forTask-Oriented 3D Point Cloud Downsampling.,2020,"Yue Qian, Junhui Hou, Yiming Zeng, Qijian Zhang, Sam Kwong, Ying He",CoRR abs/2005.00383 ,CORR,Unranked
+50,Deep Patch-based Human Segmentation.,2020,"Dongbo Zhang, Zheng Fang, Xuequan Lu, Hong Qin, Antonio Robles-Kelly, Chao Zhang, Ying He",CoRR abs/2007.05661 ,CORR,Unranked
+51,Deep Magnification-Arbitrary Upsampling over 3D Point Clouds.,2020,"Yue Qian, Junhui Hou, Sam Kwong, Ying He",CoRR abs/2011.12745 ,CORR,Unranked
+52,ParaNet: Deep Regular Representation for 3D Point Clouds.,2020,"Qijian Zhang, Junhui Hou, Yue Qian, Juyong Zhang, Ying He",CoRR abs/2012.03028 ,CORR,Unranked
+53,CorrNet3D: Unsupervised End-to-end Learning of Dense Correspondence for 3D Point Clouds.,2020,"Yiming Zeng, Yue Qian, Zhiyu Zhu, Junhui Hou, Hui Yuan, Ying He",CoRR abs/2012.15638 ,CORR,Unranked
+54,DE-Path: A Differential-Evolution-Based Method for Computing Energy-Minimizing Paths on Surfaces.,2019,"Zipeng Ye, Yong-Jin Liu, Jianmin Zheng, Kai Hormann, Ying He",Comput. Aided Des. 114: 73-81 ,CAD,Unranked
+55,Vectorization Based Color Transfer for Portrait Images.,2019,"Qian Fu, Ying He, Fei Hou, Juyong Zhang, Anxiang Zeng, Yong-Jin Liu",Comput. Aided Des. 115: 111-121 ,CAD,Unranked
+56,Parallelizing discrete geodesic algorithms with perfect efficiency.,2019,"Xiang Ying, Caibao Huang, Xuzhou Fu, Ying He, Ruiguo Yu, Jianrong Wang, Mei Yu",Comput. Aided Des. 115: 161-171 ,CAD,Unranked
+57,Field-aligned Quadrangulation for Image Vectorization.,2019,"Guangshun Wei, Yuanfeng Zhou, Xifeng Gao, Qian Ma, Shiqing Xin, Ying He",Comput. Graph. Forum 38: 171-180 ,CGF,Unranked
+58,3D articulated skeleton extraction using a single consumer-grade depth camera.,2019,"Xuequan Lu, Zhigang Deng, Jun Luo, Wenzhi Chen, Sai-Kit Yeung, Ying He",Comput. Vis. Image Underst. 188 ,CVIU,Unranked
+59,VisioMap: Lightweight 3-D Scene Reconstruction Toward Natural Indoor Localization.,2019,"Feng Li, Jie Hao, Jin Wang, Jun Luo, Ying He, Dongxiao Yu, Xiuzhen Cheng",IEEE Internet Things J. 6: 8870-8882 ,IOTJ,Unranked
+60,ImmerTai: Immersive Motion Learning in VR Environments.,2019,"Xiaoming Chen, Zhibo Chen, Ye Li, Tianyu He, Junhui Hou, Sen Liu, Ying He",J. Vis. Commun. Image Represent. 58: 416-427 ,JVCIR,Unranked
+61,LineUp: Computing Chain-Based Physical Transformation.,2019,"Minjing Yu, Zipeng Ye, Yong-Jin Liu, Ying He, Charlie C. L. Wang",ACM Trans. Graph. 38: 11:1-11:16 ,TOG,Unranked
+62,Constructing 3D Self-Supporting Surfaces with Isotropic Stress Using 4D Minimal Hypersurfaces of Revolution.,2019,"Long Ma, Ying He, Qian Sun, Yuanfeng Zhou, Caiming Zhang, Wenping Wang",ACM Trans. Graph. 38: 144:1-144:13 ,TOG,Unranked
+63,Fast Computation of Content-Sensitive Superpixels and Supervoxels Using Q-Distances.,2019,"Zipeng Ye, Ran Yi, Minjing Yu, Yong-Jin Liu, Ying He",ICCV 2019: 3769-3778,ICCV,A*
+64,Kernel-Free Image Deblurring with a Pair of Blurred/Noisy Images.,2019,"Chunzhi Gu, Xuequan Lu, Ying He, Chao Zhang",CoRR abs/1903.10667 ,CORR,Unranked
+65,HLO: Half-kernel Laplacian Operator for Surface Smoothing.,2019,"Wei Pan, Xuequan Lu, Yuanhao Gong, Wenming Tang, Jun Liu, Ying He, Guoping Qiu",CoRR abs/1905.04678 ,CORR,Unranked
+66,"Geodesic Centroidal Voronoi Tessellations: Theories, Algorithms and Applications.",2019,"Zipeng Ye, Ran Yi, Minjing Yu, Yong-Jin Liu, Ying He",CoRR abs/1907.00523 ,CORR,Unranked
+67,Decorating 3D models with Poisson vector graphics.,2018,"Qian Fu, Fei Hou, Qian Sun, Shi-Qing Xin, Yong-Jin Liu, Wencheng Wang, Hong Qin, Ying He",Comput. Aided Des. 102: 1-11 ,CAD,Unranked
+68,Lightweight preprocessing and fast query of geodesic distance via proximity graph.,2018,"Shiqing Xin, Wenping Wang, Ying He, Yuanfeng Zhou, Shuang-Min Chen, Changhe Tu, Zhenyu Shu",Comput. Aided Des. 102: 128-138 ,CAD,Unranked
+69,Interactive Partitioning of 3D Models into Printable Parts.,2018,"Aamir Khan Jadoon, Chenming Wu, Yong-Jin Liu, Ying He, Charlie C. L. Wang",IEEE Computer Graphics and Applications 38: 38-53 ,CGA,Unranked
+70,An approximate method for circle packing and disc covering.,2018,"Shuang-Min Chen, Yuen-Shan Leung, Shiqing Xin, Ying He, Yuanfeng Zhou, Changhe Tu",Commun. Inf. Syst. 18: 73-89 ,COMINFSYS,Unranked
+71,Algebraic equation of geodesics on the 2D Euclidean space with an exponential density function.,2018,"Shuang-Min Chen, Guozhu Liu, Shiqing Xin, Yuanfeng Zhou, Ying He, Changhe Tu",Commun. Inf. Syst. 18: 91-106 ,COMINFSYS,Unranked
+72,FoldedGI: A highly parallel algorithm for interference detection by folding a geometry image into a 1D buffer.,2018,"Shuang-Min Chen, Bangquan Liu, Taijun Liu, Xiaokang Yu, Shiqing Xin, Ying He, Changhe Tu",Graph. Model. 100: 26-32 ,CVGIP,Unranked
+73,Intrinsic Manifold SLIC: A Simple and Efficient Method for Computing Content-Sensitive Superpixels.,2018,"Yong-Jin Liu, Minjing Yu, Bing-Jun Li, Ying He",IEEE Trans. Pattern Anal. Mach. Intell. 40: 653-666 ,PAMI,Unranked
+74,Delta DLP 3-D Printing of Large Models.,2018,"Ran Yi, Chenming Wu, Yong-Jin Liu, Ying He, Charlie C. L. Wang",IEEE Trans Autom. Sci. Eng. 15: 1193-1204 ,TASE,National
+75,Delaunay mesh simplification with differential evolution.,2018,"Ran Yi, Yong-Jin Liu, Ying He",ACM Trans. Graph. 37: 263 ,TOG,Unranked
+76,Low Rank Matrix Approximation for Geometry Filtering.,2018,"Xuequan Lu, Scott Schaefer, Jun Luo, Lizhuang Ma, Ying He",CoRR abs/1803.06783 ,CORR,Unranked
+77,Parallel and Scalable Heat Method.,2018,"Jiong Tao, Juyong Zhang, Bailin Deng, Zheng Fang, Yue Peng, Ying He",CoRR abs/1812.06060 ,CORR,Unranked
+78,An optimization-driven approach for computing geodesic paths on triangle meshes.,2017,"Bangquan Liu, Shuang-Min Chen, Shi-Qing Xin, Ying He, Zhen Liu, Jieyu Zhao",Comput. Aided Des. 90: 105-112 ,CAD,Unranked
+79,Discrete geodesic graph (DGG) for computing geodesic distances on polyhedral surfaces.,2017,"Xiaoning Wang, Zheng Fang, Jiajun Wu, Shi-Qing Xin, Ying He",Comput. Aided Geom. Des. 52: 262-284 ,CAGD,Unranked
+80,Space complexity of exact discrete geodesic algorithms on regular triangulations.,2017,"Yong-Jin Liu, Dian Fan, Chunxu Xu, Ying He",Inf. Process. Lett. 124: 10-14 ,IPL,Unranked
+81,Sparse Low-Rank Matrix Approximation for Data Compression.,2017,"Junhui Hou, Lap-Pui Chau, Nadia Magnenat-Thalmann, Ying He",IEEE Trans. Circuits Syst. Video Technol. 27: 1043-1054 ,TCSV,Unranked
+82,ART: Adaptive fRequency-Temporal Co-Existing of ZigBee and WiFi.,2017,"Feng Li, Jun Luo, Gaotao Shi, Ying He",IEEE Trans. Mob. Comput. 16: 662-674 ,TMC,Unranked
+83,Constructing Intrinsic Delaunay Triangulations from the Dual of Geodesic Voronoi Diagrams.,2017,"Yong-Jin Liu, Dian Fan, Chunxu Xu, Ying He",ACM Trans. Graph. 36: 15:1-15:15 ,TOG,Unranked
+84,Knot Optimization for Biharmonic B-splines on Manifold Triangle Meshes.,2017,"Fei Hou, Ying He, Hong Qin, Aimin Hao",IEEE Trans. Vis. Comput. Graph. 23: 2082-2095 ,TVCG,Unranked
+85,Sparse representation for colors of 3D point cloud via virtual adaptive sampling.,2017,"Junhui Hou, Lap-Pui Chau, Ying He, Philip A. Chou",ICASSP 2017: 2926-2930,ICASSP,Unranked
+86,Immersive and collaborative Taichi motion learning in various VR environments.,2017,"Tianyu He, Xiaoming Chen, Zhibo Chen, Ye Li, Sen Liu, Junhui Hou, Ying He",VR 2017: 307-308,VR,A*
+87,Poisson Vector Graphics (PVG) and Its Closed-Form Solver.,2017,"Fei Hou, Qian Sun, Zheng Fang, Yong-Jin Liu, Shi-Min Hu, Hong Qin, Aimin Hao, Ying He",CoRR abs/1701.04303 ,CORR,Unranked
+88,Consistent quadrangulation for shape collections via feature line co-extraction.,2016,"Min Meng, Ying He",Comput. Aided Des. 70: 78-88 ,CAD,Unranked
+89,Solving the initial value problem of discrete geodesics.,2016,"Peng Cheng, Chunyan Miao, Yong-Jin Liu, Changhe Tu, Ying He",Comput. Aided Des. 70: 144-152 ,CAD,Unranked
+90,Low-latency compression of mocap data using learned spatial decorrelation transform.,2016,"Junhui Hou, Lap-Pui Chau, Nadia Magnenat-Thalmann, Ying He",Comput. Aided Geom. Des. 43: 211-225 ,CAGD,Unranked
+91,Autonomous deployment of wireless sensor networks for optimal coverage with directional sensing model.,2016,"Feng Li, Jun Luo, Shi-Qing Xin, Ying He",Comput. Networks 108: 120-132 ,CN,National
+92,User controllable anisotropic shape distribution on 3D meshes.,2016,"Xiaoning Wang, Tien Hung Le, Xiang Ying, Qian Sun, Ying He",Comput. Vis. Media 2: 305-319 ,CVM,Unranked
+93,Manifold differential evolution (MDE): a global optimization method for geodesic centroidal voronoi tessellations on meshes.,2016,"Yong-Jin Liu, Chunxu Xu, Ran Yi, Dian Fan, Ying He",ACM Trans. Graph. 35: 243:1-243:10 ,TOG,Unranked
+94,Sparsifying orthogonal transforms with compact bases for data compression.,2016,"Junhui Hou, Hui Liu, Lap-Pui Chau, Ying He, Jie Chen",APSIPA 2016: 1-4,APSIPA,Unranked
+95,Manifold SLIC: A Fast Method to Compute Content-Sensitive Superpixels.,2016,"Yong-Jin Liu, Cheng-Chi Yu, Minjing Yu, Ying He",CVPR 2016: 651-659,CVPR,A*
+96,Robust laplacian matrix learning for smooth graph signals.,2016,"Junhui Hou, Lap-Pui Chau, Ying He, Huanqiang Zeng",ICIP 2016: 1878-1882,ICIP,B
+97,Sparse two-dimensional singular value decomposition.,2016,"Junhui Hou, Jie Chen, Lap-Pui Chau, Ying He",ICME 2016: 1-6,ICMCS,Unranked
+98,Delta DLP 3D printing with large size.,2016,"Chenming Wu, Ran Yi, Yong-Jin Liu, Ying He, Charlie C. L. Wang",IROS 2016: 2155-2160,IROS,A
+99,Barehanded music: real-time hand interaction for virtual piano.,2016,"Hui Liang, Jin Wang, Qian Sun, Yong-Jin Liu, Junsong Yuan, Jun Luo, Ying He",I3D 2016: 87-94,SI3D,Unranked
+100,Intrinsic computation of centroidal Voronoi tessellation (CVT) on meshes.,2015,"Xiaoning Wang, Xiang Ying, Yong-Jin Liu, Shi-Qing Xin, Wenping Wang, Xianfeng Gu, Wolfgang Müller-Wittig, Ying He",Comput. Aided Des. 58: 51-61 ,CAD,Unranked
+101,A unified framework for isotropic meshing based on narrow-band Euclidean distance transformation.,2015,"Yuen-Shan Leung, Xiaoning Wang, Ying He, Yong-Jin Liu, Charlie C. L. Wang",Comput. Vis. Media 1: 239-251 ,CVM,Unranked
+102,Interior structure transfer via harmonic 1-forms.,2015,"Juncong Lin, Jiazhi Xia, Xing Gao, Minghong Liao, Ying He, Xianfeng Gu",Multim. Tools Appl. 74: 139-158 ,MTA,Unranked
+103,Burial Level Change Defines a High Energetic Relevance for Protein Binding Interfaces.,2015,"Zhenhua Li, Ying He, Limsoon Wong, Jinyan Li",IEEE ACM Trans. Comput. Biol. Bioinform. 12: 410-421 ,TCBB,Unranked
+104,Compressing 3-D Human Motions via Keyframe-Based Geometry Videos.,2015,"Junhui Hou, Lap-Pui Chau, Nadia Magnenat-Thalmann, Ying He",IEEE Trans. Circuits Syst. Video Technol. 25: 51-62 ,TCSV,Unranked
+105,Efficient construction and simplification of Delaunay meshes.,2015,"Yong-Jin Liu, Chunxu Xu, Dian Fan, Ying He",ACM Trans. Graph. 34: 174:1-174:13 ,TOG,Unranked
+106,Fast Wavefront Propagation (FWP) for Computing Exact Geodesic Distances on Meshes.,2015,"Chunxu Xu, Tuanfeng Y. Wang, Yong-Jin Liu, Ligang Liu, Ying He",IEEE Trans. Vis. Comput. Graph. 21: 822-834 ,TVCG,Unranked
+107,Human Motion Capture Data Tailored Transform Coding.,2015,"Junhui Hou, Lap-Pui Chau, Nadia Magnenat-Thalmann, Ying He",IEEE Trans. Vis. Comput. Graph. 21: 848-859 ,TVCG,Unranked
+108,Autonomous Deployment for Load Balancing k-Surface Coverage in Sensor Networks.,2015,"Feng Li, Jun Luo, Wenping Wang, Ying He",IEEE Trans. Wirel. Commun. 14: 279-293 ,TWC,Unranked
+109,GRIP: Greedy Routing through dIstributed Parametrization for guaranteed delivery in WSNs.,2015,"Minqi Zhang, Feng Li, Ying He, Juncong Lin, Xianfeng Gu, Jun Luo",Wirel. Networks 21: 67-80 ,WINET,Unranked
+110,Reordering-based transform for compressing human motion capture data.,2015,"Junhui Hou, Lap-Pui Chau, Ying He, Nadia Magnenat-Thalmann",ISCAS 2015: 2740-2743,ISCAS,Unranked
+111,Robust and GPU-friendly Isotropic Meshing Based on Narrow-banded Euclidean Distance Transformation.,2015,"Yuen-Shan Leung, Xiaoning Wang, Ying He, Yong-Jin Liu, Charlie C. L. Wang",PG  2015: 7-12,PG,Journal Published
+112,Critical points with discrete Morse theory.,2015,"Peihong Guo, Ergun Akleman, Ying He, Xiaoning Wang, Wei Liu",SIGGRAPH Posters 2015: 67:1,SIGGRAPH,A*
+113,Constructing Intrinsic Delaunay Triangulations from the Dual of Geodesic Voronoi Diagrams.,2015,"Yong-Jin Liu, Chunxu Xu, Dian Fan, Ying He",CoRR abs/1505.05590 ,CORR,Unranked
+114,Human Motion Capture Data Compression based on Learned Spatial Transform.,2015,"Junhui Hou, Lap-Pui Chau, Nadia Magnenat-Thalmann, Ying He",CoRR abs/1506.08898 ,CORR,Unranked
+115,CLRMA: Compact Low Rank Matrix Approximation for Data Compression.,2015,"Junhui Hou, Lap-Pui Chau, Nadia Magnenat-Thalmann, Ying He",CoRR abs/1507.01673 ,CORR,Unranked
+116,A parallel algorithm for improving the maximal property of Poisson disk sampling.,2014,"Xiang Ying, Zhenhua Li, Ying He",Comput. Aided Des. 46: 37-44 ,CAD,Unranked
+117,A simple and local method for computing quasi-conformal map on 3D surfaces.,2014,"Minqi Zhang, Ying He",Comput. Aided Des. 46: 192-199 ,CAD,Unranked
+118,Making sky lanterns from polygonal meshes.,2014,"Juncong Lin, Xing Gao, Minghong Liao, Jiazhi Xia, Guilin Li, Ying He",Comput. Electr. Eng. 40: 1592-1603 ,CEE,Unranked
+119,Polyline-sourced Geodesic Voronoi Diagrams on Triangle Meshes.,2014,"Chunxu Xu, Yong-Jin Liu, Qian Sun, Jinyan Li, Ying He",Comput. Graph. Forum 33: 161-170 ,CGF,Unranked
+120,Preface.,2014,"Pierre Alliez, Ying He, Yongjie Zhang",Graph. Model. 76: 239 ,CVGIP,Unranked
+121,Automatic registration of vestibular systems with exact landmark correspondence.,2014,"Minqi Zhang, Fang Li, Xingce Wang, Zhongke Wu, Shi-Qing Xin, Lok Ming Lui, Lin Shi, Defeng Wang, Ying He",Graph. Model. 76: 532-541 ,CVGIP,Unranked
+122,SnapBlocks: a snapping interface for assembling toy blocks with XBOX Kinect.,2014,"Juncong Lin, Qian Sun, Guilin Li, Ying He",Multim. Tools Appl. 73: 2009-2032 ,MTA,Unranked
+123,Retrieval-Based Face Annotation by Weak Label Regularized Local Coordinate Coding.,2014,"Dayong Wang, Steven C. H. Hoi, Ying He, Jianke Zhu, Tao Mei, Jiebo Luo",IEEE Trans. Pattern Anal. Mach. Intell. 36: 550-563 ,PAMI,Unranked
+124,Scalable and Compact Representation for Motion Capture Data Using Tensor Decomposition.,2014,"Junhui Hou, Lap-Pui Chau, Nadia Magnenat-Thalmann, Ying He",IEEE Signal Process. Lett. 21: 255-259 ,SPL,Unranked
+125,A Highly Efficient Compression Framework for Time-Varying 3-D Facial Expressions.,2014,"Junhui Hou, Lap-Pui Chau, Minqi Zhang, Nadia Magnenat-Thalmann, Ying He",IEEE Trans. Circuits Syst. Video Technol. 24: 1541-1553 ,TCSV,Unranked
+126,Mining Weakly Labeled Web Facial Images for Search-Based Face Annotation.,2014,"Dayong Wang, Steven C. H. Hoi, Ying He, Jianke Zhu",IEEE Trans. Knowl. Data Eng. 26: 166-179 ,TKDE,Unranked
+127,Parallel chen-han (PCH) algorithm for discrete geodesics.,2014,"Xiang Ying, Shi-Qing Xin, Ying He",ACM Trans. Graph. 33: 9:1-9:11 ,TOG,Unranked
+128,LBDP: Localized Boundary Detection and Parametrization for 3-D Sensor Networks.,2014,"Feng Li, Chi Zhang, Jun Luo, Shi-Qing Xin, Ying He",IEEE/ACM Trans. Netw. 22: 567-579 ,TON,Unranked
+129,The Duality of Geodesic Voronoi/Delaunay Diagrams For An Intrinsic Discrete Laplace-Beltrami Operator on Simplicial Surfaces.,2014,"Yong-Jin Liu, Chunxu Xu, Ying He, Deok-Soo Kim",CCCG 2014,CCCG,Unranked
+130,Low-rank based compact representation of motion capture data.,2014,"Junhui Hou, Lap-Pui Chau, Ying He, Nadia Magnenat-Thalmann",ICIP 2014: 1480-1484,ICIP,B
+131,Restoring corrupted motion capture data via jointly low-rank matrix completion.,2014,"Junhui Hou, Zhen-Peng Bian, Lap-Pui Chau, Nadia Magnenat-Thalmann, Ying He",ICME 2014: 1-6,ICMCS,Unranked
+132,A novel compression framework for 3D time-varying meshes.,2014,"Junhui Hou, Lap-Pui Chau, Ying He, Nadia Magnenat-Thalmann",ISCAS 2014: 2161-2164,ISCAS,Unranked
+133,iLocScan: harnessing multipath for simultaneous indoor source localization and space scanning.,2014,"Chi Zhang, Feng Li, Jun Luo, Ying He",SenSys 2014: 91-104,SENSYS,A*
+134,Geodesic Voronoi Diagrams with Polyline Generators.,2014,"Chunxu Xu, Yong-Jin Liu, Qian Sun, Jinyan Li, Ying He",SGP Posters 2014,SGP,B
+135,Splatting lines: an efficient method for illustrating 3D surfaces and volumes.,2014,"Long Zhang, Qian Sun, Ying He",I3D 2014: 135-142,SI3D,Unranked
+136,Human Motion Capture Data Tailored Transform Coding.,2014,"Junhui Hou, Lap-Pui Chau, Nadia Magnenat-Thalmann, Ying He",CoRR abs/1410.4730 ,CORR,Unranked
+137,Structural analysis on mutation residues and interfacial water molecules for human TIM disease understanding.,2013,"Zhenhua Li, Ying He, Qian Liu, Liang Zhao, Limsoon Wong, Chee Keong Kwoh, Hung T. Nguyen, Jinyan Li",BMC Bioinform. 14: S11 ,BMCBI,Unranked
+138,Unsupervised co-segmentation for 3D shapes using iterative multi-label optimization.,2013,"Min Meng, Jiazhi Xia, Jun Luo, Ying He",Comput. Aided Des. 45: 312-320 ,CAD,Unranked
+139,Parallel computing 2D Voronoi diagrams using untransformed sweepcircles.,2013,"Shi-Qing Xin, Xiaoning Wang, Jiazhi Xia, Wolfgang Müller-Wittig, Guo-Jin Wang, Ying He",Comput. Aided Des. 45: 483-493 ,CAD,Unranked
+140,Rate-Distortion Model Based Bit Allocation for 3-D Facial Compression Using Geometry Video.,2013,"Junhui Hou, Lap-Pui Chau, Ying He, Minqi Zhang, Nadia Magnenat-Thalmann",IEEE Trans. Circuits Syst. Video Technol. 23: 1537-1541 ,TCSV,Unranked
+141,Saddle vertex graph (SVG): a novel solution to the discrete geodesic problem.,2013,"Xiang Ying, Xiaoning Wang, Ying He",ACM Trans. Graph. 32: 170:1-170:12 ,TOG,Unranked
+142,Interactive Applications for Sketch-Based Editable Polycube Map.,2013,"Ismael García, Jiazhi Xia, Ying He, Shi-Qing Xin, Gustavo Patow",IEEE Trans. Vis. Comput. Graph. 19: 1158-1171 ,TVCG,Unranked
+143,An Intrinsic Algorithm for Parallel Poisson Disk Sampling on Arbitrary Surfaces.,2013,"Xiang Ying, Shi-Qing Xin, Qian Sun, Ying He",IEEE Trans. Vis. Comput. Graph. 19: 1425-1437 ,TVCG,Unranked
+144,A multi-touch interface for fast architectural sketching and massing.,2013,"Qian Sun, Juncong Lin, Chi-Wing Fu, Sawako Kaijima, Ying He",CHI 2013: 247-256,CHI,A*
+145,Human motion capture data recovery via trajectory-based sparse representation.,2013,"Junhui Hou, Lap-Pui Chau, Ying He, Jie Chen, Nadia Magnenat-Thalmann",ICIP 2013: 709-713,ICIP,B
+146,FAVOR: frequency allocation for versatile occupancy of spectrum in wireless sensor networks.,2013,"Feng Li, Jun Luo, Gaotao Shi, Ying He",MobiHoc 2013: 39-48,MOBIHOC,A
+147,Texture brush: an interactive surface texturing interface.,2013,"Qian Sun, Long Zhang, Minqi Zhang, Xiang Ying, Shi-Qing Xin, Jiazhi Xia, Ying He",I3D 2013: 153-160,SI3D,Unranked
+148,A parallel algorithm for improving the maximal property of Poisson disk sampling in R2 and R3.,2013,"Xiang Ying, Zhenhua Li, Ying He",I3D 2013: 179,SI3D,Unranked
+149,Splatting lines for 3D mesh illustration.,2013,"Qian Sun, Long Zhang, Ying He",I3D 2013: 193,SI3D,Unranked
+150,Learning to name faces: a multimodal learning scheme for search-based face annotation.,2013,"Dayong Wang, Steven C. H. Hoi, Pengcheng Wu, Jianke Zhu, Ying He, Chunyan Miao",SIGIR 2013: 443-452,SIGIR,A*
+151,Expression-invariant and sparse representation for mesh-based compression for 3-D face models.,2013,"Junhui Hou, Lap-Pui Chau, Ying He, Nadia Magnenat-Thalmann",VCIP 2013: 1-6,VCIP,C
+152,FANS: face annotation by searching large-scale web facial images.,2013,"Steven C. H. Hoi, Dayong Wang, I. Yeu Cheng, Elmer Weijie Lin, Jianke Zhu, Ying He, Chunyan Miao",WWW  2013: 317-320,WWW,A*
+153,Parallel Chen-Han (PCH) Algorithm for Discrete Geodesics.,2013,"Xiang Ying, Shi-Qing Xin, Ying He",CoRR abs/1305.1293 ,CORR,Unranked
+154,Progressive dry-core-wet-rim hydration trend in a nested-ring topology of protein binding interfaces.,2012,"Zhenhua Li, Ying He, Limsoon Wong, Jinyan Li",BMC Bioinform. 13: 51 ,BMCBI,Unranked
+155,"Sparse Coding for Flexible, Robust 3D Facial-Expression Synthesis.",2012,"Yuxu Lin, Mingli Song, Dao Thi Phuong Quynh, Ying He, Chun Chen",IEEE Computer Graphics and Applications 32: 76-88 ,CGA,Unranked
+156,Efficient and robust 3D line drawings using difference-of-Gaussian.,2012,"Long Zhang, Jiazhi Xia, Xiang Ying, Ying He, Wolfgang Müller-Wittig, Hock Soon Seah",Graph. Model. 74: 87-98 ,CVGIP,Unranked
+157,An intrinsic algorithm for computing geodesic distance fields on triangle meshes with holes.,2012,"Dao Thi Phuong Quynh, Ying He, Shi-Qing Xin, Zhonggui Chen",Graph. Model. 74: 209-220 ,CVGIP,Unranked
+158,Conservation of water molecules in protein binding interfaces.,2012,"Zhenhua Li, Ying He, Longbing Cao, Limsoon Wong, Jinyan Li",Int. J. Bioinform. Res. Appl. 8: 228-244 ,IJBRA,Unranked
+159,Sketch Based Image Deformation and Editing with Guaranteed Feature Correspondence.,2012,"Yaqiong Liu, Seah Hock Soon, Ying He, Juncong Lin, Jiazhi Xia",Int. J. Virtual Real. 11: 25-32 ,IJVR,Unranked
+160,Modeling and Compressing 3-D Facial Expressions Using Geometry Videos.,2012,"Jiazhi Xia, Dao Thi Phuong Quynh, Ying He, Xiaoming Chen, Steven C. H. Hoi",IEEE Trans. Circuits Syst. Video Technol. 22: 77-90 ,TCSV,Unranked
+161,Efficiently Computing Exact Geodesic Loops within Finite Steps.,2012,"Shi-Qing Xin, Ying He, Chi-Wing Fu",IEEE Trans. Vis. Comput. Graph. 18: 879-889 ,TVCG,Unranked
+162,A Sketching Interface for Sitting Pose Design in the Virtual Environment.,2012,"Juncong Lin, Takeo Igarashi, Jun Mitani, Minghong Liao, Ying He",IEEE Trans. Vis. Comput. Graph. 18: 1979-1991 ,TVCG,Unranked
+163,Detail-preserving exposure fusion using subband architecture.,2012,"Jianbing Shen, Ying Zhao, Ying He",Vis. Comput. 28: 463-473 ,VC,Unranked
+164,A unified learning framework for auto face annotation by mining web facial images.,2012,"Dayong Wang, Steven Chu-Hong Hoi, Ying He",CIKM 2012: 1392-1401,CIKM,A
+165,LAACAD: Load Balancing k-Area Coverage through Autonomous Deployment in Wireless Sensor Networks.,2012,"Feng Li, Jun Luo, Shi-Qing Xin, Wenping Wang, Ying He",ICDCS 2012: 566-575,ICDCS,A
+166,Registration of Brainstem Surfaces in Adolescent Idiopathic Scoliosis Using Discrete Ricci Flow.,2012,"Minqi Zhang, Fang Li, Ying He, Lin Shi, Defeng Wang, Lok Ming Lui",MICCAI  2012: 146-154,MICCAI,A
+167,Harmonic quorum systems: Data management in 2D/3D wireless sensor networks with holes.,2012,"Chi Zhang, Jun Luo, Liu Xiang, Feng Li, Juncong Lin, Ying He",SECON 2012: 1-9,SECON,B
+168,Constant-time all-pairs geodesic distance query on triangle meshes.,2012,"Shi-Qing Xin, Xiang Ying, Ying He",I3D 2012: 31-38,SI3D,Unranked
+169,Dynamic 3-D facial compression using low rank and sparse decomposition.,2012,"Junhui Hou, Lap-Pui Chau, Ying He, Dao Thi Phuong Quynh, Nadia Magnenat-Thalmann",SIGGRAPH Asia Technical Briefs 2012: 22:1-22:4,SIGGRAPHA,Unranked
+170,A global algorithm to compute defect-tolerant geodesic distance.,2012,"Shi-Qing Xin, Dao Thi Phuong Quynh, Xiang Ying, Ying He",SIGGRAPH Asia Technical Briefs 2012: 23:1-23:4,SIGGRAPHA,Unranked
+171,Constructing hexahedral shell meshes via volumetric polycube maps.,2011,"Shuchu Han, Jiazhi Xia, Ying He",Comput. Aided Des. 43: 1222-1233 ,CAD,Unranked
+172,Efficiently computing geodesic offsets on triangle meshes by the extended Xin-Wang algorithm.,2011,"Shi-Qing Xin, Xiang Ying, Ying He",Comput. Aided Des. 43: 1468-1476 ,CAD,Unranked
+173,Orienting raw point sets by global contraction and visibility voting.,2011,"Junjie Cao, Ying He, Zhiyang Li, Xiuping Liu, Zhixun Su",Comput. Graph. 35: 733-740 ,CG,Unranked
+174,Spectral Geometry Image: Image Based 3D Models for Digital Broadcasting Applications.,2011,"Boon-Seng Chew, Lap-Pui Chau, Ying He, Dayong Wang, Steven C. H. Hoi",IEEE Trans. Broadcast. 57: 636-645 ,TBC,Unranked
+175,Making burr puzzles from 3D models.,2011,"Shi-Qing Xin, Chi-Fu Lai, Chi-Wing Fu, Tien-Tsin Wong, Ying He, Daniel Cohen-Or",ACM Trans. Graph. 30: 97 ,TOG,Unranked
+176,Real-Time Shape Illustration Using Laplacian Lines.,2011,"Long Zhang, Ying He, Jiazhi Xia, Xuexiang Xie, Wei Chen",IEEE Trans. Vis. Comput. Graph. 17: 993-1006 ,TVCG,Unranked
+177,An interactive multi-touch sketching interface for diffusion curves.,2011,"Qian Sun, Chi-Wing Fu, Ying He",CHI 2011: 1611-1614,CHI,A*
+178,3DQS: Distributed Data Access in 3D Wireless Sensor Networks.,2011,"Jun Luo, Feng Li, Ying He",ICC 2011: 1-5,ICC,Unranked
+179,GeoQuorum: Load balancing and energy efficient data access in wireless sensor networks.,2011,"Jun Luo, Ying He",INFOCOM 2011: 616-620,INFOCOM,A*
+180,Isotropic Mesh Simplification by Evolving the Geodesic Delaunay Triangulation.,2011,"Shi-Qing Xin, Shuang-Min Chen, Ying He, Guo-Jin Wang, Xianfeng Gu, Hong Qin",ISVD 2011: 39-47,ISVD,Unranked
+181,Euclidean Geodesic Loops on High-Genus Surfaces Applied to the Morphometry of Vestibular Systems.,2011,"Shi-Qing Xin, Ying He, Chi-Wing Fu, Defeng Wang, Lin Shi, Winnie C. W. Chu, Jack Chun Yiu Cheng, Xianfeng Gu, Lok Ming Lui",MICCAI  2011: 384-392,MICCAI,A
+182,Retrieval-based face annotation by weak label regularized local coordinate coding.,2011,"Dayong Wang, Steven C. H. Hoi, Ying He, Jianke Zhu",ACM Multimedia 2011: 353-362,MM,Unranked
+183,Modeling 3D articulated motions with conformal geometry videos (CGVs).,2011,"Dao Thi Phuong Quynh, Ying He, Xiaoming Chen, Jiazhi Xia, Qian Sun, Steven C. H. Hoi",ACM Multimedia 2011: 383-392,MM,Unranked
+184,An Effective Approach to Pose Invariant 3D Face Recognition.,2011,"Dayong Wang, Steven C. H. Hoi, Ying He",MMM  2011: 217-228,MMM,B
+185,Randomly Projected KD-Trees with Distance Metric Learning for Image Retrieval.,2011,"Pengcheng Wu, Steven C. H. Hoi, Duc Dung Nguyen, Ying He",MMM  2011: 371-382,MMM,B
+186,UNFOLD: uniform fast on-line boundary detection for dynamic 3D wireless sensor networks.,2011,"Feng Li, Jun Luo, Chi Zhang, Shi-Qing Xin, Ying He",MobiHoc 2011: 14,MOBIHOC,A
+187,Editable polycube map for GPU-based subdivision surfaces.,2011,"Jiazhi Xia, Ismael García, Ying He, Shi-Qing Xin, Gustavo Patow",SI3D 2011: 151-158,SI3D,Unranked
+188,Parallel and accurate Poisson disk sampling on arbitrary surfaces.,2011,"Ying Xiang, Shi-Qing Xin, Qian Sun, Ying He",SIGGRAPH Asia Sketches 2011: 18:1-18:2,SIGGRAPHA,Unranked
+189,A hybrid object/image space approach for efficient and robust line drawings.,2011,"Long Zhang, Ying He, Hock Soon Seah, Wolfgang Müller-Wittig",SIGGRAPH Asia Sketches 2011: 21:1-21:2,SIGGRAPHA,Unranked
+190,Constant-time O(1) all pairs geodesic distance query on triangle meshes.,2011,"Shi-Qing Xin, Xiang Ying, Ying He",SIGGRAPH Asia Sketches 2011: 23:1-23:2,SIGGRAPHA,Unranked
+191,Mining weakly labeled web facial images for search-based face annotation.,2011,"Dayong Wang, Steven C. H. Hoi, Ying He",SIGIR 2011: 535-544,SIGIR,A*
+192,Sketch based image deformation and editing with guaranteed feature correspondence.,2011,"Yaqiong Liu, Hock Soon Seah, Ying He, Juncong Lin, Jiazhi Xia",VRCAI 2011: 141-148,VRCAI,Unranked
+193,Mining social images with distance metric learning for automated image tagging.,2011,"Pengcheng Wu, Steven C. H. Hoi, Peilin Zhao, Ying He",WSDM 2011: 197-206,WSDM,A
+194,GeoQuorum: Load Balancing and Energy Efficient Data Access in Wireless Sensor Networks.,2011,"Jun Luo, Ying He",CoRR abs/1101.0892 ,CORR,Unranked
+195,K-set tilable surfaces.,2010,"Chi-Wing Fu, Chi-Fu Lai, Ying He, Daniel Cohen-Or",ACM Trans. Graph. 29: 44:1-44:6 ,TOG,Unranked
+196,Metric-Driven RoSy Field Design and Remeshing.,2010,"Yu-Kun Lai, Miao Jin, Xuexiang Xie, Ying He, Jonathan Palacios, Eugene Zhang, Shi-Min Hu, Xianfeng Gu",IEEE Trans. Vis. Comput. Graph. 16: 95-108 ,TVCG,Unranked
+197,Real-time computation of photic extremum lines (PELs).,2010,"Long Zhang, Ying He, Hock Soon Seah",Vis. Comput. 26: 399-407 ,VC,Unranked
+198,LayerPaint: a multi-layer interactive 3D painting interface.,2010,"Chi-Wing Fu, Jiazhi Xia, Ying He",CHI 2010: 811-820,CHI,A*
+199,"A System for Capturing, Rendering and Multiplexing Images on Multi-view Autostereoscopic Display.",2010,"Hock Soon Tan, Jiazhi Xia, Ying He, Y. Q. Q. Guan",CW 2010: 325-330,CW,C
+200,Re-texturing by Intrinsic Video.,2010,"Xing Yan, Jianbing Shen, Ying He, Xiaoyang Mao",DICTA 2010: 486-491,DICTA,Australasian C
+201,Parameterization of Star-Shaped Volumes Using Green's Functions.,2010,"Jiazhi Xia, Ying He, Shuchu Han, Chi-Wing Fu, Feng Luo, Xianfeng Gu",GMP 2010: 219-235,GMP,C
+202,Modeling 3D facial expressions using geometry videos.,2010,"Jiazhi Xia, Ying He, Dao Thi Phuong Quynh, Xiaoming Chen, Steven C. H. Hoi",ACM Multimedia 2010: 591-600,MM,Unranked
+203,Hexahedral shell mesh construction via volumetric polycube map.,2010,"Shuchu Han, Jiazhi Xia, Ying He",Symposium on Solid and Physical Modeling 2010: 127-136,SMA,Unranked
+204,Direct-Product Volumetric Parameterization of Handlebodies via Harmonic Fields.,2010,"Jiazhi Xia, Ying He, Xiaotian Yin, Shuchu Han, Xianfeng Gu",Shape Modeling International 2010: 3-12,SMI,Unranked
+205,Geometry-aware domain decomposition for T-spline-based manifold modeling.,2009,"Hongyu Wang, Ying He, Xin Li, Xianfeng Gu, Hong Qin",Comput. Graph. 33: 359-368 ,CG,Unranked
+206,A divide-and-conquer approach for automatic polycube map construction.,2009,"Ying He, Hongyu Wang, Chi-Wing Fu, Hong Qin",Comput. Graph. 33: 369-380 ,CG,Unranked
+207,Harmonic 1-form based skeleton extraction from examples.,2009,"Ying He, Xian Xiao, Hock Soon Seah",Graph. Model. 71: 49-62 ,CVGIP,Unranked
+208,Meshless Harmonic Volumetric Mapping Using Fundamental Solution Methods.,2009,"Xin Li, Xiaohu Guo, Hongyu Wang, Ying He, Xianfeng Gu, Hong Qin",IEEE Trans Autom. Sci. Eng. 6: 409-422 ,TASE,National
+209,Streaming 3D meshes using spectral geometry images.,2009,"Ying He, Boon-Seng Chew, Dayong Wang, Steven Chu-Hong Hoi, Lap-Pui Chau",ACM Multimedia 2009: 431-440,MM,Unranked
+210,Laplacian lines for real-time shape illustration.,2009,"Long Zhang, Ying He, Xuexiang Xie, Wei Chen",SI3D 2009: 129-136,SI3D,Unranked
+211,C∞ smooth freeform surfaces over hyperbolic domains.,2009,"Wei Zeng, Ying He, Jiazhi Xia, Xianfeng Gu, Hong Qin",Symposium on Solid and Physical Modeling 2009: 367-372,SMA,Unranked
+212,Manifold splines with a single extraordinary point.,2008,"Xianfeng Gu, Ying He, Miao Jin, Feng Luo, Hong Qin, Shing-Tung Yau",Comput. Aided Des. 40: 676-690 ,CAD,Unranked
+213,Polycube splines.,2008,"Hongyu Wang, Ying He, Xin Li, Xianfeng Gu, Hong Qin",Comput. Aided Des. 40: 721-733 ,CAD,Unranked
+214,User-controllable polycube map for manifold spline construction.,2008,"Hongyu Wang, Miao Jin, Ying He, Xianfeng Gu, Hong Qin",Symposium on Solid and Physical Modeling 2008: 397-404,SMA,Unranked
+215,Example based skeletonization using harmonic one-forms.,2008,"Ying He, Xian Xiao, Hock Soon Seah",Shape Modeling International 2008: 53-61,SMI,Unranked
+216,Geometric accuracy analysis for discrete surface approximation.,2007,"Junfei Dai, Wei Luo, Miao Jin, Wei Zeng, Ying He, Shing-Tung Yau, Xianfeng Gu",Comput. Aided Geom. Des. 24: 323-338 ,CAGD,Unranked
+217,An Effective Illustrative Visualization Framework Based on Photic Extremum Lines (PELs).,2007,"Xuexiang Xie, Ying He, Feng Tian, Hock Soon Seah, Xianfeng Gu, Hong Qin",IEEE Trans. Vis. Comput. Graph. 13: 1328-1335 ,TVCG,Unranked
+218,Manifold splines with single extraordinary point.,2007,"Xianfeng Gu, Ying He, Miao Jin, Feng Luo, Hong Qin, Shing-Tung Yau",Symposium on Solid and Physical Modeling 2007: 61-72,SMA,Unranked
+219,Harmonic volumetric mapping for solid modeling applications.,2007,"Xin Li, Xiaohu Guo, Hongyu Wang, Ying He, Xianfeng Gu, Hong Qin",Symposium on Solid and Physical Modeling 2007: 109-120,SMA,Unranked
+220,Polycube splines.,2007,"Hongyu Wang, Ying He, Xin Li, Xianfeng Gu, Hong Qin",Symposium on Solid and Physical Modeling 2007: 241-251,SMA,Unranked
+221,Manifold splines.,2006,"Xianfeng Gu, Ying He, Hong Qin",Graph. Model. 68: 237-254 ,CVGIP,Unranked
+222,Automatic Shape Control of Triangular B-Splines of Arbitrary Topology.,2006,"Ying He, Xianfeng Gu, Hong Qin",J. Comput. Sci. Technol. 21: 232-237 ,JCST,Unranked
+223,Spline Thin-Shell Simulation of Manifold Surfaces.,2006,"Kexiang Wang, Ying He, Xiaohu Guo, Hong Qin",Computer Graphics International 2006: 570-577,CGI,C
+224,Manifold T-Spline.,2006,"Ying He, Kexiang Wang, Hongyu Wang, Xianfeng Gu, Hong Qin",GMP 2006: 409-422,GMP,C
+225,Temporal registration of 2D x-ray mammogram using triangular B-splines finite element method (TBFEM).,2006,"Kexiang Wang, Ying He, Hong Qin, Paul R. Fisher, Wei Zhao",Medical Imaging: Image Processing 2006: 614436,MIIP,Unranked
+226,Curves-on-Surface: A General Shape Comparison Framework.,2006,"Xin Li, Ying He, Xianfeng Gu, Hong Qin",SMI 2006: 38,SMI,Unranked
+227,Trivariate Simplex Splines for Inhomogeneous Solid Modeling in Engineering Design.,2005,"Jing Hua, Ying He, Hong Qin",J. Comput. Inf. Sci. Eng. 5: 149-157 ,JCISE,Unranked
+228,Brain Image Analysis Using Spherical Splines.,2005,"Ying He, Xin Li, Xianfeng Gu, Hong Qin",EMMCVPR 2005: 633-644,EMMCVPR,Unranked
+229,Adapted unstructured LBM for flow simulation on curved surfaces.,2005,"Zhe Fan, Ye Zhao, Arie E. Kaufman, Ying He",Symposium on Computer Animation 2005: 245-254,SCA,B
+230,Manifold splines.,2005,"Xianfeng Gu, Ying He, Hong Qin",Symposium on Solid and Physical Modeling 2005: 27-38,SMA,Unranked
+231,Rational Spherical Splines for Genus Zero Shape Modeling.,2005,"Ying He, Xianfeng Gu, Hong Qin",SMI 2005: 82-91,SMI,Unranked
+232,Incorporating Rigid Structures in Non-rigid Registration Using Triangular B-Splines.,2005,"Kexiang Wang, Ying He, Hong Qin",VLSM 2005: 235-246,VLSM,Unranked
+233,A C1 Globally Interpolatory Spline of Arbitrary Topology.,2005,"Ying He, Miao Jin, Xianfeng Gu, Hong Qin",VLSM 2005: 295-306,VLSM,Unranked
+234,Surface Reconstruction with Triangular B-splines.,2004,"Ying He, Hong Qin",GMP 2004: 279-290,GMP,C

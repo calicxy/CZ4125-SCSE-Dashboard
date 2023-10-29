@@ -1,0 +1,61 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,Learning Chemical Rules of Retrosynthesis with Pre-training.,2023,"Yinjie Jiang, Ying Wei, Fei Wu, Zhengxing Huang, Kun Kuang, Zhihua Wang",AAAI 2023: 5113-5121,AAAI,A*
+1,Learning to Substitute Spans towards Improving Compositional Generalization.,2023,"Zhaoyi Li, Ying Wei, Defu Lian",ACL  2023: 2791-2811,ACL,A*
+2,Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective.,2023,"Weixia Zhang, Guangtao Zhai, Ying Wei, Xiaokang Yang, Kede Ma",CVPR 2023: 14071-14081,CVPR,A*
+3,Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective.,2023,"Weixia Zhang, Guangtao Zhai, Ying Wei, Xiaokang Yang, Kede Ma",CoRR abs/2303.14968 ,CORR,Unranked
+4,Learning to Substitute Spans towards Improving Compositional Generalization.,2023,"Zhaoyi Li, Ying Wei, Defu Lian",CoRR abs/2306.02840 ,CORR,Unranked
+5,Disentangling Task Relations for Few-shot Text Classification via Self-Supervised Hierarchical Task Clustering.,2022,"Juan Zha, Zheng Li, Ying Wei, Yu Zhang",EMNLP  2022: 5236-5247,EMNLP,A*
+6,Frustratingly Easy Transferability Estimation.,2022,"Long-Kai Huang, Junzhou Huang, Yu Rong, Qiang Yang, Ying Wei",ICML 2022: 9201-9225,ICML,A*
+7,The Role of Deconfounding in Meta-learning.,2022,"Yinjie Jiang, Zhengyu Chen, Kun Kuang, Luotian Yuan, Xinhai Ye, Zhihua Wang, Fei Wu, Ying Wei",ICML 2022: 10161-10176,ICML,A*
+8,Self-Supervised Text Erasing with Controllable Image Synthesis.,2022,"Gangwei Jiang, Shiyao Wang, Tiezheng Ge, Yuning Jiang, Ying Wei, Defu Lian",ACM Multimedia 2022: 1973-1983,MM,Unranked
+9,Improving Task-Specific Generalization in Few-Shot Learning via Adaptive Vicinal Risk Minimization.,2022,"Long-Kai Huang, Ying Wei",NeurIPS 2022,NIPS,Unranked
+10,Adversarial Task Up-sampling for Meta-learning.,2022,"Yichen Wu, Long-Kai Huang, Ying Wei",NeurIPS 2022,NIPS,Unranked
+11,GRASP: Navigating Retrosynthetic Planning with Goal-driven Policy.,2022,"Yemin Yu, Ying Wei, Kun Kuang, Zhengxing Huang, Huaxiu Yao, Fei Wu",NeurIPS 2022,NIPS,Unranked
+12,A Benchmark and Transformer-based Approach for Automated Hyperparathyroidism Detection.,2022,"Qing Guo, Yufeng Xiao, Huaqing Wang, Mingan Yu, Ying Wei, Zhenlong Zhao",SMC 2022: 2397-2402,SMC,B
+13,Self-Supervised Text Erasing with Controllable Image Synthesis.,2022,"Gangwei Jiang, Shiyao Wang, Tiezheng Ge, Yuning Jiang, Ying Wei, Defu Lian",CoRR abs/2204.12743 ,CORR,Unranked
+14,Learning to generate imaginary tasks for improving generalization in meta-learning.,2022,"Yichen Wu, Long-Kai Huang, Ying Wei",CoRR abs/2206.04335 ,CORR,Unranked
+15,Disentangling Task Relations for Few-shot Text Classification via Self-Supervised Hierarchical Task Clustering.,2022,"Juan Zha, Zheng Li, Ying Wei, Yu Zhang",CoRR abs/2211.08588 ,CORR,Unranked
+16,MetaTS: Meta Teacher-Student Network for Multilingual Sequence Labeling with Minimal Supervision.,2021,"Zheng Li, Danqing Zhang, Tianyu Cao, Ying Wei, Yiwei Song, Bing Yin",EMNLP  2021: 3183-3196,EMNLP,A*
+17,Meta-learning Hyperparameter Performance Prediction with Neural Processes.,2021,"Ying Wei, Peilin Zhao, Junzhou Huang",ICML 2021: 11058-11067,ICML,A*
+18,Improving Generalization in Meta-learning via Task Augmentation.,2021,"Huaxiu Yao, Long-Kai Huang, Linjun Zhang, Ying Wei, Li Tian, James Zou, Junzhou Huang, Zhenhui Li",ICML 2021: 11887-11897,ICML,A*
+19,Meta-learning with an Adaptive Task Scheduler.,2021,"Huaxiu Yao, Yu Wang, Ying Wei, Peilin Zhao, Mehrdad Mahdavi, Defu Lian, Chelsea Finn",NeurIPS 2021: 7497-7509,NIPS,Unranked
+20,Functionally Regionalized Knowledge Transfer for Low-resource Drug Discovery.,2021,"Huaxiu Yao, Ying Wei, Long-Kai Huang, Ding Xue, Junzhou Huang, Zhenhui Li",NeurIPS 2021: 8256-8268,NIPS,Unranked
+21,Frustratingly Easy Transferability Estimation.,2021,"Long-Kai Huang, Ying Wei, Yu Rong, Qiang Yang, Junzhou Huang",CoRR abs/2106.09362 ,CORR,Unranked
+22,Meta-learning with an Adaptive Task Scheduler.,2021,"Huaxiu Yao, Yu Wang, Ying Wei, Peilin Zhao, Mehrdad Mahdavi, Defu Lian, Chelsea Finn",CoRR abs/2110.14057 ,CORR,Unranked
+23,Collaborative Unsupervised Domain Adaptation for Medical Image Diagnosis.,2020,"Yifan Zhang, Ying Wei, Qingyao Wu, Peilin Zhao, Shuaicheng Niu, Junzhou Huang, Mingkui Tan",IEEE Trans. Image Process. 29: 7834-7844 ,TIP,Unranked
+24,Graph Few-Shot Learning via Knowledge Transfer.,2020,"Huaxiu Yao, Chuxu Zhang, Ying Wei, Meng Jiang, Suhang Wang, Junzhou Huang, Nitesh V. Chawla, Zhenhui Li",AAAI 2020: 6656-6663,AAAI,A*
+25,Recognition of Hyperparathyroidism based on Transfer Learning.,2020,"Jiabo Chen, Qing Guo, Zixun Jiang, Huaqing Wang, Mingan Yu, Ying Wei",BIBM 2020: 2959-2961,BIBM,Unranked
+26,Learn to Cross-lingual Transfer with Meta Graph Learning Across Heterogeneous Languages.,2020,"Zheng Li, Mukul Kumar, William Headden, Bing Yin, Ying Wei, Yu Zhang, Qiang Yang",EMNLP  2020: 2290-2301,EMNLP,A*
+27,TranSlider: Transfer Ensemble Learning from Exploitation to Exploration.,2020,"Kuo Zhong, Ying Wei, Chun Yuan, Haoli Bai, Junzhou Huang",KDD 2020: 368-378,KDD,A*
+28,Self-Supervised Graph Transformer on Large-Scale Molecular Data.,2020,"Yu Rong, Yatao Bian, Tingyang Xu, Weiyang Xie, Ying Wei, Wenbing Huang, Junzhou Huang",NeurIPS 2020,NIPS,Unranked
+29,Adversarial Sparse Transformer for Time Series Forecasting.,2020,"Sifan Wu, Xi Xiao, Qianggang Ding, Peilin Zhao, Ying Wei, Junzhou Huang",NeurIPS 2020,NIPS,Unranked
+30,Fisher Deep Domain Adaptation.,2020,"Yinghua Zhang, Yu Zhang, Ying Wei, Kun Bai, Yangqiu Song, Qiang Yang",SDM 2020: 469-477,SDM,A
+31,Fisher Deep Domain Adaptation.,2020,"Yinghua Zhang, Yu Zhang, Ying Wei, Kun Bai, Yangqiu Song, Qiang Yang",CoRR abs/2003.05636 ,CORR,Unranked
+32,COVID-DA: Deep Domain Adaptation from Typical Pneumonia to COVID-19.,2020,"Yifan Zhang, Shuaicheng Niu, Zhen Qiu, Ying Wei, Peilin Zhao, Jianhua Yao, Junzhou Huang, Qingyao Wu, Mingkui Tan",CoRR abs/2005.01577 ,CORR,Unranked
+33,GROVER: Self-supervised Message Passing Transformer on Large-scale Molecular Data.,2020,"Yu Rong, Yatao Bian, Tingyang Xu, Weiyang Xie, Ying Wei, Wenbing Huang, Junzhou Huang",CoRR abs/2007.02835 ,CORR,Unranked
+34,Collaborative Unsupervised Domain Adaptation for Medical Image Diagnosis.,2020,"Yifan Zhang, Ying Wei, Qingyao Wu, Peilin Zhao, Shuaicheng Niu, Junzhou Huang, Mingkui Tan",CoRR abs/2007.07222 ,CORR,Unranked
+35,Don't Overlook the Support Set: Towards Improving Generalization in Meta-learning.,2020,"Huaxiu Yao, Longkai Huang, Ying Wei, Li Tian, Junzhou Huang, Zhenhui Li",CoRR abs/2007.13040 ,CORR,Unranked
+36,Exploiting Coarse-to-Fine Task Transfer for Aspect-Level Sentiment Classification.,2019,"Zheng Li, Ying Wei, Yu Zhang, Xiang Zhang, Xin Li",AAAI 2019: 4253-4260,AAAI,A*
+37,Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning.,2019,"Zheng Li, Xin Li, Ying Wei, Lidong Bing, Yu Zhang, Qiang Yang",EMNLP/IJCNLP  2019: 4589-4599,EMNLP,A*
+38,Hierarchically Structured Meta-learning.,2019,"Huaxiu Yao, Ying Wei, Junzhou Huang, Zhenhui Li",ICML 2019: 7045-7054,ICML,A*
+39,From Whole Slide Imaging to Microscopy: Deep Microscopy Adaptation Network for Histopathology Cancer Image Classification.,2019,"Yifan Zhang, Hanbo Chen, Ying Wei, Peilin Zhao, Jiezhang Cao, Xinjuan Fan, Xiaoying Lou, Hailing Liu, Jinlong Hou, Xiao Han, Jianhua Yao, Qingyao Wu, Mingkui Tan, Junzhou Huang",MICCAI  2019: 360-368,MICCAI,A
+40,Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction.,2019,"Huaxiu Yao, Yiding Liu, Ying Wei, Xianfeng Tang, Zhenhui Li",WWW 2019: 2181-2191,WWW,A*
+41,Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction.,2019,"Huaxiu Yao, Yiding Liu, Ying Wei, Xianfeng Tang, Zhenhui Li",CoRR abs/1901.08518 ,CORR,Unranked
+42,Hierarchically Structured Meta-learning.,2019,"Huaxiu Yao, Ying Wei, Junzhou Huang, Zhenhui Li",CoRR abs/1905.05301 ,CORR,Unranked
+43,Transferable Neural Processes for Hyperparameter Optimization.,2019,"Ying Wei, Peilin Zhao, Huaxiu Yao, Junzhou Huang",CoRR abs/1909.03209 ,CORR,Unranked
+44,Graph Few-shot Learning via Knowledge Transfer.,2019,"Huaxiu Yao, Chuxu Zhang, Ying Wei, Meng Jiang, Suhang Wang, Junzhou Huang, Nitesh V. Chawla, Zhenhui Li",CoRR abs/1910.03053 ,CORR,Unranked
+45,Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning.,2019,"Zheng Li, Xin Li, Ying Wei, Lidong Bing, Yu Zhang, Qiang Yang",CoRR abs/1910.14192 ,CORR,Unranked
+46,Collaborative Unsupervised Domain Adaptation for Medical Image Diagnosis.,2019,"Yifan Zhang, Ying Wei, Peilin Zhao, Shuaicheng Niu, Qingyao Wu, Mingkui Tan, Junzhou Huang",CoRR abs/1911.07293 ,CORR,Unranked
+47,Transferable Contextual Bandit for Cross-Domain Recommendation.,2018,"Bo Liu, Ying Wei, Yu Zhang, Zhixian Yan, Qiang Yang",AAAI 2018: 3619-3626,AAAI,A*
+48,Hierarchical Attention Transfer Network for Cross-Domain Sentiment Classification.,2018,"Zheng Li, Ying Wei, Yu Zhang, Qiang Yang",AAAI 2018: 5852-5859,AAAI,A*
+49,Transfer Learning via Learning to Transfer.,2018,"Ying Wei, Yu Zhang, Junzhou Huang, Qiang Yang",ICML 2018: 5072-5081,ICML,A*
+50,Learning to Multitask.,2018,"Yu Zhang, Ying Wei, Qiang Yang",NeurIPS 2018: 5776-5787,NIPS,Unranked
+51,Learning to Multitask.,2018,"Yu Zhang, Ying Wei, Qiang Yang",CoRR abs/1805.07541 ,CORR,Unranked
+52,Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification.,2018,"Zheng Li, Ying Wei, Yu Zhang, Xiang Zhang, Xin Li, Qiang Yang",CoRR abs/1811.10999 ,CORR,Unranked
+53,End-to-End Adversarial Memory Network for Cross-domain Sentiment Classification.,2017,"Zheng Li, Yu Zhang, Ying Wei, Yuxiang Wu, Qiang Yang",IJCAI 2017: 2237-2243,IJCAI,A*
+54,"Deep Neural Networks for High Dimension, Low Sample Size Data.",2017,"Bo Liu, Ying Wei, Yu Zhang, Qiang Yang",IJCAI 2017: 2287-2293,IJCAI,A*
+55,Learning to Transfer.,2017,"Ying Wei, Yu Zhang, Qiang Yang",CoRR abs/1708.05629 ,CORR,Unranked
+56,Heterogeneous Translated Hashing: A Scalable Solution Towards Multi-Modal Similarity Search.,2016,"Ying Wei, Yangqiu Song, Yi Zhen, Bo Liu, Qiang Yang",ACM Trans. Knowl. Discov. Data 10: 36:1-36:28 ,TKDD,Unranked
+57,Instilling Social to Physical: Co-Regularized Heterogeneous Transfer Learning.,2016,"Ying Wei, Yin Zhu, Cane Wing-ki Leung, Yangqiu Song, Qiang Yang",AAAI 2016: 1338-1344,AAAI,A*
+58,Transfer Knowledge between Cities.,2016,"Ying Wei, Yu Zheng, Qiang Yang",KDD 2016: 1905-1914,KDD,A*
+59,Scalable heterogeneous translated hashing.,2014,"Ying Wei, Yangqiu Song, Yi Zhen, Bo Liu, Qiang Yang",KDD 2014: 791-800,KDD,A*

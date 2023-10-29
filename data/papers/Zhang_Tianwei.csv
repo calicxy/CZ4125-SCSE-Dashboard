@@ -1,0 +1,168 @@
+,Title,Year,Authors,Journal,Journal Acronym,Rank
+0,DefQ: Defensive Quantization Against Inference Slow-Down Attack for Edge Computing.,2023,"Han Qiu, Tianwei Zhang, Tianzhu Zhang, Hongyu Li, Meikang Qiu",IEEE Internet Things J. 10: 3243-3251 ,IOTJ,Unranked
+1,A survey on cybersecurity attacks and defenses for unmanned aerial systems.,2023,"Zhaoxuan Wang, Yang Li, Shihao Wu, Yuan Zhou, Libin Yang, Yuan Xu, Tianwei Zhang, Quan Pan",J. Syst. Archit. 138: 102870 ,JSA,Unranked
+2,Automatic Transformation Search Against Deep Leakage From Gradients.,2023,"Wei Gao, Xu Zhang, Shangwei Guo, Tianwei Zhang, Tao Xiang, Han Qiu, Yonggang Wen, Yang Liu",IEEE Trans. Pattern Anal. Mach. Intell. 45: 10650-10668 ,PAMI,Unranked
+3,Cooperative collision avoidance in multirobot systems using fuzzy rules and velocity obstacles.,2023,"Wenbing Tang, Yuan Zhou, Tianwei Zhang, Yang Liu, Jing Liu, Zuohua Ding",Robotica 41: 668-689 ,ROBOTICA,Unranked
+4,Physical Black-Box Adversarial Attacks Through Transformations.,2023,"Wenbo Jiang, Hongwei Li, Guowen Xu, Tianwei Zhang, Rongxing Lu",IEEE Trans. Big Data 9: 964-974 ,TBD,Unranked
+5,"Share Your Data Carefree: An Efficient, Scalable and Privacy-Preserving Data Sharing Service in Cloud Computing.",2023,"Jianfei Sun, Guowen Xu, Tianwei Zhang, Hu Xiong, Hongwei Li, Robert H. Deng",IEEE Trans. Cloud Comput. 11: 822-838 ,TCC,A
+6,Secure Decentralized Image Classification With Multiparty Homomorphic Encryption.,2023,"Guowen Xu, Guanlin Li, Shangwei Guo, Tianwei Zhang, Hongwei Li",IEEE Trans. Circuits Syst. Video Technol. 33: 3185-3198 ,TCSV,Unranked
+7,Can We Mitigate Backdoor Attack Using Adversarial Detection Methods?,2023,"Kaidi Jin, Tianwei Zhang, Chao Shen, Yufei Chen, Ming Fan, Chenhao Lin, Ting Liu",IEEE Trans. Dependable Secur. Comput. 20: 2867-2881 ,TDSC,Unranked
+8,Hercules: Boosting the Performance of Privacy-Preserving Federated Learning.,2023,"Guowen Xu, Xingshuo Han, Shengmin Xu, Tianwei Zhang, Hongwei Li, Xinyi Huang, Robert H. Deng",IEEE Trans. Dependable Secur. Comput. 20: 4418-4433 ,TDSC,Unranked
+9,"Verifiable, Fair and Privacy-Preserving Broadcast Authorization for Flexible Data Sharing in Clouds.",2023,"Jianfei Sun, Guowen Xu, Tianwei Zhang, Xuehuan Yang, Mamoun Alazab, Robert H. Deng",IEEE Trans. Inf. Forensics Secur. 18: 683-698 ,TIFS,Unranked
+10,PriVDT: An Efficient Two-Party Cryptographic Framework for Vertical Decision Trees.,2023,"Hanxiao Chen, Hongwei Li, Yingzhe Wang, Meng Hao, Guowen Xu, Tianwei Zhang",IEEE Trans. Inf. Forensics Secur. 18: 1006-1021 ,TIFS,Unranked
+11,FastSecNet: An Efficient Cryptographic Framework for Private Neural Network Inference.,2023,"Meng Hao, Hongwei Li, Hanxiao Chen, Pengzhi Xing, Tianwei Zhang",IEEE Trans. Inf. Forensics Secur. 18: 2569-2582 ,TIFS,Unranked
+12,Privacy-Aware and Security-Enhanced Efficient Matchmaking Encryption.,2023,"Jianfei Sun, Guowen Xu, Tianwei Zhang, Xuehuan Yang, Mamoun Alazab, Robert H. Deng",IEEE Trans. Inf. Forensics Secur. 18: 4345-4360 ,TIFS,Unranked
+13,Erase and Repair: An Efficient Box-Free Removal Attack on High-Capacity Deep Hiding.,2023,"Hangcheng Liu, Tao Xiang, Shangwei Guo, Han Li, Tianwei Zhang, Xiaofeng Liao",IEEE Trans. Inf. Forensics Secur. 18: 5229-5242 ,TIFS,Unranked
+14,ADS-Lead: Lifelong Anomaly Detection in Autonomous Driving Systems.,2023,"Xingshuo Han, Yuan Zhou, Kangjie Chen, Han Qiu, Meikang Qiu, Yang Liu, Tianwei Zhang",IEEE Trans. Intell. Transp. Syst. 24: 1039-1051 ,TITS,Unranked
+15,Secure Data Sharing With Flexible Cross-Domain Authorization in Autonomous Vehicle Systems.,2023,"Jianfei Sun, Guowen Xu, Tianwei Zhang, Xiaochun Cheng, Xingshuo Han, Mingjian Tang",IEEE Trans. Intell. Transp. Syst. 24: 7527-7540 ,TITS,Unranked
+16,Multi-target Backdoor Attacks for Code Pre-trained Models.,2023,"Yanzhou Li, Shangqing Liu, Kangjie Chen, Xiaofei Xie, Tianwei Zhang, Yang Liu",ACL  2023: 7236-7254,ACL,A*
+17,"Lucid: A Non-intrusive, Scalable and Interpretable Scheduler for Deep Learning Training Jobs.",2023,"Qinghao Hu, Meng Zhang, Peng Sun, Yonggang Wen, Tianwei Zhang",ASPLOS  2023: 457-472,ASPLOS,A*
+18,PriFR: Privacy-preserving Large-scale File Retrieval System via Blockchain for Encrypted Cloud Data.,2023,"Hao Ren, Guowen Xu, Han Qiu, Tianwei Zhang",BigDataSecurity/HPSC/IDS 2023: 16-23,BIGDATASEC,Unranked
+19,Color Backdoor: A Robust Poisoning Attack in Color Space.,2023,"Wenbo Jiang, Hongwei Li, Guowen Xu, Tianwei Zhang",CVPR 2023: 8133-8142,CVPR,A*
+20,SoK: Rethinking Sensor Spoofing Attacks against Robotic Vehicles from a Systematic View.,2023,"Yuan Xu, Xingshuo Han, Gelei Deng, Jiwei Li, Yang Liu, Tianwei Zhang",EuroS&P 2023: 1082-1100,EUROSP,Unranked
+21,Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only.,2023,"Kangjie Chen, Xiaoxuan Lou, Guowen Xu, Jiwei Li, Tianwei Zhang",ICLR 2023,ICLR,A*
+22,Extracting Robust Models with Uncertain Examples.,2023,"Guanlin Li, Guowen Xu, Shangwei Guo, Han Qiu, Jiwei Li, Tianwei Zhang",ICLR 2023,ICLR,A*
+23,GuardHFL: Privacy Guardian for Heterogeneous Federated Learning.,2023,"Hanxiao Chen, Meng Hao, Hongwei Li, Kangjie Chen, Guowen Xu, Tianwei Zhang, Xilin Zhang",ICML 2023: 4566-4584,ICML,A*
+24,Mind Your Heart: Stealthy Backdoor Attack on Dynamic Deep Neural Network in Edge Computing.,2023,"Tian Dong, Ziyuan Zhang, Han Qiu, Tianwei Zhang, Hewu Li, Terry Wang",INFOCOM 2023: 1-10,INFOCOM,A*
+25,Hydro: Surrogate-Based Hyperparameter Tuning Service in Datacenters.,2023,"Qinghao Hu, Zhisheng Ye, Meng Zhang, Qiaoling Chen, Peng Sun, Yonggang Wen, Tianwei Zhang",OSDI 2023: 757-777,OSDI,A*
+26,Aegis: Mitigating Targeted Bit-flip Attacks against Deep Neural Networks.,2023,"Jialai Wang, Ziyuan Zhang, Meiqi Wang, Han Qiu, Tianwei Zhang, Qi Li, Zongpeng Li, Tao Wei, Chao Zhang",USENIX Security Symposium 2023: 2329-2346,USS,Unranked
+27,NAUTILUS: Automated RESTful API Vulnerability Detection.,2023,"Gelei Deng, Zhiyi Zhang, Yuekang Li, Yi Liu, Tianwei Zhang, Yang Liu, Guo Yu, Dongjin Wang",USENIX Security Symposium 2023: 5593-5609,USS,Unranked
+28,Smaller Is Bigger: Rethinking the Embedding Rate of Deep Hiding.,2023,"Han Li, Hangcheng Liu, Shangwei Guo, Mingliang Zhou, Ning Wang, Tao Xiang, Tianwei Zhang",CoRR abs/2302.11918 ,CORR,Unranked
+29,Aegis: Mitigating Targeted Bit-flip Attacks against Deep Neural Networks.,2023,"Jialai Wang, Ziyuan Zhang, Meiqi Wang, Han Qiu, Tianwei Zhang, Qi Li, Zongpeng Li, Tao Wei, Chao Zhang",CoRR abs/2302.13520 ,CORR,Unranked
+30,Boosting Distributed Full-graph GNN Training with Asynchronous One-bit Communication.,2023,"Meng Zhang, Qinghao Hu, Peng Sun, Yonggang Wen, Tianwei Zhang",CoRR abs/2303.01277 ,CORR,Unranked
+31,Backdoor Attacks with Input-unique Triggers in NLP.,2023,"Xukun Zhou, Jiwei Li, Tianwei Zhang, Lingjuan Lyu, Muqiao Yang, Jun He",CoRR abs/2303.14325 ,CORR,Unranked
+32,GPT-NER: Named Entity Recognition via Large Language Models.,2023,"Shuhe Wang, Xiaofei Sun, Xiaoya Li, Rongbin Ouyang, Fei Wu, Tianwei Zhang, Jiwei Li, Guoyin Wang",CoRR abs/2304.10428 ,CORR,Unranked
+33,Text Classification via Large Language Models.,2023,"Xiaofei Sun, Xiaoya Li, Jiwei Li, Fei Wu, Shangwei Guo, Tianwei Zhang, Guoyin Wang",CoRR abs/2305.08377 ,CORR,Unranked
+34,Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study.,2023,"Yi Liu, Gelei Deng, Zhengzi Xu, Yuekang Li, Yaowen Zheng, Ying Zhang, Lida Zhao, Tianwei Zhang, Yang Liu",CoRR abs/2305.13860 ,CORR,Unranked
+35,Extracting Cloud-based Model with Prior Knowledge.,2023,"Shiqian Zhao, Kangjie Chen, Meng Hao, Jian Zhang, Guowen Xu, Hongwei Li, Tianwei Zhang",CoRR abs/2306.04192 ,CORR,Unranked
+36,Prompt Injection attack against LLM-integrated Applications.,2023,"Yi Liu, Gelei Deng, Yuekang Li, Kailong Wang, Tianwei Zhang, Yepang Liu, Haoyu Wang, Yan Zheng, Yang Liu",CoRR abs/2306.05499 ,CORR,Unranked
+37,Multi-target Backdoor Attacks for Code Pre-trained Models.,2023,"Yanzhou Li, Shangqing Liu, Kangjie Chen, Xiaofei Xie, Tianwei Zhang, Yang Liu",CoRR abs/2306.08350 ,CORR,Unranked
+38,Omnipotent Adversarial Training for Unknown Label-noisy and Imbalanced Datasets.,2023,"Guanlin Li, Kangjie Chen, Yuan Xu, Han Qiu, Tianwei Zhang",CoRR abs/2307.08596 ,CORR,Unranked
+39,Jailbreaker: Automated Jailbreak Across Multiple Large Language Model Chatbots.,2023,"Gelei Deng, Yi Liu, Yuekang Li, Kailong Wang, Ying Zhang, Zefeng Li, Haoyu Wang, Tianwei Zhang, Yang Liu",CoRR abs/2307.08715 ,CORR,Unranked
+40,Adversarial Training Over Long-Tailed Distribution.,2023,"Guanlin Li, Guowen Xu, Tianwei Zhang",CoRR abs/2307.10205 ,CORR,Unranked
+41,Mercury: An Automated Remote Side-channel Attack to Nvidia Deep Learning Accelerator.,2023,"Xiaobei Yan, Xiaoxuan Lou, Guowen Xu, Han Qiu, Shangwei Guo, Chip-Hong Chang, Tianwei Zhang",CoRR abs/2308.01193 ,CORR,Unranked
+42,PentestGPT: An LLM-empowered Automatic Penetration Testing Tool.,2023,"Gelei Deng, Yi Liu, Victor Mayoral Vilches, Peng Liu, Yuekang Li, Yuan Xu, Tianwei Zhang, Yang Liu, Martin Pinzger, Stefan Rass",CoRR abs/2308.06782 ,CORR,Unranked
+43,One-bit Flip is All You Need: When Bit-flip Attack Meets Model Training.,2023,"Jianshuo Dong, Han Qiu, Yiming Li, Tianwei Zhang, Yuanjie Li, Zeqi Lai, Chao Zhang, Shu-Tao Xia",CoRR abs/2308.07934 ,CORR,Unranked
+44,Instruction Tuning for Large Language Models: A Survey.,2023,"Shengyu Zhang, Linfeng Dong, Xiaoya Li, Sen Zhang, Xiaofei Sun, Shuhe Wang, Jiwei Li, Runyi Hu, Tianwei Zhang, Fei Wu, Guoyin Wang",CoRR abs/2308.10792 ,CORR,Unranked
+45,Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models.,2023,"Renyang Liu, Wei Zhou, Tianwei Zhang, Kangjie Chen, Jun Zhao, Kwok-Yan Lam",CoRR abs/2310.07492 ,CORR,Unranked
+46,"A Survey of Microarchitectural Side-channel Vulnerabilities, Attacks, and Defenses in Cryptography.",2022,"Xiaoxuan Lou, Tianwei Zhang, Jun Jiang, Yinqian Zhang",ACM Comput. Surv. 54: 122:1-122:37 ,CSUR,Unranked
+47,Online adaptation for autonomous unmanned systems driven by requirements satisfaction model.,2022,"Yixing Luo, Yuan Zhou, Haiyan Zhao, Zhi Jin, Tianwei Zhang, Yang Liu, Danny Barthaud, Yijun Yu",Softw. Syst. Model. 21: 1295-1319 ,SOSYM,Unranked
+48,Sentence Similarity Based on Contexts.,2022,"Xiaofei Sun, Yuxian Meng, Xiang Ao, Fei Wu, Tianwei Zhang, Jiwei Li, Chun Fan",Trans. Assoc. Comput. Linguistics 10: 573-588 ,TACL,Unranked
+49,Topology-Aware Differential Privacy for Decentralized Image Classification.,2022,"Shangwei Guo, Tianwei Zhang, Guowen Xu, Han Yu, Tao Xiang, Yang Liu",IEEE Trans. Circuits Syst. Video Technol. 32: 4016-4027 ,TCSV,Unranked
+50,Byzantine-Resilient Decentralized Stochastic Gradient Descent.,2022,"Shangwei Guo, Tianwei Zhang, Han Yu, Xiaofei Xie, Lei Ma, Tao Xiang, Yang Liu",IEEE Trans. Circuits Syst. Video Technol. 32: 4096-4106 ,TCSV,Unranked
+51,Ownership Verification of DNN Architectures via Hardware Cache Side Channels.,2022,"Xiaoxuan Lou, Shangwei Guo, Jiwei Li, Tianwei Zhang",IEEE Trans. Circuits Syst. Video Technol. 32: 8078-8093 ,TCSV,Unranked
+52,A Practical Fog-Based Privacy-Preserving Online Car-Hailing Service System.,2022,"Jianfei Sun, Guowen Xu, Tianwei Zhang, Mamoun Alazab, Robert H. Deng",IEEE Trans. Inf. Forensics Secur. 17: 2862-2877 ,TIFS,Unranked
+53,Introduction to the Special Section on Energy-efficient and Secure Computing for Artificial Intelligence and Beyond.,2022,"Meikang Qiu, Ke Xu, Cheng Zhang, Tianwei Zhang",ACM Trans. Sens. Networks 18: 51e:1-51e:3 ,TOSN,Unranked
+54,Astraea: A Fair Deep Learning Scheduler for Multi-Tenant GPU Clusters.,2022,"Zhisheng Ye, Peng Sun, Wei Gao, Tianwei Zhang, Xiaolin Wang, Shengen Yan, Yingwei Luo",IEEE Trans. Parallel Distributed Syst. 33: 2781-2793 ,TPDS,Unranked
+55,Fast Nearest Neighbor Machine Translation.,2022,"Yuxian Meng, Xiaoya Li, Xiayu Zheng, Fei Wu, Xiaofei Sun, Tianwei Zhang, Jiwei Li",ACL  2022: 555-565,ACL,A*
+56,On the (In)Security of Secure ROS2.,2022,"Gelei Deng, Guowen Xu, Yuan Zhou, Tianwei Zhang, Yang Liu",CCS 2022: 739-753,CCS,A*
+57,Cache Refinement Type for Side-Channel Detection of Cryptographic Software.,2022,"Ke Jiang, Yuyan Bao, Shuai Wang, Zhibo Liu, Tianwei Zhang",CCS 2022: 1583-1597,CCS,A*
+58,Titan: a scheduler for foundation model fine-tuning workloads.,2022,"Wei Gao, Peng Sun, Yonggang Wen, Tianwei Zhang",SoCC 2022: 348-354,CLOUD,B
+59,Improving Adversarial Robustness of 3D Point Cloud Classification Models.,2022,"Guanlin Li, Guowen Xu, Han Qiu, Ruan He, Jiwei Li, Tianwei Zhang",ECCV  2022: 672-689,ECCV,A*
+60,Watermarking Pre-trained Encoders in Contrastive Learning.,2022,"Yutong Wu, Han Qiu, Tianwei Zhang, Jiwei Li, Meikang Qiu",ICDIS 2022: 228-233,ICDIS,Unranked
+61,A Formal Methodology for Verifying Side-Channel Vulnerabilities in Cache Architectures.,2022,"Ke Jiang, Tianwei Zhang, David Sanán, Yongwang Zhao, Yang Liu",ICFEM 2022: 190-208,ICFEM,C
+62,BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models.,2022,"Kangjie Chen, Yuxian Meng, Xiaofei Sun, Shangwei Guo, Tianwei Zhang, Jiwei Li, Chun Fan",ICLR 2022,ICLR,A*
+63,NASPY: Automated Extraction of Automated Machine Learning Models.,2022,"Xiaoxuan Lou, Shangwei Guo, Jiwei Li, Yaoxin Wu, Tianwei Zhang",ICLR 2022,ICLR,A*
+64,GNN-LM: Language Modeling based on Global Contexts via GNN.,2022,"Yuxian Meng, Shi Zong, Xiaoya Li, Xiaofei Sun, Tianwei Zhang, Fei Wu, Jiwei Li",ICLR 2022,ICLR,A*
+65,Text's Armor: Optimized Local Adversarial Perturbation Against Scene Text Editing Attacks.,2022,"Tao Xiang, Hangcheng Liu, Shangwei Guo, Hantao Liu, Tianwei Zhang",ACM Multimedia 2022: 2777-2785,MM,Unranked
+66,Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving.,2022,"Xingshuo Han, Guowen Xu, Yuan Zhou, Xuehuan Yang, Jiwei Li, Tianwei Zhang",ACM Multimedia 2022: 2957-2968,MM,Unranked
+67,Triggerless Backdoor Attack for NLP Tasks with Clean Labels.,2022,"Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Yi Yang, Shangwei Guo, Chun Fan",NAACL-HLT 2022: 2942-2952,NAACL,A
+68,Iron: Private Inference on Transformers.,2022,"Meng Hao, Hongwei Li, Hanxiao Chen, Pengzhi Xing, Guowen Xu, Tianwei Zhang",NeurIPS 2022,NIPS,Unranked
+69,Primo: Practical Learning-Augmented Systems with Interpretable Models.,2022,"Qinghao Hu, Harsha Nori, Peng Sun, Yonggang Wen, Tianwei Zhang",USENIX Annual Technical Conference 2022: 519-538,USENIX,A
+70,"Knowledge Science, Engineering and Management - 15th International Conference, KSEM 2022, Singapore, August 6-8, 2022, Proceedings, Part I.",2022,"Gérard Memmi, Baijian Yang, Linghe Kong, Tianwei Zhang, Meikang Qiu","Lecture Notes in Computer Science 13368, Springer 2022, ISBN 978-3-031-10982-9 ",KSEM,C
+71,"Knowledge Science, Engineering and Management - 15th International Conference, KSEM 2022, Singapore, August 6-8, 2022, Proceedings, Part II.",2022,"Gérard Memmi, Baijian Yang, Linghe Kong, Tianwei Zhang, Meikang Qiu","Lecture Notes in Computer Science 13369, Springer 2022, ISBN 978-3-031-10985-0 ",KSEM,C
+72,"Knowledge Science, Engineering and Management - 15th International Conference, KSEM 2022, Singapore, August 6-8, 2022, Proceedings, Part III.",2022,"Gérard Memmi, Baijian Yang, Linghe Kong, Tianwei Zhang, Meikang Qiu","Lecture Notes in Computer Science 13370, Springer 2022, ISBN 978-3-031-10988-1 ",KSEM,C
+73,Watermarking Pre-trained Encoders in Contrastive Learning.,2022,"Yutong Wu, Han Qiu, Tianwei Zhang, Jiwei Li, Meikang Qiu",CoRR abs/2201.08217 ,CORR,Unranked
+74,Threats to Pre-trained Language Models: Survey and Taxonomy.,2022,"Shangwei Guo, Chunlong Xie, Jiwei Li, Lingjuan Lyu, Tianwei Zhang",CoRR abs/2202.06862 ,CORR,Unranked
+75,Clean-Annotation Backdoor Attack against Lane Detection Systems in the Wild.,2022,"Xingshuo Han, Guowen Xu, Yuan Zhou, Xuehuan Yang, Jiwei Li, Tianwei Zhang",CoRR abs/2203.00858 ,CORR,Unranked
+76,kNN-NER: Named Entity Recognition with Nearest Neighbor Search.,2022,"Shuhe Wang, Xiaoya Li, Yuxian Meng, Tianwei Zhang, Rongbin Ouyang, Jiwei Li, Guoyin Wang",CoRR abs/2203.17103 ,CORR,Unranked
+77,ShiftNAS: Towards Automatic Generation of Advanced Mulitplication-Less Neural Networks.,2022,"Xiaoxuan Lou, Guowen Xu, Kangjie Chen, Guanlin Li, Jiwei Li, Tianwei Zhang",CoRR abs/2204.05113 ,CORR,Unranked
+78,SoK: Rethinking Sensor Spoofing Attacks against Robotic Vehicles from a Systematic View.,2022,"Yuan Xu, Xingshuo Han, Gelei Deng, Guanlin Li, Yang Liu, Jiwei Li, Tianwei Zhang",CoRR abs/2205.04662 ,CORR,Unranked
+79,"Deep Learning Workload Scheduling in GPU Datacenters: Taxonomy, Challenges and Vision.",2022,"Wei Gao, Qinghao Hu, Zhisheng Ye, Peng Sun, Xiaolin Wang, Yingwei Luo, Tianwei Zhang, Yonggang Wen",CoRR abs/2205.11913 ,CORR,Unranked
+80,Privacy-preserving Decentralized Deep Learning with Multiparty Homomorphic Encryption.,2022,"Guowen Xu, Guanlin Li, Shangwei Guo, Tianwei Zhang, Hongwei Li",CoRR abs/2207.04604 ,CORR,Unranked
+81,Hercules: Boosting the Performance of Privacy-preserving Federated Learning.,2022,"Guowen Xu, Xingshuo Han, Shengmin Xu, Tianwei Zhang, Hongwei Li, Xinyi Huang, Robert H. Deng",CoRR abs/2207.04620 ,CORR,Unranked
+82,SIMC 2.0: Improved Secure ML Inference Against Malicious Clients.,2022,"Guowen Xu, Xingshuo Han, Tianwei Zhang, Hongwei Li, Robert H. Deng",CoRR abs/2207.04637 ,CORR,Unranked
+83,Cache Refinement Type for Side-Channel Detection of Cryptographic Software.,2022,"Ke Jiang, Yuyan Bao, Shuai Wang, Zhibo Liu, Tianwei Zhang",CoRR abs/2209.04610 ,CORR,Unranked
+84,VerifyML: Obliviously Checking Model Fairness Resilient to Malicious Model Holder.,2022,"Guowen Xu, Xingshuo Han, Gelei Deng, Tianwei Zhang, Shengmin Xu, Jianting Ning, Anjia Yang, Hongwei Li",CoRR abs/2210.08418 ,CORR,Unranked
+85,New Secure Sparse Inner Product with Applications to Machine Learning.,2022,"Guowen Xu, Shengmin Xu, Jianting Ning, Tianwei Zhang, Xinyi Huang, Hongwei Li, Rongxing Lu",CoRR abs/2210.08421 ,CORR,Unranked
+86,A Benchmark of Long-tailed Instance Segmentation with Noisy Labels (Short Version).,2022,"Guanlin Li, Guowen Xu, Tianwei Zhang",CoRR abs/2211.13435 ,CORR,Unranked
+87,Efficiency Boosting of Secure Cross-platform Recommender Systems over Sparse Data.,2022,"Hao Ren, Guowen Xu, Tianwei Zhang, Jianting Ning, Xinyi Huang, Hongwei Li, Rongxing Lu",CoRR abs/2212.01537 ,CORR,Unranked
+88,GNN-SL: Sequence Labeling Based on Nearest Examples via GNN.,2022,"Shuhe Wang, Yuxian Meng, Rongbin Ouyang, Jiwei Li, Tianwei Zhang, Lingjuan Lyu, Guoyin Wang",CoRR abs/2212.02017 ,CORR,Unranked
+89,Mind Your Heart: Stealthy Backdoor Attack on Dynamic Deep Neural Network in Edge Computing.,2022,"Tian Dong, Ziyuan Zhang, Han Qiu, Tianwei Zhang, Hewu Li, Terry Wang",CoRR abs/2212.11751 ,CORR,Unranked
+90,Toward Secure and Efficient Deep Learning Inference in Dependable IoT Systems.,2021,"Han Qiu, Qinkai Zheng, Tianwei Zhang, Meikang Qiu, Gérard Memmi, Jialiang Lu",IEEE Internet Things J. 8: 3180-3188 ,IOTJ,Unranked
+91,Attacking and Protecting Data Privacy in Edge-Cloud Collaborative Inference Systems.,2021,"Zecheng He, Tianwei Zhang, Ruby B. Lee",IEEE Internet Things J. 8: 9706-9716 ,IOTJ,Unranked
+92,Adversarial Attacks Against Network Intrusion Detection in IoT Systems.,2021,"Han Qiu, Tian Dong, Tianwei Zhang, Jialiang Lu, Gérard Memmi, Meikang Qiu",IEEE Internet Things J. 8: 10327-10335 ,IOTJ,Unranked
+93,Novel denial-of-service attacks against cloud-based multi-robot systems.,2021,"Yuan Xu, Gelei Deng, Tianwei Zhang, Han Qiu, Yungang Bao",Inf. Sci. 576: 329-344 ,ISCI,Unranked
+94,"Efficient, Private and Robust Federated Learning.",2021,"Meng Hao, Hongwei Li, Guowen Xu, Hanxiao Chen, Tianwei Zhang",ACSAC 2021: 45-60,ACSAC,A
+95,Stealing Deep Reinforcement Learning Models for Fun and Profit.,2021,"Kangjie Chen, Shangwei Guo, Tianwei Zhang, Xiaofei Xie, Yang Liu",AsiaCCS 2021: 307-319,ASIACCS,Unranked
+96,DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation.,2021,"Han Qiu, Yi Zeng, Shangwei Guo, Tianwei Zhang, Meikang Qiu, Bhavani Thuraisingham",AsiaCCS 2021: 363-377,ASIACCS,Unranked
+97,Temporal Watermarks for Deep Reinforcement Learning Models.,2021,"Kangjie Chen, Shangwei Guo, Tianwei Zhang, Shuxin Li, Yang Liu",AAMAS 2021: 314-322,ATAL,Unranked
+98,Chronus: A Novel Deadline-aware Scheduler for Deep Learning Training Jobs.,2021,"Wei Gao, Zhisheng Ye, Peng Sun, Yonggang Wen, Tianwei Zhang",SoCC 2021: 609-623,CLOUD,B
+99,Privacy-Preserving Collaborative Learning With Automatic Transformation Search.,2021,"Wei Gao, Shangwei Guo, Tianwei Zhang, Han Qiu, Yonggang Wen, Yang Liu",CVPR 2021: 114-123,CVPR,A*
+100,Layer-wise Model Pruning based on Mutual Information.,2021,"Chun Fan, Jiwei Li, Tianwei Zhang, Xiang Ao, Fei Wu, Yuxian Meng, Xiaofei Sun",EMNLP  2021: 3079-3090,EMNLP,A*
+101,kFolden: k-Fold Ensemble for Out-Of-Distribution Detection.,2021,"Xiaoya Li, Jiwei Li, Xiaofei Sun, Chun Fan, Tianwei Zhang, Fei Wu, Yuxian Meng, Jun Zhang",EMNLP  2021: 3102-3115,EMNLP,A*
+102,Fine-tuning Is Not Enough: A Simple yet Effective Watermark Removal Attack for DNN Models.,2021,"Shangwei Guo, Tianwei Zhang, Han Qiu, Yi Zeng, Tao Xiang, Yang Liu",IJCAI 2021: 3635-3641,IJCAI,A*
+103,Towards Practical Cloud Offloading for Low-cost Ground Vehicle Workloads.,2021,"Yuan Xu, Tianwei Zhang, Jimin Han, Sa Wang, Yungang Bao",IPDPS 2021: 734-745,IPPS,Unranked
+104,A Unified Anomaly Detection Methodology for Lane-Following of Autonomous Driving Systems.,2021,"Xingshuo Han, Kangjie Chen, Yuan Zhou, Meikang Qiu, Chun Fan, Yang Liu, Tianwei Zhang",ISPA/BDCloud/SocialCom/SustainCom 2021: 836-844,ISPA,C
+105,Systematic Testing of Autonomous Driving Systems Using Map Topology-Based Scenario Classification.,2021,"Yun Tang, Yuan Zhou, Tianwei Zhang, Fenghua Wu, Yang Liu, Gang Wang",ASE 2021: 1342-1346,KBSE,Unranked
+106,Practical and Scalable Security Verification of Secure Architectures.,2021,"Tianwei Zhang, Jakub Jakub, Ruby B. Lee",HASP@MICRO 2021: 2:1-2:9,MICRO,Unranked
+107,Analysis and Mitigation of Function Interaction Risks in Robot Apps.,2021,"Yuan Xu, Tianwei Zhang, Yungang Bao",RAID 2021: 1-16,RAID,A
+108,An Investigation of Byzantine Threats in Multi-Robot Systems.,2021,"Gelei Deng, Yuan Zhou, Yuan Xu, Tianwei Zhang, Yang Liu",RAID 2021: 17-32,RAID,A
+109,Characterization and prediction of deep learning workloads in large-scale GPU datacenters.,2021,"Qinghao Hu, Peng Sun, Shengen Yan, Yonggang Wen, Tianwei Zhang",SC 2021: 104,SC,A
+110,Local Black-box Adversarial Attacks: A Query Efficient Approach.,2021,"Tao Xiang, Hangcheng Liu, Shangwei Guo, Tianwei Zhang, Xiaofeng Liao",CoRR abs/2101.01032 ,CORR,Unranked
+111,When NAS Meets Watermarking: Ownership Verification of DNN Models via Cache Side Channels.,2021,"Xiaoxuan Lou, Shangwei Guo, Tianwei Zhang, Yinqian Zhang, Yang Liu",CoRR abs/2102.03523 ,CORR,Unranked
+112,Risk Analysis and Policy Enforcement of Function Interactions in Robot Apps.,2021,"Yuan Xu, Tianwei Zhang, Yungang Bao",CoRR abs/2103.12365 ,CORR,Unranked
+113,"A Survey of Microarchitectural Side-channel Vulnerabilities, Attacks and Defenses in Cryptography.",2021,"Xiaoxuan Lou, Tianwei Zhang, Jun Jiang, Yinqian Zhang",CoRR abs/2103.14244 ,CORR,Unranked
+114,Sentence Similarity Based on Contexts.,2021,"Xiaofei Sun, Yuxian Meng, Xiang Ao, Fei Wu, Tianwei Zhang, Jiwei Li, Chun Fan",CoRR abs/2105.07623 ,CORR,Unranked
+115,Modeling Text-visual Mutual Dependency for Multi-modal Dialog Generation.,2021,"Shuhe Wang, Yuxian Meng, Xiaofei Sun, Fei Wu, Rongbin Ouyang, Rui Yan, Tianwei Zhang, Jiwei Li",CoRR abs/2105.14445 ,CORR,Unranked
+116,Parameter Estimation for the SEIR Model Using Recurrent Nets.,2021,"Chun Fan, Yuxian Meng, Xiaofei Sun, Fei Wu, Tianwei Zhang, Jiwei Li",CoRR abs/2105.14524 ,CORR,Unranked
+117,Fast Nearest Neighbor Machine Translation.,2021,"Yuxian Meng, Xiaoya Li, Xiayu Zheng, Fei Wu, Xiaofei Sun, Tianwei Zhang, Jiwei Li",CoRR abs/2105.14528 ,CORR,Unranked
+118,Defending against Backdoor Attacks in Natural Language Generation.,2021,"Chun Fan, Xiaoya Li, Yuxian Meng, Xiaofei Sun, Xiang Ao, Fei Wu, Jiwei Li, Tianwei Zhang",CoRR abs/2106.01810 ,CORR,Unranked
+119,PEEL: A Provable Removal Attack on Deep Hiding.,2021,"Tao Xiang, Hangcheng Liu, Shangwei Guo, Tianwei Zhang",CoRR abs/2106.02779 ,CORR,Unranked
+120,A Stealthy and Robust Fingerprinting Scheme for Generative Models.,2021,"Guanlin Li, Shangwei Guo, Run Wang, Guowen Xu, Tianwei Zhang",CoRR abs/2106.11760 ,CORR,Unranked
+121,kFolden: k-Fold Ensemble for Out-Of-Distribution Detection.,2021,"Xiaoya Li, Jiwei Li, Xiaofei Sun, Chun Fan, Tianwei Zhang, Fei Wu, Yuxian Meng, Jun Zhang",CoRR abs/2108.12731 ,CORR,Unranked
+122,Characterization and Prediction of Deep Learning Workloads in Large-Scale GPU Datacenters.,2021,"Qinghao Hu, Peng Sun, Shengen Yan, Yonggang Wen, Tianwei Zhang",CoRR abs/2109.01313 ,CORR,Unranked
+123,BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models.,2021,"Kangjie Chen, Yuxian Meng, Xiaofei Sun, Shangwei Guo, Tianwei Zhang, Jiwei Li, Chun Fan",CoRR abs/2110.02467 ,CORR,Unranked
+124,Fingerprinting Multi-exit Deep Neural Network Models via Inference Time.,2021,"Tian Dong, Han Qiu, Tianwei Zhang, Jiwei Li, Hewu Li, Jialiang Lu",CoRR abs/2110.03175 ,CORR,Unranked
+125,GNN-LM: Language Modeling based on Global Contexts via GNN.,2021,"Yuxian Meng, Shi Zong, Xiaoya Li, Xiaofei Sun, Tianwei Zhang, Fei Wu, Jiwei Li",CoRR abs/2110.08743 ,CORR,Unranked
+126,Interpreting Deep Learning Models in Natural Language Processing: A Review.,2021,"Xiaofei Sun, Diyi Yang, Xiaoya Li, Tianwei Zhang, Yuxian Meng, Han Qiu, Guoyin Wang, Eduard H. Hovy, Jiwei Li",CoRR abs/2110.10470 ,CORR,Unranked
+127,Triggerless Backdoor Attack for NLP Tasks with Clean Labels.,2021,"Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Shangwei Guo, Chun Fan",CoRR abs/2111.07970 ,CORR,Unranked
+128,A General Framework for Defending Against Backdoor Attacks via Influence Graph.,2021,"Xiaofei Sun, Jiwei Li, Xiaoya Li, Ziyao Wang, Tianwei Zhang, Han Qiu, Fei Wu, Chun Fan",CoRR abs/2111.14309 ,CORR,Unranked
+129,Protecting Your NLG Models with Semantic and Robust Watermarks.,2021,"Tao Xiang, Chunlong Xie, Shangwei Guo, Jiwei Li, Tianwei Zhang",CoRR abs/2112.05428 ,CORR,Unranked
+130,Faster Nearest Neighbor Machine Translation.,2021,"Shuhe Wang, Jiwei Li, Yuxian Meng, Rongbin Ouyang, Guoyin Wang, Xiaoya Li, Tianwei Zhang, Shi Zong",CoRR abs/2112.08152 ,CORR,Unranked
+131,Robust and Privacy-Preserving Collaborative Learning: A Comprehensive Survey.,2021,"Shangwei Guo, Xu Zhang, Fei Yang, Tianwei Zhang, Yan Gan, Tao Xiang, Yang Liu",CoRR abs/2112.10183 ,CORR,Unranked
+132,Stealthy and Efficient Adversarial Attacks against Deep Reinforcement Learning.,2020,"Jianwen Sun, Tianwei Zhang, Xiaofei Xie, Lei Ma, Yan Zheng, Kangjie Chen, Yang Liu",AAAI 2020: 5883-5891,AAAI,A*
+133,A Software Stack for Composable Cloud Robotics System.,2020,"Yuan Xu, Tianwei Zhang, Sa Wang, Yungang Bao",ICA3PP  2020: 705-720,ICA3PP,C
+134,Position Paper: Consider Hardware-enhanced Defenses for Rootkit Attacks.,2020,"Guangyuan Hu, Tianwei Zhang, Ruby B. Lee",HASP@MICRO 2020: 6:1-6:9,MICRO,Unranked
+135,Resisting Adversarial Examples via Wavelet Extension and Denoising.,2020,"Qinkai Zheng, Han Qiu, Tianwei Zhang, Gérard Memmi, Meikang Qiu, Jialiang Lu",SmartCom 2020: 204-214,SMARTCOM,Unranked
+136,Stealthy and Efficient Adversarial Attacks against Deep Reinforcement Learning.,2020,"Jianwen Sun, Tianwei Zhang, Xiaofei Xie, Lei Ma, Yan Zheng, Kangjie Chen, Yang Liu",CoRR abs/2005.07099 ,CORR,Unranked
+137,Mitigating Advanced Adversarial Attacks with More Advanced Gradient Obfuscation Techniques.,2020,"Han Qiu, Yi Zeng, Qinkai Zheng, Tianwei Zhang, Meikang Qiu, Gérard Memmi",CoRR abs/2005.13712 ,CORR,Unranked
+138,Stealing Deep Reinforcement Learning Models for Fun and Profit.,2020,"Kangjie Chen, Tianwei Zhang, Xiaofei Xie, Yang Liu",CoRR abs/2006.05032 ,CORR,Unranked
+139,Differentially Private Decentralized Learning.,2020,"Shangwei Guo, Tianwei Zhang, Tao Xiang, Yang Liu",CoRR abs/2006.07817 ,CORR,Unranked
+140,A Unified Framework for Analyzing and Detecting Malicious Examples of DNN Models.,2020,"Kaidi Jin, Tianwei Zhang, Chao Shen, Yufei Chen, Ming Fan, Chenhao Lin, Ting Liu",CoRR abs/2006.14871 ,CORR,Unranked
+141,Generating Adversarial Examples withControllable Non-transferability.,2020,"Renzhi Wang, Tianwei Zhang, Xiaofei Xie, Lei Ma, Cong Tian, Felix Juefei-Xu, Yang Liu",CoRR abs/2007.01299 ,CORR,Unranked
+142,The Hidden Vulnerability of Watermarking for Deep Neural Networks.,2020,"Shangwei Guo, Tianwei Zhang, Han Qiu, Yi Zeng, Tao Xiang, Yang Liu",CoRR abs/2009.08697 ,CORR,Unranked
+143,Privacy-preserving Collaborative Learning with Automatic Transformation Search.,2020,"Wei Gao, Shangwei Guo, Tianwei Zhang, Han Qiu, Yonggang Wen, Yang Liu",CoRR abs/2011.12505 ,CORR,Unranked
+144,FenceBox: A Platform for Defeating Adversarial Examples with Data Augmentation Techniques.,2020,"Han Qiu, Yi Zeng, Tianwei Zhang, Yong Jiang, Meikang Qiu",CoRR abs/2012.01701 ,CORR,Unranked
+145,DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation.,2020,"Yi Zeng, Han Qiu, Shangwei Guo, Tianwei Zhang, Meikang Qiu, Bhavani Thuraisingham",CoRR abs/2012.07006 ,CORR,Unranked
+146,Model inversion attacks against collaborative inference.,2019,"Zecheng He, Tianwei Zhang, Ruby B. Lee",ACSAC 2019: 148-162,ACSAC,A
+147,Sensitive-Sample Fingerprinting of Deep Neural Networks.,2019,"Zecheng He, Tianwei Zhang, Ruby B. Lee",CVPR 2019: 4729-4737,CVPR,A*
+148,Revisiting and Evaluating Software Side-channel Vulnerabilities and Countermeasures in Cryptographic Applications.,2019,"Tianwei Zhang, Jun Jiang, Yinqian Zhang",CoRR abs/1911.09312 ,CORR,Unranked
+149,"Design, Implementation and Verification of Cloud Architecture for Monitoring a Virtual Machine's Security Health.",2018,"Tianwei Zhang, Ruby B. Lee",IEEE Trans. Computers 67: 799-815 ,TC,Unranked
+150,Analyzing Cache Side Channels Using Deep Neural Networks.,2018,"Tianwei Zhang, Yinqian Zhang, Ruby B. Lee",ACSAC 2018: 174-186,ACSAC,A
+151,IcoRating: A Deep-Learning System for Scam ICO Identification.,2018,"Shuqing Bian, Zhenpeng Deng, Fei Li, Will Monroe, Peng Shi, Zijun Sun, Wei Wu, Sikuang Wang, William Yang Wang, Arianna Yuan, Tianwei Zhang, Jiwei Li",CoRR abs/1803.03670 ,CORR,Unranked
+152,Practical and Scalable Security Verification of Secure Architectures.,2018,"Jakub Szefer, Tianwei Zhang, Ruby B. Lee",CoRR abs/1807.01854 ,CORR,Unranked
+153,Privacy-preserving Machine Learning through Data Obfuscation.,2018,"Tianwei Zhang, Zecheng He, Ruby B. Lee",CoRR abs/1807.01860 ,CORR,Unranked
+154,VerIDeep: Verifying Integrity of Deep Neural Networks through Sensitive-Sample Fingerprinting.,2018,"Zecheng He, Tianwei Zhang, Ruby B. Lee",CoRR abs/1808.03277 ,CORR,Unranked
+155,DoS Attacks on Your Memory in Cloud.,2017,"Tianwei Zhang, Yinqian Zhang, Ruby B. Lee",AsiaCCS 2017: 253-265,CCS,A*
+156,Machine Learning Based DDoS Attack Detection from Source Side in Cloud.,2017,"Zecheng He, Tianwei Zhang, Ruby B. Lee",CSCloud 2017: 114-120,CSCLOUD,Unranked
+157,CloudShelter: Protecting Virtual Machines' Memory Resource Availability in Clouds.,2017,"Tianwei Zhang, Yuan Xu, Yungang Bao, Ruby B. Lee",ICCD 2017: 557-564,ICCD,Unranked
+158,Host-Based Dos Attacks and Defense in the Cloud.,2017,"Tianwei Zhang, Ruby B. Lee",HASP@ISCA 2017: 3:1-3:8,ISCA,A*
+159,Monitoring and Attestation of Virtual Machine Security Health in Cloud Computing.,2016,"Tianwei Zhang, Ruby B. Lee",IEEE Micro 36: 28-37 ,MICRO,Unranked
+160,CloudRadar: A Real-Time Side-Channel Attack Detection System in Clouds.,2016,"Tianwei Zhang, Yinqian Zhang, Ruby B. Lee",RAID 2016: 118-140,RAID,A
+161,Memory DoS Attacks in Multi-tenant Clouds: Severity and Mitigation.,2016,"Tianwei Zhang, Yinqian Zhang, Ruby B. Lee",CoRR abs/1603.03404 ,CORR,Unranked
+162,CloudMonatt: an architecture for security health monitoring and attestation of virtual machines in cloud computing.,2015,"Tianwei Zhang, Ruby B. Lee",ISCA 2015: 362-374,ISCA,A*
+163,New models of cache architectures characterizing information leakage from cache side channels.,2014,"Tianwei Zhang, Ruby B. Lee",ACSAC 2014: 96-105,ACSAC,A
+164,A Framework for Realizing Security on Demand in Cloud Computing.,2013,"Pramod A. Jamkhedkar, Jakub Szefer, Diego Perez-Botero, Tianwei Zhang, Gina Triolo, Ruby B. Lee",CloudCom  2013: 371-378,CLOUDCOM,Unranked
+165,Side channel vulnerability metrics: the promise and the pitfalls.,2013,"Tianwei Zhang, Fangfei Liu, Si Chen, Ruby B. Lee",HASP@ISCA 2013: 2,ISCA,A*
+166,Security verification of hardware-enabled attestation protocols.,2012,"Tianwei Zhang, Jakub Szefer, Ruby B. Lee",MICRO Workshops 2012: 47-54,MICRO,Unranked

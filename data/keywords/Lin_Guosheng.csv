@@ -1,0 +1,4 @@
+,Overall,2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012
+0,semantic segmentation,,a single image,text,point clouds,recipe generation,canet,scene text detection,semantic segmentation,deep structured models,cnn features,decision trees,a general two-step approach,
+1,weakly supervised semantic segmentation,,neural vector fields,crcnet,weakly supervised semantic segmentation,crnet: cross-reference networks,class-agnostic segmentation networks,semantic segmentation,structured learning,semantic segmentation,image segmentation,fast supervised hashing,learning-based hashing,
+2,point clouds,,3d cinemagraphy,few-shot segmentation,cyclesegnet,bottom-up and top-down cues,iterative refinement,markov,weakly supervised semantic segmentation,fast training,deep convolutional neural fields,high-dimensional data,hash functions,
