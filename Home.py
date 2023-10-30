@@ -8,6 +8,7 @@ import altair as alt
 import pandas as pd
 import ast
 from functions import *
+import os
 
 home_folder = './'
 
@@ -37,17 +38,20 @@ else:
     # with st.expander(selected_prof):
     #     # fields include: email, ORCID (?), personal website(?), research interest keywords, total num of citations
     #     st.write('You selected:', selected_prof)
-    keywords_list = set(prof_data["Keywords"].split(", "))
-    interest_list = set(ast.literal_eval(prof_data["Research Interest"]))
-    combined_set = keywords_list.union(interest_list) 
-    affiliation_list = ast.literal_eval(prof_data["Affiliation"])
+    if not pd.isna(prof_data["Affiliation"]):
+        affiliation_list = ast.literal_eval(prof_data["Affiliation"])
+    else:
+        affiliation_list = []
     c0 = st.container()
     c01 = c0.container()
     col011, col012 = c01.columns([0.2, 0.8])
     col011.image(prof_data["Picture"])
     col012.header("Professor {}".format(selected_prof))
     col0121, col0122 = col012.columns(2)
-    col0121.metric("Total Citations", int(prof_data["Citations"]))
+    if not pd.isna(prof_data["Citations"]):
+        col0121.metric("Total Citations", int(prof_data["Citations"]))
+    else:
+        col0121.metric("Total Citations", '--')
     col0122.metric("Average Rank of Conferences (CORE2023)", prof_data["Overall Rank"])
 
     c02 = c0.container()
@@ -57,12 +61,19 @@ else:
         for affiliation in affiliation_list:
             c02.markdown("- {}".format(affiliation))
     with c02:
-        tagger_component("Research Interests", list(combined_set))
+        if not pd.isna(prof_data["Keywords"]):
+            keywords_list = set(prof_data["Keywords"].split(", "))
+            interest_list = set(ast.literal_eval(prof_data["Research Interest"]))
+            combined_set = keywords_list.union(interest_list) 
+            tagger_component("Research Interests", list(combined_set))
         
     # read the professor's csv or json file
     # table includes: paper name, year, journal / conference
     csv_name = selected_prof.strip().replace(" ", "_")+".csv"
-    prof_df = pd.read_csv(home_folder+"data/papers/"+csv_name,  index_col=0)
+    if os.path.exists(home_folder+"data/papers/"+csv_name):
+        prof_df = pd.read_csv(home_folder+"data/papers/"+csv_name,  index_col=0)
+    else:
+        prof_df = pd.DataFrame(columns=['Title','Year','Authors','Journal','Journal Acronym','Rank'])
     # prof_df["Year"] = prof_df["Year"].map(str)
     # st.dataframe(prof_df,use_container_width=True)
     gb = GridOptionsBuilder.from_dataframe(prof_df)
@@ -149,26 +160,32 @@ else:
     c2 = st.container()
     c2.header("Analysis of keyword topics in the research")
     png_name = selected_prof.strip().replace(" ", "_")+".png"
-    c2.image(home_folder+"data/wordclouds/"+png_name, width=600)
+    if os.path.exists(home_folder+"data/wordclouds/"+png_name):
+        c2.image(home_folder+"data/wordclouds/"+png_name, width=600)
+    else:
+        c2.write("Insufficient word frequency")
 
     # temporal analysis of changing interests
-    topwords_table = pd.read_csv(home_folder+"data/keywords/"+csv_name,  index_col=0)
-    c2.subheader("Top 3 Most Frequent Keywords each year")
-    c2.write("Words must have appeared at least twice")
-    c2.dataframe(topwords_table)
+    if os.path.exists(home_folder+"data/keywords/"+csv_name):
+        topwords_table = pd.read_csv(home_folder+"data/keywords/"+csv_name,  index_col=0)
+        c2.subheader("Top 3 Most Frequent Keywords each year")
+        c2.write("Words must have appeared at least twice")
+        c2.dataframe(topwords_table)
 
     # graph network of coauthor index
-    c3 = st.container()
-    c3.header("Graph Network of Co-authors")
-    col31, col32 = c3.columns([0.9, 0.1])
-    with col31:
-        html_name = selected_prof.strip().replace(" ", "_")+".html"
-        HtmlFile = open(home_folder+"data/graphs/"+html_name, 'r', encoding='utf-8')
-        source_code = HtmlFile.read() 
-        components.html(source_code, height = 900,width=900)
-    ## legend for the button
-    with col32:
-        st.write("Legend:")
-        st.markdown("<span style='background-color:rgb(221, 75, 57)'>From SCSE</span>", unsafe_allow_html=True)
-        st.markdown("<span style='background-color:rgb(141, 206, 235)'>Not from SCSE</span>", unsafe_allow_html=True)
+    html_name = selected_prof.strip().replace(" ", "_")+".html"
+    if os.path.exists(home_folder+"data/graphs/"+html_name):
+        c3 = st.container()
+        c3.header("Graph Network of Co-authors")
+        col31, col32 = c3.columns([0.9, 0.1])
+        with col31:
+            
+            HtmlFile = open(home_folder+"data/graphs/"+html_name, 'r', encoding='utf-8')
+            source_code = HtmlFile.read() 
+            components.html(source_code, height = 900,width=900)
+        ## legend for the button
+        with col32:
+            st.write("Legend:")
+            st.markdown("<span style='background-color:rgb(221, 75, 57)'>From SCSE</span>", unsafe_allow_html=True)
+            st.markdown("<span style='background-color:rgb(141, 206, 235)'>Not from SCSE</span>", unsafe_allow_html=True)
 
