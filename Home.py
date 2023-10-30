@@ -127,6 +127,23 @@ else:
     )
     c1.subheader("Number of Papers published by venue rank")
     c1.altair_chart(rank_chart, use_container_width=True)
+
+    # temporal analysis of changing rank
+    line_data = prof_df.loc[:,['Year', 'Rank']]
+    line_data["score"] =line_data["Rank"].map({"A*": 5, "A":4, "B":3, "C":2})
+    line_data = line_data.groupby("Year")["score"].mean().reset_index()
+    line_data["score"].fillna(0, inplace=True)
+    line_data["Average Rank"] = line_data["score"].apply(score_to_rank)
+    # st.dataframe(line_data)
+    axis_labels = (
+        "datum.label == 4 ? 'A*' : datum.label == 3 ? 'A' : datum.label == 2 ? 'B' : datum.label == 1 ? 'C' : 'No Rank'"
+    )
+    yearly_rank_chart = alt.Chart(data=line_data).mark_line().encode(
+        x=alt.X('Year:O'),
+        y=alt.Y('Average Rank:Q',axis=alt.Axis( tickCount=5, labelExpr=axis_labels), scale=alt.Scale(domain=[0, 4])),
+    )
+    c1.subheader("Yearly average venue rank")
+    c1.altair_chart(yearly_rank_chart, use_container_width=True)
     
     # wordcloud of keywords
     c2 = st.container()
@@ -137,6 +154,7 @@ else:
     # temporal analysis of changing interests
     topwords_table = pd.read_csv(home_folder+"data/keywords/"+csv_name,  index_col=0)
     c2.subheader("Top 3 Most Frequent Keywords each year")
+    c2.write("Words must have appeared at least twice")
     c2.dataframe(topwords_table)
 
     # graph network of coauthor index

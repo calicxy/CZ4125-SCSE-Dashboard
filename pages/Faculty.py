@@ -64,7 +64,7 @@ c2 = st.container()
 # overall wordcloud
 c3 = st.container()
 c3.header("Wordcloud of keywords in research")
-c3.image(home_folder+"data/overall_wordcloud.png", width=900)
+c3.image(home_folder+"data/overall_wordcloud.png", width=800)
 
 # graph network of coatuhors (label SCSE vs non-SCSE profs)
 # with katz centrality, and louvain community detection
@@ -72,12 +72,12 @@ c3.image(home_folder+"data/overall_wordcloud.png", width=900)
 katz_series = pd.read_csv(home_folder+"data/katz_series.csv", index_col=0, header=0)
 c4 = st.container()
 c4.header("Graph analysis of SCSE Professors")
-col41, col42 = c4.columns([0.7,0.3])
-HtmlFile = open(home_folder+"data/overall_graph.html", 'r', encoding='utf-8')
-source_code = HtmlFile.read() 
+col41, col42 = c4.columns([0.75,0.25])
 with col41:
-    components.html(source_code, height=800,width=800)
-col42.dataframe(katz_series, height=650)
+    HtmlFile = open(home_folder+"data/overall_graph.html", 'r', encoding='utf-8')
+    source_code = HtmlFile.read() 
+    components.html(source_code, height=800, width=750)
+col42.dataframe(katz_series, height=650, use_container_width=True)
 
 # c5 = st.container()
 # c5.subheader("Wordclouds of each community")

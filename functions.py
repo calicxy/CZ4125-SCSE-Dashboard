@@ -2,6 +2,17 @@ import pandas as pd
 import numpy as np
 import spacy
 
+def score_to_rank(mean_score):
+    if mean_score >= 4.5:
+        return(4)
+    elif mean_score > 3.5:
+        return(3)
+    elif mean_score > 2.5:
+        return(2)
+    elif mean_score > 1.5:
+        return(1)
+    else:
+        return(0)
 
 
 def count_words(df):
