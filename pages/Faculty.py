@@ -64,7 +64,7 @@ c2 = st.container()
 # overall wordcloud
 c3 = st.container()
 c3.header("Wordcloud of keywords in research")
-c3.image(home_folder+"data/overall_wordcloud.png", width=600)
+c3.image(home_folder+"data/overall_wordcloud.png", width=700)
 
 # graph network of coatuhors (label SCSE vs non-SCSE profs)
 # with katz centrality, and louvain community detection
